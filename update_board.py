@@ -20,7 +20,7 @@ def main():
     prompt = f"Fecha: {today}. Genera un JSON para el tablero 'FIN DEL MUNDO - TABLERO DE PROBABILIDADES'. Usa noticias reales. Incluye 'lastUpdated', 'ticker' (lista de noticias cortas) y 'sections' (lista con 'flag', 'label' y 'rows'). En 'rows' cada objeto debe tener 'event', 'odds', 'moved' (up/down/none) y 'params'. Redacta en español mexicano."
 
     payload = {
-        "model": "llama3-70b-8192",
+        "model": "llama-3.3-70b-versatile",
         "messages": [
             {"role": "system", "content": "Eres un analista geopolítico. Respondes SOLO con JSON válido."},
             {"role": "user", "content": prompt}
