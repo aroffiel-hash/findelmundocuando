@@ -1,34 +1,36 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="es-MX">
 <head>
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <title>¿Fin del Mundo Cuándo?</title>
-<script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
-<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
-<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=IBM+Plex+Mono:wght@400;600;700&display=swap" rel="stylesheet"/>
+<script crossorigin src="[https://unpkg.com/react@18/umd/react.production.min.js](https://unpkg.com/react@18/umd/react.production.min.js)"></script>
+<script crossorigin src="[https://unpkg.com/react-dom@18/umd/react-dom.production.min.js](https://unpkg.com/react-dom@18/umd/react-dom.production.min.js)"></script>
+<script src="[https://unpkg.com/@babel/standalone/babel.min.js](https://unpkg.com/@babel/standalone/babel.min.js)"></script>
+<link href="[https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=IBM+Plex+Mono:wght@400;600;700&display=swap](https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=IBM+Plex+Mono:wght@400;600;700&display=swap)" rel="stylesheet"/>
 <style>
 *{box-sizing:border-box;margin:0;padding:0;}
-body{background:#0d0d0d;font-family:'IBM Plex Mono',monospace;}
+body{background:#0d0d0d;font-family:'IBM Plex Mono',monospace; overflow-x: hidden;}
 button{cursor:pointer;font-family:'IBM Plex Mono',monospace;}
-::-webkit-scrollbar{width:4px;}
-::-webkit-scrollbar-thumb{background:#C8BFA8;border-radius:2px;}
+::-webkit-scrollbar{width:6px;}
+::-webkit-scrollbar-thumb{background:#C8BFA8;border-radius:3px;}
 @keyframes shimmer{0%{background-position:-400px 0}100%{background-position:400px 0}}
-@keyframes spin{to{transform:rotate(360deg)}}
 .sk{background:linear-gradient(90deg,#1a1a1a 25%,#252525 50%,#1a1a1a 75%);background-size:800px 100%;animation:shimmer 1.5s infinite;}
 
-/* Layout */
-.layout{display:flex;align-items:flex-start;max-width:1280px;margin:0 auto;}
-.col-main{flex:1;min-width:0;background:#F5F0E8;}
-.col-aside{width:320px;flex-shrink:0;background:#F5F0E8;border-left:2px solid #D4C9B0;align-self:flex-start;}
+/* Layout Mejorado para resoluciones grandes */
+.layout{display:flex;align-items:flex-start;max-width:1440px;margin:0 auto; transition: zoom 0.2s ease;}
+.col-main{flex:1;min-width:0;background:#F5F0E8; box-shadow: 10px 0 20px rgba(0,0,0,0.05);}
+.col-aside{width:360px;flex-shrink:0;background:#F5F0E8;border-left:2px solid #D4C9B0;align-self:stretch;}
 
-@media(max-width:899px){
+.scale-btn { background: #0d0d0d; color: #8AACCF; border: 1px solid #8AACCF; padding: 2px 8px; border-radius: 4px; font-weight: bold; margin-left: 5px;}
+.scale-btn:hover { background: #8AACCF; color: #0d0d0d; }
+
+@media(max-width:1024px){
   .layout{display:block;}
   .col-aside{display:none;}
   .mob{display:block;}
 }
-@media(min-width:900px){
+@media(min-width:1025px){
   .mob{display:none;}
 }
 </style>
@@ -38,7 +40,7 @@ button{cursor:pointer;font-family:'IBM Plex Mono',monospace;}
 <script type="text/babel">
 const {useState,useEffect,useRef,useMemo,useCallback}=React;
 
-const ACCENTS=["#1B3A6B","#7B1D1D","#1B5E38","#7B3A00","#3A005E","#004E6B","#6B1B3A","#5E3A00","#1B3A6B","#2C5F2E","#6B1B00","#003D6B","#3D5E1B","#5E4A00"];
+const ACCENTS=["#1B3A6B","#7B1D1D","#1B5E38","#7B3A00","#3A005E","#004E6B","#6B1B3A","#5E3A00"];
 
 function pct(odds){
   if(!odds||odds==="LIQUIDADO") return null;
@@ -47,15 +49,6 @@ function pct(odds){
   return n<0?Math.round(Math.abs(n)/(Math.abs(n)+100)*100):Math.round(100/(n+100)*100);
 }
 function pc(p){return p===null?"#999":p>=60?"#1B5E38":p>=30?"#7B4A00":"#7B1D1D";}
-
-async function wikiImg(title){
-  try{
-    const r=await fetch(`https://en.wikipedia.org/w/api.php?action=query&titles=${encodeURIComponent(title)}&prop=pageimages&format=json&pithumbsize=640&origin=*`);
-    const d=await r.json();
-    const pg=Object.values(d?.query?.pages||{})[0];
-    return pg?.thumbnail?.source||null;
-  }catch{return null;}
-}
 
 function Ticker({items}){
   const ref=useRef();const pos=useRef(0);const raf=useRef();
@@ -70,9 +63,9 @@ function Ticker({items}){
   if(!items?.length)return null;
   const list=[...items,...items];
   return(
-    <div style={{background:"#7B1D1D",overflow:"hidden",height:32,display:"flex",alignItems:"center"}}>
+    <div style={{background:"#7B1D1D",overflow:"hidden",height:34,display:"flex",alignItems:"center", borderBottom:"2px solid #5A1010"}}>
       <div ref={ref} style={{display:"flex",whiteSpace:"nowrap",willChange:"transform"}}>
-        {list.map((t,i)=><span key={i} style={{fontSize:11,fontWeight:600,color:"#FFD09A",paddingRight:60,flexShrink:0}}>{t}</span>)}
+        {list.map((t,i)=><span key={i} style={{fontSize:12,fontWeight:600,color:"#FFD09A",paddingRight:60,flexShrink:0}}>{t}</span>)}
       </div>
     </div>
   );
@@ -87,290 +80,26 @@ function Card({row,even}){
   const oddsBg=settled?"#FDF0E0":fav?"#EBF7EF":"#EBF0FA";
   const params=row.params||"";
   return(
-    <div style={{background:settled?"#FBF7EE":even?"#FAF7F2":"#F5F0E8",borderBottom:"1px solid #E4DDD0",padding:"11px 15px",opacity:settled?.72:1}}>
-      <div style={{marginBottom:6,display:"flex",alignItems:"flex-start",gap:6,flexWrap:"wrap"}}>
-        <span style={{fontSize:12,fontWeight:600,color:settled?"#999":"#1A1A1A",textDecoration:settled?"line-through":"none",lineHeight:1.4,flex:1}}>{row.event}</span>
-        {row.moved&&row.moved!=="none"&&<span style={{fontSize:8,fontWeight:700,padding:"2px 4px",borderRadius:2,background:row.moved==="down"?"#EBF7EF":"#FDF0F0",color:row.moved==="down"?"#1B5E38":"#7B1D1D",border:`1px solid ${row.moved==="down"?"#B0DAC0":"#E8B0B0"}`,flexShrink:0}}>{row.moved==="down"?"▼ ACORT.":"▲ ALARG."}</span>}
+    <div style={{background:settled?"#FBF7EE":even?"#FAF7F2":"#F5F0E8",borderBottom:"1px solid #E4DDD0",padding:"14px 18px",opacity:settled?.72:1}}>
+      <div style={{marginBottom:8,display:"flex",alignItems:"flex-start",gap:8,flexWrap:"wrap"}}>
+        <span style={{fontSize:13,fontWeight:600,color:settled?"#999":"#1A1A1A",textDecoration:settled?"line-through":"none",lineHeight:1.4,flex:1}}>{row.event}</span>
+        {row.moved&&row.moved!=="none"&&<span style={{fontSize:9,fontWeight:700,padding:"3px 6px",borderRadius:2,background:row.moved==="down"?"#EBF7EF":"#FDF0F0",color:row.moved==="down"?"#1B5E38":"#7B1D1D",border:`1px solid ${row.moved==="down"?"#B0DAC0":"#E8B0B0"}`,flexShrink:0}}>{row.moved==="down"?"▼ BAJÓ":"▲ SUBIÓ"}</span>}
       </div>
-      <div style={{display:"flex",alignItems:"center",gap:8,marginBottom:6}}>
+      <div style={{display:"flex",alignItems:"center",gap:10,marginBottom:6}}>
         {settled
-          ?<span style={{fontFamily:"'Playfair Display',serif",color:"#7B1D1D",fontSize:12,fontWeight:700,background:"#FDF0E0",padding:"3px 10px",borderRadius:3,border:"1px solid #E8C890"}}>✓ LIQUIDADO</span>
-          :<><div style={{background:oddsBg,border:`1.5px solid ${oddsColor}44`,borderRadius:4,color:oddsColor,fontSize:15,fontWeight:700,width:82,textAlign:"center",padding:"4px 0",flexShrink:0}}>{row.odds}</div>
-            <div style={{fontSize:14,fontWeight:700,color:pc(p),minWidth:38,textAlign:"center",flexShrink:0}}>{p!==null?`${p}%`:"—"}</div>
-            <div style={{flex:1,height:4,borderRadius:2,background:`linear-gradient(to right,${pc(p)} ${p||0}%,#E0D8C8 ${p||0}%)`,opacity:.7}}/></>}
+          ?<span style={{fontFamily:"'Playfair Display',serif",color:"#7B1D1D",fontSize:13,fontWeight:700,background:"#FDF0E0",padding:"4px 12px",borderRadius:3,border:"1px solid #E8C890"}}>✓ CERRADO</span>
+          :<><div style={{background:oddsBg,border:`1.5px solid ${oddsColor}44`,borderRadius:4,color:oddsColor,fontSize:16,fontWeight:700,width:86,textAlign:"center",padding:"5px 0",flexShrink:0}}>{row.odds}</div>
+            <div style={{fontSize:15,fontWeight:700,color:pc(p),minWidth:42,textAlign:"center",flexShrink:0}}>{p!==null?`${p}%`:"—"}</div>
+            <div style={{flex:1,height:6,borderRadius:3,background:`linear-gradient(to right,${pc(p)} ${p||0}%,#E0D8C8 ${p||0}%)`,opacity:.8}}/></>}
       </div>
-      {params&&<div style={{fontSize:10,color:"#6A6055",lineHeight:1.6}}>{open||params.length<=120?params:`${params.slice(0,120)}…`}{params.length>120&&<button onClick={()=>setOpen(o=>!o)} style={{background:"none",border:"none",color:"#1B3A6B",fontSize:10,fontWeight:700,padding:"0 4px"}}>{open?" [−]":" [+]"}</button>}</div>}
-    </div>
-  );
-}
-
-function Carousel({cards}){
-  const [imgs,setImgs]=useState({});
-  const [cur,setCur]=useState(0);
-  const [fade,setFade]=useState(true);
-  const tim=useRef();
-
-  useEffect(()=>{
-    if(!cards?.length)return;
-    let dead=false;
-    (async()=>{
-      for(let i=0;i<cards.length;i++){
-        if(dead)break;
-        const u=await wikiImg(cards[i].wikiTitle);
-        if(!dead)setImgs(p=>({...p,[i]:u||"x"}));
-        await new Promise(r=>setTimeout(r,400));
-      }
-    })();
-    return()=>{dead=true;};
-  },[cards?.length]);
-
-  useEffect(()=>{
-    if(!cards?.length)return;
-    tim.current=setInterval(()=>{setFade(false);setTimeout(()=>{setCur(c=>(c+1)%cards.length);setFade(true);},200);},6500);
-    return()=>clearInterval(tim.current);
-  },[cards?.length]);
-
-  const go=useCallback((i)=>{
-    clearInterval(tim.current);setFade(false);
-    setTimeout(()=>{setCur(i);setFade(true);},200);
-    tim.current=setInterval(()=>{setFade(false);setTimeout(()=>{setCur(c=>(c+1)%cards.length);setFade(true);},200);},6500);
-  },[cards?.length]);
-
-  if(!cards?.length)return null;
-  const c=cards[cur];
-  const img=imgs[cur];
-  const url=img&&img!=="x"?img:null;
-
-  return(
-    <div style={{borderBottom:"3px solid #7B1D1D"}}>
-      <div style={{position:"relative",height:200,overflow:"hidden",opacity:fade?1:0,transition:"opacity .2s",background:"#111"}}>
-        {!img&&<div className="sk" style={{width:"100%",height:"100%",display:"flex",alignItems:"center",justifyContent:"center"}}><span style={{fontSize:10,color:"#333",letterSpacing:1}}>⟳</span></div>}
-        {img&&url&&<img src={url} alt="" style={{width:"100%",height:"100%",objectFit:"cover"}} onError={()=>setImgs(p=>({...p,[cur]:"x"}))}/>}
-        {img&&!url&&<div style={{width:"100%",height:"100%",background:`linear-gradient(135deg,${c.tagColor||"#1B3A6B"}20,#050505)`,display:"flex",alignItems:"center",justifyContent:"center"}}><span style={{fontSize:44,opacity:.2}}>{c.icon||"🌍"}</span></div>}
-        <div style={{position:"absolute",inset:0,background:"linear-gradient(to top,rgba(0,0,0,.92) 0%,transparent 60%)",pointerEvents:"none"}}/>
-        <div style={{position:"absolute",top:9,left:11,background:c.tagColor||"#333",color:"#fff",fontSize:9,fontWeight:700,letterSpacing:1.5,padding:"2px 7px",borderRadius:2}}>{c.tag}</div>
-        <div style={{position:"absolute",top:9,right:11,background:"rgba(0,0,0,.6)",color:"#555",fontSize:8,padding:"2px 5px",borderRadius:2}}>{!img?"⟳":url?"📷 WIKI":"···"}</div>
-        <div style={{position:"absolute",bottom:0,left:0,right:0,padding:"7px 12px"}}>
-          <div style={{fontFamily:"'Playfair Display',serif",fontSize:13,fontWeight:700,color:"#F0EDE6",lineHeight:1.3,marginBottom:2}}>{c.headline}</div>
-          <div style={{fontSize:9,color:"#BBB",lineHeight:1.4}}>{c.sub}</div>
-        </div>
-      </div>
-      <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",padding:"5px 11px",background:"#111"}}>
-        <button onClick={()=>go((cur-1+cards.length)%cards.length)} style={{background:"none",border:"1px solid #2a2a2a",color:"#555",fontSize:10,padding:"3px 8px",borderRadius:2}}>◀</button>
-        <div style={{display:"flex",gap:4}}>{cards.map((_,i)=><button key={i} onClick={()=>go(i)} style={{width:i===cur?18:6,height:6,borderRadius:3,background:i===cur?(c.tagColor||"#7B1D1D"):"#2a2a2a",border:"none",padding:0,transition:"width .25s"}}/>)}</div>
-        <button onClick={()=>go((cur+1)%cards.length)} style={{background:"none",border:"1px solid #2a2a2a",color:"#555",fontSize:10,padding:"3px 8px",borderRadius:2}}>▶</button>
-      </div>
-      <div style={{padding:"2px 11px 5px",background:"#0a0a0a",fontSize:8,color:"#333"}}>{c.credit||""} · {cur+1}/{cards.length} · Wikimedia Commons</div>
+      {params&&<div style={{fontSize:11,color:"#6A6055",lineHeight:1.6, marginTop:8}}>{open||params.length<=130?params:`${params.slice(0,130)}…`}{params.length>130&&<button onClick={()=>setOpen(o=>!o)} style={{background:"none",border:"none",color:"#1B3A6B",fontSize:11,fontWeight:700,padding:"0 4px"}}>{open?" [Menos]":" [Más]"}</button>}</div>}
     </div>
   );
 }
 
 function Aside({data,sections}){
-  const cards=useMemo(()=>{
-    if(data?.newsCards?.length)return data.newsCards;
-    const wm={"🇮🇷":"Tehran","🇺🇸":"United States Capitol","🇨🇳":"Beijing","🇷🇺":"Vladimir Putin","🇺🇦":"Volodymyr Zelensky","🇹🇼":"William Lai","🇵🇰":"Karachi","💰":"Oil tanker","🌍":"World map","🎲":"Las Vegas"};
-    return(sections||[]).slice(0,8).map((s,i)=>{
-      const rows=s.rows||s.items||[];
-      return{tag:s.label,tagColor:ACCENTS[i%ACCENTS.length],headline:rows[0]?.event||s.label,sub:(rows[0]?.params||"").slice(0,80),credit:"OSINT Terminal",wikiTitle:wm[s.flag]||s.label,icon:s.flag||"🌍"};
-    });
-  },[data?.newsCards,sections]);
-
-  const breaking=useMemo(()=>{
-    if(data?.breakingNews?.length)return data.breakingNews;
-    return(data?.ticker||[]).slice(0,5).map(t=>({icon:t[0]||"⚡",text:t.slice(2).trim()}));
-  },[data]);
-
+  const breaking=data?.ticker?.slice(0,5).map(t=>({icon:t[0]||"⚡",text:t.slice(2).trim()})) || [];
   const keyOdds=useMemo(()=>{
-    if(data?.keyOdds?.length)return data.keyOdds;
     const all=[];
     (sections||[]).forEach(s=>(s.rows||s.items||[]).forEach(r=>{
-      if(r.odds&&r.odds!=="LIQUIDADO"){const n=parseFloat(r.odds);if(!isNaN(n))all.push({label:r.event,odds:r.odds,p:pct(r.odds),n});}
-    }));
-    return[...all.filter(r=>r.n<0).sort((a,b)=>a.n-b.n).slice(0,3),...all.filter(r=>r.n>0).sort((a,b)=>a.n-b.n).slice(0,2)];
-  },[data?.keyOdds,sections]);
-
-  const risks=[
-    {l:"Nuclear / Radiológico",kw:["nuclear","arma"],fb:19},
-    {l:"Energía · Petróleo",kw:["petróleo","brent","barril"],fb:55},
-    {l:"Peso Mexicano",kw:["peso","mxn"],fb:38},
-    {l:"Escenario Taiwán",kw:["taiwán","bloqueo"],fb:22},
-  ].map(d=>{
-    let v=d.fb;
-    (sections||[]).forEach(s=>(s.rows||s.items||[]).forEach(r=>{
-      if(d.kw.some(k=>r.event?.toLowerCase().includes(k))){const p2=pct(r.odds);if(p2!==null)v=p2;}
-    }));
-    return{...d,v};
-  });
-
-  const BOX={padding:"12px 14px",borderBottom:"1px solid #E4DDD0"};
-  const TITLE={fontFamily:"'Playfair Display',serif",fontSize:11,fontWeight:700,letterSpacing:1.4,textTransform:"uppercase",marginBottom:8};
-
-  return(
-    <div className="col-aside">
-      <div style={{background:"#1A1A1A",padding:"9px 14px",borderBottom:"1px solid #222"}}>
-        <div style={{...TITLE,color:"#F5F0E8",marginBottom:2}}>📷 En el Terreno</div>
-        <div style={{fontSize:8,color:"#555",letterSpacing:.5}}>IMÁGENES VÍA WIKIMEDIA COMMONS</div>
-      </div>
-
-      <Carousel cards={cards}/>
-
-      <div style={{...BOX,background:"#F5F0E8"}}>
-        <div style={{...TITLE,color:"#7B1D1D"}}>Última Hora</div>
-        {breaking.map((item,i)=>(
-          <div key={i} style={{display:"flex",gap:7,marginBottom:6,alignItems:"flex-start"}}>
-            <span style={{flexShrink:0}}>{item.icon||"⚡"}</span>
-            <span style={{fontSize:10,color:"#3A3A3A",lineHeight:1.5}}>{item.text}</span>
-          </div>
-        ))}
-      </div>
-
-      <div style={{...BOX,background:"#F0EDE6"}}>
-        <div style={{...TITLE,color:"#1B3A6B"}}>Cuotas Clave</div>
-        {keyOdds.map((item,i)=>{
-          const fav=String(item.odds||"").startsWith("-");
-          const p2=item.pct??item.p??pct(item.odds);
-          return(
-            <div key={i} style={{display:"flex",alignItems:"center",gap:6,marginBottom:7}}>
-              <span style={{fontSize:9.5,color:"#555",flex:1,lineHeight:1.4}}>{String(item.label||"").slice(0,42)}{(item.label||"").length>42?"…":""}</span>
-              <span style={{fontSize:11,fontWeight:700,color:fav?"#1B5E38":"#1B3A6B",background:fav?"#EBF7EF":"#EBF0FA",padding:"1px 6px",borderRadius:3,flexShrink:0}}>{item.odds}</span>
-              <span style={{fontSize:10,fontWeight:700,color:pc(p2),minWidth:28,textAlign:"right"}}>{p2}%</span>
-            </div>
-          );
-        })}
-      </div>
-
-      <div style={{background:"#111",padding:"12px 14px"}}>
-        <div style={{fontSize:9,fontWeight:700,color:"#666",letterSpacing:1.5,textTransform:"uppercase",marginBottom:10}}>Riesgos Sistémicos</div>
-        {risks.map((r,i)=>(
-          <div key={i} style={{marginBottom:10}}>
-            <div style={{display:"flex",justifyContent:"space-between",fontSize:9.5,color:"#CCC",marginBottom:3}}>
-              <span>{r.l}</span><span style={{color:pc(r.v),fontWeight:700}}>{r.v}%</span>
-            </div>
-            <div style={{height:3,background:"#2a2a2a",borderRadius:2}}>
-              <div style={{width:`${r.v}%`,height:"100%",background:pc(r.v),borderRadius:2}}/>
-            </div>
-          </div>
-        ))}
-      </div>
-    </div>
-  );
-}
-
-function Sources({data}){
-  const upd=data?.lastUpdated||"—";
-  const srcs=data?.sources||[];
-  return(
-    <div style={{maxWidth:860,margin:"0 auto",padding:"20px 16px 60px",background:"#F5F0E8"}}>
-      <div style={{fontFamily:"'Playfair Display',serif",fontWeight:700,fontSize:15,color:"#1B3A6B",marginBottom:4}}>Fuentes y Metodología</div>
-      <div style={{fontSize:10,color:"#AAA",marginBottom:20}}>Actualizado: {upd}</div>
-      {data?.methodology&&<div style={{marginBottom:24,background:"#FDF8F0",border:"1px solid #DDD0B8",borderLeft:"4px solid #7B4A00",borderRadius:4,padding:"14px 16px"}}>
-        <div style={{fontFamily:"'Playfair Display',serif",fontSize:12,fontWeight:700,color:"#7B4A00",marginBottom:8}}>¿Cómo se calculan las cuotas?</div>
-        <p style={{fontSize:11.5,color:"#555",lineHeight:1.8,margin:"0 0 10px"}}>{data.methodology}</p>
-        <div style={{fontSize:10,color:"#6A5A3A",background:"#EDE7D8",padding:"8px 10px",borderRadius:3,lineHeight:1.6}}>⚠ Estas cuotas no son apuestas reales. Herramienta de análisis, no asesoramiento financiero.</div>
-      </div>}
-      {srcs.length>0&&srcs.map((s,i)=>(
-        <div key={i} style={{display:"flex",gap:10,marginBottom:16,paddingBottom:16,borderBottom:"1px solid #E0D8C8"}}>
-          <div style={{background:"#1B3A6B",color:"#fff",fontSize:9,fontWeight:700,borderRadius:2,padding:"2px 5px",flexShrink:0,alignSelf:"flex-start"}}>[{i+1}]</div>
-          <div>
-            <div style={{fontFamily:"'Playfair Display',serif",fontWeight:700,fontSize:13,color:"#1B3A6B",marginBottom:3}}>{s.name||s.title}</div>
-            <p style={{fontSize:11,color:"#444",lineHeight:1.7,margin:"0 0 4px"}}>{s.description||s.body}</p>
-            {(s.url||s.link)&&<a href={s.url||s.link} target="_blank" rel="noopener noreferrer" style={{color:"#1B3A6B",fontSize:9.5,wordBreak:"break-all"}}>{s.url||s.link}</a>}
-          </div>
-        </div>
-      ))}
-    </div>
-  );
-}
-
-function App(){
-  const [data,setData]=useState(null);
-  const [err,setErr]=useState(false);
-  const [tab,setTab]=useState("odds");
-  const [col,setCol]=useState(new Set());
-
-  useEffect(()=>{
-    const load=()=>fetch(`./data.json?t=${Date.now()}`).then(r=>{if(!r.ok)throw 0;return r.json();}).then(d=>{setData(d);setErr(false);}).catch(()=>setErr(true));
-    load();
-    const iv=setInterval(load,60000);
-    return()=>clearInterval(iv);
-  },[]);
-
-  if(!data&&!err)return<div style={{background:"#0d0d0d",height:"100vh",display:"flex",alignItems:"center",justifyContent:"center",flexDirection:"column",gap:10}}><span style={{fontSize:11,color:"#555",letterSpacing:2}}>INITIALIZING…</span></div>;
-  if(err&&!data)return<div style={{background:"#0d0d0d",height:"100vh",display:"flex",alignItems:"center",justifyContent:"center"}}><span style={{color:"#7B1D1D",fontSize:12,letterSpacing:1}}>✕ NO SE PUDO CARGAR data.json</span></div>;
-
-  const sections=data?.sections||[];
-  const ticker=data?.ticker||[];
-  const lastUpd=data?.lastUpdated||"—";
-  const total=sections.reduce((a,s)=>a+(s.rows||s.items||[]).length,0);
-  const liq=sections.reduce((a,s)=>a+(s.rows||s.items||[]).filter(r=>r.odds==="LIQUIDADO").length,0);
-
-  const tog=(i)=>setCol(p=>{const n=new Set(p);n.has(i)?n.delete(i):n.add(i);return n;});
-
-  const mobCards=data?.newsCards?.length?data.newsCards:sections.slice(0,6).map((s,i)=>{const rows=s.rows||s.items||[];return{tag:s.label,tagColor:ACCENTS[i%ACCENTS.length],headline:rows[0]?.event||s.label,sub:(rows[0]?.params||"").slice(0,80),credit:"OSINT",wikiTitle:s.label,icon:s.flag};});
-
-  return(
-    <div style={{background:"#F5F0E8",minHeight:"100vh"}}>
-      <div style={{background:"#1B3A6B",position:"sticky",top:0,zIndex:300,boxShadow:"0 2px 12px rgba(0,0,0,.4)"}}>
-        <div style={{maxWidth:1280,margin:"0 auto"}}>
-          <Ticker items={ticker}/>
-          <div style={{padding:"11px 20px 0"}}>
-            <div style={{fontFamily:"'Playfair Display',serif",fontSize:"clamp(15px,3vw,21px)",fontWeight:900,color:"#F5F0E8",lineHeight:1.1,marginBottom:2}}>TABLERO DE PROBABILIDADES</div>
-            <div style={{fontFamily:"'Playfair Display',serif",fontSize:"clamp(10px,1.8vw,13px)",fontWeight:600,color:"#8AACCF",marginBottom:3}}>CRISIS MUNDIAL · INTELIGENCIA EN TIEMPO REAL</div>
-            <div style={{fontSize:9,color:"#5A8AAF",letterSpacing:.3}}>{lastUpd} · {total} APUESTAS · {liq} LIQUIDADAS</div>
-            <div style={{display:"flex",marginTop:9}}>
-              {[{id:"odds",label:"📊 PROBABILIDADES"},{id:"sources",label:"📋 METODOLOGÍA"}].map(t=>(
-                <button key={t.id} onClick={()=>setTab(t.id)} style={{maxWidth:200,padding:"8px 14px",background:tab===t.id?"#F5F0E8":"transparent",border:"none",color:tab===t.id?"#1B3A6B":"#5A8AAF",fontSize:10.5,fontWeight:700,letterSpacing:.8,borderRadius:tab===t.id?"4px 4px 0 0":0,marginBottom:tab===t.id?"-1px":0}}>{t.label}</button>
-              ))}
-            </div>
-          </div>
-        </div>
-      </div>
-
-      {tab==="odds"?(
-        <>
-          <div className="mob"><Carousel cards={mobCards}/></div>
-          <div className="layout">
-            <div className="col-main">
-              <div style={{background:"#EAE4D8",padding:"5px 15px",borderBottom:"1px solid #C8BFA8",fontSize:9,color:"#888",display:"flex",gap:12}}>
-                <span><span style={{color:"#1B5E38"}}>■</span> favorito (−)</span>
-                <span><span style={{color:"#1B3A6B"}}>■</span> no favorito (+)</span>
-                <span>VERDE ≥60% · ORO 30-59% · ROJO &lt;30%</span>
-              </div>
-              {sections.map((sec,si)=>{
-                const accent=ACCENTS[si%ACCENTS.length];
-                const rows=sec.rows||sec.items||[];
-                const open=!col.has(si);
-                return(
-                  <div key={si} style={{marginTop:8}}>
-                    <div onClick={()=>tog(si)} style={{display:"flex",alignItems:"center",justifyContent:"space-between",padding:"9px 15px",background:"#EEEAE2",borderTop:`3px solid ${accent}`,borderBottom:"1px solid #D4C9B0",cursor:"pointer",userSelect:"none"}}>
-                      <div style={{display:"flex",alignItems:"center",gap:8}}>
-                        <span style={{fontSize:14}}>{sec.flag}</span>
-                        <span style={{fontFamily:"'Playfair Display',serif",fontSize:12,fontWeight:700,color:accent,letterSpacing:1.2,textTransform:"uppercase"}}>{sec.label}</span>
-                        <span style={{fontSize:9,color:"#AAA"}}>({rows.length})</span>
-                      </div>
-                      <span style={{color:accent,fontSize:10,fontWeight:700}}>{open?"▲":"▼"}</span>
-                    </div>
-                    {open&&rows.map((row,ri)=><Card key={ri} row={row} even={ri%2===0}/>)}
-                  </div>
-                );
-              })}
-              <div style={{textAlign:"center",padding:"20px 15px 40px",fontSize:9,color:"#C0B8A8",lineHeight:1.8}}>PURAMENTE ESPECULATIVO — NO ES ASESORAMIENTO FINANCIERO</div>
-            </div>
-            <Aside data={data} sections={sections}/>
-          </div>
-        </>
-      ):(
-        <Sources data={data}/>
-      )}
-
-      <footer style={{background:"#EAE4D8",borderTop:"1px solid #D4C9B0",padding:"22px 0",textAlign:"center"}}>
-        <div style={{fontSize:10,color:"#999",letterSpacing:2}}>creado por adrián roffiel</div>
-      </footer>
-    </div>
-  );
-}
-
-ReactDOM.createRoot(document.getElementById("root")).render(<App/>);
-</script>
-</body>
-</html>
+      if(r.odds&&r.odds!=="LIQUIDADO"){const n=parseFloat(r.odds);if(!isNaN(n))all.push({label:r.event,odds:r.odds,p:pct(r.odds),n
