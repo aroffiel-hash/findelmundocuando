@@ -7,269 +7,101 @@
 <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
 <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
 <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=IBM+Plex+Mono:wght@400;600;700&display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@900&family=IBM+Plex+Mono:wght@400;700&display=swap" rel="stylesheet"/>
 <style>
-*{box-sizing:border-box;margin:0;padding:0;}
-body{background:#0d0d0d;font-family:'IBM Plex Mono',monospace; overflow-x: hidden;}
-button{cursor:pointer;font-family:'IBM Plex Mono',monospace;}
-::-webkit-scrollbar{width:6px;}
-::-webkit-scrollbar-thumb{background:#C8BFA8;border-radius:3px;}
-@keyframes shimmer{0%{background-position:-400px 0}100%{background-position:400px 0}}
-.sk{background:linear-gradient(90deg,#1a1a1a 25%,#252525 50%,#1a1a1a 75%);background-size:800px 100%;animation:shimmer 1.5s infinite;}
-.layout{display:flex;align-items:flex-start;max-width:1440px;margin:0 auto; transition: zoom 0.2s ease;}
-.col-main{flex:1;min-width:0;background:#F5F0E8; box-shadow: 10px 0 20px rgba(0,0,0,0.05);}
-.col-aside{width:360px;flex-shrink:0;background:#F5F0E8;border-left:2px solid #D4C9B0;align-self:stretch;}
-.scale-btn { background: #0d0d0d; color: #8AACCF; border: 1px solid #8AACCF; padding: 2px 8px; border-radius: 4px; font-weight: bold; margin-left: 5px;}
-.scale-btn:hover { background: #8AACCF; color: #0d0d0d; }
-.error-msg { display: flex; justify-content: center; align-items: center; height: 100vh; color: #F5F0E8; text-align: center; flex-direction: column; }
-@media(max-width:1024px){ .layout{display:block;} .col-aside{display:none;} .mob{display:block;} }
-@media(min-width:1025px){ .mob{display:none;} }
+  body { background: #0d0d0d; color: #F5F0E8; font-family: 'IBM Plex Mono', monospace; margin: 0; overflow-x: hidden; }
+  .header { background: #1B3A6B; padding: 30px 20px; text-align: center; border-bottom: 5px solid #7B1D1D; }
+  .container { max-width: 1100px; margin: 0 auto; padding: 20px; }
+  .card { background: #F5F0E8; color: #1a1a1a; margin-bottom: 12px; padding: 18px; border-radius: 4px; border-left: 6px solid #1B3A6B; box-shadow: 0 4px 6px rgba(0,0,0,0.3); }
+  .odds-badge { background: #1B3A6B; color: white; padding: 5px 12px; border-radius: 3px; font-weight: bold; font-size: 14px; }
+  .error-box { background: #2a0000; color: #ff9999; padding: 20px; text-align: center; margin: 50px; border: 2px solid red; }
+  .ticker-wrap { background: #7B1D1D; color: #FFD09A; padding: 10px; font-size: 13px; font-weight: bold; text-transform: uppercase; border-bottom: 1px solid #000; }
 </style>
 </head>
 <body>
 <div id="root"></div>
 <script type="text/babel">
-const {useState,useEffect,useRef,useMemo}=React;
-const ACCENTS=["#1B3A6B","#7B1D1D","#1B5E38","#7B3A00","#3A005E","#004E6B","#6B1B3A","#5E3A00"];
+const { useState, useEffect } = React;
 
-function pct(odds){
-  if(!odds||odds==="LIQUIDADO") return null;
-  const n=parseFloat(String(odds));
-  if(isNaN(n)) return null;
-  return n<0?Math.round(Math.abs(n)/(Math.abs(n)+100)*100):Math.round(100/(n+100)*100);
-}
-function pc(p){return p===null?"#999":p>=60?"#1B5E38":p>=30?"#7B4A00":"#7B1D1D";}
+function App() {
+  const [data, setData] = useState(null);
+  const [error, setError] = useState(null);
 
-function Ticker({items}){
-  const ref=useRef();const pos=useRef(0);const raf=useRef();
-  useEffect(()=>{
-    const el=ref.current;if(!el)return;
-    let half=0;
-    const t=setTimeout(()=>{half=el.scrollWidth/2;},300);
-    const step=()=>{pos.current+=0.18;if(half>0&&pos.current>=half)pos.current=0;el.style.transform=`translateX(${-pos.current}px)`;raf.current=requestAnimationFrame(step);};
-    raf.current=requestAnimationFrame(step);
-    return()=>{cancelAnimationFrame(raf.current);clearTimeout(t);};
-  },[]);
-  if(!items?.length)return null;
-  const list=[...items,...items];
-  return(
-    <div style={{background:"#7B1D1D",overflow:"hidden",height:34,display:"flex",alignItems:"center", borderBottom:"2px solid #5A1010"}}>
-      <div ref={ref} style={{display:"flex",whiteSpace:"nowrap",willChange:"transform"}}>
-        {list.map((t,i)=><span key={i} style={{fontSize:12,fontWeight:600,color:"#FFD09A",paddingRight:60,flexShrink:0}}>{t}</span>)}
-      </div>
+  useEffect(() => {
+    // Forzamos limpieza de caché con el timestamp
+    fetch(`./data.json?v=${Date.now()}`)
+      .then(res => {
+        if (!res.ok) throw new Error("No se pudo cargar el archivo de datos.");
+        return res.json();
+      })
+      .then(json => {
+        if (!json.sections) throw new Error("El archivo de datos está incompleto.");
+        setData(json);
+      })
+      .catch(err => {
+        console.error(err);
+        setError(err.message);
+      });
+  }, []);
+
+  if (error) return (
+    <div className="error-box">
+      <h2>⚠️ ERROR DE TABLERO</h2>
+      <p>{error}</p>
+      <p style={{fontSize:'11px', marginTop:'10px'}}>Revisa que data.json sea un JSON válido en tu repo.</p>
     </div>
   );
-}
 
-function Card({row,even}){
-  const [open,setOpen]=useState(false);
-  const settled=row.odds==="LIQUIDADO";
-  const p=pct(row.odds);
-  const fav=String(row.odds||"").startsWith("-");
-  const oddsColor=settled?"#7B1D1D":fav?"#1B5E38":"#1B3A6B";
-  const oddsBg=settled?"#FDF0E0":fav?"#EBF7EF":"#EBF0FA";
-  const params=row.params||"";
-  return(
-    <div style={{background:settled?"#FBF7EE":even?"#FAF7F2":"#F5F0E8",borderBottom:"1px solid #E4DDD0",padding:"14px 18px",opacity:settled?.72:1}}>
-      <div style={{marginBottom:8,display:"flex",alignItems:"flex-start",gap:8,flexWrap:"wrap"}}>
-        <span style={{fontSize:13,fontWeight:600,color:settled?"#999":"#1A1A1A",textDecoration:settled?"line-through":"none",lineHeight:1.4,flex:1}}>{row.event}</span>
-        {row.moved&&row.moved!=="none"&&<span style={{fontSize:9,fontWeight:700,padding:"3px 6px",borderRadius:2,background:row.moved==="down"?"#EBF7EF":"#FDF0F0",color:row.moved==="down"?"#1B5E38":"#7B1D1D",border:`1px solid ${row.moved==="down"?"#B0DAC0":"#E8B0B0"}`,flexShrink:0}}>{row.moved==="down"?"▼ BAJÓ":"▲ SUBIÓ"}</span>}
-      </div>
-      <div style={{display:"flex",alignItems:"center",gap:10,marginBottom:6}}>
-        {settled
-          ?<span style={{fontFamily:"'Playfair Display',serif",color:"#7B1D1D",fontSize:13,fontWeight:700,background:"#FDF0E0",padding:"4px 12px",borderRadius:3,border:"1px solid #E8C890"}}>✓ CERRADO</span>
-          :<><div style={{background:oddsBg,border:`1.5px solid ${oddsColor}44`,borderRadius:4,color:oddsColor,fontSize:16,fontWeight:700,width:86,textAlign:"center",padding:"5px 0",flexShrink:0}}>{row.odds}</div>
-            <div style={{fontSize:15,fontWeight:700,color:pc(p),minWidth:42,textAlign:"center",flexShrink:0}}>{p!==null?`${p}%`:"—"}</div>
-            <div style={{flex:1,height:6,borderRadius:3,background:`linear-gradient(to right,${pc(p)} ${p||0}%,#E0D8C8 ${p||0}%)`,opacity:.8}}/></>}
-      </div>
-      {params&&<div style={{fontSize:11,color:"#6A6055",lineHeight:1.6, marginTop:8}}>{open||params.length<=130?params:`${params.slice(0,130)}…`}{params.length>130&&<button onClick={()=>setOpen(o=>!o)} style={{background:"none",border:"none",color:"#1B3A6B",fontSize:11,fontWeight:700,padding:"0 4px"}}>{open?" [Menos]":" [Más]"}</button>}</div>}
+  if (!data) return (
+    <div style={{display:'flex', justifyContent:'center', alignItems:'center', height:'100vh'}}>
+      <h2 style={{color:'#8AACCF', letterSpacing:'4px'}}>SINCRONIZANDO INTELIGENCIA...</h2>
     </div>
   );
-}
 
-function Aside({data,sections}){
-  const breaking=data?.ticker?.slice(0,5).map(t=>({icon:t[0]||"⚡",text:t.slice(2).trim()})) || [];
-  const keyOdds=useMemo(()=>{
-    const all=[];
-    (sections||[]).forEach(s=>(s.rows||s.items||[]).forEach(r=>{
-      if(r.odds&&r.odds!=="LIQUIDADO"){const n=parseFloat(r.odds);if(!isNaN(n))all.push({label:r.event,odds:r.odds,p:pct(r.odds),n});}
-    }));
-    return[...all.filter(r=>r.n<0).sort((a,b)=>a.n-b.n).slice(0,3),...all.filter(r=>r.n>0).sort((a,b)=>a.n-b.n).slice(0,2)];
-  },[sections]);
+  return (
+    <div>
+      <div className="header">
+        <h1 style={{fontFamily: 'Playfair Display', fontSize: 'clamp(24px, 5vw, 42px)', margin: 0}}>FIN DEL MUNDO</h1>
+        <h2 style={{fontSize: '14px', letterSpacing: '3px', color: '#8AACCF', marginTop: '5px'}}>TABLERO DE PROBABILIDADES</h2>
+        <p style={{fontSize: '11px', color: '#aaa', marginTop: '15px'}}>ÚLTIMA ACTUALIZACIÓN: {data.lastUpdated}</p>
+      </div>
 
-  const risks=[
-    {l:"Nuclear / Radiológico",kw:["nuclear","arma"],fb:19},
-    {l:"Sector Energético",kw:["petróleo","brent","barril"],fb:55},
-    {l:"Volatilidad Peso (MXN)",kw:["peso","mxn"],fb:38},
-    {l:"Escenario Taiwán",kw:["taiwán","bloqueo"],fb:22},
-  ].map(d=>{
-    let v=d.fb;
-    (sections||[]).forEach(s=>(s.rows||s.items||[]).forEach(r=>{
-      if(d.kw.some(k=>r.event?.toLowerCase().includes(k))){const p2=pct(r.odds);if(p2!==null)v=p2;}
-    }));
-    return{...d,v};
-  });
-
-  const BOX={padding:"16px 20px",borderBottom:"1px solid #E4DDD0"};
-  const TITLE={fontFamily:"'Playfair Display',serif",fontSize:13,fontWeight:700,letterSpacing:1.4,textTransform:"uppercase",marginBottom:12};
-
-  return(
-    <div className="col-aside">
-      <div style={{...BOX,background:"#F5F0E8"}}>
-        <div style={{...TITLE,color:"#7B1D1D"}}>Reportes de Última Hora</div>
-        {breaking.map((item,i)=>(
-          <div key={i} style={{display:"flex",gap:8,marginBottom:10,alignItems:"flex-start"}}>
-            <span style={{flexShrink:0, fontSize:12}}>{item.icon||"⚡"}</span>
-            <span style={{fontSize:11.5,color:"#3A3A3A",lineHeight:1.5}}>{item.text}</span>
+      <div className="ticker-wrap">
+        <marquee scrollamount="5">
+          {data.ticker ? data.ticker.join(" • ") : "CARGANDO NOTICIAS DE ÚLTIMA HORA..."}
+        </marquee>
+      </div>
+      
+      <div className="container">
+        {data.sections.map((sec, i) => (
+          <div key={i} style={{marginBottom: '40px'}}>
+            <h3 style={{color: '#8AACCF', borderBottom: '1px solid #333', paddingBottom: '10px', marginBottom: '15px', display:'flex', alignItems:'center', gap:'10px'}}>
+              <span>{sec.flag}</span> {sec.label}
+            </h3>
+            {sec.rows && sec.rows.map((row, j) => (
+              <div key={j} className="card">
+                <div style={{display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', gap: '15px'}}>
+                  <span style={{fontWeight: '700', fontSize: '15px', lineHeight: '1.4'}}>{row.event}</span>
+                  <span className="odds-badge">{row.odds}</span>
+                </div>
+                <p style={{fontSize: '12px', color: '#555', marginTop: '10px', lineHeight: '1.5', fontStyle: 'italic'}}>
+                  {row.params}
+                </p>
+              </div>
+            ))}
           </div>
         ))}
       </div>
 
-      <div style={{...BOX,background:"#F0EDE6"}}>
-        <div style={{...TITLE,color:"#1B3A6B"}}>Momios Calientes</div>
-        {keyOdds.map((item,i)=>{
-          const fav=String(item.odds||"").startsWith("-");
-          const p2=item.pct??item.p??pct(item.odds);
-          return(
-            <div key={i} style={{display:"flex",alignItems:"center",gap:8,marginBottom:10}}>
-              <span style={{fontSize:10.5,color:"#555",flex:1,lineHeight:1.4}}>{String(item.label||"").slice(0,42)}{(item.label||"").length>42?"…":""}</span>
-              <span style={{fontSize:12,fontWeight:700,color:fav?"#1B5E38":"#1B3A6B",background:fav?"#EBF7EF":"#EBF0FA",padding:"2px 8px",borderRadius:3,flexShrink:0}}>{item.odds}</span>
-              <span style={{fontSize:11,fontWeight:700,color:pc(p2),minWidth:32,textAlign:"right"}}>{p2}%</span>
-            </div>
-          );
-        })}
-      </div>
-
-      <div style={{background:"#111",padding:"20px"}}>
-        <div style={{fontSize:11,fontWeight:700,color:"#888",letterSpacing:1.5,textTransform:"uppercase",marginBottom:14}}>Termómetro de Riesgos</div>
-        {risks.map((r,i)=>(
-          <div key={i} style={{marginBottom:14}}>
-            <div style={{display:"flex",justifyContent:"space-between",fontSize:10.5,color:"#DDD",marginBottom:5}}>
-              <span>{r.l}</span><span style={{color:pc(r.v),fontWeight:700}}>{r.v}%</span>
-            </div>
-            <div style={{height:4,background:"#2a2a2a",borderRadius:2}}>
-              <div style={{width:`${r.v}%`,height:"100%",background:pc(r.v),borderRadius:2}}/>
-            </div>
-          </div>
-        ))}
-      </div>
-    </div>
-  );
-}
-
-function Sources({data}){
-  const upd=data?.lastUpdated||"—";
-  return(
-    <div style={{maxWidth:900,margin:"0 auto",padding:"30px 20px 80px",background:"#F5F0E8"}}>
-      <div style={{fontFamily:"'Playfair Display',serif",fontWeight:900,fontSize:24,color:"#1B3A6B",marginBottom:5}}>Metodología y Fuentes</div>
-      <div style={{fontSize:11,color:"#888",marginBottom:30}}>Último escaneo: {upd}</div>
-      <div style={{marginBottom:30,background:"#fff",border:"1px solid #E0D8C8",borderRadius:6,padding:"24px", boxShadow:"0 4px 15px rgba(0,0,0,0.03)"}}>
-        <div style={{fontFamily:"'Playfair Display',serif",fontSize:18,fontWeight:700,color:"#1A1A1A",marginBottom:15}}>🍎 Explicado con manzanas (Nivel 5 años)</div>
-        <p style={{fontSize:13,color:"#444",lineHeight:1.8,margin:"0 0 15px"}}>Imagina que estamos apostando tazos en el recreo sobre si va a llover o no.</p>
-        <ul style={{fontSize:13,color:"#444",lineHeight:1.8,marginLeft:20, marginBottom:15}}>
-          <li><strong style={{color:"#1B5E38"}}>El número Negativo (ej. -150)</strong> significa que <b>todos creen que va a pasar</b> (es el favorito). Como es tan seguro, si apuestas, ganas poquitos tazos. Entre más grande sea el número negativo, más seguro es que ocurra.</li>
-          <li><strong style={{color:"#1B3A6B"}}>El número Positivo (ej. +200)</strong> significa que <b>es una sorpresa si pasa</b>. Muy pocos creen que sucederá, así que si le atinas, te ganas muchísimos tazos.</li>
-        </ul>
-        <p style={{fontSize:13,color:"#444",lineHeight:1.8}}>Nosotros tomamos esos números "de casino" y los convertimos en un <b>porcentaje de probabilidad (%)</b> para que sea súper fácil ver qué tan grave está el asunto.</p>
-      </div>
-    </div>
-  );
-}
-
-function App(){
-  const [data,setData]=useState(null);
-  const [err,setErr]=useState(false);
-  const [tab,setTab]=useState("odds");
-  const [col,setCol]=useState(new Set());
-  const [scale, setScale] = useState(1);
-
-  useEffect(()=>{
-    const load=()=>fetch(`./data.json?t=${Date.now()}`).then(r=>{if(!r.ok)throw new Error("No data");return r.json();}).then(d=>{setData(d);setErr(false);}).catch(()=>setErr(true));
-    load();
-    const iv=setInterval(load,60000);
-    return()=>clearInterval(iv);
-  },[]);
-
-  if(err)return<div className="error-msg"><h1 style={{fontSize:20, color:'#7B1D1D', marginBottom:10}}>✕ ERROR DE LECTURA DE DATOS</h1><p style={{fontSize:12, color:'#888'}}>El archivo data.json está vacío o corrupto. Ejecuta el workflow de GitHub para generar datos nuevos.</p></div>;
-  if(!data)return<div className="error-msg"><h1 style={{fontSize:16, color:'#8AACCF', letterSpacing:2}}>SINCRONIZANDO DATOS...</h1></div>;
-
-  const sections=data?.sections||[];
-  const ticker=data?.ticker||[];
-  const lastUpd=data?.lastUpdated||"—";
-  const total=sections.reduce((a,s)=>a+(s.rows||s.items||[]).length,0);
-  const tog=(i)=>setCol(p=>{const n=new Set(p);n.has(i)?n.delete(i):n.add(i);return n;});
-
-  return(
-    <div style={{background:"#F5F0E8",minHeight:"100vh"}}>
-      <div style={{background:"#1B3A6B",position:"sticky",top:0,zIndex:300,boxShadow:"0 4px 20px rgba(0,0,0,.5)"}}>
-        <div style={{maxWidth:1440,margin:"0 auto"}}>
-          <Ticker items={ticker}/>
-          <div style={{padding:"16px 24px 0"}}>
-            <div style={{display:"flex", justifyContent:"space-between", alignItems:"flex-start"}}>
-              <div>
-                <div style={{fontFamily:"'Playfair Display',serif",fontSize:"clamp(18px,3vw,26px)",fontWeight:900,color:"#F5F0E8",lineHeight:1.1,marginBottom:4}}>FIN DEL MUNDO - TABLERO DE PROBABILIDADES</div>
-                <div style={{fontFamily:"'Playfair Display',serif",fontSize:"clamp(11px,1.8vw,14px)",fontWeight:600,color:"#8AACCF",marginBottom:6}}>INTELIGENCIA EN TIEMPO REAL · RIESGO GLOBAL</div>
-                <div style={{fontSize:10,color:"#6A9ACF",letterSpacing:.5, marginBottom:10}}>🔄 ACTUALIZADO: {lastUpd} · {total} ESCENARIOS ACTIVOS</div>
-              </div>
-              <div style={{display:"flex", alignItems:"center"}}>
-                <span style={{fontSize:10, color:"#8AACCF", marginRight:4}}>TEXTO:</span>
-                <button className="scale-btn" onClick={() => setScale(s => Math.max(s - 0.1, 0.8))}>A-</button>
-                <button className="scale-btn" onClick={() => setScale(s => Math.min(s + 0.1, 1.4))}>A+</button>
-              </div>
-            </div>
-            <div style={{display:"flex",marginTop:8}}>
-              {[{id:"odds",label:"📊 MOMIOS"},{id:"sources",label:"📋 METODOLOGÍA"}].map(t=>(
-                <button key={t.id} onClick={()=>setTab(t.id)} style={{padding:"10px 20px",background:tab===t.id?"#F5F0E8":"transparent",border:"none",color:tab===t.id?"#1B3A6B":"#8AACCF",fontSize:11.5,fontWeight:700,letterSpacing:.8,borderRadius:tab===t.id?"6px 6px 0 0":0, transition:"all 0.2s"}}>{t.label}</button>
-              ))}
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div style={{zoom: scale, transformOrigin: "top left"}}>
-        {tab==="odds"?(
-          <div className="layout">
-            <div className="col-main">
-              <div style={{background:"#EAE4D8",padding:"8px 20px",borderBottom:"1px solid #C8BFA8",fontSize:10,color:"#666",display:"flex",gap:16, fontWeight:"bold"}}>
-                <span><span style={{color:"#1B5E38", fontSize:12}}>■</span> FAVORITO (−)</span>
-                <span><span style={{color:"#1B3A6B", fontSize:12}}>■</span> SORPRESA (+)</span>
-                <span style={{marginLeft:"auto"}}>RIESGO: VERDE ≥60% · ORO 30-59% · ROJO &lt;30%</span>
-              </div>
-              {sections.map((sec,si)=>{
-                const accent=ACCENTS[si%ACCENTS.length];
-                const rows=sec.rows||sec.items||[];
-                const open=!col.has(si);
-                return(
-                  <div key={si} style={{marginTop:12, padding:"0 10px"}}>
-                    <div onClick={()=>tog(si)} style={{display:"flex",alignItems:"center",justifyContent:"space-between",padding:"12px 18px",background:"#EEEAE2",borderTop:`4px solid ${accent}`,borderBottom:"1px solid #D4C9B0",borderRadius: "4px 4px 0 0",cursor:"pointer",userSelect:"none", boxShadow:"0 2px 5px rgba(0,0,0,0.02)"}}>
-                      <div style={{display:"flex",alignItems:"center",gap:10}}>
-                        <span style={{fontSize:16}}>{sec.flag}</span>
-                        <span style={{fontFamily:"'Playfair Display',serif",fontSize:14,fontWeight:900,color:accent,letterSpacing:1.2,textTransform:"uppercase"}}>{sec.label}</span>
-                        <span style={{fontSize:10,color:"#888", fontWeight:"bold"}}>({rows.length})</span>
-                      </div>
-                      <span style={{color:accent,fontSize:12,fontWeight:900}}>{open?"▲":"▼"}</span>
-                    </div>
-                    {open&&rows.map((row,ri)=><Card key={ri} row={row} even={ri%2===0}/>)}
-                  </div>
-                );
-              })}
-              <div style={{textAlign:"center",padding:"30px 20px 50px",fontSize:10,color:"#A09888",lineHeight:1.8, fontWeight:"bold"}}>FIN DEL REPORTE — DATOS SUJETOS A VOLATILIDAD EXTREMA</div>
-            </div>
-            <Aside data={data} sections={sections}/>
-          </div>
-        ):(
-          <Sources data={data}/>
-        )}
-      </div>
-
-      <footer style={{background:"#EAE4D8",borderTop:"2px solid #D4C9B0",padding:"25px 0",textAlign:"center", position:"relative", zIndex:10}}>
-        <div style={{fontSize:11,color:"#888",letterSpacing:2, fontWeight:"bold"}}>CREADO POR ADRIÁN ROFFIEL</div>
+      <footer style={{textAlign:'center', padding: '40px', color: '#555', fontSize: '10px', letterSpacing: '2px'}}>
+        PROPIEDAD DE ADRIÁN ROFFIEL | PROYECTO DE ANÁLISIS OSINT
       </footer>
     </div>
   );
 }
 
-ReactDOM.createRoot(document.getElementById("root")).render(<App/>);
+const root = ReactDOM.createRoot(document.getElementById("root"));
+root.render(<App />);
 </script>
 </body>
 </html>
