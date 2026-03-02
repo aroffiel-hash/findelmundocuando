@@ -9,10 +9,9 @@ GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 def main():
     if not GROQ_API_KEY:
-        print("❌ Error: No se encontró GROQ_API_KEY en las variables de entorno.")
+        print("Error: GROQ_API_KEY no configurada.")
         sys.exit(1)
 
-    # Cálculo exacto de hora CDMX (UTC -6)
     utc_now = datetime.utcnow()
     cdmx_now = utc_now - timedelta(hours=6)
 
@@ -20,13 +19,12 @@ def main():
              "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"]
     mes_espanol = meses[cdmx_now.month]
 
-    # Formato de fecha para que el visitante sepa que está fresco
     today = cdmx_now.strftime(f"%d de {mes_espanol} de %Y — %H:%M CDMX")
     
     prompt = f"""
     Fecha actual: {today}
-    Genera un JSON para el tablero geopolítico "Fin del Mundo Cuándo".
-    REGLA DE ORO: Redacta TODO en un español mexicano neutro, serio y periodístico (ej. usa 'momios' en vez de 'cuotas').
+    Genera un JSON para el tablero geopolítico "FIN DEL MUNDO - TABLERO DE PROBABILIDADES".
+    Redacta en español mexicano neutro y periodístico. Usa el término 'momios'.
     
     Estructura EXACTA requerida:
     {{
@@ -42,7 +40,7 @@ def main():
         }}
       ]
     }}
-    Importante: Genera entre 10 y 14 secciones de riesgo global usando noticias reales de hoy.
+    Genera entre 10 y 14 secciones de riesgo global usando noticias reales de hoy.
     """
 
     headers = {
@@ -68,21 +66,21 @@ def main():
         clean = raw.strip().lstrip("```json").lstrip("```").rstrip("```").strip()
         data = json.loads(clean)
 
-        # Inyección forzada de la fecha de México
         data["lastUpdated"] = today
         
-        # Salvavidas: Ya NO hay asserts. Si falta algo, se pone vacío y el programa continúa.
-        if "sections" not in data: data["sections"] = []
-        if "ticker" not in data: data["ticker"] = ["⚡ Actualizando fuentes de inteligencia..."]
+        if "sections" not in data: 
+            data["sections"] = []
+        if "ticker" not in data: 
+            data["ticker"] = ["⚡ Actualizando fuentes de inteligencia..."]
 
         out = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data.json")
         with open(out, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
             
-        print(f"✅ Éxito. Fecha ajustada a: {today}. Secciones: {len(data.get('sections', []))}")
+        print(f"Tablero actualizado. Secciones: {len(data.get('sections', []))}")
 
     except Exception as e:
-        print(f"❌ Error durante la generación: {str(e)}")
+        print(f"Error de ejecución: {str(e)}")
         sys.exit(1)
 
 if __name__ == "__main__":
