@@ -4,10 +4,10 @@
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <title>FIN DEL MUNDO - TABLERO DE PROBABILIDADES</title>
-<script crossorigin src="[https://unpkg.com/react@18/umd/react.production.min.js](https://unpkg.com/react@18/umd/react.production.min.js)"></script>
-<script crossorigin src="[https://unpkg.com/react-dom@18/umd/react-dom.production.min.js](https://unpkg.com/react-dom@18/umd/react-dom.production.min.js)"></script>
-<script src="[https://unpkg.com/@babel/standalone/babel.min.js](https://unpkg.com/@babel/standalone/babel.min.js)"></script>
-<link href="[https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=IBM+Plex+Mono:wght@400;600;700&display=swap](https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=IBM+Plex+Mono:wght@400;600;700&display=swap)" rel="stylesheet"/>
+<script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=IBM+Plex+Mono:wght@400;600;700&display=swap" rel="stylesheet"/>
 <style>
 *{box-sizing:border-box;margin:0;padding:0;}
 body{background:#0d0d0d;font-family:'IBM Plex Mono',monospace; overflow-x: hidden;}
@@ -21,14 +21,9 @@ button{cursor:pointer;font-family:'IBM Plex Mono',monospace;}
 .col-aside{width:360px;flex-shrink:0;background:#F5F0E8;border-left:2px solid #D4C9B0;align-self:stretch;}
 .scale-btn { background: #0d0d0d; color: #8AACCF; border: 1px solid #8AACCF; padding: 2px 8px; border-radius: 4px; font-weight: bold; margin-left: 5px;}
 .scale-btn:hover { background: #8AACCF; color: #0d0d0d; }
-@media(max-width:1024px){
-  .layout{display:block;}
-  .col-aside{display:none;}
-  .mob{display:block;}
-}
-@media(min-width:1025px){
-  .mob{display:none;}
-}
+.error-msg { display: flex; justify-content: center; align-items: center; height: 100vh; color: #F5F0E8; text-align: center; flex-direction: column; }
+@media(max-width:1024px){ .layout{display:block;} .col-aside{display:none;} .mob{display:block;} }
+@media(min-width:1025px){ .mob{display:none;} }
 </style>
 </head>
 <body>
@@ -177,11 +172,6 @@ function Sources({data}){
         </ul>
         <p style={{fontSize:13,color:"#444",lineHeight:1.8}}>Nosotros tomamos esos números "de casino" y los convertimos en un <b>porcentaje de probabilidad (%)</b> para que sea súper fácil ver qué tan grave está el asunto.</p>
       </div>
-      <div style={{marginBottom:30,background:"#FDF8F0",border:"1px solid #DDD0B8",borderLeft:"5px solid #7B4A00",borderRadius:4,padding:"20px"}}>
-        <div style={{fontFamily:"'Playfair Display',serif",fontSize:15,fontWeight:700,color:"#7B4A00",marginBottom:10}}>Análisis Técnico</div>
-        <p style={{fontSize:12.5,color:"#555",lineHeight:1.8,margin:"0 0 12px"}}>Las cuotas (momios) mostradas son una síntesis analítica basada en mercados de predicción reales, datos de futuros de materias primas (ICE/NYMEX), y análisis de sentimiento de fuentes de inteligencia de fuente abierta (OSINT). Las probabilidades implícitas se calculan eliminando el "vig" (margen del corredor) para reflejar la probabilidad pura del mercado.</p>
-        <div style={{fontSize:11,color:"#6A5A3A",background:"#EDE7D8",padding:"10px 14px",borderRadius:4,lineHeight:1.6,fontWeight:"bold"}}>⚠ AVISO: Herramienta de análisis especulativo y periodístico. Las cifras no constituyen asesoramiento financiero ni apuestas reales.</div>
-      </div>
     </div>
   );
 }
@@ -194,14 +184,14 @@ function App(){
   const [scale, setScale] = useState(1);
 
   useEffect(()=>{
-    const load=()=>fetch(`./data.json?t=${Date.now()}`).then(r=>{if(!r.ok)throw 0;return r.json();}).then(d=>{setData(d);setErr(false);}).catch(()=>setErr(true));
+    const load=()=>fetch(`./data.json?t=${Date.now()}`).then(r=>{if(!r.ok)throw new Error("No data");return r.json();}).then(d=>{setData(d);setErr(false);}).catch(()=>setErr(true));
     load();
     const iv=setInterval(load,60000);
     return()=>clearInterval(iv);
   },[]);
 
-  if(!data&&!err)return<div style={{background:"#0d0d0d",height:"100vh",display:"flex",alignItems:"center",justifyContent:"center"}}><span style={{fontSize:13,color:"#888",letterSpacing:2}}>SINCRONIZANDO DATOS...</span></div>;
-  if(err&&!data)return<div style={{background:"#0d0d0d",height:"100vh",display:"flex",alignItems:"center",justifyContent:"center"}}><span style={{color:"#7B1D1D",fontSize:14,letterSpacing:1}}>✕ ERROR AL CARGAR DATOS</span></div>;
+  if(err)return<div className="error-msg"><h1 style={{fontSize:20, color:'#7B1D1D', marginBottom:10}}>✕ ERROR DE LECTURA DE DATOS</h1><p style={{fontSize:12, color:'#888'}}>El archivo data.json está vacío o corrupto. Ejecuta el workflow de GitHub para generar datos nuevos.</p></div>;
+  if(!data)return<div className="error-msg"><h1 style={{fontSize:16, color:'#8AACCF', letterSpacing:2}}>SINCRONIZANDO DATOS...</h1></div>;
 
   const sections=data?.sections||[];
   const ticker=data?.ticker||[];
