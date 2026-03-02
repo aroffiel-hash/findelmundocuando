@@ -51,16 +51,22 @@ def main():
     payload = {
         "model": "llama3-70b-8192",
         "messages": [
-            {"role": "system", "content": "Eres un analista de inteligencia geopolítica en México. Respondes ÚNICAMENTE con JSON válido."},
+            {"role": "system", "content": "Eres un analista de inteligencia geopolítica en México. Respondes ÚNICAMENTE con formato JSON."},
             {"role": "user", "content": prompt}
         ],
         "temperature": 0.3,
+        "max_tokens": 8000,
         "response_format": {"type": "json_object"}
     }
 
     try:
         r = requests.post(GROQ_URL, headers=headers, json=payload, timeout=90)
-        r.raise_for_status()
+        
+        # Captura el mensaje exacto de la API si hay error
+        if r.status_code != 200:
+            print(f"Error de la API: Código {r.status_code} - {r.text}")
+            sys.exit(1)
+            
         raw = r.json()["choices"][0]["message"]["content"]
 
         clean = raw.strip().lstrip("```json").lstrip("```").rstrip("```").strip()
