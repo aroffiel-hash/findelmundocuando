@@ -2,7 +2,7 @@ import os
 import json
 import sys
 import requests
-from datetime import datetime
+from datetime import datetime, timedelta
 
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "")
 GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
@@ -12,12 +12,22 @@ def main():
         print("❌ Error: No se encontró GROQ_API_KEY en las variables de entorno.")
         sys.exit(1)
 
-    today = datetime.utcnow().strftime("%d de %B de %Y — %H:%M UTC")
+    # Cálculo exacto de hora CDMX (UTC -6)
+    utc_now = datetime.utcnow()
+    cdmx_now = utc_now - timedelta(hours=6)
+
+    meses = ["", "enero", "febrero", "marzo", "abril", "mayo", "junio", 
+             "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"]
+    mes_espanol = meses[cdmx_now.month]
+
+    # Formato de fecha para que el visitante sepa que está fresco
+    today = cdmx_now.strftime(f"%d de {mes_espanol} de %Y — %H:%M CDMX")
     
     prompt = f"""
     Fecha actual: {today}
     Genera un JSON para el tablero geopolítico "Fin del Mundo Cuándo".
-    Usa noticias reales y crudas de hoy. Devuelve SOLO el JSON.
+    REGLA DE ORO: Redacta TODO en un español mexicano neutro, serio y periodístico (ej. usa 'momios' en vez de 'cuotas').
+    
     Estructura EXACTA requerida:
     {{
       "lastUpdated": "{today}",
@@ -32,7 +42,7 @@ def main():
         }}
       ]
     }}
-    Importante: Genera entre 8 y 14 secciones de riesgo global.
+    Importante: Genera entre 10 y 14 secciones de riesgo global usando noticias reales de hoy.
     """
 
     headers = {
@@ -43,7 +53,7 @@ def main():
     payload = {
         "model": "llama3-70b-8192",
         "messages": [
-            {"role": "system", "content": "Eres un analista de inteligencia geopolítica. Respondes ÚNICAMENTE con JSON válido."},
+            {"role": "system", "content": "Eres un analista de inteligencia geopolítica en México. Respondes ÚNICAMENTE con JSON válido."},
             {"role": "user", "content": prompt}
         ],
         "temperature": 0.3,
@@ -58,19 +68,17 @@ def main():
         clean = raw.strip().lstrip("```json").lstrip("```").rstrip("```").strip()
         data = json.loads(clean)
 
+        # Inyección forzada de la fecha de México
         data["lastUpdated"] = today
         
-        # Salvavidas: si falta algo, pone valores por defecto pero NO rompe el código
-        if "sections" not in data:
-            data["sections"] = []
-        if "ticker" not in data:
-            data["ticker"] = ["⚡ Actualizando fuentes satelitales..."]
+        if "sections" not in data: data["sections"] = []
+        if "ticker" not in data: data["ticker"] = ["⚡ Actualizando fuentes de inteligencia..."]
 
         out = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data.json")
         with open(out, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
             
-        print(f"✅ Éxito. {len(data.get('sections', []))} secciones generadas.")
+        print(f"✅ Éxito. Fecha ajustada a: {today}. Secciones: {len(data.get('sections', []))}")
 
     except Exception as e:
         print(f"❌ Error durante la generación: {str(e)}")
