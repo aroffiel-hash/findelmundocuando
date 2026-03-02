@@ -3,81 +3,80 @@ import json
 import requests
 
 def get_llama3_analysis():
-    # Buscamos la llave de Groq en los secretos de GitHub
     api_key = os.getenv("GROQ_API_KEY")
     if not api_key:
-        print("Error: No se encontró GROQ_API_KEY en los secretos.")
+        print("Error: No se encontró GROQ_API_KEY.")
         return None
 
-    # Las instrucciones para la IA. Le pedimos que use la estructura original de tu Board.
+    # Instrucciones ultra-detalladas para que use TUS secciones originales
     prompt = """
-    Eres un analista de inteligencia OSINT y geopolítica. Estamos en marzo de 2026.
-    Tu trabajo es evaluar la situación global (Irán, Medio Oriente, mercados, México) y actualizar un panel de "Odds" (probabilidades).
+    Eres un analista senior de inteligencia OSINT. Estamos en marzo de 2026.
+    Debes generar un informe de situación en formato JSON para un Geopolitical Odds Board.
     
-    Debes devolver ÚNICAMENTE un objeto JSON válido con la siguiente estructura exacta:
-    {
-      "ticker": [
-         "⚡ [Noticia corta impactante 1]", 
-         "🔴 [Noticia corta 2]",
-         "🛢️ [Noticia sobre petróleo/mercados]"
-      ],
-      "sections": [
-        {
-          "flag": "🌍",
-          "label": "ESCENARIOS MACRO",
-          "rows": [
-            { "event": "Conflicto regional escala a Guerra Total", "odds": "+210", "params": "Razón en 1 o 2 oraciones.", "moved": "down" },
-            { "event": "El conflicto se mantiene solo regional", "odds": "-380", "params": "Justificación analítica.", "moved": "up" }
-          ]
-        },
-        {
-          "flag": "🇲🇽",
-          "label": "MÉXICO",
-          "rows": [
-            { "event": "Peso mexicano cae 10%+ frente al dólar en 30 días", "odds": "+170", "params": "Justificación económica.", "moved": "none" }
-          ]
-        }
-      ]
-    }
+    ESTRUCTURA DE DATOS REQUERIDA (JSON):
+    Debes devolver un objeto con "ticker" (mínimo 8 noticias) y "sections" (las 4 secciones de abajo).
     
-    Reglas:
-    1. Genera al menos 5 items para el "ticker".
-    2. Mantén los valores "moved" limitados a: "up", "down", o "none".
-    3. Inventa un análisis realista para marzo 2026 basado en el contexto de tensión entre EE.UU., Israel e Irán.
-    4. NO devuelvas texto fuera del JSON.
+    SECCIONES Y EVENTOS A EVALUAR:
+    1. 🌍 ESCENARIOS MACRO (Flag: 🌍)
+       - Conflicto regional escala a Guerra Total
+       - El conflicto se mantiene solo regional
+       - Corredor humanitario en Ormuz activado
+    
+    2. 🛢️ ENERGÍA & MERCADOS (Flag: 🛢️)
+       - Cierre total Estrecho de Ormuz (>48h)
+       - Brent supera los $120/barril
+       - Oro alcanza nuevo máximo histórico
+    
+    3. 🇲🇽 MÉXICO & LATAM (Flag: 🇲🇽)
+       - Peso mexicano (MXN) cae 10% vs USD
+       - Sheinbaum convoca a cumbre regional de paz
+    
+    4. 🇮🇱 ISRAEL / REGIONAL (Flag: 🇮🇱)
+       - Cúpula de Hierro saturada / 12m
+       - Operación terrestre en Líbano sur
+    
+    PARA CADA EVENTO DEBES GENERAR:
+    - "event": El nombre del evento (exacto a los de arriba).
+    - "odds": Un valor entre +500 y -500 (ej: "-150", "+210").
+    - "params": Una explicación analítica breve (máx 140 caracteres) de por qué se mueve el indicador en MARZO 2026.
+    - "moved": "up", "down" o "none" según la tendencia actual.
+
+    IMPORTANTE: El tono debe ser profesional, urgente y basado en los eventos de marzo 2026 (ataques del CGRI, USS Abraham Lincoln, etc).
+    Devuelve SOLO el JSON.
     """
 
     url = "https://api.groq.com/openai/v1/chat/completions"
     headers = {"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
     payload = {
-        "model": "llama3-70b-8192", # El modelo Open Source más inteligente
+        "model": "llama3-70b-8192",
         "messages": [{"role": "user", "content": prompt}],
+        "temperature": 0.7, # Para que las noticias varíen un poco cada vez
         "response_format": {"type": "json_object"}
     }
 
     try:
-        print("Consultando a Llama 3 vía Groq...")
         response = requests.post(url, headers=headers, json=payload)
         response.raise_for_status()
         return response.json()['choices'][0]['message']['content']
     except Exception as e:
-        print(f"Fallo en la conexión: {e}")
+        print(f"Error: {e}")
         return None
 
 def main():
     ai_content = get_llama3_analysis()
-    
     if ai_content:
-        # Validamos que el JSON sea correcto antes de escribirlo
-        try:
-            data = json.loads(ai_content)
-            with open('data.json', 'w', encoding='utf-8') as f:
-                json.dump(data, f, indent=4, ensure_ascii=False)
-            print("✅ Board OSINT actualizado con éxito usando Llama 3.")
-        except json.JSONDecodeError:
-            print("Error: Llama 3 no devolvió un JSON válido.")
-    else:
-        print("No se pudo obtener análisis de la IA.")
+        data = json.loads(ai_content)
+        # Aseguramos que los nombres de las llaves coincidan con el index.html
+        # (Llama 3 a veces pone 'label' en lugar de 'title')
+        for sec in data.get('sections', []):
+            if 'title' in sec and 'label' not in sec:
+                sec['label'] = sec['title']
+            if 'items' in sec and 'rows' not in sec:
+                sec['rows'] = sec['items']
+
+        with open('data.json', 'w', encoding='utf-8') as f:
+            json.dump(data, f, indent=4, ensure_ascii=False)
+        print("✅ Board actualizado con todos los indicadores originales.")
 
 if __name__ == "__main__":
     main()
