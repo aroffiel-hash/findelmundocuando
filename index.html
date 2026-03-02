@@ -2,20 +2,25 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>GOP - LIVE ODDS</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Odds Board - OSINT LIVE</title>
     <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
     <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
     <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;700&display=swap" rel="stylesheet">
     <style>
-        /* Estilos similares al anterior, simplificados para velocidad */
-        body { margin: 0; background: #0d0d0d; font-family: 'IBM Plex Mono', monospace; }
-        .ticker-container { background: #7B1D1D; overflow: hidden; height: 35px; border-bottom: 2px solid #000; display: flex; align-items: center; }
+        body { margin: 0; background-color: #0d0d0d; font-family: 'IBM Plex Mono', monospace; color: #333; }
+        /* Estilos de tu diseño original */
+        .ticker-container { background: #7B1D1D; overflow: hidden; height: 32px; display: flex; align-items: center; border-bottom: 1px solid #000; }
         .ticker-track { display: flex; white-space: nowrap; animation: scroll 80s linear infinite; }
         @keyframes scroll { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } }
-        .ticker-item { color: #FFD09A; padding-right: 50px; font-size: 12px; font-weight: bold; }
-        .board { max-width: 900px; margin: 20px auto; background: #F5F0E8; box-shadow: 10px 10px 0px #000; padding: 20px; }
-        .update-btn { background: #1B3A6B; color: white; border: none; padding: 10px; cursor: pointer; float: right; font-family: inherit; }
+        .ticker-item { color: #FFD09A; font-size: 11px; padding-right: 64px; font-weight: bold; }
+        .main-container { max-width: 860px; margin: 0 auto; background: #F5F0E8; min-height: 100vh; border-left: 1px solid #ddd; border-right: 1px solid #ddd; }
+        .header { padding: 15px 20px; border-bottom: 2px solid #333; display: flex; justify-content: space-between; align-items: center; background: #eeeae3; }
+        .grid-container { display: grid; grid-template-columns: 1fr 1fr; gap: 1px; background: #ccc; border-bottom: 1px solid #ccc; }
+        .section-card { background: white; padding: 15px; }
+        .item-row { display: flex; justify-content: space-between; margin-bottom: 8px; font-size: 11px; align-items: center; }
+        .odds-badge { font-weight: 700; padding: 2px 6px; borderRadius: 3px; font-size: 11px; }
     </style>
 </head>
 <body>
@@ -26,19 +31,19 @@
         function App() {
             const [data, setData] = useState(null);
 
-            const loadData = async () => {
-                // El secreto: agregamos un timestamp para que no guarde caché y siempre traiga lo último de GitHub
-                const resp = await fetch(`./data.json?t=${Date.now()}`);
-                const json = await resp.json();
-                setData(json);
+            const fetchData = async () => {
+                const r = await fetch(`./data.json?v=${Date.now()}`);
+                const j = await r.json();
+                setData(j);
             };
 
-            useEffect(() => { loadData(); }, []);
+            useEffect(() => { fetchData(); }, []);
 
-            if (!data) return <div style={{color:'white'}}>Iniciando sistemas OSINT...</div>;
+            if (!data) return <div style={{color:'white', padding:20}}>Sincronizando con satélites OSINT...</div>;
 
             return (
-                <div>
+                <div className="main-container">
+                    {/* Ticker Original */}
                     <div className="ticker-container">
                         <div className="ticker-track">
                             {[...data.ticker, ...data.ticker].map((t, i) => (
@@ -46,15 +51,34 @@
                             ))}
                         </div>
                     </div>
-                    <div className="board">
-                        <button className="update-btn" onClick={loadData}>🔄 SINCRONIZAR FUENTES</button>
-                        <h1>GOP REAL-TIME ODDS</h1>
-                        <hr/>
+
+                    <div className="header">
+                        <div>
+                            <h2 style={{margin:0, fontSize:16, letterSpacing:'1px'}}>GEOPOLITICAL ODDS BOARD</h2>
+                            <small style={{fontSize:9, color:'#666'}}>TERMINAL VER. 4.0.2 // ACTUALIZACIÓN AUTOMÁTICA</small>
+                        </div>
+                        <button onClick={fetchData} style={{background:'#1B3A6B', color:'white', border:'none', padding:'5px 10px', fontSize:10, cursor:'pointer'}}>
+                            REFRESCAR DATOS
+                        </button>
+                    </div>
+
+                    <div className="grid-container">
                         {data.sections.map((sec, i) => (
-                            <div key={i}>
-                                <h3 style={{color:'#7B1D1D'}}>{sec.title}</h3>
+                            <div key={i} className="section-card">
+                                <h3 style={{fontSize:12, color:'#7B1D1D', marginBottom:12, borderBottom:'1px solid #eee', paddingBottom:5}}>
+                                    {sec.title}
+                                </h3>
                                 {sec.items.map((item, j) => (
-                                    <p key={j}>{item.label}: <strong>{item.odds}</strong></p>
+                                    <div key={j} className="item-row">
+                                        <span style={{flex:1, paddingRight:10}}>{item.label}</span>
+                                        <div style={{display:'flex', gap:8}}>
+                                            <span className="odds-badge" style={{
+                                                background: item.odds.startsWith('-') ? '#EBF7EF' : '#EBF0FA',
+                                                color: item.odds.startsWith('-') ? '#1B5E38' : '#1B3A6B'
+                                            }}>{item.odds}</span>
+                                            <span style={{fontWeight:'bold', width:30}}>{item.pct}%</span>
+                                        </div>
+                                    </div>
                                 ))}
                             </div>
                         ))}
@@ -62,6 +86,7 @@
                 </div>
             );
         }
+
         const root = ReactDOM.createRoot(document.getElementById('root'));
         root.render(<App />);
     </script>
