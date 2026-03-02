@@ -11,7 +11,6 @@
     <style>
         body { margin: 0; background-color: #0d0d0d; font-family: 'IBM Plex Mono', monospace; }
         .main-container { max-width: 860px; margin: 0 auto; background: #F5F0E8; min-height: 100vh; border-left: 1px solid #333; border-right: 1px solid #333; }
-        /* Ticker ocultará la barra de desplazamiento */
         ::-webkit-scrollbar { width: 0px; background: transparent; }
     </style>
 </head>
@@ -20,24 +19,22 @@
     <script type="text/babel">
         const { useState, useEffect, useRef } = React;
 
-        // ── HELPERS ORIGINALES (Intactos) ──
         function calcImplied(o) {
-            if (o === "LIQUIDADO") return null;
+            if (!o || o === "LIQUIDADO") return null;
             const n = parseFloat(o.replace(/\s/g, ""));
             if (isNaN(n)) return null;
             return n < 0 ? Math.round((Math.abs(n) / (Math.abs(n) + 100)) * 100) : Math.round((100 / (n + 100)) * 100);
         }
         const oddsColor = o => {
-            if (o === "LIQUIDADO") return "#7B1D1D";
+            if (!o || o === "LIQUIDADO") return "#7B1D1D";
             return o.trim().startsWith("-") ? "#1B5E38" : "#1B3A6B";
         };
         const oddsBg = o => {
-            if (o === "LIQUIDADO") return "#FDF0E0";
+            if (!o || o === "LIQUIDADO") return "#FDF0E0";
             return o.trim().startsWith("-") ? "#EBF7EF" : "#EBF0FA";
         };
         const pctColor = p => p === null ? "#999" : p >= 60 ? "#1B5E38" : p >= 30 ? "#7B4A00" : "#7B1D1D";
 
-        // ── SUBCOMPONENTES ORIGINALES ──
         function MovedBadge({ moved }) {
             if (!moved || moved === "none") return null;
             const d = moved === "down";
@@ -55,7 +52,8 @@
         function ExpandableParams({ text }) {
             const [exp, setExp] = useState(false);
             const LIMIT = 130;
-            const long = text && text.length > LIMIT;
+            if (!text) return null;
+            const long = text.length > LIMIT;
             return (
                 <div style={{ fontSize: 10.5, color: "#6A6055", lineHeight: 1.7, marginTop: 8 }}>
                     {exp || !long ? text : `${text.slice(0, LIMIT)}…`}
@@ -70,10 +68,13 @@
         }
 
         function EventCard({ row, isEven }) {
-            const settled = row.odds === "LIQUIDADO";
-            const implied = calcImplied(row.odds);
-            const oc = oddsColor(row.odds);
-            const obg = oddsBg(row.odds);
+            // BLINDAJE: Si la IA usa "label" en vez de "event", o si olvida el odd, lo soportamos.
+            const eventName = row.event || row.label || "Evento sin título";
+            const oddsVal = row.odds || "LIQUIDADO";
+            const settled = oddsVal === "LIQUIDADO";
+            const implied = row.pct !== undefined ? row.pct : calcImplied(oddsVal);
+            const oc = oddsColor(oddsVal);
+            const obg = oddsBg(oddsVal);
             const pc = pctColor(implied);
             
             return (
@@ -83,7 +84,7 @@
                 }}>
                     <div style={{ marginBottom: 8 }}>
                         <span style={{ fontSize: 12.5, fontWeight: "600", color: settled ? "#999" : "#1A1A1A", lineHeight: 1.45, textDecoration: settled ? "line-through" : "none" }}>
-                            {row.event}
+                            {eventName}
                         </span>
                         <MovedBadge moved={row.moved} />
                     </div>
@@ -95,7 +96,7 @@
                         ) : (
                             <>
                                 <div style={{ background: obg, border: `1.5px solid ${oc}55`, borderRadius: 5, color: oc, fontSize: 16, fontWeight: "700", width: 90, textAlign: "center", padding: "6px 4px" }}>
-                                    {row.odds}
+                                    {oddsVal}
                                 </div>
                                 <div style={{ fontSize: 16, fontWeight: "700", color: pc, minWidth: 44, textAlign: "center" }}>
                                     {implied !== null ? `${implied}%` : "—"}
@@ -113,7 +114,7 @@
             const trackRef = useRef(null);
             const posRef = useRef(0);
             const rafRef = useRef(null);
-            const SPEED = 0.45; // Tu velocidad original
+            const SPEED = 0.45;
 
             useEffect(() => {
                 if (!items || items.length === 0) return;
@@ -123,7 +124,7 @@
                 function step() {
                     posRef.current += SPEED;
                     if (halfW > 0 && posRef.current >= halfW) posRef.current = 0;
-                    track.style.transform = `translateX(${-posRef.current}px)`;
+                    if(track) track.style.transform = `translateX(${-posRef.current}px)`;
                     rafRef.current = requestAnimationFrame(step);
                 }
                 rafRef.current = requestAnimationFrame(step);
@@ -149,24 +150,35 @@
         function App() {
             const [data, setData] = useState(null);
             const [updating, setUpdating] = useState(false);
+            const [error, setError] = useState(false);
 
             const fetchData = async () => {
                 setUpdating(true);
+                setError(false);
                 try {
                     const r = await fetch(`./data.json?v=${Date.now()}`);
+                    if (!r.ok) throw new Error("Error HTTP");
                     const j = await r.json();
                     setData(j);
-                } catch (e) { console.error(e); }
+                } catch (e) { 
+                    console.error("Fallo al cargar datos:", e); 
+                    setError(true);
+                }
                 setUpdating(false);
             };
 
             useEffect(() => { fetchData(); }, []);
 
-            if (!data) return <div style={{color:'white', padding:30, textAlign: 'center', fontSize: 14}}>📡 Iniciando enlace satelital OSINT...</div>;
+            if (error) return <div style={{color:'red', padding:30, textAlign: 'center', fontFamily: 'monospace'}}>❌ Error: No se pudo leer data.json. Revisa tu script de GitHub Actions.</div>;
+            if (!data) return <div style={{color:'white', padding:30, textAlign: 'center', fontFamily: 'monospace'}}>📡 Iniciando enlace satelital OSINT...</div>;
+
+            // BLINDAJE: Si Llama 3 omite el ticker o sections, creamos arrays vacíos para que no crashee
+            const safeTicker = data.ticker || ["No hay datos en el ticker"];
+            const safeSections = data.sections || [];
 
             return (
                 <div className="main-container">
-                    <Ticker items={data.ticker} isUpdating={updating} />
+                    <Ticker items={safeTicker} isUpdating={updating} />
                     
                     <div style={{ padding: "15px 20px", borderBottom: "2px solid #333", display: "flex", justifyContent: "space-between", alignItems: "center", background: "#eeeae3" }}>
                         <div>
@@ -181,16 +193,22 @@
                     </div>
 
                     <div style={{ padding: 20 }}>
-                        {data.sections.map((sec, i) => (
-                            <div key={i} style={{ marginBottom: 20, border: "1px solid #E4DDD0", borderRadius: 5, overflow: "hidden", boxShadow: "0 2px 5px rgba(0,0,0,0.05)" }}>
-                                <div style={{ background: "#EAE3D5", padding: "8px 16px", borderBottom: "1px solid #E4DDD0", fontSize: 14, fontWeight: "bold", color: "#1A1A1A", letterSpacing: '0.5px' }}>
-                                    {sec.flag} {sec.label}
+                        {safeSections.length === 0 && <div style={{textAlign:'center', color:'#7B1D1D'}}>No hay escenarios activos en este momento.</div>}
+                        
+                        {safeSections.map((sec, i) => {
+                            // BLINDAJE: Soportar "rows" (diseño final) o "items" (diseño viejo)
+                            const rows = sec.rows || sec.items || [];
+                            return (
+                                <div key={i} style={{ marginBottom: 20, border: "1px solid #E4DDD0", borderRadius: 5, overflow: "hidden", boxShadow: "0 2px 5px rgba(0,0,0,0.05)" }}>
+                                    <div style={{ background: "#EAE3D5", padding: "8px 16px", borderBottom: "1px solid #E4DDD0", fontSize: 14, fontWeight: "bold", color: "#1A1A1A", letterSpacing: '0.5px' }}>
+                                        {sec.flag || "📁"} {sec.label || sec.title || "SECCIÓN"}
+                                    </div>
+                                    {rows.map((row, j) => (
+                                        <EventCard key={j} row={row} isEven={j % 2 === 0} />
+                                    ))}
                                 </div>
-                                {sec.rows.map((row, j) => (
-                                    <EventCard key={j} row={row} isEven={j % 2 === 0} />
-                                ))}
-                            </div>
-                        ))}
+                            );
+                        })}
                     </div>
                 </div>
             );
