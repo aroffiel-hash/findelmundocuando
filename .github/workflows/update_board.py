@@ -4,50 +4,82 @@ import sys
 import requests
 from datetime import datetime
 
-# Configuración de API
-API_KEY = os.environ.get("GEMINI_API_KEY")
-URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={API_KEY}"
+GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "")
+GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
 
-def update_board():
-    today = datetime.now().strftime("%d de %B de %Y — %H:%M UTC")
+def main():
+    if not GROQ_API_KEY:
+        print("❌ Error: No se encontró GROQ_API_KEY en las variables de entorno.")
+        sys.exit(1)
+
+    today = datetime.utcnow().strftime("%d de %B de %Y — %H:%M UTC")
     
-    # El prompt le pide a la IA que use noticias reales de marzo 2026 y mantenga el formato
-    prompt = {
-        "contents": [{
-            "parts": [{
-                "text": f"Eres un analista senior de inteligencia. Hoy es {today}. Genera un JSON estrictamente válido para un Geopolitical Odds Board. "
-                        "Debe incluir: 1) 'ticker' con 15 noticias cortas reales con emojis. "
-                        "2) 'sections' con 14 categorías (Macro, Irán, México, Cuba, Ucrania, Taiwán, Afganistán, Pakistán, China, Rusia, Corea del Norte, Interior EE.UU., Economía, Longshots). "
-                        "Cada categoría debe tener 'flag', 'label' y 'rows' (con 'event', 'odds' tipo -150/+200, 'moved' y 'params'). "
-                        "3) 'lastUpdated': '{today}'. Responde SOLO el objeto JSON, sin markdown."
-            }]
-        }]
+    prompt = f"""
+    Fecha actual: {today}
+    Genera un JSON actualizado para el tablero geopolítico.
+    Estructura EXACTA requerida:
+    {{
+      "lastUpdated": "{today}",
+      "ticker": ["⚡ Noticia 1", "🔴 Noticia 2", "15 noticias en total"],
+      "sections": [
+        {{
+          "flag": "🌍",
+          "label": "ESCENARIOS MACRO",
+          "rows": [
+            {{"event": "Conflicto escala", "odds": "-150", "moved": "down", "params": "Razón breve"}}
+          ]
+        }}
+      ]
+    }}
+    Instrucciones:
+    - Genera al menos 10-14 secciones (Macro, Irán, México, Economía, etc).
+    - Usa noticias geopolíticas de alta tensión de marzo 2026.
+    - Devuelve ÚNICAMENTE JSON válido. Nada de markdown.
+    """
+
+    headers = {
+        "Authorization": f"Bearer {GROQ_API_KEY}",
+        "Content-Type": "application/json"
+    }
+    
+    payload = {
+        "model": "llama3-70b-8192",
+        "messages": [
+            {"role": "system", "content": "Eres un analista OSINT experto. Solo respondes en JSON."},
+            {"role": "user", "content": prompt}
+        ],
+        "temperature": 0.3,
+        "response_format": {"type": "json_object"}
     }
 
     try:
-        response = requests.post(URL, json=prompt)
-        response.raise_for_status()
-        result = response.json()
-        
-        # Extraer el texto del JSON que devuelve Gemini
-        raw_text = result['candidates'][0]['content']['parts'][0]['text']
-        # Limpiar posibles bloques de código markdown
-        clean_json = raw_text.strip().replace('```json', '').replace('```', '')
-        
-        data = json.loads(clean_json)
-        data["lastUpdated"] = today # Asegurar fecha correcta
+        print("📡 Conectando a Groq (Llama 3)...")
+        r = requests.post(GROQ_URL, headers=headers, json=payload, timeout=90)
+        r.raise_for_status()
+        raw = r.json()["choices"][0]["message"]["content"]
 
-        with open("data.json", "w", encoding="utf-8") as f:
-            json.dump(data, f, indent=2, ensure_ascii=False)
+        # Limpieza básica por si la IA devuelve markdown
+        clean = raw.strip().lstrip("```json").lstrip("```").rstrip("```").strip()
+        data = json.loads(clean)
+
+        # Inyectar fecha sí o sí
+        data["lastUpdated"] = today
+        
+        # Validar mínimo viable sin romper el programa si faltan secciones
+        if "sections" not in data:
+            data["sections"] = []
+        if "ticker" not in data:
+            data["ticker"] = ["⚡ Actualizando fuentes satelitales..."]
+
+        out = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data.json")
+        with open(out, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
             
-        print(f"✅ Tablero actualizado con éxito el {today}")
+        print(f"✅ Éxito. {len(data['sections'])} secciones generadas.")
 
     except Exception as e:
-        print(f"❌ Error crítico: {str(e)}")
+        print(f"❌ Error fatal durante la generación o procesado: {str(e)}")
         sys.exit(1)
 
 if __name__ == "__main__":
-    if not API_KEY:
-        print("❌ Error: GEMINI_API_KEY no configurada en Secrets")
-        sys.exit(1)
-    update_board()
+    main()
