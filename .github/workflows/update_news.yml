@@ -1,0 +1,28 @@
+name: Actualizar Noticias OSINT
+on:
+  schedule:
+    - cron: '*/30 * * * *' # Se ejecuta cada 30 minutos
+  workflow_dispatch: # Permite ejecutarlo manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - name: Instalar dependencias
+        run: pip install openai requests
+      - name: Ejecutar Script de Actualización
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python update_board.py
+      - name: Commit y Push de cambios
+        run: |
+          git config --global user.name 'OSINT-Bot'
+          git config --global user.email 'bot@github.com'
+          git add data.json
+          git commit -m "Auto-update: Noticias de último minuto" || exit 0
+          git push
