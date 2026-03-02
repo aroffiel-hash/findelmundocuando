@@ -1,41 +1,200 @@
 {
-    "ticker": [
-        "⚡ CENTCOM confirma: 3 bajas EE.UU. en combate (1 mar.)",
-        "🔴 CGRI lanza 6ª oleada contra Tel Aviv y Dubai",
-        "🛳️ USS Abraham Lincoln en posición en el Golfo de Omán",
-        "⛽ Brent escala a $105 por tensiones en Ormuz",
-        "🏛️ Consejo de Seguridad de la ONU convoca sesión de emergencia"
-    ],
-    "sections": [
-        {
-            "title": "ESCENARIOS GEOPOLÍTICOS",
-            "items": [
-                {
-                    "label": "Conflicto regional escala a Guerra Total",
-                    "odds": "+210",
-                    "pct": 32
-                },
-                {
-                    "label": "Apertura de corredor humanitario en Ormuz",
-                    "odds": "-110",
-                    "pct": 52
-                }
-            ]
-        },
-        {
-            "title": "MERCADOS & ENERGÍA",
-            "items": [
-                {
-                    "label": "Cierre total del Estrecho de Ormuz (>48h)",
-                    "odds": "+550",
-                    "pct": 15
-                },
-                {
-                    "label": "Oro alcanza nuevo máximo histórico",
-                    "odds": "-250",
-                    "pct": 71
-                }
-            ]
-        }
-    ]
+  "lastUpdated": "1 de marzo de 2026 — 12:00",
+  "ticker": [
+    "⚡ 3 militares EE.UU. muertos en combate · 5 heridos graves (CENTCOM, 1 mar.)",
+    "🔴 6ª oleada del CGRI: Tel Aviv · Dubai (Jebel Ali) · Manama · Doha · Kuwait · Arabia Saudita",
+    "🛳️ EE.UU. hundió corbeta iraní clase Jamaran en el Golfo de Omán",
+    "💀 Trump en Fox News: 48 líderes del régimen iraní muertos en Operación Furia Épica",
+    "📡 CGRI reclamó impacto en USS Abraham Lincoln — CENTCOM: 'Los misiles ni siquiera se acercaron'",
+    "⛽ Barclays: Brent podría cerrar el lunes sobre $100 · Mizuho: cierre prolongado → $130/barril",
+    "✈️ Air France · Lufthansa · Turkish Airlines · Swiss · Air India suspendieron vuelos",
+    "🏛️ Macron pidió reunión urgente del Consejo de Seguridad de la ONU",
+    "🕊️ Trump: 'Los nuevos líderes iraníes quieren hablar, y yo he aceptado hablar'",
+    "🇺🇦 Zelenski: 'Es justo darle al pueblo iraní la oportunidad de librarse del régimen'",
+    "🇲🇽 Sheinbaum: 'Paz, queremos paz. México siempre va a luchar por la paz'",
+    "🇨🇺 Díaz-Canel: 'Flagrante violación del Derecho Internacional'",
+    "🇹🇼 Lai de Taiwán: '2026 será crucial. Prepararse para el peor escenario posible'",
+    "☢️ CSER: Reserva de 440 kg de UHE de Irán intacta. Incentivo nuclear disparado",
+    "✅ APUESTA LIQUIDADA: Muerte de Jamenei confirmada · Trump: 'Justicia para el pueblo iraní'",
+    "🛢️ OPEC+ evalúa acelerar producción de emergencia para frenar escalada de precios"
+  ],
+  "sections": [
+    {
+      "flag": "🌍",
+      "label": "ESCENARIOS MACRO",
+      "rows": [
+        { "event": "El conflicto se mantiene solo regional", "odds": "-380", "params": "Ninguna gran potencia fuera de EE.UU./Israel en combate directo. Irán atacó en 7+ países.", "moved": "down" },
+        { "event": "3+ grandes potencias en conflicto directo en 2026", "odds": "+220", "params": "EE.UU. + dos de: China, Rusia, RU, Francia en intercambio militar antes del 31 dic.", "moved": "down" },
+        { "event": "WW3 activa en 4 frentes simultáneos", "odds": "+400", "params": "Combate activo en Medio Oriente + Asia del Sur + Taiwán + Europa simultáneamente.", "moved": "none" },
+        { "event": "Tercera Guerra Mundial por definición estricta", "odds": "+950", "params": "3+ grandes potencias en cada bando, 4+ frentes activos.", "moved": "none" }
+      ]
+    },
+    {
+      "flag": "🇮🇷",
+      "label": "IRÁN",
+      "rows": [
+        { "event": "El gobierno iraní colapsa en 6 meses", "odds": "-160", "params": "Jamenei + 48 líderes muertos. Mousavi + ministro de Defensa + jefe del CGRI confirmados muertos.", "moved": "down" },
+        { "event": "Irán se vuelve nuclear en 12 meses", "odds": "-180", "params": "440 kg UHE intactos. Acuerdo nuclear muerto. Sistema HQ-9B en Teherán desactivado.", "moved": "down" },
+        { "event": "Muerte de Jamenei confirmada", "odds": "LIQUIDADO", "params": "✓ COBRADO — TV estatal iraní, 28 feb. 2026.", "moved": "none" },
+        { "event": "Alto el fuego iraní en 30 días", "odds": "+1400", "params": "CGRI promete operación más feroz de la historia. Trump aceptó hablar con nuevos líderes.", "moved": "up" },
+        { "event": "Estrecho de Ormuz cerrado 30+ días", "odds": "+200", "params": "Caída 40-50% en tráfico ya confirmada. Mizuho: cierre prolongado → $130+/barril.", "moved": "up" },
+        { "event": "Irán solicita asistencia militar del Talibán", "odds": "+130", "params": "Talibán prometió apoyo si Irán era atacado — condición cumplida.", "moved": "down" }
+      ]
+    },
+    {
+      "flag": "🇲🇽",
+      "label": "MÉXICO",
+      "rows": [
+        { "event": "México sufre recesión técnica por shock del conflicto", "odds": "+220", "params": "GDP México pronosticado al 1.4-1.6% antes del conflicto. Vulnerabilidad por importaciones de combustibles.", "moved": "down" },
+        { "event": "Peso mexicano cae 10%+ frente al dólar en 30 días", "odds": "+170", "params": "VIX ya subió ~30% en 2026. En episodios previos el dólar se fortaleció vs. emergentes.", "moved": "down" },
+        { "event": "Pemex sufre pérdidas extraordinarias o requiere rescate", "odds": "-120", "params": "Pemex ya endeudado estructuralmente. Volatilidad extrema del crudo + peso.", "moved": "down" },
+        { "event": "Sheinbaum convoca mediación de paz internacional", "odds": "+420", "params": "SRE hizo llamado urgente. El embajador iraní en México pidió condenar los ataques.", "moved": "none" },
+        { "event": "Conflicto agrava crisis de seguridad interna en México", "odds": "-200", "params": "133,454 personas desaparecidas en México. Distracción geopolítica + dólar fuerte.", "moved": "down" },
+        { "event": "México rompe relaciones con EE.UU. o Israel", "odds": "+1400", "params": "MUY LARGO: Postura neutral. México no rompe con EE.UU. por T-MEC.", "moved": "none" }
+      ]
+    },
+    {
+      "flag": "🇨🇺",
+      "label": "CUBA",
+      "rows": [
+        { "event": "Cuba sufre crisis energética severa por el conflicto", "odds": "-240", "params": "Isla ya con apagones prolongados. Cuba perdió petróleo venezolano. México suspendió suministros.", "moved": "down" },
+        { "event": "Díaz-Canel participa en cumbre del eje anti-OTAN", "odds": "+160", "params": "Cuba se alineó retóricamente con Rusia y China. Díaz-Canel: 'execrable acto'.", "moved": "down" },
+        { "event": "Cuba rompe relaciones con EE.UU. o expulsa embajadores", "odds": "+380", "params": "Canciller: ataques 'arruinaron por segunda vez los esfuerzos de la diplomacia nuclear'.", "moved": "down" },
+        { "event": "EE.UU. toma acción coercitiva directa contra Cuba", "odds": "+520", "params": "EE.UU. sobrecomprometido en Medio Oriente. Cuba condenó en los términos más duros.", "moved": "up" },
+        { "event": "Cuba formaliza alianza de defensa con Irán", "odds": "+950", "params": "Cuba no tiene capacidad militar real para apoyar a Irán. Postura diplomática.", "moved": "none" }
+      ]
+    },
+    {
+      "flag": "🇺🇦",
+      "label": "UCRANIA",
+      "rows": [
+        { "event": "Zelenski presiona por más armamento por el contexto iraní", "odds": "-500", "params": "57,000+ ataques de drones Shahed iraníes contra Ucrania. Intercambio de inteligencia.", "moved": "down" },
+        { "event": "Ucrania recibe menos ayuda por distracción del Congreso", "odds": "-160", "params": "Congreso en crisis constitucional por Poderes de Guerra vs. Irán.", "moved": "down" },
+        { "event": "Rusia aprovecha distracción de EE.UU. para avanzar", "odds": "+140", "params": "Ministerio de Defensa ruso reportó avance el 28 de feb. Ventana estratégica máxima.", "moved": "down" },
+        { "event": "Zelenski acepta armas nucleares de aliado occidental", "odds": "+280", "params": "Zelenski: 'Con mucho gusto, pero no he tenido propuestas'.", "moved": "down" },
+        { "event": "Rusia-Ucrania logran alto el fuego mediado por Trump", "odds": "+320", "params": "Trump distraído en Irán. Globsec: 30%+ probabilidad de estancamiento.", "moved": "up" }
+      ]
+    },
+    {
+      "flag": "🇹🇼",
+      "label": "TAIWÁN",
+      "rows": [
+        { "event": "China lanza ejercicios militares a gran escala en 30 días", "odds": "-200", "params": "Misión Justicia-2025: 130 aviones + 22 buques. USS Lincoln y Ford en el Golfo.", "moved": "down" },
+        { "event": "Trump hace concesiones sobre Taiwán a cambio de neutralidad china", "odds": "+200", "params": "China explora debilitar apoyo a Taipéi. Trump puede cambiar de rumbo sin previo aviso.", "moved": "down" },
+        { "event": "China intenta bloqueo o acción militar en 60 días", "odds": "+350", "params": "Pekín busca concesiones de Trump aprovechando la crisis.", "moved": "down" },
+        { "event": "China actúa militarmente contra Taiwán en 12 meses", "odds": "+165", "params": "Xi puede actuar antes de que Corea del Sur se rearme. Lai: 2026 es crucial.", "moved": "down" },
+        { "event": "Taiwán activa reservistas y acelera compras de armamento", "odds": "-180", "params": "Trump ya aprobó paquete de $10,000M (HIMARS, ATACMS, Javelin).", "moved": "down" }
+      ]
+    },
+    {
+      "flag": "🇦🇫",
+      "label": "AFGANISTÁN / ALIANZA IRANÍ",
+      "rows": [
+        { "event": "Talibán proporciona apoyo material a Irán", "odds": "+190", "params": "Talibán prometió apoyo si Irán era atacado — condición cumplida.", "moved": "down" },
+        { "event": "Talibán abre frente oriental contra Pakistán", "odds": "+420", "params": "Qatar media entre Afganistán y Pakistán.", "moved": "up" },
+        { "event": "Alianza militar formal Talibán-Irán", "odds": "+480", "params": "Posible como movimiento de legitimidad. Tensiones históricas CGRI-Talibán persisten.", "moved": "none" }
+      ]
+    },
+    {
+      "flag": "🇵🇰",
+      "label": "PAKISTÁN",
+      "rows": [
+        { "event": "Conflicto Pak-Afg se expande significativamente", "odds": "-115", "params": "Qatar media. Leve señal de restricción. Aún favorito ajustado.", "moved": "up" },
+        { "event": "Pakistán utiliza arma nuclear", "odds": "+750", "params": "9 muertos en consulado de Karachi. Dos frentes militares. Gobierno bajo tensión severa.", "moved": "down" },
+        { "event": "Golpe de estado o desestabilización del gobierno", "odds": "+280", "params": "Karachi en caos, militares en dos frentes, sentimiento anti-gobierno en alza.", "moved": "down" }
+      ]
+    },
+    {
+      "flag": "🇨🇳",
+      "label": "CHINA",
+      "rows": [
+        { "event": "China provee ayuda militar directa a Irán", "odds": "+460", "params": "China llama a la moderación. Ayuda directa destruiría visita de Trump a Pekín.", "moved": "up" },
+        { "event": "China entra en conflicto directo con EE.UU.", "odds": "+580", "params": "China busca concesiones diplomáticas. Una guerra sería catástrofe para su economía.", "moved": "up" }
+      ]
+    },
+    {
+      "flag": "🇷🇺",
+      "label": "RUSIA",
+      "rows": [
+        { "event": "Rusia lanza ofensiva mayor en Ucrania", "odds": "+140", "params": "MoD ruso reportó avance el 28 de feb. EE.UU. distraído — ventana estratégica máxima.", "moved": "down" },
+        { "event": "Rusia establece alianza formal con Irán", "odds": "+230", "params": "Putin condenó el asesinato de Jamenei como 'asesinato cínico'.", "moved": "down" },
+        { "event": "Rusia entra en conflicto con miembro de la OTAN", "odds": "+520", "params": "Francia ofreció desplegar fuerzas. Rusia evita confrontación directa.", "moved": "none" }
+      ]
+    },
+    {
+      "flag": "🇰🇵",
+      "label": "COREA DEL NORTE",
+      "rows": [
+        { "event": "Prueba nuclear o de ICBM en 30 días", "odds": "-160", "params": "Portaaviones de EE.UU. en el Golfo. Kim condenó los ataques. Ventana máxima.", "moved": "down" },
+        { "event": "Provocaciones de artillería/fronterizas escalan", "odds": "-240", "params": "Casi certeza dado el compromiso total de EE.UU. en el Golfo.", "moved": "down" },
+        { "event": "Invasión total de Corea del Sur", "odds": "+360", "params": "Voces pro-arma nuclear en Seúl se aceleran. Kim puede actuar antes.", "moved": "down" },
+        { "event": "Transfiere armas o tropas al conflicto iraní", "odds": "+195", "params": "Corea del Norte ya desplegó tropas en Rusia — plantilla existe.", "moved": "down" }
+      ]
+    },
+    {
+      "flag": "🇺🇸",
+      "label": "EE.UU. — INTERIOR",
+      "rows": [
+        { "event": "Órdenes stop-loss activadas por el Pentágono", "odds": "-500", "params": "Casi certeza: 3 muertos confirmados, 5 heridos graves, conflicto en 7+ países.", "moved": "down" },
+        { "event": "Activación plena de la Guardia Nacional/Reserva", "odds": "-320", "params": "Bajas confirmadas, Irán atacando activos en múltiples países.", "moved": "down" },
+        { "event": "Se reinstala el reclutamiento militar obligatorio", "odds": "+210", "params": "Si se abren frentes en Taiwán y Corea con Medio Oriente sostenido.", "moved": "down" },
+        { "event": "Declaración de guerra formal del Congreso", "odds": "+260", "params": "Sen. Kaine: 'Esta es una guerra ilegal'. Crisis constitucional en desarrollo.", "moved": "down" },
+        { "event": "Poderes de Guerra llega al Tribunal Supremo", "odds": "-220", "params": "Sin autorización del Congreso + bajas + múltiples países = caso más sólido de la historia.", "moved": "down" }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA",
+      "rows": [
+        { "event": "Petróleo Brent por encima de $100/barril en 7 días", "odds": "-140", "params": "Brent cerró viernes en $72.48. Ya subió ~10% en extrabursátil. OPEC+ reunión de emergencia.", "moved": "down" },
+        { "event": "Petróleo WTI por encima de $150/barril en 90 días", "odds": "+140", "params": "Mizuho: cierre prolongado de Ormuz → $130+/barril.", "moved": "down" },
+        { "event": "Recesión global por el conflicto declarada por el FMI", "odds": "+140", "params": "Dubai (Jebel Ali) bajo ataque. Aerolíneas suspendidas. 40-50% caída en tráfico de Ormuz.", "moved": "down" },
+        { "event": "S&P 500 cae 20%+ desde hoy en 90 días", "odds": "+160", "params": "VIX ya subió ~30% en 2026. García-Herrero: caídas del 1-2% o más en apertura del lunes.", "moved": "down" },
+        { "event": "OPEC+ acelera producción de emergencia", "odds": "-160", "params": "OPEC+ evalúa acelerar de manera significativa la oferta de crudo este domingo.", "moved": "down" }
+      ]
+    },
+    {
+      "flag": "🎲",
+      "label": "LONGSHOTS",
+      "rows": [
+        { "event": "ONU aprueba resolución vinculante de alto el fuego", "odds": "+2500", "params": "EE.UU. vetará cualquier crítica a sí mismo. Rusia/China vetarán todo lo demás.", "moved": "up" },
+        { "event": "Alto el fuego diplomático simultáneo en todos los frentes", "odds": "+1800", "params": "CGRI en 6ª oleada. Única señal positiva: Trump aceptó hablar con nuevos líderes.", "moved": "up" },
+        { "event": "Una arma nuclear utilizada en cualquier lugar", "odds": "+420", "params": "Pakistán en dos frentes + incentivo nuclear iraní máximo + Corea del Norte activa.", "moved": "down" },
+        { "event": "Dos o más armas nucleares utilizadas", "odds": "+950", "params": "ACORTADO desde +1500.", "moved": "down" },
+        { "event": "WW3 por todas las definiciones antes del 31 dic. 2026", "odds": "+1500", "params": "ACORTADO desde +2500. China y Rusia fuera son la única fuerza de contención real.", "moved": "down" }
+      ]
+    }
+  ],
+  "newsCards": [
+    { "tag": "TEHERÁN", "tagColor": "#7B1D1D", "headline": "Columnas de humo sobre Teherán tras los ataques del 28 de feb.", "sub": "Xinhua: EE.UU. e Israel hundieron a Medio Oriente en una nueva ronda de conflictos", "credit": "Reuters/WANA · Xinhua", "wikiTitle": "Tehran", "icon": "💥" },
+    { "tag": "WANG YI — BEIJING", "tagColor": "#C00000", "headline": "Wang Yi: «El asesinato de un líder soberano es inaceptable»", "sub": "Global Times: China sumamente preocupada · Llamada Lavrov-Wang Yi", "credit": "Xinhua · Global Times", "wikiTitle": "Wang Yi (politician)", "icon": "🇨🇳" },
+    { "tag": "VLADÍMIR PUTIN", "tagColor": "#1A3A8B", "headline": "Putin: «Asesinato cínico de un líder de Estado soberano»", "sub": "TASS: Lavrov calificó los ataques de agresión armada no provocada", "credit": "TASS · RT · MFA Rusia", "wikiTitle": "Vladimir Putin", "icon": "🇷🇺" },
+    { "tag": "ESTRECHO DE ORMUZ", "tagColor": "#004E6B", "headline": "Tráfico de Ormuz cae 40–50% · OPEC+ convoca reunión de emergencia", "sub": "S&P Global: 20% del petróleo mundial en juego · Mizuho: $130/barril", "credit": "S&P Global · Mizuho · Barclays", "wikiTitle": "Strait of Hormuz", "icon": "🛢️" },
+    { "tag": "NARENDRA MODI", "tagColor": "#FF6600", "headline": "Modi en fuego cruzado diplomático · 10M de indios en el Golfo", "sub": "Bloomberg: visita al Knesset creó percepción de aval tácito de agresión", "credit": "Bloomberg · Scroll.in", "wikiTitle": "Narendra Modi", "icon": "🇮🇳" },
+    { "tag": "CONSEJO DE SEGURIDAD ONU", "tagColor": "#1B5E38", "headline": "CSNU de emergencia · Macron y Guterres piden alto al fuego inmediato", "sub": "EE.UU. y Rusia/China se bloquean mutuamente · Resolución: +2500 (4%)", "credit": "ONU · Elysée · Reuters", "wikiTitle": "United Nations Security Council", "icon": "🏛️" },
+    { "tag": "KARACHI — PAKISTÁN", "tagColor": "#3A6B1B", "headline": "9 muertos en el Consulado de EE.UU. · Pakistán en dos frentes", "sub": "AP: policía dispara gas lacrimógeno a chiítas · Arma nuclear pakistaní: +750", "credit": "AP · AFP · Dawn News", "wikiTitle": "Karachi", "icon": "💣" },
+    { "tag": "WILLIAM LAI — TAIWÁN", "tagColor": "#00486B", "headline": "Lai: «2026 será crucial para Taiwán. Prepararse para el peor escenario»", "sub": "USS Lincoln y Ford en el Golfo · China Misión Justicia-2025: artillería real a 24 millas", "credit": "Reuters · Xataka", "wikiTitle": "William Lai", "icon": "🇹🇼" }
+  ],
+  "breakingNews": [
+    { "icon": "💀", "text": "48 líderes régimen iraní muertos (Trump, Fox News)" },
+    { "icon": "🛳️", "text": "EE.UU. hundió corbeta iraní clase Jamaran en Golfo de Omán" },
+    { "icon": "⛽", "text": "OPEC+ en reunión de emergencia para frenar escalada de precios" },
+    { "icon": "🕊️", "text": "Trump: 'Los nuevos líderes iraníes quieren hablar. He aceptado'" },
+    { "icon": "🇹🇼", "text": "USS Lincoln y Ford en el Golfo — Taiwán en alerta máxima" }
+  ],
+  "keyOdds": [
+    { "label": "Irán se vuelve nuclear / 12m", "odds": "-180", "pct": 64 },
+    { "label": "WW3 definición estricta", "odds": "+950", "pct": 10 },
+    { "label": "OPEC+ acelera producción", "odds": "-160", "pct": 62 },
+    { "label": "Arma nuclear utilizada", "odds": "+420", "pct": 19 },
+    { "label": "Taiwán activada / 60 días", "odds": "-180", "pct": 64 }
+  ],
+  "methodology": "Las cuotas son síntesis analítica especulativa basada en: (1) anclas institucionales de CFR, RAND, CSER, S&P Global; (2) conversión al formato americano (+/-); (3) ajuste por nueva información confirmada; (4) verificación de consistencia interna entre líneas relacionadas.",
+  "sources": [
+    { "name": "CNN en Español", "description": "Confirmó 3 militares EE.UU. muertos. 6ª oleada CGRI. CENTCOM negó impacto al USS Lincoln.", "url": "https://cnnespanol.cnn.com" },
+    { "name": "S&P Global Commodities at Sea", "description": "Caída del 40-50% en tráfico de Ormuz confirmada. UKMTO: estrecho no oficialmente cerrado.", "url": "https://www.spglobal.com" },
+    { "name": "El Financiero / Enrique Quintana", "description": "Vulnerabilidad concreta por importaciones de combustibles refinados. Brent cerró viernes en $72.48.", "url": "https://www.elfinanciero.com.mx" },
+    { "name": "Infobae EN VIVO", "description": "Trump: '9 buques + 48 líderes del régimen muertos'. EE.UU. hundió corbeta iraní.", "url": "https://www.infobae.com" },
+    { "name": "Wikipedia ES — Guerra EE.UU.-Irán de 2026", "description": "Fuente enciclopédica actualizada en tiempo real. Operación Furia Épica, Operación Rugido del León.", "url": "https://es.wikipedia.org/wiki/Ataques_de_Estados_Unidos_e_Israel_contra_Ir%C3%A1n_de_2026" }
+  ]
 }
