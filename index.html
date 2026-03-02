@@ -3,15 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GOP REAL-TIME ODDS</title>
+    <title>GOP REAL-TIME ODDS BOARD</title>
     <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
     <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
     <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600;700&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
     <style>
-        body { margin: 0; background-color: #0d0d0d; font-family: 'IBM Plex Mono', monospace; }
-        .main-container { max-width: 860px; margin: 0 auto; background: #F5F0E8; min-height: 100vh; border-left: 1px solid #333; border-right: 1px solid #333; }
+        body { margin: 0; background-color: #0d0d0d; font-family: 'IBM Plex Mono', monospace; color: #1a1a1a; }
+        .main-container { max-width: 900px; margin: 0 auto; background: #F5F0E8; min-height: 100vh; border-left: 1px solid #333; border-right: 1px solid #333; position: relative; box-shadow: 0 0 50px rgba(0,0,0,0.5); }
         ::-webkit-scrollbar { width: 0px; background: transparent; }
+        .tab-btn { background: none; border: none; padding: 12px 20px; font-family: 'IBM Plex Mono', monospace; font-size: 11px; font-weight: bold; cursor: pointer; color: #888; transition: all 0.2s; letter-spacing: 1px; }
+        .tab-btn.active { color: #1B3A6B; border-bottom: 3px solid #1B3A6B; background: #EAE3D5; }
+        .grid-layout { display: grid; grid-template-columns: 1fr 300px; gap: 20px; padding: 20px; }
+        @media (max-width: 768px) { .grid-layout { grid-template-columns: 1fr; } }
     </style>
 </head>
 <body>
@@ -19,197 +23,154 @@
     <script type="text/babel">
         const { useState, useEffect, useRef } = React;
 
-        function calcImplied(o) {
+        const calcImplied = (o) => {
             if (!o || o === "LIQUIDADO") return null;
             const n = parseFloat(o.replace(/\s/g, ""));
             if (isNaN(n)) return null;
             return n < 0 ? Math.round((Math.abs(n) / (Math.abs(n) + 100)) * 100) : Math.round((100 / (n + 100)) * 100);
-        }
-        const oddsColor = o => {
-            if (!o || o === "LIQUIDADO") return "#7B1D1D";
-            return o.trim().startsWith("-") ? "#1B5E38" : "#1B3A6B";
         };
-        const oddsBg = o => {
-            if (!o || o === "LIQUIDADO") return "#FDF0E0";
-            return o.trim().startsWith("-") ? "#EBF7EF" : "#EBF0FA";
-        };
+
         const pctColor = p => p === null ? "#999" : p >= 60 ? "#1B5E38" : p >= 30 ? "#7B4A00" : "#7B1D1D";
 
-        function MovedBadge({ moved }) {
-            if (!moved || moved === "none") return null;
-            const d = moved === "down";
-            return (
-                <span style={{
-                    fontSize: 9, fontWeight: "700", padding: "2px 5px", borderRadius: 2, marginLeft: 6,
-                    background: d ? "#EBF7EF" : "#FDF0F0", color: d ? "#1B5E38" : "#7B1D1D",
-                    border: `1px solid ${d ? "#B0DAC0" : "#E8B0B0"}`, letterSpacing: 0.4, verticalAlign: "middle", whiteSpace: "nowrap"
-                }}>
-                    {d ? "▼ ACORT." : "▲ ALARG."}
-                </span>
-            );
-        }
-
-        function ExpandableParams({ text }) {
-            const [exp, setExp] = useState(false);
-            const LIMIT = 130;
-            if (!text) return null;
-            const long = text.length > LIMIT;
-            return (
-                <div style={{ fontSize: 10.5, color: "#6A6055", lineHeight: 1.7, marginTop: 8 }}>
-                    {exp || !long ? text : `${text.slice(0, LIMIT)}…`}
-                    {long && (
-                        <button onClick={() => setExp(!exp)} style={{
-                            background: "none", border: "none", color: "#1B3A6B", fontSize: 10,
-                            fontWeight: "700", cursor: "pointer", padding: "0 4px", fontFamily: "inherit"
-                        }}>{exp ? " [menos]" : " [más]"}</button>
-                    )}
-                </div>
-            );
-        }
-
-        function EventCard({ row, isEven }) {
-            // BLINDAJE: Si la IA usa "label" en vez de "event", o si olvida el odd, lo soportamos.
-            const eventName = row.event || row.label || "Evento sin título";
-            const oddsVal = row.odds || "LIQUIDADO";
-            const settled = oddsVal === "LIQUIDADO";
-            const implied = row.pct !== undefined ? row.pct : calcImplied(oddsVal);
-            const oc = oddsColor(oddsVal);
-            const obg = oddsBg(oddsVal);
-            const pc = pctColor(implied);
-            
-            return (
-                <div style={{
-                    background: settled ? "#FBF7EE" : isEven ? "#FAF7F2" : "#F5F0E8",
-                    borderBottom: "1px solid #E4DDD0", padding: "12px 16px", opacity: settled ? 0.75 : 1,
-                }}>
-                    <div style={{ marginBottom: 8 }}>
-                        <span style={{ fontSize: 12.5, fontWeight: "600", color: settled ? "#999" : "#1A1A1A", lineHeight: 1.45, textDecoration: settled ? "line-through" : "none" }}>
-                            {eventName}
-                        </span>
-                        <MovedBadge moved={row.moved} />
-                    </div>
-                    <div style={{ display: "flex", alignItems: "center", gap: 10, marginBottom: 8 }}>
-                        {settled ? (
-                            <span style={{ fontFamily: "'Playfair Display', serif", color: "#7B1D1D", fontSize: 13, fontWeight: "700", background: "#FDF0E0", padding: "5px 12px", borderRadius: 4, border: "1px solid #E8C890" }}>
-                                ✓ LIQUIDADO
-                            </span>
-                        ) : (
-                            <>
-                                <div style={{ background: obg, border: `1.5px solid ${oc}55`, borderRadius: 5, color: oc, fontSize: 16, fontWeight: "700", width: 90, textAlign: "center", padding: "6px 4px" }}>
-                                    {oddsVal}
-                                </div>
-                                <div style={{ fontSize: 16, fontWeight: "700", color: pc, minWidth: 44, textAlign: "center" }}>
-                                    {implied !== null ? `${implied}%` : "—"}
-                                </div>
-                                <div style={{ flex: 1, height: 5, borderRadius: 3, background: `linear-gradient(to right, ${pc} ${implied}%, #E0D8C8 ${implied}%)`, opacity: 0.65 }} />
-                            </>
-                        )}
-                    </div>
-                    <ExpandableParams text={row.params} />
-                </div>
-            );
-        }
-
-        function Ticker({ items, isUpdating }) {
+        function Ticker({ items }) {
             const trackRef = useRef(null);
             const posRef = useRef(0);
-            const rafRef = useRef(null);
-            const SPEED = 0.45;
-
             useEffect(() => {
-                if (!items || items.length === 0) return;
                 const track = trackRef.current;
                 let halfW = 0;
-                const id = setTimeout(() => { halfW = track.scrollWidth / 2; }, 100);
+                const id = setTimeout(() => { halfW = track.scrollWidth / 2; }, 500);
                 function step() {
-                    posRef.current += SPEED;
+                    posRef.current += 0.5;
                     if (halfW > 0 && posRef.current >= halfW) posRef.current = 0;
                     if(track) track.style.transform = `translateX(${-posRef.current}px)`;
-                    rafRef.current = requestAnimationFrame(step);
+                    requestAnimationFrame(step);
                 }
-                rafRef.current = requestAnimationFrame(step);
-                return () => { cancelAnimationFrame(rafRef.current); clearTimeout(id); };
+                const raf = requestAnimationFrame(step);
+                return () => { cancelAnimationFrame(raf); clearTimeout(id); };
             }, [items]);
-
             if (!items) return null;
-            const renderItems = [...items, ...items];
-
+            const list = [...items, ...items];
             return (
-                <div style={{ background: "#7B1D1D", overflow: "hidden", height: 32, display: "flex", alignItems: "center" }}>
-                    <div ref={trackRef} style={{ display: "flex", alignItems: "center", whiteSpace: "nowrap", willChange: "transform" }}>
-                        {renderItems.map((item, i) => (
-                            <span key={i} style={{ fontSize: 11, color: "#FFD09A", letterSpacing: 0.5, paddingRight: 64, flexShrink: 0, fontWeight: 'bold' }}>
-                                {isUpdating && i === 0 ? "🔄 Actualizando fuentes..." : item}
-                            </span>
+                <div style={{ background: "#7B1D1D", overflow: "hidden", height: 30, display: "flex", alignItems: "center", borderBottom: "1px solid #000" }}>
+                    <div ref={trackRef} style={{ display: "flex", whiteSpace: "nowrap", willChange: "transform" }}>
+                        {list.map((item, i) => (
+                            <span key={i} style={{ fontSize: 10, color: "#FFD09A", paddingRight: 50, fontWeight: '700' }}>{item}</span>
                         ))}
                     </div>
                 </div>
             );
         }
 
+        function EventCard({ row, isEven }) {
+            const oddsVal = row.odds || "N/A";
+            const implied = row.pct || calcImplied(oddsVal);
+            const settled = oddsVal === "LIQUIDADO";
+            return (
+                <div style={{ background: isEven ? "#FAF7F2" : "#F5F0E8", borderBottom: "1px solid #E4DDD0", padding: "12px 15px" }}>
+                    <div style={{ display: "flex", justifyContent: "space-between", marginBottom: 6 }}>
+                        <span style={{ fontSize: 12, fontWeight: "600", color: settled ? "#999" : "#1A1A1A" }}>{row.event}</span>
+                        {row.moved && row.moved !== "none" && (
+                            <span style={{ fontSize: 8, fontWeight: "800", color: row.moved === "down" ? "#1B5E38" : "#7B1D1D" }}>
+                                {row.moved === "down" ? "▼ ACORT." : "▲ ALARG."}
+                            </span>
+                        )}
+                    </div>
+                    <div style={{ display: "flex", alignItems: "center", gap: 10 }}>
+                        <div style={{ background: oddsVal.startsWith("-") ? "#EBF7EF" : "#EBF0FA", border: `1px solid ${oddsVal.startsWith("-") ? "#1B5E38" : "#1B3A6B"}55`, borderRadius: 3, color: oddsVal.startsWith("-") ? "#1B5E38" : "#1B3A6B", fontSize: 14, fontWeight: "700", width: 70, textAlign: "center", padding: "4px 0" }}>{oddsVal}</div>
+                        <div style={{ fontSize: 14, fontWeight: "700", color: pctColor(implied), minWidth: 35 }}>{implied}%</div>
+                        <div style={{ flex: 1, height: 4, background: "#E0D8C8", borderRadius: 2, position: 'relative' }}>
+                            <div style={{ position: 'absolute', height: '100%', left: 0, width: `${implied}%`, background: pctColor(implied), borderRadius: 2 }} />
+                        </div>
+                    </div>
+                    {row.params && <div style={{ fontSize: 10, color: "#6A6055", marginTop: 6, lineHeight: 1.4 }}>{row.params}</div>}
+                </div>
+            );
+        }
+
         function App() {
             const [data, setData] = useState(null);
-            const [updating, setUpdating] = useState(false);
-            const [error, setError] = useState(false);
+            const [tab, setTab] = useState('board');
 
-            const fetchData = async () => {
-                setUpdating(true);
-                setError(false);
-                try {
-                    const r = await fetch(`./data.json?v=${Date.now()}`);
-                    if (!r.ok) throw new Error("Error HTTP");
-                    const j = await r.json();
-                    setData(j);
-                } catch (e) { 
-                    console.error("Fallo al cargar datos:", e); 
-                    setError(true);
-                }
-                setUpdating(false);
-            };
+            useEffect(() => {
+                const load = () => {
+                    fetch(`./data.json?t=${Date.now()}`)
+                        .then(r => r.json())
+                        .then(setData)
+                        .catch(console.error);
+                };
+                load();
+                const interval = setInterval(load, 60000); // Verifica cambios cada minuto
+                return () => clearInterval(interval);
+            }, []);
 
-            useEffect(() => { fetchData(); }, []);
-
-            if (error) return <div style={{color:'red', padding:30, textAlign: 'center', fontFamily: 'monospace'}}>❌ Error: No se pudo leer data.json. Revisa tu script de GitHub Actions.</div>;
-            if (!data) return <div style={{color:'white', padding:30, textAlign: 'center', fontFamily: 'monospace'}}>📡 Iniciando enlace satelital OSINT...</div>;
-
-            // BLINDAJE: Si Llama 3 omite el ticker o sections, creamos arrays vacíos para que no crashee
-            const safeTicker = data.ticker || ["No hay datos en el ticker"];
-            const safeSections = data.sections || [];
+            if (!data) return <div style={{ background: "#0d0d0d", color: "#F5F0E8", height: "100vh", display: "flex", alignItems: "center", justifyContent: "center", fontFamily: "monospace" }}>INITIALIZING OSINT TERMINAL...</div>;
 
             return (
                 <div className="main-container">
-                    <Ticker items={safeTicker} isUpdating={updating} />
+                    <Ticker items={data.ticker} />
                     
-                    <div style={{ padding: "15px 20px", borderBottom: "2px solid #333", display: "flex", justifyContent: "space-between", alignItems: "center", background: "#eeeae3" }}>
-                        <div>
-                            <h2 style={{ margin:0, fontFamily: "'Playfair Display', serif", fontSize: 20, color: "#1A1A1A", letterSpacing: '0.5px' }}>GEOPOLITICAL ODDS BOARD</h2>
-                            <small style={{ fontSize: 10, color: "#666", fontWeight: "bold" }}>DATA VERIFIED OSINT // TERMINAL V.4.0.2</small>
-                        </div>
-                        <button onClick={fetchData} disabled={updating} style={{
-                            background: "#1B3A6B", color: "white", border: "none", padding: "8px 14px", fontSize: 10, fontWeight: "bold", cursor: "pointer", borderRadius: 3, fontFamily: "inherit"
-                        }}>
-                            {updating ? "Sincronizando..." : "🔄 REFRESCAR DATOS"}
-                        </button>
+                    <div style={{ padding: "20px", borderBottom: "2px solid #333", background: "#eeeae3" }}>
+                        <h2 style={{ margin:0, fontFamily: "'Playfair Display', serif", fontSize: 24, letterSpacing: '-0.5px' }}>GEOPOLITICAL ODDS BOARD</h2>
+                        <div style={{ fontSize: 10, fontWeight: "bold", color: "#666", marginTop: 4 }}>REAL-TIME INTELLIGENCE FEED // MARZO 2026</div>
                     </div>
 
-                    <div style={{ padding: 20 }}>
-                        {safeSections.length === 0 && <div style={{textAlign:'center', color:'#7B1D1D'}}>No hay escenarios activos en este momento.</div>}
-                        
-                        {safeSections.map((sec, i) => {
-                            // BLINDAJE: Soportar "rows" (diseño final) o "items" (diseño viejo)
-                            const rows = sec.rows || sec.items || [];
-                            return (
-                                <div key={i} style={{ marginBottom: 20, border: "1px solid #E4DDD0", borderRadius: 5, overflow: "hidden", boxShadow: "0 2px 5px rgba(0,0,0,0.05)" }}>
-                                    <div style={{ background: "#EAE3D5", padding: "8px 16px", borderBottom: "1px solid #E4DDD0", fontSize: 14, fontWeight: "bold", color: "#1A1A1A", letterSpacing: '0.5px' }}>
-                                        {sec.flag || "📁"} {sec.label || sec.title || "SECCIÓN"}
+                    <div style={{ display: "flex", background: "#EAE3D5", borderBottom: "1px solid #ccc" }}>
+                        <button className={`tab-btn ${tab === 'board' ? 'active' : ''}`} onClick={() => setTab('board')}>PROBABILIDADES</button>
+                        <button className={`tab-btn ${tab === 'sources' ? 'active' : ''}`} onClick={() => setTab('sources')}>METODOLOGÍA</button>
+                    </div>
+
+                    {tab === 'board' ? (
+                        <div className="grid-layout">
+                            <div>
+                                {data.sections.map((sec, i) => (
+                                    <div key={i} style={{ marginBottom: 25, border: "1px solid #E4DDD0", borderRadius: 4, overflow: "hidden" }}>
+                                        <div style={{ background: "#EAE3D5", padding: "8px 15px", borderBottom: "1px solid #E4DDD0", fontSize: 12, fontWeight: "bold" }}>
+                                            {sec.flag} {sec.label}
+                                        </div>
+                                        {(sec.rows || sec.items).map((row, j) => (
+                                            <EventCard key={j} row={row} isEven={j % 2 === 0} />
+                                        ))}
                                     </div>
-                                    {rows.map((row, j) => (
-                                        <EventCard key={j} row={row} isEven={j % 2 === 0} />
+                                ))}
+                            </div>
+                            
+                            <aside>
+                                <div style={{ background: "#1a1a1a", color: "#fff", padding: "15px", borderRadius: 4, marginBottom: 20 }}>
+                                    <h4 style={{ margin: "0 0 15px 0", fontSize: 11, letterSpacing: 1 }}>RIESGOS SISTÉMICOS</h4>
+                                    {[
+                                        { l: "Escalada Nuclear", v: "19%", c: "#7B1D1D" },
+                                        { l: "Colapso Energético UE", v: "42%", c: "#7B4A00" },
+                                        { l: "Inestabilidad MXN", v: "68%", c: "#1B5E38" }
+                                    ].map((r, i) => (
+                                        <div key={i} style={{ marginBottom: 12 }}>
+                                            <div style={{ display: "flex", justifyContent: "space-between", fontSize: 10, marginBottom: 4 }}>
+                                                <span>{r.l}</span>
+                                                <span>{r.v}</span>
+                                            </div>
+                                            <div style={{ height: 3, background: "#333" }}><div style={{ width: r.v, height: "100%", background: r.c }} /></div>
+                                        </div>
                                     ))}
                                 </div>
-                            );
-                        })}
-                    </div>
+                            </aside>
+                        </div>
+                    ) : (
+                        <div style={{ padding: 30, fontSize: 12, lineHeight: 1.8, color: "#444" }}>
+                            <h3 style={{ fontFamily: "'Playfair Display', serif" }}>Fuentes de Datos</h3>
+                            <p>Este tablero agrega datos de múltiples terminales de inteligencia y mercados de predicción:</p>
+                            <ul>
+                                <li>CENTCOM Official Feeds</li>
+                                <li>Mercados de Futuros Energéticos (ICE/NYMEX)</li>
+                                <li>Análisis de sentimiento OSINT</li>
+                                <li>Declaraciones de Jefes de Estado (2026 Archive)</li>
+                            </ul>
+                        </div>
+                    )}
+
+                    <footer style={{ padding: "40px 0", textAlign: "center", borderTop: "1px solid #E4DDD0" }}>
+                        <div style={{ fontSize: 10, color: "#999", letterSpacing: 2, textTransform: "uppercase" }}>
+                            creado por adrián roffiel
+                        </div>
+                    </footer>
                 </div>
             );
         }
