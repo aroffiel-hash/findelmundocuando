@@ -28,7 +28,6 @@ function App() {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    // Forzamos limpieza de caché con el timestamp
     fetch(`./data.json?v=${Date.now()}`)
       .then(res => {
         if (!res.ok) throw new Error("No se pudo cargar el archivo de datos.");
@@ -48,7 +47,6 @@ function App() {
     <div className="error-box">
       <h2>⚠️ ERROR DE TABLERO</h2>
       <p>{error}</p>
-      <p style={{fontSize:'11px', marginTop:'10px'}}>Revisa que data.json sea un JSON válido en tu repo.</p>
     </div>
   );
 
@@ -57,6 +55,16 @@ function App() {
       <h2 style={{color:'#8AACCF', letterSpacing:'4px'}}>SINCRONIZANDO INTELIGENCIA...</h2>
     </div>
   );
+
+  // Función para blindar los textos rebeldes de la IA
+  const parseParams = (params) => {
+    if (!params) return "";
+    if (typeof params === 'object') {
+      // Si la IA mandó un objeto, extraemos sus valores y los unimos en un texto
+      return Object.values(params).join(" | ");
+    }
+    return String(params);
+  };
 
   return (
     <div>
@@ -68,7 +76,7 @@ function App() {
 
       <div className="ticker-wrap">
         <marquee scrollamount="5">
-          {data.ticker ? data.ticker.join(" • ") : "CARGANDO NOTICIAS DE ÚLTIMA HORA..."}
+          {data.ticker && Array.isArray(data.ticker) ? data.ticker.join(" • ") : "ACTUALIZANDO FUENTES..."}
         </marquee>
       </div>
       
@@ -78,14 +86,14 @@ function App() {
             <h3 style={{color: '#8AACCF', borderBottom: '1px solid #333', paddingBottom: '10px', marginBottom: '15px', display:'flex', alignItems:'center', gap:'10px'}}>
               <span>{sec.flag}</span> {sec.label}
             </h3>
-            {sec.rows && sec.rows.map((row, j) => (
+            {sec.rows && Array.isArray(sec.rows) && sec.rows.map((row, j) => (
               <div key={j} className="card">
                 <div style={{display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', gap: '15px'}}>
-                  <span style={{fontWeight: '700', fontSize: '15px', lineHeight: '1.4'}}>{row.event}</span>
-                  <span className="odds-badge">{row.odds}</span>
+                  <span style={{fontWeight: '700', fontSize: '15px', lineHeight: '1.4'}}>{row.event || "Escenario en desarrollo"}</span>
+                  <span className="odds-badge">{row.odds || "N/A"}</span>
                 </div>
                 <p style={{fontSize: '12px', color: '#555', marginTop: '10px', lineHeight: '1.5', fontStyle: 'italic'}}>
-                  {row.params}
+                  {parseParams(row.params)}
                 </p>
               </div>
             ))}
