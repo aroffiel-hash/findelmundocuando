@@ -1,8 +1,8 @@
 name: Actualizar Noticias OSINT
 on:
   schedule:
-    - cron: '*/30 * * * *' # Se ejecuta cada 30 minutos
-  workflow_dispatch: # Permite ejecutarlo manualmente
+    - cron: '0 */12 * * *'  # Ejecuta cada 12 horas exactas
+  workflow_dispatch:        # Permite ejecutarlo manualmente si quieres
 
 jobs:
   build:
