@@ -102,4 +102,192 @@ function Aside({data,sections}){
   const keyOdds=useMemo(()=>{
     const all=[];
     (sections||[]).forEach(s=>(s.rows||s.items||[]).forEach(r=>{
-      if(r.odds&&r.odds!=="LIQUIDADO"){const n=parseFloat(r.odds);if(!isNaN(n))all.push({label:r.event,odds:r.odds,p:pct(r.odds),n
+      if(r.odds&&r.odds!=="LIQUIDADO"){const n=parseFloat(r.odds);if(!isNaN(n))all.push({label:r.event,odds:r.odds,p:pct(r.odds),n});}
+    }));
+    return[...all.filter(r=>r.n<0).sort((a,b)=>a.n-b.n).slice(0,3),...all.filter(r=>r.n>0).sort((a,b)=>a.n-b.n).slice(0,2)];
+  },[sections]);
+
+  const risks=[
+    {l:"Nuclear / Radiológico",kw:["nuclear","arma"],fb:19},
+    {l:"Sector Energético",kw:["petróleo","brent","barril"],fb:55},
+    {l:"Volatilidad Peso (MXN)",kw:["peso","mxn"],fb:38},
+    {l:"Escenario Taiwán",kw:["taiwán","bloqueo"],fb:22},
+  ].map(d=>{
+    let v=d.fb;
+    (sections||[]).forEach(s=>(s.rows||s.items||[]).forEach(r=>{
+      if(d.kw.some(k=>r.event?.toLowerCase().includes(k))){const p2=pct(r.odds);if(p2!==null)v=p2;}
+    }));
+    return{...d,v};
+  });
+
+  const BOX={padding:"16px 20px",borderBottom:"1px solid #E4DDD0"};
+  const TITLE={fontFamily:"'Playfair Display',serif",fontSize:13,fontWeight:700,letterSpacing:1.4,textTransform:"uppercase",marginBottom:12};
+
+  return(
+    <div className="col-aside">
+      <div style={{...BOX,background:"#F5F0E8"}}>
+        <div style={{...TITLE,color:"#7B1D1D"}}>Reportes de Última Hora</div>
+        {breaking.map((item,i)=>(
+          <div key={i} style={{display:"flex",gap:8,marginBottom:10,alignItems:"flex-start"}}>
+            <span style={{flexShrink:0, fontSize:12}}>{item.icon||"⚡"}</span>
+            <span style={{fontSize:11.5,color:"#3A3A3A",lineHeight:1.5}}>{item.text}</span>
+          </div>
+        ))}
+      </div>
+
+      <div style={{...BOX,background:"#F0EDE6"}}>
+        <div style={{...TITLE,color:"#1B3A6B"}}>Momios Calientes</div>
+        {keyOdds.map((item,i)=>{
+          const fav=String(item.odds||"").startsWith("-");
+          const p2=item.pct??item.p??pct(item.odds);
+          return(
+            <div key={i} style={{display:"flex",alignItems:"center",gap:8,marginBottom:10}}>
+              <span style={{fontSize:10.5,color:"#555",flex:1,lineHeight:1.4}}>{String(item.label||"").slice(0,42)}{(item.label||"").length>42?"…":""}</span>
+              <span style={{fontSize:12,fontWeight:700,color:fav?"#1B5E38":"#1B3A6B",background:fav?"#EBF7EF":"#EBF0FA",padding:"2px 8px",borderRadius:3,flexShrink:0}}>{item.odds}</span>
+              <span style={{fontSize:11,fontWeight:700,color:pc(p2),minWidth:32,textAlign:"right"}}>{p2}%</span>
+            </div>
+          );
+        })}
+      </div>
+
+      <div style={{background:"#111",padding:"20px"}}>
+        <div style={{fontSize:11,fontWeight:700,color:"#888",letterSpacing:1.5,textTransform:"uppercase",marginBottom:14}}>Termómetro de Riesgos</div>
+        {risks.map((r,i)=>(
+          <div key={i} style={{marginBottom:14}}>
+            <div style={{display:"flex",justifyContent:"space-between",fontSize:10.5,color:"#DDD",marginBottom:5}}>
+              <span>{r.l}</span><span style={{color:pc(r.v),fontWeight:700}}>{r.v}%</span>
+            </div>
+            <div style={{height:4,background:"#2a2a2a",borderRadius:2}}>
+              <div style={{width:`${r.v}%`,height:"100%",background:pc(r.v),borderRadius:2}}/>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
+
+function Sources({data}){
+  const upd=data?.lastUpdated||"—";
+  return(
+    <div style={{maxWidth:900,margin:"0 auto",padding:"30px 20px 80px",background:"#F5F0E8"}}>
+      <div style={{fontFamily:"'Playfair Display',serif",fontWeight:900,fontSize:24,color:"#1B3A6B",marginBottom:5}}>Metodología y Fuentes</div>
+      <div style={{fontSize:11,color:"#888",marginBottom:30}}>Último escaneo: {upd}</div>
+      
+      <div style={{marginBottom:30,background:"#fff",border:"1px solid #E0D8C8",borderRadius:6,padding:"24px", boxShadow:"0 4px 15px rgba(0,0,0,0.03)"}}>
+        <div style={{fontFamily:"'Playfair Display',serif",fontSize:18,fontWeight:700,color:"#1A1A1A",marginBottom:15}}>🍎 Explicado con manzanas (Nivel 5 años)</div>
+        <p style={{fontSize:13,color:"#444",lineHeight:1.8,margin:"0 0 15px"}}>Imagina que estamos apostando tazos en el recreo sobre si va a llover o no.</p>
+        <ul style={{fontSize:13,color:"#444",lineHeight:1.8,marginLeft:20, marginBottom:15}}>
+          <li><strong style={{color:"#1B5E38"}}>El número Negativo (ej. -150)</strong> significa que <b>todos creen que va a pasar</b> (es el favorito). Como es tan seguro, si apuestas, ganas poquitos tazos. Entre más grande sea el número negativo, más seguro es que ocurra.</li>
+          <li><strong style={{color:"#1B3A6B"}}>El número Positivo (ej. +200)</strong> significa que <b>es una sorpresa si pasa</b>. Muy pocos creen que sucederá, así que si le atinas, te ganas muchísimos tazos.</li>
+        </ul>
+        <p style={{fontSize:13,color:"#444",lineHeight:1.8}}>Nosotros tomamos esos números "de casino" y los convertimos en un <b>porcentaje de probabilidad (%)</b> para que sea súper fácil ver qué tan grave está el asunto.</p>
+      </div>
+
+      <div style={{marginBottom:30,background:"#FDF8F0",border:"1px solid #DDD0B8",borderLeft:"5px solid #7B4A00",borderRadius:4,padding:"20px"}}>
+        <div style={{fontFamily:"'Playfair Display',serif",fontSize:15,fontWeight:700,color:"#7B4A00",marginBottom:10}}>Análisis Técnico</div>
+        <p style={{fontSize:12.5,color:"#555",lineHeight:1.8,margin:"0 0 12px"}}>Las cuotas (momios) mostradas son una síntesis analítica basada en mercados de predicción reales, datos de futuros de materias primas (ICE/NYMEX), y análisis de sentimiento de fuentes de inteligencia de fuente abierta (OSINT). Las probabilidades implícitas se calculan eliminando el "vig" (margen del corredor) para reflejar la probabilidad pura del mercado.</p>
+        <div style={{fontSize:11,color:"#6A5A3A",background:"#EDE7D8",padding:"10px 14px",borderRadius:4,lineHeight:1.6,fontWeight:"bold"}}>⚠ AVISO: Herramienta de análisis especulativo y periodístico. Las cifras no constituyen asesoramiento financiero ni apuestas reales.</div>
+      </div>
+    </div>
+  );
+}
+
+function App(){
+  const [data,setData]=useState(null);
+  const [err,setErr]=useState(false);
+  const [tab,setTab]=useState("odds");
+  const [col,setCol]=useState(new Set());
+  const [scale, setScale] = useState(1); // Control de zoom
+
+  useEffect(()=>{
+    const load=()=>fetch(`./data.json?t=${Date.now()}`).then(r=>{if(!r.ok)throw 0;return r.json();}).then(d=>{setData(d);setErr(false);}).catch(()=>setErr(true));
+    load();
+    const iv=setInterval(load,60000);
+    return()=>clearInterval(iv);
+  },[]);
+
+  if(!data&&!err)return<div style={{background:"#0d0d0d",height:"100vh",display:"flex",alignItems:"center",justifyContent:"center"}}><span style={{fontSize:13,color:"#888",letterSpacing:2}}>SINCRONIZANDO DATOS...</span></div>;
+  if(err&&!data)return<div style={{background:"#0d0d0d",height:"100vh",display:"flex",alignItems:"center",justifyContent:"center"}}><span style={{color:"#7B1D1D",fontSize:14,letterSpacing:1}}>✕ ERROR AL CARGAR DATOS</span></div>;
+
+  const sections=data?.sections||[];
+  const ticker=data?.ticker||[];
+  const lastUpd=data?.lastUpdated||"—";
+  const total=sections.reduce((a,s)=>a+(s.rows||s.items||[]).length,0);
+
+  const tog=(i)=>setCol(p=>{const n=new Set(p);n.has(i)?n.delete(i):n.add(i);return n;});
+
+  return(
+    <div style={{background:"#F5F0E8",minHeight:"100vh"}}>
+      <div style={{background:"#1B3A6B",position:"sticky",top:0,zIndex:300,boxShadow:"0 4px 20px rgba(0,0,0,.5)"}}>
+        <div style={{maxWidth:1440,margin:"0 auto"}}>
+          <Ticker items={ticker}/>
+          <div style={{padding:"16px 24px 0"}}>
+            <div style={{display:"flex", justifyContent:"space-between", alignItems:"flex-start"}}>
+              <div>
+                <div style={{fontFamily:"'Playfair Display',serif",fontSize:"clamp(18px,3vw,26px)",fontWeight:900,color:"#F5F0E8",lineHeight:1.1,marginBottom:4}}>TABLERO DE MOMIOS GEOPOLÍTICOS</div>
+                <div style={{fontFamily:"'Playfair Display',serif",fontSize:"clamp(11px,1.8vw,14px)",fontWeight:600,color:"#8AACCF",marginBottom:6}}>INTELIGENCIA EN TIEMPO REAL · RIESGO GLOBAL</div>
+                <div style={{fontSize:10,color:"#6A9ACF",letterSpacing:.5, marginBottom:10}}>🔄 ACTUALIZADO: {lastUpd} · {total} ESCENARIOS ACTIVOS</div>
+              </div>
+              <div style={{display:"flex", alignItems:"center"}}>
+                <span style={{fontSize:10, color:"#8AACCF", marginRight:4}}>TEXTO:</span>
+                <button className="scale-btn" onClick={() => setScale(s => Math.max(s - 0.1, 0.8))}>A-</button>
+                <button className="scale-btn" onClick={() => setScale(s => Math.min(s + 0.1, 1.4))}>A+</button>
+              </div>
+            </div>
+            <div style={{display:"flex",marginTop:8}}>
+              {[{id:"odds",label:"📊 MOMIOS"},{id:"sources",label:"📋 METODOLOGÍA"}].map(t=>(
+                <button key={t.id} onClick={()=>setTab(t.id)} style={{padding:"10px 20px",background:tab===t.id?"#F5F0E8":"transparent",border:"none",color:tab===t.id?"#1B3A6B":"#8AACCF",fontSize:11.5,fontWeight:700,letterSpacing:.8,borderRadius:tab===t.id?"6px 6px 0 0":0, transition:"all 0.2s"}}>{t.label}</button>
+              ))}
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div style={{zoom: scale, transformOrigin: "top left"}}>
+        {tab==="odds"?(
+          <div className="layout">
+            <div className="col-main">
+              <div style={{background:"#EAE4D8",padding:"8px 20px",borderBottom:"1px solid #C8BFA8",fontSize:10,color:"#666",display:"flex",gap:16, fontWeight:"bold"}}>
+                <span><span style={{color:"#1B5E38", fontSize:12}}>■</span> FAVORITO (−)</span>
+                <span><span style={{color:"#1B3A6B", fontSize:12}}>■</span> SORPRESA (+)</span>
+                <span style={{marginLeft:"auto"}}>RIESGO: VERDE ≥60% · ORO 30-59% · ROJO &lt;30%</span>
+              </div>
+              {sections.map((sec,si)=>{
+                const accent=ACCENTS[si%ACCENTS.length];
+                const rows=sec.rows||sec.items||[];
+                const open=!col.has(si);
+                return(
+                  <div key={si} style={{marginTop:12, padding:"0 10px"}}>
+                    <div onClick={()=>tog(si)} style={{display:"flex",alignItems:"center",justifyContent:"space-between",padding:"12px 18px",background:"#EEEAE2",borderTop:`4px solid ${accent}`,borderBottom:"1px solid #D4C9B0",borderRadius: "4px 4px 0 0",cursor:"pointer",userSelect:"none", boxShadow:"0 2px 5px rgba(0,0,0,0.02)"}}>
+                      <div style={{display:"flex",alignItems:"center",gap:10}}>
+                        <span style={{fontSize:16}}>{sec.flag}</span>
+                        <span style={{fontFamily:"'Playfair Display',serif",fontSize:14,fontWeight:900,color:accent,letterSpacing:1.2,textTransform:"uppercase"}}>{sec.label}</span>
+                        <span style={{fontSize:10,color:"#888", fontWeight:"bold"}}>({rows.length})</span>
+                      </div>
+                      <span style={{color:accent,fontSize:12,fontWeight:900}}>{open?"▲":"▼"}</span>
+                    </div>
+                    {open&&rows.map((row,ri)=><Card key={ri} row={row} even={ri%2===0}/>)}
+                  </div>
+                );
+              })}
+              <div style={{textAlign:"center",padding:"30px 20px 50px",fontSize:10,color:"#A09888",lineHeight:1.8, fontWeight:"bold"}}>FIN DEL REPORTE — DATOS SUJETOS A VOLATILIDAD EXTREMA</div>
+            </div>
+            <Aside data={data} sections={sections}/>
+          </div>
+        ):(
+          <Sources data={data}/>
+        )}
+      </div>
+
+      <footer style={{background:"#EAE4D8",borderTop:"2px solid #D4C9B0",padding:"25px 0",textAlign:"center", position:"relative", zIndex:10}}>
+        <div style={{fontSize:11,color:"#888",letterSpacing:2, fontWeight:"bold"}}>CREADO POR ADRIÁN ROFFIEL</div>
+      </footer>
+    </div>
+  );
+}
+
+ReactDOM.createRoot(document.getElementById("root")).render(<App/>);
+</script>
+</body>
+</html>
