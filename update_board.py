@@ -14,79 +14,37 @@ def main():
 
     utc_now = datetime.utcnow()
     cdmx_now = utc_now - timedelta(hours=6)
-
-    meses = ["", "enero", "febrero", "marzo", "abril", "mayo", "junio", 
-             "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"]
-    mes_espanol = meses[cdmx_now.month]
-
-    today = cdmx_now.strftime(f"%d de {mes_espanol} de %Y — %H:%M CDMX")
+    meses = ["", "enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"]
+    today = cdmx_now.strftime(f"%d de {meses[cdmx_now.month]} de %Y — %H:%M CDMX")
     
-    prompt = f"""
-    Fecha actual: {today}
-    Genera un JSON para el tablero geopolítico "FIN DEL MUNDO - TABLERO DE PROBABILIDADES".
-    Redacta en español mexicano neutro y periodístico. Usa el término 'momios'.
-    
-    Estructura EXACTA requerida:
-    {{
-      "lastUpdated": "{today}",
-      "ticker": ["⚡ Noticia urgente 1...", "🔴 Noticia urgente 2..."],
-      "sections": [
-        {{
-          "flag": "🌍",
-          "label": "ESCENARIOS MACRO",
-          "rows": [
-            {{"event": "Conflicto escala", "odds": "-150", "moved": "down", "params": "Razón breve"}}
-          ]
-        }}
-      ]
-    }}
-    Genera entre 10 y 14 secciones de riesgo global usando noticias reales de hoy.
-    """
+    prompt = f"Fecha: {today}. Genera un JSON para el tablero 'FIN DEL MUNDO - TABLERO DE PROBABILIDADES'. Usa noticias reales. Incluye 'lastUpdated', 'ticker' (lista de noticias) y 'sections' (lista con 'flag', 'label' y 'rows'). En 'rows' cada objeto debe tener 'event', 'odds', 'moved' y 'params'."
 
-    headers = {
-        "Authorization": f"Bearer {GROQ_API_KEY}",
-        "Content-Type": "application/json"
-    }
-    
     payload = {
         "model": "llama3-70b-8192",
         "messages": [
-            {"role": "system", "content": "Eres un analista de inteligencia geopolítica en México. Respondes ÚNICAMENTE con formato JSON."},
+            {"role": "system", "content": "Eres un analista geopolítico. Respondes SOLO con JSON válido."},
             {"role": "user", "content": prompt}
         ],
         "temperature": 0.3,
-        "max_tokens": 8000,
+        "max_tokens": 4000,
         "response_format": {"type": "json_object"}
     }
 
     try:
-        r = requests.post(GROQ_URL, headers=headers, json=payload, timeout=90)
-        
-        # Captura el mensaje exacto de la API si hay error
+        r = requests.post(GROQ_URL, headers={"Authorization": f"Bearer {GROQ_API_KEY}"}, json=payload, timeout=90)
         if r.status_code != 200:
-            print(f"Error de la API: Código {r.status_code} - {r.text}")
+            print(f"Error API: {r.text}")
             sys.exit(1)
             
-        raw = r.json()["choices"][0]["message"]["content"]
+        data = r.json()["choices"][0]["message"]["content"]
+        final_data = json.loads(data)
+        final_data["lastUpdated"] = today
 
-        clean = raw.strip().lstrip("```json").lstrip("```").rstrip("```").strip()
-        data = json.loads(clean)
-
-        data["lastUpdated"] = today
-        
-        if "sections" not in data: 
-            data["sections"] = []
-        if "ticker" not in data: 
-            data["ticker"] = ["⚡ Actualizando fuentes de inteligencia..."]
-
-        out = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data.json")
-        with open(out, "w", encoding="utf-8") as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
-            
-        print(f"Tablero actualizado. Secciones: {len(data.get('sections', []))}")
-
+        with open("data.json", "w", encoding="utf-8") as f:
+            json.dump(final_data, f, ensure_ascii=False, indent=2)
+        print("Actualización exitosa.")
     except Exception as e:
-        print(f"Error de ejecución: {str(e)}")
+        print(f"Error: {str(e)}")
         sys.exit(1)
 
 if __name__ == "__main__":
