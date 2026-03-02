@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>¿Fin del Mundo Cuándo?</title>
+<title>FIN DEL MUNDO - TABLERO DE PROBABILIDADES</title>
 <script crossorigin src="[https://unpkg.com/react@18/umd/react.production.min.js](https://unpkg.com/react@18/umd/react.production.min.js)"></script>
 <script crossorigin src="[https://unpkg.com/react-dom@18/umd/react-dom.production.min.js](https://unpkg.com/react-dom@18/umd/react-dom.production.min.js)"></script>
 <script src="[https://unpkg.com/@babel/standalone/babel.min.js](https://unpkg.com/@babel/standalone/babel.min.js)"></script>
@@ -16,15 +16,11 @@ button{cursor:pointer;font-family:'IBM Plex Mono',monospace;}
 ::-webkit-scrollbar-thumb{background:#C8BFA8;border-radius:3px;}
 @keyframes shimmer{0%{background-position:-400px 0}100%{background-position:400px 0}}
 .sk{background:linear-gradient(90deg,#1a1a1a 25%,#252525 50%,#1a1a1a 75%);background-size:800px 100%;animation:shimmer 1.5s infinite;}
-
-/* Layout Mejorado para resoluciones grandes */
 .layout{display:flex;align-items:flex-start;max-width:1440px;margin:0 auto; transition: zoom 0.2s ease;}
 .col-main{flex:1;min-width:0;background:#F5F0E8; box-shadow: 10px 0 20px rgba(0,0,0,0.05);}
 .col-aside{width:360px;flex-shrink:0;background:#F5F0E8;border-left:2px solid #D4C9B0;align-self:stretch;}
-
 .scale-btn { background: #0d0d0d; color: #8AACCF; border: 1px solid #8AACCF; padding: 2px 8px; border-radius: 4px; font-weight: bold; margin-left: 5px;}
 .scale-btn:hover { background: #8AACCF; color: #0d0d0d; }
-
 @media(max-width:1024px){
   .layout{display:block;}
   .col-aside{display:none;}
@@ -38,8 +34,7 @@ button{cursor:pointer;font-family:'IBM Plex Mono',monospace;}
 <body>
 <div id="root"></div>
 <script type="text/babel">
-const {useState,useEffect,useRef,useMemo,useCallback}=React;
-
+const {useState,useEffect,useRef,useMemo}=React;
 const ACCENTS=["#1B3A6B","#7B1D1D","#1B5E38","#7B3A00","#3A005E","#004E6B","#6B1B3A","#5E3A00"];
 
 function pct(odds){
@@ -173,7 +168,6 @@ function Sources({data}){
     <div style={{maxWidth:900,margin:"0 auto",padding:"30px 20px 80px",background:"#F5F0E8"}}>
       <div style={{fontFamily:"'Playfair Display',serif",fontWeight:900,fontSize:24,color:"#1B3A6B",marginBottom:5}}>Metodología y Fuentes</div>
       <div style={{fontSize:11,color:"#888",marginBottom:30}}>Último escaneo: {upd}</div>
-      
       <div style={{marginBottom:30,background:"#fff",border:"1px solid #E0D8C8",borderRadius:6,padding:"24px", boxShadow:"0 4px 15px rgba(0,0,0,0.03)"}}>
         <div style={{fontFamily:"'Playfair Display',serif",fontSize:18,fontWeight:700,color:"#1A1A1A",marginBottom:15}}>🍎 Explicado con manzanas (Nivel 5 años)</div>
         <p style={{fontSize:13,color:"#444",lineHeight:1.8,margin:"0 0 15px"}}>Imagina que estamos apostando tazos en el recreo sobre si va a llover o no.</p>
@@ -183,7 +177,6 @@ function Sources({data}){
         </ul>
         <p style={{fontSize:13,color:"#444",lineHeight:1.8}}>Nosotros tomamos esos números "de casino" y los convertimos en un <b>porcentaje de probabilidad (%)</b> para que sea súper fácil ver qué tan grave está el asunto.</p>
       </div>
-
       <div style={{marginBottom:30,background:"#FDF8F0",border:"1px solid #DDD0B8",borderLeft:"5px solid #7B4A00",borderRadius:4,padding:"20px"}}>
         <div style={{fontFamily:"'Playfair Display',serif",fontSize:15,fontWeight:700,color:"#7B4A00",marginBottom:10}}>Análisis Técnico</div>
         <p style={{fontSize:12.5,color:"#555",lineHeight:1.8,margin:"0 0 12px"}}>Las cuotas (momios) mostradas son una síntesis analítica basada en mercados de predicción reales, datos de futuros de materias primas (ICE/NYMEX), y análisis de sentimiento de fuentes de inteligencia de fuente abierta (OSINT). Las probabilidades implícitas se calculan eliminando el "vig" (margen del corredor) para reflejar la probabilidad pura del mercado.</p>
@@ -198,7 +191,7 @@ function App(){
   const [err,setErr]=useState(false);
   const [tab,setTab]=useState("odds");
   const [col,setCol]=useState(new Set());
-  const [scale, setScale] = useState(1); // Control de zoom
+  const [scale, setScale] = useState(1);
 
   useEffect(()=>{
     const load=()=>fetch(`./data.json?t=${Date.now()}`).then(r=>{if(!r.ok)throw 0;return r.json();}).then(d=>{setData(d);setErr(false);}).catch(()=>setErr(true));
@@ -214,7 +207,6 @@ function App(){
   const ticker=data?.ticker||[];
   const lastUpd=data?.lastUpdated||"—";
   const total=sections.reduce((a,s)=>a+(s.rows||s.items||[]).length,0);
-
   const tog=(i)=>setCol(p=>{const n=new Set(p);n.has(i)?n.delete(i):n.add(i);return n;});
 
   return(
@@ -225,7 +217,7 @@ function App(){
           <div style={{padding:"16px 24px 0"}}>
             <div style={{display:"flex", justifyContent:"space-between", alignItems:"flex-start"}}>
               <div>
-                <div style={{fontFamily:"'Playfair Display',serif",fontSize:"clamp(18px,3vw,26px)",fontWeight:900,color:"#F5F0E8",lineHeight:1.1,marginBottom:4}}>TABLERO DE MOMIOS GEOPOLÍTICOS</div>
+                <div style={{fontFamily:"'Playfair Display',serif",fontSize:"clamp(18px,3vw,26px)",fontWeight:900,color:"#F5F0E8",lineHeight:1.1,marginBottom:4}}>FIN DEL MUNDO - TABLERO DE PROBABILIDADES</div>
                 <div style={{fontFamily:"'Playfair Display',serif",fontSize:"clamp(11px,1.8vw,14px)",fontWeight:600,color:"#8AACCF",marginBottom:6}}>INTELIGENCIA EN TIEMPO REAL · RIESGO GLOBAL</div>
                 <div style={{fontSize:10,color:"#6A9ACF",letterSpacing:.5, marginBottom:10}}>🔄 ACTUALIZADO: {lastUpd} · {total} ESCENARIOS ACTIVOS</div>
               </div>
