@@ -10,28 +10,28 @@
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=IBM+Plex+Mono:wght@400;600;700&display=swap" rel="stylesheet"/>
 <style>
 *{box-sizing:border-box;margin:0;padding:0;}
-body{background:#0d0d0d;font-family:'IBM Plex Mono',monospace; overflow-x: hidden;}
+body{background:#0d0d0d;font-family:'IBM Plex Mono',monospace; overflow-x: hidden; color: #1a1a1a;}
 button{cursor:pointer;font-family:'IBM Plex Mono',monospace;}
 ::-webkit-scrollbar{width:6px;}
 ::-webkit-scrollbar-thumb{background:#C8BFA8;border-radius:3px;}
 @keyframes shimmer{0%{background-position:-400px 0}100%{background-position:400px 0}}
 .sk{background:linear-gradient(90deg,#1a1a1a 25%,#252525 50%,#1a1a1a 75%);background-size:800px 100%;animation:shimmer 1.5s infinite;}
 
-/* Layout Mejorado */
-.layout{display:flex;align-items:flex-start;max-width:1440px;margin:0 auto; transition: zoom 0.2s ease;}
-.col-main{flex:1;min-width:0;background:#F5F0E8; box-shadow: 10px 0 20px rgba(0,0,0,0.05);}
-.col-aside{width:360px;flex-shrink:0;background:#F5F0E8;border-left:2px solid #D4C9B0;align-self:stretch;}
+/* Layout a dos columnas */
+.main-wrapper { max-width: 1300px; margin: 0 auto; background: #F5F0E8; min-height: 100vh; border-left: 1px solid #333; border-right: 1px solid #333; box-shadow: 0 0 50px rgba(0,0,0,0.5); transition: zoom 0.2s ease; transform-origin: top center; }
+.layout{display:flex;align-items:flex-start; width: 100%;}
+.col-main{flex:1;min-width:0; padding: 20px;}
+.col-aside{width:380px;flex-shrink:0;background:#F5F0E8;border-left:2px solid #D4C9B0;align-self:stretch; display: flex; flex-direction: column;}
 
 .scale-btn { background: #0d0d0d; color: #8AACCF; border: 1px solid #8AACCF; padding: 2px 8px; border-radius: 4px; font-weight: bold; margin-left: 5px;}
 .scale-btn:hover { background: #8AACCF; color: #0d0d0d; }
 
+.tab-btn { background: none; border: none; padding: 12px 20px; font-family: 'IBM Plex Mono', monospace; font-size: 11.5px; font-weight: bold; cursor: pointer; color: #888; transition: all 0.2s; letter-spacing: 1px; }
+.tab-btn.active { color: #1B3A6B; border-bottom: 3px solid #1B3A6B; background: #EAE3D5; }
+
 @media(max-width:1024px){
-  .layout{display:block;}
-  .col-aside{display:none;}
-  .mob{display:block;}
-}
-@media(min-width:1025px){
-  .mob{display:none;}
+  .layout{flex-direction: column;}
+  .col-aside{width: 100%; border-left: none; border-top: 2px solid #D4C9B0;}
 }
 </style>
 </head>
@@ -40,31 +40,49 @@ button{cursor:pointer;font-family:'IBM Plex Mono',monospace;}
 <script type="text/babel">
 const {useState,useEffect,useRef,useMemo,useCallback}=React;
 
-const ACCENTS=["#1B3A6B","#7B1D1D","#1B5E38","#7B3A00","#3A005E","#004E6B","#6B1B3A","#5E3A00","#1B3A6B","#2C5F2E","#6B1B00","#003D6B","#3D5E1B","#5E4A00"];
+const ACCENTS=["#1B3A6B","#7B1D1D","#1B5E38","#7B3A00","#3A005E","#004E6B","#6B1B3A","#5E3A00"];
+
+// Quitar emojis (excepto para el ticker)
+const stripEmojis = (str) => {
+    if (typeof str !== 'string') return '';
+    return str.replace(/\p{Extended_Pictographic}/gu, '').trim();
+};
+
+const parseParams = (params) => {
+    if (!params) return "";
+    if (typeof params === 'object') return Object.values(params).join(" | ");
+    return stripEmojis(String(params));
+};
 
 function pct(odds){
   if(!odds||odds==="LIQUIDADO") return null;
-  const n=parseFloat(String(odds));
+  const n=parseFloat(String(odds).replace(/\s/g, ""));
   if(isNaN(n)) return null;
   return n<0?Math.round(Math.abs(n)/(Math.abs(n)+100)*100):Math.round(100/(n+100)*100);
 }
 function pc(p){return p===null?"#999":p>=60?"#1B5E38":p>=30?"#7B4A00":"#7B1D1D";}
 
-// Blindaje contra errores de la IA (Convierte objetos basura en texto)
-function parseParams(params) {
-  if (!params) return "";
-  if (typeof params === 'object') return Object.values(params).join(" | ");
-  return String(params);
-}
+// Motor mejorado de imágenes de Wikipedia (Asocia palabras clave con artículos que SÍ tienen foto)
+async function wikiImg(topic){
+  try {
+    if(!topic) return null;
+    const t = topic.toLowerCase();
+    let queryTitle = "Earth"; // Default
+    
+    if(t.includes("rusia") || t.includes("putin")) queryTitle = "Moscow_Kremlin";
+    else if(t.includes("ucrania") || t.includes("kiev")) queryTitle = "Kyiv";
+    else if(t.includes("china") || t.includes("taiwan")) queryTitle = "Taipei";
+    else if(t.includes("usa") || t.includes("eeuu") || t.includes("biden") || t.includes("trump")) queryTitle = "United_States_Capitol";
+    else if(t.includes("mexico") || t.includes("mxn")) queryTitle = "Mexican_peso";
+    else if(t.includes("energ") || t.includes("petrol")) queryTitle = "Oil_refinery";
+    else if(t.includes("nuclear") || t.includes("armas")) queryTitle = "Nuclear_weapon";
+    else if(t.includes("iran") || t.includes("israel") || t.includes("oriente")) queryTitle = "Middle_East";
 
-async function wikiImg(title){
-  try{
-    if(!title) return null;
-    const r=await fetch(`https://en.wikipedia.org/w/api.php?action=query&titles=${encodeURIComponent(title)}&prop=pageimages&format=json&pithumbsize=640&origin=*`);
-    const d=await r.json();
-    const pg=Object.values(d?.query?.pages||{})[0];
-    return pg?.thumbnail?.source||null;
-  }catch{return null;}
+    const r = await fetch(`https://en.wikipedia.org/w/api.php?action=query&titles=${queryTitle}&prop=pageimages&format=json&pithumbsize=640&origin=*`);
+    const d = await r.json();
+    const pg = Object.values(d?.query?.pages||{})[0];
+    return pg?.thumbnail?.source || null;
+  } catch { return null; }
 }
 
 function Ticker({items}){
@@ -72,183 +90,183 @@ function Ticker({items}){
   useEffect(()=>{
     const el=ref.current;if(!el)return;
     let half=0;
-    const t=setTimeout(()=>{half=el.scrollWidth/2;},300);
-    const step=()=>{pos.current+=0.18;if(half>0&&pos.current>=half)pos.current=0;el.style.transform=`translateX(${-pos.current}px)`;raf.current=requestAnimationFrame(step);};
+    const t=setTimeout(()=>{half=el.scrollWidth/2;},500);
+    const step=()=>{pos.current+=0.6;if(half>0&&pos.current>=half)pos.current=0;el.style.transform=`translateX(${-pos.current}px)`;raf.current=requestAnimationFrame(step);};
     raf.current=requestAnimationFrame(step);
     return()=>{cancelAnimationFrame(raf.current);clearTimeout(t);};
-  },[]);
+  },[items]);
   if(!items?.length)return null;
   const list=[...items,...items];
+  // Aquí SÍ permitimos emojis, tal como pediste.
   return(
     <div style={{background:"#7B1D1D",overflow:"hidden",height:34,display:"flex",alignItems:"center", borderBottom:"2px solid #5A1010"}}>
       <div ref={ref} style={{display:"flex",whiteSpace:"nowrap",willChange:"transform"}}>
-        {list.map((t,i)=><span key={i} style={{fontSize:12,fontWeight:600,color:"#FFD09A",paddingRight:60,flexShrink:0}}>{t}</span>)}
+        {list.map((t,i)=><span key={i} style={{fontSize:12,fontWeight:600,color:"#FFD09A",paddingRight:60,flexShrink:0, textTransform: 'uppercase'}}>{t}</span>)}
       </div>
     </div>
   );
 }
 
-function Card({row,even}){
-  const [open,setOpen]=useState(false);
-  const settled=row.odds==="LIQUIDADO";
-  const p=pct(row.odds);
-  const fav=String(row.odds||"").startsWith("-");
-  const oddsColor=settled?"#7B1D1D":fav?"#1B5E38":"#1B3A6B";
-  const oddsBg=settled?"#FDF0E0":fav?"#EBF7EF":"#EBF0FA";
-  const params=parseParams(row.params);
+function EventCard({row,even}){
+  const oddsVal = String(row.odds || "N/A");
+  const p = pct(oddsVal);
+  const settled = oddsVal === "LIQUIDADO";
+  const isFav = oddsVal.startsWith("-");
+  const eventName = stripEmojis(row.event || "Escenario en desarrollo");
+  const params = parseParams(row.params);
   
   return(
     <div style={{background:settled?"#FBF7EE":even?"#FAF7F2":"#F5F0E8",borderBottom:"1px solid #E4DDD0",padding:"14px 18px",opacity:settled?.72:1}}>
-      <div style={{marginBottom:8,display:"flex",alignItems:"flex-start",gap:8,flexWrap:"wrap"}}>
-        <span style={{fontSize:13,fontWeight:600,color:settled?"#999":"#1A1A1A",textDecoration:settled?"line-through":"none",lineHeight:1.4,flex:1}}>{row.event}</span>
-        {row.moved&&row.moved!=="none"&&<span style={{fontSize:9,fontWeight:700,padding:"3px 6px",borderRadius:2,background:row.moved==="down"?"#EBF7EF":"#FDF0F0",color:row.moved==="down"?"#1B5E38":"#7B1D1D",border:`1px solid ${row.moved==="down"?"#B0DAC0":"#E8B0B0"}`,flexShrink:0}}>{row.moved==="down"?"▼ BAJÓ":"▲ SUBIÓ"}</span>}
+      <div style={{marginBottom:8,display:"flex",alignItems:"flex-start",gap:8,justifyContent:"space-between"}}>
+        <span style={{fontSize:13,fontWeight:700,color:settled?"#999":"#1A1A1A",textDecoration:settled?"line-through":"none",lineHeight:1.4}}>{eventName}</span>
+        {row.moved&&row.moved!=="none"&&<span style={{fontSize:9,fontWeight:800,padding:"2px 6px",borderRadius:2,background:row.moved==="down"?"#EBF7EF":"#FDF0F0",color:row.moved==="down"?"#1B5E38":"#7B1D1D", border:`1px solid ${row.moved==="down"?"#B0DAC0":"#E8B0B0"}`}}>{row.moved==="down"?"▼ BAJÓ":"▲ SUBIÓ"}</span>}
       </div>
       <div style={{display:"flex",alignItems:"center",gap:10,marginBottom:6}}>
         {settled
-          ?<span style={{fontFamily:"'Playfair Display',serif",color:"#7B1D1D",fontSize:13,fontWeight:700,background:"#FDF0E0",padding:"4px 12px",borderRadius:3,border:"1px solid #E8C890"}}>✓ CERRADO</span>
-          :<><div style={{background:oddsBg,border:`1.5px solid ${oddsColor}44`,borderRadius:4,color:oddsColor,fontSize:16,fontWeight:700,width:86,textAlign:"center",padding:"5px 0",flexShrink:0}}>{row.odds}</div>
-            <div style={{fontSize:15,fontWeight:700,color:pc(p),minWidth:42,textAlign:"center",flexShrink:0}}>{p!==null?`${p}%`:"—"}</div>
-            <div style={{flex:1,height:6,borderRadius:3,background:`linear-gradient(to right,${pc(p)} ${p||0}%,#E0D8C8 ${p||0}%)`,opacity:.8}}/></>}
+          ?<span style={{fontFamily:"'Playfair Display',serif",color:"#7B1D1D",fontSize:13,fontWeight:700,background:"#FDF0E0",padding:"4px 12px",borderRadius:3}}>✓ CERRADO</span>
+          :<><div style={{background:isFav?"#EBF7EF":"#EBF0FA",border:`1.5px solid ${isFav?"#1B5E38":"#1B3A6B"}55`,borderRadius:3,color:isFav?"#1B5E38":"#1B3A6B",fontSize:15,fontWeight:700,width:75,textAlign:"center",padding:"4px 0",flexShrink:0}}>{oddsVal}</div>
+            <div style={{fontSize:15,fontWeight:700,color:pc(p),minWidth:40,textAlign:"right",flexShrink:0}}>{p!==null?`${p}%`:"—"}</div>
+            <div style={{flex:1,height:5,borderRadius:2,background:"#E0D8C8",position:"relative",overflow:"hidden"}}>
+              <div style={{position:"absolute",height:"100%",left:0,width:`${p||0}%`,background:pc(p)}}/>
+            </div></>}
       </div>
-      {params&&<div style={{fontSize:11,color:"#6A6055",lineHeight:1.6, marginTop:8}}>{open||params.length<=130?params:`${params.slice(0,130)}…`}{params.length>130&&<button onClick={()=>setOpen(o=>!o)} style={{background:"none",border:"none",color:"#1B3A6B",fontSize:11,fontWeight:700,padding:"0 4px"}}>{open?" [Menos]":" [Más]"}</button>}</div>}
+      {params&&<div style={{fontSize:11,color:"#6A6055",lineHeight:1.5, marginTop:8}}>{params}</div>}
     </div>
   );
 }
 
-function Carousel({cards}){
+function Carousel({sections}){
   const [imgs,setImgs]=useState({});
   const [cur,setCur]=useState(0);
   const [fade,setFade]=useState(true);
   const tim=useRef();
 
+  // Generar tarjetas para el carrusel basadas en las secciones principales
+  const cards = useMemo(()=>{
+    if(!sections) return [];
+    return sections.slice(0, 5).map((s,i) => {
+      const rows = s.rows || s.items || [];
+      return { tag: stripEmojis(s.label), tagColor: ACCENTS[i%ACCENTS.length], headline: stripEmojis(rows[0]?.event || s.label), sub: parseParams(rows[0]?.params).slice(0,90)+"..." };
+    });
+  }, [sections]);
+
   useEffect(()=>{
-    if(!cards?.length)return;
+    if(!cards.length) return;
     let dead=false;
     (async()=>{
       for(let i=0;i<cards.length;i++){
-        if(dead)break;
-        const u=await wikiImg(cards[i].wikiTitle);
-        if(!dead)setImgs(p=>({...p,[i]:u||"x"}));
-        await new Promise(r=>setTimeout(r,400));
+        if(dead) break;
+        const u=await wikiImg(cards[i].tag);
+        if(!dead) setImgs(p=>({...p,[i]:u||"x"}));
+        await new Promise(r=>setTimeout(r,500)); // Delay para no saturar la API
       }
     })();
     return()=>{dead=true;};
-  },[cards?.length]);
+  },[cards]);
 
   useEffect(()=>{
-    if(!cards?.length)return;
-    tim.current=setInterval(()=>{setFade(false);setTimeout(()=>{setCur(c=>(c+1)%cards.length);setFade(true);},200);},6500);
+    if(!cards.length) return;
+    tim.current=setInterval(()=>{setFade(false);setTimeout(()=>{setCur(c=>(c+1)%cards.length);setFade(true);},250);},6000);
     return()=>clearInterval(tim.current);
-  },[cards?.length]);
+  },[cards.length]);
 
   const go=useCallback((i)=>{
     clearInterval(tim.current);setFade(false);
-    setTimeout(()=>{setCur(i);setFade(true);},200);
-    tim.current=setInterval(()=>{setFade(false);setTimeout(()=>{setCur(c=>(c+1)%cards.length);setFade(true);},200);},6500);
-  },[cards?.length]);
+    setTimeout(()=>{setCur(i);setFade(true);},250);
+    tim.current=setInterval(()=>{setFade(false);setTimeout(()=>{setCur(c=>(c+1)%cards.length);setFade(true);},250);},6000);
+  },[cards.length]);
 
-  if(!cards?.length)return null;
+  if(!cards.length) return null;
   const c=cards[cur];
   const img=imgs[cur];
   const url=img&&img!=="x"?img:null;
 
   return(
-    <div style={{borderBottom:"3px solid #7B1D1D"}}>
-      <div style={{position:"relative",height:220,overflow:"hidden",opacity:fade?1:0,transition:"opacity .2s",background:"#111"}}>
-        {!img&&<div className="sk" style={{width:"100%",height:"100%",display:"flex",alignItems:"center",justifyContent:"center"}}><span style={{fontSize:10,color:"#333",letterSpacing:1}}>⟳</span></div>}
+    <div style={{borderBottom:"3px solid #7B1D1D", width: "100%"}}>
+      <div style={{position:"relative",height:240,overflow:"hidden",opacity:fade?1:0,transition:"opacity .25s",background:"#111"}}>
+        {!img&&<div className="sk" style={{width:"100%",height:"100%"}}></div>}
         {img&&url&&<img src={url} alt="" style={{width:"100%",height:"100%",objectFit:"cover"}} onError={()=>setImgs(p=>({...p,[cur]:"x"}))}/>}
-        {img&&!url&&<div style={{width:"100%",height:"100%",background:`linear-gradient(135deg,${c.tagColor||"#1B3A6B"}20,#050505)`,display:"flex",alignItems:"center",justifyContent:"center"}}><span style={{fontSize:50,opacity:.2}}>{c.icon||"🌍"}</span></div>}
-        <div style={{position:"absolute",inset:0,background:"linear-gradient(to top,rgba(0,0,0,.95) 0%,transparent 60%)",pointerEvents:"none"}}/>
-        <div style={{position:"absolute",top:10,left:12,background:c.tagColor||"#333",color:"#fff",fontSize:10,fontWeight:700,letterSpacing:1.5,padding:"3px 8px",borderRadius:2}}>{c.tag}</div>
-        <div style={{position:"absolute",top:10,right:12,background:"rgba(0,0,0,.6)",color:"#888",fontSize:9,padding:"3px 6px",borderRadius:2}}>{!img?"⟳":url?"📷 WIKI COMMONS":"···"}</div>
-        <div style={{position:"absolute",bottom:0,left:0,right:0,padding:"10px 16px"}}>
-          <div style={{fontFamily:"'Playfair Display',serif",fontSize:15,fontWeight:700,color:"#F0EDE6",lineHeight:1.3,marginBottom:4}}>{c.headline}</div>
-          <div style={{fontSize:10,color:"#BBB",lineHeight:1.4}}>{c.sub}</div>
+        {img&&!url&&<div style={{width:"100%",height:"100%",background:`linear-gradient(135deg, ${c.tagColor}40, #050505)`}}></div>}
+        
+        <div style={{position:"absolute",inset:0,background:"linear-gradient(to top,rgba(0,0,0,.9) 0%,transparent 70%)",pointerEvents:"none"}}/>
+        <div style={{position:"absolute",top:12,left:15,background:c.tagColor||"#333",color:"#fff",fontSize:10,fontWeight:700,letterSpacing:1.2,padding:"4px 8px",borderRadius:2, textTransform: "uppercase"}}>{c.tag}</div>
+        <div style={{position:"absolute",top:12,right:15,background:"rgba(0,0,0,.6)",color:"#ccc",fontSize:9,padding:"3px 6px",borderRadius:2}}>{url?"📷 WIKIMEDIA":"OSINT FEED"}</div>
+        <div style={{position:"absolute",bottom:0,left:0,right:0,padding:"15px 20px"}}>
+          <div style={{fontFamily:"'Playfair Display',serif",fontSize:16,fontWeight:700,color:"#F0EDE6",lineHeight:1.3,marginBottom:6}}>{c.headline}</div>
+          <div style={{fontSize:11,color:"#BBB",lineHeight:1.4}}>{c.sub}</div>
         </div>
       </div>
-      <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",padding:"6px 14px",background:"#111"}}>
-        <button onClick={()=>go((cur-1+cards.length)%cards.length)} style={{background:"none",border:"1px solid #333",color:"#666",fontSize:10,padding:"4px 10px",borderRadius:3}}>◀</button>
-        <div style={{display:"flex",gap:5}}>{cards.map((_,i)=><button key={i} onClick={()=>go(i)} style={{width:i===cur?20:8,height:8,borderRadius:4,background:i===cur?(c.tagColor||"#7B1D1D"):"#333",border:"none",padding:0,transition:"width .25s"}}/>)}</div>
-        <button onClick={()=>go((cur+1)%cards.length)} style={{background:"none",border:"1px solid #333",color:"#666",fontSize:10,padding:"4px 10px",borderRadius:3}}>▶</button>
+      <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",padding:"8px 15px",background:"#111"}}>
+        <button onClick={()=>go((cur-1+cards.length)%cards.length)} style={{background:"none",border:"1px solid #444",color:"#888",fontSize:10,padding:"4px 12px",borderRadius:3}}>◀</button>
+        <div style={{display:"flex",gap:6}}>{cards.map((_,i)=><button key={i} onClick={()=>go(i)} style={{width:i===cur?24:8,height:8,borderRadius:4,background:i===cur?(c.tagColor||"#7B1D1D"):"#444",border:"none",padding:0,transition:"all .3s"}}/>)}</div>
+        <button onClick={()=>go((cur+1)%cards.length)} style={{background:"none",border:"1px solid #444",color:"#888",fontSize:10,padding:"4px 12px",borderRadius:3}}>▶</button>
       </div>
     </div>
   );
 }
 
-function Aside({data,sections}){
-  const cards=useMemo(()=>{
-    if(data?.newsCards?.length)return data.newsCards;
-    const wm={"🇮🇷":"Tehran","🇺🇸":"United States Capitol","🇨🇳":"Beijing","🇷🇺":"Vladimir Putin","🇺🇦":"Volodymyr Zelensky","🇹🇼":"William Lai","🇵🇰":"Karachi","💰":"Oil tanker","🌍":"World map","🎲":"Las Vegas"};
-    return(sections||[]).slice(0,8).map((s,i)=>{
-      const rows=s.rows||s.items||[];
-      return{tag:s.label,tagColor:ACCENTS[i%ACCENTS.length],headline:rows[0]?.event||s.label,sub:parseParams(rows[0]?.params).slice(0,80),credit:"OSINT Terminal",wikiTitle:wm[s.flag]||s.label,icon:s.flag||"🌍"};
-    });
-  },[data?.newsCards,sections]);
-
-  const breaking=data?.ticker?.slice(0,5).map(t=>({icon:t[0]||"⚡",text:t.slice(2).trim()})) || [];
-  
-  const keyOdds=useMemo(()=>{
+function AsideContent({data, sections}){
+  // Calcular Momios Calientes
+  const keyOdds = useMemo(()=>{
     const all=[];
     (sections||[]).forEach(s=>(s.rows||s.items||[]).forEach(r=>{
-      if(r.odds&&r.odds!=="LIQUIDADO"){const n=parseFloat(r.odds);if(!isNaN(n))all.push({label:r.event,odds:r.odds,p:pct(r.odds),n});}
+      if(r.odds&&r.odds!=="LIQUIDADO"){
+          const n=parseFloat(String(r.odds).replace(/\s/g, ""));
+          if(!isNaN(n)) all.push({label:stripEmojis(r.event), odds:r.odds, p:pct(r.odds), n});
+      }
     }));
-    return[...all.filter(r=>r.n<0).sort((a,b)=>a.n-b.n).slice(0,3),...all.filter(r=>r.n>0).sort((a,b)=>a.n-b.n).slice(0,2)];
+    return[...all.filter(r=>r.n<0).sort((a,b)=>a.n-b.n).slice(0,3), ...all.filter(r=>r.n>0).sort((a,b)=>a.n-b.n).slice(0,2)];
   },[sections]);
 
-  const risks=[
-    {l:"Nuclear / Radiológico",kw:["nuclear","arma"],fb:19},
-    {l:"Sector Energético",kw:["petróleo","brent","barril"],fb:55},
-    {l:"Volatilidad Peso (MXN)",kw:["peso","mxn"],fb:38},
-    {l:"Escenario Taiwán",kw:["taiwán","bloqueo"],fb:22},
-  ].map(d=>{
-    let v=d.fb;
-    (sections||[]).forEach(s=>(s.rows||s.items||[]).forEach(r=>{
-      if(d.kw.some(k=>r.event?.toLowerCase().includes(k))){const p2=pct(r.odds);if(p2!==null)v=p2;}
-    }));
-    return{...d,v};
-  });
+  // Calcular Riesgos Sistémicos
+  const risks = useMemo(() => {
+      const baselines = [
+          { l: "Escalada Nuclear / Radiológica", kw: ["nuclear", "arma", "atómico", "radiológico"], v: 15, c: "#7B1D1D" },
+          { l: "Crisis Energética Global", kw: ["petróleo", "brent", "energía", "gas"], v: 40, c: "#7B4A00" },
+          { l: "Volatilidad Peso Mexicano", kw: ["peso", "mxn", "banxico", "dólar"], v: 35, c: "#1B5E38" },
+          { l: "Inestabilidad Indo-Pacífico", kw: ["taiwán", "china", "mar", "bloqueo"], v: 20, c: "#1B3A6B" }
+      ];
+      (sections||[]).forEach(s=>(s.rows||s.items||[]).forEach(r=>{
+          baselines.forEach(risk => {
+              if (risk.kw.some(k => r.event?.toLowerCase().includes(k))) {
+                  const p = pct(r.odds);
+                  if (p !== null && p > risk.v) risk.v = p;
+              }
+          });
+      }));
+      return baselines;
+  }, [sections]);
 
-  const BOX={padding:"16px 20px",borderBottom:"1px solid #E4DDD0"};
-  const TITLE={fontFamily:"'Playfair Display',serif",fontSize:13,fontWeight:700,letterSpacing:1.4,textTransform:"uppercase",marginBottom:12};
+  const BOX = {padding:"20px", borderBottom:"1px solid #E4DDD0"};
+  const TITLE = {fontFamily:"'Playfair Display',serif",fontSize:14,fontWeight:900,letterSpacing:1.2,textTransform:"uppercase",marginBottom:15};
 
   return(
-    <div className="col-aside">
-      <Carousel cards={cards}/>
+    <div style={{width: "100%"}}>
+      <Carousel sections={sections}/>
 
-      <div style={{...BOX,background:"#F5F0E8"}}>
-        <div style={{...TITLE,color:"#7B1D1D"}}>Reportes de Última Hora</div>
-        {breaking.map((item,i)=>(
-          <div key={i} style={{display:"flex",gap:8,marginBottom:10,alignItems:"flex-start"}}>
-            <span style={{flexShrink:0, fontSize:12}}>{item.icon||"⚡"}</span>
-            <span style={{fontSize:11.5,color:"#3A3A3A",lineHeight:1.5}}>{item.text}</span>
-          </div>
-        ))}
-      </div>
-
-      <div style={{...BOX,background:"#F0EDE6"}}>
-        <div style={{...TITLE,color:"#1B3A6B"}}>Momios Calientes</div>
+      <div style={{...BOX, background:"#F0EDE6"}}>
+        <div style={{...TITLE, color:"#1B3A6B"}}>🔥 Momios Calientes</div>
         {keyOdds.map((item,i)=>{
-          const fav=String(item.odds||"").startsWith("-");
-          const p2=item.pct??item.p??pct(item.odds);
+          const isFav = String(item.odds||"").startsWith("-");
           return(
-            <div key={i} style={{display:"flex",alignItems:"center",gap:8,marginBottom:10}}>
-              <span style={{fontSize:10.5,color:"#555",flex:1,lineHeight:1.4}}>{String(item.label||"").slice(0,42)}{(item.label||"").length>42?"…":""}</span>
-              <span style={{fontSize:12,fontWeight:700,color:fav?"#1B5E38":"#1B3A6B",background:fav?"#EBF7EF":"#EBF0FA",padding:"2px 8px",borderRadius:3,flexShrink:0}}>{item.odds}</span>
-              <span style={{fontSize:11,fontWeight:700,color:pc(p2),minWidth:32,textAlign:"right"}}>{p2}%</span>
+            <div key={i} style={{display:"flex",alignItems:"center",gap:10,marginBottom:12}}>
+              <span style={{fontSize:11,color:"#444",flex:1,lineHeight:1.4, fontWeight: "600"}}>{item.label.slice(0,45)}{item.label.length>45?"…":""}</span>
+              <span style={{fontSize:12,fontWeight:700,color:isFav?"#1B5E38":"#1B3A6B",background:isFav?"#EBF7EF":"#EBF0FA",padding:"3px 8px",borderRadius:3,flexShrink:0}}>{item.odds}</span>
+              <span style={{fontSize:12,fontWeight:700,color:pc(item.p),minWidth:32,textAlign:"right"}}>{item.p}%</span>
             </div>
           );
         })}
       </div>
 
-      <div style={{background:"#111",padding:"20px"}}>
-        <div style={{fontSize:11,fontWeight:700,color:"#888",letterSpacing:1.5,textTransform:"uppercase",marginBottom:14}}>Termómetro de Riesgos</div>
+      <div style={{background:"#1a1a1a", padding:"25px 20px", flexGrow: 1}}>
+        <div style={{fontSize:12,fontWeight:700,color:"#8AACCF",letterSpacing:1.5,textTransform:"uppercase",marginBottom:20, borderBottom:"1px solid #333", paddingBottom: 10}}>Termómetro de Riesgos</div>
         {risks.map((r,i)=>(
-          <div key={i} style={{marginBottom:14}}>
-            <div style={{display:"flex",justifyContent:"space-between",fontSize:10.5,color:"#DDD",marginBottom:5}}>
-              <span>{r.l}</span><span style={{color:pc(r.v),fontWeight:700}}>{r.v}%</span>
+          <div key={i} style={{marginBottom:18}}>
+            <div style={{display:"flex",justifyContent:"space-between",fontSize:11,color:"#DDD",marginBottom:6}}>
+              <span>{r.l}</span><span style={{color:r.c,fontWeight:700, fontSize: 12}}>{r.v}%</span>
             </div>
-            <div style={{height:4,background:"#2a2a2a",borderRadius:2}}>
-              <div style={{width:`${r.v}%`,height:"100%",background:pc(r.v),borderRadius:2}}/>
+            <div style={{height:5,background:"#333",borderRadius:3, overflow:"hidden"}}>
+              <div style={{width:`${r.v}%`,height:"100%",background:r.c,borderRadius:3}}/>
             </div>
           </div>
         ))}
@@ -257,27 +275,40 @@ function Aside({data,sections}){
   );
 }
 
-function Sources({data}){
-  const upd=data?.lastUpdated||"—";
+function SourcesTab(){
   return(
-    <div style={{maxWidth:900,margin:"0 auto",padding:"30px 20px 80px",background:"#F5F0E8"}}>
-      <div style={{fontFamily:"'Playfair Display',serif",fontWeight:900,fontSize:24,color:"#1B3A6B",marginBottom:5}}>Metodología y Fuentes</div>
-      <div style={{fontSize:11,color:"#888",marginBottom:30}}>Último escaneo: {upd}</div>
+    <div style={{padding:"40px", maxWidth:"900px", margin:"0 auto", color:"#333"}}>
+      <h2 style={{fontFamily:"'Playfair Display',serif",fontSize:26,color:"#1B3A6B",marginBottom:30, borderBottom: "2px solid #D4C9B0", paddingBottom: 10}}>Lectura y Metodología</h2>
       
-      <div style={{marginBottom:30,background:"#fff",border:"1px solid #E0D8C8",borderRadius:6,padding:"24px", boxShadow:"0 4px 15px rgba(0,0,0,0.03)"}}>
-        <div style={{fontFamily:"'Playfair Display',serif",fontSize:18,fontWeight:700,color:"#1A1A1A",marginBottom:15}}>🍎 Explicado con manzanas (Nivel 5 años)</div>
-        <p style={{fontSize:13,color:"#444",lineHeight:1.8,margin:"0 0 15px"}}>Imagina que estamos apostando tazos en el recreo sobre si va a llover o no.</p>
-        <ul style={{fontSize:13,color:"#444",lineHeight:1.8,marginLeft:20, marginBottom:15}}>
-          <li><strong style={{color:"#1B5E38"}}>El número Negativo (ej. -150)</strong> significa que <b>todos creen que va a pasar</b> (es el favorito). Como es tan seguro, si apuestas, ganas poquitos tazos. Entre más grande sea el número negativo, más seguro es que ocurra.</li>
-          <li><strong style={{color:"#1B3A6B"}}>El número Positivo (ej. +200)</strong> significa que <b>es una sorpresa si pasa</b>. Muy pocos creen que sucederá, así que si le atinas, te ganas muchísimos tazos.</li>
+      <div style={{background:"#fff",borderLeft:"4px solid #1B5E38",padding:"20px",marginBottom:30,boxShadow:"0 2px 8px rgba(0,0,0,0.04)"}}>
+        <h3 style={{margin:"0 0 12px 0",color:"#1B5E38",fontSize:16}}>1. Guía Práctica de Interpretación</h3>
+        <p style={{fontSize:13,lineHeight:1.6,marginBottom:10}}>Este tablero traduce escenarios geopolíticos complejos en probabilidades numéricas utilizando el formato estándar de momios americanos:</p>
+        <ul style={{fontSize:13,lineHeight:1.6,paddingLeft:20, color:"#444"}}>
+          <li style={{marginBottom:8}}><strong>Momio Negativo (ej. -150):</strong> Señala el escenario <em>favorito</em> o más probable. Representa un consenso de que el evento ocurrirá. Entre más grande es el número negativo, mayor es la certeza.</li>
+          <li><strong>Momio Positivo (ej. +200):</strong> Señala un escenario <em>sorpresa</em>. Representa eventos de alto impacto pero de menor probabilidad.</li>
         </ul>
-        <p style={{fontSize:13,color:"#444",lineHeight:1.8}}>Nosotros tomamos esos números "de casino" y los convertimos en un <b>porcentaje de probabilidad (%)</b> para que sea súper fácil ver qué tan grave está el asunto.</p>
       </div>
 
-      <div style={{marginBottom:30,background:"#FDF8F0",border:"1px solid #DDD0B8",borderLeft:"5px solid #7B4A00",borderRadius:4,padding:"20px"}}>
-        <div style={{fontFamily:"'Playfair Display',serif",fontSize:15,fontWeight:700,color:"#7B4A00",marginBottom:10}}>Análisis Técnico</div>
-        <p style={{fontSize:12.5,color:"#555",lineHeight:1.8,margin:"0 0 12px"}}>Las cuotas (momios) mostradas son una síntesis analítica basada en mercados de predicción reales, datos de futuros de materias primas (ICE/NYMEX), y análisis de sentimiento de fuentes de inteligencia de fuente abierta (OSINT). Las probabilidades implícitas se calculan eliminando el "vig" (margen del corredor) para reflejar la probabilidad pura del mercado.</p>
-        <div style={{fontSize:11,color:"#6A5A3A",background:"#EDE7D8",padding:"10px 14px",borderRadius:4,lineHeight:1.6,fontWeight:"bold"}}>⚠ AVISO: Herramienta de análisis especulativo y periodístico. Las cifras no constituyen asesoramiento financiero ni apuestas reales.</div>
+      <div style={{background:"#fff",borderLeft:"4px solid #7B1D1D",padding:"20px",marginBottom:40,boxShadow:"0 2px 8px rgba(0,0,0,0.04)"}}>
+        <h3 style={{margin:"0 0 12px 0",color:"#7B1D1D",fontSize:16}}>2. Análisis Técnico y Matemático</h3>
+        <p style={{fontSize:13,lineHeight:1.6,marginBottom:10}}>
+          Las cifras presentadas son una síntesis analítica basada en la mecánica de los <a href="https://es.wikipedia.org/wiki/Mercado_de_predicci%C3%B3n" target="_blank" rel="noopener noreferrer" style={{color:"#1B3A6B",textDecoration:"underline"}}>Mercados de Predicción</a>. No representan opiniones editoriales, sino el consenso de riesgo cuantificado.
+        </p>
+        <p style={{fontSize:13,lineHeight:1.6, color:"#444"}}>
+          El sistema procesa los momios base, elimina el margen de intermediación comercial (conocido como <em>Vig</em> o <em>Overround</em>) y calcula la <strong>probabilidad implícita real (%)</strong>. Esto permite medir con precisión técnica el nivel de riesgo sistémico que los analistas y actores financieros asignan a cada evento.
+        </p>
+      </div>
+
+      <h3 style={{fontFamily:"'Playfair Display',serif",fontSize:20,color:"#1B3A6B",marginBottom:15}}>Fuentes de Inteligencia</h3>
+      <ul style={{fontSize:13,lineHeight:1.8,paddingLeft:20,color:"#444",marginBottom:40}}>
+        <li>Monitor de Mercados de Futuros de Materias Primas (ICE / NYMEX).</li>
+        <li>Agregadores de mercados de predicción globales (Polymarket, Kalshi).</li>
+        <li>Análisis de sentimiento (OSINT) en feeds de organismos de defensa.</li>
+        <li>Monitoreo en tiempo real de agencias internacionales (Reuters, Bloomberg).</li>
+      </ul>
+
+      <div style={{background:"#EAE4D8",padding:"15px",borderRadius:4,fontSize:11,color:"#555",textAlign:"center",fontWeight:"bold", border: "1px solid #D4C9B0"}}>
+        AVISO LEGAL: ESTA ES UNA HERRAMIENTA DE ANÁLISIS PERIODÍSTICO Y ESPECULATIVO. NO CONSTITUYE ASESORÍA FINANCIERA NI INCENTIVA A LAS APUESTAS REALES.
       </div>
     </div>
   );
@@ -286,17 +317,15 @@ function Sources({data}){
 function App(){
   const [data,setData]=useState(null);
   const [err,setErr]=useState(null);
-  const [tab,setTab]=useState("odds");
-  const [col,setCol]=useState(new Set());
-  const [scale, setScale] = useState(1);
+  const [tab,setTab]=useState("board");
+  const [scale,setScale]=useState(1);
 
   useEffect(()=>{
     const load=()=>fetch(`./data.json?t=${Date.now()}`)
       .then(r=>{if(!r.ok)throw new Error("No data");return r.json();})
       .then(d=>{
-        if(!d.sections) throw new Error("Datos incompletos");
-        setData(d);
-        setErr(null);
+        if(!d.sections) throw new Error("Datos corruptos");
+        setData(d); setErr(null);
       })
       .catch(e=>setErr(e.message));
     
@@ -305,86 +334,71 @@ function App(){
     return()=>clearInterval(iv);
   },[]);
 
-  if(err) return <div style={{background:"#0d0d0d",height:"100vh",display:"flex",alignItems:"center",justifyContent:"center"}}><span style={{color:"#7B1D1D",fontSize:16,letterSpacing:1,fontWeight:"bold"}}>✕ ERROR DE LECTURA DE DATOS. REVISA GITHUB ACTIONS.</span></div>;
-  if(!data) return <div style={{background:"#0d0d0d",height:"100vh",display:"flex",alignItems:"center",justifyContent:"center"}}><span style={{color:"#8AACCF",fontSize:14,letterSpacing:2}}>SINCRONIZANDO INTELIGENCIA...</span></div>;
-
-  const sections=data?.sections||[];
-  const ticker=data?.ticker||[];
-  const lastUpd=data?.lastUpdated||"—";
-  const total=sections.reduce((a,s)=>a+(s.rows||s.items||[]).length,0);
-
-  const tog=(i)=>setCol(p=>{const n=new Set(p);n.has(i)?n.delete(i):n.add(i);return n;});
-
-  const mobCards=sections.slice(0,6).map((s,i)=>{const rows=s.rows||s.items||[];return{tag:s.label,tagColor:ACCENTS[i%ACCENTS.length],headline:rows[0]?.event||s.label,sub:parseParams(rows[0]?.params).slice(0,80),credit:"OSINT",wikiTitle:s.label,icon:s.flag};});
+  if(err) return <div style={{background:"#2a0000",color:"#ff9999",padding:"30px",margin:"50px auto",maxWidth:600,textAlign:"center",border:"2px solid red",fontFamily:"monospace"}}><h3>⚠️ ERROR DE LECTURA</h3><p>{err}</p><p style={{fontSize:11}}>Revisa que GitHub Actions haya generado el JSON.</p></div>;
+  if(!data) return <div style={{background:"#0d0d0d",height:"100vh",display:"flex",alignItems:"center",justifyContent:"center",color:"#8AACCF",fontSize:14,letterSpacing:2}}>SINCRONIZANDO INTELIGENCIA...</div>;
 
   return(
-    <div style={{background:"#F5F0E8",minHeight:"100vh"}}>
-      <div style={{background:"#1B3A6B",position:"sticky",top:0,zIndex:300,boxShadow:"0 4px 20px rgba(0,0,0,.5)"}}>
-        <div style={{maxWidth:1440,margin:"0 auto"}}>
-          <Ticker items={ticker}/>
-          <div style={{padding:"16px 24px 0"}}>
-            <div style={{display:"flex", justifyContent:"space-between", alignItems:"flex-start"}}>
-              <div>
-                <div style={{fontFamily:"'Playfair Display',serif",fontSize:"clamp(18px,3vw,26px)",fontWeight:900,color:"#F5F0E8",lineHeight:1.1,marginBottom:4}}>FIN DEL MUNDO - TABLERO DE PROBABILIDADES</div>
-                <div style={{fontFamily:"'Playfair Display',serif",fontSize:"clamp(11px,1.8vw,14px)",fontWeight:600,color:"#8AACCF",marginBottom:6}}>INTELIGENCIA EN TIEMPO REAL · RIESGO GLOBAL</div>
-                <div style={{fontSize:10,color:"#6A9ACF",letterSpacing:.5, marginBottom:10}}>🔄 ACTUALIZADO: {lastUpd} · {total} ESCENARIOS ACTIVOS</div>
-              </div>
-              <div style={{display:"flex", alignItems:"center"}}>
-                <span style={{fontSize:10, color:"#8AACCF", marginRight:4}}>TEXTO:</span>
-                <button className="scale-btn" onClick={() => setScale(s => Math.max(s - 0.1, 0.8))}>A-</button>
-                <button className="scale-btn" onClick={() => setScale(s => Math.min(s + 0.1, 1.4))}>A+</button>
-              </div>
-            </div>
-            <div style={{display:"flex",marginTop:8}}>
-              {[{id:"odds",label:"📊 MOMIOS"},{id:"sources",label:"📋 METODOLOGÍA"}].map(t=>(
-                <button key={t.id} onClick={()=>setTab(t.id)} style={{padding:"10px 20px",background:tab===t.id?"#F5F0E8":"transparent",border:"none",color:tab===t.id?"#1B3A6B":"#8AACCF",fontSize:11.5,fontWeight:700,letterSpacing:.8,borderRadius:tab===t.id?"6px 6px 0 0":0, transition:"all 0.2s"}}>{t.label}</button>
-              ))}
-            </div>
+    <div className="main-wrapper" style={{zoom: scale}}>
+      <Ticker items={data.ticker}/>
+      
+      <div style={{background:"#1B3A6B", padding:"20px 25px 0", borderBottom:"1px solid #333"}}>
+        <div style={{display:"flex",justifyContent:"space-between",alignItems:"flex-start"}}>
+          <div>
+            <h1 style={{margin:0,fontFamily:"'Playfair Display',serif",fontSize:"clamp(22px, 3vw, 32px)",fontWeight:900,color:"#F5F0E8",lineHeight:1.1,letterSpacing:"-0.5px"}}>FIN DEL MUNDO - TABLERO DE PROBABILIDADES</h1>
+            <div style={{fontSize:11,fontWeight:700,color:"#8AACCF",marginTop:8,letterSpacing:1.5}}>REAL-TIME INTELLIGENCE FEED // {data.lastUpdated}</div>
           </div>
+          <div style={{display:"flex",alignItems:"center"}}>
+            <span style={{fontSize:10,color:"#8AACCF",marginRight:5,fontWeight:"bold"}}>ZOOM:</span>
+            <button className="scale-btn" onClick={()=>setScale(s=>Math.max(s-0.1, 0.8))}>A-</button>
+            <button className="scale-btn" onClick={()=>setScale(s=>Math.min(s+0.1, 1.4))}>A+</button>
+          </div>
+        </div>
+        
+        <div style={{display:"flex",marginTop:20}}>
+          <button className={`tab-btn ${tab==='board'?'active':''}`} onClick={()=>setTab('board')}>PROBABILIDADES Y ESCENARIOS</button>
+          <button className={`tab-btn ${tab==='sources'?'active':''}`} onClick={()=>setTab('sources')}>METODOLOGÍA Y FUENTES</button>
         </div>
       </div>
 
-      <div style={{zoom: scale, transformOrigin: "top left"}}>
-        {tab==="odds"?(
+      <div className="layout">
+        {tab==="board" ? (
           <>
-            <div className="mob"><Carousel cards={mobCards}/></div>
-            <div className="layout">
-              <div className="col-main">
-                <div style={{background:"#EAE4D8",padding:"8px 20px",borderBottom:"1px solid #C8BFA8",fontSize:10,color:"#666",display:"flex",gap:16, fontWeight:"bold"}}>
-                  <span><span style={{color:"#1B5E38", fontSize:12}}>■</span> FAVORITO (−)</span>
-                  <span><span style={{color:"#1B3A6B", fontSize:12}}>■</span> SORPRESA (+)</span>
-                  <span style={{marginLeft:"auto"}}>RIESGO: VERDE ≥60% · ORO 30-59% · ROJO &lt;30%</span>
-                </div>
-                {sections.map((sec,si)=>{
-                  const accent=ACCENTS[si%ACCENTS.length];
-                  const rows=sec.rows||sec.items||[];
-                  const open=!col.has(si);
-                  return(
-                    <div key={si} style={{marginTop:12, padding:"0 10px"}}>
-                      <div onClick={()=>tog(si)} style={{display:"flex",alignItems:"center",justifyContent:"space-between",padding:"12px 18px",background:"#EEEAE2",borderTop:`4px solid ${accent}`,borderBottom:"1px solid #D4C9B0",borderRadius: "4px 4px 0 0",cursor:"pointer",userSelect:"none", boxShadow:"0 2px 5px rgba(0,0,0,0.02)"}}>
-                        <div style={{display:"flex",alignItems:"center",gap:10}}>
-                          <span style={{fontSize:16}}>{sec.flag}</span>
-                          <span style={{fontFamily:"'Playfair Display',serif",fontSize:14,fontWeight:900,color:accent,letterSpacing:1.2,textTransform:"uppercase"}}>{sec.label}</span>
-                          <span style={{fontSize:10,color:"#888", fontWeight:"bold"}}>({rows.length})</span>
-                        </div>
-                        <span style={{color:accent,fontSize:12,fontWeight:900}}>{open?"▲":"▼"}</span>
-                      </div>
-                      {open&&rows.map((row,ri)=><Card key={ri} row={row} even={ri%2===0}/>)}
-                    </div>
-                  );
-                })}
-                <div style={{textAlign:"center",padding:"30px 20px 50px",fontSize:10,color:"#A09888",lineHeight:1.8, fontWeight:"bold"}}>FIN DEL REPORTE — DATOS SUJETOS A VOLATILIDAD EXTREMA</div>
+            <div className="col-main">
+              <div style={{background:"#EAE4D8",padding:"10px 18px",border:"1px solid #C8BFA8",borderRadius:4,fontSize:10,color:"#555",display:"flex",justifyContent:"space-between",fontWeight:"bold",marginBottom:20}}>
+                <span><span style={{color:"#1B5E38",fontSize:12}}>■</span> FAVORITO (−)</span>
+                <span><span style={{color:"#1B3A6B",fontSize:12}}>■</span> SORPRESA (+)</span>
+                <span>RIESGO: VERDE ≥60% · ORO 30-59% · ROJO &lt;30%</span>
               </div>
-              <Aside data={data} sections={sections}/>
+              
+              {data.sections.map((sec,i)=>{
+                const rows = sec.rows||sec.items||[];
+                return(
+                  <div key={i} style={{marginBottom:25,border:"1px solid #E4DDD0",borderRadius:4,overflow:"hidden",boxShadow:"0 2px 4px rgba(0,0,0,0.02)"}}>
+                    <div style={{background:"#EEEAE2",padding:"12px 18px",borderBottom:"1px solid #D4C9B0",borderTop:`4px solid ${ACCENTS[i%ACCENTS.length]}`,fontSize:14,fontWeight:900,color:"#1a1a1a",letterSpacing:1.2,textTransform:"uppercase"}}>
+                      {stripEmojis(sec.label)}
+                    </div>
+                    {rows.map((row,j)=><EventCard key={j} row={row} even={j%2===0}/>)}
+                  </div>
+                );
+              })}
+              <div style={{textAlign:"center",padding:"20px",fontSize:10,color:"#A09888",fontWeight:"bold"}}>FIN DEL REPORTE — DATOS SUJETOS A VOLATILIDAD</div>
+            </div>
+            
+            <div className="col-aside">
+              <AsideContent data={data} sections={data.sections} />
             </div>
           </>
-        ):(
-          <Sources data={data}/>
+        ) : (
+          <div style={{width:"100%", background:"#F5F0E8"}}>
+            <SourcesTab />
+          </div>
         )}
       </div>
 
-      <footer style={{background:"#EAE4D8",borderTop:"2px solid #D4C9B0",padding:"25px 0",textAlign:"center", position:"relative", zIndex:10}}>
-        <div style={{fontSize:11,color:"#888",letterSpacing:2, fontWeight:"bold"}}>CREADO POR ADRIÁN ROFFIEL</div>
+      <footer style={{padding:"30px 0",textAlign:"center",borderTop:"2px solid #D4C9B0",background:"#EAE4D8"}}>
+        <div style={{fontSize:11,color:"#888",letterSpacing:2,fontWeight:700}}>
+          CREADO POR ADRIÁN ROFFIEL | PROYECTO OSINT
+        </div>
       </footer>
     </div>
   );
