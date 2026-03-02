@@ -17,7 +17,7 @@ def main():
     meses = ["", "enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"]
     today = cdmx_now.strftime(f"%d de {meses[cdmx_now.month]} de %Y — %H:%M CDMX")
     
-    prompt = f"Fecha: {today}. Genera un JSON para el tablero 'FIN DEL MUNDO - TABLERO DE PROBABILIDADES'. Usa noticias reales. Incluye 'lastUpdated', 'ticker' (lista de noticias) y 'sections' (lista con 'flag', 'label' y 'rows'). En 'rows' cada objeto debe tener 'event', 'odds', 'moved' y 'params'."
+    prompt = f"Fecha: {today}. Genera un JSON para el tablero 'FIN DEL MUNDO - TABLERO DE PROBABILIDADES'. Usa noticias reales. Incluye 'lastUpdated', 'ticker' (lista de noticias cortas) y 'sections' (lista con 'flag', 'label' y 'rows'). En 'rows' cada objeto debe tener 'event', 'odds', 'moved' (up/down/none) y 'params'. Redacta en español mexicano."
 
     payload = {
         "model": "llama3-70b-8192",
@@ -26,7 +26,7 @@ def main():
             {"role": "user", "content": prompt}
         ],
         "temperature": 0.3,
-        "max_tokens": 4000,
+        "max_tokens": 6000,
         "response_format": {"type": "json_object"}
     }
 
@@ -40,11 +40,15 @@ def main():
         final_data = json.loads(data)
         final_data["lastUpdated"] = today
 
-        with open("data.json", "w", encoding="utf-8") as f:
+        if "sections" not in final_data: final_data["sections"] = []
+        if "ticker" not in final_data: final_data["ticker"] = ["⚡ Actualizando datos de inteligencia..."]
+
+        out = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data.json")
+        with open(out, "w", encoding="utf-8") as f:
             json.dump(final_data, f, ensure_ascii=False, indent=2)
         print("Actualización exitosa.")
     except Exception as e:
-        print(f"Error: {str(e)}")
+        print(f"Error de ejecución: {str(e)}")
         sys.exit(1)
 
 if __name__ == "__main__":
