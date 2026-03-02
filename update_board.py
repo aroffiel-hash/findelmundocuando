@@ -71,6 +71,7 @@ def main():
         # Inyección forzada de la fecha de México
         data["lastUpdated"] = today
         
+        # Salvavidas: Ya NO hay asserts. Si falta algo, se pone vacío y el programa continúa.
         if "sections" not in data: data["sections"] = []
         if "ticker" not in data: data["ticker"] = ["⚡ Actualizando fuentes de inteligencia..."]
 
