@@ -1,43 +1,32 @@
 {
-  "lastUpdated": "2026-03-03 00:05:31 UTC",
+  "lastUpdated": "2026-03-03 00:11:12 UTC",
   "ticker": [
-    "Iran says will attack any ship trying to pass through Strait of Hormuz",
-    "New wave of heavy Israeli strikes hit Tehran",
-    "What dangers does the Iran war pose for Israel?",
-    "Rubio suggests US strikes on Iran were influenced by Israeli plans",
-    "Spain refuses to let US use bases for Iran attacks",
-    "US-Israeli strikes hit housing, hospitals, and more in Tehran",
-    "Anti-war candidates pose early test for US Democrats after attacks on Iran",
-    "Netanyahu: Iran would ‘threaten all of humanity’ with nuclear weapon",
-    "US and Israeli interests may soon diverge on Iran",
-    "Trump says Iran war projected to last 4 to 5 weeks, could go ‘far longer’"
+    "🔴 Iranian missiles, interceptions seen over Israel",
+    "🔴 Witness describes Israeli-US ‘double-tap’ strike on downtown Tehran",
+    "🔴 Iran says will attack any ship trying to pass through Strait of Hormuz",
+    "🔴 New wave of heavy Israeli strikes hit Tehran",
+    "🔴 What dangers does the Iran war pose for Israel?",
+    "🔴 Rubio suggests US strikes on Iran were influenced by Israeli plans",
+    "🔴 Spain refuses to let US use bases for Iran attacks",
+    "🔴 US-Israeli strikes hit housing, hospitals, and more in Tehran",
+    "🔴 Anti-war candidates pose early test for US Democrats after attacks on Iran",
+    "🔴 Netanyahu: Iran would ‘threaten all of humanity’ with nuclear weapon",
+    "🔴 US and Israeli interests may soon diverge on Iran",
+    "🔴 Trump says Iran war projected to last 4 to 5 weeks, could go ‘far longer’",
+    "📉 Why QatarEnergy’s LNG production halt could shake up global gas markets",
+    "🔴 Trump: this was the best chance to strike Iran’s ‘sick and sinister regime’",
+    "🔴 France to increase nuclear warheads, lend nuclear aircraft to Europe allies"
   ],
   "sections": [
     {
-      "label": "ORIENTE MEDIO",
-      "keywords": [
-        "Israel",
-        "Iran",
-        "Gaza",
-        "Middle East"
-      ],
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Israel and Syria normalize relations by...?",
+          "event": "China x India military clash by...?",
           "odds": "+100",
           "params": "Fuente: Polymarket API",
           "moved": "none"
-        }
-      ]
-    },
-    {
-      "label": "EUROPA DEL ESTE",
-      "keywords": [
-        "Russia",
-        "Ukraine",
-        "Putin"
-      ],
-      "rows": [
+        },
         {
           "event": "NATO/EU troops fighting in Ukraine by...?",
           "odds": "+100",
@@ -63,7 +52,7 @@
           "moved": "none"
         },
         {
-          "event": "Will Russia capture Kostyantynivka by...?",
+          "event": "Will OpenAI launch a consumer hardware product by...?",
           "odds": "+100",
           "params": "Fuente: Polymarket API",
           "moved": "none"
@@ -71,50 +60,122 @@
       ]
     },
     {
-      "label": "INDO-PACÍFICO",
-      "keywords": [
-        "China",
-        "Taiwan",
-        "US"
-      ],
-      "rows": [
-        {
-          "event": "China x India military clash by...?",
-          "odds": "+100",
-          "params": "Fuente: Polymarket API",
-          "moved": "none"
-        },
-        {
-          "event": "US recognize Somaliland by...?",
-          "odds": "+100",
-          "params": "Fuente: Polymarket API",
-          "moved": "none"
-        },
-        {
-          "event": "Which party will win the House in 2026?",
-          "odds": "+100",
-          "params": "Fuente: Polymarket API",
-          "moved": "none"
-        },
-        {
-          "event": "SCOTUS accepts sports event contract case by...?     ",
-          "odds": "+100",
-          "params": "Fuente: Polymarket API",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "label": "MERCADOS GLOBALES",
-      "keywords": [
-        "Oil",
-        "Fed",
-        "Economy",
-        "Bitcoin"
-      ],
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
           "event": "MicroStrategy sells any Bitcoin by ___ ?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket API",
+          "moved": "none"
+        },
+        {
+          "event": "Trump eliminates capital gains tax on crypto by ___?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket API",
+          "moved": "none"
+        },
+        {
+          "event": "MegaETH market cap (FDV) one day after launch?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket API",
+          "moved": "none"
+        },
+        {
+          "event": "Will USDC hit 50% of USDT market cap by ___?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket API",
+          "moved": "none"
+        },
+        {
+          "event": "Will USDT market cap hit $200B by ___?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket API",
+          "moved": "none"
+        },
+        {
+          "event": "Who will Trump nominate as Fed Chair?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket API",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "UK election called by...?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket API",
+          "moved": "none"
+        },
+        {
+          "event": "Spain snap election called by...?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket API",
+          "moved": "none"
+        },
+        {
+          "event": "Democratic Presidential Nominee 2028",
+          "odds": "+100",
+          "params": "Fuente: Polymarket API",
+          "moved": "none"
+        },
+        {
+          "event": "Presidential Election Winner 2028",
+          "odds": "+100",
+          "params": "Fuente: Polymarket API",
+          "moved": "none"
+        },
+        {
+          "event": "Republican Presidential Nominee 2028",
+          "odds": "+100",
+          "params": "Fuente: Polymarket API",
+          "moved": "none"
+        },
+        {
+          "event": "Texas Republican Senate Primary Winner",
+          "odds": "+100",
+          "params": "Fuente: Polymarket API",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Kraken IPO by ___ ?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket API",
+          "moved": "none"
+        },
+        {
+          "event": "Macron out by...?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket API",
+          "moved": "none"
+        },
+        {
+          "event": "Starmer out by...?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket API",
+          "moved": "none"
+        },
+        {
+          "event": "Will any country leave NATO by...?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket API",
+          "moved": "none"
+        },
+        {
+          "event": "BitBoy convicted?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket API",
+          "moved": "none"
+        },
+        {
+          "event": "Taylor Swift pregnant in 2025?",
           "odds": "+100",
           "params": "Fuente: Polymarket API",
           "moved": "none"
