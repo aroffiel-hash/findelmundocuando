@@ -1,439 +1,220 @@
 {
-  "lastUpdated": "1 de marzo de 2026 — mañana",
+  "lastUpdated": "03 de marzo de 2026 — 05:18 UTC",
   "ticker": [
-    "3 soldados estadounidenses muertos confirmados — primeras bajas en combate",
-    "Jefe del Estado Mayor iraní Mousavi + ministro de Defensa + comandante CGRI: muertos",
-    "CGRI lanza ofensiva Wave 2 — 6 muertos en Beit Shemesh, Israel",
-    "CGRI afirma haber golpeado el USS Abraham Lincoln — CENTCOM lo desmiente: 'mentira'",
-    "Estrecho de Ormuz: caída del 40–50% de tráfico marítimo — Maersk suspende tránsitos",
-    "Barclays: el Brent podría llegar a $100/barril el lunes",
-    "FM iraní: 'sin intención de cerrar Ormuz de forma permanente, por ahora'",
-    "Milicias chiítas iraquíes atacan bases estadounidenses — Embajada en Bagdad en alerta",
-    "Karachi: 9 muertos en asalto al Consulado de EE.UU.",
-    "China: postura neutral, busca concesiones sobre Taiwán y comercio",
-    "Corea del Norte condena los ataques como 'agresión ilegal' — solidaridad sin acción militar",
-    "Putin llama al asesinato de Jamenei 'un asesinato cínico'",
-    "Crisis Group: las voces surcoreanas sobre disuasión nuclear se intensifican",
-    "Puerto de Jebel Ali golpeado — Dubai bajo ataque"
+    "UAE resumes limited flights amid travel chaos across Middle East",
+    "Iran to do ‘utmost’ to protect China’s citizens amid US-Israel attacks: FM",
+    "Shutdown of Hormuz Strait raises fears of soaring oil prices",
+    "Israeli attacks kill dozens of people across Lebanon",
+    "US Embassy in Saudi capital Riyadh hit by drones, fire reported: Ministry",
+    "US kamikaze drone found on farmland in Iraq",
+    "How much could the Iran war cost the US? Here’s what we know",
+    "Golestan Palace majorly damaged in US-Israeli strikes on Tehran",
+    "Melania Trump chairs UN meeting on children days after Iran school strike",
+    "UN chief calls for ‘way out’ of Iran war",
+    "US’s Rubio tries to justify attacks on Iran as driven by self-defence",
+    "US urges citizens to immediately leave over a dozen Middle East countries",
+    "Iran live: US embassy in Riyadh hit; Tehran closes Strait of Hormuz",
+    "Iranian missiles, interceptions seen over Israel",
+    "Witness describes Israeli-US ‘double-tap’ strike on downtown Tehran"
   ],
   "sections": [
     {
       "flag": "🌍",
-      "label": "ESCENARIOS MACRO",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "El conflicto se mantiene solo regional",
-          "odds": "-400",
-          "params": "Sin entrada directa de gran potencia fuera de EE.UU./Israel. Irán ya ataca 6+ países, milicias iraquíes atacan bases de EE.UU. — el conflicto ya es multi-teatro.",
-          "moved": "down"
-        },
-        {
-          "event": "3+ grandes potencias en conflicto directo",
-          "odds": "+220",
-          "params": "EE.UU. más dos de: China, Rusia, UK, Francia en intercambio militar directo antes del 31 dic 2026. Rusia y China emiten condenas fuertes pero sin capacidad de apoyo militar significativo.",
-          "moved": "down"
-        },
-        {
-          "event": "Escenario WW3 en 4 frentes",
-          "odds": "+400",
-          "params": "Combate activo simultáneo en Medio Oriente, Sur de Asia, Estrecho de Taiwán y teatro europeo antes del 31 dic 2026. China prefiere la presión diplomática sobre la acción militar.",
+          "event": "Will Alireza Arafi be the next Supreme Leader of Iran?",
+          "odds": "+362",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Tercera Guerra Mundial por definición estricta",
-          "odds": "+950",
-          "params": "3+ grandes potencias reconocidas en cada bando, 4+ frentes geográficos distintos, todos activos simultáneamente. Rusia y China fuera por ahora — única fuerza de contención real.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇮🇷",
-      "label": "IRÁN",
-      "rows": [
-        {
-          "event": "El gobierno iraní colapsa en 6 meses",
-          "odds": "-160",
-          "params": "Líder Supremo muerto, jefe del Estado Mayor Mousavi confirmado muerto, ministro de Defensa muerto, comandante CGRI muerto. Pezeshkian lidera consejo de transición. CFR advierte: 'El CGRI ES el régimen' — estructura militar intacta.",
-          "moved": "down"
-        },
-        {
-          "event": "Irán se vuelve nuclear en 12 meses",
-          "odds": "-180",
-          "params": "Irán prueba o despliega un arma nuclear en 12 meses. Reserva de 440kg de UHE se cree intacta, acuerdo nuclear muerto, inspectores bloqueados, incentivo en máximo histórico.",
-          "moved": "down"
-        },
-        {
-          "event": "Muerte de Jamenei confirmada",
-          "odds": "LIQUIDADO",
-          "params": "✓ COBRADO — Confirmado 28 feb 2026 por la televisión estatal iraní. Murió junto a su hija, yerno y nieto en el ataque al complejo.",
+          "event": "Will the US reopen its embassy in Iran in 2026?",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Alto el fuego iraní en 30 días",
-          "odds": "+1400",
-          "params": "Cese formal de ataques de EE.UU./Israel Y represalias iraníes en 30 días. El CGRI jura 'la operación más feroz de la historia'. Pezeshkian no tiene autoridad sobre el CGRI. No existe autoridad legítima para firmar un acuerdo.",
-          "moved": "up"
-        },
-        {
-          "event": "Estrecho de Ormuz cerrado 30+ días consecutivos",
-          "odds": "+200",
-          "params": "Throughput comercial por debajo del 20% por 30 días. FM iraní dijo sin intención de cierre permanente 'en esta etapa'. Caída confirmada del 40–50%, Maersk/Hapag-Lloyd suspendió tránsitos. Situación volátil.",
-          "moved": "up"
-        },
-        {
-          "event": "Irán solicita asistencia del Talibán",
-          "odds": "+130",
-          "params": "Solicitud formal o reportada de apoyo militar talibán en 60 días. El consejo de transición puede buscar legitimidad a través de alianzas. El Talibán prometió apoyo si Irán era atacado — condición cumplida.",
-          "moved": "down"
-        }
-      ]
-    },
-    {
-      "flag": "🇲🇽",
-      "label": "MÉXICO",
-      "rows": [
-        {
-          "event": "México sufre recesión por shock del conflicto",
-          "odds": "+220",
-          "params": "El alza del petróleo y la disrupción de Ormuz elevan costos de importación; debilitamiento del peso por fuga de capitales hacia activos refugio. México importa ~35% de su gasolina refinada.",
-          "moved": "down"
-        },
-        {
-          "event": "Peso mexicano cae 10%+ en 30 días",
-          "odds": "+170",
-          "params": "El peso históricamente se deprecia en crisis globales. Con EE.UU. en guerra abierta, los flujos de capital hacia el dólar aumentan. Riesgo adicional: aranceles Trump en paralelo.",
-          "moved": "down"
-        },
-        {
-          "event": "Pemex sufre pérdidas o requiere rescate",
-          "odds": "-120",
-          "params": "Pemex ya opera con deuda histórica. El alza del petróleo ayuda ingresos pero el costo de servicio de deuda en dólares y la volatilidad financiera pueden superar las ganancias. CFR clasificó a Pemex como riesgo sistémico.",
-          "moved": "down"
-        },
-        {
-          "event": "Sheinbaum convoca mediación de paz internacional",
-          "odds": "+420",
-          "params": "México ha buscado históricamente rol de mediador neutral. Sheinbaum mantiene postura de no alineación. Probabilidad baja — EE.UU. no busca mediación y el CGRI no reconoce autoridad neutral.",
+          "event": "China x Taiwan military clash before 2027?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "El conflicto agrava la crisis de seguridad interna",
-          "odds": "-200",
-          "params": "Cárteles mexicanos operan con lazos en Medio Oriente vía redes de tráfico. Un conflicto prolongado eleva tráfico de armas, presiona economía informal y distrae atención de seguridad del gobierno.",
-          "moved": "down"
-        },
-        {
-          "event": "México rompe relaciones con EE.UU. o Israel",
-          "odds": "+1400",
-          "params": "Sheinbaum ha criticado los ataques verbalmente pero mantiene relaciones diplomáticas. Una ruptura formal es casi imposible dada la dependencia económica bilateral — el T-MEC es el principal ancla.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇦🇫",
-      "label": "AFGANISTÁN / ALIANZA IRANÍ",
-      "rows": [
-        {
-          "event": "El Talibán proporciona apoyo material a Irán",
-          "odds": "+190",
-          "params": "Transferencia confirmada de armas, combatientes o apoyo logístico en 90 días. Talibán en registro prometiendo apoyo — condición ahora cumplida. Consejo de transición iraní probablemente activará esta oferta.",
-          "moved": "down"
-        },
-        {
-          "event": "Alianza militar formal Talibán-Irán",
-          "odds": "+480",
-          "params": "Acuerdo de defensa mutua firmado en 12 meses. El consejo iraní puede buscar alianza como movimiento de legitimidad, pero las tensiones históricas CGRI-Talibán permanecen.",
+          "event": "US x Iran ceasefire by March 15?",
+          "odds": "+354",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "El Talibán abre frente oriental contra Pakistán",
-          "odds": "+420",
-          "params": "Ofensiva transfronteriza coordinada en 90 días. Qatar media en negociaciones Pakistán-Afganistán — señal leve de de-escalada al 1 de marzo por la mañana.",
-          "moved": "up"
-        }
-      ]
-    },
-    {
-      "flag": "🇵🇰",
-      "label": "PAKISTÁN",
-      "rows": [
-        {
-          "event": "El conflicto Pak-Afg se expande significativamente",
-          "odds": "-115",
-          "params": "Ataques aéreos paquistaníes más allá de provincias actuales O tropas terrestres cruzan hacia Afganistán en 30 días. Mediación de Qatar en curso — señal de contención pero condiciones subyacentes sin cambio.",
-          "moved": "up"
-        },
-        {
-          "event": "Pakistán usa arma nuclear",
-          "odds": "+750",
-          "params": "Cualquier detonación nuclear por fuerzas paquistaníes. Inestabilidad doméstica acelerando — 9 muertos en disturbios del consulado de Karachi, presión militar en dos frentes, gobierno bajo tensión.",
-          "moved": "down"
-        },
-        {
-          "event": "Golpe de estado o desestabilización del gobierno paquistaní",
-          "odds": "+280",
-          "params": "Golpe militar, colapso del gobierno civil, o PM removido por medios no electorales en 12 meses. Disturbios en Karachi (9 muertos en consulado de EE.UU.), militares en dos frentes, sentimiento antigubernamental en alza.",
-          "moved": "down"
-        },
-        {
-          "event": "Pakistán solicita asistencia militar de EE.UU.",
-          "odds": "+380",
-          "params": "Solicitud formal paquistaní de intervención militar directa de EE.UU. en 60 días. EE.UU. sobrecomprometido en teatro iraní; público paquistaní ferozmente anti-estadounidense tras disturbios en Karachi.",
-          "moved": "up"
-        }
-      ]
-    },
-    {
-      "flag": "🇹🇼",
-      "label": "CHINA / TAIWÁN",
-      "rows": [
-        {
-          "event": "China actúa sobre Taiwán en 60 días",
-          "odds": "+350",
-          "params": "El EPL inicia bloqueo naval, violaciones de espacio aéreo o desembarco anfibio en 60 días. Analistas de CNBC confirman que Beijing presiona por concesiones sobre Taiwán. USS Abraham Lincoln y USS Gerald Ford comprometidos en el Golfo — disuasión reducida.",
-          "moved": "down"
-        },
-        {
-          "event": "China actúa sobre Taiwán en 12 meses",
-          "odds": "+185",
-          "params": "Igual que arriba, ventana de 12 meses. Xi ve el enfoque de EE.UU. en Medio Oriente como invitación a afirmar dominio en el Indo-Pacífico. Crisis Group: voces surcoreanas sobre disuasión nuclear en aumento.",
-          "moved": "down"
-        },
-        {
-          "event": "China proporciona ayuda militar directa a Irán",
-          "odds": "+460",
-          "params": "Entrega confirmada de armas o personal chino a fuerzas iraníes en 90 días. China llama explícitamente a la moderación. La ayuda directa destruiría la visita de Trump a Beijing prevista este mes.",
-          "moved": "up"
-        },
-        {
-          "event": "China entra en conflicto militar directo con EE.UU.",
-          "odds": "+580",
-          "params": "Intercambio cinético confirmado entre fuerzas chinas y de EE.UU. China busca concesiones a través de diplomacia, no confrontación. Analistas confirman que China 'no está en posición de ofrecer apoyo militar significativo' a Irán.",
-          "moved": "up"
-        }
-      ]
-    },
-    {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA",
-      "rows": [
-        {
-          "event": "Rusia lanza nueva ofensiva mayor en Ucrania",
-          "odds": "+155",
-          "params": "Fuerzas rusas avanzan más de 50km en cualquier frente en 60 días. Putin llamó al asesinato de Jamenei 'un asesinato cínico'. EE.UU. totalmente distraído en Medio Oriente — ventana óptima para avance ruso nunca fue más clara.",
-          "moved": "down"
-        },
-        {
-          "event": "Rusia entra en conflicto directo con miembro de la OTAN",
-          "odds": "+520",
-          "params": "Ataque cinético ruso confirmado en territorio de la OTAN con bajas en 12 meses. Rusia evita confrontación directa con la OTAN; Francia ofreció desplegar fuerzas para proteger socios si se solicita.",
+          "event": "Will Israel annex any territory by June 30?",
+          "odds": "+513",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Rusia se alía formalmente con Irán",
-          "odds": "+230",
-          "params": "Tratado de defensa mutua firmado en 90 días. Putin condena personalmente el asesinato de Jamenei como 'un asesinato cínico' — el lenguaje ruso más cálido hacia Irán en años. Analistas dicen que Rusia carece de capacidad para apoyo militar significativo.",
-          "moved": "down"
-        },
-        {
-          "event": "Corea del Norte abre frente coreano con apoyo ruso",
-          "odds": "+460",
-          "params": "Ofensiva terrestre norcoreana hacia Corea del Sur con apoyo material o de inteligencia ruso confirmado en 12 meses.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇰🇵",
-      "label": "COREA DEL NORTE",
-      "rows": [
-        {
-          "event": "Prueba nuclear o de ICBM en 30 días",
-          "odds": "-160",
-          "params": "Evento sísmico consistente con prueba nuclear O lanzamiento exitoso de ICBM más allá de 5,500km. Kim condenó los ataques como 'agresión ilegal' — señal de solidaridad. Ventana de distracción máxima con portaaviones de EE.UU. en el Golfo.",
-          "moved": "down"
-        },
-        {
-          "event": "Provocaciones de artillería o fronterizas escalan",
-          "odds": "-240",
-          "params": "Incursiones de artillería o drones norcoreanos en territorio surcoreano más allá de la línea base actual en 30 días. Casi certeza dado el total compromiso de EE.UU. en el teatro del Golfo.",
-          "moved": "down"
-        },
-        {
-          "event": "Incursión fronteriza limitada",
-          "odds": "+270",
-          "params": "Fuerzas terrestres norcoreanas cruzan la DMZ en enfrentamiento localizado sin desencadenar guerra total en 90 días.",
-          "moved": "down"
-        },
-        {
-          "event": "Invasión total de Corea del Sur",
-          "odds": "+360",
-          "params": "Fuerzas norcoreanas cruzan la DMZ en fuerza con intención de mantener territorio. Corea del Norte condenó los ataques de EE.UU. — señal de alineación. Crisis Group: voces surcoreanas sobre disuasión nuclear se aceleran.",
-          "moved": "down"
-        },
-        {
-          "event": "Transfiere armas o tropas al conflicto iraní",
-          "odds": "+195",
-          "params": "Entrega confirmada de municiones o personal norcoreano a fuerzas iraníes o aliadas en 90 días. Corea del Norte ya desplegó tropas en Rusia — el modelo de despliegue existe. Condenó los ataques como agresión ilegal.",
-          "moved": "down"
-        }
-      ]
-    },
-    {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — INTERIOR",
-      "rows": [
-        {
-          "event": "Órdenes stop-loss activadas",
-          "odds": "-500",
-          "params": "El Pentágono emite orden stop-loss que impide bajas programadas en 60 días. Casi certeza: 3 KIA confirmados, 5 heridos graves, conflicto que se extiende por 6+ países. Los mandos militares no tienen opción.",
-          "moved": "down"
-        },
-        {
-          "event": "Activación plena de la Guardia Nacional / Reserva",
-          "odds": "-320",
-          "params": "Orden presidencial activando 100,000+ efectivos de la Guardia/Reserva en 90 días. Muertes en combate confirmadas, Irán atacando activos de EE.UU. en múltiples países. Legal y militarmente necesario.",
-          "moved": "down"
-        },
-        {
-          "event": "Se reinstala el reclutamiento militar obligatorio",
-          "odds": "+210",
-          "params": "El Congreso aprueba y el Presidente firma legislación reinstalando el Servicio Selectivo en 12 meses. Si los frentes de Taiwán y Corea se abren simultáneamente con el Medio Oriente sostenido, la aritmética se vuelve inevitable.",
-          "moved": "down"
-        },
-        {
-          "event": "El reclutamiento incluye mujeres",
-          "odds": "+520",
-          "params": "Cualquier legislación de reclutamiento firmada en ley incluye explícitamente registrantes femeninas en 12 meses.",
+          "event": "Will Sinners win Best Makeup and Hairstyling at the 98th Academy Awards?",
+          "odds": "+1438",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Declaración de guerra del Congreso",
-          "odds": "+260",
-          "params": "Declaración formal de guerra aprobada por ambas cámaras contra cualquier nación en 12 meses. Votación del Senado sobre poderes de guerra ya fracasó (Fetterman votó con republicanos). Los primeros KIAs aumentan la presión.",
-          "moved": "down"
-        },
-        {
-          "event": "Desafío legal de Poderes de Guerra llega a la SCOTUS",
-          "odds": "-220",
-          "params": "La Corte Suprema acepta escuchar caso que cuestiona autoridad presidencial de guerra en 12 meses. Sin autorización del Congreso + primeros KIAs + múltiples países atacados = caso más fuerte de poderes de guerra en la historia moderna.",
-          "moved": "down"
+          "event": "Will Mr. Nobody Against Putin win Best Documentary Feature Film at the 98th Academy Awards?",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Petróleo por encima de $100/barril en 7 días",
-          "odds": "-140",
-          "params": "Brent cierra por encima de $100 en cualquier día de trading en 7 días. Barclays advirtió: 'Los mercados petroleros podrían tener que enfrentar sus peores temores el lunes.' Maersk/Hapag-Lloyd suspendió tránsitos por Ormuz. Precio pre-ataque ~$73.",
-          "moved": "down"
+          "event": "Will Venezuelan crude oil production reach 1.1m barrels per day in 2026?",
+          "odds": "-300",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         },
         {
-          "event": "Petróleo por encima de $150/barril en 90 días",
-          "odds": "+140",
-          "params": "WTI cierra por encima de $150 en cualquier día de trading en 90 días. Elevado pero no seguro — depende fuertemente de si el cierre de Ormuz se mantiene.",
-          "moved": "down"
+          "event": "Will the percentage change in the S&P 500 in Q1 2026 be less than 0%?",
+          "odds": "+108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         },
         {
-          "event": "Recesión global provocada por el conflicto",
-          "odds": "+140",
-          "params": "FMI declara recesión global con vínculo causal directo a los conflictos actuales en 18 meses. Shock petrolero en curso, Dubai (hub financiero global) bajo ataque, caída del 40–50% del tráfico de Ormuz.",
-          "moved": "down"
+          "event": "Will S&P 500 (SPX) hit $6,300 (LOW) in June?",
+          "odds": "+122",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         },
         {
-          "event": "Mercado de valores cae 20%+ desde hoy",
-          "odds": "+160",
-          "params": "S&P 500 cierra 20%+ por debajo del precio de apertura de hoy en 90 días. Shock petrolero + colapso de aviación regional + disrupción de Ormuz históricamente produce correcciones mayores de mercado.",
-          "moved": "down"
+          "event": "Poilievre out as leader of Conservatives before 2027?",
+          "odds": "+284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         },
         {
-          "event": "Racionamiento de gasolina en EE.UU.",
-          "odds": "+260",
-          "params": "El gobierno federal implementa programa formal de racionamiento de gasolina en 12 meses. Disrupción de Ormuz ya activa — no hipotética. Depende de la duración.",
-          "moved": "down"
+          "event": "Will Brazil’s Q4 2025 GDP growth rate (YoY) be less than 0.4%?",
+          "odds": "+740",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Vegas Golden Knights win the Western Conference?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Eurozone annual GDP growth in 2026 be between 1.0% and 2.0%?",
+          "odds": "+270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
     {
-      "flag": "🎲",
-      "label": "LONGSHOTS",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "ONU aprueba resolución vinculante de alto el fuego",
-          "odds": "+2500",
-          "params": "Resolución aprobada sin veto de ningún miembro permanente en 90 días. Rusia y China no vetarán resolución crítica de EE.UU./Israel. EE.UU. vetará cualquier cosa crítica de sí mismo.",
-          "moved": "up"
+          "event": "Will Jack Reed be the Democratic nominee for Senate in Rhode Island?",
+          "odds": "-900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         },
         {
-          "event": "Alto el fuego diplomático en todos los frentes",
-          "odds": "+1800",
-          "params": "Cese formal de hostilidades en todos los frentes activos simultáneamente antes del 31 dic 2026. El CGRI jura 'la operación más feroz de la historia'. No existe autoridad iraní para firmar.",
-          "moved": "up"
+          "event": "Will Keir Starmer say \"Denton\" during the next Prime Minister's Questions?",
+          "odds": "-222",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         },
         {
-          "event": "Se usa un arma nuclear en cualquier lugar",
-          "odds": "+420",
-          "params": "Cualquier detonación nuclear por cualquier actor estatal en cualquier teatro en 12 meses. Pakistán bajo presión de dos frentes + disturbios en Karachi + incentivo nuclear iraní al máximo + Corea del Norte con cobertura máxima.",
-          "moved": "down"
+          "event": "Will the Republican Party hold 47 or fewer Senate seats after the 2026 midterm elections?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         },
         {
-          "event": "Se usan dos o más armas nucleares",
-          "odds": "+950",
-          "params": "Dos o más detonaciones nucleares confirmadas por cualquier combinación de actores estatales en 12 meses.",
-          "moved": "down"
+          "event": "Will Saxon Callahan be the Democratic nominee for Senate in New Jersey?",
+          "odds": "+1823",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         },
         {
-          "event": "WW3 total por todas las definiciones",
-          "odds": "+1500",
-          "params": "Todas las apuestas de eventos macro se resuelven como SÍ simultáneamente en 12 meses. Trayectoria significativamente peor en las últimas 36 horas. China/Rusia fuera por ahora es la única fuerza de contención.",
-          "moved": "down"
+          "event": "Will the Republicans win the Georgia Senate race in 2026?",
+          "odds": "+405",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Rastriya Prajatantra Party win the third-most seats in the Nepal House of Representatives election?",
+          "odds": "+1233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jason Anavitarte win the GA-14 special election?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will Silver (SI) hit (LOW) $55 by end of June?",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "StandX FDV above $400M one day after launch?",
+          "odds": "+112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will SpaceX IPO by March 31, 2026?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Posy Li get engaged in Bridgerton: Season 4?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Atalanta BC win on 2026-03-07?",
+          "odds": "-170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Naim Qassem out as Hezbollah’s secretary-general by March 31, 2026?",
+          "odds": "-177",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump say \"Low Energy\" in March?",
+          "odds": "+156",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Puffpaw FDV above $50M one day after launch?",
+          "odds": "-177",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     }
-  ],
-  "sources": [
-    {
-      "name": "Council on Foreign Relations — Encuesta 2026",
-      "description": "CFR encuestó ~500 funcionarios y académicos. Post-muerte de Jamenei: 'Eliminar al Líder Supremo no es lo mismo que un cambio de régimen. El CGRI ES el régimen.'",
-      "url": "https://www.cfr.org/report/preventive-priorities-survey-2026"
-    },
-    {
-      "name": "Chatham House",
-      "description": "Análisis de escalada post-ataque. Un Irán acorralado crea inestabilidad a largo plazo — paralelo directo al Irak post-2003.",
-      "url": "https://www.chathamhouse.org"
-    },
-    {
-      "name": "Cambridge Centre for Existential Risk",
-      "description": "La reserva de 440kg de UHE de Irán significa que el incentivo para armarse 'se fue por las nubes'. Fuente primaria para la línea de Irán nuclear.",
-      "url": "https://www.cser.ac.uk"
-    },
-    {
-      "name": "International Crisis Group — 10 Conflictos a Vigilar 2026",
-      "description": "Xi ve el enfoque de Trump en Medio Oriente como invitación a afirmar dominio en el Indo-Pacífico. Voces surcoreanas sobre disuasión nuclear en aumento.",
-      "url": "https://www.crisisgroup.org"
-    },
-    {
-      "name": "S&P Global Commodities at Sea — 28 feb",
-      "description": "Confirmó caída del 40–50% en tráfico de envíos por Ormuz al 28 feb. Flujos de crudo salientes ya cayendo.",
-      "url": "https://www.spglobal.com"
-    },
-    {
-      "name": "Barclays / Eurasia Group — 1 mar",
-      "description": "Barclays: 'El Brent podría alcanzar $100.' Eurasia Group: aumento de $5–10 sobre el precio base de $73 si el conflicto continúa."
-    },
-    {
-      "name": "CENTCOM — Declaración 1 mar",
-      "description": "Desmintió afirmación del CGRI sobre el USS Abraham Lincoln: 'Los misiles lanzados ni siquiera se acercaron.' Relevante para líneas de escalada doméstica en EE.UU."
-    },
-    {
-      "name": "Cobertura en vivo — 1 mar 2026",
-      "description": "CBS News, CNBC, Al Jazeera, Times of Israel, Reuters, AP, CNN, Japan Times. Usadas para KIAs confirmados, bajas en Beit Shemesh, muerte en Karachi, ataque de petrolero, condena norcoreana."
-    }
-  ],
-  "methodology": "Las cuotas se fijan mirando qué dicen los expertos (CFR, Chatham House, RAND, Crisis Group), qué condiciones estructurales existen para que ocurra cada escenario, y con qué frecuencia situaciones similares han producido resultados similares en la historia. Las líneas se mueven cuando llega información confirmada importante. ACORTADO = la probabilidad subió. ALARGADO = bajó. LIQUIDADO = el evento ya ocurrió."
+  ]
 }
