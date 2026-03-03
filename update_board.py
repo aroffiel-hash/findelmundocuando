@@ -2,99 +2,83 @@ import os
 import json
 import sys
 import requests
-import urllib.request
-import xml.etree.ElementTree as ET
-from datetime import datetime, timedelta
+from datetime import datetime
 
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "")
 GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
 
-def get_real_news():
-    # Jala titulares mundiales en tiempo real para dárselos de contexto a la IA
-    try:
-        url = "https://www.aljazeera.com/xml/rss/all.xml"
-        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-        resp = urllib.request.urlopen(req).read()
-        root = ET.fromstring(resp)
-        items = root.findall('.//item')
-        return "\n".join([f"- {item.find('title').text}" for item in items[:25]])
-    except:
-        return "- Tensión en Medio Oriente\n- Mercados petroleros volátiles\n- Elecciones y política global"
-
 def main():
     if not GROQ_API_KEY:
-        print("Error: GROQ_API_KEY no configurada en GitHub Secrets.")
+        print("❌ Error: No se encontró GROQ_API_KEY en las variables de entorno.")
         sys.exit(1)
 
-    utc_now = datetime.utcnow()
-    cdmx_now = utc_now - timedelta(hours=6)
-    meses = ["", "enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"]
-    today = cdmx_now.strftime(f"%d de {meses[cdmx_now.month]} de %Y — %H:%M CDMX")
+    today = datetime.utcnow().strftime("%d de %B de %Y — %H:%M UTC")
     
-    # 1. Obtener noticias reales
-    news_context = get_real_news()
-
-    # 2. Instruir a la IA
-    prompt = f"""Fecha actual: {today}. 
-Eres un analista geopolítico experto. 
-A partir de los siguientes titulares de noticias de ÚLTIMA HORA:
-{news_context}
-
-Genera un JSON ESTRICTO para el 'TABLERO DE PROBABILIDADES GEOPOLÍTICO'.
-El JSON debe tener esta estructura exacta (obligatorio):
-{{
-  "lastUpdated": "{today}",
-  "ticker": ["⚡ Noticia urgente 1", "🔴 Noticia urgente 2", "💰 Noticia económica 3"],
-  "sections": [
+    prompt = f"""
+    Fecha actual: {today}
+    Genera un JSON actualizado para el tablero geopolítico.
+    Estructura EXACTA requerida:
     {{
-      "flag": "🌍",
-      "label": "NOMBRE DE LA SECCIÓN",
-      "rows": [
+      "lastUpdated": "{today}",
+      "ticker": ["⚡ Noticia 1", "🔴 Noticia 2", "15 noticias en total"],
+      "sections": [
         {{
-          "event": "Escenario probable basado en las noticias",
-          "odds": "-150", 
-          "moved": "down",
-          "params": "Justificación basada en los titulares."
+          "flag": "🌍",
+          "label": "ESCENARIOS MACRO",
+          "rows": [
+            {{"event": "Conflicto escala", "odds": "-150", "moved": "down", "params": "Razón breve"}}
+          ]
         }}
       ]
     }}
-  ]
-}}
+    Instrucciones:
+    - Genera al menos 10-14 secciones (Macro, Irán, México, Economía, etc).
+    - Usa noticias geopolíticas de alta tensión de marzo 2026.
+    - Devuelve ÚNICAMENTE JSON válido. Nada de markdown.
+    """
 
-Reglas Críticas:
-1. Crea al menos 5 secciones (ej. MEDIO ORIENTE 🇮🇷, ESTADOS UNIDOS 🇺🇸, ECONOMÍA 💰, UCRANIA/RUSIA 🇷🇺). Usa banderas en 'flag'.
-2. En 'odds' usa estricto formato americano (ej. "-200", "+150", o "LIQUIDADO").
-3. En 'moved' usa SOLO: "up", "down", o "none".
-4. DEBES RESPONDER ÚNICAMENTE CON EL JSON VÁLIDO. Cero texto antes o después.
-"""
-
+    headers = {
+        "Authorization": f"Bearer {GROQ_API_KEY}",
+        "Content-Type": "application/json"
+    }
+    
     payload = {
-        "model": "llama-3.3-70b-versatile",
+        "model": "llama3-70b-8192",
         "messages": [
-            {"role": "system", "content": "Eres una máquina que solo devuelve JSON válido, sin formato markdown ni explicaciones."},
+            {"role": "system", "content": "Eres un analista OSINT experto. Solo respondes en JSON."},
             {"role": "user", "content": prompt}
         ],
         "temperature": 0.3,
-        "max_tokens": 6000,
         "response_format": {"type": "json_object"}
     }
 
     try:
-        r = requests.post(GROQ_URL, headers={"Authorization": f"Bearer {GROQ_API_KEY}"}, json=payload, timeout=90)
-        if r.status_code != 200:
-            print(f"Error API: {r.text}")
-            sys.exit(1)
-            
-        data_text = r.json()["choices"][0]["message"]["content"]
-        final_data = json.loads(data_text)
-        final_data["lastUpdated"] = today
+        print("📡 Conectando a Groq (Llama 3)...")
+        r = requests.post(GROQ_URL, headers=headers, json=payload, timeout=90)
+        r.raise_for_status()
+        raw = r.json()["choices"][0]["message"]["content"]
+
+        # Limpieza básica por si la IA devuelve markdown
+        clean = raw.strip().lstrip("```json").lstrip("```").rstrip("```").strip()
+        data = json.loads(clean)
+
+        # Inyectar fecha sí o sí
+        data["lastUpdated"] = today
+        
+        # Validar mínimo viable sin romper el programa si faltan secciones
+        if "sections" not in data:
+            data["sections"] = []
+        if "ticker" not in data:
+            data["ticker"] = ["⚡ Actualizando fuentes satelitales..."]
 
         out = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data.json")
         with open(out, "w", encoding="utf-8") as f:
-            json.dump(final_data, f, ensure_ascii=False, indent=2)
-        print("✅ data.json generado con éxito por la IA.")
+            json.dump(data, f, ensure_ascii=False, indent=2)
+            
+        print(f"✅ Éxito. {len(data['sections'])} secciones generadas.")
+
     except Exception as e:
-        print(f"Error de ejecución: {str(e)}")
+        print(f"❌ Error fatal durante la generación o procesado: {str(e)}")
         sys.exit(1)
 
 if __name__ == "__main__":
