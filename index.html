@@ -489,39 +489,62 @@ function NewsImagePanel({ isUpdating }) {
 
 // ── ASIDE: CUOTAS CLAVE ───────────────────────────────────────────────────────
 function AsideKeyOdds({ sections }) {
+  const BANNED_ASIDE = [
+    "oscar","emmy","grammy","superbowl","super bowl","nba","nfl","nhl","mlb",
+    "beisbol","béisbol","futbol","fútbol","copa","liga","playoffs","deportes",
+    "box office","cine","pelicula","película","album","música","musica",
+  ];
   const keyOdds = useMemo(() => {
     const all = [];
     (sections || []).forEach(s => (s.rows || []).forEach(r => {
       if (r.odds && r.odds !== "N/A" && r.odds !== "LIQUIDADO") {
         const p = calcImplied(r.odds);
-        if (p !== null) all.push({ label: r.event, odds: r.odds, p });
+        const ev = (r.event || "").toLowerCase();
+        const blocked = BANNED_ASIDE.some(b => ev.includes(b));
+        if (p !== null && !blocked) all.push({ label: r.event, odds: r.odds, p, section: s.label });
       }
     }));
-    const favs     = all.filter(r => isFavorite(r.odds)).sort((a, b) => b.p - a.p).slice(0, 3);
-    const longshots = all.filter(r => !isFavorite(r.odds)).sort((a, b) => a.p - b.p).slice(0, 2);
+    // Top 4 más probables (favoritos) + top 3 más llamativos (longshots geopolíticos)
+    const favs      = all.filter(r => isFavorite(r.odds)).sort((a, b) => b.p - a.p).slice(0, 4);
+    const longshots = all.filter(r => !isFavorite(r.odds)).sort((a, b) => b.p - a.p).slice(0, 3);
     return [...favs, ...longshots];
   }, [sections]);
 
   return (
-    <div style={{ background: "#EDE8E0", padding: "16px 16px" }}>
-      <div style={{ fontFamily: "'Playfair Display', serif", fontSize: 13, fontWeight: "700", color: "#1B3A6B", letterSpacing: 1.2, textTransform: "uppercase", marginBottom: 12 }}>
+    <div style={{ background: "#EDE8E0", padding: "14px 16px 10px" }}>
+      <div style={{ fontFamily: "'Playfair Display', serif", fontSize: 12, fontWeight: "700", color: "#1B3A6B", letterSpacing: 1.5, textTransform: "uppercase", marginBottom: 12, paddingBottom: 8, borderBottom: "1px solid #D0C8BA" }}>
         Cuotas destacadas
       </div>
       {keyOdds.length === 0 && (
-        <div style={{ fontFamily: "'Inter', sans-serif", fontSize: 11, color: "#AAAAAA" }}>Cargando...</div>
+        <div style={{ fontFamily: "'Inter', sans-serif", fontSize: 12, color: "#AAAAAA" }}>Cargando...</div>
       )}
       {keyOdds.map((item, i) => (
-        <div key={i} style={{ display: "flex", alignItems: "center", justifyContent: "space-between", marginBottom: 8, gap: 8 }}>
-          <span style={{ fontFamily: "'Inter', sans-serif", fontSize: 12, color: "#3A3A3A", flex: 1, lineHeight: 1.5 }}>
-            {item.label.slice(0, 48)}{item.label.length > 48 ? "…" : ""}
-          </span>
-          <div style={{ display: "flex", gap: 5, alignItems: "center", flexShrink: 0 }}>
-            <span style={{
-              fontFamily: "'IBM Plex Mono', monospace", fontSize: 11, fontWeight: "700",
-              color: oddsColor(item.odds), background: oddsBg(item.odds),
-              padding: "2px 6px", borderRadius: 3,
-            }}>{item.odds}</span>
-            <span style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 12, fontWeight: "700", color: pctColor(item.p), minWidth: 34 }}>{item.p}%</span>
+        <div key={i} style={{
+          background: i % 2 === 0 ? "#F5F1EB" : "#EDE8E0",
+          border: "1px solid #D8D0C4", borderRadius: 4,
+          padding: "10px 12px", marginBottom: 7,
+        }}>
+          {/* Label — full width, wraps naturally */}
+          <div style={{ fontFamily: "'Inter', sans-serif", fontSize: 12.5, fontWeight: "600", color: "#1A1A1A", lineHeight: 1.5, marginBottom: 7 }}>
+            {item.label}
+          </div>
+          {/* Section tag + odds + pct in a row */}
+          <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", gap: 6 }}>
+            <span style={{ fontFamily: "'Inter', sans-serif", fontSize: 9.5, color: "#999", letterSpacing: 0.5, textTransform: "uppercase", flex: 1 }}>
+              {(item.section || "").slice(0, 22)}
+            </span>
+            <div style={{ display: "flex", gap: 6, alignItems: "center", flexShrink: 0 }}>
+              <span style={{
+                fontFamily: "'IBM Plex Mono', monospace", fontSize: 13, fontWeight: "700",
+                color: oddsColor(item.odds), background: oddsBg(item.odds),
+                padding: "3px 8px", borderRadius: 3,
+              }}>{item.odds}</span>
+              <span style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 13, fontWeight: "700", color: pctColor(item.p), minWidth: 38, textAlign: "right" }}>{item.p}%</span>
+            </div>
+          </div>
+          {/* Probability bar */}
+          <div style={{ marginTop: 6, height: 3, borderRadius: 2, background: "#D8D0C4", overflow: "hidden" }}>
+            <div style={{ width: `${item.p}%`, height: "100%", background: pctColor(item.p), borderRadius: 2 }}/>
           </div>
         </div>
       ))}
@@ -950,7 +973,14 @@ function App() {
                   </div>
                   {!isCollapsed && section.rows.filter(row => {
                     const ev = (row.event || "").toLowerCase();
-                    const BANNED = ["oscar", "oscar", "deporte", "nba", "nfl", "béisbol", "beisbol", "futbol", "fútbol", "copa", "super bowl", "playoffs", "liga"];
+                    const BANNED = [
+                      "oscar","emmy","grammy","superbowl","super bowl",
+                      "nba","nfl","nhl","mlb","mls","f1","formula 1",
+                      "beisbol","béisbol","futbol","fútbol","copa","liga mx",
+                      "playoffs","deportes","box office","cine","pelicula",
+                      "película","album","música","musica","concierto",
+                      "award","awards","entertainment","celebrity",
+                    ];
                     return !BANNED.some(b => ev.includes(b));
                   }).map((row, ri) => (
                     <EventCard key={ri} row={row}
