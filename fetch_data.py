@@ -4,26 +4,44 @@ from datetime import datetime
 import xml.etree.ElementTree as ET
 
 def fetch_ticker_news():
-    # Jala noticias frescas de un RSS global (ej. Al Jazeera o similar)
+    # Jala noticias globales y les inyecta emojis según el contexto
     try:
         url = "https://www.aljazeera.com/xml/rss/all.xml"
         req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
         response = urllib.request.urlopen(req).read()
         root = ET.fromstring(response)
         items = root.findall('.//item')
-        return [item.find('title').text for item in items[:10]]
-    except:
-        return ["⚠️ Señal de noticias interrumpida", "Sincronizando feed geopolítico..."]
+        
+        headlines = []
+        for item in items[:15]:
+            title = item.find('title').text
+            low_title = title.lower()
+            
+            # Asignador inteligente de emojis
+            if any(w in low_title for w in ["war", "dead", "attack", "strike", "military", "gaza", "russia", "ukraine", "iran", "israel", "missile"]):
+                emoji = "🔴"
+            elif any(w in low_title for w in ["market", "economy", "oil", "bank", "fed", "inflation", "brent"]):
+                emoji = "📉"
+            elif any(w in low_title for w in ["president", "election", "vote", "trump", "biden", "putin", "zelenskyy"]):
+                emoji = "🏛️"
+            else:
+                emoji = "⚡"
+                
+            headlines.append(f"{emoji} {title}")
+        return headlines
+    except Exception as e:
+        return ["🔴 Error conectando a red de noticias", "⚡ Sincronizando feed geopolítico..."]
 
 def fetch_polymarket_odds():
-    # Jala momios reales de Polymarket (Gamma API)
-    url = "https://gamma-api.polymarket.com/events?closed=false&limit=50"
-    sections = [
-        {"label": "ORIENTE MEDIO", "keywords": ["Israel", "Iran", "Gaza", "Middle East"], "rows": []},
-        {"label": "EUROPA DEL ESTE", "keywords": ["Russia", "Ukraine", "Putin"], "rows": []},
-        {"label": "INDO-PACÍFICO", "keywords": ["China", "Taiwan", "US"], "rows": []},
-        {"label": "MERCADOS GLOBALES", "keywords": ["Oil", "Fed", "Economy", "Bitcoin"], "rows": []}
-    ]
+    # Jala los top 100 eventos de Polymarket para que NUNCA esté vacío
+    url = "https://gamma-api.polymarket.com/events?closed=false&limit=100"
+    
+    sections_dict = {
+        "GEOPOLÍTICA Y CONFLICTO": {"keywords": ["war", "military", "missile", "russia", "ukraine", "israel", "iran", "gaza", "taiwan", "china", "korea", "putin", "zelensky"], "rows": []},
+        "ECONOMÍA Y RECURSOS": {"keywords": ["oil", "gas", "fed", "rate", "inflation", "economy", "brent", "bitcoin", "crypto", "market", "bank"], "rows": []},
+        "POLÍTICA INTERNACIONAL": {"keywords": ["president", "election", "trump", "biden", "harris", "minister", "senate", "cabinet", "court"], "rows": []},
+        "ESCENARIOS GLOBALES": {"keywords": [""], "rows": []} # Fallback para rellenar
+    }
     
     try:
         req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
@@ -35,35 +53,39 @@ def fetch_polymarket_odds():
             markets = event.get('markets', [])
             if not markets: continue
             
-            # Convierte la probabilidad de Polymarket (0.0 a 1.0) a Momio Americano
+            # Convierte prob decimal a momio americano
             prob = markets[0].get('probability', 0.5)
             if prob > 0.5:
                 odds = int(- (prob / (1 - prob)) * 100)
             else:
-                odds = int(((1 - prob) / prob) * 100)
+                odds = int(((1 - prob) / max(prob, 0.0001)) * 100) # Previene división por cero
                 
             odds_str = f"+{odds}" if odds > 0 else str(odds)
             
-            # Clasifica el evento en su sección
-            for sec in sections:
-                if any(kw.lower() in title.lower() for kw in sec['keywords']):
-                    sec['rows'].append({
-                        "event": title,
-                        "odds": odds_str,
-                        "params": "Fuente: Polymarket API",
-                        "moved": "none"
-                    })
+            # Clasificación
+            placed = False
+            for sec_name, sec_data in sections_dict.items():
+                if sec_name != "ESCENARIOS GLOBALES" and any(kw in title.lower() for kw in sec_data["keywords"]):
+                    sec_data["rows"].append({"event": title, "odds": odds_str, "params": "Fuente: Polymarket API", "moved": "none"})
+                    placed = True
                     break
-                    
-        # Filtra secciones vacías y recorta a los 5 eventos más importantes por sección
-        valid_sections = [s for s in sections if len(s['rows']) > 0]
-        for s in valid_sections:
-            s['rows'] = s['rows'][:5]
             
-        return valid_sections
+            if not placed and len(sections_dict["ESCENARIOS GLOBALES"]["rows"]) < 8:
+                sections_dict["ESCENARIOS GLOBALES"]["rows"].append({"event": title, "odds": odds_str, "params": "Fuente: Polymarket API", "moved": "none"})
+
+        # Limpiar y preparar JSON final
+        final_sections = []
+        for label, data in sections_dict.items():
+            if len(data["rows"]) > 0:
+                final_sections.append({
+                    "label": label,
+                    "rows": data["rows"][:6] # Solo los 6 más relevantes por sección
+                })
+                
+        return final_sections
     except Exception as e:
         print("Error fetching odds:", e)
-        return []
+        return [{"label": "ERROR DE SISTEMA", "rows": [{"event": "No se pudieron obtener datos del API", "odds": "N/A", "params": "Verifica fetch_data.py", "moved": "none"}]}]
 
 if __name__ == "__main__":
     data = {
@@ -74,4 +96,4 @@ if __name__ == "__main__":
     
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
-    print("data.json actualizado correctamente.")
+    print("✅ data.json generado con éxito y lleno de datos.")
