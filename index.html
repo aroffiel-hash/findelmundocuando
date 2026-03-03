@@ -8,10 +8,10 @@
 <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
 <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
 <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700;900&family=IBM+Plex+Mono:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700;900&family=IBM+Plex+Mono:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet"/>
 <style>
 * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
-html, body { margin: 0; padding: 0; background: #F5F0E8; }
+html, body { margin: 0; padding: 0; background: #F5F0E8; font-family: 'Inter', sans-serif; }
 input { -webkit-appearance: none; font-size: 16px !important; }
 button { touch-action: manipulation; }
 
@@ -111,7 +111,7 @@ function Ticker({ items, isUpdating }) {
       <div ref={trackRef} style={{ display: "flex", alignItems: "center", whiteSpace: "nowrap", willChange: "transform" }}>
         {list.map((item, i) => (
           <span key={i} style={{
-            fontFamily: "'IBM Plex Mono', monospace", fontSize: 11, color: "#FFD09A",
+            fontFamily: "'Inter', sans-serif", fontSize: 11.5, fontWeight: "500", color: "#FFD09A",
             letterSpacing: 0.5, paddingRight: 64, flexShrink: 0,
           }}>
             {isUpdating && i === 0 ? "Actualizando fuentes..." : item}
@@ -132,7 +132,7 @@ function MovedBadge({ moved }) {
       background: d ? "#EBF7EF" : "#FDF0F0", color: d ? "#1B5E38" : "#7B1D1D",
       border: `1px solid ${d ? "#B0DAC0" : "#E8B0B0"}`,
       letterSpacing: 0.4, verticalAlign: "middle",
-      fontFamily: "'IBM Plex Mono', monospace", whiteSpace: "nowrap",
+      fontFamily: "'Inter', sans-serif", whiteSpace: "nowrap",
     }}>
       {d ? "▼ ACORT." : "▲ ALARG."}
     </span>
@@ -146,13 +146,13 @@ function ExpandableParams({ text }) {
   const LIMIT = 140;
   const long = text.length > LIMIT;
   return (
-    <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 10.5, color: "#6A6055", lineHeight: 1.7 }}>
+    <div style={{ fontFamily: "'Inter', sans-serif", fontSize: 11.5, color: "#5A5248", lineHeight: 1.75 }}>
       {exp || !long ? text : `${text.slice(0, LIMIT)}…`}
       {long && (
         <button onClick={() => setExp(e => !e)} style={{
-          background: "none", border: "none", color: "#1B3A6B", fontSize: 10,
-          fontWeight: "700", cursor: "pointer", padding: "0 4px",
-          fontFamily: "'IBM Plex Mono', monospace",
+          background: "none", border: "none", color: "#1B3A6B", fontSize: 11,
+          fontWeight: "600", cursor: "pointer", padding: "0 4px",
+          fontFamily: "'Inter', sans-serif",
         }}>{exp ? " [menos]" : " [más]"}</button>
       )}
     </div>
@@ -174,8 +174,8 @@ function EventCard({ row, onDraftChange, onCommit, isEven }) {
     }}>
       <div style={{ marginBottom: 8 }}>
         <span style={{
-          fontFamily: "'IBM Plex Mono', monospace", fontSize: 12.5, fontWeight: "600",
-          color: settled ? "#999" : "#1A1A1A", lineHeight: 1.45,
+          fontFamily: "'Inter', sans-serif", fontSize: 13, fontWeight: "600",
+          color: settled ? "#999" : "#1A1A1A", lineHeight: 1.5,
           textDecoration: settled ? "line-through" : "none",
         }}>{row.event}</span>
         <MovedBadge moved={row.moved} />
@@ -503,16 +503,16 @@ function AsideKeyOdds({ sections }) {
   }, [sections]);
 
   return (
-    <div style={{ background: "#F0EDE6", padding: "14px 14px" }}>
-      <div style={{ fontFamily: "'Playfair Display', serif", fontSize: 11, fontWeight: "700", color: "#1B3A6B", letterSpacing: 1.5, textTransform: "uppercase", marginBottom: 10 }}>
+    <div style={{ background: "#EDE8E0", padding: "16px 16px" }}>
+      <div style={{ fontFamily: "'Playfair Display', serif", fontSize: 13, fontWeight: "700", color: "#1B3A6B", letterSpacing: 1.2, textTransform: "uppercase", marginBottom: 12 }}>
         Cuotas destacadas
       </div>
       {keyOdds.length === 0 && (
-        <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 10, color: "#AAA" }}>Cargando...</div>
+        <div style={{ fontFamily: "'Inter', sans-serif", fontSize: 11, color: "#AAAAAA" }}>Cargando...</div>
       )}
       {keyOdds.map((item, i) => (
         <div key={i} style={{ display: "flex", alignItems: "center", justifyContent: "space-between", marginBottom: 8, gap: 8 }}>
-          <span style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 10, color: "#555", flex: 1, lineHeight: 1.4 }}>
+          <span style={{ fontFamily: "'Inter', sans-serif", fontSize: 12, color: "#3A3A3A", flex: 1, lineHeight: 1.5 }}>
             {item.label.slice(0, 48)}{item.label.length > 48 ? "…" : ""}
           </span>
           <div style={{ display: "flex", gap: 5, alignItems: "center", flexShrink: 0 }}>
@@ -521,7 +521,7 @@ function AsideKeyOdds({ sections }) {
               color: oddsColor(item.odds), background: oddsBg(item.odds),
               padding: "2px 6px", borderRadius: 3,
             }}>{item.odds}</span>
-            <span style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 10, fontWeight: "700", color: pctColor(item.p), minWidth: 30 }}>{item.p}%</span>
+            <span style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 12, fontWeight: "700", color: pctColor(item.p), minWidth: 34 }}>{item.p}%</span>
           </div>
         </div>
       ))}
@@ -547,13 +547,13 @@ function DoomsdayClockPanel() {
       {/* Header */}
       <div style={{ padding: "10px 14px 8px", borderBottom: "1px solid #1A0000", display: "flex", alignItems: "center", gap: 8 }}>
         <div style={{ width: 28, height: 28, borderRadius: "50%", border: "2px solid #CC0000", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
-          <span style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 8, color: "#CC0000", fontWeight: "700" }}>XII</span>
+          <span style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 9, color: "#EE4444", fontWeight: "700" }}>XII</span>
         </div>
         <div>
           <div style={{ fontFamily: "'Playfair Display', serif", fontSize: 11, fontWeight: "700", color: "#FF9999", letterSpacing: 1.5, textTransform: "uppercase" }}>
             Reloj del Juicio Final
           </div>
-          <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 8.5, color: "#663333", marginTop: 1 }}>
+          <div style={{ fontFamily: "'Inter', sans-serif", fontSize: 10.5, color: "#CC8888", marginTop: 2 }}>
             Bulletin of Atomic Scientists — 2026
           </div>
         </div>
@@ -563,22 +563,22 @@ function DoomsdayClockPanel() {
       <div style={{ padding: "14px 14px 10px", background: "#0d0505", borderBottom: "1px solid #1A0000" }}>
         <div style={{ display: "flex", alignItems: "baseline", gap: 6, marginBottom: 4 }}>
           <span style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 36, fontWeight: "700", color: "#CC0000", lineHeight: 1 }}>85</span>
-          <span style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 11, color: "#FF9999" }}>seg. para medianoche</span>
+          <span style={{ fontFamily: "'Inter', sans-serif", fontSize: 12, color: "#FF9999" }}>seg. para medianoche</span>
         </div>
-        <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 9, color: "#663333", lineHeight: 1.6, marginBottom: 8 }}>
+        <div style={{ fontFamily: "'Inter', sans-serif", fontSize: 11, color: "#CC8888", lineHeight: 1.6, marginBottom: 8 }}>
           Actualizado: 27 enero 2026 · Récord histórico desde 1947
         </div>
         <div style={{ background: "#1A0000", borderRadius: 3, height: 6, marginBottom: 4, overflow: "hidden" }}>
           <div style={{ width: `${(1 - 85/600)*100}%`, height: "100%", background: "linear-gradient(to right, #CC0000, #FF4444)", borderRadius: 3 }}/>
         </div>
-        <div style={{ display: "flex", justifyContent: "space-between", fontFamily: "'IBM Plex Mono', monospace", fontSize: 7.5, color: "#443333" }}>
+        <div style={{ display: "flex", justifyContent: "space-between", fontFamily: "'Inter', sans-serif", fontSize: 10, color: "#997777" }}>
           <span>Más seguro</span><span>Medianoche</span>
         </div>
       </div>
 
       {/* Motivos */}
       <div style={{ padding: "10px 14px", borderBottom: "1px solid #1A0000" }}>
-        <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 8.5, color: "#CC6666", fontWeight: "700", letterSpacing: 1, marginBottom: 6 }}>
+        <div style={{ fontFamily: "'Inter', sans-serif", fontSize: 11, color: "#EE8888", fontWeight: "700", letterSpacing: 0.5, marginBottom: 8 }}>
           POR QUÉ SE MOVIÓ 4 SEG. DESDE 2025
         </div>
         {[
@@ -589,14 +589,14 @@ function DoomsdayClockPanel() {
         ].map((item, i) => (
           <div key={i} style={{ display: "flex", gap: 6, marginBottom: 5, alignItems: "flex-start" }}>
             <span style={{ color: "#CC0000", fontFamily: "'IBM Plex Mono', monospace", fontSize: 9, flexShrink: 0, marginTop: 1 }}>·</span>
-            <span style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 9, color: "#996666", lineHeight: 1.5 }}>{item}</span>
+            <span style={{ fontFamily: "'Inter', sans-serif", fontSize: 11.5, color: "#CC9999", lineHeight: 1.6 }}>{item}</span>
           </div>
         ))}
       </div>
 
       {/* Historial */}
       <div style={{ padding: "10px 14px" }}>
-        <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 8.5, color: "#553333", fontWeight: "700", letterSpacing: 1, marginBottom: 8 }}>
+        <div style={{ fontFamily: "'Inter', sans-serif", fontSize: 11, color: "#CC7777", fontWeight: "700", letterSpacing: 0.5, marginBottom: 10 }}>
           HISTORIAL DEL RELOJ
         </div>
         {CLOCK_DATA.map((d, i) => (
@@ -612,12 +612,12 @@ function DoomsdayClockPanel() {
             <span style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 8, color: d.year === 2026 ? "#FF6666" : "#443333", minWidth: 46, textAlign: "right" }}>{d.label}</span>
           </div>
         ))}
-        <div style={{ marginTop: 8, fontFamily: "'IBM Plex Mono', monospace", fontSize: 7.5, color: "#332222", lineHeight: 1.6 }}>
+        <div style={{ marginTop: 8, fontFamily: "'Inter', sans-serif", fontSize: 11, color: "#AA7777", lineHeight: 1.7 }}>
           1991: máximo histórico (17 min) tras el Tratado START.<br/>
           2026: mínimo absoluto en 78 años de historia del reloj.
         </div>
         <a href="https://thebulletin.org/doomsday-clock/" target="_blank" rel="noopener noreferrer"
-          style={{ display: "block", marginTop: 8, fontFamily: "'IBM Plex Mono', monospace", fontSize: 8, color: "#664444", textDecoration: "none" }}>
+          style={{ display: "block", marginTop: 10, fontFamily: "'Inter', sans-serif", fontSize: 11, color: "#AA6666", textDecoration: "none" }}>
           thebulletin.org/doomsday-clock →
         </a>
       </div>
@@ -627,7 +627,7 @@ function DoomsdayClockPanel() {
 
 // ── TAB: FUENTES / METODOLOGÍA ────────────────────────────────────────────────
 function SourcesTab({ lastUpdated, fetchedAt, rawData }) {
-  const mono  = { fontFamily: "'IBM Plex Mono', monospace", fontSize: 12, color: "#3A3A3A", lineHeight: 1.85 };
+  const mono  = { fontFamily: "'Inter', sans-serif", fontSize: 13, color: "#3A3A3A", lineHeight: 1.8 };
   const serif = { fontFamily: "'Playfair Display', Georgia, serif" };
 
   const SectionBlock = ({ num, title, children }) => (
@@ -647,7 +647,7 @@ function SourcesTab({ lastUpdated, fetchedAt, rawData }) {
   return (
     <div style={{ padding: "28px 20px 80px", maxWidth: 760, margin: "0 auto" }}>
       <h2 style={{ ...serif, fontSize: 22, color: "#1B3A6B", marginBottom: 4, marginTop: 0 }}>Fuentes y Metodología</h2>
-      <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 9.5, color: "#AAA", marginBottom: 32 }}>
+      <div style={{ fontFamily: "'Inter', sans-serif", fontSize: 11, color: "#AAA", marginBottom: 32 }}>
         Datos cargados: {fetchedAt}
       </div>
 
@@ -721,7 +721,7 @@ function SourcesTab({ lastUpdated, fetchedAt, rawData }) {
         </div>
       </SectionBlock>
 
-      <div style={{ textAlign: "center", fontSize: 10, color: "#C0B8A8", marginTop: 12, fontFamily: "'IBM Plex Mono', monospace", letterSpacing: 0.8, lineHeight: 2 }}>
+      <div style={{ textAlign: "center", fontSize: 10, color: "#C0B8A8", marginTop: 12, fontFamily: "'Inter', sans-serif", lineHeight: 2 }}>
         PURAMENTE ESPECULATIVO · NO ES ASESORAMIENTO FINANCIERO NI DE INTELIGENCIA
       </div>
       <div style={{ textAlign: "center", fontSize: 9, color: "#B8B0A0", marginTop: 6, fontFamily: "'IBM Plex Mono', monospace", letterSpacing: 0.3 }}>
@@ -814,12 +814,12 @@ function App() {
     <div style={{ background: "#0d0d0d", minHeight: "100vh", display: "flex", alignItems: "center", justifyContent: "center" }}>
       <div style={{ background: "#1a0000", color: "#FF9999", padding: "32px 40px", borderRadius: 4, border: "2px solid #7B1D1D", textAlign: "center", maxWidth: 500 }}>
         <div style={{ fontFamily: "'Playfair Display', serif", fontSize: 18, fontWeight: "700", marginBottom: 12 }}>Error al cargar datos</div>
-        <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 12, color: "#CC8888", marginBottom: 20 }}>{err}</div>
-        <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 11, color: "#666", lineHeight: 1.8 }}>
+        <div style={{ fontFamily: "'Inter', sans-serif", fontSize: 13, color: "#CC8888", marginBottom: 20 }}>{err}</div>
+        <div style={{ fontFamily: "'Inter', sans-serif", fontSize: 12, color: "#888", lineHeight: 1.8 }}>
           Asegúrate de que <code>data.json</code> existe.<br/>
           Corre: <code>python run_local.py</code>
         </div>
-        <button onClick={() => loadData(false)} style={{ marginTop: 16, background: "#1B3A6B", color: "#F5F0E8", border: "none", padding: "10px 20px", borderRadius: 3, fontFamily: "'IBM Plex Mono', monospace", fontSize: 12, cursor: "pointer" }}>
+        <button onClick={() => loadData(false)} style={{ marginTop: 16, background: "#1B3A6B", color: "#F5F0E8", border: "none", padding: "10px 20px", borderRadius: 3, fontFamily: "'Inter', sans-serif", fontSize: 13, cursor: "pointer" }}>
           Reintentar
         </button>
       </div>
@@ -829,14 +829,14 @@ function App() {
   // ── Pantalla de carga inicial ──────────────────────────────────────────────
   if (sections.length === 0) return (
     <div style={{ background: "#0d0d0d", minHeight: "100vh", display: "flex", alignItems: "center", justifyContent: "center" }}>
-      <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 13, color: "#5A8AAF", letterSpacing: 2, animation: "pulse 1.5s ease infinite" }}>
+      <div style={{ fontFamily: "'Inter', sans-serif", fontSize: 14, color: "#5A8AAF", letterSpacing: 1, animation: "pulse 1.5s ease infinite" }}>
         Sincronizando datos...
       </div>
     </div>
   );
 
   return (
-    <div style={{ background: "#F5F0E8", minHeight: "100vh", fontFamily: "'IBM Plex Mono', monospace", fontSize: `${fontSize * 100}%` }}>
+    <div style={{ background: "#F5F0E8", minHeight: "100vh", fontFamily: "'Inter', sans-serif", fontSize: `${fontSize * 100}%` }}>
 
       {/* ── MASTHEAD ── */}
       <div style={{ background: "#1B3A6B", position: "sticky", top: 0, zIndex: 200, boxShadow: "0 3px 16px rgba(0,0,0,0.3)" }}>
@@ -849,7 +849,7 @@ function App() {
                 <h1 style={{ fontFamily: "'Playfair Display', serif", fontSize: "clamp(13px, 2.6vw, 19px)", fontWeight: "900", color: "#F5F0E8", letterSpacing: 0.5, lineHeight: 1.1, marginBottom: 2, marginTop: 0 }}>
                   Fin del Mundo — Tablero de Probabilidades
                 </h1>
-                <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 9.5, color: "#5A8AAF", letterSpacing: 0.4 }}>
+                <div style={{ fontFamily: "'Inter', sans-serif", fontSize: 11, color: "#6A9ABF", letterSpacing: 0 }}>
                   Cargado: {fetchedAt} · {totalRows} eventos · {settledN > 0 ? `${settledN} liquidado${settledN > 1 ? "s" : ""} · ` : ""}{sections.length} secciones
                 </div>
               </div>
@@ -860,7 +860,7 @@ function App() {
                   style={{
                     background: fontSize === 1.15 ? "rgba(255,255,255,0.25)" : "rgba(255,255,255,0.1)",
                     border: "1px solid rgba(255,255,255,0.2)", color: "#F5F0E8",
-                    fontFamily: "'IBM Plex Mono', monospace", fontSize: 11, fontWeight: "700",
+                    fontFamily: "'Inter', sans-serif", fontSize: 12, fontWeight: "700",
                     padding: "7px 10px", borderRadius: 3, cursor: "pointer", whiteSpace: "nowrap",
                   }}
                 >A{fontSize === 1 ? "+" : "−"}</button>
@@ -869,8 +869,8 @@ function App() {
                   background: isUpdating ? "rgba(255,255,255,0.1)" : "rgba(255,255,255,0.15)",
                   color: isUpdating ? "#7AACCF" : "#F5F0E8",
                   border: "1px solid rgba(255,255,255,0.2)", cursor: isUpdating ? "not-allowed" : "pointer",
-                  fontFamily: "'IBM Plex Mono', monospace", fontSize: 10, fontWeight: "700",
-                  letterSpacing: 0.8, padding: "7px 12px", borderRadius: 3,
+                  fontFamily: "'Inter', sans-serif", fontSize: 11, fontWeight: "700",
+                  letterSpacing: 0.3, padding: "7px 12px", borderRadius: 3,
                   transition: "all 0.2s ease", whiteSpace: "nowrap",
                 }}>
                   <span style={{ display: "inline-block", animation: isUpdating ? "spin 1s linear infinite" : "none" }}>⟳</span>
@@ -883,7 +883,7 @@ function App() {
               <div style={{
                 marginTop: 8, background: "rgba(27,94,56,0.25)", border: "1px solid rgba(27,94,56,0.4)",
                 borderRadius: 3, padding: "6px 12px",
-                fontFamily: "'IBM Plex Mono', monospace", fontSize: 10, color: "#7ACCA0",
+                fontFamily: "'Inter', sans-serif", fontSize: 11, color: "#7ACCA0",
               }}>{updateMsg}</div>
             )}
 
@@ -897,8 +897,8 @@ function App() {
                   flex: 1, maxWidth: 200, padding: "9px 12px",
                   background: activeTab === tab.id ? "#F5F0E8" : "transparent",
                   border: "none", color: activeTab === tab.id ? "#1B3A6B" : "#5A8AAF",
-                  fontSize: 10.5, fontWeight: "700", letterSpacing: 0.8, cursor: "pointer",
-                  fontFamily: "'IBM Plex Mono', monospace",
+                  fontSize: 11.5, fontWeight: "700", letterSpacing: 0.3, cursor: "pointer",
+                  fontFamily: "'Inter', sans-serif",
                   borderRadius: activeTab === tab.id ? "4px 4px 0 0" : 0,
                   marginBottom: activeTab === tab.id ? "-1px" : 0,
                   textTransform: "uppercase",
@@ -922,7 +922,7 @@ function App() {
 
           {/* Columna principal: tablero de cuotas */}
           <div className="board-main">
-            <div style={{ background: "#EAE4D8", padding: "7px 16px", borderBottom: "1px solid #C8BFA8", fontSize: 9.5, color: "#666", fontFamily: "'IBM Plex Mono', monospace", display: "flex", gap: 18, flexWrap: "wrap" }}>
+            <div style={{ background: "#EAE4D8", padding: "7px 16px", borderBottom: "1px solid #C8BFA8", fontSize: 11, color: "#666", fontFamily: "'Inter', sans-serif", display: "flex", gap: 18, flexWrap: "wrap" }}>
               <span><span style={{ color: "#1B5E38" }}>■</span> favorito (−)</span>
               <span><span style={{ color: "#1B3A6B" }}>■</span> no favorito (+)</span>
               <span>Verde ≥60% · Dorado 30–59% · Rojo &lt;30%</span>
@@ -944,7 +944,7 @@ function App() {
                       <span style={{ fontFamily: "'Playfair Display', serif", fontSize: 12, fontWeight: "700", color: accent, letterSpacing: 1.5, textTransform: "uppercase" }}>
                         {section.label}
                       </span>
-                      <span style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 9, color: "#AAA" }}>({section.rows.length})</span>
+                      <span style={{ fontFamily: "'Inter', sans-serif", fontSize: 10, color: "#AAA" }}>({section.rows.length})</span>
                     </div>
                     <span style={{ color: accent, fontSize: 11, fontWeight: "700" }}>{isCollapsed ? "▼" : "▲"}</span>
                   </div>
@@ -963,10 +963,10 @@ function App() {
               );
             })}
 
-            <div style={{ textAlign: "center", padding: "16px 16px 8px", fontFamily: "'IBM Plex Mono', monospace", fontSize: 9.5, color: "#C0B8A8", letterSpacing: 0.5, lineHeight: 1.9 }}>
+            <div style={{ textAlign: "center", padding: "16px 16px 8px", fontFamily: "'Inter', sans-serif", fontSize: 11, color: "#C0B8A8", lineHeight: 1.9 }}>
               Puramente especulativo — no es asesoramiento financiero ni de inteligencia
             </div>
-            <div style={{ textAlign: "center", padding: "0 16px 36px", fontFamily: "'IBM Plex Mono', monospace", fontSize: 9, color: "#B8B0A0", letterSpacing: 0.3 }}>
+            <div style={{ textAlign: "center", padding: "0 16px 36px", fontFamily: "'Inter', sans-serif", fontSize: 10.5, color: "#B8B0A0" }}>
               creado por adrián roffiel
             </div>
           </div>
@@ -977,7 +977,7 @@ function App() {
               <div style={{ fontFamily: "'Playfair Display', serif", fontSize: 11, fontWeight: "700", color: "#F5F0E8", letterSpacing: 2, textTransform: "uppercase" }}>
                 Información del tablero
               </div>
-              <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 8.5, color: "#666", marginTop: 3, lineHeight: 1.6 }}>
+              <div style={{ fontFamily: "'Inter', sans-serif", fontSize: 11, color: "#BBBBBB", marginTop: 5, lineHeight: 1.7 }}>
                 Escenarios geopolíticos con probabilidades implícitas.<br/>
                 Fuente: Polymarket + IA (Groq/LLaMA). Sin filtros editoriales.<br/>
                 Actualización automática cada hora via GitHub Actions.
