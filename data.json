@@ -1,183 +1,217 @@
 {
-  "lastUpdated": "2026-03-03 00:18:47 UTC",
+  "lastUpdated": "03 de marzo de 2026 — 02:30 UTC",
   "ticker": [
-    "🔴 Iran live news: Israel bombs Tehran, Beirut; Strait of Hormuz ‘closed’",
-    "🔴 Iranian missiles, interceptions seen over Israel",
-    "🔴 Witness describes Israeli-US ‘double-tap’ strike on downtown Tehran",
-    "🔴 Iran says will attack any ship trying to pass through Strait of Hormuz",
-    "🔴 New wave of heavy Israeli strikes hit Tehran",
-    "🔴 What dangers does the Iran war pose for Israel?",
-    "🔴 Rubio suggests US strikes on Iran were influenced by Israeli plans",
-    "🔴 Spain refuses to let US use bases for Iran attacks",
-    "🔴 US-Israeli strikes hit housing, hospitals, and more in Tehran",
-    "🔴 Anti-war candidates pose early test for US Democrats after attacks on Iran",
-    "🔴 Netanyahu: Iran would ‘threaten all of humanity’ with nuclear weapon",
-    "🔴 US and Israeli interests may soon diverge on Iran",
-    "🔴 Trump says Iran war projected to last 4 to 5 weeks, could go ‘far longer’",
-    "📉 Why QatarEnergy’s LNG production halt could shake up global gas markets",
-    "🔴 Trump: this was the best chance to strike Iran’s ‘sick and sinister regime’"
+    "How much could the Iran war cost the US? Here’s what we know",
+    "Golestan Palace majorly damaged in US-Israeli strikes on Tehran",
+    "Melania Trump chairs UN meeting on children days after Iran school strike",
+    "UN chief calls for ‘way out’ of Iran war",
+    "US’s Rubio tries to justify attacks on Iran as driven by self-defence",
+    "US urges citizens to immediately leave over a dozen Middle East countries",
+    "Iran live news: Israel bombs Tehran, Beirut; Strait of Hormuz ‘closed’",
+    "Iranian missiles, interceptions seen over Israel",
+    "Witness describes Israeli-US ‘double-tap’ strike on downtown Tehran",
+    "Iran says will attack any ship trying to pass through Strait of Hormuz",
+    "New wave of heavy Israeli strikes hit Tehran",
+    "What dangers does the Iran war pose for Israel?",
+    "Rubio suggests US strikes on Iran were influenced by Israeli plans",
+    "Spain refuses to let US use bases for Iran attacks",
+    "US-Israeli strikes hit housing, hospitals, and more in Tehran"
   ],
   "sections": [
     {
+      "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "China x India military clash by...?",
-          "odds": "+100",
-          "params": "Fuente: Polymarket API",
+          "event": "US forces enter Iran by March 31?",
+          "odds": "+284",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "NATO/EU troops fighting in Ukraine by...?",
-          "odds": "+100",
-          "params": "Fuente: Polymarket API",
+          "event": "US/Israel strike on Fordow nuclear facility by March 31?",
+          "odds": "-143",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Ukraine recognizes Russian sovereignty over its territory by...?",
-          "odds": "+100",
-          "params": "Fuente: Polymarket API",
+          "event": "China x Taiwan military clash before 2027?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Ukraine election called by...?",
-          "odds": "+100",
-          "params": "Fuente: Polymarket API",
+          "event": "Will the US reopen its embassy in Iran in 2026?",
+          "odds": "+300",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Ukraine election held by...?",
-          "odds": "+100",
-          "params": "Fuente: Polymarket API",
+          "event": "Will Alireza Arafi be the next Supreme Leader of Iran?",
+          "odds": "+367",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will OpenAI launch a consumer hardware product by...?",
-          "odds": "+100",
-          "params": "Fuente: Polymarket API",
+          "event": "Map Handicap: G2 (-1.5) vs EDward Gaming (+1.5)",
+          "odds": "+104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Israel annex any territory by June 30?",
+          "odds": "+513",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
+      "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "MicroStrategy sells any Bitcoin by ___ ?",
-          "odds": "+100",
-          "params": "Fuente: Polymarket API",
+          "event": "Will Venezuelan crude oil production reach 1.1m barrels per day in 2026?",
+          "odds": "-300",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Trump eliminates capital gains tax on crypto by ___?",
-          "odds": "+100",
-          "params": "Fuente: Polymarket API",
+          "event": "Will S&P 500 (SPX) hit $6,300 (LOW) in June?",
+          "odds": "+122",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "MegaETH market cap (FDV) one day after launch?",
-          "odds": "+100",
-          "params": "Fuente: Polymarket API",
+          "event": "Will the percentage change in the S&P 500 in Q1 2026 be less than 0%?",
+          "odds": "+104",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will USDC hit 50% of USDT market cap by ___?",
-          "odds": "+100",
-          "params": "Fuente: Polymarket API",
+          "event": "Poilievre out as leader of Conservatives before 2027?",
+          "odds": "+284",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will USDT market cap hit $200B by ___?",
-          "odds": "+100",
-          "params": "Fuente: Polymarket API",
+          "event": "Will Brazil’s Q4 2025 GDP growth rate (YoY) be less than 0.4%?",
+          "odds": "+740",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Who will Trump nominate as Fed Chair?",
-          "odds": "+100",
-          "params": "Fuente: Polymarket API",
+          "event": "Will the Vegas Golden Knights win the Western Conference?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Eurozone annual GDP growth in 2026 be between 1.0% and 2.0%?",
+          "odds": "+270",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
+      "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "UK election called by...?",
-          "odds": "+100",
-          "params": "Fuente: Polymarket API",
+          "event": "Will Jack Reed be the Democratic nominee for Senate in Rhode Island?",
+          "odds": "-900",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Spain snap election called by...?",
-          "odds": "+100",
-          "params": "Fuente: Polymarket API",
+          "event": "Will the Republican Party hold 47 or fewer Senate seats after the 2026 midterm elections?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Democratic Presidential Nominee 2028",
-          "odds": "+100",
-          "params": "Fuente: Polymarket API",
+          "event": "Will Saxon Callahan be the Democratic nominee for Senate in New Jersey?",
+          "odds": "+1823",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Presidential Election Winner 2028",
-          "odds": "+100",
-          "params": "Fuente: Polymarket API",
+          "event": "Will Rastriya Prajatantra Party win the third-most seats in the Nepal House of Representatives election?",
+          "odds": "+1233",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Republican Presidential Nominee 2028",
-          "odds": "+100",
-          "params": "Fuente: Polymarket API",
+          "event": "Will Jason Anavitarte win the GA-14 special election?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Texas Republican Senate Primary Winner",
-          "odds": "+100",
-          "params": "Fuente: Polymarket API",
+          "event": "Will Mike Pieciak win the 2026 Vermont Governor Democratic primary election?",
+          "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republicans win the Georgia Senate race in 2026?",
+          "odds": "+402",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
+      "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Kraken IPO by ___ ?",
-          "odds": "+100",
-          "params": "Fuente: Polymarket API",
+          "event": "Will Palantir (PLTR) finish week of March 2 above $141?",
+          "odds": "-194",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Macron out by...?",
-          "odds": "+100",
-          "params": "Fuente: Polymarket API",
+          "event": "Will Silver (SI) hit (LOW) $55 by end of June?",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Starmer out by...?",
-          "odds": "+100",
-          "params": "Fuente: Polymarket API",
+          "event": "Will Posy Li get engaged in Bridgerton: Season 4?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will any country leave NATO by...?",
-          "odds": "+100",
-          "params": "Fuente: Polymarket API",
+          "event": "Will \"Siri\" be said 5+ times during the NYC Apple event on March 4?",
+          "odds": "-233",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "BitBoy convicted?",
-          "odds": "+100",
-          "params": "Fuente: Polymarket API",
+          "event": "GPT-5.3 released by March 15, 2026?",
+          "odds": "-900",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Taylor Swift pregnant in 2025?",
-          "odds": "+100",
-          "params": "Fuente: Polymarket API",
+          "event": "Will Atalanta BC win on 2026-03-07?",
+          "odds": "-170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump say \"Low Energy\" in March?",
+          "odds": "+156",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Puffpaw FDV above $50M one day after launch?",
+          "odds": "-177",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
