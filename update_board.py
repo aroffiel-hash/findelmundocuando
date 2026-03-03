@@ -5,80 +5,149 @@ import requests
 from datetime import datetime
 
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "")
-GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
+GROQ_URL     = "https://api.groq.com/openai/v1/chat/completions"
 
-def main():
-    if not GROQ_API_KEY:
-        print("❌ Error: No se encontró GROQ_API_KEY en las variables de entorno.")
-        sys.exit(1)
+def fetch_headlines():
+    """Obtiene titulares recientes de Al Jazeera RSS para contexto."""
+    try:
+        r = requests.get("https://www.aljazeera.com/xml/rss/all.xml", timeout=10)
+        headlines = []
+        import xml.etree.ElementTree as ET
+        root = ET.fromstring(r.content)
+        for item in root.iter("item"):
+            title = item.find("title")
+            if title is not None and title.text:
+                headlines.append(title.text.strip())
+            if len(headlines) >= 20:
+                break
+        return headlines
+    except Exception:
+        return []
 
-    today = datetime.utcnow().strftime("%d de %B de %Y — %H:%M UTC")
-    
-    prompt = f"""
-    Fecha actual: {today}
-    Genera un JSON actualizado para el tablero geopolítico.
-    Estructura EXACTA requerida:
+SYSTEM_PROMPT = """Eres un analista OSINT de riesgo geopolítico de nivel senior.
+Tu trabajo es producir un tablero de inteligencia original - NO es un mirror de Polymarket.
+El valor del tablero esta en escenarios de cascada, analisis de segunda derivada y contexto
+que los mercados de prediccion no cubren bien. Responde UNICAMENTE con JSON valido, sin markdown."""
+
+def build_user_prompt(today, headlines):
+    news_block = "\n".join(f"- {h}" for h in headlines[:15]) if headlines else "(sin titulares disponibles)"
+    return f"""
+Fecha actual: {today}
+
+TITULARES RECIENTES (Al Jazeera):
+{news_block}
+
+---
+INSTRUCCIONES ANALITICAS:
+
+1. El tablero NO debe duplicar lo que ya esta en Polymarket.
+   Polymarket cubre bien: elecciones, resultados binarios, precios de activos.
+   Este tablero debe cubrir: escenarios de cascada, riesgos nucleares, colapso institucional,
+   efectos geopoliticos en Mexico, y eventos de cola que los mercados subestiman.
+
+2. Para cada apuesta, el campo "params" debe ser ANALITICO:
+   - Explicar el mecanismo causal concreto (no solo "probable por la situacion")
+   - Citar condiciones necesarias para que ocurra
+   - Mencionar el factor que mas podria cambiar la cuota
+
+3. Las cuotas deben reflejar:
+   - Historial base rate (cuantas veces ha ocurrido algo asi antes?)
+   - Dependencias cruzadas (si X ocurre, como cambia Y?)
+   - Asimetria informacional (que sabe un analista que el mercado no?)
+
+4. Secciones OBLIGATORIAS:
+   ESCENARIOS MACRO, IRAN Y ORIENTE MEDIO, RUSIA/UCRANIA, CHINA/TAIWAN,
+   COREA DEL NORTE, PAKISTAN/AFGANISTAN, EE.UU. INTERIOR,
+   MEXICO Y LATAM, ECONOMIA Y ENERGIA, RIESGOS EXISTENCIALES
+
+5. Mexico en particular debe incluir:
+   - Impacto de aranceles Trump en manufactura y T-MEC
+   - Dependencia de remesas y vulnerabilidad a recesion en EE.UU.
+   - Riesgo operativo de carteles en contexto de distraccion del gobierno
+   - Postura de Sheinbaum en politica exterior y su costo geopolitico
+
+6. El "ticker" debe tener 12-16 titulares en espanol mexicano, estilo FT no CNN.
+
+ESTRUCTURA JSON EXACTA:
+{{
+  "lastUpdated": "{today}",
+  "ticker": ["titular 1", "titular 2"],
+  "methodology": "Parrafo explicando el metodo de este ciclo.",
+  "sources": [
+    {{"name": "Al Jazeera RSS", "description": "Titulares del ciclo actual.", "url": "https://aljazeera.com"}},
+    {{"name": "Groq / LLaMA 3.3-70B", "description": "Modelo de sintesis analitica.", "url": "https://groq.com"}}
+  ],
+  "sections": [
     {{
-      "lastUpdated": "{today}",
-      "ticker": ["⚡ Noticia 1", "🔴 Noticia 2", "15 noticias en total"],
-      "sections": [
+      "flag": "emoji",
+      "label": "NOMBRE SECCION",
+      "rows": [
         {{
-          "flag": "🌍",
-          "label": "ESCENARIOS MACRO",
-          "rows": [
-            {{"event": "Conflicto escala", "odds": "-150", "moved": "down", "params": "Razón breve"}}
-          ]
+          "event": "Escenario especifico",
+          "odds": "-150",
+          "moved": "down",
+          "params": "Analisis causal con base rate historica y factor critico."
         }}
       ]
     }}
-    Instrucciones:
-    - Genera al menos 10-14 secciones (Macro, Irán, México, Economía, etc).
-    - Usa noticias geopolíticas de alta tensión de marzo 2026.
-    - Devuelve ÚNICAMENTE JSON válido. Nada de markdown.
-    """
+  ]
+}}
+
+Minimo 6 rows por seccion. SOLO JSON. Sin texto adicional.
+"""
+
+def main():
+    if not GROQ_API_KEY:
+        print("No se encontro GROQ_API_KEY.")
+        sys.exit(1)
+
+    today = datetime.utcnow().strftime("%d de %B de %Y - %H:%M UTC")
+
+    print("Obteniendo titulares de Al Jazeera...")
+    headlines = fetch_headlines()
+    print(f"  {len(headlines)} titulares obtenidos.")
 
     headers = {
         "Authorization": f"Bearer {GROQ_API_KEY}",
-        "Content-Type": "application/json"
+        "Content-Type": "application/json",
     }
-    
     payload = {
-        "model": "llama3-70b-8192",
+        "model": "llama-3.3-70b-versatile",
         "messages": [
-            {"role": "system", "content": "Eres un analista OSINT experto. Solo respondes en JSON."},
-            {"role": "user", "content": prompt}
+            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "user",   "content": build_user_prompt(today, headlines)},
         ],
-        "temperature": 0.3,
-        "response_format": {"type": "json_object"}
+        "temperature": 0.45,
+        "max_tokens": 8000,
+        "response_format": {"type": "json_object"},
     }
 
     try:
-        print("📡 Conectando a Groq (Llama 3)...")
-        r = requests.post(GROQ_URL, headers=headers, json=payload, timeout=90)
+        print("Generando analisis con Groq LLaMA 3.3-70B...")
+        r = requests.post(GROQ_URL, headers=headers, json=payload, timeout=120)
         r.raise_for_status()
         raw = r.json()["choices"][0]["message"]["content"]
 
-        # Limpieza básica por si la IA devuelve markdown
         clean = raw.strip().lstrip("```json").lstrip("```").rstrip("```").strip()
-        data = json.loads(clean)
+        data  = json.loads(clean)
 
-        # Inyectar fecha sí o sí
         data["lastUpdated"] = today
-        
-        # Validar mínimo viable sin romper el programa si faltan secciones
-        if "sections" not in data:
-            data["sections"] = []
-        if "ticker" not in data:
-            data["ticker"] = ["⚡ Actualizando fuentes satelitales..."]
+        data.setdefault("sections", [])
+        data.setdefault("ticker", ["Actualizando fuentes..."])
+        data.setdefault("sources", [
+            {"name": "Groq / LLaMA 3.3-70B", "description": "Modelo de sintesis analitica.", "url": "https://groq.com"},
+            {"name": "Al Jazeera RSS", "description": "Titulares para contexto.", "url": "https://aljazeera.com"},
+        ])
 
         out = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data.json")
         with open(out, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
-            
-        print(f"✅ Éxito. {len(data['sections'])} secciones generadas.")
+
+        total_rows = sum(len(s.get("rows", [])) for s in data["sections"])
+        print(f"Exito. {len(data['sections'])} secciones, {total_rows} escenarios.")
 
     except Exception as e:
-        print(f"❌ Error fatal durante la generación o procesado: {str(e)}")
+        print(f"Error: {str(e)}")
         sys.exit(1)
 
 if __name__ == "__main__":
