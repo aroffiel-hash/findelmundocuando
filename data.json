@@ -1,73 +1,123 @@
 {
-  "lastUpdated": "02 de marzo de 2026 — 17:08 CDMX",
+  "lastUpdated": "2026-03-03 00:03:39 UTC",
   "ticker": [
-    "Tensión política en Ucrania aumenta",
-    "Mercado financiero experimenta fluctuaciones",
-    "Nuevas medidas de seguridad en la frontera de Estados Unidos",
-    "Desarrollo de tecnología de inteligencia artificial avanza rápidamente"
+    "Iran says will attack any ship trying to pass through Strait of Hormuz",
+    "New wave of heavy Israeli strikes hit Tehran",
+    "What dangers does the Iran war pose for Israel?",
+    "Rubio suggests US strikes on Iran were influenced by Israeli plans",
+    "Spain refuses to let US use bases for Iran attacks",
+    "US-Israeli strikes hit housing, hospitals, and more in Tehran",
+    "Anti-war candidates pose early test for US Democrats after attacks on Iran",
+    "Netanyahu: Iran would ‘threaten all of humanity’ with nuclear weapon",
+    "US and Israeli interests may soon diverge on Iran",
+    "Trump says Iran war projected to last 4 to 5 weeks, could go ‘far longer’"
   ],
   "sections": [
     {
-      "flag": "geopolitica",
-      "label": "Geopolítica",
+      "label": "ORIENTE MEDIO",
+      "keywords": [
+        "Israel",
+        "Iran",
+        "Gaza",
+        "Middle East"
+      ],
       "rows": [
         {
-          "event": "Conflicto en Medio Oriente",
-          "odds": 0.35,
-          "moved": "up",
-          "params": {
-            "region": "Medio Oriente",
-            "actores": [
-              "Estados Unidos",
-              "Irán"
-            ]
-          }
-        },
-        {
-          "event": "Tensión en la península de Corea",
-          "odds": 0.42,
-          "moved": "none",
-          "params": {
-            "region": "Asia",
-            "actores": [
-              "Corea del Norte",
-              "Corea del Sur",
-              "Estados Unidos"
-            ]
-          }
+          "event": "Israel and Syria normalize relations by...?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket API",
+          "moved": "none"
         }
       ]
     },
     {
-      "flag": "economia",
-      "label": "Economía",
+      "label": "EUROPA DEL ESTE",
+      "keywords": [
+        "Russia",
+        "Ukraine",
+        "Putin"
+      ],
       "rows": [
         {
-          "event": "Recesión económica global",
-          "odds": 0.28,
-          "moved": "down",
-          "params": {
-            "indicadores": [
-              "PIB",
-              "inflación"
-            ],
-            "regiones": [
-              "Europa",
-              "América del Norte"
-            ]
-          }
+          "event": "NATO/EU troops fighting in Ukraine by...?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket API",
+          "moved": "none"
         },
         {
-          "event": "Crisis financiera en China",
-          "odds": 0.18,
-          "moved": "up",
-          "params": {
-            "sector": "finanzas",
-            "actores": [
-              "Gobierno chino",
-              "inversores extranjeros"
-            ]
-          }
+          "event": "Ukraine recognizes Russian sovereignty over its territory by...?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket API",
+          "moved": "none"
+        },
+        {
+          "event": "Ukraine election called by...?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket API",
+          "moved": "none"
+        },
+        {
+          "event": "Ukraine election held by...?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket API",
+          "moved": "none"
+        },
+        {
+          "event": "Will Russia capture Kostyantynivka by...?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket API",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "label": "INDO-PACÍFICO",
+      "keywords": [
+        "China",
+        "Taiwan",
+        "US"
+      ],
+      "rows": [
+        {
+          "event": "China x India military clash by...?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket API",
+          "moved": "none"
+        },
+        {
+          "event": "US recognize Somaliland by...?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket API",
+          "moved": "none"
+        },
+        {
+          "event": "Which party will win the House in 2026?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket API",
+          "moved": "none"
+        },
+        {
+          "event": "SCOTUS accepts sports event contract case by...?     ",
+          "odds": "+100",
+          "params": "Fuente: Polymarket API",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "label": "MERCADOS GLOBALES",
+      "keywords": [
+        "Oil",
+        "Fed",
+        "Economy",
+        "Bitcoin"
+      ],
+      "rows": [
+        {
+          "event": "MicroStrategy sells any Bitcoin by ___ ?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket API",
+          "moved": "none"
         }
       ]
     }
