@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>Tablero de Probabilidades Geopolítico</title>
+<title>Fin del Mundo — Tablero de Probabilidades</title>
 <meta name="description" content="Tablero de probabilidades geopolítico en tiempo real. Momios y probabilidades implícitas de los principales escenarios mundiales."/>
 <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
 <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
@@ -476,91 +476,105 @@ function AsideKeyOdds({ sections }) {
 }
 
 // ── TAB: FUENTES / METODOLOGÍA ────────────────────────────────────────────────
-function SourcesTab({ lastUpdated, rawData }) {
+function SourcesTab({ lastUpdated, fetchedAt, rawData }) {
   const mono  = { fontFamily: "'IBM Plex Mono', monospace", fontSize: 12, color: "#3A3A3A", lineHeight: 1.85 };
   const serif = { fontFamily: "'Playfair Display', Georgia, serif" };
-  const sources = rawData?.sources || [];
-  const methodology = rawData?.methodology || "";
+
+  const SectionBlock = ({ num, title, children }) => (
+    <div style={{ marginBottom: 28 }}>
+      <div style={{ display: "flex", alignItems: "baseline", gap: 10, marginBottom: 12, paddingBottom: 8, borderBottom: "2px solid #D4C9B0" }}>
+        <span style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 10, fontWeight: "700", color: "#7B4A00", background: "#F5EDD8", padding: "2px 7px", borderRadius: 2 }}>{num}</span>
+        <span style={{ ...serif, fontSize: 14, fontWeight: "700", color: "#1B3A6B" }}>{title}</span>
+      </div>
+      <div style={{ ...mono, fontSize: 12, color: "#444" }}>{children}</div>
+    </div>
+  );
+
+  const Code = ({ children }) => (
+    <code style={{ background: "#1A1A1A", color: "#7AACCF", fontFamily: "'IBM Plex Mono', monospace", fontSize: 11, padding: "2px 7px", borderRadius: 3 }}>{children}</code>
+  );
 
   return (
-    <div style={{ padding: "24px 20px 80px", maxWidth: 860, margin: "0 auto" }}>
-      <h2 style={{ ...serif, fontSize: 22, color: "#1B3A6B", marginBottom: 6, marginTop: 0 }}>Fuentes y Metodología</h2>
-      <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 10, color: "#AAA", marginBottom: 30 }}>
-        Última actualización: {lastUpdated}
+    <div style={{ padding: "28px 20px 80px", maxWidth: 760, margin: "0 auto" }}>
+      <h2 style={{ ...serif, fontSize: 22, color: "#1B3A6B", marginBottom: 4, marginTop: 0 }}>Fuentes y Metodología</h2>
+      <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 9.5, color: "#AAA", marginBottom: 32 }}>
+        Datos cargados: {fetchedAt}
       </div>
 
-      {/* Cómo leer el tablero */}
-      <div style={{ background: "#FDF8F0", border: "1px solid #DDD0B8", borderLeft: "4px solid #7B4A00", borderRadius: 4, padding: "18px 20px", marginBottom: 28 }}>
-        <div style={{ ...serif, fontSize: 13, fontWeight: "700", color: "#7B4A00", letterSpacing: 1.2, textTransform: "uppercase", marginBottom: 16 }}>
-          Cómo leer el tablero
+      {/* 1 */}
+      <SectionBlock num="1" title="Origen de las cuotas">
+        <p style={{ margin: "0 0 10px" }}>El tablero usa dos posibles fuentes, dependiendo de la configuración del sistema:</p>
+        <div style={{ borderLeft: "3px solid #1B3A6B", paddingLeft: 14, marginBottom: 8 }}>
+          <div style={{ fontWeight: "600", color: "#1B3A6B", marginBottom: 3 }}>Modo Polymarket <span style={{ fontWeight: "400", color: "#888" }}>(sin clave de IA)</span></div>
+          <div>Las probabilidades provienen de los mercados de predicción de Polymarket. De ahí se obtiene la probabilidad implícita y se convierte al formato de momios americanos.</div>
         </div>
-
-        <div style={{ marginBottom: 16 }}>
-          <div style={{ ...serif, fontWeight: "700", fontSize: 13, color: "#3A3A3A", marginBottom: 6 }}>¿Qué significan los números?</div>
-          <p style={{ ...mono, fontSize: 11.5, color: "#555", margin: 0 }}>
-            Las cuotas usan el formato americano de apuestas deportivas. Un número negativo (−160) significa que ese evento es <em>probable</em>. Un número positivo (+300) significa que es <em>poco probable</em>. El porcentaje al lado es la traducción directa: −160 = 62% de probabilidad. +300 = 25%.
-          </p>
+        <div style={{ borderLeft: "3px solid #1B5E38", paddingLeft: 14, marginBottom: 8 }}>
+          <div style={{ fontWeight: "600", color: "#1B5E38", marginBottom: 3 }}>Modo IA <span style={{ fontWeight: "400", color: "#888" }}>(requiere GROQ_API_KEY)</span></div>
+          <div>Un modelo LLaMA 3.3-70B procesa titulares de noticias reales y genera una estimación propia de probabilidades.</div>
         </div>
+        <div style={{ ...mono, fontSize: 11, color: "#888", marginTop: 6 }}>Nota: El modo IA depende de procesamiento automático de texto, no de datos de mercado.</div>
+      </SectionBlock>
 
-        <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 10, marginBottom: 16 }}>
-          {[
-            { ejemplo: "−400", pct: "80%", desc: "Muy probable — casi seguro", color: "#1B5E38", bg: "#EBF7EF" },
-            { ejemplo: "−150", pct: "60%", desc: "Probable — favorito ligero", color: "#1B5E38", bg: "#EBF7EF" },
-            { ejemplo: "+200", pct: "33%", desc: "Posible pero no probable", color: "#1B3A6B", bg: "#EBF0FA" },
-            { ejemplo: "+1500", pct: "6%", desc: "Longshot — muy poco probable", color: "#7B1D1D", bg: "#FDF0E0" },
-          ].map(r => (
-            <div key={r.ejemplo} style={{ background: r.bg, borderRadius: 4, padding: "8px 12px", display: "flex", alignItems: "center", gap: 10 }}>
-              <span style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 14, fontWeight: 700, color: r.color, minWidth: 46 }}>{r.ejemplo}</span>
-              <span style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 14, fontWeight: 700, color: r.color, minWidth: 34 }}>{r.pct}</span>
-              <span style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 10, color: "#666" }}>{r.desc}</span>
+      {/* 2 */}
+      <SectionBlock num="2" title="Cómo se calculan los momios">
+        <p style={{ margin: "0 0 12px" }}>El tablero muestra momios en formato americano (+/−). Este formato comunica incertidumbre sin sugerir una precisión falsa.</p>
+        <div style={{ background: "#F0EDE6", border: "1px solid #D4C9B0", borderRadius: 4, padding: "12px 16px", marginBottom: 12 }}>
+          <div style={{ marginBottom: 6 }}><strong>Favoritos (negativos):</strong>&nbsp;&nbsp;<Code>prob = |cuota| / (|cuota| + 100)</Code></div>
+          <div><strong>No favoritos (positivos):</strong>&nbsp;&nbsp;<Code>prob = 100 / (cuota + 100)</Code></div>
+        </div>
+        <div style={{ display: "flex", gap: 10 }}>
+          {[{c:"-160", p:"≈ 62%", bg:"#EBF7EF", col:"#1B5E38"},{c:"+220", p:"≈ 31%", bg:"#EBF0FA", col:"#1B3A6B"}].map(r => (
+            <div key={r.c} style={{ background: r.bg, borderRadius: 4, padding: "8px 14px", display: "flex", gap: 10, alignItems: "center" }}>
+              <span style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 14, fontWeight: 700, color: r.col }}>{r.c}</span>
+              <span style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 14, fontWeight: 700, color: r.col }}>{r.p}</span>
             </div>
           ))}
         </div>
+      </SectionBlock>
 
-        <div style={{ marginBottom: 16 }}>
-          <div style={{ ...serif, fontWeight: "700", fontSize: 13, color: "#3A3A3A", marginBottom: 6 }}>¿Qué significa ▼ ACORT. y ▲ ALARG.?</div>
-          <p style={{ ...mono, fontSize: 11.5, color: "#555", margin: 0 }}>
-            Cuando llega nueva información, las cuotas se mueven. <span style={{ color: "#1B5E38", fontWeight: 700 }}>▼ ACORTADO</span> significa que el evento se volvió más probable desde la última actualización. <span style={{ color: "#7B1D1D", fontWeight: 700 }}>▲ ALARGADO</span> significa que se volvió menos probable.
-          </p>
-        </div>
+      {/* 3 */}
+      <SectionBlock num="3" title="Actualización del tablero">
+        <p style={{ margin: "0 0 8px" }}>El archivo de datos del tablero se actualiza cada hora mediante GitHub Actions.</p>
+        <p style={{ margin: "0 0 8px" }}>En uso local: <Code>python run_local.py</Code> actualiza los datos y levanta el servidor.</p>
+        <p style={{ margin: 0 }}>El botón <strong>Actualizar</strong> del tablero vuelve a leer los datos del servidor sin recargar toda la página.</p>
+      </SectionBlock>
 
-        <div>
-          <div style={{ ...serif, fontWeight: "700", fontSize: 13, color: "#3A3A3A", marginBottom: 6 }}>¿De dónde vienen las cuotas?</div>
-          <p style={{ ...mono, fontSize: 11.5, color: "#555", margin: 0 }}>
-            {methodology || "Las cuotas se fijan analizando qué dicen los expertos (CFR, Chatham House, Crisis Group), qué condiciones existen para cada escenario, y con qué frecuencia situaciones similares han producido resultados similares históricamente. No son predicciones científicas — son una forma estructurada de pensar sobre la incertidumbre."}
-          </p>
-        </div>
-      </div>
+      {/* 4 */}
+      <SectionBlock num="4" title="Limitaciones">
+        <p style={{ margin: 0 }}>Las cuotas son especulativas. No son asesoría financiera, ni predicción exacta, ni análisis de inteligencia. El objetivo es organizar visualmente la incertidumbre de eventos globales, no anticipar resultados con certeza.</p>
+      </SectionBlock>
 
-      {/* Advertencia */}
-      <div style={{ background: "#1A0000", border: "1px solid #5A1A1A", borderLeft: "4px solid #7B1D1D", borderRadius: 4, padding: "14px 18px", marginBottom: 28 }}>
-        <div style={{ ...serif, fontWeight: "700", fontSize: 12, color: "#FF9999", marginBottom: 8 }}>⚠ Lo que este tablero NO es</div>
-        <p style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 11, color: "#CC8888", lineHeight: 1.7, margin: 0 }}>
-          Ninguna institución seria publica probabilidades exactas de una Tercera Guerra Mundial en tiempo real. Cualquier número específico — incluyendo los de este tablero — es síntesis especulativa, no medición científica. Esto no es asesoramiento financiero, de seguridad ni de inteligencia. Solo inteligencia clasificada podría mejorar estas estimaciones, y no tenemos acceso a ella.
-        </p>
-      </div>
-
-      {/* Fuentes */}
-      {sources.length > 0 && (
-        <div style={{ marginBottom: 28 }}>
-          <div style={{ ...serif, fontWeight: "700", fontSize: 13, color: "#1B3A6B", letterSpacing: 1.5, textTransform: "uppercase", marginBottom: 14, paddingBottom: 8, borderBottom: "2px solid #1B3A6B" }}>
-            Fuentes primarias
+      {/* 5 */}
+      <SectionBlock num="5" title="Fuentes primarias">
+        {[
+          { label: "Polymarket Gamma API", desc: "Mercados de predicción.", url: "https://polymarket.com" },
+          { label: "Al Jazeera English RSS", desc: "Titulares para contexto en modo IA.", url: "https://www.aljazeera.com/xml/rss/all.xml" },
+          { label: "Groq / LLaMA 3.3-70B", desc: "Modelo de IA para el modo de análisis.", url: "https://groq.com" },
+        ].map((s, i) => (
+          <div key={i} style={{ display: "flex", gap: 10, marginBottom: 8, alignItems: "baseline" }}>
+            <span style={{ color: "#7B4A00", flexShrink: 0 }}>·</span>
+            <span>
+              <a href={s.url} target="_blank" rel="noopener noreferrer" style={{ color: "#1B3A6B", fontWeight: "600", textDecoration: "none" }}>{s.label}</a>
+              {" — "}{s.desc}
+            </span>
           </div>
-          {sources.map((s, i) => (
-            <div key={i} style={{ display: "flex", gap: 12, marginBottom: 16, paddingBottom: 16, borderBottom: "1px solid #E0D8C8" }}>
-              <div style={{ background: "#1B3A6B", color: "#FFF", fontWeight: "700", fontSize: 9, borderRadius: 2, padding: "3px 6px", flexShrink: 0, fontFamily: "'IBM Plex Mono', monospace", alignSelf: "flex-start" }}>[{i+1}]</div>
-              <div>
-                <div style={{ ...serif, fontWeight: "700", fontSize: 13, color: "#1B3A6B", marginBottom: 4 }}>{s.name || s.title}</div>
-                <p style={{ ...mono, marginBottom: s.url ? 4 : 0, fontSize: 11.5 }}>{s.description || s.body}</p>
-                {s.url && <a href={s.url} target="_blank" rel="noopener noreferrer" style={{ color: "#1B3A6B", fontSize: 10, fontFamily: "'IBM Plex Mono', monospace" }}>{s.url}</a>}
-              </div>
-            </div>
-          ))}
-        </div>
-      )}
+        ))}
+      </SectionBlock>
 
-      <div style={{ textAlign: "center", fontSize: 10, color: "#AAA", marginTop: 24, fontFamily: "'IBM Plex Mono', monospace", letterSpacing: 0.8, lineHeight: 2 }}>
-        PURAMENTE ESPECULATIVO · NO ES ASESORAMIENTO FINANCIERO NI DE INTELIGENCIA<br/>
+      {/* 6 */}
+      <SectionBlock num="6" title="Cómo correr el tablero localmente">
+        <div style={{ background: "#1A1A1A", borderRadius: 4, padding: "14px 18px" }}>
+          <div style={{ color: "#888", fontSize: 10, marginBottom: 4 }}># Sin IA</div>
+          <div style={{ color: "#7AACCF", marginBottom: 12, fontFamily: "'IBM Plex Mono', monospace" }}>python run_local.py</div>
+          <div style={{ color: "#888", fontSize: 10, marginBottom: 4 }}># Con IA</div>
+          <div style={{ color: "#7AACCF", fontFamily: "'IBM Plex Mono', monospace" }}>GROQ_API_KEY=tu-llave python run_local.py</div>
+        </div>
+      </SectionBlock>
+
+      <div style={{ textAlign: "center", fontSize: 10, color: "#C0B8A8", marginTop: 12, fontFamily: "'IBM Plex Mono', monospace", letterSpacing: 0.8, lineHeight: 2 }}>
+        PURAMENTE ESPECULATIVO · NO ES ASESORAMIENTO FINANCIERO NI DE INTELIGENCIA
+      </div>
+      <div style={{ textAlign: "center", fontSize: 9, color: "#B8B0A0", marginTop: 6, fontFamily: "'IBM Plex Mono', monospace", letterSpacing: 0.3 }}>
         creado por adrián roffiel
       </div>
     </div>
@@ -576,7 +590,9 @@ function App() {
   const [collapsed,   setCollapsed]   = useState(new Set());
   const [isUpdating,  setIsUpdating]  = useState(false);
   const [lastUpdated, setLastUpdated] = useState("—");
+  const [fetchedAt,   setFetchedAt]   = useState("—");
   const [updateMsg,   setUpdateMsg]   = useState(null);
+  const [fontSize,    setFontSize]    = useState(1); // escala: 1 = normal, 1.15 = grande
 
   // Cargar data.json
   const loadData = useCallback(async (silent = false) => {
@@ -588,7 +604,13 @@ function App() {
       if (!d.sections) throw new Error("JSON sin campo 'sections'");
 
       setRawData(d);
-      setLastUpdated(d.lastUpdated || new Date().toISOString());
+      setLastUpdated(d.lastUpdated || "—");
+      // Hora local confiable de cuándo se cargaron los datos
+      const now = new Date();
+      const pad = n => String(n).padStart(2, "0");
+      const hhmm = `${pad(now.getHours())}:${pad(now.getMinutes())}`;
+      const meses = ["ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"];
+      setFetchedAt(`${now.getDate()} ${meses[now.getMonth()]} ${now.getFullYear()} — ${hhmm}`);
       // Añadir campo 'draft' a cada row para edición inline
       setSections(
         d.sections.map(s => ({
@@ -664,7 +686,7 @@ function App() {
   );
 
   return (
-    <div style={{ background: "#F5F0E8", minHeight: "100vh", fontFamily: "'IBM Plex Mono', monospace" }}>
+    <div style={{ background: "#F5F0E8", minHeight: "100vh", fontFamily: "'IBM Plex Mono', monospace", fontSize: `${fontSize * 100}%` }}>
 
       {/* ── MASTHEAD ── */}
       <div style={{ background: "#1B3A6B", position: "sticky", top: 0, zIndex: 200, boxShadow: "0 3px 16px rgba(0,0,0,0.3)" }}>
@@ -674,25 +696,37 @@ function App() {
           <div style={{ padding: "12px 20px 0" }}>
             <div style={{ display: "flex", alignItems: "flex-start", justifyContent: "space-between", gap: 12, flexWrap: "wrap" }}>
               <div>
-                <h1 style={{ fontFamily: "'Playfair Display', serif", fontSize: "clamp(15px, 3vw, 21px)", fontWeight: "900", color: "#F5F0E8", letterSpacing: 0.5, lineHeight: 1.1, marginBottom: 2, marginTop: 0 }}>
-                  Tablero de Probabilidades Geopolítico
+                <h1 style={{ fontFamily: "'Playfair Display', serif", fontSize: "clamp(13px, 2.6vw, 19px)", fontWeight: "900", color: "#F5F0E8", letterSpacing: 0.5, lineHeight: 1.1, marginBottom: 2, marginTop: 0 }}>
+                  Fin del Mundo — Tablero de Probabilidades
                 </h1>
                 <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 9.5, color: "#5A8AAF", letterSpacing: 0.4 }}>
-                  {lastUpdated} · {totalRows} eventos · {settledN > 0 ? `${settledN} liquidado${settledN > 1 ? "s" : ""} · ` : ""}{sections.length} secciones
+                  Cargado: {fetchedAt} · {totalRows} eventos · {settledN > 0 ? `${settledN} liquidado${settledN > 1 ? "s" : ""} · ` : ""}{sections.length} secciones
                 </div>
               </div>
-              <button onClick={() => loadData(false)} disabled={isUpdating} id="btn-actualizar" style={{
-                display: "flex", alignItems: "center", gap: 5,
-                background: isUpdating ? "rgba(255,255,255,0.1)" : "rgba(255,255,255,0.15)",
-                color: isUpdating ? "#7AACCF" : "#F5F0E8",
-                border: "1px solid rgba(255,255,255,0.2)", cursor: isUpdating ? "not-allowed" : "pointer",
-                fontFamily: "'IBM Plex Mono', monospace", fontSize: 10, fontWeight: "700",
-                letterSpacing: 0.8, padding: "7px 12px", borderRadius: 3,
-                transition: "all 0.2s ease", whiteSpace: "nowrap",
-              }}>
-                <span style={{ display: "inline-block", animation: isUpdating ? "spin 1s linear infinite" : "none" }}>⟳</span>
-                {isUpdating ? "Actualizando..." : "Actualizar fuentes"}
-              </button>
+              <div style={{ display: "flex", gap: 6, alignItems: "center" }}>
+                <button
+                  onClick={() => setFontSize(s => s === 1 ? 1.15 : 1)}
+                  title="Cambiar tamaño de texto"
+                  style={{
+                    background: fontSize === 1.15 ? "rgba(255,255,255,0.25)" : "rgba(255,255,255,0.1)",
+                    border: "1px solid rgba(255,255,255,0.2)", color: "#F5F0E8",
+                    fontFamily: "'IBM Plex Mono', monospace", fontSize: 11, fontWeight: "700",
+                    padding: "7px 10px", borderRadius: 3, cursor: "pointer", whiteSpace: "nowrap",
+                  }}
+                >A{fontSize === 1 ? "+" : "−"}</button>
+                <button onClick={() => loadData(false)} disabled={isUpdating} style={{
+                  display: "flex", alignItems: "center", gap: 5,
+                  background: isUpdating ? "rgba(255,255,255,0.1)" : "rgba(255,255,255,0.15)",
+                  color: isUpdating ? "#7AACCF" : "#F5F0E8",
+                  border: "1px solid rgba(255,255,255,0.2)", cursor: isUpdating ? "not-allowed" : "pointer",
+                  fontFamily: "'IBM Plex Mono', monospace", fontSize: 10, fontWeight: "700",
+                  letterSpacing: 0.8, padding: "7px 12px", borderRadius: 3,
+                  transition: "all 0.2s ease", whiteSpace: "nowrap",
+                }}>
+                  <span style={{ display: "inline-block", animation: isUpdating ? "spin 1s linear infinite" : "none" }}>⟳</span>
+                  {isUpdating ? "Actualizando..." : "Actualizar"}
+                </button>
+              </div>
             </div>
 
             {updateMsg && (
@@ -775,8 +809,11 @@ function App() {
               );
             })}
 
-            <div style={{ textAlign: "center", padding: "16px 16px 36px", fontFamily: "'IBM Plex Mono', monospace", fontSize: 9.5, color: "#C0B8A8", letterSpacing: 0.5, lineHeight: 1.9 }}>
+            <div style={{ textAlign: "center", padding: "16px 16px 8px", fontFamily: "'IBM Plex Mono', monospace", fontSize: 9.5, color: "#C0B8A8", letterSpacing: 0.5, lineHeight: 1.9 }}>
               Puramente especulativo — no es asesoramiento financiero ni de inteligencia
+            </div>
+            <div style={{ textAlign: "center", padding: "0 16px 36px", fontFamily: "'IBM Plex Mono', monospace", fontSize: 9, color: "#B8B0A0", letterSpacing: 0.3 }}>
+              creado por adrián roffiel
             </div>
           </div>
 
@@ -797,7 +834,7 @@ function App() {
 
         </div>
       ) : (
-        <SourcesTab lastUpdated={lastUpdated} rawData={rawData}/>
+        <SourcesTab lastUpdated={lastUpdated} fetchedAt={fetchedAt} rawData={rawData}/>
       )}
 
     </div>
