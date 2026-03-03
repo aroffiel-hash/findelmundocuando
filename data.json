@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "03 de marzo de 2026 — 05:18 UTC",
+  "lastUpdated": "03 de marzo de 2026 — 07:57 UTC",
   "ticker": [
+    "US claims destroyed IRGC command centre, more Israel attacks on Tehran",
+    "Real Madrid defeated by Getafe to fall four points behind Barca in La Liga",
+    "US sanctions Rwandan army and top officials for supporting M23 in DRC",
+    "How Russia could benefit from the US-Israeli war on Iran",
+    "What we know on day four of US-Israeli attacks on Iran",
+    "Israel strikes Lebanon’s Beirut again; Hezbollah launches drones at Israel",
+    "Asia’s stock markets plunge amid US-Israeli conflict with Iran",
+    "Nepal’s Gen Z threw out old parties. Will it vote for them in key election?",
+    "As bombing continues, Israel’s war aim in Iran becomes clear: Regime change",
+    "Who is Ali Larijani, the Iranian official promising a ‘lesson’ to the US?",
     "UAE resumes limited flights amid travel chaos across Middle East",
     "Iran to do ‘utmost’ to protect China’s citizens amid US-Israel attacks: FM",
     "Shutdown of Hormuz Strait raises fears of soaring oil prices",
     "Israeli attacks kill dozens of people across Lebanon",
-    "US Embassy in Saudi capital Riyadh hit by drones, fire reported: Ministry",
-    "US kamikaze drone found on farmland in Iraq",
-    "How much could the Iran war cost the US? Here’s what we know",
-    "Golestan Palace majorly damaged in US-Israeli strikes on Tehran",
-    "Melania Trump chairs UN meeting on children days after Iran school strike",
-    "UN chief calls for ‘way out’ of Iran war",
-    "US’s Rubio tries to justify attacks on Iran as driven by self-defence",
-    "US urges citizens to immediately leave over a dozen Middle East countries",
-    "Iran live: US embassy in Riyadh hit; Tehran closes Strait of Hormuz",
-    "Iranian missiles, interceptions seen over Israel",
-    "Witness describes Israeli-US ‘double-tap’ strike on downtown Tehran"
+    "US Embassy in Riyadh hit by drones, Iran claims strike on US’s Bahrain base"
   ],
   "sections": [
     {
@@ -23,26 +23,20 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Alireza Arafi be the next Supreme Leader of Iran?",
-          "odds": "+362",
+          "event": "Will the US reopen its embassy in Iran in 2026?",
+          "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the US reopen its embassy in Iran in 2026?",
-          "odds": "+316",
+          "event": "Will Alireza Arafi be the next Supreme Leader of Iran?",
+          "odds": "+354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "China x Taiwan military clash before 2027?",
-          "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "US x Iran ceasefire by March 15?",
-          "odds": "+354",
+          "odds": "+525",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -60,7 +54,13 @@
         },
         {
           "event": "Will Mr. Nobody Against Putin win Best Documentary Feature Film at the 98th Academy Awards?",
-          "odds": "+316",
+          "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Iran name a successor to Khamenei by March 31?",
+          "odds": "-354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -72,7 +72,7 @@
       "rows": [
         {
           "event": "Will Venezuelan crude oil production reach 1.1m barrels per day in 2026?",
-          "odds": "-300",
+          "odds": "-284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -119,6 +119,12 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
+          "event": "Will Keir Starmer say \"Brexit\" during the next Prime Minister's Questions?",
+          "odds": "-108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Jack Reed be the Democratic nominee for Senate in Rhode Island?",
           "odds": "-900",
           "params": "Fuente: Polymarket",
@@ -131,32 +137,26 @@
           "moved": "none"
         },
         {
+          "event": "Will FLING win the most seats in the 2025 Guinea-Bissau National People’s Assembly election?",
+          "odds": "+557",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the Republican Party hold 47 or fewer Senate seats after the 2026 midterm elections?",
           "odds": "+488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Saxon Callahan be the Democratic nominee for Senate in New Jersey?",
-          "odds": "+1823",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republicans win the Georgia Senate race in 2026?",
-          "odds": "+405",
+          "event": "Will John Cornyn win the first round of the Republican Senate primary election in Texas?",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Rastriya Prajatantra Party win the third-most seats in the Nepal House of Representatives election?",
           "odds": "+1233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Jason Anavitarte win the GA-14 special election?",
-          "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -173,8 +173,20 @@
           "moved": "none"
         },
         {
+          "event": "Will Elon Musk post 160-179 tweets from March 6 to March 13, 2026?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "StandX FDV above $400M one day after launch?",
           "odds": "+112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Kigali: Roberto Carballes Baena vs Sandro Kopp",
+          "odds": "-488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -185,32 +197,20 @@
           "moved": "none"
         },
         {
+          "event": "XRP Up or Down - March 3, 4AM ET",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Posy Li get engaged in Bridgerton: Season 4?",
           "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Atalanta BC win on 2026-03-07?",
-          "odds": "-170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Naim Qassem out as Hezbollah’s secretary-general by March 31, 2026?",
-          "odds": "-177",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump say \"Low Energy\" in March?",
-          "odds": "+156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Puffpaw FDV above $50M one day after launch?",
-          "odds": "-177",
+          "event": "Will France win?",
+          "odds": "-400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
