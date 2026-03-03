@@ -3,350 +3,766 @@
 <head>
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>FIN DEL MUNDO - TABLERO DE PROBABILIDADES</title>
+<title>Tablero de Probabilidades Geopolítico</title>
+<meta name="description" content="Tablero de probabilidades geopolítico en tiempo real. Momios y probabilidades implícitas de los principales escenarios mundiales."/>
 <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
 <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
 <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=IBM+Plex+Mono:wght@400;600;700&display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700;900&family=IBM+Plex+Mono:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet"/>
 <style>
-*{box-sizing:border-box;margin:0;padding:0;}
-body{background:#0d0d0d;font-family:'IBM Plex Mono',monospace; overflow-x: hidden; color: #1a1a1a;}
-button{cursor:pointer;font-family:'IBM Plex Mono',monospace;}
-::-webkit-scrollbar{width:6px;}
-::-webkit-scrollbar-thumb{background:#C8BFA8;border-radius:3px;}
-@keyframes shimmer{0%{background-position:-400px 0}100%{background-position:400px 0}}
-.sk{background:linear-gradient(90deg,#1a1a1a 25%,#252525 50%,#1a1a1a 75%);background-size:800px 100%;animation:shimmer 1.5s infinite;}
+* { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+html, body { margin: 0; padding: 0; background: #F5F0E8; }
+input { -webkit-appearance: none; font-size: 16px !important; }
+button { touch-action: manipulation; }
 
-.main-wrapper { max-width: 1300px; margin: 0 auto; background: #F5F0E8; min-height: 100vh; border-left: 1px solid #333; border-right: 1px solid #333; box-shadow: 0 0 50px rgba(0,0,0,0.5); transition: zoom 0.2s ease; transform-origin: top center; }
-.layout{display:flex;align-items:flex-start; width: 100%;}
-.col-main{flex:1;min-width:0; padding: 20px;}
-.col-aside{width:380px;flex-shrink:0;background:#F5F0E8;border-left:2px solid #D4C9B0;align-self:stretch; display: flex; flex-direction: column;}
+@keyframes shimmer {
+  0%   { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to   { transform: rotate(360deg); }
+}
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50%       { opacity: 0.5; }
+}
 
-.scale-btn { background: #0d0d0d; color: #8AACCF; border: 1px solid #8AACCF; padding: 2px 8px; border-radius: 4px; font-weight: bold; margin-left: 5px;}
-.scale-btn:hover { background: #8AACCF; color: #0d0d0d; }
-
-.tab-btn { background: none; border: none; padding: 12px 20px; font-family: 'IBM Plex Mono', monospace; font-size: 11.5px; font-weight: bold; cursor: pointer; color: #888; transition: all 0.2s; letter-spacing: 1px; }
-.tab-btn.active { color: #1B3A6B; border-bottom: 3px solid #1B3A6B; background: #EAE3D5; }
-
-@media(max-width:1024px){
-  .layout{flex-direction: column;}
-  .col-aside{width: 100%; border-left: none; border-top: 2px solid #D4C9B0;}
+/* Layout desktop */
+@media (min-width: 900px) {
+  .board-layout {
+    display: flex;
+    align-items: flex-start;
+    max-width: 1280px;
+    margin: 0 auto;
+  }
+  .board-main  { flex: 1; min-width: 0; }
+  .board-aside { width: 320px; flex-shrink: 0; border-left: 2px solid #D4C9B0; background: #F5F0E8; position: sticky; top: 0; max-height: 100vh; overflow-y: auto; }
+  .masthead-wrap { max-width: 1280px; margin: 0 auto; }
+  .mobile-image-panel { display: none; }
+}
+@media (max-width: 899px) {
+  .board-layout { display: block; }
+  .board-aside  { display: none; }
+  .mobile-image-panel { display: block; }
 }
 </style>
 </head>
 <body>
 <div id="root"></div>
 <script type="text/babel">
-const {useState,useEffect,useRef,useMemo,useCallback}=React;
+const { useState, useEffect, useRef, useMemo, useCallback } = React;
 
-const ACCENTS=["#1B3A6B","#7B1D1D","#1B5E38","#7B3A00"];
+// ── CONSTANTES ────────────────────────────────────────────────────────────────
+const SECTION_ACCENT = [
+  "#1B3A6B","#7B1D1D","#1B5E38","#7B3A00","#3A005E","#004E6B",
+  "#6B1B3A","#5E3A00","#1B3A6B","#2C5F2E","#6B1B00","#003D6B",
+];
 
-const stripEmojis = (str) => {
-    if (typeof str !== 'string') return '';
-    return str.replace(/\p{Extended_Pictographic}/gu, '').trim();
+// ── HELPERS ───────────────────────────────────────────────────────────────────
+function calcImplied(o) {
+  if (!o || o === "LIQUIDADO" || o === "N/A") return null;
+  const n = parseFloat(String(o).replace(/\s/g, ""));
+  if (isNaN(n)) return null;
+  // Soporte decimal Polymarket (0.35) y momio americano (-150 / +220)
+  if (n > 0 && n <= 1)   return Math.round(n * 100);
+  if (n > 1 && n <= 100) return Math.round(n);
+  return n < 0
+    ? Math.round((Math.abs(n) / (Math.abs(n) + 100)) * 100)
+    : Math.round((100 / (n + 100)) * 100);
+}
+const isFavorite = (o) => {
+  if (!o || o === "LIQUIDADO") return false;
+  const s = String(o).trim();
+  if (s.startsWith("-")) return true;
+  const n = parseFloat(s);
+  return !isNaN(n) && n > 0 && n <= 1 && n > 0.5;
 };
+const oddsColor  = (o) => o === "LIQUIDADO" ? "#7B1D1D" : isFavorite(o) ? "#1B5E38" : "#1B3A6B";
+const oddsBg     = (o) => o === "LIQUIDADO" ? "#FDF0E0" : isFavorite(o) ? "#EBF7EF" : "#EBF0FA";
+const pctColor   = (p) => p === null ? "#999" : p >= 60 ? "#1B5E38" : p >= 30 ? "#7B4A00" : "#7B1D1D";
 
-// Función matemática corregida para procesar decimales (ej. 0.35) y momios americanos (-150)
-function pct(odds){
-  if(!odds||odds==="N/A"||odds==="LIQUIDADO") return null;
-  const n = parseFloat(String(odds).replace(/\s/g, ""));
-  if(isNaN(n)) return null;
-  
-  if(n > 0 && n <= 1) return Math.round(n * 100);
-  if(n > 1 && n <= 100) return Math.round(n); 
-  return n < 0 ? Math.round((Math.abs(n)/(Math.abs(n)+100))*100) : Math.round((100/(n+100))*100);
-}
+// ── TICKER ────────────────────────────────────────────────────────────────────
+function Ticker({ items, isUpdating }) {
+  const trackRef = useRef(null);
+  const posRef   = useRef(0);
+  const rafRef   = useRef(null);
+  const SPEED    = 0.45;
 
-function pc(p){return p===null?"#999":p>=60?"#1B5E38":p>=30?"#7B4A00":"#7B1D1D";}
+  useEffect(() => {
+    const track = trackRef.current;
+    if (!track) return;
+    let halfW = 0;
+    const id = setTimeout(() => { halfW = track.scrollWidth / 2; }, 200);
+    function step() {
+      posRef.current += SPEED;
+      if (halfW > 0 && posRef.current >= halfW) posRef.current = 0;
+      track.style.transform = `translateX(${-posRef.current}px)`;
+      rafRef.current = requestAnimationFrame(step);
+    }
+    rafRef.current = requestAnimationFrame(step);
+    return () => { cancelAnimationFrame(rafRef.current); clearTimeout(id); };
+  }, [items]);
 
-async function wikiImg(topic){
-  try {
-    if(!topic) return null;
-    const t = topic.toLowerCase();
-    let queryTitle = "Earth"; 
-    
-    if(t.includes("rusia") || t.includes("ucrania") || t.includes("putin")) queryTitle = "Moscow_Kremlin";
-    else if(t.includes("china") || t.includes("taiwan") || t.includes("asia")) queryTitle = "Taipei";
-    else if(t.includes("eleccion") || t.includes("eeuu") || t.includes("unidos")) queryTitle = "United_States_Capitol";
-    else if(t.includes("petroleo") || t.includes("economia") || t.includes("mercado")) queryTitle = "Oil_refinery";
-    else if(t.includes("israel") || t.includes("iran") || t.includes("oriente") || t.includes("gaza")) queryTitle = "Middle_East";
-
-    const r = await fetch(`https://en.wikipedia.org/w/api.php?action=query&titles=${queryTitle}&prop=pageimages&format=json&pithumbsize=640&origin=*`);
-    const d = await r.json();
-    const pg = Object.values(d?.query?.pages||{})[0];
-    return pg?.thumbnail?.source || null;
-  } catch { return null; }
-}
-
-function Ticker({items}){
-  const ref=useRef();const pos=useRef(0);const raf=useRef();
-  useEffect(()=>{
-    const el=ref.current;if(!el)return;
-    let half=0;
-    const t=setTimeout(()=>{half=el.scrollWidth/2;},500);
-    const step=()=>{pos.current+=0.6;if(half>0&&pos.current>=half)pos.current=0;el.style.transform=`translateX(${-pos.current}px)`;raf.current=requestAnimationFrame(step);};
-    raf.current=requestAnimationFrame(step);
-    return()=>{cancelAnimationFrame(raf.current);clearTimeout(t);};
-  },[items]);
-  if(!items?.length)return null;
-  const list=[...items,...items];
-  return(
-    <div style={{background:"#7B1D1D",overflow:"hidden",height:34,display:"flex",alignItems:"center", borderBottom:"2px solid #5A1010"}}>
-      <div ref={ref} style={{display:"flex",whiteSpace:"nowrap",willChange:"transform"}}>
-        {list.map((t,i)=><span key={i} style={{fontSize:12,fontWeight:600,color:"#FFD09A",paddingRight:60,flexShrink:0, textTransform: 'uppercase'}}>{t}</span>)}
-      </div>
-    </div>
-  );
-}
-
-function EventCard({row,even}){
-  const oddsVal = String(row.odds || "N/A");
-  const p = pct(oddsVal);
-  const n = parseFloat(oddsVal.replace(/\s/g, ""));
-  
-  // Asignar colores correctos sin importar si es decimal o momio
-  const isDecimal = !isNaN(n) && n > 0 && n <= 1;
-  const isFav = isDecimal ? n > 0.5 : oddsVal.startsWith("-");
-  
-  const eventName = stripEmojis(row.event);
-  
-  return(
-    <div style={{background:even?"#FAF7F2":"#F5F0E8",borderBottom:"1px solid #E4DDD0",padding:"14px 18px"}}>
-      <div style={{marginBottom:8,display:"flex",justifyContent:"space-between"}}>
-        <span style={{fontSize:13,fontWeight:700,color:"#1A1A1A",lineHeight:1.4}}>{eventName}</span>
-        {row.moved&&row.moved!=="none"&&<span style={{fontSize:9,fontWeight:800,padding:"2px 6px",borderRadius:2,background:row.moved==="down"?"#EBF7EF":"#FDF0F0",color:row.moved==="down"?"#1B5E38":"#7B1D1D", border:`1px solid ${row.moved==="down"?"#B0DAC0":"#E8B0B0"}`}}>{row.moved==="down"?"▼ BAJÓ":"▲ SUBIÓ"}</span>}
-      </div>
-      <div style={{display:"flex",alignItems:"center",gap:10,marginBottom:6}}>
-        <div style={{background:isFav?"#EBF7EF":"#EBF0FA",border:`1.5px solid ${isFav?"#1B5E38":"#1B3A6B"}55`,borderRadius:3,color:isFav?"#1B5E38":"#1B3A6B",fontSize:15,fontWeight:700,width:75,textAlign:"center",padding:"4px 0",flexShrink:0}}>{oddsVal}</div>
-        <div style={{fontSize:15,fontWeight:700,color:pc(p),minWidth:40,textAlign:"right",flexShrink:0}}>{p!==null?`${p}%`:"—"}</div>
-        <div style={{flex:1,height:5,borderRadius:2,background:"#E0D8C8",position:"relative",overflow:"hidden"}}>
-          <div style={{position:"absolute",height:"100%",left:0,width:`${p||0}%`,background:pc(p)}}/>
-        </div>
-      </div>
-      {row.params&&<div style={{fontSize:11,color:"#6A6055",lineHeight:1.5, marginTop:8}}>{stripEmojis(row.params)}</div>}
-    </div>
-  );
-}
-
-function Carousel({sections}){
-  const [imgs,setImgs]=useState({});
-  const [cur,setCur]=useState(0);
-  const [fade,setFade]=useState(true);
-  const tim=useRef();
-
-  const cards = useMemo(()=>{
-    if(!sections) return [];
-    return sections.slice(0, 5).map((s,i) => {
-      const rows = s.rows || [];
-      return { tag: stripEmojis(s.label), tagColor: ACCENTS[i%ACCENTS.length], headline: stripEmojis(rows[0]?.event || s.label) };
-    });
-  }, [sections]);
-
-  useEffect(()=>{
-    if(!cards.length) return;
-    let dead=false;
-    (async()=>{
-      for(let i=0;i<cards.length;i++){
-        if(dead) break;
-        const u=await wikiImg(cards[i].headline);
-        if(!dead) setImgs(p=>({...p,[i]:u||"x"}));
-        await new Promise(r=>setTimeout(r,500)); 
-      }
-    })();
-    return()=>{dead=true;};
-  },[cards]);
-
-  useEffect(()=>{
-    if(!cards.length) return;
-    tim.current=setInterval(()=>{setFade(false);setTimeout(()=>{setCur(c=>(c+1)%cards.length);setFade(true);},250);},6000);
-    return()=>clearInterval(tim.current);
-  },[cards.length]);
-
-  if(!cards.length) return null;
-  const c=cards[cur];
-  const img=imgs[cur];
-  const url=img&&img!=="x"?img:null;
-
-  return(
-    <div style={{borderBottom:"3px solid #7B1D1D", width: "100%"}}>
-      <div style={{position:"relative",height:240,overflow:"hidden",opacity:fade?1:0,transition:"opacity .25s",background:"#111"}}>
-        {!img&&<div className="sk" style={{width:"100%",height:"100%"}}></div>}
-        {img&&url&&<img src={url} alt="" style={{width:"100%",height:"100%",objectFit:"cover"}} onError={()=>setImgs(p=>({...p,[cur]:"x"}))}/>}
-        {img&&!url&&<div style={{width:"100%",height:"100%",background:`linear-gradient(135deg, ${c.tagColor}40, #050505)`}}></div>}
-        
-        <div style={{position:"absolute",inset:0,background:"linear-gradient(to top,rgba(0,0,0,.9) 0%,transparent 70%)",pointerEvents:"none"}}/>
-        <div style={{position:"absolute",top:12,left:15,background:c.tagColor||"#333",color:"#fff",fontSize:10,fontWeight:700,letterSpacing:1.2,padding:"4px 8px",borderRadius:2}}>{c.tag}</div>
-        <div style={{position:"absolute",bottom:0,left:0,right:0,padding:"15px 20px"}}>
-          <div style={{fontFamily:"'Playfair Display',serif",fontSize:16,fontWeight:700,color:"#F0EDE6",lineHeight:1.3}}>{c.headline}</div>
-        </div>
-      </div>
-    </div>
-  );
-}
-
-function AsideContent({sections}){
-  const keyOdds = useMemo(()=>{
-    const all=[];
-    (sections||[]).forEach(s=>(s.rows||[]).forEach(r=>{
-      if(r.odds&&r.odds!=="N/A"){
-          const n=parseFloat(String(r.odds).replace(/\s/g, ""));
-          if(!isNaN(n)) {
-            // Unificar la variable de orden para decimales y momios
-            const normalizedN = (n > 0 && n <= 1) ? ((1-n)/n)*100 : n; 
-            all.push({label:stripEmojis(r.event), odds:r.odds, p:pct(r.odds), n: normalizedN});
-          }
-      }
-    }));
-    return[...all.filter(r=>r.n<0).sort((a,b)=>a.n-b.n).slice(0,3), ...all.filter(r=>r.n>0).sort((a,b)=>a.n-b.n).slice(0,2)];
-  },[sections]);
-
-  const risks = useMemo(() => {
-      const baselines = [
-          { l: "Escalada Bélica Global", kw: ["war", "missile", "military", "strike", "conflicto"], v: 15, c: "#7B1D1D" },
-          { l: "Tensión en Mercados/Petróleo", kw: ["oil", "economy", "fed", "inflation", "recesion", "mercado"], v: 30, c: "#7B4A00" },
-          { l: "Inestabilidad Política", kw: ["election", "trump", "biden", "president", "gobierno"], v: 25, c: "#1B3A6B" }
-      ];
-      (sections||[]).forEach(s=>(s.rows||[]).forEach(r=>{
-          baselines.forEach(risk => {
-              if (risk.kw.some(k => (r.event||"").toLowerCase().includes(k))) {
-                  const p = pct(r.odds);
-                  if (p !== null && p > risk.v) risk.v = p;
-              }
-          });
-      }));
-      return baselines;
-  }, [sections]);
-
-  return(
-    <div style={{width: "100%"}}>
-      <Carousel sections={sections}/>
-      <div style={{padding:"20px", borderBottom:"1px solid #E4DDD0", background:"#F0EDE6"}}>
-        <div style={{fontFamily:"'Playfair Display',serif",fontSize:14,fontWeight:900,letterSpacing:1.2,textTransform:"uppercase",marginBottom:15, color:"#1B3A6B"}}>🔥 Momios Calientes</div>
-        {keyOdds.map((item,i)=>{
-          const n = parseFloat(String(item.odds).replace(/\s/g, ""));
-          const isDecimal = !isNaN(n) && n > 0 && n <= 1;
-          const isFav = isDecimal ? n > 0.5 : String(item.odds).startsWith("-");
-          return(
-            <div key={i} style={{display:"flex",alignItems:"center",gap:10,marginBottom:12}}>
-              <span style={{fontSize:11,color:"#444",flex:1,lineHeight:1.4, fontWeight: "600"}}>{item.label.slice(0,45)}{item.label.length>45?"…":""}</span>
-              <span style={{fontSize:12,fontWeight:700,color:isFav?"#1B5E38":"#1B3A6B",background:isFav?"#EBF7EF":"#EBF0FA",padding:"3px 8px",borderRadius:3,flexShrink:0}}>{item.odds}</span>
-            </div>
-          );
-        })}
-      </div>
-      <div style={{background:"#1a1a1a", padding:"25px 20px", flexGrow: 1}}>
-        <div style={{fontSize:12,fontWeight:700,color:"#8AACCF",letterSpacing:1.5,textTransform:"uppercase",marginBottom:20, borderBottom:"1px solid #333", paddingBottom: 10}}>Termómetro de Riesgos</div>
-        {risks.map((r,i)=>(
-          <div key={i} style={{marginBottom:18}}>
-            <div style={{display:"flex",justifyContent:"space-between",fontSize:11,color:"#DDD",marginBottom:6}}>
-              <span>{r.l}</span><span style={{color:r.c,fontWeight:700, fontSize: 12}}>{r.v}%</span>
-            </div>
-            <div style={{height:5,background:"#333",borderRadius:3, overflow:"hidden"}}>
-              <div style={{width:`${r.v}%`,height:"100%",background:r.c,borderRadius:3}}/>
-            </div>
-          </div>
+  if (!items || items.length === 0) return null;
+  const list = [...items, ...items];
+  return (
+    <div style={{ background: "#7B1D1D", overflow: "hidden", height: 32, display: "flex", alignItems: "center", borderBottom: "2px solid #5A1010" }}>
+      <div ref={trackRef} style={{ display: "flex", alignItems: "center", whiteSpace: "nowrap", willChange: "transform" }}>
+        {list.map((item, i) => (
+          <span key={i} style={{
+            fontFamily: "'IBM Plex Mono', monospace", fontSize: 11, color: "#FFD09A",
+            letterSpacing: 0.5, paddingRight: 64, flexShrink: 0,
+          }}>
+            {isUpdating && i === 0 ? "Actualizando fuentes..." : item}
+          </span>
         ))}
       </div>
     </div>
   );
 }
 
-function SourcesTab(){
-  return(
-    <div style={{padding:"40px", maxWidth:"900px", margin:"0 auto", color:"#333"}}>
-      <h2 style={{fontFamily:"'Playfair Display',serif",fontSize:26,color:"#1B3A6B",marginBottom:30, borderBottom: "2px solid #D4C9B0", paddingBottom: 10}}>Lectura y Metodología</h2>
-      <div style={{background:"#fff",borderLeft:"4px solid #1B5E38",padding:"20px",marginBottom:30,boxShadow:"0 2px 8px rgba(0,0,0,0.04)"}}>
-        <h3 style={{margin:"0 0 12px 0",color:"#1B5E38",fontSize:16}}>1. Guía de Lectura</h3>
-        <p style={{fontSize:13,lineHeight:1.6}}>El tablero convierte eventos globales en momios y probabilidades porcentuales en tiempo real para visualizar el riesgo geopolítico latente.</p>
+// ── MOVED BADGE ───────────────────────────────────────────────────────────────
+function MovedBadge({ moved }) {
+  if (!moved || moved === "none") return null;
+  const d = moved === "down";
+  return (
+    <span style={{
+      fontSize: 9, fontWeight: "700", padding: "2px 5px", borderRadius: 2, marginLeft: 6,
+      background: d ? "#EBF7EF" : "#FDF0F0", color: d ? "#1B5E38" : "#7B1D1D",
+      border: `1px solid ${d ? "#B0DAC0" : "#E8B0B0"}`,
+      letterSpacing: 0.4, verticalAlign: "middle",
+      fontFamily: "'IBM Plex Mono', monospace", whiteSpace: "nowrap",
+    }}>
+      {d ? "▼ ACORT." : "▲ ALARG."}
+    </span>
+  );
+}
+
+// ── EXPANDABLE PARAMS ─────────────────────────────────────────────────────────
+function ExpandableParams({ text }) {
+  const [exp, setExp] = useState(false);
+  if (!text) return null;
+  const LIMIT = 140;
+  const long = text.length > LIMIT;
+  return (
+    <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 10.5, color: "#6A6055", lineHeight: 1.7 }}>
+      {exp || !long ? text : `${text.slice(0, LIMIT)}…`}
+      {long && (
+        <button onClick={() => setExp(e => !e)} style={{
+          background: "none", border: "none", color: "#1B3A6B", fontSize: 10,
+          fontWeight: "700", cursor: "pointer", padding: "0 4px",
+          fontFamily: "'IBM Plex Mono', monospace",
+        }}>{exp ? " [menos]" : " [más]"}</button>
+      )}
+    </div>
+  );
+}
+
+// ── EVENT CARD ────────────────────────────────────────────────────────────────
+function EventCard({ row, onDraftChange, onCommit, isEven }) {
+  const settled = row.odds === "LIQUIDADO";
+  const implied = calcImplied(row.odds);
+  const oc  = oddsColor(row.odds);
+  const obg = oddsBg(row.odds);
+  const pc  = pctColor(implied);
+
+  return (
+    <div style={{
+      background: settled ? "#FBF7EE" : isEven ? "#FAF7F2" : "#F5F0E8",
+      borderBottom: "1px solid #E4DDD0", padding: "12px 16px", opacity: settled ? 0.78 : 1,
+    }}>
+      <div style={{ marginBottom: 8 }}>
+        <span style={{
+          fontFamily: "'IBM Plex Mono', monospace", fontSize: 12.5, fontWeight: "600",
+          color: settled ? "#999" : "#1A1A1A", lineHeight: 1.45,
+          textDecoration: settled ? "line-through" : "none",
+        }}>{row.event}</span>
+        <MovedBadge moved={row.moved} />
       </div>
-      <div style={{background:"#fff",borderLeft:"4px solid #7B1D1D",padding:"20px",marginBottom:40,boxShadow:"0 2px 8px rgba(0,0,0,0.04)"}}>
-        <h3 style={{margin:"0 0 12px 0",color:"#7B1D1D",fontSize:16}}>2. Análisis Técnico</h3>
-        <p style={{fontSize:13,lineHeight:1.6}}>Datos obtenidos mediante el análisis de mercados de futuros e inteligencia estructurada con Inteligencia Artificial, calculando la probabilidad implícita de escenarios inminentes.</p>
+      <div style={{ display: "flex", alignItems: "center", gap: 10, marginBottom: 8 }}>
+        {settled ? (
+          <span style={{
+            fontFamily: "'Playfair Display', serif", color: "#7B1D1D", fontSize: 13, fontWeight: "700",
+            background: "#FDF0E0", padding: "5px 12px", borderRadius: 4, border: "1px solid #E8C890",
+          }}>LIQUIDADO</span>
+        ) : (
+          <>
+            <input
+              value={row.draft}
+              onChange={e => onDraftChange(e.target.value)}
+              onBlur={onCommit}
+              onKeyDown={e => { if (e.key === "Enter") onCommit(); }}
+              style={{
+                background: obg, border: `1.5px solid ${oc}55`, borderRadius: 5,
+                color: oc, fontSize: 16, fontWeight: "700",
+                fontFamily: "'IBM Plex Mono', monospace",
+                width: 90, textAlign: "center", padding: "6px 4px",
+                WebkitAppearance: "none",
+              }}
+            />
+            <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 16, fontWeight: "700", color: pc, minWidth: 44, textAlign: "center" }}>
+              {implied !== null ? `${implied}%` : "—"}
+            </div>
+            <div style={{ flex: 1, height: 5, borderRadius: 3, background: "#E0D8C8", overflow: "hidden" }}>
+              <div style={{ width: `${implied || 0}%`, height: "100%", background: pc }} />
+            </div>
+          </>
+        )}
+      </div>
+      <ExpandableParams text={row.params} />
+    </div>
+  );
+}
+
+// ── SVG NEWS CARDS (panel lateral) ───────────────────────────────────────────
+const NEWS_CARDS = [
+  {
+    tag: "GEOPOLÍTICA GLOBAL",
+    tagColor: "#7B1D1D",
+    bg: "#0a0a12",
+    headline: "Tablero de probabilidades en tiempo real",
+    sub: "Datos de Polymarket y análisis de IA para escenarios geopolíticos mundiales",
+    Scene: () => (
+      <svg width="100%" height="100%" viewBox="0 0 400 175" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+          <radialGradient id="g1" cx="50%" cy="50%" r="50%">
+            <stop offset="0%" stopColor="#1B3A6B" stopOpacity="0.6"/>
+            <stop offset="100%" stopColor="#0a0a12" stopOpacity="0"/>
+          </radialGradient>
+        </defs>
+        <rect width="400" height="175" fill="#0a0a12"/>
+        <ellipse cx="200" cy="87" rx="130" ry="70" fill="url(#g1)"/>
+        {/* Líneas de conexión global */}
+        {[[50,40,350,130],[50,130,350,40],[200,20,200,155],[20,87,380,87]].map(([x1,y1,x2,y2],i) => (
+          <line key={i} x1={x1} y1={y1} x2={x2} y2={y2} stroke="#1B3A6B" strokeWidth="0.5" opacity="0.4" strokeDasharray="4,4"/>
+        ))}
+        {/* Nodos de países */}
+        {[
+          {x:200,y:87,r:12,c:"#7B1D1D",l:"GLOBAL"},
+          {x:80, y:50,r:7, c:"#1B3A6B",l:"EE.UU."},
+          {x:310,y:60,r:7, c:"#1B5E38",l:"EURASIA"},
+          {x:280,y:130,r:7,c:"#7B4A00",l:"ASIA"},
+          {x:100,y:130,r:7,c:"#3A005E",l:"LATAM"},
+        ].map(n => (
+          <g key={n.l}>
+            <circle cx={n.x} cy={n.y} r={n.r} fill={n.c} opacity="0.85"/>
+            <circle cx={n.x} cy={n.y} r={n.r+5} fill={n.c} opacity="0.15"/>
+            <text x={n.x} y={n.y - n.r - 5} textAnchor="middle" fontFamily="monospace" fontSize="7" fill={n.c}>{n.l}</text>
+            <line x1={n.x} y1={n.y} x2="200" y2="87" stroke={n.c} strokeWidth="0.8" opacity="0.5"/>
+          </g>
+        ))}
+        <text x="200" y="91" textAnchor="middle" fontFamily="monospace" fontSize="8" fill="white" fontWeight="bold">TABLERO</text>
+      </svg>
+    ),
+  },
+  {
+    tag: "ECONOMÍA Y MERCADOS",
+    tagColor: "#7B4A00",
+    bg: "#0c0a08",
+    headline: "Probabilidades implícitas en tiempo real",
+    sub: "Momios americanos: negativo = favorito (-200 = 67%), positivo = no favorito (+300 = 25%)",
+    Scene: () => (
+      <svg width="100%" height="100%" viewBox="0 0 400 175" xmlns="http://www.w3.org/2000/svg">
+        <rect width="400" height="175" fill="#0c0a08"/>
+        {/* Gráfico de línea de probabilidades */}
+        <rect x="20" y="20" width="360" height="110" fill="rgba(0,0,0,0.5)" rx="3" stroke="#333" strokeWidth="1"/>
+        <text x="30" y="36" fontFamily="monospace" fontSize="9" fill="#7B4A00" fontWeight="bold">DISTRIBUCIÓN DE PROBABILIDADES (Ejemplo)</text>
+        {/* Líneas de referencia */}
+        {[25,50,75].map(v => (
+          <g key={v}>
+            <line x1="20" y1={20 + (110 - v*1.1)} x2="380" y2={20 + (110 - v*1.1)} stroke="#222" strokeWidth="0.7"/>
+            <text x="385" y={24 + (110 - v*1.1)} fontFamily="monospace" fontSize="7" fill="#555">{v}%</text>
+          </g>
+        ))}
+        {/* Barras de probabilidad */}
+        {[
+          {x:40, h:75, c:"#1B5E38", l:"-200"},
+          {x:90, h:55, c:"#1B5E38", l:"-130"},
+          {x:140,h:40, c:"#7B4A00", l:"+150"},
+          {x:190,h:30, c:"#7B4A00", l:"+230"},
+          {x:240,h:18, c:"#7B1D1D", l:"+450"},
+          {x:290,h:10, c:"#7B1D1D", l:"+950"},
+        ].map(b => (
+          <g key={b.l}>
+            <rect x={b.x} y={130-b.h} width="30" height={b.h} fill={b.c} opacity="0.75" rx="2"/>
+            <text x={b.x+15} y="145" textAnchor="middle" fontFamily="monospace" fontSize="8" fill={b.c}>{b.l}</text>
+          </g>
+        ))}
+        <text x="200" y="168" textAnchor="middle" fontFamily="monospace" fontSize="8.5" fill="#666">Cuotas americanas → probabilidad implícita</text>
+      </svg>
+    ),
+  },
+  {
+    tag: "CÓMO LEER EL TABLERO",
+    tagColor: "#1B3A6B",
+    bg: "#050a10",
+    headline: "Guía de lectura rápida",
+    sub: "Verde = favorito · Azul = no favorito · Barra = probabilidad visual",
+    Scene: () => (
+      <svg width="100%" height="100%" viewBox="0 0 400 175" xmlns="http://www.w3.org/2000/svg">
+        <rect width="400" height="175" fill="#050a10"/>
+        {/* Ejemplos de cards */}
+        {[
+          {y:25, odds:"-200", pct:67, isFav:true,  label:"Evento con alta probabilidad"},
+          {y:75, odds:"+300", pct:25, isFav:false, label:"Evento menos probable"},
+          {y:125,odds:"LIQUIDADO",pct:null,isFav:false,label:"Evento ya resuelto"},
+        ].map(e => (
+          <g key={e.y}>
+            <rect x="10" y={e.y} width="380" height="42" fill={e.odds === "LIQUIDADO" ? "rgba(123,29,29,0.1)" : "rgba(255,255,255,0.04)"} rx="2" stroke="#1a1a1a" strokeWidth="1"/>
+            <text x="20" y={e.y+14} fontFamily="monospace" fontSize="9" fill={e.odds === "LIQUIDADO" ? "#666" : "#ccc"} style={{textDecoration: e.odds === "LIQUIDADO" ? "line-through" : "none"}}>{e.label}</text>
+            {e.odds !== "LIQUIDADO" ? (
+              <>
+                <rect x="20" y={e.y+18} width="45" height="16" fill={e.isFav ? "rgba(27,94,56,0.3)" : "rgba(27,58,107,0.3)"} rx="3"/>
+                <text x="42" y={e.y+30} textAnchor="middle" fontFamily="monospace" fontSize="10" fontWeight="bold" fill={e.isFav ? "#1B5E38" : "#1B3A6B"}>{e.odds}</text>
+                <text x="80" y={e.y+30} fontFamily="monospace" fontSize="10" fontWeight="bold" fill={e.pct >= 60 ? "#1B5E38" : "#7B4A00"}>{e.pct}%</text>
+                <rect x="100" y={e.y+22} width="270" height="5" fill="#1a1a1a" rx="2"/>
+                <rect x="100" y={e.y+22} width={270 * e.pct/100} height="5" fill={e.pct >= 60 ? "#1B5E38" : "#7B4A00"} rx="2"/>
+              </>
+            ) : (
+              <text x="20" y={e.y+30} fontFamily="monospace" fontSize="9" fill="#7B1D1D" fontWeight="bold">LIQUIDADO — Evento resuelto</text>
+            )}
+          </g>
+        ))}
+      </svg>
+    ),
+  },
+  {
+    tag: "FUENTE DE DATOS",
+    tagColor: "#1B5E38",
+    bg: "#05100a",
+    headline: "Datos de Polymarket + análisis de IA",
+    sub: "Los datos se actualizan automáticamente. Puramente especulativo — no es asesoramiento financiero.",
+    Scene: () => (
+      <svg width="100%" height="100%" viewBox="0 0 400 175" xmlns="http://www.w3.org/2000/svg">
+        <rect width="400" height="175" fill="#05100a"/>
+        {/* Diagrama de flujo de datos */}
+        {/* Polymarket */}
+        <rect x="10" y="30" width="110" height="40" fill="rgba(27,94,56,0.2)" rx="4" stroke="#1B5E38" strokeWidth="1"/>
+        <text x="65" y="47" textAnchor="middle" fontFamily="monospace" fontSize="9" fill="#1B5E38" fontWeight="bold">POLYMARKET</text>
+        <text x="65" y="60" textAnchor="middle" fontFamily="monospace" fontSize="8" fill="#666">API en vivo</text>
+        {/* Al Jazeera */}
+        <rect x="10" y="100" width="110" height="40" fill="rgba(123,29,29,0.2)" rx="4" stroke="#7B1D1D" strokeWidth="1"/>
+        <text x="65" y="117" textAnchor="middle" fontFamily="monospace" fontSize="9" fill="#7B1D1D" fontWeight="bold">AL JAZEERA</text>
+        <text x="65" y="130" textAnchor="middle" fontFamily="monospace" fontSize="8" fill="#666">RSS noticias</text>
+        {/* Flechas */}
+        <line x1="120" y1="50" x2="170" y2="85" stroke="#1B5E38" strokeWidth="1.5" strokeDasharray="4,2"/>
+        <line x1="120" y1="120" x2="170" y2="90" stroke="#7B1D1D" strokeWidth="1.5" strokeDasharray="4,2"/>
+        {/* Procesador */}
+        <rect x="170" y="65" width="90" height="40" fill="rgba(27,58,107,0.3)" rx="4" stroke="#1B3A6B" strokeWidth="1"/>
+        <text x="215" y="82" textAnchor="middle" fontFamily="monospace" fontSize="9" fill="#1B3A6B" fontWeight="bold">Python</text>
+        <text x="215" y="95" textAnchor="middle" fontFamily="monospace" fontSize="8" fill="#666">data.json</text>
+        {/* Flecha salida */}
+        <line x1="260" y1="85" x2="310" y2="85" stroke="#7AACCF" strokeWidth="1.5" strokeDasharray="4,2"/>
+        <polygon points="310,82 318,85 310,88" fill="#7AACCF"/>
+        {/* Frontend */}
+        <rect x="318" y="65" width="72" height="40" fill="rgba(122,172,207,0.2)" rx="4" stroke="#7AACCF" strokeWidth="1"/>
+        <text x="354" y="82" textAnchor="middle" fontFamily="monospace" fontSize="9" fill="#7AACCF" fontWeight="bold">HTML</text>
+        <text x="354" y="95" textAnchor="middle" fontFamily="monospace" fontSize="7" fill="#666">Tablero</text>
+        {/* Labels */}
+        <text x="200" y="155" textAnchor="middle" fontFamily="monospace" fontSize="8" fill="#444">Activa cada hora via GitHub Actions</text>
+      </svg>
+    ),
+  },
+];
+
+function NewsImagePanel({ isUpdating }) {
+  const [current, setCurrent] = useState(0);
+  const [fade, setFade]       = useState(true);
+  const timerRef = useRef(null);
+
+  const goTo = useCallback((idx) => {
+    clearInterval(timerRef.current);
+    setFade(false);
+    setTimeout(() => { setCurrent(idx); setFade(true); }, 220);
+    timerRef.current = setInterval(() => {
+      setFade(false);
+      setTimeout(() => { setCurrent(c => (c + 1) % NEWS_CARDS.length); setFade(true); }, 220);
+    }, 7000);
+  }, []);
+
+  useEffect(() => {
+    timerRef.current = setInterval(() => {
+      setFade(false);
+      setTimeout(() => { setCurrent(c => (c + 1) % NEWS_CARDS.length); setFade(true); }, 220);
+    }, 7000);
+    return () => clearInterval(timerRef.current);
+  }, []);
+
+  const card = NEWS_CARDS[current];
+  const { Scene } = card;
+
+  return (
+    <div style={{ background: "#0d0d0d", borderBottom: "3px solid #7B1D1D" }}>
+      <div style={{
+        position: "relative", height: 175, background: card.bg,
+        overflow: "hidden", transition: "opacity 0.22s ease", opacity: fade ? 1 : 0,
+      }}>
+        <Scene/>
+        <div style={{ position: "absolute", inset: 0, pointerEvents: "none", background: "linear-gradient(to top, rgba(0,0,0,0.88) 0%, rgba(0,0,0,0.1) 55%, transparent 100%)" }}/>
+        <div style={{
+          position: "absolute", top: 10, left: 12, background: card.tagColor, color: "#FFF",
+          fontFamily: "'IBM Plex Mono', monospace", fontSize: 9, fontWeight: "700",
+          letterSpacing: 1.5, padding: "3px 8px", borderRadius: 2,
+        }}>{card.tag}</div>
+        {isUpdating && (
+          <div style={{
+            position: "absolute", top: 10, right: 12, background: "rgba(27,58,107,0.9)", color: "#7AACCF",
+            fontFamily: "'IBM Plex Mono', monospace", fontSize: 9, fontWeight: "700", padding: "3px 8px", borderRadius: 2,
+          }}>Actualizando...</div>
+        )}
+        <div style={{ position: "absolute", bottom: 0, left: 0, right: 0, padding: "8px 13px 7px" }}>
+          <div style={{ fontFamily: "'Playfair Display', serif", fontSize: 13, fontWeight: "700", color: "#F0EDE6", lineHeight: 1.3, marginBottom: 3 }}>{card.headline}</div>
+          <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 9.5, color: "#CCC", lineHeight: 1.4 }}>{card.sub}</div>
+        </div>
+      </div>
+      {/* Controles */}
+      <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", padding: "6px 12px", background: "#111" }}>
+        <button onClick={() => goTo((current - 1 + NEWS_CARDS.length) % NEWS_CARDS.length)} style={{ background: "none", border: "1px solid #2a2a2a", color: "#666", cursor: "pointer", fontFamily: "'IBM Plex Mono', monospace", fontSize: 10, padding: "4px 9px", borderRadius: 2 }}>◀</button>
+        <div style={{ display: "flex", gap: 5, alignItems: "center" }}>
+          {NEWS_CARDS.map((_, i) => (
+            <button key={i} onClick={() => goTo(i)} style={{ width: i === current ? 20 : 6, height: 6, borderRadius: 3, background: i === current ? card.tagColor : "#333", border: "none", cursor: "pointer", padding: 0, transition: "all 0.3s ease" }}/>
+          ))}
+        </div>
+        <button onClick={() => goTo((current + 1) % NEWS_CARDS.length)} style={{ background: "none", border: "1px solid #2a2a2a", color: "#666", cursor: "pointer", fontFamily: "'IBM Plex Mono', monospace", fontSize: 10, padding: "4px 9px", borderRadius: 2 }}>▶</button>
+      </div>
+      <div style={{ padding: "3px 13px 6px", background: "#0d0d0d", fontFamily: "'IBM Plex Mono', monospace", fontSize: 8.5, color: "#444", letterSpacing: 0.5 }}>
+        {current + 1}/{NEWS_CARDS.length} · Visualizaciones ilustrativas
       </div>
     </div>
   );
 }
 
-function App(){
-  const [data,setData]=useState(null);
-  const [err,setErr]=useState(null);
-  const [tab,setTab]=useState("board");
-  const [scale,setScale]=useState(1);
+// ── ASIDE: CUOTAS CLAVE ───────────────────────────────────────────────────────
+function AsideKeyOdds({ sections }) {
+  const keyOdds = useMemo(() => {
+    const all = [];
+    (sections || []).forEach(s => (s.rows || []).forEach(r => {
+      if (r.odds && r.odds !== "N/A" && r.odds !== "LIQUIDADO") {
+        const p = calcImplied(r.odds);
+        if (p !== null) all.push({ label: r.event, odds: r.odds, p });
+      }
+    }));
+    const favs     = all.filter(r => isFavorite(r.odds)).sort((a, b) => b.p - a.p).slice(0, 3);
+    const longshots = all.filter(r => !isFavorite(r.odds)).sort((a, b) => a.p - b.p).slice(0, 2);
+    return [...favs, ...longshots];
+  }, [sections]);
 
-  useEffect(()=>{
-    const load=()=>fetch(`./data.json?t=${Date.now()}`)
-      .then(r=>{if(!r.ok)throw new Error("Sincronizando feed...");return r.json();})
-      .then(d=>{if(!d.sections) throw new Error("Datos pendientes"); setData(d); setErr(null);})
-      .catch(e=>setErr(e.message));
-    
-    load();
-    const iv=setInterval(load,60000);
-    return()=>clearInterval(iv);
-  },[]);
-
-  if(err) return <div style={{background:"#2a0000",color:"#ff9999",padding:"30px",margin:"50px auto",maxWidth:600,textAlign:"center",border:"2px solid red"}}><h3>⚠️ ESPERANDO DATOS</h3><p>{err}</p></div>;
-  if(!data) return <div style={{background:"#0d0d0d",height:"100vh",display:"flex",alignItems:"center",justifyContent:"center",color:"#8AACCF",fontSize:14,letterSpacing:2}}>SINCRONIZANDO...</div>;
-
-  return(
-    <div className="main-wrapper" style={{zoom: scale}}>
-      <Ticker items={data.ticker}/>
-      
-      <div style={{background:"#1B3A6B", padding:"20px 25px 0", borderBottom:"1px solid #333"}}>
-        <div style={{display:"flex",justifyContent:"space-between",alignItems:"flex-start"}}>
-          <div>
-            <h1 style={{margin:0,fontFamily:"'Playfair Display',serif",fontSize:"clamp(22px, 3vw, 32px)",fontWeight:900,color:"#F5F0E8",lineHeight:1.1,letterSpacing:"-0.5px"}}>FIN DEL MUNDO - TABLERO DE PROBABILIDADES</h1>
-            <div style={{fontSize:11,fontWeight:700,color:"#8AACCF",marginTop:8,letterSpacing:1.5}}>REAL-TIME INTELLIGENCE FEED // {data.lastUpdated}</div>
-          </div>
-          <div style={{display:"flex",alignItems:"center"}}>
-            <span style={{fontSize:10,color:"#8AACCF",marginRight:5,fontWeight:"bold"}}>ZOOM:</span>
-            <button className="scale-btn" onClick={()=>setScale(s=>Math.max(s-0.1, 0.8))}>A-</button>
-            <button className="scale-btn" onClick={()=>setScale(s=>Math.min(s+0.1, 1.4))}>A+</button>
+  return (
+    <div style={{ background: "#F0EDE6", padding: "14px 14px" }}>
+      <div style={{ fontFamily: "'Playfair Display', serif", fontSize: 11, fontWeight: "700", color: "#1B3A6B", letterSpacing: 1.5, textTransform: "uppercase", marginBottom: 10 }}>
+        Cuotas destacadas
+      </div>
+      {keyOdds.length === 0 && (
+        <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 10, color: "#AAA" }}>Cargando...</div>
+      )}
+      {keyOdds.map((item, i) => (
+        <div key={i} style={{ display: "flex", alignItems: "center", justifyContent: "space-between", marginBottom: 8, gap: 8 }}>
+          <span style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 10, color: "#555", flex: 1, lineHeight: 1.4 }}>
+            {item.label.slice(0, 48)}{item.label.length > 48 ? "…" : ""}
+          </span>
+          <div style={{ display: "flex", gap: 5, alignItems: "center", flexShrink: 0 }}>
+            <span style={{
+              fontFamily: "'IBM Plex Mono', monospace", fontSize: 11, fontWeight: "700",
+              color: oddsColor(item.odds), background: oddsBg(item.odds),
+              padding: "2px 6px", borderRadius: 3,
+            }}>{item.odds}</span>
+            <span style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 10, fontWeight: "700", color: pctColor(item.p), minWidth: 30 }}>{item.p}%</span>
           </div>
         </div>
-        
-        <div style={{display:"flex",marginTop:20}}>
-          <button className={`tab-btn ${tab==='board'?'active':''}`} onClick={()=>setTab('board')}>PROBABILIDADES Y ESCENARIOS</button>
-          <button className={`tab-btn ${tab==='sources'?'active':''}`} onClick={()=>setTab('sources')}>METODOLOGÍA</button>
-        </div>
+      ))}
+    </div>
+  );
+}
+
+// ── TAB: FUENTES / METODOLOGÍA ────────────────────────────────────────────────
+function SourcesTab({ lastUpdated }) {
+  const mono  = { fontFamily: "'IBM Plex Mono', monospace", fontSize: 12, color: "#3A3A3A", lineHeight: 1.85 };
+  const serif = { fontFamily: "'Playfair Display', Georgia, serif" };
+  return (
+    <div style={{ padding: "24px 20px 80px", maxWidth: 860, margin: "0 auto" }}>
+      <h2 style={{ ...serif, fontSize: 22, color: "#1B3A6B", marginBottom: 6, marginTop: 0 }}>Fuentes y Metodología</h2>
+      <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 10, color: "#AAA", marginBottom: 30 }}>
+        Última actualización: {lastUpdated}
       </div>
 
-      <div className="layout">
-        {tab==="board" ? (
-          <>
-            <div className="col-main">
-              <div style={{background:"#EAE4D8",padding:"10px 18px",border:"1px solid #C8BFA8",borderRadius:4,fontSize:10,color:"#555",display:"flex",justifyContent:"space-between",fontWeight:"bold",marginBottom:20}}>
-                <span><span style={{color:"#1B5E38",fontSize:12}}>■</span> FAVORITO (−)</span>
-                <span><span style={{color:"#1B3A6B",fontSize:12}}>■</span> SORPRESA (+)</span>
-                <span>RIESGO: VERDE ≥60% · ORO 30-59% · ROJO &lt;30%</span>
+      {/* Metodología */}
+      <div style={{ background: "#FDF8F0", border: "1px solid #DDD0B8", borderLeft: "4px solid #7B4A00", borderRadius: 4, padding: "18px 20px", marginBottom: 28 }}>
+        <div style={{ ...serif, fontSize: 13, fontWeight: "700", color: "#7B4A00", letterSpacing: 1.2, textTransform: "uppercase", marginBottom: 14 }}>
+          ¿De dónde vienen las cuotas?
+        </div>
+        {[
+          { n: "1", titulo: "Fuente de datos", body: "En modo Polymarket (sin API key de IA): Los momios reflejan las probabilidades implícitas de los mercados de predicción de Polymarket, convertidas al formato americano. En modo IA (con GROQ_API_KEY): Un modelo LLaMA 3.3-70B analiza titulares de noticias reales y genera estimaciones propias." },
+          { n: "2", titulo: "Conversión al formato americano (+/−)", body: "El formato de cuotas americanas expresa incertidumbre mejor que un porcentaje. Un porcentaje como '35%' implica precisión falsa. '+190' dice lo mismo pero señala la incertidumbre inherente. Fórmula: si negativo (favorito) → |cuota| ÷ (|cuota| + 100). Si positivo → 100 ÷ (cuota + 100). Ejemplo: −160 → 62%. +220 → 31%." },
+          { n: "3", titulo: "Actualización automática", body: "El archivo data.json se regenera cada hora via GitHub Actions. LocalmentePuedes correr 'python run_local.py' para actualizar y servir el tablero en tu máquina. El botón 'Actualizar' relee los datos del servidor sin recargar la página." },
+          { n: "4", titulo: "Limitación crítica", body: "Estas cuotas son especulativas. No constituyen asesoramiento financiero, de seguridad, ni de inteligencia. El propósito es visualizar la incertidumbre global de manera estructurada, no predecir el futuro con precisión." },
+        ].map(s => (
+          <div key={s.n} style={{ display: "flex", gap: 12, marginBottom: 12 }}>
+            <div style={{ background: "#7B4A00", color: "#FFF", fontFamily: "'IBM Plex Mono', monospace", fontSize: 10, fontWeight: "700", borderRadius: "50%", width: 22, height: 22, display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>{s.n}</div>
+            <div>
+              <span style={{ ...serif, fontWeight: "700", fontSize: 12, color: "#3A3A3A" }}>{s.titulo}: </span>
+              <span style={{ ...mono, fontSize: 11.5, color: "#555" }}>{s.body}</span>
+            </div>
+          </div>
+        ))}
+      </div>
+
+      {/* Fuentes de datos */}
+      <div style={{ marginBottom: 28 }}>
+        <div style={{ ...serif, fontWeight: "700", fontSize: 13, color: "#1B3A6B", letterSpacing: 1.5, textTransform: "uppercase", marginBottom: 14, paddingBottom: 8, borderBottom: "2px solid #1B3A6B" }}>
+          Fuentes primarias
+        </div>
+        {[
+          { num: "API", title: "Polymarket Gamma API", body: "Mercados de predicción descentralizados. Eventos globales en tiempo real con probabilidades de mercado. Endpoint: gamma-api.polymarket.com/events", url: "https://polymarket.com", color: "#1B3A6B" },
+          { num: "RSS", title: "Al Jazeera English RSS", body: "Titulares de noticias internacionales para el ticker y como contexto para el modo IA. Feed: aljazeera.com/xml/rss/all.xml", url: "https://www.aljazeera.com", color: "#7B1D1D" },
+          { num: "IA",  title: "Groq / LLaMA 3.3-70B (opcional)", body: "Modo de análisis con IA: genera probabilidades basadas en titulares de noticias reales. Requiere GROQ_API_KEY configurada como variable de entorno.", url: "https://groq.com", color: "#1B5E38" },
+        ].map(s => (
+          <div key={s.num} style={{ display: "flex", gap: 12, marginBottom: 16, paddingBottom: 16, borderBottom: "1px solid #E0D8C8" }}>
+            <div style={{ background: s.color, color: "#FFF", fontWeight: "700", fontSize: 9, borderRadius: 2, padding: "3px 6px", flexShrink: 0, fontFamily: "'IBM Plex Mono', monospace", alignSelf: "flex-start" }}>{s.num}</div>
+            <div>
+              <div style={{ ...serif, fontWeight: "700", fontSize: 13, color: s.color, marginBottom: 4 }}>{s.title}</div>
+              <p style={{ ...mono, marginBottom: 4, fontSize: 11.5 }}>{s.body}</p>
+              <a href={s.url} target="_blank" rel="noopener noreferrer" style={{ color: s.color, fontSize: 10, fontFamily: "'IBM Plex Mono', monospace" }}>{s.url}</a>
+            </div>
+          </div>
+        ))}
+      </div>
+
+      {/* Uso local */}
+      <div style={{ background: "#1a1a1a", color: "#7AACCF", borderRadius: 4, padding: "16px 20px", marginBottom: 20, fontFamily: "'IBM Plex Mono', monospace", fontSize: 11.5 }}>
+        <div style={{ color: "#F5F0E8", fontWeight: "700", marginBottom: 10, letterSpacing: 1 }}>Correr localmente</div>
+        <div style={{ color: "#888", marginBottom: 6 }}># Sin API key (usa Polymarket)</div>
+        <div style={{ marginBottom: 12 }}>python run_local.py</div>
+        <div style={{ color: "#888", marginBottom: 6 }}># Con IA (más contextual)</div>
+        <div>GROQ_API_KEY=tu-llave python run_local.py</div>
+      </div>
+
+      <div style={{ background: "#F0EDE6", border: "1px solid #D4C9B0", borderLeft: "4px solid #1B3A6B", borderRadius: 4, padding: "14px 16px" }}>
+        <p style={{ ...mono, marginBottom: 0, fontSize: 11.5 }}>
+          Tablero construido con React, Python y datos de Polymarket API.
+          Análisis con IA potenciado por <strong style={{ color: "#1B3A6B" }}>Groq / LLaMA 3.3-70B</strong>.
+        </p>
+      </div>
+      <div style={{ textAlign: "center", fontSize: 10, color: "#AAA", marginTop: 24, fontFamily: "'IBM Plex Mono', monospace", letterSpacing: 0.8, lineHeight: 2 }}>
+        PURAMENTE ESPECULATIVO · NO ES ASESORAMIENTO FINANCIERO NI DE INTELIGENCIA
+      </div>
+    </div>
+  );
+}
+
+// ── APP PRINCIPAL ─────────────────────────────────────────────────────────────
+function App() {
+  const [rawData,     setRawData]     = useState(null);
+  const [sections,    setSections]    = useState([]);
+  const [err,         setErr]         = useState(null);
+  const [activeTab,   setActiveTab]   = useState("odds");
+  const [collapsed,   setCollapsed]   = useState(new Set());
+  const [isUpdating,  setIsUpdating]  = useState(false);
+  const [lastUpdated, setLastUpdated] = useState("—");
+  const [updateMsg,   setUpdateMsg]   = useState(null);
+
+  // Cargar data.json
+  const loadData = useCallback(async (silent = false) => {
+    if (!silent) setIsUpdating(true);
+    try {
+      const r = await fetch(`./data.json?t=${Date.now()}`);
+      if (!r.ok) throw new Error(`HTTP ${r.status}`);
+      const d = await r.json();
+      if (!d.sections) throw new Error("JSON sin campo 'sections'");
+
+      setRawData(d);
+      setLastUpdated(d.lastUpdated || new Date().toISOString());
+      // Añadir campo 'draft' a cada row para edición inline
+      setSections(
+        d.sections.map(s => ({
+          ...s,
+          rows: (s.rows || []).map(r => ({ ...r, draft: String(r.odds || "") })),
+        }))
+      );
+      setErr(null);
+      if (!silent) {
+        setUpdateMsg("Datos actualizados correctamente.");
+        setTimeout(() => setUpdateMsg(null), 4000);
+      }
+    } catch (e) {
+      setErr(e.message);
+    } finally {
+      setIsUpdating(false);
+    }
+  }, []);
+
+  // Carga inicial + polling cada 60 segundos
+  useEffect(() => {
+    loadData(true);
+    const iv = setInterval(() => loadData(true), 60000);
+    return () => clearInterval(iv);
+  }, [loadData]);
+
+  function setDraft(si, ri, val) {
+    setSections(prev => prev.map((s, sIdx) => sIdx !== si ? s : {
+      ...s, rows: s.rows.map((r, rIdx) => rIdx !== ri ? r : { ...r, draft: val })
+    }));
+  }
+  function commit(si, ri) {
+    setSections(prev => prev.map((s, sIdx) => sIdx !== si ? s : {
+      ...s, rows: s.rows.map((r, rIdx) => rIdx !== ri ? r : { ...r, odds: r.draft })
+    }));
+  }
+  function toggle(si) {
+    setCollapsed(prev => {
+      const n = new Set(prev);
+      n.has(si) ? n.delete(si) : n.add(si);
+      return n;
+    });
+  }
+
+  const totalRows  = sections.reduce((a, s) => a + s.rows.length, 0);
+  const settledN   = sections.reduce((a, s) => a + s.rows.filter(r => r.odds === "LIQUIDADO").length, 0);
+  const ticker     = rawData?.ticker || [];
+
+  // ── Pantalla de error ──────────────────────────────────────────────────────
+  if (err && sections.length === 0) return (
+    <div style={{ background: "#0d0d0d", minHeight: "100vh", display: "flex", alignItems: "center", justifyContent: "center" }}>
+      <div style={{ background: "#1a0000", color: "#FF9999", padding: "32px 40px", borderRadius: 4, border: "2px solid #7B1D1D", textAlign: "center", maxWidth: 500 }}>
+        <div style={{ fontFamily: "'Playfair Display', serif", fontSize: 18, fontWeight: "700", marginBottom: 12 }}>Error al cargar datos</div>
+        <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 12, color: "#CC8888", marginBottom: 20 }}>{err}</div>
+        <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 11, color: "#666", lineHeight: 1.8 }}>
+          Asegúrate de que <code>data.json</code> existe.<br/>
+          Corre: <code>python run_local.py</code>
+        </div>
+        <button onClick={() => loadData(false)} style={{ marginTop: 16, background: "#1B3A6B", color: "#F5F0E8", border: "none", padding: "10px 20px", borderRadius: 3, fontFamily: "'IBM Plex Mono', monospace", fontSize: 12, cursor: "pointer" }}>
+          Reintentar
+        </button>
+      </div>
+    </div>
+  );
+
+  // ── Pantalla de carga inicial ──────────────────────────────────────────────
+  if (sections.length === 0) return (
+    <div style={{ background: "#0d0d0d", minHeight: "100vh", display: "flex", alignItems: "center", justifyContent: "center" }}>
+      <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 13, color: "#5A8AAF", letterSpacing: 2, animation: "pulse 1.5s ease infinite" }}>
+        Sincronizando datos...
+      </div>
+    </div>
+  );
+
+  return (
+    <div style={{ background: "#F5F0E8", minHeight: "100vh", fontFamily: "'IBM Plex Mono', monospace" }}>
+
+      {/* ── MASTHEAD ── */}
+      <div style={{ background: "#1B3A6B", position: "sticky", top: 0, zIndex: 200, boxShadow: "0 3px 16px rgba(0,0,0,0.3)" }}>
+        <div className="masthead-wrap">
+          <Ticker items={ticker} isUpdating={isUpdating}/>
+
+          <div style={{ padding: "12px 20px 0" }}>
+            <div style={{ display: "flex", alignItems: "flex-start", justifyContent: "space-between", gap: 12, flexWrap: "wrap" }}>
+              <div>
+                <h1 style={{ fontFamily: "'Playfair Display', serif", fontSize: "clamp(15px, 3vw, 21px)", fontWeight: "900", color: "#F5F0E8", letterSpacing: 0.5, lineHeight: 1.1, marginBottom: 2, marginTop: 0 }}>
+                  Tablero de Probabilidades Geopolítico
+                </h1>
+                <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 9.5, color: "#5A8AAF", letterSpacing: 0.4 }}>
+                  {lastUpdated} · {totalRows} eventos · {settledN > 0 ? `${settledN} liquidado${settledN > 1 ? "s" : ""} · ` : ""}{sections.length} secciones
+                </div>
               </div>
-              
-              {data.sections.map((sec,i)=>{
-                const rows = sec.rows||[];
-                if(rows.length === 0) return null;
-                return(
-                  <div key={i} style={{marginBottom:25,border:"1px solid #E4DDD0",borderRadius:4,overflow:"hidden",boxShadow:"0 2px 4px rgba(0,0,0,0.02)"}}>
-                    <div style={{background:"#EEEAE2",padding:"12px 18px",borderBottom:"1px solid #D4C9B0",borderTop:`4px solid ${ACCENTS[i%ACCENTS.length]}`,fontSize:14,fontWeight:900,color:"#1a1a1a",letterSpacing:1.2,textTransform:"uppercase"}}>
-                      {stripEmojis(sec.label)}
-                    </div>
-                    {rows.map((row,j)=><EventCard key={j} row={row} even={j%2===0}/>)}
-                  </div>
-                );
-              })}
             </div>
-            
-            <div className="col-aside">
-              <AsideContent sections={data.sections} />
+
+            {/* Pestañas */}
+            <div style={{ display: "flex", marginTop: 10 }}>
+              {[
+                { id: "odds",    label: "Cuotas y escenarios" },
+                { id: "sources", label: "Metodología" },
+              ].map(tab => (
+                <button key={tab.id} onClick={() => setActiveTab(tab.id)} style={{
+                  flex: 1, maxWidth: 200, padding: "9px 12px",
+                  background: activeTab === tab.id ? "#F5F0E8" : "transparent",
+                  border: "none", color: activeTab === tab.id ? "#1B3A6B" : "#5A8AAF",
+                  fontSize: 10.5, fontWeight: "700", letterSpacing: 0.8, cursor: "pointer",
+                  fontFamily: "'IBM Plex Mono', monospace",
+                  borderRadius: activeTab === tab.id ? "4px 4px 0 0" : 0,
+                  marginBottom: activeTab === tab.id ? "-1px" : 0,
+                  textTransform: "uppercase",
+                }}>{tab.label}</button>
+              ))}
             </div>
-          </>
-        ) : (
-          <div style={{width:"100%", background:"#F5F0E8"}}>
-            <SourcesTab />
           </div>
-        )}
+        </div>
       </div>
 
-      <footer style={{height:"40px", background:"#EAE4D8", borderTop:"2px solid #D4C9B0"}}>
-      </footer>
+      {/* Panel de imágenes — móvil (solo < 900px) */}
+      {activeTab === "odds" && (
+        <div className="mobile-image-panel">
+          <NewsImagePanel isUpdating={isUpdating}/>
+        </div>
+      )}
+
+      {/* ── CUERPO ── */}
+      {activeTab === "odds" ? (
+        <div className="board-layout">
+
+          {/* Columna principal: tablero de cuotas */}
+          <div className="board-main">
+            <div style={{ background: "#EAE4D8", padding: "7px 16px", borderBottom: "1px solid #C8BFA8", fontSize: 9.5, color: "#666", fontFamily: "'IBM Plex Mono', monospace", display: "flex", gap: 18, flexWrap: "wrap" }}>
+              <span><span style={{ color: "#1B5E38" }}>■</span> favorito (−)</span>
+              <span><span style={{ color: "#1B3A6B" }}>■</span> no favorito (+)</span>
+              <span>Verde ≥60% · Dorado 30–59% · Rojo &lt;30%</span>
+            </div>
+
+            {sections.map((section, si) => {
+              const isCollapsed = collapsed.has(si);
+              const accent = SECTION_ACCENT[si % SECTION_ACCENT.length];
+              return (
+                <div key={si} style={{ marginTop: 8 }}>
+                  <div onClick={() => toggle(si)} style={{
+                    display: "flex", alignItems: "center", justifyContent: "space-between",
+                    padding: "10px 16px", background: "#EEEAE2",
+                    borderTop: `3px solid ${accent}`, borderBottom: "1px solid #D4C9B0",
+                    cursor: "pointer",
+                  }}>
+                    <div style={{ display: "flex", alignItems: "center", gap: 10 }}>
+                      {section.flag && <span style={{ fontSize: 15 }}>{section.flag}</span>}
+                      <span style={{ fontFamily: "'Playfair Display', serif", fontSize: 12, fontWeight: "700", color: accent, letterSpacing: 1.5, textTransform: "uppercase" }}>
+                        {section.label}
+                      </span>
+                      <span style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 9, color: "#AAA" }}>({section.rows.length})</span>
+                    </div>
+                    <span style={{ color: accent, fontSize: 11, fontWeight: "700" }}>{isCollapsed ? "▼" : "▲"}</span>
+                  </div>
+                  {!isCollapsed && section.rows.map((row, ri) => (
+                    <EventCard key={ri} row={row}
+                      onDraftChange={val => setDraft(si, ri, val)}
+                      onCommit={() => commit(si, ri)}
+                      isEven={ri % 2 === 0}
+                    />
+                  ))}
+                </div>
+              );
+            })}
+
+            <div style={{ textAlign: "center", padding: "16px 16px 36px", fontFamily: "'IBM Plex Mono', monospace", fontSize: 9.5, color: "#C0B8A8", letterSpacing: 0.5, lineHeight: 1.9 }}>
+              Puramente especulativo — no es asesoramiento financiero ni de inteligencia
+            </div>
+          </div>
+
+          {/* Columna lateral: panel de imágenes + cuotas clave */}
+          <div className="board-aside">
+            <div style={{ background: "#1A1A1A", padding: "10px 14px", borderBottom: "1px solid #333" }}>
+              <div style={{ fontFamily: "'Playfair Display', serif", fontSize: 11, fontWeight: "700", color: "#F5F0E8", letterSpacing: 2, textTransform: "uppercase" }}>
+                Información del tablero
+              </div>
+              <div style={{ fontFamily: "'IBM Plex Mono', monospace", fontSize: 9, color: "#555", marginTop: 2, letterSpacing: 0.5 }}>
+                Datos en tiempo real
+              </div>
+            </div>
+
+            <NewsImagePanel isUpdating={isUpdating}/>
+            <AsideKeyOdds sections={sections}/>
+          </div>
+
+        </div>
+      ) : (
+        <SourcesTab lastUpdated={lastUpdated}/>
+      )}
+
     </div>
   );
 }
