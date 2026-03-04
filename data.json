@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "04 de marzo de 2026 — 17:11 UTC",
+  "lastUpdated": "04 de marzo de 2026 — 19:52 UTC",
   "ticker": [
+    "Iran war: Redrawing the map of the Middle East, Israeli style?",
+    "Debris from NATO’s missile interception falls on Turkish soil",
+    "Who is Mojtaba Khamenei, a contender for Iran’s leadership amid war?",
+    "UK police arrest three men on suspicion of spying for China",
+    "Trump’s endgame in Iran: Regime change without US ‘boots on the ground’",
+    "Nearly 66,000 Afghans displaced amid fierce fighting on Pakistan border: UN",
+    "New Zealand annihilate South Africa to reach T20 World Cup final",
     "Formula One teams on edge as new regulations face first test in Australia",
     "Iraqi women’s rights activist Yanar Mohammed killing spurs call for justice",
     "Iran’s place in World Cup 2026 in doubt amid conflict, Trump’s dismissal",
@@ -8,14 +15,7 @@
     "India vs England – T20 World Cup semifinal: Predicted XI, time, stream",
     "Dozens missing after US sinks Iranian military ship off Sri Lanka",
     "Are the US and Israel planning an ethnic civil war in Iran?",
-    "Which oil and gas facilities in the Gulf have been attacked?",
-    "Hegseth says more US forces arriving in Middle East as Iran war ramps up",
-    "Why are the US and Israel framing the ongoing conflict as a religious war?",
-    "‘Israel at its peak power in the Middle East and it’s downhill from here’",
-    "Nepal election 2026: Who are the contenders and what’s at stake?",
-    "An outlier for condemning Israel’s Gaza genocide, Spain says no to Iran war",
-    "Is the CIA planning to arm Kurdish forces to spark an uprising in Iran?",
-    "NATO defences destroy missile fired from Iran over Mediterranean: Turkiye"
+    "Which oil and gas facilities in the Gulf have been attacked?"
   ],
   "sections": [
     {
@@ -29,26 +29,20 @@
           "moved": "none"
         },
         {
-          "event": "Will a Gulf State strike Iran by March 7?",
-          "odds": "+354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Russia enter Vozdvyzhivka by March 31?",
-          "odds": "+143",
+          "odds": "+138",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Sinners win Best Original Screenplay at the 98th Academy Awards?",
-          "odds": "-1566",
+          "odds": "-1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "China x Taiwan military clash before 2027?",
-          "odds": "+566",
+          "odds": "+525",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -61,6 +55,12 @@
         {
           "event": "Will Mr. Nobody Against Putin win Best Documentary Feature Film at the 98th Academy Awards?",
           "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Iran strike Cyprus in March?",
+          "odds": "+354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -77,14 +77,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Crude Oil (CL) hit (HIGH) $90 by end of June?",
-          "odds": "+117",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?",
-          "odds": "+809",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -102,13 +96,19 @@
         },
         {
           "event": "Will Crude Oil (CL) hit (LOW) $55 by end of June?",
-          "odds": "+203",
+          "odds": "+194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Crude Oil (CL) hit (LOW) $50 by end of March?",
-          "odds": "+2172",
+          "event": "OpenAI receives federal backstop for infrastructure before July?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Vegas Golden Knights win the Western Conference?",
+          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -120,13 +120,13 @@
       "rows": [
         {
           "event": "Will FLING win the most seats in the 2025 Guinea-Bissau National People’s Assembly election?",
-          "odds": "+557",
+          "odds": "+1036",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Jared Hudson be the Republican nominee for Senate in Alabama?",
-          "odds": "+920",
+          "event": "Will Russell McAlmond be the Republican nominee for Senate in Oregon?",
+          "odds": "+700",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -143,12 +143,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Russell McAlmond be the Republican nominee for Senate in Oregon?",
-          "odds": "+700",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Elaine Pelino win the 2026 Rhode Island Governor Republican primary election?",
           "odds": "+1011",
           "params": "Fuente: Polymarket",
@@ -159,6 +153,12 @@
           "odds": "-1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will J.D. Vance announce a presidential run before 2027?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -167,14 +167,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Trump's remarks not air?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Elon Musk post 1280-1319 tweets in April 2026?",
-          "odds": "+3125",
+          "event": "DeepSeek V4 released by March 31?",
+          "odds": "-212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -185,14 +179,14 @@
           "moved": "none"
         },
         {
-          "event": "Pepperdine Waves vs. Portland Pilots",
-          "odds": "+270",
+          "event": "Prairie View A&M Panthers vs. Texas Southern Tigers",
+          "odds": "+212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Prairie View A&M Panthers vs. Texas Southern Tigers",
-          "odds": "+212",
+          "event": "Pepperdine Waves vs. Portland Pilots",
+          "odds": "+270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -209,8 +203,14 @@
           "moved": "none"
         },
         {
-          "event": "BNP Paribas Open: Reilly Opelka vs Ethan Quinn",
-          "odds": "+122",
+          "event": "Will Posy Li get engaged in Bridgerton: Season 4?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will \"Scream 7\" Second Weekend Box Office be between 25m and 28m?",
+          "odds": "+426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
