@@ -1,227 +1,263 @@
-import os
 import json
-import sys
-import requests
-import xml.etree.ElementTree as ET
+import urllib.request
 from datetime import datetime
+import xml.etree.ElementTree as ET
 
-GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "")
-GROQ_URL     = "https://api.groq.com/openai/v1/chat/completions"
-
-# ── Fuentes RSS geopolíticas ──────────────────────────────────────────────────
-RSS_SOURCES = [
-    ("Al Jazeera",  "https://www.aljazeera.com/xml/rss/all.xml"),
-    ("Reuters",     "https://feeds.reuters.com/reuters/worldNews"),
-    ("BBC World",   "https://feeds.bbci.co.uk/news/world/rss.xml"),
-    ("AP News",     "https://rsshub.app/apnews/topics/world-news"),
+# ── EXCLUSIONES ESTRICTAS ─────────────────────────────────────────────────────
+# Estas palabras en el título = descartar sin importar la sección
+EXCLUDE_HARD = [
+    # Deportes
+    "nba ","nfl ","nhl ","mlb ","mls ","fifa","soccer","football score",
+    "stanley cup","super bowl","world cup","champions league","premier league",
+    "la liga","serie a","bundesliga","ligue 1","copa del rey","fa cup",
+    "cricket","tennis","ufc","boxing","wrestling","golf","f1 race","formula 1",
+    "vs.", " vs ", "match ", "game ", "draw ", "win on ", "win the ",
+    "o/u ", "spread:", "moneyline","1st quarter","3rd quarter","overtime",
+    "both teams to score","set 1","set games","winner: ",
+    # Entretenimiento
+    "oscar","grammy","emmy","tony award","golden globe","bafta",
+    "celebrity","kardashian","taylor swift","beyoncé","rihanna","drake",
+    "box office","movie gross","film festival","streaming","album release",
+    "concert tour","reality show","bridgerton","sinners",
+    # Crypto especulativo
+    "bitcoin price","ethereum price","dogecoin","solana price",
+    "nft ","defi ","altcoin","microstrategy","kraken ipo",
+    # Misc
+    "gta vi","pope francis","jesus christ","alien",
 ]
 
-# Palabras que indican contenido NO geopolítico — filtrar antes de pasar a la IA
-NOISE_KEYWORDS = [
-    "oscar","emmy","grammy","super bowl","nba","nfl","nhl","mlb","formula 1",
-    "box office","celebrity","entertainment","sports","soccer league","premier league",
-    "music award","film festival","box score","playoff","draft pick",
-    "reality show","fashion week","album release","concert tour",
+# Palabras que CONFIRMAN contenido geopolítico relevante
+GEO_POSITIVE = [
+    "war","military","missile","russia","ukraine","israel","iran","gaza",
+    "taiwan","china","korea","nato","troops","airstrike","nuclear","attack",
+    "conflict","ceasefire","sanction","invasion","bomb","coup","protest",
+    "election","president","minister","government","treaty","diplomatic",
+    "oil","gas","inflation","recession","tariff","trade","economic",
+    "refugee","crisis","terror","cartel","mexico","pakistan","afghanistan",
+    "hezbollah","irgc","hamas","houthi","pentagon","kremlin","white house",
+    "congress","un security","un council","senate","parliament",
+    "north korea","south china","strait","strait of hormuz",
+    "trump","biden","zelensky","netanyahu","khamenei","xi jinping","putin",
+    "escalat","ceasefire","negotiat","sanction","missile",
 ]
 
-def is_geopolitical(headline: str) -> bool:
-    h = headline.lower()
-    if any(k in h for k in NOISE_KEYWORDS):
-        return False
-    GEO_KEYWORDS = [
-        "war","military","missile","russia","ukraine","israel","iran","gaza",
-        "taiwan","china","korea","nato","troops","airstrike","nuclear","attack",
-        "conflict","ceasefire","sanction","invasion","bomb","coup","protest",
-        "election","president","minister","government","treaty","diplomatic",
-        "oil","gas","inflation","recession","tariff","trade","economic",
-        "refugee","crisis","terror","insurgent","cartel","mexico","latam",
-        "pakistan","afghanistan","hezbollah","irgc","hamas","houthi",
-        "pentagon","kremlin","white house","congress","un security",
-    ]
-    return any(k in h for k in GEO_KEYWORDS)
-
-def fetch_all_headlines() -> list:
-    all_headlines = []
-    for source_name, url in RSS_SOURCES:
-        try:
-            r = requests.get(url, timeout=12, headers={"User-Agent": "Mozilla/5.0"})
-            root = ET.fromstring(r.content)
-            count = 0
-            for item in root.iter("item"):
-                title = item.find("title")
-                desc  = item.find("description")
-                text  = (title.text or "") if title is not None else ""
-                if desc is not None and desc.text:
-                    text += " — " + desc.text[:120]
-                text = text.strip()
-                if text and is_geopolitical(text):
-                    all_headlines.append(f"[{source_name}] {text}")
-                    count += 1
-                if count >= 8:
-                    break
-            print(f"  {source_name}: {count} titulares geopolíticos")
-        except Exception as e:
-            print(f"  {source_name}: fallo ({e})")
-    # Dedup simple
-    seen, unique = set(), []
-    for h in all_headlines:
-        key = h[:60].lower()
-        if key not in seen:
-            seen.add(key)
-            unique.append(h)
-    return unique[:30]
-
-SYSTEM_PROMPT = """Eres un analista OSINT de riesgo geopolítico nivel senior.
-Produces un tablero de inteligencia ORIGINAL — no un mirror de Polymarket ni de ningún
-mercado de predicción. Cada apuesta debe tener valor analítico propio:
-mecanismo causal claro, base rate histórica, y el factor que más podría cambiar la cuota.
-NUNCA incluyas entretenimiento, deportes, awards, box office, celebrity news ni deportes.
-Responde ÚNICAMENTE con JSON válido, sin markdown, sin texto fuera del JSON."""
-
-def build_prompt(today: str, headlines: list) -> str:
-    news_block = "\n".join(f"  {h}" for h in headlines) if headlines else "  (sin titulares disponibles)"
-    return f"""Fecha actual: {today}
-
-TITULARES GEOPOLÍTICOS EN TIEMPO REAL:
-{news_block}
-
----
-GENERA EL TABLERO CON ESTAS REGLAS:
-
-REGLA 1 — ORIGINALIDAD ANALÍTICA
-El tablero complementa Polymarket, no lo duplica. Polymarket cubre bien: elecciones,
-precios de activos, resultados binarios. Tú cubres:
-- Escenarios de cascada y segunda derivada (si X → qué implica para Y, Z)
-- Riesgos nucleares e institucionales que los mercados subestiman por sesgo de normalidad
-- Efectos geopolíticos en México que no tienen mercado activo
-- Eventos de cola: cosas con 5-15% de probabilidad que, si ocurren, son catastróficas
-
-REGLA 2 — CALIDAD DEL CAMPO "params"
-Cada params DEBE incluir:
-a) Mecanismo causal: ¿por qué específicamente? (no "debido a la tensión")
-b) Condición necesaria: ¿qué tiene que pasar primero?
-c) Base rate: ¿cuántas veces ha ocurrido algo equivalente en la historia?
-d) Factor crítico: ¿qué cambiaría más la cuota?
-
-REGLA 3 — SECCIONES OBLIGATORIAS (exactamente estas, en este orden):
-  🌍 ESCENARIOS MACRO
-  🇮🇷 IRÁN Y ORIENTE MEDIO
-  🇷🇺 RUSIA / UCRANIA
-  🇹🇼 CHINA / TAIWÁN
-  🇰🇵 COREA DEL NORTE
-  🇵🇰 PAKISTÁN / AFGANISTÁN
-  🇺🇸 EE.UU. — INTERIOR
-  🇲🇽 MÉXICO Y LATAM
-  💰 ECONOMÍA Y ENERGÍA
-  ☢️ RIESGOS EXISTENCIALES
-
-REGLA 4 — MÉXICO debe incluir (mínimo 1 row por cada):
-- Impacto de aranceles Trump en manufactura y T-MEC
-- Vulnerabilidad por remesas si EE.UU. entra en recesión
-- Riesgo operativo de carteles (aprovechan distracción institucional)
-- Postura de Sheinbaum en política exterior (neutralidad vs costo con EE.UU.)
-- Peso mexicano y acceso a mercados de capital
-
-REGLA 5 — TICKER: 14 titulares en español mexicano. Tono FT, no CNN.
-Concisos, informativos, sin clickbait. Emojis apropiados al tono.
-
-REGLA 6 — CUOTAS: formato americano. Mínimo 6 rows por sección.
-Solo usar "moved": "down" (más probable), "up" (menos probable), o null.
-
-ESTRUCTURA JSON REQUERIDA:
-{{
-  "lastUpdated": "{today}",
-  "ticker": ["⚡ Titular preciso 1", "🔴 Titular 2", "...14 total..."],
-  "methodology": "Ciclo {today}: análisis basado en {len(headlines)} titulares de {len(RSS_SOURCES)} fuentes RSS internacionales procesados con LLaMA 3.3-70B. Las cuotas reflejan síntesis analítica, no datos de mercado.",
-  "sources": [
-    {{"name": "Al Jazeera RSS", "description": "Cobertura internacional en tiempo real.", "url": "https://aljazeera.com"}},
-    {{"name": "Reuters World News", "description": "Agencia de noticias internacional.", "url": "https://reuters.com"}},
-    {{"name": "BBC World", "description": "Cobertura global BBC.", "url": "https://bbc.com/news/world"}},
-    {{"name": "Groq / LLaMA 3.3-70B", "description": "Modelo de síntesis analítica.", "url": "https://groq.com"}}
-  ],
-  "sections": [
-    {{
-      "flag": "🌍",
-      "label": "ESCENARIOS MACRO",
-      "rows": [
-        {{
-          "event": "Descripción precisa y específica del escenario",
-          "odds": "-150",
-          "moved": "down",
-          "params": "a) Mecanismo: [causal específico]. b) Condición: [necesaria]. c) Base rate: [histórica]. d) Factor crítico: [qué cambiaría la cuota]."
-        }}
-      ]
-    }}
-  ]
-}}
-
-DEVUELVE SOLO EL JSON. Nada antes ni después."""
-
-def main():
-    if not GROQ_API_KEY:
-        print("Error: no se encontró GROQ_API_KEY.")
-        sys.exit(1)
-
-    today = datetime.utcnow().strftime("%d de %B de %Y — %H:%M UTC")
-
-    print("Obteniendo titulares geopolíticos de múltiples fuentes RSS...")
-    headlines = fetch_all_headlines()
-    print(f"Total: {len(headlines)} titulares geopolíticos filtrados.")
-
-    headers = {"Authorization": f"Bearer {GROQ_API_KEY}", "Content-Type": "application/json"}
-    payload = {
-        "model": "llama-3.3-70b-versatile",
-        "messages": [
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user",   "content": build_prompt(today, headlines)},
+# Mapa de secciones con keywords específicas
+SECTIONS_DEF = [
+    {
+        "flag": "☢️",
+        "label": "ORIENTE MEDIO Y CONFLICTO",
+        "keywords": [
+            "iran","israel","gaza","hamas","hezbollah","houthi","irgc",
+            "hormuz","gulf","beirut","tehran","middle east","arab",
+            "airstrike","strike on","attack on","war with",
         ],
-        "temperature": 0.45,
-        "max_tokens": 8192,
-        "response_format": {"type": "json_object"},
-    }
+    },
+    {
+        "flag": "🇷🇺",
+        "label": "RUSIA / UCRANIA / OTAN",
+        "keywords": [
+            "russia","ukraine","nato","kremlin","zelensky","putin",
+            "kyiv","moscow","crimea","donbas","otan","soviet",
+        ],
+    },
+    {
+        "flag": "🇨🇳",
+        "label": "CHINA / ASIA PACIFIC",
+        "keywords": [
+            "china","taiwan","xi jinping","beijing","hong kong",
+            "south china sea","north korea","kim jong","indo-pacific",
+            "japan","south korea","philippines","semiconductor",
+        ],
+    },
+    {
+        "flag": "🇺🇸",
+        "label": "EE.UU. — POLÍTICA Y ECONOMÍA",
+        "keywords": [
+            "trump","congress","senate","white house","pentagon",
+            "tariff","fed ","federal reserve","us economy","us military",
+            "midterm","republican","democrat","election",
+        ],
+    },
+    {
+        "flag": "💰",
+        "label": "ECONOMÍA Y ENERGÍA GLOBAL",
+        "keywords": [
+            "oil price","crude","opec","gas price","brent","inflation",
+            "recession","gdp","interest rate","bond yield","stock market",
+            "trade war","supply chain","energy","eurozone",
+        ],
+    },
+    {
+        "flag": "🌍",
+        "label": "ESCENARIOS GEOPOLÍTICOS",
+        "keywords": [""],  # fallback — solo geopolítico confirmado
+    },
+]
+
+# Traducciones de términos comunes inglés → español para los params
+TERM_TRANSLATIONS = {
+    "military operations": "operaciones militares",
+    "ceasefire": "alto el fuego",
+    "nuclear": "nuclear",
+    "invasion": "invasión",
+    "election": "elección",
+    "president": "presidente",
+    "congress": "congreso",
+    "tariff": "arancel",
+    "oil price": "precio del petróleo",
+    "recession": "recesión",
+    "interest rate": "tasa de interés",
+    "sanctions": "sanciones",
+    "troops": "tropas",
+    "airstrike": "ataque aéreo",
+    "prime minister": "primer ministro",
+    "government": "gobierno",
+    "treaty": "tratado",
+}
+
+def is_blocked(title: str) -> bool:
+    low = title.lower()
+    return any(kw in low for kw in EXCLUDE_HARD)
+
+def is_geopolitical(title: str) -> bool:
+    low = title.lower()
+    return any(kw in low for kw in GEO_POSITIVE)
+
+def get_section(title: str) -> int:
+    """Retorna índice de sección (0-5). -1 si no aplica."""
+    low = title.lower()
+    for i, sec in enumerate(SECTIONS_DEF[:-1]):
+        if any(kw in low for kw in sec["keywords"] if kw):
+            return i
+    if is_geopolitical(title):
+        return len(SECTIONS_DEF) - 1  # fallback geopolítico
+    return -1
+
+def make_params_es(title: str, prob_pct: int) -> str:
+    """Genera params descriptivos en español basados en el título."""
+    low = title.lower()
+    prefix = "Alta probabilidad" if prob_pct >= 60 else ("Probabilidad moderada" if prob_pct >= 30 else "Baja probabilidad")
+    # Término dominante
+    for en, es in TERM_TRANSLATIONS.items():
+        if en in low:
+            return f"{prefix} según mercados de predicción. Escenario relacionado con {es}. Dato de mercado activo."
+    return f"{prefix} según mercados de predicción. Fuente: datos de mercado en tiempo real."
+
+def get_prob(market: dict):
+    ltp = market.get("lastTradePrice")
+    try:
+        if ltp is not None:
+            p = float(ltp)
+            if 0.03 <= p <= 0.97:
+                return p
+    except (TypeError, ValueError):
+        pass
+    op = market.get("outcomePrices", [])
+    try:
+        if op:
+            p = float(op[0])
+            if 0.03 <= p <= 0.97:
+                return p
+    except (TypeError, ValueError, IndexError):
+        pass
+    return None
+
+def prob_to_odds(prob: float) -> str:
+    p = min(max(prob, 0.0001), 0.9999)
+    if p > 0.5:
+        return str(int(-(p / (1 - p)) * 100))
+    else:
+        return f"+{int(((1 - p) / p) * 100)}"
+
+def fetch_ticker_news():
+    try:
+        url = "https://www.aljazeera.com/xml/rss/all.xml"
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        response = urllib.request.urlopen(req, timeout=10).read()
+        root = ET.fromstring(response)
+        items = root.findall(".//item")
+        headlines = []
+        for item in items[:20]:
+            t = item.find("title")
+            if t is not None and t.text and not is_blocked(t.text):
+                headlines.append(t.text.strip())
+            if len(headlines) >= 12:
+                break
+        return headlines if headlines else ["Sincronizando noticias geopolíticas..."]
+    except Exception as e:
+        print(f"[ticker] Error: {e}")
+        return ["Error conectando a red de noticias"]
+
+def fetch_polymarket_odds():
+    url = (
+        "https://gamma-api.polymarket.com/markets"
+        "?active=true&closed=false&limit=600&order=volume&ascending=false"
+    )
+    sections = [{**s, "rows": []} for s in SECTIONS_DEF]
+    placed_titles = set()
 
     try:
-        print("Generando análisis con Groq / LLaMA 3.3-70B...")
-        r = requests.post(GROQ_URL, headers=headers, json=payload, timeout=120)
-        r.raise_for_status()
-        raw  = r.json()["choices"][0]["message"]["content"]
-        clean = raw.strip().lstrip("```json").lstrip("```").rstrip("```").strip()
-        data  = json.loads(clean)
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        response = urllib.request.urlopen(req, timeout=20)
+        markets = json.loads(response.read())
 
-        # Garantías mínimas
-        data["lastUpdated"] = today
-        data.setdefault("sections", [])
-        data.setdefault("ticker", ["⚡ Actualizando fuentes..."])
-        data.setdefault("sources", [
-            {"name": "Groq / LLaMA 3.3-70B", "description": "Síntesis analítica.", "url": "https://groq.com"},
-        ])
-        data.setdefault("methodology", f"Análisis generado el {today} usando LLaMA 3.3-70B.")
+        for market in markets:
+            title = (market.get("question") or market.get("title") or "").strip()
+            if not title or title in placed_titles:
+                continue
+            if is_blocked(title):
+                continue
 
-        # Filtrar rows de entretenimiento/deportes en post-procesado
-        noise = [
-            "oscar","emmy","grammy","super bowl","nba","nfl","box office",
-            "celebrity","entertainment","sports","award","film festival",
-        ]
-        for section in data["sections"]:
-            original = len(section.get("rows", []))
-            section["rows"] = [
-                r for r in section.get("rows", [])
-                if not any(k in (r.get("event","") + r.get("params","")).lower() for k in noise)
-            ]
-            removed = original - len(section["rows"])
-            if removed:
-                print(f"  Filtrado {removed} rows de entretenimiento en '{section['label']}'")
+            sec_idx = get_section(title)
+            if sec_idx < 0:
+                continue  # No es geopolítico — descartar
 
-        out = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data.json")
-        with open(out, "w", encoding="utf-8") as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
+            prob = get_prob(market)
+            if prob is None:
+                continue
 
-        total_rows = sum(len(s.get("rows", [])) for s in data["sections"])
-        print(f"Éxito. {len(data['sections'])} secciones, {total_rows} escenarios generados.")
+            odds_str = prob_to_odds(prob)
+            prob_pct  = round(prob * 100)
+
+            row = {
+                "event":  title,
+                "odds":   odds_str,
+                "params": make_params_es(title, prob_pct),
+                "moved":  "none",
+            }
+
+            sec = sections[sec_idx]
+            if len(sec["rows"]) < 8:
+                sec["rows"].append(row)
+                placed_titles.add(title)
+
+        final = []
+        for sec in sections:
+            if sec["rows"]:
+                final.append({"flag": sec["flag"], "label": sec["label"], "rows": sec["rows"]})
+        return final
 
     except Exception as e:
-        print(f"Error: {str(e)}")
-        sys.exit(1)
+        print(f"[polymarket] Error: {e}")
+        return [{"flag": "⚠️", "label": "ERROR", "rows": [{"event": f"Error: {e}", "odds": "N/A", "params": "", "moved": "none"}]}]
+
 
 if __name__ == "__main__":
-    main()
+    now = datetime.utcnow()
+    meses = ["","enero","febrero","marzo","abril","mayo","junio",
+             "julio","agosto","septiembre","octubre","noviembre","diciembre"]
+    ts = now.strftime(f"%d de {meses[now.month]} de %Y — %H:%M UTC")
+
+    print("Obteniendo noticias del ticker...")
+    ticker = fetch_ticker_news()
+
+    print("Obteniendo datos de Polymarket (solo contenido geopolítico)...")
+    sections = fetch_polymarket_odds()
+
+    output = {"lastUpdated": ts, "ticker": ticker, "sections": sections}
+
+    with open("data.json", "w", encoding="utf-8") as f:
+        json.dump(output, f, ensure_ascii=False, indent=2)
+
+    total = sum(len(s["rows"]) for s in sections)
+    print(f"data.json generado: {len(sections)} secciones, {total} eventos.")
