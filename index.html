@@ -218,61 +218,33 @@ function EventCard({ row, onDraftChange, onCommit, isEven }) {
 // ── SVG NEWS CARDS (panel lateral) ───────────────────────────────────────────
 const NEWS_CARDS = [
   {
-    tag: "RELOJ DEL JUICIO FINAL",
-    tagColor: "#7B1D1D",
-    bg: "#080808",
-    headline: "85 segundos para medianoche",
-    sub: "El más cercano a midnight en 78 años. Bulletin of Atomic Scientists — 27 ene 2026",
+    tag: "LÍNEA DEL TIEMPO",
+    tagColor: "#1B3A6B",
+    bg: "#050a14",
+    headline: "Escalada 2024–2026: cronología del conflicto",
+    sub: "Principales hitos que acercaron el mundo al umbral nuclear actual.",
     Scene: () => (
       <svg width="100%" height="100%" viewBox="0 0 400 175" xmlns="http://www.w3.org/2000/svg">
-        <rect width="400" height="175" fill="#080808"/>
-        {/* Fondo radial */}
-        <defs>
-          <radialGradient id="ddc" cx="30%" cy="50%" r="55%">
-            <stop offset="0%" stopColor="#3A0000" stopOpacity="0.9"/>
-            <stop offset="100%" stopColor="#080808" stopOpacity="0"/>
-          </radialGradient>
-        </defs>
-        <rect width="400" height="175" fill="url(#ddc)"/>
-        {/* Reloj */}
-        <circle cx="90" cy="88" r="65" fill="#111" stroke="#2a2a2a" strokeWidth="2"/>
-        <circle cx="90" cy="88" r="60" fill="none" stroke="#1a1a1a" strokeWidth="1"/>
-        {/* Marcas de minutos */}
-        {Array.from({length:60},(_,i)=>{
-          const ang=(i/60)*Math.PI*2-Math.PI/2;
-          const r1=i%5===0?48:52,r2=57;
-          return <line key={i} x1={90+Math.cos(ang)*r1} y1={88+Math.sin(ang)*r1} x2={90+Math.cos(ang)*r2} y2={88+Math.sin(ang)*r2} stroke={i%5===0?"#555":"#333"} strokeWidth={i%5===0?1.5:0.7}/>;
-        })}
-        {/* Manecilla — casi en 12, a 85 seg = 1 min 25 seg → ~357.6° → casi pero no exactamente 12 */}
-        {(() => {
-          const totalSec = 85;
-          const ang = ((-totalSec/60)/60)*Math.PI*2 - Math.PI/2 + Math.PI*2;
-          return <line x1="90" y1="88" x2={90+Math.cos(ang)*45} y2={88+Math.sin(ang)*45} stroke="#CC0000" strokeWidth="3" strokeLinecap="round"/>;
-        })()}
-        {/* Segundero */}
-        {(() => {
-          const totalSec = 85 % 60;
-          const ang = (totalSec/60)*Math.PI*2 - Math.PI/2;
-          return <line x1="90" y1="88" x2={90+Math.cos(ang)*50} y2={88+Math.sin(ang)*50} stroke="#FF4444" strokeWidth="1" strokeLinecap="round" opacity="0.7"/>;
-        })()}
-        <circle cx="90" cy="88" r="4" fill="#CC0000"/>
-        <circle cx="90" cy="88" r="2" fill="#FF4444"/>
-        {/* XII en la parte superior */}
-        <text x="90" y="38" textAnchor="middle" fontFamily="serif" fontSize="11" fill="#888" fontWeight="bold">XII</text>
-        {/* Texto lateral */}
-        <text x="230" y="55" fontFamily="monospace" fontSize="26" fill="#CC0000" fontWeight="bold" letterSpacing="-1">85</text>
-        <text x="230" y="72" fontFamily="monospace" fontSize="9" fill="#FF9999" letterSpacing="1">SEGUNDOS</text>
-        <text x="230" y="84" fontFamily="monospace" fontSize="9" fill="#FF9999" letterSpacing="1">PARA</text>
-        <text x="230" y="96" fontFamily="monospace" fontSize="9" fill="#FF9999" letterSpacing="1">MEDIANOCHE</text>
-        <line x1="225" y1="104" x2="385" y2="104" stroke="#3A0000" strokeWidth="1"/>
-        <text x="230" y="118" fontFamily="monospace" fontSize="8" fill="#666">Récord histórico</text>
-        <text x="230" y="130" fontFamily="monospace" fontSize="8" fill="#666">desde 1947</text>
-        <text x="230" y="148" fontFamily="monospace" fontSize="7" fill="#444">Bulletin of Atomic Scientists</text>
-        <text x="230" y="160" fontFamily="monospace" fontSize="7" fill="#444">27 enero 2026</text>
+        <rect width="400" height="175" fill="#050a14"/>
+        <line x1="30" y1="20" x2="30" y2="165" stroke="#1B3A6B" strokeWidth="2"/>
+        {[
+          {y:28,  c:"#7B1D1D", yr:"Oct 2023", txt:"Estallido conflicto Gaza — HAMAS ataca Israel"},
+          {y:54,  c:"#7B4A00", yr:"Abr 2024", txt:"Irán lanza 300+ drones directamente a Israel"},
+          {y:80,  c:"#7B1D1D", yr:"Sep 2024", txt:"Nasrallah eliminado; Hezbollah descabezado"},
+          {y:106, c:"#CC4400", yr:"Ene 2026", txt:"Khamenei muerto; IRGC en estado de emergencia"},
+          {y:132, c:"#CC0000", yr:"Feb 2026", txt:"Ataques de EE.UU. e Israel en suelo iraní"},
+          {y:155, c:"#FF4444", yr:"Mar 2026", txt:"Reloj del Juicio Final: 85 seg. — récord 1947"},
+        ].map((e,i)=>(
+          <g key={i}>
+            <circle cx="30" cy={e.y} r="5" fill={e.c}/>
+            <text x="42" y={e.y-5} fontFamily="monospace" fontSize="8" fill={e.c} fontWeight="bold">{e.yr}</text>
+            <text x="42" y={e.y+7} fontFamily="sans-serif" fontSize="8.5" fill="#BBBBBB">{e.txt}</text>
+          </g>
+        ))}
       </svg>
     ),
   },
-  {
+    {
     tag: "RIESGO NUCLEAR",
     tagColor: "#7B1D1D",
     bg: "#050508",
@@ -382,39 +354,37 @@ const NEWS_CARDS = [
     ),
   },
   {
-    tag: "FUENTE DE DATOS",
-    tagColor: "#1B5E38",
-    bg: "#05100a",
-    headline: "Datos de Polymarket + análisis de IA",
-    sub: "Los datos se actualizan automáticamente. Puramente especulativo — no es asesoramiento financiero.",
+    tag: "ACERCA DEL TABLERO",
+    tagColor: "#7B4A00",
+    bg: "#0c0a06",
+    headline: "Fin del Mundo — Tablero de Probabilidades",
+    sub: "Creado por Adrián Roffiel · Febrero 2026 · México",
     Scene: () => (
       <svg width="100%" height="100%" viewBox="0 0 400 175" xmlns="http://www.w3.org/2000/svg">
-        <rect width="400" height="175" fill="#05100a"/>
-        {/* Diagrama de flujo de datos */}
-        {/* Polymarket */}
-        <rect x="10" y="30" width="110" height="40" fill="rgba(27,94,56,0.2)" rx="4" stroke="#1B5E38" strokeWidth="1"/>
-        <text x="65" y="47" textAnchor="middle" fontFamily="monospace" fontSize="9" fill="#1B5E38" fontWeight="bold">POLYMARKET</text>
-        <text x="65" y="60" textAnchor="middle" fontFamily="monospace" fontSize="8" fill="#666">API en vivo</text>
-        {/* Al Jazeera */}
-        <rect x="10" y="100" width="110" height="40" fill="rgba(123,29,29,0.2)" rx="4" stroke="#7B1D1D" strokeWidth="1"/>
-        <text x="65" y="117" textAnchor="middle" fontFamily="monospace" fontSize="9" fill="#7B1D1D" fontWeight="bold">AL JAZEERA</text>
-        <text x="65" y="130" textAnchor="middle" fontFamily="monospace" fontSize="8" fill="#666">RSS noticias</text>
-        {/* Flechas */}
-        <line x1="120" y1="50" x2="170" y2="85" stroke="#1B5E38" strokeWidth="1.5" strokeDasharray="4,2"/>
-        <line x1="120" y1="120" x2="170" y2="90" stroke="#7B1D1D" strokeWidth="1.5" strokeDasharray="4,2"/>
-        {/* Procesador */}
-        <rect x="170" y="65" width="90" height="40" fill="rgba(27,58,107,0.3)" rx="4" stroke="#1B3A6B" strokeWidth="1"/>
-        <text x="215" y="82" textAnchor="middle" fontFamily="monospace" fontSize="9" fill="#1B3A6B" fontWeight="bold">Python</text>
-        <text x="215" y="95" textAnchor="middle" fontFamily="monospace" fontSize="8" fill="#666">data.json</text>
-        {/* Flecha salida */}
-        <line x1="260" y1="85" x2="310" y2="85" stroke="#7AACCF" strokeWidth="1.5" strokeDasharray="4,2"/>
-        <polygon points="310,82 318,85 310,88" fill="#7AACCF"/>
-        {/* Frontend */}
-        <rect x="318" y="65" width="72" height="40" fill="rgba(122,172,207,0.2)" rx="4" stroke="#7AACCF" strokeWidth="1"/>
-        <text x="354" y="82" textAnchor="middle" fontFamily="monospace" fontSize="9" fill="#7AACCF" fontWeight="bold">HTML</text>
-        <text x="354" y="95" textAnchor="middle" fontFamily="monospace" fontSize="7" fill="#666">Tablero</text>
-        {/* Labels */}
-        <text x="200" y="155" textAnchor="middle" fontFamily="monospace" fontSize="8" fill="#444">Activa cada hora via GitHub Actions</text>
+        <rect width="400" height="175" fill="#0c0a06"/>
+        <defs>
+          <radialGradient id="abg" cx="50%" cy="50%" r="60%">
+            <stop offset="0%" stopColor="#3A2000" stopOpacity="0.7"/>
+            <stop offset="100%" stopColor="#0c0a06" stopOpacity="0"/>
+          </radialGradient>
+        </defs>
+        <rect width="400" height="175" fill="url(#abg)"/>
+        <text x="200" y="40" textAnchor="middle" fontFamily="Georgia, serif" fontSize="17" fill="#D4A855" fontWeight="bold" letterSpacing="1">FIN DEL MUNDO</text>
+        <text x="200" y="58" textAnchor="middle" fontFamily="Georgia, serif" fontSize="11" fill="#8A7040" letterSpacing="3">TABLERO DE PROBABILIDADES</text>
+        <line x1="60" y1="68" x2="340" y2="68" stroke="#3A2800" strokeWidth="1"/>
+        {[
+          {y:88,  txt:"Síntesis analítica — no replica mercados de predicción"},
+          {y:104, txt:"Cuotas americanas con base rate histórica analítica"},
+          {y:120, txt:"Actualización automática cada hora via GitHub Actions"},
+          {y:136, txt:"Al Jazeera · Reuters · BBC · AP — 4 fuentes RSS"},
+        ].map((l,i)=>(
+          <g key={i}>
+            <text x="32" y={l.y} fontFamily="sans-serif" fontSize="9.5" fill="#8A7040">·</text>
+            <text x="42" y={l.y} fontFamily="sans-serif" fontSize="9.5" fill="#AAA">{l.txt}</text>
+          </g>
+        ))}
+        <line x1="60" y1="148" x2="340" y2="148" stroke="#3A2800" strokeWidth="1"/>
+        <text x="200" y="163" textAnchor="middle" fontFamily="monospace" fontSize="9" fill="#5A4820">creado por adrián roffiel · febrero 2026 · méxico</text>
       </svg>
     ),
   },
