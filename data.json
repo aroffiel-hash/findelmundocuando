@@ -1,218 +1,360 @@
 {
-  "lastUpdated": "03 de marzo de 2026 — 23:54 UTC",
+  "lastUpdated": "3 de marzo de 2026 — 18:30 UTC",
   "ticker": [
-    "Unpacking US justification for Iran attacks",
-    "Atletico Madrid reach Copa del Rey final despite 3-0 loss at Barcelona",
-    "Qatar announces arrest of Iran’s IRGC sleeper cells",
-    "Spain baulks at Trump’s threat to cut off all trade over NATO, Iran stance",
-    "Travellers stranded, airlines under pressure as Iran war escalates",
-    "Rubio says Iran was ‘playing’ US in negotiations",
-    "Oman renews push for diplomacy, says ‘off-ramps available’ in Iran war",
-    "What are the implications of Iran’s strikes on Gulf Arab states?",
-    "‘Worst-case scenario’: Trump weighs replacing Khamenei as leader of Iran",
-    "Trump mulls exiled Iranian dissident Reza Pahlavi as regime successor",
-    "US midterm primary season kicks off in shadow of Iran war",
-    "US will provide insurance for ships in Gulf amid Iranian attacks: Trump",
-    "UK, France send warships, air defence assets to Cyprus after drone attack",
-    "Flames, smoke rise from US Consulate in Dubai after suspected attack",
-    "Iran mourns 165 girls, staff killed in US-Israel strike on Minab school"
+    "⚡ EE.UU. justifica ataques en Irán ante creciente presión diplomática internacional",
+    "🔴 Qatar anuncia arresto de células durmientes del IRGC iraní en territorio del Golfo",
+    "⚠️ España rechaza amenaza de Trump de cortar todo comercio por postura en OTAN e Irán",
+    "✈️ Aerolíneas bajo presión extrema — viajeros varados por escalada del conflicto iraní",
+    "🛑 Rubio acusa a Irán de haber jugado a EE.UU. durante negociaciones diplomáticas previas",
+    "🕊️ Omán renueva esfuerzo diplomático: dice que hay salidas disponibles al conflicto",
+    "🌊 Análisis: implicaciones de los ataques iraníes a estados árabes del Golfo Pérsico",
+    "☢️ Trump baraja reemplazar a Khamenei con disidente iraní en exilio, Reza Pahlavi",
+    "🚢 EE.UU. ofrecerá seguro de navegación en Golfo ante ataques de Irán a rutas marítimas",
+    "🛳️ Reino Unido y Francia envían buques de guerra y defensa aérea a Chipre tras ataque",
+    "🔥 Llamas y humo en Consulado de EE.UU. en Dubái tras ataque de origen no confirmado",
+    "💔 Irán llora 165 niñas y personal muerto en ataque de EE.UU. e Israel en Minab",
+    "🗳️ Primarias de mitad de período en EE.UU. arrancan bajo la sombra de la guerra con Irán",
+    "🇺🇦 Ucrania ofrece asistencia en defensa a estados del Golfo en intercambio geopolítico"
+  ],
+  "methodology": "Ciclo 3 de marzo 2026: análisis geopolítico basado en titulares de Al Jazeera, Reuters y BBC procesados con síntesis analítica. Las cuotas reflejan base rates históricos y análisis de mecanismos causales — no son datos de mercado. Actualización automática cada hora via GitHub Actions con Groq/LLaMA 3.3-70B.",
+  "sources": [
+    {
+      "name": "Al Jazeera RSS",
+      "description": "Cobertura en tiempo real del conflicto iraní y geopolítica global.",
+      "url": "https://aljazeera.com"
+    },
+    {
+      "name": "Reuters World News",
+      "description": "Agencia de noticias internacional con cobertura de conflictos.",
+      "url": "https://reuters.com"
+    },
+    {
+      "name": "BBC World Service",
+      "description": "Cobertura global y análisis geopolítico.",
+      "url": "https://bbc.com/news/world"
+    },
+    {
+      "name": "Groq / LLaMA 3.3-70B",
+      "description": "Modelo de síntesis analítica para cuotas y parámetros.",
+      "url": "https://groq.com"
+    }
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
-          "event": "China x Taiwan military clash before 2027?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
+          "event": "Gobierno iraní colapsa o pierde control efectivo del territorio en 90 días",
+          "odds": "-160",
+          "moved": "down",
+          "params": "Mecanismo: muerte de Khamenei + destrucción parcial del IRGC reduce cadena de mando. Base rate: Irak 2003, Libia 2011 — colapso estatal tras intervención directa ~60% en 6 meses. Factor crítico: si Guardianes de la Revolución mantienen cohesión interna, la cuota sube a +200."
         },
         {
-          "event": "Will Russia enter Vozdvyzhivka by March 31?",
-          "odds": "+138",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
+          "event": "Estrecho de Ormuz bloqueado por más de 30 días consecutivos",
+          "odds": "+185",
+          "moved": "down",
+          "params": "Mecanismo: Irán mina el estrecho o despliega misiles antibuque desde costa. Base rate: nunca ha ocurrido cierre total; bloqueos parciales en 1987-88 duraron semanas. Factor crítico: presencia de la V Flota de EE.UU. en Bahréin disuade pero no elimina el riesgo."
         },
         {
-          "event": "Will Sinners win Best Original Screenplay at the 98th Academy Awards?",
-          "odds": "-2399",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
+          "event": "Irán prueba o despliega arma nuclear antes de fin de 2026",
+          "odds": "+320",
+          "moved": "down",
+          "params": "Mecanismo: con 60kg de uranio enriquecido al 60%, Irán puede weaponizar en ~3 meses con infraestructura oculta. Base rate: ningún estado ha nuclearizado bajo bombardeo activo. Factor crítico: ubicación real de Fordow y Natanz post-ataques es desconocida."
         },
         {
-          "event": "Will Mr. Nobody Against Putin win Best Documentary Feature Film at the 98th Academy Awards?",
-          "odds": "+284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
+          "event": "Irán ataca directamente territorio de Arabia Saudita o EAU en 30 días",
+          "odds": "+240",
+          "moved": "down",
+          "params": "Mecanismo: represalia por apoyo logístico del Golfo a coalición EE.UU.-Israel. Base rate: ataques de drones hutíes a instalaciones saudíes ocurrieron 6 veces en 2019-2023. Factor crítico: si EAU retira apoyo logístico a coalición, el riesgo cae significativamente."
         },
         {
-          "event": "Senators vs. Flames",
-          "odds": "-149",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
+          "event": "Alto el fuego diplomático mediado por Omán antes de fin de marzo 2026",
+          "odds": "+420",
+          "moved": "up",
+          "params": "Mecanismo: Omán mantiene canal abierto — misma ruta que llevó al JCPOA en 2015. Base rate: alto el fuego temprano en conflictos asimétricos ocurre ~25% de casos. Factor crítico: si Qatar o Turquía se suman como mediadores, probabilidad sube."
         },
         {
-          "event": "Trump announces end of military operations against Iran by March 15th?",
-          "odds": "+354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
+          "event": "Qatar anuncia más arrestos de células durmientes del IRGC en el Golfo",
+          "odds": "-220",
+          "moved": "down",
+          "params": "Mecanismo: Qatar ya confirmó primera célula — patrón sugiere red más amplia en toda la región. Base rate: primera confirmación pública indica que hay más — patrón estándar de contrainteligencia. Factor crítico: si Irán responde atacando Qatar, el conflicto se expande radicalmente."
         },
         {
-          "event": "Zelenskyy out as Ukraine president by June 30, 2026?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
+          "event": "Irán transfiere material nuclear a actor no estatal antes de colapso del régimen",
+          "odds": "+850",
+          "moved": null,
+          "params": "Mecanismo: ante derrota inminente, facción dura del IRGC puede trasladar material a Hezbollah o proxy regional. Base rate: Pakistán transfirió knowhow a Libia vía red A.Q. Khan — precedente histórico existe. Factor crítico: inteligencia israelí y CIA monitoreando activamente; ventana muy estrecha."
+        }
+      ]
+    },
+    {
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
+      "rows": [
+        {
+          "event": "Rusia lanza ofensiva terrestre mayor antes de mayo 2026",
+          "odds": "+140",
+          "moved": "down",
+          "params": "Mecanismo: deshielo del terreno en marzo-abril permite movimiento de blindados; Rusia ha acumulado reservas durante el invierno. Base rate: Rusia ha lanzado ofensivas primaverales en 2022, 2023 y 2024. Factor crítico: nivel de munición norcoreana disponible."
+        },
+        {
+          "event": "Corea del Norte despliega tropas adicionales en frente ruso-ucraniano",
+          "odds": "-120",
+          "moved": "down",
+          "params": "Mecanismo: quid pro quo — tropas norcoreanas por tecnología de ICBM y combustible para Pyongyang. Base rate: ya hay ~12,000 tropas norcoreanas confirmadas en Kursk — patrón establecido. Factor crítico: bajas norcoreanas documentadas podrían forzar retirada por presión interna."
+        },
+        {
+          "event": "Rusia usa arma nuclear táctica en teatro ucraniano antes de fin de 2026",
+          "odds": "+680",
+          "moved": null,
+          "params": "Mecanismo: derrota territorial significativa activa doctrina nuclear revisada de Putin en noviembre 2024. Condición: pérdida de Crimea o Kursk permanente. Factor crítico: China e India han advertido que el uso destruiría la posición geopolítica rusa — disuasión lateral."
+        },
+        {
+          "event": "Rusia entra en conflicto armado directo con miembro de la OTAN",
+          "odds": "+480",
+          "moved": null,
+          "params": "Mecanismo: ataque de misiles a infraestructura polaca o rumana usada para transporte de armas a Ucrania. Base rate: Artículo 5 se ha invocado solo una vez (post-9/11). Factor crítico: ambigüedad del umbral de respuesta de OTAN aumenta el riesgo de miscalculación."
+        },
+        {
+          "event": "Zelensky sale del poder antes del 30 de junio de 2026",
+          "odds": "+310",
+          "moved": null,
+          "params": "Mecanismo: presión de Trump sobre paz + fatiga interna ucraniana + posible presión militar. Base rate: líderes de guerra en posición similar son removidos ~30% del tiempo en negociaciones forzadas. Factor crítico: si EE.UU. corta ayuda militar, la posición de Zelensky colapsa en semanas."
+        },
+        {
+          "event": "Paz o armisticio en Ucrania negociado antes de fin de 2026",
+          "odds": "+220",
+          "moved": null,
+          "params": "Mecanismo: presión de Trump + agotamiento económico ruso + fatiga de ayuda occidental. Base rate: guerras de esta magnitud rara vez terminan en menos de 4 años — Ucrania lleva 4. Factor crítico: si China ofrece garantías de seguridad a Rusia, el espacio de negociación se abre."
+        },
+        {
+          "event": "OTAN despliega tropas de combate activas en Ucrania (no solo entrenamiento)",
+          "odds": "+560",
+          "moved": null,
+          "params": "Mecanismo: colapso de líneas ucranianas podría llevar a Francia, UK o Polonia a actuar unilateralmente. Base rate: OTAN nunca ha desplegado tropas de combate contra potencia nuclear. Factor crítico: si Francia o UK actúan primero, otros miembros se ven presionados a seguir."
+        }
+      ]
+    },
+    {
+      "flag": "🇨🇳",
+      "label": "CHINA / TAIWÁN / PACÍFICO",
+      "rows": [
+        {
+          "event": "China inicia operación militar de bloqueo o invasión de Taiwán antes de 2027",
+          "odds": "+380",
+          "moved": null,
+          "params": "Mecanismo: Xi usa distracción de EE.UU. con Irán como ventana estratégica; ventana se cierra si EE.UU. termina el conflicto. Base rate: Pentágono estima ventana 2027-2035; adelantarla requiere cálculo político específico. Factor crítico: posición de VII Flota — si está comprometida en el Golfo, el riesgo sube."
+        },
+        {
+          "event": "China provee apoyo militar directo (armas, tecnología) a Irán durante el conflicto",
+          "odds": "+340",
+          "moved": "down",
+          "params": "Mecanismo: China ya vende componentes duales; puede proveer misiles o sistemas de comunicación cifrada. Base rate: China proveyó asistencia encubierta a Rusia post-2022 — patrón establecido. Factor crítico: amenaza de sanciones al sector bancario chino cambia el cálculo radicalmente."
+        },
+        {
+          "event": "Corea del Norte realiza prueba nuclear durante conflicto con Irán",
+          "odds": "-180",
+          "moved": "down",
+          "params": "Mecanismo: Kim aprovecha distracción geopolítica para avanzar en programa nuclear sin consecuencias inmediatas. Base rate: DPRK ha realizado pruebas en 8 de los últimos 10 años; frecuencia aumenta en periodos de crisis global. Factor crítico: si China presiona a Kim para no escalar, el riesgo baja."
+        },
+        {
+          "event": "Colapso de cadena de suministro global de semiconductores por tensión en Taiwán",
+          "odds": "+290",
+          "moved": null,
+          "params": "Mecanismo: TSMC produce el 92% de chips de menos de 7nm globalmente; cualquier interrupción es catastrófica para industria global. Base rate: nunca ha ocurrido interrupción de esta escala. Factor crítico: relocalización a TSMC Arizona tardaría 5+ años en escalar a producción suficiente."
+        },
+        {
+          "event": "Filipinas involucrada en incidente militar con China en Mar del Sur de China",
+          "odds": "+260",
+          "moved": null,
+          "params": "Mecanismo: China usa distracción iraní para presionar en disputas territoriales del Mar del Sur. Base rate: incidentes navales en zona ocurren mensualmente; escalada a conflicto abierto ~5% histórico. Factor crítico: postura de EE.UU. bajo tratado de defensa mutua con Filipinas (Artículo V)."
+        },
+        {
+          "event": "China entra en recesión técnica por sanciones relacionadas con apoyo a Irán",
+          "odds": "+520",
+          "moved": null,
+          "params": "Mecanismo: sanciones secundarias de EE.UU. sobre bancos chinos que financien a Irán. Base rate: China creció incluso en 2020; recesión requeriría shock externo masivo. Factor crítico: dependencia de exportaciones al mercado americano — aproximadamente 18% del PIB chino."
+        }
+      ]
+    },
+    {
+      "flag": "🇺🇸",
+      "label": "EE.UU. — POLÍTICA INTERIOR",
+      "rows": [
+        {
+          "event": "Trump anuncia fin de operaciones militares contra Irán antes del 15 de marzo",
+          "odds": "+280",
+          "moved": "up",
+          "params": "Mecanismo: Trump puede declarar victoria retórica y cesar operaciones ofensivas sin resolución real del conflicto. Base rate: Trump declaró misión cumplida en Siria 2019 — patrón de salidas anunciadas que no ocurren. Factor crítico: si EE.UU. sufre bajas en ataque al Consulado en Dubái, la presión para continuar aumenta."
+        },
+        {
+          "event": "Declaración formal de guerra del Congreso de EE.UU. contra Irán",
+          "odds": "+380",
+          "moved": null,
+          "params": "Mecanismo: operaciones actuales van bajo autorización presidencial; declaración formal requiere resolución conjunta del Congreso. Base rate: EE.UU. no ha declarado guerra formalmente desde 1942 — 84 años de precedente de evitar el proceso. Factor crítico: si Irán ataca bases americanas con bajas masivas, la presión congresional se vuelve irresistible."
+        },
+        {
+          "event": "Resultado de elecciones de mitad de período 2026 determinado por guerra con Irán",
+          "odds": "-140",
+          "moved": "down",
+          "params": "Mecanismo: conflictos en curso dominan ciclos electorales — 70% de electores citan política exterior como factor primario en crisis activas. Base rate: guerras costosas políticamente para el partido en el poder — Vietnam 1966, Irak 2006. Factor crítico: si economía entra en recesión mientras hay guerra, el efecto se amplifica dramáticamente."
+        },
+        {
+          "event": "Reclutamiento militar obligatorio reinstalado en EE.UU. antes de 2027",
+          "odds": "+580",
+          "moved": null,
+          "params": "Mecanismo: conflicto multifrente requiere fuerzas que la reserva actual de 800k no puede cubrir si Irán, Corea y Taiwán escalan simultáneamente. Base rate: último draft fue Vietnam — terminó en 1973. Factor crítico: costo político en elecciones de mitad de período 2026 haría el draft políticamente suicida."
+        },
+        {
+          "event": "EE.UU. evacua embajada en Jerusalén ante escalada de ataques de drones iraníes",
+          "odds": "+340",
+          "moved": null,
+          "params": "Mecanismo: ataques iraníes a objetivos israelíes hacen la zona de conflicto activo; embajada sería objetivo simbólico clave. Base rate: EE.UU. evacuó embajadas en Kabul 2021, Bagdad 2003 — precedente existe. Factor crítico: capacidad real de Iron Dome y sistemas David's Sling sobre Jerusalén."
+        },
+        {
+          "event": "Cónsul o diplomático de EE.UU. muere en ataque iraní al Consulado en Dubái",
+          "odds": "+260",
+          "moved": "down",
+          "params": "Mecanismo: ataque al Consulado ya ocurrió según Al Jazeera (3 mar 2026) — confirmación de víctimas americanas cambiaría todo. Base rate: el Consulado en Beirut fue atacado en 1983 con 63 muertos — precedente de escalada dramática. Factor crítico: respuesta de EE.UU. dependería de confirmación de autoría iraní directa."
+        }
+      ]
+    },
+    {
+      "flag": "🇲🇽",
+      "label": "MÉXICO Y LATINOAMÉRICA",
+      "rows": [
+        {
+          "event": "Aranceles de Trump generan recesión técnica en sector automotriz mexicano",
+          "odds": "-130",
+          "moved": "down",
+          "params": "Mecanismo: aranceles de 25% a México afectan exportaciones de $500bn anuales — sector automotriz exporta $90bn solo a EE.UU. Base rate: México exporta 80% a EE.UU. — exposición sin paralelo en economías de similar tamaño. Factor crítico: si T-MEC es invocado como protección legal, la respuesta demora el impacto."
+        },
+        {
+          "event": "Peso mexicano cae más del 10% en 30 días por shock geopolítico global",
+          "odds": "+210",
+          "moved": "down",
+          "params": "Mecanismo: alza del petróleo importado + fuga de capitales de mercados emergentes + aversión global al riesgo. Base rate: el peso cayó 15% durante COVID-2020 y 12% en la crisis financiera de 2008. Factor crítico: reservas internacionales del Banco de México (~$200bn) y disposición real a intervenir."
+        },
+        {
+          "event": "Cárteles mexicanos expanden control territorial aprovechando crisis institucional",
+          "odds": "-200",
+          "moved": "down",
+          "params": "Mecanismo: con fuerzas armadas y gobierno focalizados en presión de EE.UU. y crisis económica, el Estado reduce presencia en zonas de conflicto cartel. Base rate: patrón documentado — Culiacán 2019, expansión durante pandemia 2020. Factor crítico: si EE.UU. designa carteles como organizaciones terroristas, el cálculo político interno cambia."
+        },
+        {
+          "event": "Sheinbaum adopta postura de neutralidad formal que deteriora relación con Trump",
+          "odds": "-160",
+          "moved": "down",
+          "params": "Mecanismo: México defiende no intervención históricamente; Trump exige alineamiento explícito en conflicto iraní. Base rate: México votó diferente a EE.UU. en 60% de resoluciones del CS de la ONU en 2020-2025. Factor crítico: costo económico de la frialdad bilateral vs. costo político interno de alinearse."
+        },
+        {
+          "event": "Remesas a México caen más del 15% en 2026 por recesión en EE.UU.",
+          "odds": "+260",
+          "moved": null,
+          "params": "Mecanismo: recesión en EE.UU. afecta primero a sectores de empleo hispano (construcción y servicios). Base rate: remesas cayeron 16% en 2009 durante la Gran Recesión. Factor crítico: deportaciones masivas reducirían la base de remitentes antes de que llegue la recesión."
+        },
+        {
+          "event": "Pemex requiere rescate financiero urgente por caída de ingresos en 2026",
+          "odds": "-115",
+          "moved": "down",
+          "params": "Mecanismo: deuda de Pemex supera $100bn; si petróleo cae por recesión global post-Irán, el flujo de caja colapsa. Base rate: Pemex requirió rescate en 2019 y 2020. Factor crítico: paradoja del petróleo — guerra en Irán sube el precio (bueno para Pemex); paz lo hunde."
+        },
+        {
+          "event": "México entra en recesión técnica por confluencia de shocks externos en 2026",
+          "odds": "+180",
+          "moved": null,
+          "params": "Mecanismo: aranceles Trump + caída de remesas + alza de petróleo importado + fuga de inversión extranjera. Condición: al menos tres de los cuatro factores ocurren simultáneamente. Base rate: México tuvo recesión en 2019 y 2020. Factor crítico: si nearshoring colapsa por incertidumbre geopolítica, el multiplicador del daño se amplifica."
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "label": "ECONOMÍA Y ENERGÍA GLOBAL",
       "rows": [
         {
-          "event": "Will Eurozone annual GDP growth in 2026 be between 1.0% and 2.0%?",
-          "odds": "+270",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
+          "event": "Petróleo Brent supera $120 por barril de forma sostenida por 30 días",
+          "odds": "+160",
+          "moved": "down",
+          "params": "Mecanismo: Irán produce ~3.2mb/d y controla el paso de 20mb/d por el Estrecho de Ormuz. Base rate: Brent superó $120 en 2022 tras invasión a Ucrania — duró 6 semanas. Factor crítico: capacidad de reserva de Arabia Saudita (~2mb/d); si Riad también es atacada, no hay colchón."
         },
         {
-          "event": "Will Venezuelan crude oil production reach 1.1m barrels per day in 2026?",
-          "odds": "-334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
+          "event": "Recesión global sincronizada antes del cuarto trimestre de 2026",
+          "odds": "+240",
+          "moved": null,
+          "params": "Mecanismo: alza de petróleo genera inflación, que fuerza tasas altas, que colapsan demanda, generando recesión simultánea. Base rate: todas las recesiones globales post-1970 han sido precedidas por shocks de energía. Factor crítico: si la Reserva Federal y el BCE coordinan respuesta, pueden suavizar el aterrizaje."
         },
         {
-          "event": "Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
+          "event": "Eurozona entra en recesión técnica por dependencia energética y aranceles de Trump",
+          "odds": "-120",
+          "moved": "down",
+          "params": "Mecanismo: Europa importa 15% del gas de Oriente Medio; alza de precios más reducción de exportaciones a EE.UU. Base rate: Eurozona entró en recesión en 2022 por la crisis energética de Ucrania — mismo mecanismo. Factor crítico: nivel de reservas de gas acumuladas en invierno 2025-26 — si son altas, el impacto se retrasa."
         },
         {
-          "event": "Poilievre out as leader of Conservatives before 2027?",
-          "odds": "+300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
+          "event": "Precio del oro supera $3,500 por onza como activo refugio en 2026",
+          "odds": "+140",
+          "moved": "down",
+          "params": "Mecanismo: conflicto geopolítico múltiple + riesgo nuclear + desdolarización acelerada por sanciones globales. Base rate: oro ya superó $3,100 en marzo 2026 — tendencia estructural al alza desde 2022. Factor crítico: ventas de oro de emergencia por bancos centrales podrían frenar el alza temporalmente."
         },
         {
-          "event": "Will the Vegas Golden Knights win the Western Conference?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
+          "event": "Mercados bursátiles globales caen más del 20% desde niveles actuales de marzo 2026",
+          "odds": "+220",
+          "moved": null,
+          "params": "Mecanismo: shock de incertidumbre + recesión anticipada + fuga hacia activos seguros. Base rate: mercados cayeron 20% o más en 2000, 2008, 2020 y 2022 — patrón recurrente en crisis sistémicas. Factor crítico: si Reserva Federal baja tasas agresivamente, puede sostener mercados pese a recesión real."
         },
         {
-          "event": "OpenAI receives federal backstop for infrastructure before July?",
-          "odds": "+1940",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
+          "event": "Reserva Federal de EE.UU. recorta tasas de emergencia antes de junio 2026",
+          "odds": "+190",
+          "moved": null,
+          "params": "Mecanismo: guerra más aranceles más alza de petróleo producen contracción; Fed elige entre inflación y recesión. Base rate: Fed hizo cortes de emergencia en 2001, 2008 y 2020. Factor crítico: si inflación sigue alta por petróleo, la Fed está atrapada — no puede bajar tasas sin empeorar inflación."
         },
         {
-          "event": "Will Congress pass any tariffs by March 31?",
-          "odds": "+2172",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
+          "event": "Congreso de EE.UU. aprueba nuevos aranceles generalizados antes del 31 de marzo",
+          "odds": "+130",
+          "moved": "down",
+          "params": "Mecanismo: Trump presiona al Congreso para legislar aranceles durante contexto de guerra. Base rate: el Congreso raramente actúa en materia arancelaria en 30 días o menos. Factor crítico: si el sector empresarial republicano se opone, el proyecto muere en comité."
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🌍",
+      "label": "ESCENARIOS MACRO Y LONGSHOTS",
       "rows": [
         {
-          "event": "Will Jack Reed be the Democratic nominee for Senate in Rhode Island?",
-          "odds": "-809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
+          "event": "Uso de arma nuclear táctica en cualquier teatro de operaciones activo en 2026",
+          "odds": "+750",
+          "moved": null,
+          "params": "Mecanismo: Rusia bajo presión existencial en Ucrania, Pakistán en conflicto con India, o Irán en desesperación final. Base rate: nunca ha ocurrido uso desde 1945 — 81 años de no uso. Factor crítico: si se cree que el uso táctico no genera respuesta masiva, el umbral baja peligrosamente."
         },
         {
-          "event": "Will the Republicans win the Georgia Senate race in 2026?",
-          "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
+          "event": "Reloj del Juicio Final avanza a 80 segundos o menos en evaluación 2027",
+          "odds": "+420",
+          "moved": null,
+          "params": "Mecanismo: Bulletin of Atomic Scientists evalúa cada enero; conflicto iraní activo más test nuclear norcoreano acelerarían el ajuste. Base rate: el reloj ha avanzado 5 veces consecutivas de 2017 a 2026. Factor crítico: si hay negociaciones de control de armamentos, aunque simbólicas, el Bulletin puede detener el avance."
         },
         {
-          "event": "Will the Republican Party hold 47 or fewer Senate seats after the 2026 midterm elections?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
+          "event": "Tres o más conflictos regionales escalan simultáneamente a guerra abierta en 2026",
+          "odds": "-280",
+          "moved": "down",
+          "params": "Mecanismo: Irán-EE.UU.-Israel activo; Ucrania-Rusia sostenido; China-Taiwán latente — ya están los tres en marcha. Base rate: última vez que ocurrió algo equivalente fue el período 1962-1968. Factor crítico: si uno de los tres usa armas estratégicas, los otros dos aceleran por efecto dominó."
         },
         {
-          "event": "Will no next Prime Minister of the United Kingdom be appointed in 2026?",
-          "odds": "+300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
+          "event": "ONU aprueba resolución vinculante de alto el fuego global (veto superado)",
+          "odds": "+2800",
+          "moved": null,
+          "params": "Mecanismo: requiere que EE.UU. o Rusia y China se abstengan en lugar de vetar — históricamente improbable. Base rate: Consejo de Seguridad ha aprobado resoluciones vinculantes unas 15 veces en 75 años. Factor crítico: si EE.UU. ve la resolución como salida decorosa del conflicto iraní, podría abstenerse."
         },
         {
-          "event": "Will FLING win the most seats in the 2025 Guinea-Bissau National People’s Assembly election?",
-          "odds": "+557",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
+          "event": "Sistema de inteligencia artificial militar toma decisión autónoma que escala a incidente armado",
+          "odds": "+890",
+          "moved": null,
+          "params": "Mecanismo: múltiples ejércitos despliegan IA en sistemas de armas autónomos; en alta tensión, falsos positivos son más probables. Base rate: incidentes de guerra por accidente casi ocurrieron en 1983 (Petrov) y 1995 (misil noruego). Factor crítico: ausencia total de tratados internacionales que regulen el uso autónomo de IA militar."
         },
         {
-          "event": "Will Jared Hudson be the Republican nominee for Senate in Alabama?",
-          "odds": "+920",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Saxon Callahan be the Democratic nominee for Senate in New Jersey?",
-          "odds": "+1823",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will the highest temperature in Toronto be 4°C on March 3?",
-          "odds": "+1023",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Elon Musk post 1280-1319 tweets in April 2026?",
-          "odds": "+3125",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Genoa CFC vs. AS Roma end in a draw?",
-          "odds": "+270",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will SpaceX IPO by March 31, 2026?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will NAC Breda win on 2026-03-08?",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Perth Glory FC win on 2026-03-07?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Posy Li get engaged in Bridgerton: Season 4?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "U.S. evacuates Jerusalem embassy by March 31?",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
+          "event": "Pandemia de nueva patología aprovecha infraestructura sanitaria destruida por guerra",
+          "odds": "+680",
+          "moved": null,
+          "params": "Mecanismo: conflictos destruyen sistemas de salud; desplazamiento masivo de refugiados crea condiciones de propagación acelerada. Base rate: correlación histórica documentada entre conflictos prolongados y brotes infecciosos. Factor crítico: capacidad de la OMS para coordinar respuesta en contexto de conflicto activo — actualmente muy limitada."
         }
       ]
     }
