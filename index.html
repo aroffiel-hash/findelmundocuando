@@ -457,24 +457,99 @@ function NewsImagePanel({ isUpdating }) {
   );
 }
 
+// ── FILTRO GEOPOLÍTICO COMPARTIDO ────────────────────────────────────────────
+// Devuelve true si el evento DEBE mostrarse (es geopolítico y no es entretenimiento/deportes)
+function isGeoRelevant(eventText) {
+  const ev = (eventText || "").toLowerCase();
+
+  // 1. Patrones de partido deportivo: "Team A vs. Team B" con punto (formato deportivo)
+  //    NO bloquear "Russia vs NATO" o "Trump vs Congress" (sin punto = geopolítico)
+  if (/\bvs\.\s/.test(ev)) return false;   // "vs." con punto = marcador deportivo
+  if (/\bfc\b|\bsc\b|\bafc\b|\bnfc\b/.test(ev)) return false;  // clubes de fútbol
+
+
+  // 2. Palabras clave de bloqueo — cualquier match = descartar
+  const BLOCKED = [
+    // Deportes — ligas y torneos
+    "nba","nfl","nhl","mlb","mls","premier league","la liga","serie a",
+    "bundesliga","ligue 1","copa del rey","fa cup","stanley cup","super bowl",
+    "world cup","champions league","western conference","eastern conference",
+    "golden knights","senators","flames","maple leafs","rangers","bruins",
+    "cavaliers","celtics","lakers","warriors","nets","knicks","bulls",
+    "cowboys","patriots","chiefs","eagles","packers","49ers",
+    "breda","genoa","roma fc","milan fc","arsenal fc","chelsea fc",
+    "perth glory","atletico","barça","barcelona fc",
+    // Deportes — términos genéricos
+    "win on 2026","win on 2025","win the western","win the eastern",
+    "win the nba","win the nfl","win the nhl",
+    "both teams to score","clean sheet","first goal",
+    "moneyline","spread:","o/u ","set 1","set games","game 1",
+    "1st quarter","2nd quarter","3rd quarter","overtime","hat trick",
+    "goals scored","batting average","home run","touchdown",
+    "tennis","ufc","boxing","wrestling","golf","formula 1","f1 race",
+    "cricket","rugby","volleyball","swimming","marathon","triathlon",
+    "fc win","afc win","nfc win",
+    // Entretenimiento y premios
+    "oscar","academy award","grammy","emmy","bafta","golden globe","tony award",
+    "best picture","best director","best actor","best actress","best screenplay",
+    "sinners","bridgerton","stranger things","squid game","reality show",
+    "box office","movie gross","film festival","box office gross",
+    "album release","concert tour","spotify","streaming chart",
+    "taylor swift","beyoncé","rihanna","drake","kanye","kardashian",
+    "celebrity","influencer","tiktok creator",
+    // Social media / trivial
+    "tweets in","retweets","instagram post","musk post","will elon musk post",
+    "temperature in","will the highest temperature",
+    "engaged in bridgerton","get engaged",
+    // Política local irrelevante
+    "guinea-bissau","rhode island senate","alabama senate","new jersey senate",
+    "georgian senate","poilievre","jared hudson","saxon callahan","jack reed",
+    // Crypto especulativo
+    "bitcoin price","ethereum price","dogecoin","solana price",
+    "nft ","altcoin","microstrategy","kraken ipo",
+    // Documentales/cultura
+    "documentary feature film","best documentary",
+    "win best","at the 98th","at the 97th","at the 96th",
+  ];
+
+  if (BLOCKED.some(b => ev.includes(b))) return false;
+
+  // 3. Whitelist positivo — si no hay ninguna palabra geopolítica, descartar
+  const GEO = [
+    "war","nuclear","iran","russia","ukraine","china","taiwan","korea",
+    "military","conflict","missile","treaty","sanction","coup","nato",
+    "tariff","oil price","crude","brent","opec","recession","inflation",
+    "interest rate","gdp","trade war","supply chain",
+    "israel","gaza","hezbollah","hamas","houthi","irgc","hormuz",
+    "pakistan","afghanistan","taliban","al-qaeda","isis",
+    "trump","congress","senate","pentagon","white house","kremlin","xi jinping",
+    "zelensky","netanyahu","khamenei","putin","biden",
+    "ceasefire","escalat","airstrike","invasion","insurgent",
+    "refugee","humanitarian","terror","cartel","fentanyl",
+    "election","parliament","diplomat","embargo","sovereign",
+    "midterm","republican","democrat","conservative","labour",
+    "fed rate","federal reserve","eurozone","imf","world bank",
+    "mexico","sheinbaum","pemex","peso","t-mec","usmca",
+    "north korea","south china sea","strait","hormuz","black sea",
+    "nuclear weapon","icbm","ballistic","warhead","enrichment",
+    "stockpile","arsenal","deterrence","first strike",
+  ];
+
+  return GEO.some(g => ev.includes(g));
+}
+
 // ── ASIDE: CUOTAS CLAVE ───────────────────────────────────────────────────────
 function AsideKeyOdds({ sections }) {
-  const BANNED_ASIDE = [
-    "oscar","emmy","grammy","superbowl","super bowl","nba","nfl","nhl","mlb",
-    "beisbol","béisbol","futbol","fútbol","copa","liga","playoffs","deportes",
-    "box office","cine","pelicula","película","album","música","musica",
-  ];
   const keyOdds = useMemo(() => {
     const all = [];
     (sections || []).forEach(s => (s.rows || []).forEach(r => {
       if (r.odds && r.odds !== "N/A" && r.odds !== "LIQUIDADO") {
         const p = calcImplied(r.odds);
-        const ev = (r.event || "").toLowerCase();
-        const blocked = BANNED_ASIDE.some(b => ev.includes(b));
-        if (p !== null && !blocked) all.push({ label: r.event, odds: r.odds, p, section: s.label });
+        if (p !== null && isGeoRelevant(r.event)) {
+          all.push({ label: r.event, odds: r.odds, p, section: s.label });
+        }
       }
     }));
-    // Top 4 más probables (favoritos) + top 3 más llamativos (longshots geopolíticos)
     const favs      = all.filter(r => isFavorite(r.odds)).sort((a, b) => b.p - a.p).slice(0, 4);
     const longshots = all.filter(r => !isFavorite(r.odds)).sort((a, b) => b.p - a.p).slice(0, 3);
     return [...favs, ...longshots];
@@ -941,18 +1016,7 @@ function App() {
                     </div>
                     <span style={{ color: accent, fontSize: 11, fontWeight: "700" }}>{isCollapsed ? "▼" : "▲"}</span>
                   </div>
-                  {!isCollapsed && section.rows.filter(row => {
-                    const ev = (row.event || "").toLowerCase();
-                    const BANNED = [
-                      "oscar","emmy","grammy","superbowl","super bowl",
-                      "nba","nfl","nhl","mlb","mls","f1","formula 1",
-                      "beisbol","béisbol","futbol","fútbol","copa","liga mx",
-                      "playoffs","deportes","box office","cine","pelicula",
-                      "película","album","música","musica","concierto",
-                      "award","awards","entertainment","celebrity",
-                    ];
-                    return !BANNED.some(b => ev.includes(b));
-                  }).map((row, ri) => (
+                  {!isCollapsed && section.rows.filter(row => isGeoRelevant(row.event)).map((row, ri) => (
                     <EventCard key={ri} row={row}
                       onDraftChange={val => setDraft(si, section.rows.indexOf(row), val)}
                       onCommit={() => commit(si, section.rows.indexOf(row))}
@@ -978,9 +1042,9 @@ function App() {
                 Información del tablero
               </div>
               <div style={{ fontFamily: "'Inter', sans-serif", fontSize: 11, color: "#BBBBBB", marginTop: 5, lineHeight: 1.7 }}>
-                Escenarios geopolíticos con probabilidades implícitas.<br/>
-                Fuente: Polymarket + IA (Groq/LLaMA). Sin filtros editoriales.<br/>
-                Actualización automática cada hora via GitHub Actions.
+                Síntesis analítica original de riesgo geopolítico.<br/>
+                Groq / LLaMA 3.3 · Al Jazeera · Reuters · BBC · AP<br/>
+                Actualización automática cada 12 horas via GitHub Actions.
               </div>
             </div>
 
