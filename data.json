@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "04 de marzo de 2026 — 04:57 UTC",
+  "lastUpdated": "04 de marzo de 2026 — 07:27 UTC",
   "ticker": [
+    "Israeli forces bomb hotel in Beirut, residential building in Lebanon’s east",
+    "Israel, Iran continue attacks as war enters its fifth day, engulfs region",
+    "South Korea’s stock market in meltdown amid US-Iran war",
+    "The Iran strikes could become a midterm reckoning – for Trump and Israel",
     "Russia, China raise diplomatic voices against US-Israeli attacks on Iran",
     "US Commerce Secretary Lutnick to testify before Congress about Epstein ties",
     "US senators fear ‘boots on the ground’ after Iran war briefing",
@@ -11,11 +15,7 @@
     "UK to end study visas for Myanmar, Afghanistan, Cameroon, Sudan students",
     "Rubio claim of Israeli role in US Iran attack reverberates, despite denial",
     "Macron warns Israel against Lebanon invasion",
-    "Iran live news: US embassy in Dubai hit; Israel pounds Tehran, Beirut",
-    "Unpacking US justification for Iran attacks",
-    "Atletico Madrid reach Copa del Rey final despite 3-0 loss at Barcelona",
-    "Qatar announces arrest of Iran’s IRGC sleeper cells",
-    "Spain baulks at Trump’s threat to cut off all trade over NATO, Iran stance"
+    "Iran live news: Trump under fire from Democrats, Israel pounds Lebanon"
   ],
   "sections": [
     {
@@ -23,20 +23,8 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Delaware State Hornets vs. Maryland Eastern Shore Hawks",
-          "odds": "+354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "National T20 Cup: Lahore Region Whites vs Peshawar Region - Completed match?",
           "odds": "-1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Trump announces end of military operations against Iran by March 15th?",
-          "odds": "+376",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -47,20 +35,32 @@
           "moved": "none"
         },
         {
+          "event": "Will Sinners win Best Original Screenplay at the 98th Academy Awards?",
+          "odds": "-1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Russia capture all of Rodynske by April 30?",
           "odds": "-455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Sinners win Best Original Screenplay at the 98th Academy Awards?",
-          "odds": "-1899",
+          "event": "Will Mr. Nobody Against Putin win Best Documentary Feature Film at the 98th Academy Awards?",
+          "odds": "+334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Russia enter Vozdvyzhivka by March 31?",
           "odds": "+138",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Zelenskyy out as Ukraine president by June 30, 2026?",
+          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -77,26 +77,26 @@
           "moved": "none"
         },
         {
+          "event": "Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Venezuelan crude oil production reach 1.1m barrels per day in 2026?",
           "odds": "-334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?",
-          "odds": "+809",
+          "event": "Will Crude Oil (CL) hit (HIGH) $90 by end of June?",
+          "odds": "-185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Poilievre out as leader of Conservatives before 2027?",
           "odds": "+284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Crude Oil (CL) hit (HIGH) $90 by end of June?",
-          "odds": "-163",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -119,12 +119,6 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will the Republican Party hold 47 or fewer Senate seats after the 2026 midterm elections?",
-          "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the Republicans win the Georgia Senate race in 2026?",
           "odds": "+426",
           "params": "Fuente: Polymarket",
@@ -132,7 +126,7 @@
         },
         {
           "event": "Will no next Prime Minister of the United Kingdom be appointed in 2026?",
-          "odds": "+222",
+          "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -144,7 +138,7 @@
         },
         {
           "event": "Will Gavin Newsom win the 2028 Democratic presidential nomination?",
-          "odds": "+298",
+          "odds": "+296",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -157,6 +151,12 @@
         {
           "event": "Will Saxon Callahan be the Democratic nominee for Senate in New Jersey?",
           "odds": "+1823",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jason Anavitarte win the GA-14 special election?",
+          "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -179,8 +179,20 @@
           "moved": "none"
         },
         {
-          "event": "Will Genoa CFC vs. AS Roma end in a draw?",
-          "odds": "+270",
+          "event": "Will Trump say \"Ayatollah\" or \"Khamenei\" this week? (March 8)",
+          "odds": "-270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Hersonissos: Lukas Neumayer vs Alex Rybakov",
+          "odds": "-300",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Stonehill Skyhawks vs. Le Moyne Dolphins",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -197,20 +209,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Tottenham Hotspur FC win on 2026-03-05?",
-          "odds": "+143",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will SpaceX IPO by March 31, 2026?",
           "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will NAC Breda win on 2026-03-08?",
-          "odds": "+334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
