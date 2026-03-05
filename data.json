@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "04 de marzo de 2026 — 23:01 UTC",
+  "lastUpdated": "05 de marzo de 2026 — 05:04 UTC",
   "ticker": [
-    "Trump administration launches US military operation in Ecuador",
-    "Why is Israel is moving deeper into southern Lebanon?",
-    "Why Washington can’t stop Trump on Iran",
-    "Russia accuses Ukraine of drone attack as gas tanker sinks in Mediterranean",
-    "Why Iran’s system may endure the US–Israel strikes",
-    "Israeli attacks, threats fuel mass displacement crisis in southern Lebanon",
-    "Spain denies White House claim it agreed to cooperate with US military",
-    "US Dems say Iran troop deployment ‘more likely’ ahead of war powers vote",
-    "Iran war: Redrawing the map of the Middle East, Israeli style?",
-    "Debris from NATO’s missile interception falls on Turkish soil",
-    "Who is Mojtaba Khamenei, a contender for Iran’s leadership amid war?",
-    "UK police arrest three men on suspicion of spying for China",
-    "Trump’s endgame in Iran: Regime change without US ‘boots on the ground’",
-    "Nearly 66,000 Afghans displaced amid fierce fighting on Pakistan border: UN",
-    "New Zealand annihilate South Africa to reach T20 World Cup final"
+    "Canada PM Carney says unable to rule out military role in Iran war",
+    "North Korea’s Kim oversees cruise missile tests from new naval destroyer",
+    "Who is choosing Iran’s next Supreme Leader?",
+    "Iranian rockets intercepted over central Israel",
+    "Iran’s succession question: Rouhani’s name resurfaces amid leadership void",
+    "Demonstrators across Iran condemn US-Israeli war",
+    "Senate Republicans block war powers resolution on Iran",
+    "Trump had a ‘good feeling’ Iran would strike the US: White House",
+    "US gov’t committee subpoenas Attorney General Pam Bondi over Epstein files",
+    "US Senator helps police drag anti-war protester from meeting",
+    "Israel tightens siege on Gaza amid Iran war",
+    "Cuba hit by widespread blackout; Ecuador expels Havana’s ambassador, staff",
+    "Venezuela’s president vows mining reform amid visit from US cabinet member",
+    "Iran live: Senate fails to curb Trump’s war powers; Israel pounds Lebanon",
+    "Traders mint money on betting platforms on US-Israel strike on Iran"
   ],
   "sections": [
     {
@@ -23,20 +23,32 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Russia enter Vozdvyzhivka by March 31?",
-          "odds": "+149",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Sinners win Best Original Screenplay at the 98th Academy Awards?",
           "odds": "-1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
+          "event": "Will another country strike Iran by March 31?",
+          "odds": "-122",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Iran close the Strait of Hormuz before 2027?",
+          "odds": "-562",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Iran strike Cyprus in March?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "China x Taiwan military clash before 2027?",
-          "odds": "+525",
+          "odds": "+488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -47,20 +59,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Iran close the Strait of Hormuz before 2027?",
-          "odds": "-580",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Iran strike Cyprus in March?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will another country strike Iran by March 31?",
-          "odds": "-132",
+          "event": "Will Mr. Nobody Against Putin win Best Documentary Feature Film at the 98th Academy Awards?",
+          "odds": "+316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -71,14 +71,14 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will Eurozone annual GDP growth in 2026 be between 1.0% and 2.0%?",
-          "odds": "+270",
+          "event": "Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?",
-          "odds": "+1150",
+          "event": "Will Eurozone annual GDP growth in 2026 be between 1.0% and 2.0%?",
+          "odds": "+270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -90,7 +90,7 @@
         },
         {
           "event": "OpenAI receives federal backstop for infrastructure before July?",
-          "odds": "+1899",
+          "odds": "+2339",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -125,12 +125,6 @@
           "moved": "none"
         },
         {
-          "event": "Will CDU win the second most seats in the 2026 Baden-Württemberg parliamentary elections?",
-          "odds": "+362",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Russell McAlmond be the Republican nominee for Senate in Oregon?",
           "odds": "+700",
           "params": "Fuente: Polymarket",
@@ -143,14 +137,20 @@
           "moved": "none"
         },
         {
+          "event": "Will Rafael López Aliaga win the 2026 Peruvian presidential election?",
+          "odds": "-112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Aziz Akhannouch out as Morocco Prime Minister by December 31, 2026?",
           "odds": "-149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Rafael López Aliaga win the 2026 Peruvian presidential election?",
-          "odds": "+100",
+          "event": "Will the Slovenian Democratic Party (SDS) win the most seats in the 2026 Slovenian parliamentary election?",
+          "odds": "-1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -168,7 +168,7 @@
       "rows": [
         {
           "event": "DeepSeek V4 released by March 31?",
-          "odds": "-212",
+          "odds": "-244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -179,8 +179,8 @@
           "moved": "none"
         },
         {
-          "event": "Pepperdine Waves vs. Portland Pilots",
-          "odds": "+284",
+          "event": "Will Trump say \"IQ\" this week? (March 8)",
+          "odds": "+334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -191,26 +191,26 @@
           "moved": "none"
         },
         {
+          "event": "Will Michigan win the 2026 NCAA Tournament?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Elena Rybakina win the 2026 Women’s French Open?",
           "odds": "+1165",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
+          "event": "SpaceX IPO closing market cap above $2T?",
+          "odds": "-112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will NAC Breda win on 2026-03-08?",
           "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Posy Li get engaged in Bridgerton: Season 4?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Michigan win the 2026 NCAA Tournament?",
-          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
