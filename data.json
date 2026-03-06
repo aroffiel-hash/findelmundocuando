@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "06 de marzo de 2026 — 16:06 UTC",
+  "lastUpdated": "06 de marzo de 2026 — 18:04 UTC",
   "ticker": [
+    "Has Donald Trump failed to sell the Iran war to the world?",
+    "How will the Middle East conflict affect global energy prices?",
+    "US job market stalls, unemployment rate rises before Fed decision",
+    "LIVE: Celta Vigo vs Real Madrid – La Liga",
+    "Israel extending ‘Gaza playbook’ to Lebanon, charity warns",
+    "In a bid to counter China, Trump hosts a summit for Latin America leaders",
+    "Thousands of Syrian refugees flee Lebanon after Israeli strikes",
     "Kurdish opposition mulls whether to trust Trump after Iran uprising call",
     "‘No deal with Iran except unconditional surrender,’ Trump says",
     "Qatar warns Iran war could halt Gulf energy exports ‘within weeks’",
@@ -8,26 +15,13 @@
     "FIFA, AFC urged to protect Iran women footballers after ‘traitors’ threat",
     "Why have Europe, Australia sent military assets to the Middle East?",
     "Al-Aqsa compound empty as Israel restricts access to holy sites",
-    "‘Kurdish uprising in Iran unlikely without US-Israeli protection’",
-    "Iranian Kurd fighters ready for a ground operation ‘if opportunity arises’",
-    "Messi censured for meeting and applauding Trump amid US attacks on Iran",
-    "Moscow sees significant rise in demand for Russian oil, gas amid Iran war",
-    "‘We know Shaheds’: Ukraine touts drone expertise in US-Israel war with Iran",
-    "Amid Iran war, will Russia exploit Ukraine’s shortage of Patriot missiles?",
-    "What is the PrSM missile that the US used for the first time in Iran?",
-    "Iranians mourn Khamenei as they gather for first Friday prayers during war"
+    "‘Kurdish uprising in Iran unlikely without US-Israeli protection’"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Will Iran announce a new supreme leader on March 8, 2026?",
-          "odds": "+609",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Kuwait recognize Israel by June 30?",
           "odds": "+2602",
@@ -61,6 +55,12 @@
         {
           "event": "Will Israel annex any territory by June 30?",
           "odds": "+747",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Israel strike on Damascus by March 31, 2026?",
+          "odds": "+553",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -102,13 +102,13 @@
         },
         {
           "event": "Will the S&P 500 Index gain at least 3% on any day in Q1?",
-          "odds": "+566",
+          "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the S&P 500 Index lose at least 4% on any day in Q1?",
-          "odds": "+1150",
+          "event": "Dow Jones (DJIA) Up or Down on March 6?",
+          "odds": "+1940",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -131,20 +131,20 @@
           "moved": "none"
         },
         {
+          "event": "Will CD win the most seats in the 2026 Colombian Senate election?",
+          "odds": "+2280",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the Slovenian Democratic Party (SDS) win the most seats in the 2026 Slovenian parliamentary election?",
-          "odds": "-1328",
+          "odds": "-1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Aziz Akhannouch out as Morocco Prime Minister by December 31, 2026?",
-          "odds": "-189",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will CD win the most seats in the 2026 Colombian Senate election?",
-          "odds": "+2073",
+          "odds": "-225",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -167,14 +167,26 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "UNLV Runnin' Rebels vs. San Diego State Aztecs",
-          "odds": "+426",
+          "event": "Will AS Nancy-Lorraine vs. Montpellier HSC end in a draw?",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "NVIDIA (NVDA) Up or Down on March 6?",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Kate Abughazaleh be the Democratic nominee for IL-09?",
-          "odds": "+284",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Joao Pedro be the top goal scorer in the 2025–26 English Premier League season?",
+          "odds": "+1512",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -185,32 +197,20 @@
           "moved": "none"
         },
         {
+          "event": "Will Purdue win the 2026 NCAA Tournament?",
+          "odds": "+3125",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Jay Collins be the Republican nominee for Florida Governor?",
           "odds": "+1983",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "UCF Knights vs. West Virginia Mountaineers",
-          "odds": "+149",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Purdue win the 2026 NCAA Tournament?",
-          "odds": "+3025",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Robinhood (HOOD) Up or Down on March 6?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Sao Paulo be 26°C or below on March 6?",
-          "odds": "+2677",
+          "event": "Will Shadowrocket be #1 Paid App in the US Apple App Store on March 10?",
+          "odds": "-524",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
