@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "06 de marzo de 2026 — 21:00 UTC",
+  "lastUpdated": "06 de marzo de 2026 — 22:59 UTC",
   "ticker": [
+    "Mexico’s Sheinbaum pledges robust World Cup security in visit to Jalisco",
+    "Qatar partially reopens airspace as Iranian strikes continue to hit Gulf",
+    "Why did the US torpedo Iran’s ‘prize’ warship?",
+    "People are tracking this shepherd fleeing Israeli strikes in Lebanon",
+    "US issues limited licence for Venezuelan gold following high-level visit",
+    "Strikes on Iran to last ‘four to six weeks’, White House says",
     "US and Israel attacking Iran at ‘record pace’, war monitor says",
     "Human rights court orders reparations for forced sterilisation case in Peru",
     "Spanish politician slams those using ‘feminism’ as excuse for Iran war",
@@ -9,13 +15,7 @@
     "India vs New Zealand: T20 World Cup final – Predicted XI, time, stream",
     "Iran’s future will be determined by Iranians, not Trump, officials say",
     "US customs agency says it is not yet able to reimburse tariff costs",
-    "Zelenskyy visits front line as Ukraine and Russia swap 500 prisoners each",
-    "CCTV video captures moment strike lands next to boys’ school in Iran",
-    "Iran shares video of Tehran primary school after attack",
-    "Video shows explosions near Tehran’s Azadi Tower",
-    "Calls grow for independent probe into deadly Iranian girls’ school attack",
-    "White House posts ‘American justice’ video days after Iran school attack",
-    "Has Donald Trump failed to sell the Iran war to the world?"
+    "Zelenskyy visits front line as Ukraine and Russia swap 500 prisoners each"
   ],
   "sections": [
     {
@@ -30,19 +30,25 @@
         },
         {
           "event": "Will any E.U. country strike Iran by March 31?",
-          "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Kuwait recognize Israel by June 30?",
-          "odds": "+2602",
+          "odds": "+488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Bank of Russia make no change to the key rate after the April Meeting?",
           "odds": "+170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "US/Israel strike Yemen by March 31?",
+          "odds": "-122",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Sinners win Best Production Design at the 98th Academy Awards?",
+          "odds": "+1751",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -57,12 +63,6 @@
           "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "US/Israel strike Yemen by March 31?",
-          "odds": "-122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -71,12 +71,6 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "BNP Paribas Open: Karolina Muchova vs Anna Bondar",
-          "odds": "-733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the Vegas Golden Knights win the Western Conference?",
           "odds": "+733",
           "params": "Fuente: Polymarket",
@@ -84,13 +78,13 @@
         },
         {
           "event": "Will Crude Oil (CL) settle at $90+ in March?",
-          "odds": "-112",
+          "odds": "-143",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Call of Duty: OpTic Texas vs FaZe Vegas - Game 1 Winner",
-          "odds": "-257",
+          "event": "Will Crude Oil (CL) hit (HIGH) $100 by end of March?",
+          "odds": "-270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -107,8 +101,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Crude Oil (CL) hit (HIGH) $100 by end of March?",
-          "odds": "-270",
+          "event": "Will the S&P 500 Index gain at least 3% on any day in Q1?",
+          "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the S&P 500 Index lose at least 4% on any day in Q1?",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -120,7 +120,7 @@
       "rows": [
         {
           "event": "Will Don Tracy be the Republican nominee for Senate in Illinois?",
-          "odds": "-1011",
+          "odds": "-900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -131,8 +131,8 @@
           "moved": "none"
         },
         {
-          "event": "Will the Kulmiye Party (Peace, Unity, and Development Party) win the most seats in the next Somaliland parliamentary election?",
-          "odds": "+2400",
+          "event": "Will AfD win the most seats in the 2026 Berlin state elections?",
+          "odds": "+880",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -143,20 +143,20 @@
           "moved": "none"
         },
         {
+          "event": "Aziz Akhannouch out as Morocco Prime Minister by December 31, 2026?",
+          "odds": "-269",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the Slovenian Democratic Party (SDS) win the most seats in the 2026 Slovenian parliamentary election?",
           "odds": "-1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will AfD win the most seats in the 2026 Berlin state elections?",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Aziz Akhannouch out as Morocco Prime Minister by December 31, 2026?",
-          "odds": "-225",
+          "event": "Will Carlos Roberto Massa Júnior finish in third place in the first round of the 2026 Brazilian presidential election?",
+          "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,14 +167,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "LoL: DMG Esports vs Verdant - Game 2 Winner",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Joao Pedro be the top goal scorer in the 2025–26 English Premier League season?",
-          "odds": "+1462",
+          "event": "BNP Paribas Open: Marcos Giron vs Jakub Mensik",
+          "odds": "+244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -191,8 +185,14 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Buenos Aires be 24°C or below on March 8?",
-          "odds": "+669",
+          "event": "Will Joao Pedro be the top goal scorer in the 2025–26 English Premier League season?",
+          "odds": "+1462",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump post \"America Last\" on Truth Social this week? (March 8)",
+          "odds": "-132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -203,8 +203,8 @@
           "moved": "none"
         },
         {
-          "event": "Will the Democratic Party win the VA-06 House seat?",
-          "odds": "-112",
+          "event": "Will the Central Bank of Colombia announce an increase at the March meeting?",
+          "odds": "-809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
