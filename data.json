@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "06 de marzo de 2026 — 09:58 UTC",
+  "lastUpdated": "06 de marzo de 2026 — 11:17 UTC",
   "ticker": [
+    "Huge explosion seen in Tehran as strikes on Iran continue",
+    "Russian attacks on Kramatorsk escalate Ukraine war as Kyiv regains ground",
+    "New video shows rescue of Iran sailors after US attack on ship",
+    "Epstein files with claims against Trump released by US Justice Department",
     "Is BRICS bloc divided over US-Israel attacks on Iran?",
     "Will the Houthis join Iran’s war?",
     "Cost to US for war on Iran is $3.7bn in first 100 hours, says think tank",
@@ -11,11 +15,7 @@
     "More than 120 killed in Israel’s Lebanon attacks as Beirut, south, east hit",
     "Sudanese army retakes Bara, secures el-Obeid in North Kordofan",
     "Tehran hit by heavy bombing on day seven of US-Israel war on Iran",
-    "Iran war: What is happening on day seven of US-Israel attacks?",
-    "Forcibly displaced Lebanese seek food, clothing, and comfort in shelters",
-    "Iran targets Israeli embassy in Bahrain, Al Udeid Air Base in Qatar",
-    "US House joins Senate to vote down war powers resolution",
-    "Video shows projectile exploding near Ali al-Salem Air Base in Kuwait"
+    "Iran war: What is happening on day seven of US-Israel attacks?"
   ],
   "sections": [
     {
@@ -23,32 +23,26 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Iran announce a new supreme leader on March 7, 2026?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will The Secret Agent win Best Casting at the 98th Academy Awards?",
           "odds": "+2464",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
+          "event": "Will Starmer say \"War\" during the next Prime Minister's Questions event?",
+          "odds": "-334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Iran strike Safaniya Field by March 31?",
-          "odds": "+163",
+          "odds": "+143",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Kuwait recognize Israel by June 30?",
           "odds": "+2602",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "US/Israel strike Yemen by March 4?",
-          "odds": "+1786",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -63,6 +57,12 @@
           "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Trump declare war on Iran by March 31, 2026?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -71,8 +71,14 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
+          "event": "Will Crude Oil (CL) settle at $70-$75 in March?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will SoFi Technologies (SOFI) be added to the S&P 500 by March 31, 2026?",
-          "odds": "+525",
+          "odds": "+488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -101,14 +107,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Crude Oil (CL) settle at $70-$75 in March?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the S&P 500 Index gain at least 3% on any day in Q1?",
-          "odds": "+566",
+          "event": "Will gas hit (High) $4.00 by March 31?",
+          "odds": "+112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -131,8 +131,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Rastriya Swatantra Party (RSP) win between 105 and 119 seats in Nepal’s 2026 House of Representatives election?",
-          "odds": "+1566",
+          "event": "Will CD win the second most seats in the 2026 Colombian Senate election?",
+          "odds": "-1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Slovenian Democratic Party (SDS) win the most seats in the 2026 Slovenian parliamentary election?",
+          "odds": "-1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -143,20 +149,14 @@
           "moved": "none"
         },
         {
-          "event": "Will the Slovenian Democratic Party (SDS) win the most seats in the 2026 Slovenian parliamentary election?",
-          "odds": "-1011",
+          "event": "Will James Talarico and John Cornyn be the candidates for the Texas Senate Election?",
+          "odds": "-488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will AfD win the most seats in the 2026 Berlin state elections?",
           "odds": "+624",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Lê Minh Hưng be the next Prime Minister of Vietnam?",
-          "odds": "-706",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,38 +167,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will there be at least 7500 measles cases in the U.S. in 2026?",
-          "odds": "+244",
+          "event": "Will Gold (GC) hit (HIGH) $5,400 by end of March?",
+          "odds": "+100",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Set Handicap: Jovic (-1.5) vs Osorio (+1.5)",
-          "odds": "+156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Counter-Strike: Spirit vs 3DMAX - Map 1 Winner",
-          "odds": "-400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Sao Paulo be 29°C on March 6?",
-          "odds": "+212",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will USA win the 2026 World Baseball Classic?",
-          "odds": "+104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Buenos Aires be 26°C on March 7?",
-          "odds": "+222",
+          "event": "Will the highest temperature in Wellington be 21°C on March 7?",
+          "odds": "+132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -211,6 +187,30 @@
         {
           "event": "Will Kate Abughazaleh be the Democratic nominee for IL-09?",
           "odds": "+284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Queensland Bulls win?",
+          "odds": "-2122",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump talk to Reza Pahlavi in March?",
+          "odds": "+257",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jay Collins be the Republican nominee for Florida Governor?",
+          "odds": "+1983",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Purdue win the 2026 NCAA Tournament?",
+          "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
