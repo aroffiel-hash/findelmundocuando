@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "07 de marzo de 2026 — 09:53 UTC",
+  "lastUpdated": "07 de marzo de 2026 — 10:50 UTC",
   "ticker": [
+    "Protests in Cuba after thousands without power following blackout",
+    "Southern Peru flooded after torrential rain",
+    "Explosion and fire in Syria due to falling drone debris",
+    "Iranian Kurd leader in Iraq says ground operation into Iran ‘highly likely’",
     "US downplays reports Russia gave Iran intel to help Tehran strike US assets",
     "Iran’s president apologises for attacking neighbouring countries",
     "Moment drone strikes Dubai International Airport",
@@ -11,11 +15,7 @@
     "Tehran pounded in week two of US-Israel war, Iran targets Israel",
     "Indonesian president’s US ties questioned amid public anger over Iran war",
     "Iranian missiles intercepted over Saudi Arabia, Qatar, UAE, Bahrain sirens",
-    "Iran war: What is happening on day eight of US-Israel attacks?",
-    "Pro-Palestinian activist records questioning by German border police",
-    "Caught between Iran and Saudi Arabia, can Pakistan stay neutral for long?",
-    "Why Yemen’s Houthis are staying out of Israel-US fight with Iran – for now",
-    "Anti-aircraft fire seen in eastern Lebanon amid Israeli incursion"
+    "Iran war: What is happening on day eight of US-Israel attacks?"
   ],
   "sections": [
     {
@@ -60,7 +60,7 @@
         },
         {
           "event": "Will Israel annex any territory by June 30?",
-          "odds": "+762",
+          "odds": "+754",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -90,13 +90,19 @@
         },
         {
           "event": "Pam Bondi out as Attorney General by March 31?",
-          "odds": "+274",
+          "odds": "+687",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the S&P 500 Index gain at least 3% on any day in Q1?",
           "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will four or more people dissent the March Fed decision?",
+          "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -179,12 +185,6 @@
           "moved": "none"
         },
         {
-          "event": "Predict.fun FDV above $100M one day after launch?",
-          "odds": "-334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Smouha SC vs. Modern SC end in a draw?",
           "odds": "+177",
           "params": "Fuente: Polymarket",
@@ -199,6 +199,12 @@
         {
           "event": "Will New England Revolution win on 2026-03-07?",
           "odds": "+156",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Toronto be 8°C on March 8?",
+          "odds": "+1594",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
