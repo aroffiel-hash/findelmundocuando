@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "07 de marzo de 2026 — 18:59 UTC",
+  "lastUpdated": "07 de marzo de 2026 — 19:41 UTC",
   "ticker": [
+    "More than 30 injured in nightclub bombing in northern Peru",
+    "‘They’re cancer’: Trump threatens cartels, Cuba at Latin American summit",
     "Israel launches raid in Lebanon searching for missing pilot",
     "LIVE: Athletic Bilbao vs Barcelona – La Liga",
     "What people in Gaza are saying about the closure of the Rafah crossing",
@@ -13,21 +15,13 @@
     "OpenAI’s fund raising boom slows amid mounting debt",
     "Aftermath of village in Lebanon after Hezbollah, Israeli troops clash",
     "Indonesians protest Iran war, pressure president over US ties",
-    "Kurdish fighters say Iran ground operation ‘highly likely’",
-    "Sirens echo in occupied East Jerusalem warning of Iranian missiles",
-    "Trump-Netanyahu’s ‘war in search of a strategy’"
+    "Kurdish fighters say Iran ground operation ‘highly likely’"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Zelenskyy out as Ukraine president by June 30, 2026?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Kuwait recognize Israel by June 30?",
           "odds": "+2602",
@@ -59,6 +53,12 @@
           "moved": "none"
         },
         {
+          "event": "US x Iran ceasefire by April 30?",
+          "odds": "-108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Russia capture all of Ternuvate by March 31, 2026?",
           "odds": "+2841",
           "params": "Fuente: Polymarket",
@@ -70,6 +70,12 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
+        {
+          "event": "Wisconsin Badgers vs. Purdue Boilermakers",
+          "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Brentford finish in the top 4 of the EPL 2025–26 standings?",
           "odds": "+2225",
@@ -95,20 +101,14 @@
           "moved": "none"
         },
         {
+          "event": "Spread: Purdue Boilermakers (-8.5)",
+          "odds": "-132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Pam Bondi out as Attorney General by March 31?",
-          "odds": "+562",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the S&P 500 Index gain at least 3% on any day in Q1?",
-          "odds": "+257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Crude Oil (CL) hit (HIGH) $180 by end of March?",
-          "odds": "+1654",
+          "odds": "+769",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -132,13 +132,13 @@
         },
         {
           "event": "Will Paul Dans be the Republican nominee for Senate in South Carolina?",
-          "odds": "+669",
+          "odds": "+809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Lê Minh Hưng be the next Prime Minister of Vietnam?",
-          "odds": "-852",
+          "odds": "-713",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -155,8 +155,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Mike Thompson advance from the CA-04 primary election?",
-          "odds": "-524",
+          "event": "Will PH win the third most seats in the 2026 Colombian Chamber of Representatives election?",
+          "odds": "+1308",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -185,20 +185,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Antalyaspor win on 2026-03-08?",
-          "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Call of Duty: Cloud9 New York vs Boston Breach (BO5) - Call of Duty League Stage 2 Major Qualifiers Qualifiers",
-          "odds": "+284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the Central Bank of Colombia announce an increase at the March meeting?",
           "odds": "-809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Wagner Seahawks vs. LIU Sharks",
+          "odds": "+257",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -209,8 +203,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Donald Trump visit Belarus in 2026?",
-          "odds": "+900",
+          "event": "Will Trump say \"Easter\" in March?",
+          "odds": "-900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the price of XRP be between $1.50 and $1.60 on March 9?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
