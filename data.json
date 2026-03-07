@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "07 de marzo de 2026 — 04:45 UTC",
+  "lastUpdated": "07 de marzo de 2026 — 06:02 UTC",
   "ticker": [
+    "Iran war: What is happening on day eight of US-Israel attacks?",
+    "Pro-Palestinian activist records questioning by German border police",
+    "Caught between Iran and Saudi Arabia, can Pakistan stay neutral for long?",
     "Why Yemen’s Houthis are staying out of Israel-US fight with Iran – for now",
     "Anti-aircraft fire seen in eastern Lebanon amid Israeli incursion",
     "Massive explosions, fires from US-Israeli strikes on Tehran",
@@ -11,11 +14,8 @@
     "Iran’s strikes on the Gulf: Burning the bridges of good neighbourliness",
     "Iran war is latest threat to a global economy rattled by Trump",
     "Cuba announces fifth death after shootout with Florida-tagged speedboat",
-    "Iran war live: Trump says no deal with Iran until ‘unconditional surrender’",
-    "Cuba closes Quito embassy after Ecuador’s Daniel Noboa expels its diplomats",
-    "Drone evades defences, ignites fire at southern Iraq oil facility",
-    "Real Madrid beat Celta Vigo to close on Barcelona with Valverde late goal",
-    "Iranian UN ambassador condemns US-Israeli ‘criminal war’"
+    "Iran war live: War enters second week, Trump says no deal until ‘surrender’",
+    "Cuba closes Quito embassy after Ecuador’s Daniel Noboa expels its diplomats"
   ],
   "sections": [
     {
@@ -35,12 +35,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Iran announce a new supreme leader on March 9, 2026?",
-          "odds": "+1119",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the Bank of Russia make no change to the key rate after the April Meeting?",
           "odds": "+170",
           "params": "Fuente: Polymarket",
@@ -48,7 +42,7 @@
         },
         {
           "event": "Zelenskyy out as Ukraine president by June 30, 2026?",
-          "odds": "+733",
+          "odds": "+809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -63,6 +57,12 @@
           "odds": "+2531",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Russia capture all of Ternuvate by March 31, 2026?",
+          "odds": "+2841",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -70,12 +70,6 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
-        {
-          "event": "Will Brentford FC win on 2026-03-07?",
-          "odds": "+132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "OpenAI receives federal backstop for infrastructure before July?",
           "odds": "+1899",
@@ -96,7 +90,13 @@
         },
         {
           "event": "Pam Bondi out as Attorney General by March 31?",
-          "odds": "+1119",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will gas hit (High) $3.50 by March 31?",
+          "odds": "-809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -114,7 +114,7 @@
       "rows": [
         {
           "event": "Will the Slovenian Democratic Party (SDS) win the most seats in the 2026 Slovenian parliamentary election?",
-          "odds": "-1328",
+          "odds": "-1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -131,6 +131,12 @@
           "moved": "none"
         },
         {
+          "event": "Aziz Akhannouch out as Morocco Prime Minister by December 31, 2026?",
+          "odds": "-269",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Paul Dans be the Republican nominee for Senate in South Carolina?",
           "odds": "+669",
           "params": "Fuente: Polymarket",
@@ -139,12 +145,6 @@
         {
           "event": "Will Livable Rotterdam (LR) win the most seats in Rotterdam’s 2026 municipal election?",
           "odds": "-194",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Aziz Akhannouch out as Morocco Prime Minister by December 31, 2026?",
-          "odds": "-269",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -167,8 +167,20 @@
           "moved": "none"
         },
         {
+          "event": "Will Trump post \"America Last\" on Truth Social this week? (March 8)",
+          "odds": "-132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Kate Abughazaleh be the Democratic nominee for IL-09?",
           "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Texas Rangers vs. San Francisco Giants",
+          "odds": "+104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -179,32 +191,20 @@
           "moved": "none"
         },
         {
-          "event": "BNP Paribas Open: Aleksandar Kovacevic vs Corentin Moutet",
-          "odds": "+149",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump post \"America Last\" on Truth Social this week? (March 8)",
-          "odds": "-132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will New England Revolution win on 2026-03-07?",
           "odds": "+156",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Queensland Bulls win?",
-          "odds": "-2122",
+          "event": "BNP Paribas Open: Marta Kostyuk vs Taylor Townsend",
+          "odds": "-163",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "New York Mets vs. Miami Marlins",
-          "odds": "-170",
+          "event": "Counter-Strike: MOUZ vs Astralis (BO3) - ESL Pro League Stage 2",
+          "odds": "-233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
