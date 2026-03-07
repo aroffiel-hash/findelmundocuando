@@ -1,6 +1,7 @@
 {
-  "lastUpdated": "07 de marzo de 2026 — 15:43 UTC",
+  "lastUpdated": "07 de marzo de 2026 — 16:53 UTC",
   "ticker": [
+    "War against Iran: How far will it go?",
     "India vs New Zealand: T20 World Cup final – ‘No pressure, no fun’ for hosts",
     "Israel kills father, daughter in Gaza as genocide continues amid wider war",
     "India vs New Zealand: Fans hope for World Cup final redemption in Ahmedabad",
@@ -14,8 +15,7 @@
     "India vs New Zealand: T20 World Cup final – Kiwis ready to ‘break hearts’",
     "Beirut’s southern suburbs in ruins after Israeli attack",
     "Protests in Cuba after thousands without power following blackout",
-    "Southern Peru flooded after torrential rain",
-    "Explosion and fire in Syria due to falling drone debris"
+    "Southern Peru flooded after torrential rain"
   ],
   "sections": [
     {
@@ -24,25 +24,31 @@
       "rows": [
         {
           "event": "Zelenskyy out as Ukraine president by June 30, 2026?",
-          "odds": "+900",
+          "odds": "+809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Louisiana Tech Bulldogs vs. Delaware Fightin' Blue Hens",
-          "odds": "-132",
+          "event": "Will Iran name a successor to Khamenei by March 10?",
+          "odds": "+100",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the Bank of Russia make no change to the key rate after the April Meeting?",
-          "odds": "+170",
+          "event": "Warriors vs. Thunder: O/U 219.5",
+          "odds": "+100",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Kuwait recognize Israel by June 30?",
           "odds": "+2602",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Iran name a successor to Khamenei by March 13?",
+          "odds": "-284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -55,12 +61,6 @@
         {
           "event": "Israel strike on Damascus by March 31, 2026?",
           "odds": "+373",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Pete Hegseth enter Iran by June 30?",
-          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -89,6 +89,12 @@
           "moved": "none"
         },
         {
+          "event": "Will Crude Oil (CL) hit (HIGH) $150 by end of June?",
+          "odds": "+170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the S&P 500 Index gain at least 3% on any day in Q1?",
           "odds": "+257",
           "params": "Fuente: Polymarket",
@@ -96,19 +102,13 @@
         },
         {
           "event": "Pam Bondi out as Attorney General by March 31?",
-          "odds": "+491",
+          "odds": "+575",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will gas hit (High) $4.25 by March 31?",
           "odds": "+138",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Crude Oil (CL) hit (HIGH) $150 by end of June?",
-          "odds": "+177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -120,7 +120,7 @@
       "rows": [
         {
           "event": "Aziz Akhannouch out as Morocco Prime Minister by December 31, 2026?",
-          "odds": "-777",
+          "odds": "-809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -137,26 +137,26 @@
           "moved": "none"
         },
         {
-          "event": "Will Alex Vanopslagh be the next prime minister of Denmark after the 2026 parliamentary elections?",
-          "odds": "+1860",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Lê Minh Hưng be the next Prime Minister of Vietnam?",
-          "odds": "-952",
+          "odds": "-706",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Carlos Roberto Massa Júnior finish in third place in the first round of the 2026 Brazilian presidential election?",
-          "odds": "+233",
+          "event": "Will Troels Lund Poulsen be the next prime minister of Denmark after the 2026 parliamentary elections?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Mitch McConnell step down from the Senate before his term ends?",
-          "odds": "+185",
+          "odds": "+170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump's approval rating hit 35% in 2026?",
+          "odds": "+244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -173,14 +173,20 @@
           "moved": "none"
         },
         {
-          "event": "Will Toulouse FC vs. Olympique de Marseille end in a draw?",
-          "odds": "+270",
+          "event": "Will NVIDIA dip to $164 in March?",
+          "odds": "+100",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Seattle be between 54-55°F on March 7?",
-          "odds": "-177",
+          "event": "Blues vs. Ducks",
+          "odds": "+143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Sao Paulo be 28°C on March 8?",
+          "odds": "+222",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -191,26 +197,20 @@
           "moved": "none"
         },
         {
-          "event": "US strikes Yemen by March 31, 2026?",
-          "odds": "+177",
+          "event": "Will Meta (META) close above $680 on March 9?",
+          "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will NVIDIA dip to $164 in March?",
-          "odds": "-122",
+          "event": "Bruins vs. Penguins",
+          "odds": "+122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Central Bank of Colombia announce an increase at the March meeting?",
           "odds": "-809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Freddie Mac not IPO by June 30, 2026?",
-          "odds": "-2122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
