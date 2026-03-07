@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "07 de marzo de 2026 — 22:51 UTC",
+  "lastUpdated": "07 de marzo de 2026 — 23:42 UTC",
   "ticker": [
+    "Huge fire rages at Tehran oil depot after Israeli attack",
+    "Zelenskyy offers Saudi Arabia’s MBS help countering Iranian drones",
+    "Trump administration denies reports that Iran captured US soldiers",
     "Lamine Yamal gives Barcelona hard-fought 1-0 win at Athletic Bilbao",
     "Trump oversees return of US troops killed in Iranian drone strike",
     "US embassy in Baghdad attacked as US-Israel war on Iran escalates",
@@ -12,10 +15,7 @@
     "UAE president says prepared to confront ‘threats’ as Iran attacks continue",
     "Russia kills 10 in Ukraine strike including children with new missile",
     "Smoke rises from a Dubai tower after attack",
-    "More than 30 injured in nightclub bombing in northern Peru",
-    "‘They’re cancer’: Trump threatens cartels, Cuba at Latin American summit",
-    "Israel launches raid in Lebanon searching for missing pilot",
-    "Athletic Bilbao vs Barcelona 0-1: La Liga – as it happened"
+    "More than 30 injured in nightclub bombing in northern Peru"
   ],
   "sections": [
     {
@@ -23,20 +23,8 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Marty Supreme win Best Casting at the 98th Academy Awards?",
-          "odds": "+2027",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "US x Iran ceasefire by April 30?",
-          "odds": "+104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will \"War Machine\" be the top US Netflix movie this week?",
-          "odds": "-488",
+          "odds": "-524",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -53,14 +41,26 @@
           "moved": "none"
         },
         {
-          "event": "Will Iran name a successor to Khamenei by March 8?",
-          "odds": "+222",
+          "event": "Will Sirāt win Best Sound at the 98th Academy Awards?",
+          "odds": "+1751",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Israel strike on Damascus by March 31, 2026?",
           "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Pete Hegseth enter Iran by June 30?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Israel annex any territory by June 30?",
+          "odds": "+998",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -73,6 +73,12 @@
         {
           "event": "Will Brentford finish in the top 4 of the EPL 2025–26 standings?",
           "odds": "+2225",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Bank of England decreases interest rates by 25 bps after April 2026 meeting?",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -96,19 +102,13 @@
         },
         {
           "event": "Pam Bondi out as Attorney General by March 31?",
-          "odds": "+1119",
+          "odds": "+1134",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the S&P 500 Index gain at least 3% on any day in Q1?",
           "odds": "+257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will four or more people dissent the March Fed decision?",
-          "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,8 +167,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the highest temperature in New York City be between 60-61°F on March 9?",
-          "odds": "+233",
+          "event": "Will the highest temperature in Miami be between 80-81°F on March 9?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -179,8 +179,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Philadelphia Union vs. San Jose Earthquakes end in a draw?",
-          "odds": "+300",
+          "event": "BNP Paribas Open: Juan Manuel Cerundolo vs Arthur Rinderknech",
+          "odds": "+104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -191,14 +191,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Meta (META) close above $680 on March 9?",
-          "odds": "+733",
+          "event": "Will BBL Esports win Masters Santiago 2026?",
+          "odds": "+488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Racing Club de Lens vs. FC Metz end in a draw?",
-          "odds": "+525",
+          "event": "Will Meta (META) close above $680 on March 9?",
+          "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -209,8 +209,8 @@
           "moved": "none"
         },
         {
-          "event": "Exact Score: Athletic Club 0 - 0 FC Barcelona?",
-          "odds": "+900",
+          "event": "Will Trump say \"Easter\" in March?",
+          "odds": "-900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
