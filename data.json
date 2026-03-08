@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "08 de marzo de 2026 — 16:56 UTC",
+  "lastUpdated": "08 de marzo de 2026 — 17:50 UTC",
   "ticker": [
+    "T20 World Cup final: India defeat New Zealand by 96 runs for third title",
+    "Israel’s Mossad relies on US cover and security rot for Iran strikes",
     "Is Israel reshaping Lebanon, trying to separate Hezbollah from its people?",
     "We, the American people, have had enough of endless wars",
     "Israel escalates attacks across Lebanon as two soldiers killed",
@@ -13,15 +15,19 @@
     "Pope Leo urges dialogue amid Middle East war",
     "Al Jazeera reporter boards first flight to Doha since war on Iran",
     "Tehran residents donate blood amid ongoing US-Israel attacks on Iran",
-    "Blast at US Embassy in Oslo may have terror motive, Norway police say",
-    "Israel’s president responds to Trump call to pardon Netanyahu",
-    "Iran war threatens prolonged impact on energy markets as oil prices rise"
+    "Blast at US Embassy in Oslo may have terror motive, Norway police say"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Will the U.S. invade Iran by March 31?",
+          "odds": "+344",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Kuwait recognize Israel by June 30?",
           "odds": "+208",
@@ -35,20 +41,8 @@
           "moved": "none"
         },
         {
-          "event": "Will the U.S. invade Iran by March 31?",
-          "odds": "+371",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Israel strike on Damascus by March 31, 2026?",
           "odds": "+663",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Israel strike Greater Beirut on March 9, 2026?",
-          "odds": "-1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -61,6 +55,12 @@
         {
           "event": "Will Iran strike Yemen in March?",
           "odds": "+2122",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Israel annex any territory by June 30?",
+          "odds": "+687",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -78,7 +78,7 @@
         },
         {
           "event": "Pam Bondi out as Attorney General by March 31?",
-          "odds": "+706",
+          "odds": "+385",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -101,14 +101,14 @@
           "moved": "none"
         },
         {
-          "event": "Oilers vs. Golden Knights: O/U 7.5",
-          "odds": "+203",
+          "event": "Will Crude Oil (CL) hit (HIGH) $200 by end of March?",
+          "odds": "+1462",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the S&P 500 Index lose at least 4% on any day in Q1?",
-          "odds": "+455",
+          "event": "Oilers vs. Golden Knights: O/U 7.5",
+          "odds": "+203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -120,13 +120,13 @@
       "rows": [
         {
           "event": "Aziz Akhannouch out as Morocco Prime Minister by December 31, 2026?",
-          "odds": "-880",
+          "odds": "-998",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Mitch McConnell step down from the Senate before his term ends?",
-          "odds": "+400",
+          "odds": "+354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -173,8 +173,8 @@
           "moved": "none"
         },
         {
-          "event": "Santiago: Santiago Rodriguez Taverna vs Bastian Malla",
-          "odds": "-488",
+          "event": "Dota 2: Team Yandex vs MOUZ (BO3) - PGL Wallachia Group Stage",
+          "odds": "-122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -191,12 +191,6 @@
           "moved": "none"
         },
         {
-          "event": "EdgeX FDV above $700M one day after launch?",
-          "odds": "-117",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will DeepSeek have the best AI model at the end of June 2026?",
           "odds": "+3233",
           "params": "Fuente: Polymarket",
@@ -205,6 +199,12 @@
         {
           "event": "Will Manchester United FC win on 2026-03-20?",
           "odds": "+108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Pistons vs. Heat",
+          "odds": "-112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
