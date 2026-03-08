@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "08 de marzo de 2026 — 21:44 UTC",
+  "lastUpdated": "08 de marzo de 2026 — 22:52 UTC",
   "ticker": [
+    "Who’s in control in Iran and how will Gulf states react to attacks?",
+    "One ‘party state’: Guinea dissolves main opposition parties",
+    "Palestinians killed during Israeli settler attack in the occupied West Bank",
+    "Iran names Khamenei’s son as new supreme leader after father’s killing",
+    "‘Explosive device’ thrown at protest outside NYC Mayor Mamdani home: NYPD",
     "Marches for International Women’s Day denounce war, abuse and oppression",
     "Colombia elects Congress, chooses presidential candidates amid US tensions",
     "Thousands flee Akobo after South Sudan army issues forced evacuation order",
@@ -8,14 +13,9 @@
     "Aftermath in Iran of US and Israeli air strikes",
     "How do you track a war in real time?",
     "Rangers vs Celtic turns ugly as fans clash on pitch after Scottish Cup tie",
+    "Who is Mojtaba Khamenei, Iran’s new supreme leader amid war?",
     "Trump vows control over Iran leaders as US troop death toll rises to seven",
-    "Two killed in Saudi Arabia after ‘projectile’ falls on residential building",
-    "Why is the conflict with Iran being framed as a ‘holy war’?",
-    "T20 World Cup final: India defeat New Zealand by 96 runs for third title",
-    "Israel’s Mossad relies on US cover and security rot for Iran strikes",
-    "Is Israel reshaping Lebanon, trying to separate Hezbollah from its people?",
-    "We, the American people, have had enough of endless wars",
-    "More than 500,000 displaced in Lebanon as Israel escalates attacks"
+    "Two killed in Saudi Arabia after ‘projectile’ falls on residential building"
   ],
   "sections": [
     {
@@ -29,20 +29,14 @@
           "moved": "none"
         },
         {
+          "event": "Spread: Merrimack College Warriors (-3.5)",
+          "odds": "+117",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Israel strike on Damascus by March 31, 2026?",
           "odds": "+700",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Matt Pinnell replace Markwayne Mullin as United States Senator from Oklahoma?",
-          "odds": "-117",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Russia enter Orikhiv by June 30?",
-          "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -54,13 +48,19 @@
         },
         {
           "event": "US announces military support of Iran oppostion by March 31?",
-          "odds": "+316",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Russia enter Orikhiv by June 30?",
+          "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Israel annex any territory by June 30?",
-          "odds": "+681",
+          "odds": "+726",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -71,20 +71,26 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Bank of England decreases interest rates by 25 bps after April 2026 meeting?",
-          "odds": "+284",
+          "event": "Will Crude Oil (CL) hit (HIGH) $110 by end of June?",
+          "odds": "-1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "S&P 500 (SPX) Up or Down on March 9?",
-          "odds": "+222",
+          "event": "Will Crude Oil (CL) hit (HIGH) $100 by end of June?",
+          "odds": "-1983",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Pam Bondi out as Attorney General by March 31?",
-          "odds": "+706",
+          "odds": "+777",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Bank of England decreases interest rates by 25 bps after April 2026 meeting?",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -96,19 +102,13 @@
         },
         {
           "event": "Poilievre out as leader of Conservatives before 2027?",
-          "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will gas hit (High) $5.00 by March 31?",
-          "odds": "+183",
+          "odds": "+222",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the S&P 500 Index lose at least 4% on any day in Q1?",
-          "odds": "+455",
+          "odds": "+426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -131,8 +131,20 @@
           "moved": "none"
         },
         {
+          "event": "Will Michele Tafoya be the Republican nominee for Senate in Minnesota?",
+          "odds": "-455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Trump's approval rating hit 35% in 2026?",
           "odds": "+244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will CDU win the most seats in the 2026 Baden-Württemberg parliamentary elections?",
+          "odds": "-640",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -145,18 +157,6 @@
         {
           "event": "Will Ed Hale win the 2026 Maryland Governor Republican primary election?",
           "odds": "+284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Nancy Mace win the 2026 South Carolina Governor Republican primary election?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Iván Cepeda Castro win the 1st round of the 2026 Colombian presidential election?",
-          "odds": "-212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -173,14 +173,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Gold (GC) hit (HIGH) $6,200 by end of March?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Jay Collins be the Republican nominee for Florida Governor?",
-          "odds": "+2602",
+          "event": "Gran Canaria vs. Real Madrid",
+          "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -191,26 +185,32 @@
           "moved": "none"
         },
         {
+          "event": "Will Gold (GC) hit (HIGH) $6,200 by end of March?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Manchester United FC win on 2026-03-20?",
           "odds": "+108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
+          "event": "Will ChatGPT be #1 Free App in the US Apple App Store on March 10?",
+          "odds": "-257",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Michigan State Spartans vs. Michigan Wolverines",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Claude 5 be released by April 30, 2026?",
-          "odds": "+233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Jessica Pegula win the 2026 Women’s French Open?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Celtics vs. Spurs",
-          "odds": "+127",
+          "odds": "+222",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
