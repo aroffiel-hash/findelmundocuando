@@ -1,8 +1,12 @@
 {
-  "lastUpdated": "08 de marzo de 2026 — 05:01 UTC",
+  "lastUpdated": "08 de marzo de 2026 — 07:43 UTC",
   "ticker": [
+    "Palestinians risk life and limb to fish in Gaza’s Israeli-controlled sea",
+    "Israel strikes busy Beirut hotel in assassination attempt",
+    "Rapper-turned-politician Balen Shah’s RSP heads for poll landslide in Nepal",
+    "Flames engulf Kuwaiti high-rise amid Iranian drone strikes",
     "Trump says US does not need UK’s aircraft carriers for Iran war",
-    "Iran war live: Trump again demands surrender; Israel bombs oil depots",
+    "Iran war live: Israel hit Tehran oil depots; Bahrain desalination plant hit",
     "Huge fire rages at Tehran oil depot after Israeli attack",
     "Zelenskyy offers Saudi Arabia’s MBS help countering Iranian drones",
     "Trump administration denies reports that Iran captured US soldiers",
@@ -11,11 +15,7 @@
     "US embassy in Baghdad attacked as US-Israel war on Iran escalates",
     "How far will the Iran war spillover?",
     "Florida Bar denies investigation into Trump lawyer Lindsey Halligan",
-    "Doctors try to save girl as father was killed in Gaza Israeli attack",
-    "Video: Satellite images reveal damage to several Iranian military bases",
-    "Cuba says electricity plant successfully repaired after large blackout",
-    "UAE president says prepared to confront ‘threats’ as Iran attacks continue",
-    "Russia kills 10 in Ukraine strike including children with new missile"
+    "Doctors try to save girl as father was killed in Gaza Israeli attack"
   ],
   "sections": [
     {
@@ -29,20 +29,20 @@
           "moved": "none"
         },
         {
+          "event": "Will the Iranian regime fall by April 30?",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Israel strike on Damascus by March 31, 2026?",
           "odds": "+309",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Spread: Hawaii Rainbow Warriors (-14.5)",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Iran strike Yemen in March?",
-          "odds": "+3125",
+          "odds": "+2122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -59,8 +59,8 @@
           "moved": "none"
         },
         {
-          "event": "Will the Iranian regime fall by April 30?",
-          "odds": "+426",
+          "event": "Will Mark Warner be the Democratic nominee for Senate in Virginia?",
+          "odds": "-900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -84,13 +84,19 @@
         },
         {
           "event": "Pam Bondi out as Attorney General by March 31?",
-          "odds": "+784",
+          "odds": "+706",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "OpenAI receives federal backstop for infrastructure before July?",
           "odds": "+1308",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Dow Jones (DJIA) Up or Down on March 9?",
+          "odds": "+156",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -103,12 +109,6 @@
         {
           "event": "Will the S&P 500 Index gain at least 3% on any day in Q1?",
           "odds": "+257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Dow Jones (DJIA) Up or Down on March 9?",
-          "odds": "+156",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -150,13 +150,13 @@
         },
         {
           "event": "Will Lê Minh Hưng be the next Prime Minister of Vietnam?",
-          "odds": "-777",
+          "odds": "-809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Mitch McConnell step down from the Senate before his term ends?",
-          "odds": "+170",
+          "event": "Will Trump’s approval rating be less than 41.0 on March 13, 2026?",
+          "odds": "+270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,14 +167,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Tundra Esports win PGL Wallachia Season 7?",
-          "odds": "+809",
+          "event": "Will AA Argentinos Juniors vs. CA Rosario Central end in a draw?",
+          "odds": "+194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Joao Pedro be the top goal scorer in the 2025–26 English Premier League season?",
-          "odds": "+1462",
+          "event": "Will Tundra Esports win PGL Wallachia Season 7?",
+          "odds": "+809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -185,7 +185,7 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Atlanta be between 78-79°F on March 9?",
+          "event": "Will Gold (GC) hit (HIGH) $5,600 by end of March?",
           "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
@@ -197,14 +197,14 @@
           "moved": "none"
         },
         {
-          "event": "Will BBL Esports win Masters Santiago 2026?",
-          "odds": "+488",
+          "event": "Will Manchester United FC win on 2026-03-20?",
+          "odds": "+108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Mantova 1911 win on 2026-03-08?",
-          "odds": "+163",
+          "event": "Will Ilia Topuria fight Charles Oliveira next?",
+          "odds": "+257",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
