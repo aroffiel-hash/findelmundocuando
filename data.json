@@ -1,6 +1,7 @@
 {
-  "lastUpdated": "08 de marzo de 2026 — 20:52 UTC",
+  "lastUpdated": "08 de marzo de 2026 — 21:44 UTC",
   "ticker": [
+    "Marches for International Women’s Day denounce war, abuse and oppression",
     "Colombia elects Congress, chooses presidential candidates amid US tensions",
     "Thousands flee Akobo after South Sudan army issues forced evacuation order",
     "Trump pledges to block legislation until US voter ID law passes",
@@ -14,8 +15,7 @@
     "Israel’s Mossad relies on US cover and security rot for Iran strikes",
     "Is Israel reshaping Lebanon, trying to separate Hezbollah from its people?",
     "We, the American people, have had enough of endless wars",
-    "More than 500,000 displaced in Lebanon as Israel escalates attacks",
-    "‘Gulf countries may question US capability to protect them’"
+    "More than 500,000 displaced in Lebanon as Israel escalates attacks"
   ],
   "sections": [
     {
@@ -30,7 +30,13 @@
         },
         {
           "event": "Israel strike on Damascus by March 31, 2026?",
-          "odds": "+566",
+          "odds": "+700",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Matt Pinnell replace Markwayne Mullin as United States Senator from Oklahoma?",
+          "odds": "-117",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -47,20 +53,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Matt Pinnell replace Markwayne Mullin as United States Senator from Oklahoma?",
-          "odds": "-104",
+          "event": "US announces military support of Iran oppostion by March 31?",
+          "odds": "+316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Israel annex any territory by June 30?",
           "odds": "+681",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "US announces military support of Iran oppostion by March 31?",
-          "odds": "+334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -73,6 +73,12 @@
         {
           "event": "Bank of England decreases interest rates by 25 bps after April 2026 meeting?",
           "odds": "+284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "S&P 500 (SPX) Up or Down on March 9?",
+          "odds": "+222",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -95,8 +101,8 @@
           "moved": "none"
         },
         {
-          "event": "S&P 500 (SPX) Up or Down on March 9?",
-          "odds": "+138",
+          "event": "Will gas hit (High) $5.00 by March 31?",
+          "odds": "+183",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -161,8 +167,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Call of Duty: Toronto KOI vs Boston Breach - Game 2 Winner",
-          "odds": "-122",
+          "event": "Will the Democratic Party win the TX-25 House seat?",
+          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -185,26 +191,26 @@
           "moved": "none"
         },
         {
-          "event": "Magic vs. Bucks",
-          "odds": "-185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Manchester United FC win on 2026-03-20?",
           "odds": "+108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Munich be 13°C on March 9?",
-          "odds": "+900",
+          "event": "Will Claude 5 be released by April 30, 2026?",
+          "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Jessica Pegula win the 2026 Women’s French Open?",
           "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Celtics vs. Spurs",
+          "odds": "+127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
