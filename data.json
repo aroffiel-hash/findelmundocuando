@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "08 de marzo de 2026 — 08:59 UTC",
+  "lastUpdated": "08 de marzo de 2026 — 09:54 UTC",
   "ticker": [
+    "Iran’s Assembly of Experts says consensus reached on Khamenei’s successor",
+    "‘No popular support’: China warns against government change in Iran",
+    "LIVE: India vs New Zealand – T20 World Cup final",
     "Children wounded in the US-Israeli strikes receive treatment in Tehran",
     "Israel strikes Iran’s oil facilities for first time as war enters ninth day",
     "Iran war: What is happening on day nine of US-Israel attacks?",
@@ -12,22 +15,13 @@
     "Trump says US does not need UK’s aircraft carriers for Iran war",
     "Iran war live: Israel hit Tehran oil depots; Bahrain desalination plant hit",
     "Huge fire rages at Tehran oil depot after Israeli attack",
-    "Zelenskyy offers Saudi Arabia’s MBS help countering Iranian drones",
-    "Trump administration denies reports that Iran captured US soldiers",
-    "Lamine Yamal gives Barcelona hard-fought 1-0 win at Athletic Bilbao",
-    "Trump oversees return of US troops killed in Iranian drone strike"
+    "Zelenskyy offers Saudi Arabia’s MBS help countering Iranian drones"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Will the Iranian regime fall by April 30?",
-          "odds": "+376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will 'Arirang' - BTS debut week album sales be between 3m and 3.5m?",
           "odds": "+2339",
@@ -42,19 +36,25 @@
         },
         {
           "event": "Israel strike on Damascus by March 31, 2026?",
-          "odds": "+521",
+          "odds": "+852",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will \"War Machine\" be the top global Netflix movie this week?",
-          "odds": "-2464",
+          "odds": "-3024",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Iran strike Yemen in March?",
           "odds": "+2122",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Russia enter Orikhiv by June 30?",
+          "odds": "+138",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -70,18 +70,6 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
-        {
-          "event": "Will Crude Oil (CL) hit (HIGH) $140 by end of March?",
-          "odds": "+170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Brentford finish in the top 4 of the EPL 2025–26 standings?",
-          "odds": "+2225",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Bank of England decreases interest rates by 25 bps after April 2026 meeting?",
           "odds": "+284",
@@ -107,8 +95,20 @@
           "moved": "none"
         },
         {
-          "event": "Will Crude Oil (CL) hit (HIGH) $130 by end of March?",
-          "odds": "+112",
+          "event": "Will the S&P 500 Index gain at least 3% on any day in Q1?",
+          "odds": "+257",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will four or more people dissent the March Fed decision?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the S&P 500 Index lose at least 4% on any day in Q1?",
+          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -144,19 +144,19 @@
         },
         {
           "event": "Will Lê Minh Hưng be the next Prime Minister of Vietnam?",
-          "odds": "-870",
+          "odds": "-890",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will SPD win the most seats in the 2026 Rhineland-Palatinate parliamentary elections?",
+          "odds": "+194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Trump's approval rating hit 35% in 2026?",
           "odds": "+244",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Jean-Luc Moudenc be the next mayor of Toulouse following the 2026 Toulouse municipal election?",
-          "odds": "-138",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -166,18 +166,6 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
-        {
-          "event": "Will Gold (GC) hit (HIGH) $5,600 by end of March?",
-          "odds": "+177",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Tundra Esports win PGL Wallachia Season 7?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Gentle Mates win Masters Santiago 2026?",
           "odds": "+1718",
@@ -197,20 +185,32 @@
           "moved": "none"
         },
         {
+          "event": "Nothing Ever Happens: March",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Manchester United FC win on 2026-03-20?",
           "odds": "+108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Donald Trump post 40-59 Truth Social posts from March 10 to March 17, 2026?",
-          "odds": "+1036",
+          "event": "Will Freddie Mac not IPO by June 30, 2026?",
+          "odds": "-2122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Freddie Mac not IPO by June 30, 2026?",
-          "odds": "-2122",
+          "event": "AHL: Hershey Bears vs. Providence Bruins",
+          "odds": "+156",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump say \"Easter\" in March?",
+          "odds": "-900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
