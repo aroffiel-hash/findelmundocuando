@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "08 de marzo de 2026 — 19:01 UTC",
+  "lastUpdated": "08 de marzo de 2026 — 20:52 UTC",
   "ticker": [
+    "Colombia elects Congress, chooses presidential candidates amid US tensions",
+    "Thousands flee Akobo after South Sudan army issues forced evacuation order",
+    "Trump pledges to block legislation until US voter ID law passes",
+    "Aftermath in Iran of US and Israeli air strikes",
+    "How do you track a war in real time?",
+    "Rangers vs Celtic turns ugly as fans clash on pitch after Scottish Cup tie",
+    "Trump vows control over Iran leaders as US troop death toll rises to seven",
     "Two killed in Saudi Arabia after ‘projectile’ falls on residential building",
     "Why is the conflict with Iran being framed as a ‘holy war’?",
     "T20 World Cup final: India defeat New Zealand by 96 runs for third title",
@@ -8,26 +15,13 @@
     "Is Israel reshaping Lebanon, trying to separate Hezbollah from its people?",
     "We, the American people, have had enough of endless wars",
     "More than 500,000 displaced in Lebanon as Israel escalates attacks",
-    "‘Gulf countries may question US capability to protect them’",
-    "Iran women’s football team sing anthem amid safety concerns during war",
-    "How targeting of desalination plants could disrupt water supply in the Gulf",
-    "Uganda’s Jacob Kiplimo regains half-marathon world record in Lisbon",
-    "Amid escalation, Iran religious scholars signal new leader to be named soon",
-    "UNICEF spokesman enraged over child casualties from Israeli-US Iran war",
-    "Pope Leo urges dialogue amid Middle East war",
-    "Al Jazeera reporter boards first flight to Doha since war on Iran"
+    "‘Gulf countries may question US capability to protect them’"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Will Iran strike Abqaiq oil processing facility by March 31?",
-          "odds": "+233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Kuwait recognize Israel by June 30?",
           "odds": "+208",
@@ -49,6 +43,12 @@
         {
           "event": "Will Iran strike Yemen in March?",
           "odds": "+2122",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Matt Pinnell replace Markwayne Mullin as United States Senator from Oklahoma?",
+          "odds": "-104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -78,13 +78,7 @@
         },
         {
           "event": "Pam Bondi out as Attorney General by March 31?",
-          "odds": "+484",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Crude Oil (CL) hit (HIGH) $120 by end of March?",
-          "odds": "-112",
+          "odds": "+706",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -101,14 +95,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Crude Oil (CL) hit (HIGH) $200 by end of March?",
-          "odds": "+1539",
+          "event": "S&P 500 (SPX) Up or Down on March 9?",
+          "odds": "+138",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Oilers vs. Golden Knights: O/U 7.5",
-          "odds": "+203",
+          "event": "Will the S&P 500 Index lose at least 4% on any day in Q1?",
+          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -155,8 +149,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Al Mina be the Republican nominee for Senate in Virginia?",
-          "odds": "+1899",
+          "event": "Will Iván Cepeda Castro win the 1st round of the 2026 Colombian presidential election?",
+          "odds": "-212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,8 +161,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Gentle Mates win Masters Santiago 2026?",
-          "odds": "+1718",
+          "event": "Call of Duty: Toronto KOI vs Boston Breach - Game 2 Winner",
+          "odds": "-122",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Gold (GC) hit (HIGH) $6,200 by end of March?",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -179,14 +179,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Trump say \"Easter\" in March?",
-          "odds": "-900",
+          "event": "Will DeepSeek have the best AI model at the end of June 2026?",
+          "odds": "+3125",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will DeepSeek have the best AI model at the end of June 2026?",
-          "odds": "+3233",
+          "event": "Magic vs. Bucks",
+          "odds": "-185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -197,20 +197,14 @@
           "moved": "none"
         },
         {
-          "event": "Will FK Akron Tolyatti win on 2026-03-09?",
-          "odds": "+669",
+          "event": "Will the highest temperature in Munich be 13°C on March 9?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Wild vs. Avalanche",
-          "odds": "+143",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump say \"Kennedy\" this week? (March 15)",
-          "odds": "-122",
+          "event": "Will Jessica Pegula win the 2026 Women’s French Open?",
+          "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
