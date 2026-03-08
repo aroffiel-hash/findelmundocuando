@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "08 de marzo de 2026 — 07:43 UTC",
+  "lastUpdated": "08 de marzo de 2026 — 08:59 UTC",
   "ticker": [
+    "Children wounded in the US-Israeli strikes receive treatment in Tehran",
+    "Israel strikes Iran’s oil facilities for first time as war enters ninth day",
+    "Iran war: What is happening on day nine of US-Israel attacks?",
+    "Israeli attack on hotel in Lebanon’s Beirut kills four",
     "Palestinians risk life and limb to fish in Gaza’s Israeli-controlled sea",
     "Israel strikes busy Beirut hotel in assassination attempt",
     "Rapper-turned-politician Balen Shah’s RSP heads for poll landslide in Nepal",
@@ -11,11 +15,7 @@
     "Zelenskyy offers Saudi Arabia’s MBS help countering Iranian drones",
     "Trump administration denies reports that Iran captured US soldiers",
     "Lamine Yamal gives Barcelona hard-fought 1-0 win at Athletic Bilbao",
-    "Trump oversees return of US troops killed in Iranian drone strike",
-    "US embassy in Baghdad attacked as US-Israel war on Iran escalates",
-    "How far will the Iran war spillover?",
-    "Florida Bar denies investigation into Trump lawyer Lindsey Halligan",
-    "Doctors try to save girl as father was killed in Gaza Israeli attack"
+    "Trump oversees return of US troops killed in Iranian drone strike"
   ],
   "sections": [
     {
@@ -23,20 +23,32 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Kuwait recognize Israel by June 30?",
-          "odds": "+208",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the Iranian regime fall by April 30?",
           "odds": "+376",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
+          "event": "Will 'Arirang' - BTS debut week album sales be between 3m and 3.5m?",
+          "odds": "+2339",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Kuwait recognize Israel by June 30?",
+          "odds": "+208",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Israel strike on Damascus by March 31, 2026?",
-          "odds": "+309",
+          "odds": "+521",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will \"War Machine\" be the top global Netflix movie this week?",
+          "odds": "-2464",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -51,18 +63,6 @@
           "odds": "+1462",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will Israel annex any territory by June 30?",
-          "odds": "+681",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Mark Warner be the Democratic nominee for Senate in Virginia?",
-          "odds": "-900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -70,6 +70,12 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
+        {
+          "event": "Will Crude Oil (CL) hit (HIGH) $140 by end of March?",
+          "odds": "+170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Brentford finish in the top 4 of the EPL 2025–26 standings?",
           "odds": "+2225",
@@ -84,7 +90,7 @@
         },
         {
           "event": "Pam Bondi out as Attorney General by March 31?",
-          "odds": "+706",
+          "odds": "+817",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -95,20 +101,14 @@
           "moved": "none"
         },
         {
-          "event": "Dow Jones (DJIA) Up or Down on March 9?",
-          "odds": "+156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Poilievre out as leader of Conservatives before 2027?",
-          "odds": "+257",
+          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the S&P 500 Index gain at least 3% on any day in Q1?",
-          "odds": "+257",
+          "event": "Will Crude Oil (CL) hit (HIGH) $130 by end of March?",
+          "odds": "+112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -118,12 +118,6 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
-        {
-          "event": "Will Trump’s approval rating be between 42.5 and 42.9 on March 13, 2026?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Aziz Akhannouch out as Morocco Prime Minister by December 31, 2026?",
           "odds": "-843",
@@ -150,13 +144,19 @@
         },
         {
           "event": "Will Lê Minh Hưng be the next Prime Minister of Vietnam?",
-          "odds": "-809",
+          "odds": "-870",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Trump’s approval rating be less than 41.0 on March 13, 2026?",
-          "odds": "+270",
+          "event": "Will Trump's approval rating hit 35% in 2026?",
+          "odds": "+244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jean-Luc Moudenc be the next mayor of Toulouse following the 2026 Toulouse municipal election?",
+          "odds": "-138",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,8 +167,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will AA Argentinos Juniors vs. CA Rosario Central end in a draw?",
-          "odds": "+194",
+          "event": "Will Gold (GC) hit (HIGH) $5,600 by end of March?",
+          "odds": "+177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -179,14 +179,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Jay Collins be the Republican nominee for Florida Governor?",
-          "odds": "+2602",
+          "event": "Will Gentle Mates win Masters Santiago 2026?",
+          "odds": "+1718",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Gold (GC) hit (HIGH) $5,600 by end of March?",
-          "odds": "+233",
+          "event": "Will Jay Collins be the Republican nominee for Florida Governor?",
+          "odds": "+2602",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -203,8 +203,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Ilia Topuria fight Charles Oliveira next?",
-          "odds": "+257",
+          "event": "Will Donald Trump post 40-59 Truth Social posts from March 10 to March 17, 2026?",
+          "odds": "+1036",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
