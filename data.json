@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "09 de marzo de 2026 — 19:54 UTC",
+  "lastUpdated": "09 de marzo de 2026 — 21:03 UTC",
   "ticker": [
-    "What is the US endgame in Iran, as the war escalates?",
+    "Who is Iran’s new supreme leader, Mojtaba Khamenei?",
+    "Putin says Russia can supply oil, gas to Europe as energy prices soar",
+    "Why Israel’s war on Hezbollah keeps returning",
+    "What is Trump’s endgame in Iran as the US-Israel war escalates?",
     "What to know about Iran’s new Supreme Leader Mojtaba Khamenei",
     "Anthropic sues Trump administration to undo US ‘supply chain risk’ tag",
     "WHO chief raises alarm after Israeli attacks on Iranian oil facilities",
     "How the Iran war is affecting Africa",
     "Trump says Australia has ‘taken care of’ five Iranian women footballers",
     "France preparing to escort ships in Strait of Hormuz when war calms: Macron",
-    "US senators demand probe into ‘appalling’ attack on girls’s school in Iran",
+    "US senators demand probe into ‘appalling’ attack on girls’ school in Iran",
     "US military kills six in strike on alleged drug boat in the Eastern Pacific",
     "Turkiye says Iranian ballistic missile intercepted by NATO air defences",
     "What defence support could Ukraine offer Middle East states amid Iran war?",
-    "Iran’s authorities showcase continuity as they back new leader during war",
-    "Israeli forces kill Palestinian journalist Amal Shamali in Gaza attack",
-    "Israeli attacks on Iran fuel sites aim ‘to break resilience of people’",
-    "Fear, uncertainty surround Iran women’s football team’s return home"
+    "Iran authorities support continuity with backing for Mojtaba Khamenei"
   ],
   "sections": [
     {
@@ -30,13 +30,13 @@
         },
         {
           "event": "Israel strike on Damascus by March 31, 2026?",
-          "odds": "+402",
+          "odds": "+397",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Valorant: FearX vs ONSIDE GAMING (BO3) - VCL Korea: Regular Season",
-          "odds": "+170",
+          "event": "Israel x Hezbollah ceasefire by March 31, 2026?",
+          "odds": "+334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -71,26 +71,26 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Bank of England decreases interest rates by 25 bps after March 2026 meeting?",
-          "odds": "+1150",
+          "event": "Will the Kharg Island oil terminal be hit by March 31?",
+          "odds": "+203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Crude Oil (CL) hit (HIGH) $180 by end of March?",
+          "odds": "+2677",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Crude Oil (CL) hit (HIGH) $105 by end of March?",
+          "odds": "+108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Powell say \"Recession\" during March press conference?",
           "odds": "+170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Kharg Island oil terminal be hit by March 31?",
-          "odds": "+194",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Crude Oil (CL) hit (HIGH) $180 by end of March?",
-          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -108,7 +108,7 @@
         },
         {
           "event": "Will the S&P 500 Index gain at least 5% on any day in Q1?",
-          "odds": "+1308",
+          "odds": "+1415",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -137,12 +137,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Starmer say \"Treasury\" during the next Prime Minister's Questions event?",
-          "odds": "+194",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Iván Cepeda Castro win the 1st round of the 2026 Colombian presidential election?",
           "odds": "-194",
           "params": "Fuente: Polymarket",
@@ -159,6 +153,12 @@
           "odds": "+212",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will CDU win the most seats in the 2026 Rhineland-Palatinate parliamentary elections?",
+          "odds": "-143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -166,6 +166,12 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
+        {
+          "event": "Will \"MMA\" be said on the first Joe Rogan Experience episode of the week? (March 15)",
+          "odds": "+156",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will 100 Thieves qualify to a S-tier tournament by June 1 ?",
           "odds": "+284",
@@ -179,20 +185,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Elon Musk post 280-299 tweets from March 6 to March 13, 2026?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Toronto be 8°C or higher on March 11?",
-          "odds": "-1566",
+          "event": "Will the price of XRP be between $1.40 and $1.50 on March 11?",
+          "odds": "+194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will MetaMask launch a token by June 30?",
-          "odds": "+614",
+          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -209,8 +209,8 @@
           "moved": "none"
         },
         {
-          "event": "BNP Paribas Open: Arthur Fils vs Felix Auger-Aliassime",
-          "odds": "+132",
+          "event": "Will Coco Gauff be the 2026 Women’s Wimbledon Winner?",
+          "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
