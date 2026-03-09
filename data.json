@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "09 de marzo de 2026 — 05:12 UTC",
+  "lastUpdated": "09 de marzo de 2026 — 08:01 UTC",
   "ticker": [
-    "Oil soars past $100 a barrel as US-Israel war on Iran rages",
+    "Body recovered from rubble in Tehran",
+    "What asymmetric warfare may tell us about Iran’s fighting chances",
+    "At least 42 people killed in days of floods across Kenya",
+    "IRGC warns of energy war after US-Israeli strikes on Iranian assets",
+    "Bangladesh shuts universities, limits fuel sale as Iran war causes shortage",
+    "Israel unlawfully used white phosphorus in Lebanon: HRW",
+    "Iran’s IRGC backs Mojtaba Khamenei as new supreme leader",
+    "Oil soars past $100 a barrel, stocks plunge as US-Israel war on Iran rages",
     "Iran war live: Mojtaba Khamenei named supreme leader; Israel bombs Tehran",
     "Iran names Ayatollah Khamenei’s son as new leader after father’s killing",
     "Who’s in control in Iran and how will Gulf states react to attacks?",
     "One ‘party state’: Guinea dissolves main opposition parties",
     "Palestinians killed during Israeli settler attack in the occupied West Bank",
-    "Iran names Khamenei’s son as new supreme leader after father’s killing",
-    "‘Explosive device’ thrown at protest outside NYC Mayor Mamdani home: NYPD",
-    "Marches for International Women’s Day denounce war, abuse and oppression",
-    "Colombia elects Congress, chooses presidential candidates amid US tensions",
-    "Thousands flee Akobo after South Sudan army issues forced evacuation order",
-    "Trump pledges to block legislation until US voter ID law passes",
-    "Aftermath in Iran of US and Israeli air strikes",
-    "How do you track a war in real time?",
-    "Rangers vs Celtic turns ugly as fans clash on pitch after Scottish Cup tie"
+    "Iran names Mojtaba Khamenei as new supreme leader after father’s killing",
+    "‘Explosive device’ thrown at protest outside NYC Mayor Mamdani home: NYPD"
   ],
   "sections": [
     {
@@ -23,8 +23,14 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
+          "event": "Will Saudi Arabia strike Iran by March 31?",
+          "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Israel strike on Damascus by March 31, 2026?",
-          "odds": "+325",
+          "odds": "+332",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -35,32 +41,26 @@
           "moved": "none"
         },
         {
-          "event": "Will Russia enter Orikhiv by June 30?",
-          "odds": "+138",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Saudi Arabia strike Iran by March 31?",
-          "odds": "+163",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Train Dreams win Best Cinematography at the 98th Academy Awards?",
-          "odds": "+1198",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Israel annex any territory by June 30?",
-          "odds": "+726",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Israel advance through the first Eurovision Semi-Final?",
           "odds": "-1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Russia enter Orikhiv by June 30?",
+          "odds": "+138",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "NATO x Russia military clash by December 31, 2026?",
+          "odds": "+334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -83,32 +83,32 @@
           "moved": "none"
         },
         {
+          "event": "Will the S&P 500 Index lose at least 4% on any day in Q1?",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Poilievre out as leader of Conservatives before 2027?",
           "odds": "+270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the S&P 500 Index lose at least 4% on any day in Q1?",
-          "odds": "+376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the S&P 500 Index lose at least 3% on any day in Q1?",
-          "odds": "+104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Crude Oil (CL) settle at $70-$75 in March?",
-          "odds": "+3125",
+          "odds": "-108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the S&P 500 Index gain at least 5% on any day in Q1?",
           "odds": "+1594",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "S&P 500 (SPX) Opens Up or Down on March 9?",
+          "odds": "+2339",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -137,8 +137,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Trump's approval rating hit 35% in 2026?",
-          "odds": "+244",
+          "event": "Will Starmer say \"Child\" during the next Prime Minister's Questions event?",
+          "odds": "-112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -149,14 +149,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Ed Hale win the 2026 Maryland Governor Republican primary election?",
-          "odds": "+284",
+          "event": "Will Alex Vanopslagh be the next prime minister of Denmark after the 2026 parliamentary elections?",
+          "odds": "+1269",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Nancy Mace win the 2026 South Carolina Governor Republican primary election?",
-          "odds": "+525",
+          "event": "Will Ed Hale win the 2026 Maryland Governor Republican primary election?",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,50 +167,50 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Opendoor (OPEN) Up or Down on March 9?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "KHL: CSKA Moscow vs. HC Sochi",
-          "odds": "-566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump say \"Central Casting\" this week? (March 15)",
-          "odds": "-104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Donald Trump visit Alaska in 2026?",
           "odds": "-524",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Claude 5 be released by April 30, 2026?",
-          "odds": "+233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Real Madrid CF win on 2026-03-17?",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Gold (GC) hit (LOW) $5,000 by end of March?",
-          "odds": "-488",
+          "event": "Counter-Strike: TheMongolz vs 3DMAX - Map 1 Winner",
+          "odds": "-138",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Jessica Pegula win the 2026 Women’s French Open?",
           "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will MetaMask launch a token by June 30?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Pacifica launch a token by December 31 2026?",
+          "odds": "-127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will \"Hoppers\" Opening Weekend Box Office be between 42m and 46m?",
+          "odds": "-669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Vedat Muriqi be the top goal scorer in the 2025–26 La Liga season?",
+          "odds": "+1036",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Any country withdraws from EU before 2027?",
+          "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
