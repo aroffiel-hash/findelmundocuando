@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "10 de marzo de 2026 — 05:00 UTC",
+  "lastUpdated": "10 de marzo de 2026 — 07:57 UTC",
   "ticker": [
+    "Iranian strike kills Bahraini woman after hitting residential building",
+    "Trump threatens Cuba again, says island nation may face ‘friendly takeover’",
+    "Woman killed in Bahrain as Gulf states intercept more Iranian missiles",
+    "Afghanistan vs Sri Lanka cricket series called off due to Iran war",
+    "US to end prosecution of Turkiye’s Halkbank over alleged business with Iran",
+    "Gaza food prices soar as crossing closures deepen shortages amid Iran war",
+    "The ‘Fourth Successor’: Iran’s plan for a long war with the US and Israel",
+    "US consumers express dismay over rising gas prices after attack on Iran",
+    "North Korea denounces ‘muscle-flexing’ US-South Korean military exercises",
     "Australia to send missiles to UAE, surveillance plane to help Gulf defence",
     "Trump claims Iran planned to ‘take over Middle East’ before US attacked",
     "Trump says some sanctions to be lifted on oil producers amid Iran war",
     "Iran says no future negotiations with US after ‘bitter experience’",
     "Trump threatens to hit Iran harder if it blocks energy supplies",
-    "Iran war may end ‘pretty quickly’: What Trump told Republicans",
-    "‘No middle ground’: Israelis back Iran war, despite taking mounting hits",
-    "Iranians rally to welcome Mojtaba Khamenei as new supreme leader",
-    "Iran war live: Trump says conflict will be over soon; Gulf attacks continue",
-    "Trump says US-Israeli war on Iran will be over ‘very soon’",
-    "Where do the 35 million foreigners living in the GCC come from?",
-    "US blacklists Sudanese Muslim Brotherhood as ‘terrorist’ group",
-    "World reacts to appointment of Mojtaba Khamenei as Iran’s supreme leader",
-    "Qatar releases video of interception of Iranian missiles",
-    "Trump slams Mojtaba Khamenei’s appointment as Iran projects defiance"
+    "Iran war may end ‘pretty quickly’: What Trump told Republicans"
   ],
   "sections": [
     {
@@ -23,8 +23,20 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
+          "event": "Trump announces end of military operations against Iran by June 30th?",
+          "odds": "-488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Hamnet win Best Adapted Screenplay at the 98th Academy Awards?",
           "odds": "+2757",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Russia capture all of Huliaipole by March 31?",
+          "odds": "+376",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -35,32 +47,20 @@
           "moved": "none"
         },
         {
-          "event": "Will Russia capture all of Huliaipole by March 31?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Israel annex any territory by June 30?",
-          "odds": "+930",
+          "odds": "+963",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will USD reach 1.8M Iranian rials by March 31?",
-          "odds": "+614",
+          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Iran leadership change by December 31?",
-          "odds": "-177",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Russia enter Druzkhivka by June 30?",
-          "odds": "+270",
+          "odds": "-194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -77,8 +77,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Crude Oil (CL) hit (LOW) $80 by end of March?",
-          "odds": "-127",
+          "event": "Will Crude Oil (CL) hit (HIGH) $100 by end of June?",
+          "odds": "-289",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -89,26 +89,26 @@
           "moved": "none"
         },
         {
-          "event": "Will Crude Oil (CL) hit (HIGH) $100 by end of June?",
-          "odds": "-296",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Poilievre out as leader of Conservatives before 2027?",
           "odds": "+257",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will \"Oil\" be said on the first Joe Rogan Experience episode of the week? (March 15)",
-          "odds": "-212",
+          "event": "Will Crude Oil (CL) hit (HIGH) $100 by March 13?",
+          "odds": "+257",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Crude Oil (CL) hit (HIGH) $100 by March 13?",
-          "odds": "+203",
+          "event": "Will \"Oil\" be said on the first Joe Rogan Experience episode of the week? (March 15)",
+          "odds": "-185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Fed rate cut by April 2026 meeting?",
+          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -119,20 +119,26 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
+          "event": "Will Lebanese Forces win the most seats in the 2026 Lebanese parliamentary election?",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will David Williams be the Republican nominee for Senate in Virginia?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Heather McPherson win the Canadian NDP Leadership election?",
           "odds": "+706",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Lebanese Forces win the most seats in the 2026 Lebanese parliamentary election?",
-          "odds": "+455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Christine Lagarde out as ECB president in 2026?",
-          "odds": "+233",
+          "odds": "+257",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -149,14 +155,8 @@
           "moved": "none"
         },
         {
-          "event": "Will President Trump sign 7 pieces of legislation into law in March?",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will GroenLinks–Labour Party (GL–PvdA) win the most seats in Rotterdam’s 2026 municipal election?",
-          "odds": "+809",
+          "event": "Will Al Mina be the Republican nominee for Senate in Virginia?",
+          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,8 +167,20 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Elon Musk post 380-399 tweets from March 13 to March 20, 2026?",
-          "odds": "+1328",
+          "event": "Will Alvin Kamara be traded?",
+          "odds": "-127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Nottm Forest be relegated from the English Premier League after the 2025–26 season?",
+          "odds": "+270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Toronto be 18°C or higher on March 10?",
+          "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -179,14 +191,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Apple (AAPL) close above $280 end of March?",
-          "odds": "+426",
+          "event": "Avalanche vs. Kraken",
+          "odds": "-185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Sao Paulo be 22°C on March 10?",
-          "odds": "+212",
+          "event": "Will Apple (AAPL) close above $280 end of March?",
+          "odds": "+426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -197,20 +209,8 @@
           "moved": "none"
         },
         {
-          "event": "Will 45 or more ships transit the Strait of Hormuz between March 10-16?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will MetaMask launch a token by June 30?",
           "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Nottm Forest be relegated from the English Premier League after the 2025–26 season?",
-          "odds": "+270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
