@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "10 de marzo de 2026 — 22:57 UTC",
+  "lastUpdated": "10 de marzo de 2026 — 23:53 UTC",
   "ticker": [
+    "Brazil’s Jair Bolsonaro seeks court approval for visit from Trump official",
+    "Democrats say White House offers no clarity on Iran war goals after 11 days",
     "Late Yamal penalty earns Barcelona draw at Newcastle in Champions League",
     "US civil rights group documents ‘broad attack on Muslim life’ in 2025",
     "Around 140 US service members wounded in Iran war, Pentagon says",
@@ -13,9 +15,7 @@
     "Five stories you may have missed amid US-Israeli war on Iran",
     "‘America has no narrative for victory’",
     "Russian attack kills four in Ukraine’s Sloviansk as both sides claim gains",
-    "Moment ‘Hezbollah missile’ strikes Israeli radar station",
-    "White House denies US military escorted tanker in Hormuz after deleted post",
-    "Duterte’s drug war faces judgement at the ICC"
+    "Moment ‘Hezbollah missile’ strikes Israeli radar station"
   ],
   "sections": [
     {
@@ -24,19 +24,13 @@
       "rows": [
         {
           "event": "Will Russia enter Orikhiv by June 30?",
-          "odds": "+194",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Siena Saints vs. Merrimack College Warriors",
-          "odds": "+117",
+          "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Israel annex any territory by June 30?",
-          "odds": "+571",
+          "odds": "+488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -54,13 +48,19 @@
         },
         {
           "event": "US-Iran nuclear deal by April 30?",
-          "odds": "+400",
+          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Kevin Warsh Fed Chair nomination withdrawn by May 15?",
           "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Bernie Sanders vote to confirm Kevin Warsh as Chair of the Federal Reserve?",
+          "odds": "+2225",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -77,31 +77,31 @@
           "moved": "none"
         },
         {
+          "event": "Will Yanaki Stoilov win the next Bulgarian presidential election?",
+          "odds": "+843",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "OpenAI receives federal backstop for infrastructure before July?",
-          "odds": "+1899",
+          "odds": "+1308",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Poilievre out as leader of Conservatives before 2027?",
-          "odds": "+244",
+          "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "S&P 500 all time high by March 31, 2026?",
-          "odds": "+156",
+          "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will S&P 500 (SPX) close over 5,850 on Friday of the week of Mar 16 – Mar 20?",
-          "odds": "-3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will S&P 500 (SPX) close over 5,925 on Friday of the week of Mar 16 – Mar 20?",
           "odds": "-3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
@@ -119,14 +119,14 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will David Williams be the Republican nominee for Senate in Virginia?",
-          "odds": "+455",
+          "event": "Will Trump's approval rating hit 35% in 2026?",
+          "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Trump’s approval rating be less than 41.0 on March 13, 2026?",
-          "odds": "+117",
+          "odds": "+127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -137,8 +137,8 @@
           "moved": "none"
         },
         {
-          "event": "Will President Trump sign 4 pieces of legislation into law in March?",
-          "odds": "+2400",
+          "event": "Will Pacto Histórico win 24-26 seats in the Colombian Senate in the 2026 Colombian parliamentary election?",
+          "odds": "-2399",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -149,8 +149,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Pacto Histórico win 24-26 seats in the Colombian Senate in the 2026 Colombian parliamentary election?",
-          "odds": "-2339",
+          "event": "Will Al Mina be the Republican nominee for Senate in Virginia?",
+          "odds": "+3125",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -173,6 +173,12 @@
           "moved": "none"
         },
         {
+          "event": "Will the highest temperature in Ankara be 13°C on March 12?",
+          "odds": "+284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "SpaceX or OpenAI higher IPO Market Cap?",
           "odds": "-646",
           "params": "Fuente: Polymarket",
@@ -185,32 +191,26 @@
           "moved": "none"
         },
         {
+          "event": "First Round Pool A: Puerto Rico vs. Canada",
+          "odds": "-185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will MetaMask launch a token by June 30?",
           "odds": "+809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Ankara be 15°C or higher on March 12?",
-          "odds": "+354",
+          "event": "Will 25-29 ships transit the Strait of Hormuz between March 10-16?",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Any country withdraws from EU before 2027?",
           "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "BNP Paribas Open: Joao Fonseca vs Jannik Sinner",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will xAI have the third-best AI model at the end of March 2026?",
-          "odds": "+3125",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
