@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "11 de marzo de 2026 — 17:38 UTC",
+  "lastUpdated": "11 de marzo de 2026 — 19:53 UTC",
   "ticker": [
+    "Three brothers arrested in Norway over bomb attack on US embassy in Oslo",
+    "Six die in Swiss bus fire after man thought to have set himself alight",
+    "The hidden battlefield: Censorship in the Israel–Iran war",
+    "Ship crew film drone strike on oil facility at Oman’s Salalah port",
+    "What’s left in Iran ‘could be taken out in an hour’, says Trump",
+    "UK court rejects bid to reinstate ‘terrorism’ charge against Kneecap rapper",
     "FIFA World Cup: US war on Iran, Mexico violence, visa bans, Iraq qualifier",
     "Trump says Iran war to end ‘soon’ as Israel claims no time limit",
     "LIVE: Real Madrid vs Manchester City – Champions League last 16",
@@ -9,13 +15,7 @@
     "IEA recommends record 400M barrel oil release amid Iran war",
     "UN warns of widening crisis as Israeli attacks displace 750,000 in Lebanon",
     "Shell declares force majeure on LNG contracts from Qatar",
-    "Not ‘a litre of oil’ to pass Strait of Hormuz, expect $200 price tag: Iran",
-    "US military confirms use of ‘advanced AI tools’ in war against Iran",
-    "Oil facilities in Oman’s Salalah port ablaze after drone strikes",
-    "Could the US deploy troops to Iran, and how could that play out?",
-    "The Israel-Hezbollah ceasefire was built to fail",
-    "Sudan’s devastating war rages on as regional rivalries deepen",
-    "IEA agrees to release 400 million barrels of oil from strategic reserves"
+    "Not ‘a litre of oil’ to pass Strait of Hormuz, expect $200 price tag: Iran"
   ],
   "sections": [
     {
@@ -29,12 +29,6 @@
           "moved": "none"
         },
         {
-          "event": "Iran leadership change by March 13?",
-          "odds": "+2841",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Israel annex any territory by June 30?",
           "odds": "+488",
           "params": "Fuente: Polymarket",
@@ -42,25 +36,31 @@
         },
         {
           "event": "Will Kevin Warsh be confirmed as Fed Chair?",
-          "odds": "-1685",
+          "odds": "-1718",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Sentimental Value win Best International Feature Film at the 98th Academy Awards?",
-          "odds": "-194",
+          "odds": "-203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Canadiens vs. Senators: O/U 4.5",
+          "odds": "-400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump say \"MIGA\" or \"Make Iran Great Again\" this week? (March 15)",
+          "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "US-Iran nuclear deal by March 31?",
           "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump say \"MIGA\" or \"Make Iran Great Again\" this week? (March 15)",
-          "odds": "+194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -71,14 +71,14 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "S&P 500 all time high by March 31, 2026?",
-          "odds": "+233",
+          "event": "OpenAI receives federal backstop for infrastructure before July?",
+          "odds": "+1308",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "OpenAI receives federal backstop for infrastructure before July?",
-          "odds": "+1308",
+          "event": "Will the US federal government take a stake in Lockheed Martin Corporation?",
+          "odds": "-244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -89,8 +89,20 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
+          "event": "Will Tran Luu Quang be the next Prime Minister of Vietnam?",
+          "odds": "+1487",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Pacto Histórico win 24-26 seats in the Colombian Senate in the 2026 Colombian parliamentary election?",
           "odds": "-1349",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Partido Popular (PP) win the 2026 Castilla y León Regional Election?",
+          "odds": "-1751",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -107,12 +119,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Partido Popular (PP) win the 2026 Castilla y León Regional Election?",
-          "odds": "-1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Sharon Brown advance from the CA-04 primary election?",
           "odds": "+1011",
           "params": "Fuente: Polymarket",
@@ -121,12 +127,6 @@
         {
           "event": "Will Al Mina be the Republican nominee for Senate in Virginia?",
           "odds": "+3125",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Karrin Taylor Robson win the 2026 Arizona Governor Republican primary election?",
-          "odds": "+3025",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -155,19 +155,7 @@
           "moved": "none"
         },
         {
-          "event": "XRP Up or Down - March 12, 3:10AM-3:15AM ET",
-          "odds": "-104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "XRP Up or Down - March 12, 6:00AM-6:05AM ET",
-          "odds": "-104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "XRP Up or Down - March 12, 4:50AM-4:55AM ET",
           "odds": "-104",
           "params": "Fuente: Polymarket",
           "moved": "none"
@@ -180,6 +168,18 @@
         },
         {
           "event": "XRP Up or Down - March 12, 3:00AM-3:05AM ET",
+          "odds": "-104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "XRP Up or Down - March 12, 1:40AM-1:45AM ET",
+          "odds": "-104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "XRP Up or Down - March 12, 1:25AM-1:30AM ET",
           "odds": "-104",
           "params": "Fuente: Polymarket",
           "moved": "none"
