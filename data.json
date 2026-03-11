@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "11 de marzo de 2026 — 07:57 UTC",
+  "lastUpdated": "11 de marzo de 2026 — 10:07 UTC",
   "ticker": [
+    "ICC rejects bias claims from stranded South Africa, West Indies cricketers",
+    "‘Titanic’ Trump-Epstein statue appears in Washington DC",
+    "Russia kills two in Ukraine’s Kharkiv; war grinds on, focus on Middle East",
+    "Video: North Korea conducts cruise missile test for destroyer",
+    "Europe’s hard right fractures over US-Israel war on Iran",
+    "Al Jazeera reports from Israeli bombing of Beirut apartment block",
+    "Damage caused to buildings in Tehran following US-Israeli strikes",
+    "Israel pounds Lebanon, targets residential building in central Beirut",
     "Israeli strikes hit Beirut suburbs",
     "Iran fires missiles, drones at Gulf nations as ship hit in Strait of Hormuz",
     "Iran war: What is happening on day 12 of US-Israel attacks?",
     "LeBron, NBA social media react to Bam Adebayo’s historic 83-point game",
     "‘The other side’ of IITs: Student suicides haunt India’s top tech schools",
     "The ‘orphan pearl’: Inside Kharg, the beating heart of Iran’s oil empire",
-    "Beirut building ablaze after apparent Israeli strike",
-    "Qatari minister says ‘regional countries are not an enemy of Iran’",
-    "Bam Adebayo scores 83 points, passes Kobe Bryant for second-most in NBA",
-    "Oil prices swing wildly amid mixed messages over Iran war",
-    "Can the Lebanese government deal with the displacement crisis?",
-    "N Korea ‘respects’ Iran’s selection of Mojtaba Khamenei as supreme leader",
-    "Bodies recovered after US-Israeli strikes hit Tehran",
-    "Qatar warns Gulf security is tied to global stability",
-    "Iranian women’s football team arrives in Malaysia from Australia"
+    "Beirut building ablaze after apparent Israeli strike"
   ],
   "sections": [
     {
@@ -36,19 +36,13 @@
         },
         {
           "event": "Will USD reach 1.8M Iranian rials by March 31?",
-          "odds": "+566",
+          "odds": "+525",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Israel annex any territory by June 30?",
-          "odds": "+491",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "US-Iran nuclear deal by April 30?",
-          "odds": "+426",
+          "odds": "+495",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -60,7 +54,13 @@
         },
         {
           "event": "Will Sentimental Value win Best International Feature Film at the 98th Academy Awards?",
-          "odds": "-185",
+          "odds": "-203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "US-Iran nuclear deal by March 31?",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -71,14 +71,32 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
+          "event": "Will \"Economy\" or \"Eco\" be said 10+ times during the Valorant Masters Grand Finals?",
+          "odds": "-354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Powell say \"Fed\" or \"Federal Reserve\" 7+ times during March press conference?",
+          "odds": "+132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "S&P 500 all time high by March 31, 2026?",
+          "odds": "+284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "OpenAI receives federal backstop for infrastructure before July?",
           "odds": "+1308",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "S&P 500 all time high by March 31, 2026?",
-          "odds": "+257",
+          "event": "Will Crude Oil (CL) hit (HIGH) $110 by March 13?",
+          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -89,18 +107,6 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Trump's approval rating hit 35% in 2026?",
-          "odds": "+233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Tisza win the national list vote in the 2026 Hungarian Parliamentary election by 3-6%?",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Pacto Histórico win 24-26 seats in the Colombian Senate in the 2026 Colombian parliamentary election?",
           "odds": "-1349",
           "params": "Fuente: Polymarket",
@@ -109,6 +115,12 @@
         {
           "event": "Will LeBron James announce a Presidential run before 2027?",
           "odds": "+2757",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Partido Popular (PP) win the 2026 Castilla y León Regional Election?",
+          "odds": "-1786",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -125,8 +137,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Partido Popular (PP) win the 2026 Castilla y León Regional Election?",
-          "odds": "-1786",
+          "event": "Will Tisza win the national list vote in the 2026 Hungarian Parliamentary election by 0-3%?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Nguesso out as President of the Republic of the Congo by end of 2026?",
+          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -137,13 +155,31 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "XRP Up or Down - March 12, 3:00AM-3:05AM ET",
+          "odds": "-104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "XRP Up or Down - March 12, 1:10AM-1:15AM ET",
           "odds": "-104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
+          "event": "XRP Up or Down - March 12, 3:10AM-3:15AM ET",
+          "odds": "-104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "XRP Up or Down - March 12, 1:50AM-1:55AM ET",
+          "odds": "-104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "XRP Up or Down - March 12, 2:40AM-2:45AM ET",
           "odds": "-104",
           "params": "Fuente: Polymarket",
           "moved": "none"
@@ -162,24 +198,6 @@
         },
         {
           "event": "XRP Up or Down - March 12, 1:25AM-1:30AM ET",
-          "odds": "-104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "XRP Up or Down - March 12, 1:55AM-2:00AM ET",
-          "odds": "-104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "XRP Up or Down - March 12, 1:20AM-1:25AM ET",
-          "odds": "-104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "XRP Up or Down - March 12, 2:10AM-2:15AM ET",
           "odds": "-104",
           "params": "Fuente: Polymarket",
           "moved": "none"
