@@ -1,27 +1,33 @@
 {
-  "lastUpdated": "12 de marzo de 2026 — 14:37 UTC",
+  "lastUpdated": "12 de marzo de 2026 — 17:38 UTC",
   "ticker": [
+    "Trump says not ‘appropriate’ for Iran to participate in the World Cup in US",
+    "Iran’s president sets terms to end the war: Is an off-ramp in sight?",
+    "US military ‘not ready’ to escort oil ships through Hormuz, official says",
+    "Iran’s new supreme leader issues first statement",
+    "Pakistan’s Abrar signed by India-owned Sunrisers in Hundred auction",
+    "Video shows moment Iran strikes US-owned oil tanker near Iraq",
+    "Up to 3.2 million people displaced across Iran amid US-Israeli attacks: UN",
     "Aftermath of US-Israeli attacks on Tehran",
     "Israeli attack hits civilians at Beirut beachfront: What we know",
     "Bunker-busting bombs loaded onto US planes at UK airbase amid Iran war",
     "Drug use on Ukraine’s front lines ‘rampant among Russian troops’",
     "Caught in the crossfire: US-Israel war on Iran fractures Gulf economies",
     "Can Iran’s asymmetric warfare hold US-Israeli military power at bay?",
-    "Iran’s Mojtaba Khamenei issues first statement as Supreme Leader amid war",
-    "How corporations have collaborated with US military over the decades",
-    "Children among victims in Pakistan’s shelling in Afghanistan: Taliban",
-    "Al Jazeera reporter sees destruction in Tehran neighbourhood",
-    "What we know about Iran and Hezbollah’s joint attacks on Israel",
-    "Massive destruction after Israeli strikes in Beirut neighbourhood",
-    "How much of the Gulf’s water comes from desalination plants?",
-    "How Iran’s women footballers took asylum in Australia and what happens next",
-    "At least 64 killed, dozens reported missing in Ethiopia landslides, floods"
+    "Words of defiance: Iran’s new Supreme Leader Mojtaba Khamenei lashes at US",
+    "How corporations have collaborated with US military over the decades"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Will Trump and Putin meet next in China?",
+          "odds": "+2073",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Iran agrees to end enrichment of uranium by June 30?",
           "odds": "+316",
@@ -30,13 +36,7 @@
         },
         {
           "event": "Will Israel reopen its embassy in Iran in 2026?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Game Handicap: K5 (-1.5) vs Hasib Warriors (+1.5)",
-          "odds": "-900",
+          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -48,13 +48,13 @@
         },
         {
           "event": "Iran nuclear test before 2027?",
-          "odds": "+733",
+          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Powell say \"China\" during March press conference?",
-          "odds": "+138",
+          "event": "Will the Bank of Korea make no change to the base rate after the April Meeting?",
+          "odds": "-809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -71,32 +71,20 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will S&P 500 (SPX) hit $7,450 (HIGH) in June?",
-          "odds": "+354",
+          "event": "Will Crude Oil (CL) hit (LOW) $75 by end of March?",
+          "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Crude Oil (CL) hit (HIGH) $95 by March 13?",
-          "odds": "-316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "US federally charges ex-Cuba leader Raul Castro?",
-          "odds": "+316",
+          "event": "Northwestern Wildcats vs. Purdue Boilermakers",
+          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will S&P 500 (SPX) hit $5,200 (LOW) in December?",
           "odds": "+284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Crude Oil (CL) hit (HIGH) $90 by end of March?",
-          "odds": "-2841",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -119,20 +107,8 @@
           "moved": "none"
         },
         {
-          "event": "Trump out as President by June 30?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Nguesso out as President of the Republic of the Congo by end of 2026?",
           "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the All India Trinamool Congress (AITC) win the most seats in the 2026 West Bengal Legislative Assembly election?",
-          "odds": "-488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -147,6 +123,18 @@
           "odds": "+308",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Al Mina be the Republican nominee for Senate in Virginia?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the next elected US president be a woman?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -155,50 +143,50 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "XRP Up or Down - March 12, 11:35AM-11:40AM ET",
-          "odds": "-104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "XRP Up or Down - March 12, 9:45PM-9:50PM ET",
           "odds": "-104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "XRP Up or Down - March 12, 10:45AM-10:50AM ET",
-          "odds": "-104",
+          "event": "Will Trump say \"SAVE Act\" or \"Save America Act\" during Women's History Month event?",
+          "odds": "-149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "XRP Up or Down - March 12, 4:45PM-4:50PM ET",
-          "odds": "-104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party win the CA-42 House seat?",
-          "odds": "-1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Plasma reach $2.00 by December 31, 2026?",
+          "event": "Will MetaMask launch a token by June 30?",
           "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Cagliari Calcio win on 2026-03-20?",
-          "odds": "+669",
+          "event": "Will NVIDIA be the largest company in the world by market cap on April 30?",
+          "odds": "-1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the Republicans win the Connecticut governor race in 2026?",
-          "odds": "+1150",
+          "event": "RC Celta de Vigo vs. Olympique Lyonnais: Both Teams to Score",
+          "odds": "-112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Katana FDV above $100M one day after launch?",
+          "odds": "-203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Elon Musk post 380-399 tweets from March 10 to March 17, 2026?",
+          "odds": "+1392",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Jack Smith charged by March 31?",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
