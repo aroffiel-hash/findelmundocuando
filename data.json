@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "12 de marzo de 2026 — 19:55 UTC",
+  "lastUpdated": "12 de marzo de 2026 — 21:05 UTC",
   "ticker": [
+    "Can AI in military operations really be ethical?",
+    "Taiwan cheering row overshadows China quarterfinal at Asian Cup",
+    "How will the war on Iran impact the US economy?",
+    "Does President Trump have an exit strategy for the war with Iran?",
+    "Iran vows to make Trump pay for ‘grave miscalculation’ if US escalates war",
     "ICC prosecutor opens probe into Belarus over deportations to Lithuania",
     "Somalia warns against any Israeli base plans on Somaliland",
     "How oil is at the center of the US-Israel war with Iran",
@@ -10,12 +15,7 @@
     "Gunman, one victim dead in shooting at Old Dominion University in US",
     "Israel drops charges against soldiers in Palestinian detainee abuse case",
     "Trump says not ‘appropriate’ for Iran to participate in the World Cup in US",
-    "Iran’s president sets terms to end the war: Is an off-ramp in sight?",
-    "US military ‘not ready’ to escort oil ships through Hormuz, official says",
-    "Iran’s new supreme leader issues first statement",
-    "Pakistan’s Abrar signed by India-owned Sunrisers in Hundred auction",
-    "Video shows moment Iran strikes US-owned oil tanker near Iraq",
-    "Up to 3.2 million people displaced across Iran amid US-Israeli attacks: UN"
+    "Iran’s president sets terms to end the war: Is an off-ramp in sight?"
   ],
   "sections": [
     {
@@ -24,13 +24,19 @@
       "rows": [
         {
           "event": "Iran agrees to end enrichment of uranium by June 30?",
-          "odds": "+316",
+          "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "US-Iran nuclear deal by March 31?",
           "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump and Putin meet next in Russia?",
+          "odds": "+2757",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -42,7 +48,7 @@
         },
         {
           "event": "Will the Bank of Korea make no change to the base rate after the April Meeting?",
-          "odds": "-809",
+          "odds": "-733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -57,12 +63,6 @@
           "odds": "-354",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "GOP uses 'Nuclear Option' to break filibuster by December 31, 2026?",
-          "odds": "+117",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -72,7 +72,13 @@
       "rows": [
         {
           "event": "Will Crude Oil (CL) hit (LOW) $75 by end of March?",
-          "odds": "+354",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "S&P 500 (SPX) Opens Up or Down on March 13?",
+          "odds": "-117",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -96,7 +102,7 @@
         },
         {
           "event": "Will Eric Swalwell advance from the 2026 California Governor primary election?",
-          "odds": "-212",
+          "odds": "-233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -143,32 +149,26 @@
           "moved": "none"
         },
         {
-          "event": "Kings vs. Clippers",
-          "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Shakhtar Donetsk reach the UEFA Europa Conference League quarter-finals?",
-          "odds": "-185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Tesla (TSLA) close above $470 end of March?",
-          "odds": "+1487",
+          "event": "Will Juventus FC win on 2026-03-14?",
+          "odds": "-170",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will MetaMask launch a token by June 30?",
-          "odds": "+733",
+          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "TCU Horned Frogs vs. Kansas Jayhawks",
-          "odds": "+233",
+          "event": "Jack Smith charged by March 31?",
+          "odds": "+244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Dota 2: Heroic vs Vici Gaming (BO3) - PGL Wallachia Playoffs",
+          "odds": "-143",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -179,8 +179,14 @@
           "moved": "none"
         },
         {
-          "event": "Middle Tennessee Blue Raiders vs. Louisiana Tech Bulldogs",
-          "odds": "-138",
+          "event": "Will AFC Bournemouth win on 2026-03-20?",
+          "odds": "+203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Atlas FC win on 2026-03-14?",
+          "odds": "+809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
