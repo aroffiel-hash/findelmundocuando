@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "12 de marzo de 2026 — 17:38 UTC",
+  "lastUpdated": "12 de marzo de 2026 — 19:55 UTC",
   "ticker": [
+    "ICC prosecutor opens probe into Belarus over deportations to Lithuania",
+    "Somalia warns against any Israeli base plans on Somaliland",
+    "How oil is at the center of the US-Israel war with Iran",
+    "Assailant dead after vehicle ramming, gunfire at Michigan synagogue in US",
+    "Israel launches air attack on Beirut during live Al Jazeera broadcast",
+    "Israel attacks central Beirut in escalation of deadly assault on Lebanon",
+    "Gunman, one victim dead in shooting at Old Dominion University in US",
+    "Israel drops charges against soldiers in Palestinian detainee abuse case",
     "Trump says not ‘appropriate’ for Iran to participate in the World Cup in US",
     "Iran’s president sets terms to end the war: Is an off-ramp in sight?",
     "US military ‘not ready’ to escort oil ships through Hormuz, official says",
     "Iran’s new supreme leader issues first statement",
     "Pakistan’s Abrar signed by India-owned Sunrisers in Hundred auction",
     "Video shows moment Iran strikes US-owned oil tanker near Iraq",
-    "Up to 3.2 million people displaced across Iran amid US-Israeli attacks: UN",
-    "Aftermath of US-Israeli attacks on Tehran",
-    "Israeli attack hits civilians at Beirut beachfront: What we know",
-    "Bunker-busting bombs loaded onto US planes at UK airbase amid Iran war",
-    "Drug use on Ukraine’s front lines ‘rampant among Russian troops’",
-    "Caught in the crossfire: US-Israel war on Iran fractures Gulf economies",
-    "Can Iran’s asymmetric warfare hold US-Israeli military power at bay?",
-    "Words of defiance: Iran’s new Supreme Leader Mojtaba Khamenei lashes at US",
-    "How corporations have collaborated with US military over the decades"
+    "Up to 3.2 million people displaced across Iran amid US-Israeli attacks: UN"
   ],
   "sections": [
     {
@@ -23,20 +23,8 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Trump and Putin meet next in China?",
-          "odds": "+2073",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Iran agrees to end enrichment of uranium by June 30?",
           "odds": "+316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Israel reopen its embassy in Iran in 2026?",
-          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -63,6 +51,18 @@
           "odds": "+270",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Rainbow Six Siege: Footlockers Finest vs Fisher College (BO3) - North America League Challenger Series Playoffs",
+          "odds": "-354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "GOP uses 'Nuclear Option' to break filibuster by December 31, 2026?",
+          "odds": "+117",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -72,13 +72,7 @@
       "rows": [
         {
           "event": "Will Crude Oil (CL) hit (LOW) $75 by end of March?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Northwestern Wildcats vs. Purdue Boilermakers",
-          "odds": "+614",
+          "odds": "+354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -95,8 +89,8 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will GroenLinks–Labour Party (GL–PvdA) win the most seats in Utrecht’s 2026 municipal election?",
-          "odds": "-455",
+          "event": "Will Heather McPherson win the Canadian NDP Leadership election?",
+          "odds": "+986",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -119,6 +113,12 @@
           "moved": "none"
         },
         {
+          "event": "Will Mike Thompson advance from the CA-04 primary election?",
+          "odds": "-524",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Ed Hale win the 2026 Maryland Governor Republican primary election?",
           "odds": "+308",
           "params": "Fuente: Polymarket",
@@ -127,12 +127,6 @@
         {
           "event": "Will Al Mina be the Republican nominee for Senate in Virginia?",
           "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the next elected US president be a woman?",
-          "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -149,26 +143,32 @@
           "moved": "none"
         },
         {
-          "event": "Will Trump say \"SAVE Act\" or \"Save America Act\" during Women's History Month event?",
-          "odds": "-149",
+          "event": "Kings vs. Clippers",
+          "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Shakhtar Donetsk reach the UEFA Europa Conference League quarter-finals?",
+          "odds": "-185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Tesla (TSLA) close above $470 end of March?",
+          "odds": "+1487",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will MetaMask launch a token by June 30?",
-          "odds": "+669",
+          "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will NVIDIA be the largest company in the world by market cap on April 30?",
-          "odds": "-1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "RC Celta de Vigo vs. Olympique Lyonnais: Both Teams to Score",
-          "odds": "-112",
+          "event": "TCU Horned Frogs vs. Kansas Jayhawks",
+          "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -179,14 +179,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Elon Musk post 380-399 tweets from March 10 to March 17, 2026?",
-          "odds": "+1392",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Jack Smith charged by March 31?",
-          "odds": "+1566",
+          "event": "Middle Tennessee Blue Raiders vs. Louisiana Tech Bulldogs",
+          "odds": "-138",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
