@@ -1,190 +1,211 @@
 {
-  "lastUpdated": "12 de marzo de 2026 — 05:07 UTC",
+  "lastUpdated": "12 de marzo de 2026 — 07:59 UTC",
   "ticker": [
+    "Trump admin estimates US war on Iran cost $11.3bn in first 6 days: Report",
+    "Israeli ‘double-tap strike’ hits displaced on Beirut seafront, kills eight",
+    "Iran targets Gulf nations with missiles, drones as oil prices soar",
+    "‘Life covered in soot’: Gas shortage forces Gaza families to cook over wood",
+    "Students among 17 dead in RSF drone attack in Sudan’s White Nile State",
     "China’s key NPC meeting comes to a close as lower growth target set",
     "There is only one person’ who can decide to end the war on Iran",
-    "Why historic oil reserves release may do little to bring down rising prices",
-    "Five vessels attacked amid reports of Iranian drone boats, sea mines",
+    "Why historic release of oil reserves may not tame surging prices",
+    "Six vessels attacked amid reports of Iranian drone boats, sea mines",
     "How is feminism being used to justify war in Iran?",
     "Fire erupts at Gaza camp after Israeli attack hits tents",
     "Fuel tank fire rages in Bahrain after Iranian attack",
     "UN Security Council adopts resolution condemning Iran’s attacks in the Gulf",
     "Who bombed the Iranian girls’ school, killing more than 170? What we know",
-    "Israeli strike hits Beirut waterfront near tents of displaced",
-    "Iran’s authorities warn against protests as Israel threatens Basij forces",
-    "Qatar PM urges resilience and unity amid Iran strikes"
+    "Israeli strike hits Beirut waterfront near tents of displaced"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "QatarEnergy resumes LNG production by March 14?",
-          "odds": "+3233",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
-          "moved": "none"
-        },
         {
           "event": "Will Israel annex any territory by June 30?",
           "odds": "+488",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Golden State Warriors win more than 47.5 regular season games in 2025–26?",
+          "odds": "+1370",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Rainbow Six Siege: Young Generation vs Seventh Heaven - Game 1 Winner",
+          "odds": "-809",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Israel reopen its embassy in Iran in 2026?",
-          "odds": "+669",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Iran agrees to end enrichment of uranium by June 30?",
+          "odds": "+270",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "US-Iran nuclear deal by March 31?",
           "odds": "+1899",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
-        {
-          "event": "Iran agrees to end enrichment of uranium by June 30?",
-          "odds": "+233",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
-          "moved": "none"
-        },
-        {
-          "event": "Will Al Nassr Saudi Club win on 2026-03-14?",
-          "odds": "-300",
-          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
-          "moved": "none"
-        },
-        {
-          "event": "Iran nuclear test before 2027?",
-          "odds": "+455",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Iranian regime fall before 2027?",
-          "odds": "+203",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
-      "rows": [
-        {
-          "event": "Will Trump talk to Volodymyr Zelenskyy in March?",
-          "odds": "-233",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
-          "moved": "none"
-        },
-        {
-          "event": "Will Russia enter Druzkhivka by June 30?",
-          "odds": "+270",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
-          "moved": "none"
-        },
-        {
-          "event": "Will Russia enter Rai-Oleksandrivka by March 31, 2026?",
-          "odds": "+284",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇨🇳",
-      "label": "CHINA / PACÍFICO / COREA",
-      "rows": [
         {
           "event": "Will Powell say \"China\" during March press conference?",
           "odds": "+138",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
-      "rows": [
-        {
-          "event": "Will Trump say \"Where are you\" during Women's History Month event?",
-          "odds": "-270",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump sue Michael Wolff by March 31?",
-          "odds": "+1899",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump meet with Luiz Inácio Lula da Silva in March 2026?",
-          "odds": "+1150",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
-          "moved": "none"
-        },
-        {
-          "event": "Will no one leave the Trump Cabinet before 2027?",
-          "odds": "+1288",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
-          "moved": "none"
-        },
-        {
-          "event": "Will Donald Trump post 60-79 Truth Social posts from March 17 to March 24, 2026?",
-          "odds": "+900",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump’s approval rating be between 41.5 and 41.9 on March 13, 2026?",
-          "odds": "+1328",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y ENERGÍA",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will Crude Oil (CL) hit (HIGH) $130 by end of March?",
+          "event": "Will S&P 500 (SPX) hit $7,450 (HIGH) in June?",
+          "odds": "+354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "US federally charges ex-Cuba leader Raul Castro?",
           "odds": "+316",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Crude Oil (CL) hit (HIGH) $130 by end of March?",
+          "odds": "+354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Crude Oil (CL) hit (LOW) $70 by end of March?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Crude Oil (CL) hit (HIGH) $105 by March 13?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will S&P 500 (SPX) hit $5,200 (LOW) in December?",
+          "odds": "+284",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Oman join the Abraham Accords before 2027?",
-          "odds": "+525",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Will Partido Popular (PP) win the 2026 Castilla y León Regional Election?",
+          "odds": "-1718",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the next elected US president be a woman?",
-          "odds": "+525",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Will Eric Swalwell advance from the 2026 California Governor primary election?",
+          "odds": "-212",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "GOP uses 'Nuclear Option' to break filibuster by December 31, 2026?",
-          "odds": "+117",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario de riesgo nuclear.",
+          "event": "Will Trump’s approval rating be between 41.5 and 41.9 on March 13, 2026?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the Republican Party hold exactly 48 Senate seats after the 2026 midterm elections?",
-          "odds": "+614",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Nguesso out as President of the Republic of the Congo by end of 2026?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will LeBron James announce a Presidential run before 2027?",
+          "odds": "+3025",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Ed Hale win the 2026 Maryland Governor Republican primary election?",
+          "odds": "+308",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Al Mina be the Republican nominee for Senate in Virginia?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "XRP Up or Down - March 12, 6:55PM-7:00PM ET",
+          "odds": "-104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "XRP Up or Down - March 12, 6:00AM-6:05AM ET",
+          "odds": "-104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "XRP Up or Down - March 12, 2:25PM-2:30PM ET",
+          "odds": "-104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "XRP Up or Down - March 12, 4:50AM-4:55AM ET",
+          "odds": "-104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "XRP Up or Down - March 12, 11:35AM-11:40AM ET",
+          "odds": "-104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "XRP Up or Down - March 12, 4:30AM-4:35AM ET",
+          "odds": "-104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "XRP Up or Down - March 12, 9:45PM-9:50PM ET",
+          "odds": "-104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "XRP Up or Down - March 12, 4:10AM-4:15AM ET",
+          "odds": "-104",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
