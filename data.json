@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "12 de marzo de 2026 — 21:05 UTC",
+  "lastUpdated": "12 de marzo de 2026 — 22:57 UTC",
   "ticker": [
+    "Ex-rapper Balendra Shah sweeps to power in Nepal landslide election victory",
+    "US military announces rescue effort after fueling aircraft crashes in Iraq",
+    "Air attacks target bases of Iran-backed forces in Iraq",
+    "Netanyahu says Israel ‘stronger than ever’ in first speech since Iran war",
+    "Fuel shortages bring queues, protests around the world",
+    "Advocates push for major probe as US boat strikes in Latin America kill 157",
     "Can AI in military operations really be ethical?",
     "Taiwan cheering row overshadows China quarterfinal at Asian Cup",
     "How will the war on Iran impact the US economy?",
@@ -9,13 +15,7 @@
     "ICC prosecutor opens probe into Belarus over deportations to Lithuania",
     "Somalia warns against any Israeli base plans on Somaliland",
     "How oil is at the center of the US-Israel war with Iran",
-    "Assailant dead after vehicle ramming, gunfire at Michigan synagogue in US",
-    "Israel launches air attack on Beirut during live Al Jazeera broadcast",
-    "Israel attacks central Beirut in escalation of deadly assault on Lebanon",
-    "Gunman, one victim dead in shooting at Old Dominion University in US",
-    "Israel drops charges against soldiers in Palestinian detainee abuse case",
-    "Trump says not ‘appropriate’ for Iran to participate in the World Cup in US",
-    "Iran’s president sets terms to end the war: Is an off-ramp in sight?"
+    "Assailant dead after vehicle ramming, gunfire at Michigan synagogue in US"
   ],
   "sections": [
     {
@@ -24,7 +24,7 @@
       "rows": [
         {
           "event": "Iran agrees to end enrichment of uranium by June 30?",
-          "odds": "+300",
+          "odds": "+316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -35,20 +35,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Trump and Putin meet next in Russia?",
-          "odds": "+2757",
+          "event": "Will the Bank of Korea make no change to the base rate after the April Meeting?",
+          "odds": "-733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Iran nuclear test before 2027?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Bank of Korea make no change to the base rate after the April Meeting?",
-          "odds": "-733",
+          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -63,6 +57,12 @@
           "odds": "-354",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will the Iranian regime fall before 2027?",
+          "odds": "+203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -71,20 +71,14 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will Crude Oil (CL) hit (LOW) $75 by end of March?",
-          "odds": "+455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "S&P 500 (SPX) Opens Up or Down on March 13?",
-          "odds": "-117",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will S&P 500 (SPX) hit $5,200 (LOW) in December?",
           "odds": "+284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Brentford FC vs. Wolverhampton Wanderers FC end in a draw?",
+          "odds": "+334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -149,8 +143,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Juventus FC win on 2026-03-14?",
-          "odds": "-170",
+          "event": "Will Trump say \"Ayatollah\" or \"Khamenei\" this week? (March 15)",
+          "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -167,26 +161,26 @@
           "moved": "none"
         },
         {
-          "event": "Dota 2: Heroic vs Vici Gaming (BO3) - PGL Wallachia Playoffs",
-          "odds": "-143",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Katana FDV above $100M one day after launch?",
           "odds": "-203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will AFC Bournemouth win on 2026-03-20?",
-          "odds": "+203",
+          "event": "Set Handicap: Alcaraz (-1.5) vs Norrie (+1.5)",
+          "odds": "-354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Atlas FC win on 2026-03-14?",
-          "odds": "+809",
+          "event": "Will the highest temperature in London be 12°C on March 14?",
+          "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Hyperliquid dip to $8 by December 31, 2026?",
+          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
