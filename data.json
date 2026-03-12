@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "12 de marzo de 2026 — 10:08 UTC",
+  "lastUpdated": "12 de marzo de 2026 — 11:53 UTC",
   "ticker": [
+    "Who wins and loses in the global energy crisis?",
+    "Qatari-backed fund offers $1.5bn for pizza giant Papa John’s: Report",
+    "Air attack hits house in suburbs of Tel Aviv",
+    "The war of signals: How Russia and China help Iran see the battlefield",
+    "Dubai high-rise building damaged in overnight drone hit",
+    "Chile’s new far-right president is sworn in",
+    "Iran says it targets Israeli bases, accuses Israel of targeting hospitals",
+    "North Korea says no more protests after China stir in Women’s Asian Cup",
+    "Al Jazeera sees bombs being loaded onto US planes at UK base",
     "Saudi Arabia and UAE condemn Iranian attacks",
     "Residents of this Beirut neighbourhood felt safe. Then Israel attacked it.",
     "Bangladesh parliament meets after uprising, elections ushered in new gov’t",
     "Iran war: What is happening on day 13 of US-Israel attacks?",
     "Southeast Asia shuts offices, limits travel as oil crisis deepens",
-    "Indonesia, Australia to expand security cooperation with Japan, PNG",
-    "France walks ‘fine line’ as US-Israel war on Iran escalates",
-    "Analysis: The war on Iran is at a crossroads",
-    "‘A US military victory in Iran without a political one is not a victory’",
-    "In the US-Israeli war on Iran, who will run out of missiles first?",
-    "Trump admin estimates US war on Iran cost $11.3bn in first 6 days: Report",
-    "Israeli ‘double-tap strike’ hits displaced on Beirut seafront, kills eight",
-    "Iran targets Gulf nations with missiles, drones as oil prices soar",
-    "‘Life covered in soot’: Gas shortage forces Gaza families to cook over wood",
-    "Students among 17 dead in RSF drone attack in Sudan’s White Nile State"
+    "Indonesia, Australia to expand security cooperation with Japan, PNG"
   ],
   "sections": [
     {
@@ -29,14 +29,8 @@
           "moved": "none"
         },
         {
-          "event": "Russia strike impacts Kyiv municipality during week of March 2, 2026?",
-          "odds": "+194",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Iran agrees to end enrichment of uranium by June 30?",
-          "odds": "+334",
+          "odds": "+316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -59,8 +53,14 @@
           "moved": "none"
         },
         {
-          "event": "Rainbow Six Siege: Team Anios vs 6Targets Esports - Game 2 Winner",
-          "odds": "+809",
+          "event": "US-Iran nuclear deal by March 31?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Powell say \"China\" during March press conference?",
+          "odds": "+138",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -71,20 +71,8 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will Crude Oil (CL) hit (HIGH) $130 by end of March?",
-          "odds": "+316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will S&P 500 (SPX) hit $7,450 (HIGH) in June?",
           "odds": "+354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "US federally charges ex-Cuba leader Raul Castro?",
-          "odds": "+316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -95,8 +83,20 @@
           "moved": "none"
         },
         {
+          "event": "US federally charges ex-Cuba leader Raul Castro?",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Crude Oil (CL) hit (HIGH) $105 by March 13?",
-          "odds": "+488",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Crude Oil (CL) hit (HIGH) $95 by March 13?",
+          "odds": "-149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -119,14 +119,26 @@
           "moved": "none"
         },
         {
+          "event": "Will Trump’s approval rating be between 41.5 and 41.9 on March 13, 2026?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will GroenLinks–Labour Party (GL–PvdA) win the most seats in Utrecht’s 2026 municipal election?",
+          "odds": "-455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Eric Swalwell advance from the 2026 California Governor primary election?",
           "odds": "-212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Trump’s approval rating be between 41.5 and 41.9 on March 13, 2026?",
-          "odds": "+1328",
+          "event": "Will the All India Trinamool Congress (AITC) win the most seats in the 2026 West Bengal Legislative Assembly election?",
+          "odds": "-488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -139,18 +151,6 @@
         {
           "event": "Will LeBron James announce a Presidential run before 2027?",
           "odds": "+3025",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Ed Hale win the 2026 Maryland Governor Republican primary election?",
-          "odds": "+308",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Al Mina be the Republican nominee for Senate in Virginia?",
-          "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -197,8 +197,8 @@
           "moved": "none"
         },
         {
-          "event": "Will the Democratic Party win the CA-42 House seat?",
-          "odds": "-1150",
+          "event": "Will the highest temperature in Wellington be 17°C on March 14?",
+          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
