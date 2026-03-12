@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "12 de marzo de 2026 — 11:53 UTC",
+  "lastUpdated": "12 de marzo de 2026 — 14:37 UTC",
   "ticker": [
-    "Who wins and loses in the global energy crisis?",
-    "Qatari-backed fund offers $1.5bn for pizza giant Papa John’s: Report",
-    "Air attack hits house in suburbs of Tel Aviv",
-    "The war of signals: How Russia and China help Iran see the battlefield",
-    "Dubai high-rise building damaged in overnight drone hit",
-    "Chile’s new far-right president is sworn in",
-    "Iran says it targets Israeli bases, accuses Israel of targeting hospitals",
-    "North Korea says no more protests after China stir in Women’s Asian Cup",
-    "Al Jazeera sees bombs being loaded onto US planes at UK base",
-    "Saudi Arabia and UAE condemn Iranian attacks",
-    "Residents of this Beirut neighbourhood felt safe. Then Israel attacked it.",
-    "Bangladesh parliament meets after uprising, elections ushered in new gov’t",
-    "Iran war: What is happening on day 13 of US-Israel attacks?",
-    "Southeast Asia shuts offices, limits travel as oil crisis deepens",
-    "Indonesia, Australia to expand security cooperation with Japan, PNG"
+    "Aftermath of US-Israeli attacks on Tehran",
+    "Israeli attack hits civilians at Beirut beachfront: What we know",
+    "Bunker-busting bombs loaded onto US planes at UK airbase amid Iran war",
+    "Drug use on Ukraine’s front lines ‘rampant among Russian troops’",
+    "Caught in the crossfire: US-Israel war on Iran fractures Gulf economies",
+    "Can Iran’s asymmetric warfare hold US-Israeli military power at bay?",
+    "Iran’s Mojtaba Khamenei issues first statement as Supreme Leader amid war",
+    "How corporations have collaborated with US military over the decades",
+    "Children among victims in Pakistan’s shelling in Afghanistan: Taliban",
+    "Al Jazeera reporter sees destruction in Tehran neighbourhood",
+    "What we know about Iran and Hezbollah’s joint attacks on Israel",
+    "Massive destruction after Israeli strikes in Beirut neighbourhood",
+    "How much of the Gulf’s water comes from desalination plants?",
+    "How Iran’s women footballers took asylum in Australia and what happens next",
+    "At least 64 killed, dozens reported missing in Ethiopia landslides, floods"
   ],
   "sections": [
     {
@@ -23,20 +23,8 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will the Golden State Warriors win more than 47.5 regular season games in 2025–26?",
-          "odds": "+1370",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Iran agrees to end enrichment of uranium by June 30?",
           "odds": "+316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Rainbow Six Siege: Young Generation vs Seventh Heaven - Game 1 Winner",
-          "odds": "-809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -47,20 +35,32 @@
           "moved": "none"
         },
         {
-          "event": "US/Israel strike on Fordow nuclear facility by March 15?",
-          "odds": "+614",
+          "event": "Game Handicap: K5 (-1.5) vs Hasib Warriors (+1.5)",
+          "odds": "-900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "US-Iran nuclear deal by March 31?",
-          "odds": "+1328",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Iran nuclear test before 2027?",
+          "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Powell say \"China\" during March press conference?",
           "odds": "+138",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Russia enter Druzkhivka by June 30?",
+          "odds": "+270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -77,8 +77,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Crude Oil (CL) hit (LOW) $70 by end of March?",
-          "odds": "+614",
+          "event": "Will Crude Oil (CL) hit (HIGH) $95 by March 13?",
+          "odds": "-316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -89,20 +89,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Crude Oil (CL) hit (HIGH) $105 by March 13?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Crude Oil (CL) hit (HIGH) $95 by March 13?",
-          "odds": "-149",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will S&P 500 (SPX) hit $5,200 (LOW) in December?",
           "odds": "+284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Crude Oil (CL) hit (HIGH) $90 by end of March?",
+          "odds": "-2841",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -112,18 +106,6 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
-        {
-          "event": "Will Giulio Centenaro win the 2026 Selvazzano Dentro by-election?",
-          "odds": "-1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump’s approval rating be between 41.5 and 41.9 on March 13, 2026?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will GroenLinks–Labour Party (GL–PvdA) win the most seats in Utrecht’s 2026 municipal election?",
           "odds": "-455",
@@ -137,20 +119,32 @@
           "moved": "none"
         },
         {
+          "event": "Trump out as President by June 30?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Nguesso out as President of the Republic of the Congo by end of 2026?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the All India Trinamool Congress (AITC) win the most seats in the 2026 West Bengal Legislative Assembly election?",
           "odds": "-488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Nguesso out as President of the Republic of the Congo by end of 2026?",
-          "odds": "+669",
+          "event": "Will LeBron James announce a Presidential run before 2027?",
+          "odds": "+3025",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will LeBron James announce a Presidential run before 2027?",
-          "odds": "+3025",
+          "event": "Will Ed Hale win the 2026 Maryland Governor Republican primary election?",
+          "odds": "+308",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -161,12 +155,6 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "XRP Up or Down - March 12, 6:55PM-7:00PM ET",
-          "odds": "-104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "XRP Up or Down - March 12, 11:35AM-11:40AM ET",
           "odds": "-104",
           "params": "Fuente: Polymarket",
@@ -174,12 +162,6 @@
         },
         {
           "event": "XRP Up or Down - March 12, 9:45PM-9:50PM ET",
-          "odds": "-104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "XRP Up or Down - March 12, 2:25PM-2:30PM ET",
           "odds": "-104",
           "params": "Fuente: Polymarket",
           "moved": "none"
@@ -197,14 +179,26 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Wellington be 17°C on March 14?",
-          "odds": "+614",
+          "event": "Will the Democratic Party win the CA-42 House seat?",
+          "odds": "-1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Pedri win the 2026 Ballon d'Or?",
-          "odds": "+3233",
+          "event": "Will Plasma reach $2.00 by December 31, 2026?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Cagliari Calcio win on 2026-03-20?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republicans win the Connecticut governor race in 2026?",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
