@@ -1,7 +1,10 @@
 {
-  "lastUpdated": "14 de marzo de 2026 — 07:50 UTC",
+  "lastUpdated": "14 de marzo de 2026 — 09:03 UTC",
   "ticker": [
-    "US Embassy in Baghdad, Iraq targeted with missile, hits helipad",
+    "‘Kill the people’: How men were left to starve in a South African gold mine",
+    "North Korea fires ballistic missiles as US-South Korea hold military drills",
+    "‘Israel is targeting civilian infrastructure as a matter of policy’",
+    "US Embassy in Baghdad, Iraq attacked with missile that hits helipad",
     "Israel kills 12 medics in attack in southern Lebanon as war ravages nation",
     "US attacks military sites on Iran’s Kharg island, home to vast oil facility",
     "Iran war: What is happening on day 15 of US-Israel attacks?",
@@ -12,10 +15,7 @@
     "Projectile falls, explodes in Israel’s Negev",
     "Experts doubt Hegseth claim no need to ‘worry about’ Hormuz",
     "Republic of Congo election: Who is running and what’s at stake?",
-    "Analysts say US threat of ‘no quarter’ for Iran violates international law",
-    "Iran war live: US bombs Iran’s Kharg Island, warns oil facilities next",
-    "US judge nixes two subpoenas against Federal Reserve chair Jerome Powell",
-    "Worshippers pray outside Al-Aqsa amid closure on al-Quds Day"
+    "Analysts say US threat of ‘no quarter’ for Iran violates international law"
   ],
   "sections": [
     {
@@ -23,20 +23,14 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Iran nuclear test before 2027?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Cal State Fullerton Titans vs. Hawaii Rainbow Warriors: O/U 157.5",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the Iranian regime fall before 2027?",
           "odds": "+194",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Iran leadership change by March 31?",
+          "odds": "+270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -53,14 +47,20 @@
           "moved": "none"
         },
         {
-          "event": "Iran leadership change by March 31?",
-          "odds": "+257",
+          "event": "US x Iran ceasefire by June 30?",
+          "odds": "-132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Mojtaba Khamenei leaves Iran by April 30, 2026?",
           "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Sergio Oliver Rodríguez win the 2026 Cochabamba gubernatorial election?",
+          "odds": "-257",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -72,7 +72,7 @@
       "rows": [
         {
           "event": "No change in Bank of England's interest rates after March 2026 meeting?",
-          "odds": "-2677",
+          "odds": "-2757",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -89,14 +89,14 @@
           "moved": "none"
         },
         {
-          "event": "OpenAI receives federal backstop for infrastructure before July?",
-          "odds": "+1860",
+          "event": "Will Maxx Crosby play for Las Vegas Raiders next?",
+          "odds": "-342",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Maxx Crosby play for Las Vegas Raiders next?",
-          "odds": "-342",
+          "event": "OpenAI receives federal backstop for infrastructure before July?",
+          "odds": "+1860",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -132,7 +132,7 @@
         },
         {
           "event": "2026 Balance of Power: D Senate, D House",
-          "odds": "+112",
+          "odds": "+108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -149,14 +149,14 @@
           "moved": "none"
         },
         {
-          "event": "Will President Trump sign 5 pieces of legislation into law in March?",
-          "odds": "+566",
+          "event": "Will Flávio Bolsonaro win the first round of the 2026 Brazilian presidential election by less than 5%?",
+          "odds": "+426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Flávio Bolsonaro win the first round of the 2026 Brazilian presidential election by less than 5%?",
-          "odds": "+426",
+          "event": "Will SPD win the second most seats in the 2026 Rhineland-Palatinate parliamentary elections?",
+          "odds": "-177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,14 +167,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Celtic FC vs. Motherwell FC: Both Teams to Score",
-          "odds": "-143",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will MetaMask launch a token by June 30?",
-          "odds": "+733",
+          "event": "Will XRP dip to $1.30 March 9-15?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -185,8 +179,14 @@
           "moved": "none"
         },
         {
-          "event": "Nets vs. 76ers",
-          "odds": "+316",
+          "event": "Will MetaMask launch a token by June 30?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump say \"Sleepy Joe\" this week? (March 22)",
+          "odds": "-156",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -209,8 +209,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Club León FC vs. Club Tijuana end in a draw?",
-          "odds": "+284",
+          "event": "Will the highest temperature in Chicago be 32°F or higher on March 17?",
+          "odds": "+1215",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
