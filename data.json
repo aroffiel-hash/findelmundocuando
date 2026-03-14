@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "14 de marzo de 2026 — 20:55 UTC",
+  "lastUpdated": "14 de marzo de 2026 — 21:52 UTC",
   "ticker": [
+    "US-Israeli strike kills 15 at Isfahan factory, Iranian media says",
+    "Thousands in Madrid protest ‘forgotten’ Gaza, warn Iran war may spiral into",
     "Hundreds protest against US-Israeli strikes on Iran in Seoul",
     "Two more Iranian female footballers pull Australia asylum bids: State media",
     "Arsenal beat Everton as Dowman makes Premier League history",
@@ -13,9 +15,7 @@
     "Israeli settlers shoot Palestinians in West Bank villages, steal livestock",
     "US embassy in Venezuela reopens as Trump pushes for access to resources",
     "Iran warns UAE ports and ‘American hideouts’ are targets",
-    "Is the world ignoring Gaza?",
-    "Protesters in Cuba attack Communist party office in rare riot over blackout",
-    "Trump says ‘many countries’ will send warships to Hormuz amid Iran blockade"
+    "Is the world ignoring Gaza?"
   ],
   "sections": [
     {
@@ -24,7 +24,7 @@
       "rows": [
         {
           "event": "Will Wagner Moura win Best Actor at the 98th Academy Awards?",
-          "odds": "+1786",
+          "odds": "+1860",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -36,7 +36,13 @@
         },
         {
           "event": "Will the Iranian regime fall before 2027?",
-          "odds": "+163",
+          "odds": "+170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jane Austen's Period Drama win Best Live Action Short Film at the 98th Academy Awards?",
+          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -57,12 +63,6 @@
           "odds": "-354",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will The Alabama Solution win Best Documentary Feature Film at the 98th Academy Awards?",
-          "odds": "+2225",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -72,13 +72,13 @@
       "rows": [
         {
           "event": "Will US crude oil reserves fall to 350M by May 1?",
-          "odds": "-127",
+          "odds": "-112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Brentford FC vs. Wolverhampton Wanderers FC end in a draw?",
-          "odds": "+334",
+          "event": "Spread: Purdue Boilermakers (-11.5)",
+          "odds": "-104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -108,7 +108,7 @@
         },
         {
           "event": "Will Crude Oil (CL) hit (HIGH) $140 by end of March?",
-          "odds": "+270",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -119,8 +119,8 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will LeBron James announce a Presidential run before 2027?",
-          "odds": "+2841",
+          "event": "Will the Party of Generations (SG) be part of the next Government of Slovenia?",
+          "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -156,7 +156,7 @@
         },
         {
           "event": "Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?",
-          "odds": "+2027",
+          "odds": "+1983",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,8 +167,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will FC Barcelona vs. Newcastle United FC end in a draw?",
-          "odds": "+376",
+          "event": "Will the highest temperature in New York City be between 56-57°F on March 16?",
+          "odds": "+426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -180,25 +180,13 @@
         },
         {
           "event": "Will 20 ships transit the Strait of Hormuz on any day in March?",
-          "odds": "+222",
+          "odds": "+177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Feyenoord Rotterdam win on 2026-03-15?",
-          "odds": "-316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in New York City be between 56-57°F on March 16?",
-          "odds": "+354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Miami be between 82-83°F on March 16?",
-          "odds": "+316",
+          "event": "Will the highest temperature in London be 11°C on March 17?",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -211,6 +199,18 @@
         {
           "event": "Will a dozen eggs cost between $2.25–2.50 in March?",
           "odds": "-177",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Chicago be between 36-37°F on March 14?",
+          "odds": "-669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Nottingham Forest FC vs. Fulham FC: Both Teams to Score",
+          "odds": "-127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
