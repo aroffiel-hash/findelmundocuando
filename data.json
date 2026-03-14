@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "14 de marzo de 2026 — 11:48 UTC",
+  "lastUpdated": "14 de marzo de 2026 — 13:56 UTC",
   "ticker": [
+    "Smoke rises from Fujairah oil facility in UAE",
+    "Moment car slams into Muslim woman in broad daylight",
+    "Two Indian ships cross Strait of Hormuz as Iran says it allowed passage",
+    "India releases Ladakh activist Sonam Wangchuk after six months in jail",
+    "Another 5 Palestinians killed in Israel’s genocide in Gaza amid wider war",
+    "Kimi Antonelli becomes youngest F1 driver to take ‌Grand Prix pole position",
+    "Sandstorm hits Gaza, impacting displaced Palestinians",
     "Family pulled from the rubble after US-Israeli strikes on Tehran",
     "The battle on the propaganda front intensifies",
     "China beat Taiwan 2-0 in extra time to reach Women’s Asian Cup semifinals",
@@ -8,26 +15,13 @@
     "Four killed in southern Lebanon apartment after reported Israeli attack",
     "Manchester United vs Aston Villa: Premier League – teams, start, lineups",
     "More than 110 people killed in Iran’s Kurdistan: Official",
-    "Iran continues intensified attacks across Gulf in US-Israel war fallout",
-    "Indian-owned Sunrisers face backlash after signing Pakistan’s Abrar Ahmed",
-    "‘Kill the people’: How men were left to starve in a South African gold mine",
-    "North Korea fires ballistic missiles as US-South Korea hold military drills",
-    "‘Israel is targeting civilian infrastructure as a matter of policy’",
-    "US Embassy in Baghdad, Iraq attacked with missile that hits helipad",
-    "Israel kills 12 medics in attack in southern Lebanon as war ravages nation",
-    "US attacks military sites on Iran’s Kharg island, home to vast oil facility"
+    "Iran continues intensified attacks across Gulf in US-Israel war fallout"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Will BV Borussia 09 Dortmund win on 2026-03-14?",
-          "odds": "-185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Mojtaba Khamenei leaves Iran by April 30, 2026?",
           "odds": "+1328",
@@ -36,13 +30,7 @@
         },
         {
           "event": "Iran leadership change by March 31?",
-          "odds": "+316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Iranian regime fall before 2027?",
-          "odds": "+185",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -53,14 +41,26 @@
           "moved": "none"
         },
         {
-          "event": "Ukraine strikes another tanker in Black Sea by March 31, 2026?",
-          "odds": "+488",
+          "event": "Will the Iranian regime fall before 2027?",
+          "odds": "+170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "US x Iran ceasefire by June 30?",
+          "odds": "-132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Ras Baraka win the Newark mayoral election?",
-          "odds": "-284",
+          "odds": "-257",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Israel and Saudi Arabia normalize relations before 2027?",
+          "odds": "+426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -107,8 +107,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Crude Oil (CL) settle over $60 on the final trading day of March 2026?",
-          "odds": "-3233",
+          "event": "Will Crude Oil (CL) hit (HIGH) $140 by end of March?",
+          "odds": "+354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -137,8 +137,14 @@
           "moved": "none"
         },
         {
+          "event": "Will Mike Thompson advance from the CA-04 primary election?",
+          "odds": "-524",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the next elected US president be a woman?",
-          "odds": "+525",
+          "odds": "+426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -153,12 +159,6 @@
           "odds": "-3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will John Cornyn win the Texas Republican Senate Primary runoff by between 6% and 9%?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -167,20 +167,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will AS Roma vs. Bologna FC 1909 end in a draw?",
-          "odds": "+284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the total number of TSA passengers for March 13 be between 2,600,000 and 2,800,000?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Oxford United FC vs. Charlton Athletic FC end in a draw?",
-          "odds": "+233",
+          "event": "Megaquake by March 31?",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -191,26 +179,38 @@
           "moved": "none"
         },
         {
-          "event": "Will Como 1907 win on 2026-03-15?",
-          "odds": "+112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Munich be 6°C on March 15?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Predict.fun FDV above $800M one day after launch?",
-          "odds": "+426",
+          "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Megaquake by March 31?",
-          "odds": "+733",
+          "event": "Will Vanraure Hachinohe FC win on 2026-03-15?",
+          "odds": "+222",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Who will finish higher: Lindblad or Lawson?",
+          "odds": "-143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Coventry City FC vs. Southampton FC end in a draw?",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will FK Rostov win on 2026-03-14?",
+          "odds": "+212",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Gwendolyn Beck be confirmed to be the sender of the “I beat Bush” email to Epstein in 2026?",
+          "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
