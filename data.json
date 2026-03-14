@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "14 de marzo de 2026 — 09:03 UTC",
+  "lastUpdated": "14 de marzo de 2026 — 10:58 UTC",
   "ticker": [
+    "China beat Taiwan 2-0 in extra time to reach Women’s Asian Cup semifinals",
+    "Hamas urges Iran to halt attacks on Gulf, slams aggression on Tehran",
+    "Four killed in southern Lebanon apartment after reported Israeli attack",
+    "Manchester United vs Aston Villa: Premier League – teams, start, lineups",
+    "More than 110 people killed in Iran’s Kurdistan: Official",
+    "Iran continues intensified attacks across Gulf in US-Israel war fallout",
+    "Indian-owned Sunrisers face backlash after signing Pakistan’s Abrar Ahmed",
     "‘Kill the people’: How men were left to starve in a South African gold mine",
     "North Korea fires ballistic missiles as US-South Korea hold military drills",
     "‘Israel is targeting civilian infrastructure as a matter of policy’",
@@ -8,14 +15,7 @@
     "Israel kills 12 medics in attack in southern Lebanon as war ravages nation",
     "US attacks military sites on Iran’s Kharg island, home to vast oil facility",
     "Iran war: What is happening on day 15 of US-Israel attacks?",
-    "Smoke seen rising from US embassy in Baghdad",
-    "Yemeni ports face shipping fee hike amid Iran conflict",
-    "Trump posts bombing video after saying US hit Kharg Island",
-    "Trump claims US ‘way ahead of schedule’ in Iran war",
-    "Projectile falls, explodes in Israel’s Negev",
-    "Experts doubt Hegseth claim no need to ‘worry about’ Hormuz",
-    "Republic of Congo election: Who is running and what’s at stake?",
-    "Analysts say US threat of ‘no quarter’ for Iran violates international law"
+    "Smoke seen rising from US embassy in Baghdad"
   ],
   "sections": [
     {
@@ -23,8 +23,14 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will the Iranian regime fall before 2027?",
-          "odds": "+194",
+          "event": "Will Russia capture all of Vovchansk by April 30?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Mojtaba Khamenei leaves Iran by April 30, 2026?",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -36,7 +42,13 @@
         },
         {
           "event": "Will Russia enter Druzkhivka by June 30?",
-          "odds": "+284",
+          "odds": "+270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Iranian regime fall before 2027?",
+          "odds": "+194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -47,20 +59,8 @@
           "moved": "none"
         },
         {
-          "event": "US x Iran ceasefire by June 30?",
-          "odds": "-132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Mojtaba Khamenei leaves Iran by April 30, 2026?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Sergio Oliver Rodríguez win the 2026 Cochabamba gubernatorial election?",
-          "odds": "-257",
+          "event": "Will Ras Baraka win the Newark mayoral election?",
+          "odds": "-284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -70,12 +70,6 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
-        {
-          "event": "No change in Bank of England's interest rates after March 2026 meeting?",
-          "odds": "-2757",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Fed rate cut by July 2026 meeting?",
           "odds": "+108",
@@ -97,6 +91,12 @@
         {
           "event": "OpenAI receives federal backstop for infrastructure before July?",
           "odds": "+1860",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Spread: Brentford FC (-2.5)",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -126,19 +126,13 @@
         },
         {
           "event": "Will LeBron James announce a Presidential run before 2027?",
-          "odds": "+2464",
+          "odds": "+2841",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "2026 Balance of Power: D Senate, D House",
           "odds": "+108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Al Mina be the Republican nominee for Senate in Virginia?",
-          "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -155,8 +149,14 @@
           "moved": "none"
         },
         {
-          "event": "Will SPD win the second most seats in the 2026 Rhineland-Palatinate parliamentary elections?",
-          "odds": "-177",
+          "event": "Will James Talarico win the Texas Democratic Senate Primary by between 5% and 10.00%?",
+          "odds": "-3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?",
+          "odds": "+2073",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,8 +167,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will XRP dip to $1.30 March 9-15?",
-          "odds": "+900",
+          "event": "Will AS Roma vs. Bologna FC 1909 end in a draw?",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -185,8 +185,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Trump say \"Sleepy Joe\" this week? (March 22)",
-          "odds": "-156",
+          "event": "Predict.fun FDV above $800M one day after launch?",
+          "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump say \"Hormuz\" this week? (March 22)",
+          "odds": "-566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -197,20 +203,14 @@
           "moved": "none"
         },
         {
-          "event": "Predict.fun FDV above $800M one day after launch?",
-          "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Pacifica launch a token by December 31 2026?",
           "odds": "-143",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Chicago be 32°F or higher on March 17?",
-          "odds": "+1215",
+          "event": "Will Gwendolyn Beck be confirmed to be the sender of the “I beat Bush” email to Epstein in 2026?",
+          "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
