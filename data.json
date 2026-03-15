@@ -1,27 +1,39 @@
 {
-  "lastUpdated": "15 de marzo de 2026 — 19:18 UTC",
+  "lastUpdated": "15 de marzo de 2026 — 20:57 UTC",
   "ticker": [
+    "A dozen arrests as hundreds attend Al-Quds Day rally in London",
+    "Displaced families in Lebanon turn vehicles into rain-soaked shelters",
+    "Ukraine eyes money and tech in return for Middle East drone support",
+    "What is force majeure and why are some Gulf countries invoking it?",
+    "Oscars 2026 live: Sinners, One Battle After Another race for Academy gold",
+    "Two brothers survive after Israeli troops kill family in occupied West Bank",
+    "Different parties ‘on the rise’ within the anti-Netanyahu right",
+    "US Senator Van Hollen: Trump ‘has no idea where this war is going’",
     "Video shows dozens of migrants being rescued in the Mediterranean Sea",
     "Jan Egeland: Millions displaced as Middle East conflicts deepen",
     "Why is NYC’s Mamdani facing criticism over response to attacks on wife?",
     "Manchester United beat Aston Villa 3-1  to tighten hold on third place",
     "Jamal Rayyan, the first face of Al Jazeera, dies at 73",
     "Strategic oil release may calm markets but cannot fix Hormuz disruption",
-    "Trump calls for naval coalition to open Strait of Hormuz: Can it work?",
-    "Moment Iranian missile hits Tel Aviv",
-    "Spain vs Argentina ‘Finalissima’ match in Qatar cancelled because of war",
-    "Captain of Iran’s women’s team withdraws Australia asylum bid: State media",
-    "What do the first two weeks of the war on Iran portend for the future?",
-    "Keisuke Honda loses US advertising deal over Iran support at World Cup",
-    "France offers to broker Lebanon-Israel talks: What do we know?",
-    "ICC judge says US sanctions left her without bank cards and Google accounts",
-    "How Trump’s unchecked power has changed the world"
+    "Trump calls for naval coalition to open Strait of Hormuz: Can it work?"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Will The Secret Agent win Best International Feature Film at the 98th Academy Awards?",
+          "odds": "+244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Spread: Senators (-1.5)",
+          "odds": "+127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the Iranian regime fall before 2027?",
           "odds": "+163",
@@ -35,32 +47,20 @@
           "moved": "none"
         },
         {
+          "event": "Will F1 win Best Sound at the 98th Academy Awards?",
+          "odds": "-376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Russia capture all of Huliaipole by April 30?",
           "odds": "-112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will The Secret Agent win Best International Feature Film at the 98th Academy Awards?",
-          "odds": "+244",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Russia enter Dobropillia by March 31?",
           "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "US forces enter Iran by March 31?",
-          "odds": "+270",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Russia enter Krasnoiarske by March 31?",
-          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -71,12 +71,6 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Purdue Boilermakers vs. Michigan Wolverines: O/U 149.5",
-          "odds": "+104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "OpenAI receives federal backstop for infrastructure before July?",
           "odds": "+1288",
           "params": "Fuente: Polymarket",
@@ -84,19 +78,7 @@
         },
         {
           "event": "Will Maxx Crosby play for Las Vegas Raiders next?",
-          "odds": "-553",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will \"Economy\" or \"Eco\" be said 10+ times during the Valorant Masters Grand Finals?",
-          "odds": "-455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "S&P 500 (SPX) Up or Down on March 16?",
-          "odds": "+100",
+          "odds": "-293",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -108,7 +90,19 @@
         },
         {
           "event": "Sharks vs. Oilers",
-          "odds": "+156",
+          "odds": "+149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the percentage change in the S&P 500 in Q1 2026 be between 0% and 2%?",
+          "odds": "+713",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will US crude oil reserves fall to 325M by May 1?",
+          "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -118,24 +112,6 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
-        {
-          "event": "Will Mike Cox win the 2026 Michigan Governor Republican primary election?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republicans win the Kentucky Senate race in 2026?",
-          "odds": "-1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Matt Claman advance from the 2026 Alaska Governor primary election?",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Venstre win 20-24 seats in the Danish Folketing in the 2026 Danish general election?",
           "odds": "+316",
@@ -149,14 +125,32 @@
           "moved": "none"
         },
         {
-          "event": "Will Jeff Merkley be the Democratic nominee for Senate in Oregon?",
-          "odds": "-3125",
+          "event": "Will Jean-Michel Aulas win the 2026 Lyon mayoral election?",
+          "odds": "+203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Ken Paxton win the Texas Republican Senate Primary runoff by between 6% and 9%?",
-          "odds": "+733",
+          "event": "Will the next elected US president be a woman?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will turnout in the 2026 Slovenian parliamentary elections be between 70% and 75%?",
+          "odds": "+203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Ed Hale win the 2026 Maryland Governor Republican primary election?",
+          "odds": "+304",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will President Trump sign 8 or more pieces of legislation into law in March?",
+          "odds": "+2073",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,26 +161,26 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Counter-Strike: METANOIA WOLVES vs MAGICOS (BO3) - CCT South America Series #10 Group Stage",
+          "odds": "-108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Katana FDV above $200M one day after launch?",
-          "odds": "+334",
+          "odds": "+488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Andrew Tate post 130-159 posts from March 10 to March 17, 2026?",
-          "odds": "+1233",
+          "event": "Will Villarreal CF vs. Real Sociedad de Fútbol end in a draw?",
+          "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Chicago be between 62-63°F on March 15?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Daniil Medvedev win the 2026 BNP Paribas Open Men’s Singles Tournament?",
-          "odds": "+348",
+          "event": "Athletics vs. Cleveland Guardians",
+          "odds": "+163",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -203,14 +197,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Girona FC win on 2026-03-21?",
-          "odds": "+222",
+          "event": "Will the Bank of Brazil decrease the Selic rate after March 2026 meeting?",
+          "odds": "-362",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "XRP Up or Down - March 16, 10:20AM-10:25AM ET",
-          "odds": "-104",
+          "event": "Will the highest temperature in Lucknow be 32°C or below on March 17?",
+          "odds": "+376",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
