@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "15 de marzo de 2026 — 05:43 UTC",
+  "lastUpdated": "15 de marzo de 2026 — 07:55 UTC",
   "ticker": [
+    "Vietnam holds general election, 93% candidates from ruling Communist Party",
+    "Cars were burned and overturned by shrapnel in Tel Aviv district",
     "As Syria marks 15 years since anti-Assad uprising, security issues remain",
     "FPV drone slams into US military base in Iraq",
     "Funeral procession for influential Iranian defence chief",
     "Barrage of US-Israeli strikes target Isfahan",
     "Former CIA chief reveals early knowledge of Israeli attack plans",
     "Iran’s Space Research Centre severely damaged in strikes",
-    "Iran war live: Trump says US not ready for talks; sirens across Israel",
+    "Iran war live: Trump says not ready for deal; US, Israel pound Isfahan",
     "Pakistan strikes Afghan base after its president warns ‘red line’ crossed",
     "Brazil’s jailed ex-president Bolsonaro hospitalised with lung infection",
     "Bahrain and Saudi Arabia F1 race cancellations confirmed due to Iran war",
     "Man City held at West Ham to lose ground on Premier League leaders Arsenal",
     "Trinidad and Tobago extends state of emergency for another three months",
-    "Real Madrid beat Elche to pressure Barcelona for La Liga title",
-    "US-Israeli strike kills 15 at Isfahan factory, Iranian media says",
-    "Thousands in Madrid protest ‘forgotten’ Gaza, warn Iran war may spiral into"
+    "Real Madrid beat Elche to pressure Barcelona for La Liga title"
   ],
   "sections": [
     {
@@ -30,7 +30,7 @@
         },
         {
           "event": "US x Iran ceasefire by June 30?",
-          "odds": "-143",
+          "odds": "-149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -47,12 +47,6 @@
           "moved": "none"
         },
         {
-          "event": "Hawaii Rainbow Warriors vs. UC Irvine Anteaters: O/U 138.5",
-          "odds": "+233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Ras Baraka win the Newark mayoral election?",
           "odds": "-354",
           "params": "Fuente: Polymarket",
@@ -60,6 +54,12 @@
         },
         {
           "event": "Will Russia enter Krasnoiarske by March 31?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Iran strike Dimona by March 31?",
           "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
@@ -72,7 +72,7 @@
       "rows": [
         {
           "event": "Will Crude Oil (CL) hit (HIGH) $140 by end of March?",
-          "odds": "+376",
+          "odds": "+334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -84,7 +84,7 @@
         },
         {
           "event": "Will Maxx Crosby play for Las Vegas Raiders next?",
-          "odds": "-303",
+          "odds": "-553",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -102,7 +102,7 @@
         },
         {
           "event": "Will the percentage change in the S&P 500 in Q1 2026 be between 0% and 2%?",
-          "odds": "+575",
+          "odds": "+713",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -118,12 +118,6 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
-        {
-          "event": "Right-Wing Wave in French Mayoral Elections?",
-          "odds": "+2602",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Eric Swalwell advance from the 2026 California Governor primary election?",
           "odds": "-212",
@@ -155,8 +149,14 @@
           "moved": "none"
         },
         {
-          "event": "Will the next elected US president be a woman?",
-          "odds": "+426",
+          "event": "Will turnout in the 2026 Slovenian parliamentary elections be between 70% and 75%?",
+          "odds": "+203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Sharon Brown advance from the CA-04 primary election?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,50 +167,50 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the highest temperature in Shanghai be 14°C on March 18?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Shanghai be 15°C on March 18?",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Jensen Huang say \"Anthropic\" at the NVIDIA GTC keynote?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will SS Lazio win on 2026-03-15?",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "EdgeX FDV above $2B one day after launch?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Aston Villa FC win on 2026-03-22?",
           "odds": "-108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Miami be between 88-89°F on March 16?",
-          "odds": "+941",
+          "event": "EdgeX FDV above $2B one day after launch?",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Vanraure Hachinohe FC vs. Tochigi SC end in a draw?",
-          "odds": "+143",
+          "event": "Will 40-44 ships transit the Strait of Hormuz between March 10-16?",
+          "odds": "+2531",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will RCD Mallorca win on 2026-03-15?",
+          "odds": "+156",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Pistons vs. Wizards",
+          "odds": "-900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Delfino Pescara 1936 win on 2026-03-15?",
+          "odds": "+354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Eyüpspor win on 2026-03-15?",
+          "odds": "+300",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump cut long term capital gains tax before 2027?",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
