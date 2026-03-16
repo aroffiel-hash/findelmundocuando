@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "16 de marzo de 2026 — 06:00 UTC",
+  "lastUpdated": "16 de marzo de 2026 — 10:37 UTC",
   "ticker": [
-    "One Battle After Another’s big night: Key takeaways from the 2026 Oscars",
-    "Oscars 2026: Full list of winners",
-    "Sabalenka wins first Indian Wells title with victory against Rybakina",
-    "Large protest held in London against US-Israeli war on Iran",
-    "Stars at Oscars 2026 call for end to war in Gaza and Iran",
-    "Nobody wants to get involved’ in Strait of Hormuz military operations",
-    "Fire erupts at Dubai airport following drone attack",
-    "Oil prices keep rising as Trump seeks coalition to reopen Strait of Hormuz",
-    "US-Israeli strike pounds city of Hamadan, Iran",
-    "First face of Al Jazeera Jamal Rayyan dies at 73",
-    "Iran war live: Trump demands help from NATO allies; Dubai fire contained",
-    "Top Trump adviser says Iran war price tag at $12bn so far",
-    "Muted response as Trump urges nations to escort ships through Hormuz Strait",
-    "Israeli attacks kill 13 in Gaza, including 2 children and a pregnant woman",
-    "What’s the impact of the Iran war on China?"
+    "Man City vs Real Madrid: Champions League – team news, start and lineups",
+    "Fire at India hospital intensive care unit kills 10 people",
+    "Israeli military launches ‘ground operations’ in southern Lebanon",
+    "Displaced Lebanese shelter in schools, stadiums amid Israeli attacks",
+    "How Israel, the US and Iran deploy covert ops",
+    "Muslims pray near closed Al-Aqsa Mosque on Ramadan holy night",
+    "Israeli strike on Gaza police kills officers",
+    "Map shows how 16 days of attacks have evolved in US-Israel war on Iran",
+    "The Iran war picture blackout",
+    "How closing the Strait of Hormuz raises your grocery bill",
+    "Iran war: What is happening on day 17 of US-Israel attacks?",
+    "Drone attack disrupts Dubai flights as Iran continues Gulf attacks",
+    "‘Stop all these wars now’ says Oscar winner",
+    "Japan begins release of oil reserves as Iran war sparks energy crisis",
+    "Madagascar names anticorruption chief as PM days after cabinet dissolved"
   ],
   "sections": [
     {
@@ -23,13 +23,19 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "US forces enter Iran by March 31?",
-          "odds": "+233",
+          "event": "Valorant: TEC Esports vs World Sports Invictus Gaming (BO3) - China Evolution Series Act 1 Playoffs",
+          "odds": "-524",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Iran strike Dimona by March 31?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "US x Iran meeting by March 31, 2026?",
           "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
@@ -37,6 +43,12 @@
         {
           "event": "Will Russia enter Druzkhivka by June 30?",
           "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "US x Iran ceasefire by May 31?",
+          "odds": "-104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -51,18 +63,6 @@
           "odds": "+405",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will Ras Baraka win the Newark mayoral election?",
-          "odds": "-488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Israel and Saudi Arabia normalize relations before 2027?",
-          "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -71,26 +71,26 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
+          "event": "Will Maxx Crosby play for Las Vegas Raiders next?",
+          "odds": "-599",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "OpenAI receives federal backstop for infrastructure before July?",
           "odds": "+1288",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Maxx Crosby play for Las Vegas Raiders next?",
-          "odds": "-293",
+          "event": "Will the Fed Pause–Pause–Pause in the next three decisions (Mar–Apr–Jun)?",
+          "odds": "-149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will US crude oil reserves fall to 325M by May 1?",
           "odds": "+300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Fed Pause–Pause–Pause in the next three decisions (Mar–Apr–Jun)?",
-          "odds": "-149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -113,20 +113,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Venstre win 20-24 seats in the Danish Folketing in the 2026 Danish general election?",
-          "odds": "+316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "2026 Balance of Power: D Senate, D House",
           "odds": "+108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will turnout in the 2026 Slovenian parliamentary elections be between 70% and 75%?",
-          "odds": "+203",
+          "event": "Will Democrats 66 (D66) win the most seats in The Hague’s 2026 municipal election?",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -143,6 +137,12 @@
           "moved": "none"
         },
         {
+          "event": "Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?",
+          "odds": "+1860",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will President Trump sign 8 or more pieces of legislation into law in March?",
           "odds": "+2073",
           "params": "Fuente: Polymarket",
@@ -155,50 +155,50 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Will Google reach $340 in March?",
+          "odds": "+300",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Palantir (PLTR) close at $154-$156 on the final day of trading of the week of Mar 16 – Mar 20?",
           "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will NYC have between 4 and 5 inches of precipitation in March?",
-          "odds": "+143",
+          "event": "Will there be between 10 and 20 average daily transits of the Strait of Hormuz on March 31?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Arizona win the 2026 NCAA Tournament?",
-          "odds": "+474",
+          "event": "Will the price of XRP be above $1.50 on March 19?",
+          "odds": "+138",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Toronto be -4°C on March 17?",
-          "odds": "+334",
+          "event": "Will the highest temperature in Paris be 14°C on March 18?",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "XRP Up or Down - March 16, 10:25AM-10:30AM ET",
-          "odds": "-104",
+          "event": "Cavaliers vs. Bulls",
+          "odds": "-400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "XRP Up or Down - March 16, 10:20AM-10:25AM ET",
-          "odds": "-104",
+          "event": "Will BNB reach $1200 by December 31, 2026?",
+          "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "XRP Up or Down - March 16, 10:30AM-10:35AM ET",
-          "odds": "-104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "XRP Up or Down - March 16, 10:35AM-10:40AM ET",
-          "odds": "-104",
+          "event": "Will the price of XRP be between $1.40 and $1.50 on March 17?",
+          "odds": "-127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
