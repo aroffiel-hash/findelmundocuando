@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "16 de marzo de 2026 — 10:37 UTC",
+  "lastUpdated": "16 de marzo de 2026 — 14:47 UTC",
   "ticker": [
-    "Man City vs Real Madrid: Champions League – team news, start and lineups",
-    "Fire at India hospital intensive care unit kills 10 people",
-    "Israeli military launches ‘ground operations’ in southern Lebanon",
-    "Displaced Lebanese shelter in schools, stadiums amid Israeli attacks",
-    "How Israel, the US and Iran deploy covert ops",
-    "Muslims pray near closed Al-Aqsa Mosque on Ramadan holy night",
-    "Israeli strike on Gaza police kills officers",
-    "Map shows how 16 days of attacks have evolved in US-Israel war on Iran",
-    "The Iran war picture blackout",
-    "How closing the Strait of Hormuz raises your grocery bill",
-    "Iran war: What is happening on day 17 of US-Israel attacks?",
-    "Drone attack disrupts Dubai flights as Iran continues Gulf attacks",
-    "‘Stop all these wars now’ says Oscar winner",
-    "Japan begins release of oil reserves as Iran war sparks energy crisis",
-    "Madagascar names anticorruption chief as PM days after cabinet dissolved"
+    "Kenya and Russia agree no Kenyans will be recruited for Ukraine war",
+    "US says it has destroyed Iran missile capacity: How is Iran still shooting?",
+    "Qatar calls on Iran to stop Gulf attacks, urges diplomatic solution",
+    "The US-Israeli strategy against Iran is working. Here is why",
+    "Qatar insists Iran is targeting civilian areas",
+    "Strait of Hormuz: Which countries’ ships has Iran allowed safe passage to?",
+    "Quran echoes loudly as Palestinian reciters gather in Gaza",
+    "South Korean protesters criticise Trump over Hormuz security demand",
+    "In Lebanon, Israel is using occupation as negotiating tool, say analysts",
+    "Destruction in Beirut as bombing and mass displacement continue",
+    "Iran still playing in World Cup 2026 despite withdrawal rumours, AFC says",
+    "No, MAGA is not divided on the Iran war",
+    "War on Iran: Can fuel rationing, remote work, short sleeves ease oil woes?",
+    "Myanmar parliament dominated by pro-military party convenes after 5 years",
+    "Monastery shelters families fleeing Israeli strikes in Lebanon"
   ],
   "sections": [
     {
@@ -23,44 +23,44 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Valorant: TEC Esports vs World Sports Invictus Gaming (BO3) - China Evolution Series Act 1 Playoffs",
-          "odds": "-524",
+          "event": "Will Iran strike Dimona by March 31?",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Iran strike Dimona by March 31?",
-          "odds": "+1328",
+          "event": "US x Iran ceasefire by March 31?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will North Korea invade South Korea before 2027?",
+          "odds": "+681",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "US x Iran meeting by March 31, 2026?",
-          "odds": "+1566",
+          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Russia enter Druzkhivka by June 30?",
-          "odds": "+316",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "US x Iran ceasefire by May 31?",
-          "odds": "-104",
+          "event": "US/Israel strike Yemen by March 31?",
+          "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Russia enter Dobropillia by March 31?",
           "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will North Korea invade South Korea before 2027?",
-          "odds": "+405",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -84,19 +84,25 @@
         },
         {
           "event": "Will the Fed Pause–Pause–Pause in the next three decisions (Mar–Apr–Jun)?",
-          "odds": "-149",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will US crude oil reserves fall to 325M by May 1?",
-          "odds": "+300",
+          "odds": "-177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the percentage change in the S&P 500 in Q1 2026 be between 0% and 2%?",
-          "odds": "+719",
+          "odds": "+713",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will S&P 500 (SPX) hit $7,000 (HIGH) in March 2026?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Crude Oil (CL) settle over $64 on the final trading day of March 2026?",
+          "odds": "-1983",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -119,8 +125,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Democrats 66 (D66) win the most seats in The Hague’s 2026 municipal election?",
-          "odds": "+1150",
+          "event": "Will turnout in the 2026 Slovenian parliamentary elections be between 65% and 70%?",
+          "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Mette Frederiksen be the next prime minister of Denmark after the 2026 parliamentary elections?",
+          "odds": "-400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -138,13 +150,7 @@
         },
         {
           "event": "Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?",
-          "odds": "+1860",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will President Trump sign 8 or more pieces of legislation into law in March?",
-          "odds": "+2073",
+          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -155,50 +161,50 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Google reach $340 in March?",
-          "odds": "+300",
+          "event": "Will Go Ahead Eagles vs. PEC Zwolle end in a draw?",
+          "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Palantir (PLTR) close at $154-$156 on the final day of trading of the week of Mar 16 – Mar 20?",
-          "odds": "+733",
+          "event": "Will Singapore vs. Faroe Islands end in a draw?",
+          "odds": "-244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will there be between 10 and 20 average daily transits of the Strait of Hormuz on March 31?",
+          "event": "Will the highest temperature in Atlanta be between 76-77°F on March 19?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Associação Chapecoense de Futebol vs. Grêmio FBPA end in a draw?",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Claude by Anthropic be #1 Free App in the US Apple App Store on March 17?",
+          "odds": "+2073",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Wellington be 21°C on March 18?",
+          "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Seattle be between 52-53°F on March 18?",
           "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the price of XRP be above $1.50 on March 19?",
-          "odds": "+138",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Paris be 14°C on March 18?",
-          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Cavaliers vs. Bulls",
           "odds": "-400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will BNB reach $1200 by December 31, 2026?",
-          "odds": "+300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the price of XRP be between $1.40 and $1.50 on March 17?",
-          "odds": "-127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
