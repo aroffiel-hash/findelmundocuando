@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "16 de marzo de 2026 — 21:02 UTC",
+  "lastUpdated": "16 de marzo de 2026 — 23:00 UTC",
   "ticker": [
+    "Trump claims strikes on Iran prevented nuclear war",
+    "Trump seeks to delay meeting with China’s Xi by ‘month or so’ amid Iran war",
+    "‘Fourth world nation’: Trump slams Somalia, Ilhan Omar",
+    "Ten ICU patients killed in hospital fire in eastern India",
+    "Who is answering Trump’s call for help with Strait of Hormuz?",
     "Cuba electric grid collapses amid US oil blockade causing national blackout",
     "BBC files motion asking US court to throw out Trump’s $10bn lawsuit",
     "How big of a problem is the Strait of Hormuz for Donald Trump?",
@@ -10,12 +15,7 @@
     "Outrage as Afghan asylum seeker who fought alongside US dies in ICE custody",
     "Indian farmers dress up as bears to protect crops from monkeys",
     "Civilians pulled from rubble after US-Israeli strikes on Tehran",
-    "US responsible for deadly attack on Iranian school: Amnesty International",
-    "Afghanistan says children among four killed in latest attacks by Pakistan",
-    "US, Israel now know ‘what kind of nation they are dealing with’",
-    "How badly has the Iran war hit the global economy? The tell-tale signs",
-    "Is Russia benefitting from the Iran war?",
-    "Qatar Airways announces ‘limited’ flights to and from Doha"
+    "US responsible for deadly attack on Iranian school: Amnesty International"
   ],
   "sections": [
     {
@@ -23,8 +23,8 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Russia enter Dobropillia by March 31?",
-          "odds": "+3125",
+          "event": "Ukraine hits Moscow by March 31, 2026?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -35,32 +35,32 @@
           "moved": "none"
         },
         {
-          "event": "Ukraine hits Moscow by March 31, 2026?",
-          "odds": "+809",
+          "event": "Will Russia enter Dobropillia by March 31?",
+          "odds": "+3125",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will North Korea invade South Korea before 2027?",
-          "odds": "+870",
+          "odds": "+1049",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Russia capture Rodynske by March 31?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Marco Rubio visit China by December 31, 2026?",
+          "odds": "-614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Russia enter Druzkhivka by June 30?",
           "odds": "+284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Marco Rubio visit China by December 31, 2026?",
-          "odds": "-900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Russia capture Rodynske by March 31?",
-          "odds": "+354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -71,12 +71,6 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will Crude Oil (CL) hit (HIGH) $100 by March 20?",
-          "odds": "-104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "OpenAI receives federal backstop for infrastructure before July?",
           "odds": "+1415",
           "params": "Fuente: Polymarket",
@@ -85,6 +79,12 @@
         {
           "event": "Will Maxx Crosby play for Las Vegas Raiders next?",
           "odds": "-599",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Sharks vs. Oilers",
+          "odds": "+149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -119,6 +119,12 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
+          "event": "Will Mette Frederiksen be the next prime minister of Denmark after the 2026 parliamentary elections?",
+          "odds": "-300",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the next elected US president be a woman?",
           "odds": "+300",
           "params": "Fuente: Polymarket",
@@ -126,19 +132,13 @@
         },
         {
           "event": "2026 Balance of Power: D Senate, D House",
-          "odds": "+112",
+          "odds": "+108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Mette Frederiksen be the next prime minister of Denmark after the 2026 parliamentary elections?",
-          "odds": "-316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democrats (D) win the second most seats in the 2026 Slovenian parliamentary election?",
-          "odds": "+2531",
+          "event": "Will François Piquemal be the next mayor of Toulouse following the 2026 Toulouse municipal election?",
+          "odds": "+127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -173,20 +173,14 @@
           "moved": "none"
         },
         {
+          "event": "Heat vs. Hornets",
+          "odds": "+156",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Masoud Pezeshkian out by December 31?",
           "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Tesla (TSLA) close at $375-$380 on the final day of trading of the week of Mar 16 – Mar 20?",
-          "odds": "+2531",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Singapore be 29°C on March 18?",
-          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -197,20 +191,26 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Munich be 13°C on March 19?",
-          "odds": "+233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Czechia be in the top 10 at Eurovision 2026?",
-          "odds": "-149",
+          "event": "Miami Open: Shuai Zhang vs Sorana Cirstea",
+          "odds": "+316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Apple be the largest company in the world by market cap on December 31?",
           "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "BNB Up or Down - March 16, 8:00PM-8:05PM ET",
+          "odds": "+104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "BNB Up or Down - March 16, 7:40PM-7:45PM ET",
+          "odds": "+104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
