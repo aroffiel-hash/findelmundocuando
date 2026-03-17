@@ -1,33 +1,27 @@
 {
-  "lastUpdated": "17 de marzo de 2026 — 15:43 UTC",
+  "lastUpdated": "17 de marzo de 2026 — 19:38 UTC",
   "ticker": [
-    "Liverpool vs Galatasaray: UEFA Champions League – teams, start, lineups",
-    "Israeli attacks on Lebanon may amount to war crimes, UN rights office says",
-    "Rescue teams recover bodies after deadly Kabul hospital air strike",
-    "Who is Gholamreza Soleimani, the commander of Iran’s Basij forces?",
-    "US National Counterterrorism Center director Joe Kent resigns over Iran war",
-    "Is humanity hardwired for war?",
-    "US envoys meet Hamas in Cairo to salvage fragile Gaza truce",
-    "Gavaskar links Sunrisers signing of Pakistan’s Abrar to Indian deaths",
-    "What we know about deadly strike on Kabul medical centre",
-    "Macron prepares France for ‘an age of nuclear weapons’ as Iran war rages",
-    "The US-Israel war on Iran is shaped by religion as much as strategy",
-    "Iran blames US, Israel for Hormuz tensions as crisis risks energy supplies",
-    "UN warns of record hunger, 45 million more at risk, if Iran war continues",
-    "Thousands of Christians are being evicted in Pakistan’s capital",
-    "Australia beat China to reach Women’s Asian Cup final as Kerr nets winner"
+    "Congolese President Sassou Nguesso wins fifth term: Provisional results",
+    "US lawmakers Murphy, Casar push legislation to regulate prediction markets",
+    "Trump says it’s a ‘good thing’ counterterrorism director resigned over Iran",
+    "US confirms 157 killed in maritime strikes experts call ‘extrajudicial’",
+    "Starmer, Zelenskyy urge ‘focus’ on Ukraine as Iran war diverts attention",
+    "Video: Man rescued from under rubble after attack in Iran",
+    "Ex-Belgian diplomat ordered to stand trial over murder of Congo’s Lumumba",
+    "Israel carrying out ‘mass expulsion of Palestinians’ in West Bank, UN warns",
+    "LIVE: Manchester City vs Real Madrid – Champions League last 16",
+    "Why Iranians are taking to Tehran’s streets during war",
+    "Video: What we know about Israel’s assault on southern Lebanon",
+    "Drones expand the deadly front lines of Sudan’s devastating war",
+    "What the Iran war looks like from the occupied West Bank",
+    "Why aren’t gold prices rising, despite Iran war uncertainty?",
+    "Liverpool vs Galatasaray: UEFA Champions League – teams, start, lineups"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Miami Open, Qualification: Thiago Agustin Tirante vs Martin Landaluce",
-          "odds": "+122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Russia enter Druzkhivka by June 30?",
           "odds": "+284",
@@ -41,20 +35,26 @@
           "moved": "none"
         },
         {
-          "event": "Will Israel strike 6 countries in 2026?",
-          "odds": "+3025",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Israel and Saudi Arabia normalize relations before 2027?",
           "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
+          "event": "Will Israel strike 6 countries in 2026?",
+          "odds": "+3025",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Russia capture all of Stepnohirsk by April 30, 2026?",
           "odds": "+354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Howard Bison vs. UMBC Retrievers",
+          "odds": "+102",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -71,20 +71,14 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "S&P 500 (SPX) Up or Down on March 17?",
-          "odds": "-233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will two people dissent the March Fed decision?",
-          "odds": "-163",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Maxx Crosby play for Las Vegas Raiders next?",
           "odds": "-599",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Crude Oil (CL) settle over $80 on the final trading day of March 2026?",
+          "odds": "-524",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -95,20 +89,26 @@
           "moved": "none"
         },
         {
-          "event": "Will Crude Oil (CL) hit (LOW) $75 by March 20?",
-          "odds": "+2677",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will S&P 500 (SPX) hit $7,000 (HIGH) in March 2026?",
           "odds": "+488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Crude Oil (CL) settle over $80 on the final trading day of March 2026?",
-          "odds": "-524",
+          "event": "Call of Duty: FaZe Vegas vs Cloud9 New York (BO5) - Call of Duty League Stage 2 Major Qualifiers Qualifiers",
+          "odds": "-900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Jacob Elordi announced as next James Bond?",
+          "odds": "+2464",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the percentage change in the S&P 500 in Q1 2026 be between 0% and 2%?",
+          "odds": "+880",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -119,14 +119,8 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Analilia Mejia win the NJ-11 special election?",
-          "odds": "-1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Cristian Sanabria win the 2026 Sucre mayoral election?",
-          "odds": "-244",
+          "odds": "+122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -143,8 +137,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Juliana Stratton be the Democratic nominee for Senate in Illinois?",
-          "odds": "+127",
+          "event": "Will Alfonso López Chau win the 2026 Peruvian presidential election?",
+          "odds": "+545",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Sharon Brown advance from the CA-04 primary election?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -155,8 +155,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Alfonso López Chau win the 2026 Peruvian presidential election?",
-          "odds": "+521",
+          "event": "Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?",
+          "odds": "+1983",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,6 +167,12 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Exact Score: RC Celta de Vigo 1 - 2 Deportivo Alavés?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Grêmio FBPA vs. EC Vitória end in a draw?",
           "odds": "+284",
           "params": "Fuente: Polymarket",
@@ -174,43 +180,37 @@
         },
         {
           "event": "Will Hyperliquid reach $100 by December 31, 2026?",
-          "odds": "+376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Dota 2: 1win vs Power Rangers (BO3) - CCT Playoffs",
-          "odds": "-163",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Murcia: Ivan Gakhov vs Christoph Negritu",
-          "odds": "-143",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Kocaelispor win on 2026-03-18?",
           "odds": "+354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "EdgeX FDV above $300M one day after launch?",
-          "odds": "-1899",
+          "event": "XRP Up or Down - March 18, 5AM ET",
+          "odds": "-104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Beşiktaş JK win on 2026-03-19?",
-          "odds": "-270",
+          "event": "Over $12M committed to the P2P Protocol public sale?",
+          "odds": "+156",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Masoud Pezeshkian out by December 31?",
-          "odds": "+149",
+          "odds": "+138",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Fidesz-KDNP win at least 90 seats?",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Mateusz Gamrot fight Paddy Pimblett next?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
