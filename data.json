@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "18 de marzo de 2026 — 22:02 UTC",
+  "lastUpdated": "18 de marzo de 2026 — 23:55 UTC",
   "ticker": [
+    "Dolores Huerta, sexual violence survivors speak out against Cesar Chavez",
+    "What are Iran’s options as war goes on?",
+    "Liverpool thrash Galatasaray 4-0 to reach Champions League quarterfinals",
+    "Leader of Ecuador-based criminal group Los Lobos arrested in Mexico City",
     "Nigeria’s President Tinubu meets royals in UK state visit",
     "Iranians burn Trump, Netanyahu effigies at warship victim rally",
     "US Fed keeps interest rates steady amid economic uncertainty, Iran war",
@@ -10,24 +14,14 @@
     "Top US spy accused of omitting Iran intel that contradicts Trump",
     "Israel attacks Iran’s major gas field in new escalation",
     "US intel chief Gabbard says Iran was not rebuilding enrichment prior to war",
-    "Qatar says Iran missile attack sparks fire, causes damage at gas facility",
-    "US to require up to $15,000 bond for visa applicants from 12 new countries",
-    "Could the Iran war trigger a global recession?",
-    "Trump temporarily waives century-old shipping law amid rising fuel costs",
-    "Who will answer for the Iranian schoolchildren killed in Minab?",
-    "Iranian women’s football team return to Iran"
+    "Qatar says Iran attack caused significant damage at Ras Laffan gas facility",
+    "US to require up to $15,000 bond for visa applicants from 12 new countries"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Kharg Island no longer under Iranian control by April 30?",
-          "odds": "+270",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "1. FC Köln vs. Borussia Mönchengladbach: O/U 2.5",
           "odds": "-112",
@@ -48,7 +42,7 @@
         },
         {
           "event": "Will NATO countries clash with each other before 2027?",
-          "odds": "+1150",
+          "odds": "+1165",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -59,8 +53,14 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Warsaw be 11°C on March 19?",
-          "odds": "+1328",
+          "event": "Will China GDP growth in Q1 2026 be between 4.5% and 5.0%?",
+          "odds": "-244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Reza Pahlavi be head of state in Iran end of 2026?",
+          "odds": "+525",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -95,8 +95,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Crude Oil (CL) settle over $72 on the final trading day of March 2026?",
-          "odds": "-1899",
+          "event": "Will S&P 500 (SPX) hit $6,200 (LOW) in March 2026?",
+          "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -119,12 +119,6 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will the Slovenian Democratic Party (SDS) win 30-34 seats in the Slovenian National Assembly in this election?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will John Rodgers win the 2026 Vermont Governor Republican primary election?",
           "odds": "+1899",
           "params": "Fuente: Polymarket",
@@ -144,13 +138,19 @@
         },
         {
           "event": "Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?",
-          "odds": "+2027",
+          "odds": "+2073",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Ivanka Trump announce a presidential run before 2027?",
-          "odds": "+1328",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will turnout in the 2026 Slovenian parliamentary elections be between 60% and 65%?",
+          "odds": "+132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -167,14 +167,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Major solar storm by April 30?",
-          "odds": "+203",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Backpack FDV above $700M one day after launch?",
-          "odds": "+1328",
+          "event": "Will a province schedule a referendum to leave Canada before 2027?",
+          "odds": "+100",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -185,32 +179,38 @@
           "moved": "none"
         },
         {
-          "event": "Will \"Project Hail Mary\" Opening Weekend Box Office be between 70m and 75m?",
-          "odds": "+400",
+          "event": "Will FC CFR 1907 Cluj win on 2026-03-20?",
+          "odds": "+170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Finland be in the top 5 at Eurovision 2026?",
+          "odds": "-524",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Grok 5 released by June 30, 2026?",
+          "odds": "+170",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Bryson Dechambeau win the 2026 Masters tournament?",
-          "odds": "+2400",
+          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Trump post \"Epic Fury\" on Truth Social this week?",
-          "odds": "+108",
+          "event": "Will CF Cruz Azul win on 2026-03-20?",
+          "odds": "-194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the minimum Arctic sea ice extent this summer be between 4.0m & 4.2m square kilometers?",
           "odds": "+963",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Grok 5 released by June 30, 2026?",
-          "odds": "+149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
