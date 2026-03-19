@@ -1,27 +1,33 @@
 {
-  "lastUpdated": "19 de marzo de 2026 — 05:15 UTC",
+  "lastUpdated": "19 de marzo de 2026 — 08:00 UTC",
   "ticker": [
+    "‘Unpleasant surprises’: Will key French cities elect far-right mayors?",
+    "Baking in rubble: Gaza woman keeps Eid traditions alive despite shortages",
+    "Trump attempts to distance US from Israeli strikes on key Iranian gasfield",
+    "Israeli air raids devastate southern Lebanon, dozens killed in two days",
+    "Iran war: What is happening on day 20 of US-Israel attacks?",
+    "Social media making young people less happy, report finds",
+    "US intelligence agencies not expecting China to invade Taiwan in 2027",
+    "Iran executes three convicted of killing police in recent pre-war unrest",
+    "Luka Doncic scores 40 points as Lakers defeat Rockets in NBA",
     "JD Vance deflects gas price concerns with criticism of Biden",
     "Ben-Gvir visits gallows museum, threatens the death penalty",
     "Attacks on GCC show ‘IRGC don’t think, they just push a button’",
     "Asia’s stock markets dive after attacks on energy facilities in Qatar, Iran",
     "Tehran rescue workers pull survivors from rubble",
-    "Could oil hit $200 a barrel? Analysts no longer think it’s far-fetched",
-    "Lionel Messi scores 900th goal as Nashville oust Miami in Champions Cup",
-    "Democrats walk out of heated Epstein files briefing",
-    "Three Palestinian women killed during Iranian missile attack in West Bank",
-    "‘Does America have a plan? Israel has a plan. Does America know?’",
-    "Three women killed in occupied West Bank missile attack",
-    "Saudi FM warns Iran that patience in Gulf not ‘unlimited’ amid attacks",
-    "Iran war live: Qatar, Saudi energy sites attacked; Riyadh says trust gone",
-    "Qatar expels Iranian attaches after LNG facility strike",
-    "Funerals held for Afghans killed in Pakistani strike on Kabul hospital"
+    "Could oil hit $200 a barrel? Analysts no longer think it is far-fetched"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Will Ukraine re-enter Obratne or Temyrivka by March 31?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Russia capture all of Stepnohirsk by April 30, 2026?",
           "odds": "+488",
@@ -30,25 +36,19 @@
         },
         {
           "event": "China x India military clash by December 31, 2026?",
-          "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Ukraine re-enter Obratne or Temyrivka by March 31?",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the March decision?",
-          "odds": "-669",
+          "odds": "+488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will China GDP growth in Q1 2026 be between 4.5% and 5.0%?",
-          "odds": "-244",
+          "odds": "+127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the March decision?",
+          "odds": "-1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -84,7 +84,7 @@
         },
         {
           "event": "OpenAI receives federal backstop for infrastructure before July?",
-          "odds": "+1860",
+          "odds": "+1823",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -102,7 +102,7 @@
         },
         {
           "event": "Will S&P 500 (SPX) hit $6,200 (LOW) in March 2026?",
-          "odds": "+566",
+          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -119,20 +119,20 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Ed Hale win the 2026 Maryland Governor Republican primary election?",
-          "odds": "+273",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?",
-          "odds": "+2073",
+          "odds": "+2027",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Ivanka Trump announce a presidential run before 2027?",
-          "odds": "+1566",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Ed Hale win the 2026 Maryland Governor Republican primary election?",
+          "odds": "+273",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -155,8 +155,8 @@
           "moved": "none"
         },
         {
-          "event": "Nechirvan Barzani out as Kurdistan Regional Government President?",
-          "odds": "+900",
+          "event": "Will Christian Estrosi win the 2026 Nice mayoral election?",
+          "odds": "+1198",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,26 +167,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Drexel Dragons vs. St. Bonaventure Bonnies (W)",
-          "odds": "-122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Elon Musk post 1160-1199 tweets in April 2026?",
-          "odds": "+1786",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "North Dakota State Bison vs. Michigan State Spartans",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Bryson Dechambeau win the 2026 Masters tournament?",
-          "odds": "+1899",
+          "event": "Will Real Betis Balompié win on 2026-03-22?",
+          "odds": "+257",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -198,19 +180,37 @@
         },
         {
           "event": "SpaceX Starship fully reusable before 2027?",
-          "odds": "+163",
+          "odds": "+143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Gold (GC) settle over $4,600 on the final trading day of March 2026?",
+          "odds": "-1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Microsoft (MSFT) close at $370-$380 on the final day of trading of the week of Mar 16 – Mar 20?",
-          "odds": "+800",
+          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Singapore be 32°C on March 22?",
-          "odds": "+194",
+          "event": "USD1 depeg by December 31?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democrats win the Illinois governor race in 2026?",
+          "odds": "-1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Troy Trojans vs. Nebraska Cornhuskers",
+          "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
