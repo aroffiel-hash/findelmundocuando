@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "19 de marzo de 2026 — 21:49 UTC",
+  "lastUpdated": "19 de marzo de 2026 — 23:00 UTC",
   "ticker": [
+    "Senegal and Morocco tied by religion and trade but divided by AFCON fallout",
+    "Netanyahu says Iran’s uranium enrichment abilities destroyed",
+    "Israel continues Gaza attacks amid regional war, kills several Palestinians",
     "FIFA details Infantino’s $6m deal with 33% Club World Cup bonus increase",
     "Israelis protest in Tel Aviv calling for end to Iran war",
     "FIFA fines Israel FA citing racism and ‘multiple’ discrimination breaches",
@@ -12,10 +15,7 @@
     "Why the US Homeland Security shutdown is raising fears of airport delays",
     "Iranians shop for Persian New Year essentials despite war",
     "Smoke rises after Iranian missile attack on Israel oil refinery in Haifa",
-    "Iran’s strike on Qatar gas facility will reduce supply for 3 to 5 years",
-    "Qatar PM on Iran attacks: ‘Wisdom seems to be lacking these days’",
-    "Who leads Iran? Assassinations leave leadership and command in question",
-    "Hungary’s Orban continues to block Ukraine loan at EU summit"
+    "Iran’s strike on Qatar gas facility will reduce supply for 3 to 5 years"
   ],
   "sections": [
     {
@@ -23,14 +23,14 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the March decision?",
-          "odds": "-1328",
+          "event": "Will the highest temperature in Warsaw be 12°C on March 21?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the U.S. invade Iran before 2027?",
-          "odds": "-143",
+          "odds": "-132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -42,7 +42,13 @@
         },
         {
           "event": "China x India military clash by December 31, 2026?",
-          "odds": "+488",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the number of Israel Rocket Alerts since Operation Lion's Roar be at least 22,000 by March 20?",
+          "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -55,12 +61,6 @@
         {
           "event": "Pakistan x Afghanistan ceasefire by March 31?",
           "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Reza Pahlavi be head of state in Iran end of 2026?",
-          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -77,8 +77,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Leeds United FC vs. Brentford FC end in a draw?",
-          "odds": "+257",
+          "event": "Will Crude Oil (CL) hit (LOW) $90 by end of March?",
+          "odds": "-149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -96,19 +96,19 @@
         },
         {
           "event": "Fed rate cut by June 2026 meeting?",
-          "odds": "+525",
+          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Callum Turner announced as next James Bond?",
-          "odds": "+270",
+          "event": "Panthers vs. Oilers: O/U 7.5",
+          "odds": "+212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will S&P 500 (SPX) close over $6,500 on the final trading day of March 2026?",
-          "odds": "-400",
+          "event": "Will Crude Oil (CL) hit (HIGH) $175 by end of June?",
+          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -118,12 +118,6 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
-        {
-          "event": "Will Trump’s approval rating be between 40.0 and 40.4 on March 20, 2026?",
-          "odds": "-117",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Janak Joshi be the Republican nominee for Senate in Colorado?",
           "odds": "+400",
@@ -149,14 +143,20 @@
           "moved": "none"
         },
         {
+          "event": "Will Ed Hale win the 2026 Maryland Governor Republican primary election?",
+          "odds": "+273",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Ivanka Trump announce a presidential run before 2027?",
           "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Ed Hale win the 2026 Maryland Governor Republican primary election?",
-          "odds": "+304",
+          "event": "Will Adam Steen win the 2026 Iowa Governor Republican primary election?",
+          "odds": "+212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -173,20 +173,8 @@
           "moved": "none"
         },
         {
-          "event": "Sabres vs. Kings",
-          "odds": "-127",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Elon Musk post 360-379 tweets from March 17 to March 24, 2026?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will CF Estrela da Amadora win on 2026-03-20?",
-          "odds": "+156",
+          "event": "Will ACF Fiorentina win on 2026-03-22?",
+          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -197,20 +185,32 @@
           "moved": "none"
         },
         {
-          "event": "Will Santos FC win on 2026-03-22?",
-          "odds": "+334",
+          "event": "Will the highest temperature in Atlanta be between 84-85°F on March 21?",
+          "odds": "+354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Liverpool FC win on 2026-03-21?",
+          "odds": "+127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Chennai Super Kings win the 2026 Indian Premier League?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Miami Open: Anna Blinkova vs Victoria Mboko",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Hany Mukhtar win the 2026 MLS Golden Boot?",
           "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: Sevilla FC 1 - 1 Valencia CF?",
-          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
