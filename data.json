@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "20 de marzo de 2026 — 10:04 UTC",
+  "lastUpdated": "20 de marzo de 2026 — 11:57 UTC",
   "ticker": [
+    "Refugee Council questions Australia’s Iran strategy at Women’s Asian Cup",
+    "Iran today, Africa tomorrow",
+    "Iran does not need to close the Strait of Hormuz to disrupt it",
+    "Iran developing a ‘vetting system’ for Strait of Hormuz transit: Report",
+    "Muslims celebrate Eid al-Fitr around the world amid shadow of war",
     "Eid celebrations dimmed by war and displacement across Middle East",
     "Five problems the Iran war could solve for Israel’s Netanyahu",
     "Long before Trump: How US policy has harmed the environment for decades",
@@ -10,12 +15,7 @@
     "Iran hits Kuwaiti oil refinery as Israel renews attacks on Tehran",
     "Iran war: What is happening on day 21 of US-Israel attacks?",
     "Eid under siege: Little to celebrate in Gaza as Israel tightens chokehold",
-    "Iran women’s football team feted in Tehran after asylum battle at Asian Cup",
-    "Iranian football players celebrated in Tehran",
-    "FIFA’s Gianni Infantino seemingly changes course on peace efforts",
-    "Iran footballer Azmoun kicked off national team for disloyalty, say reports",
-    "Japan vs Australia: Women’s Asian Cup final – team news, start and lineups",
-    "Why Pakistani farmers are suing two German companies for deadly 2022 floods"
+    "Iran women’s football team feted in Tehran after asylum battle at Asian Cup"
   ],
   "sections": [
     {
@@ -23,14 +23,20 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
+          "event": "Miami Open: Valentin Royer vs Thiago Agustin Tirante",
+          "odds": "-112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Pakistan x Afghanistan ceasefire by March 31?",
-          "odds": "+669",
+          "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "China x India military clash by December 31, 2026?",
-          "odds": "+354",
+          "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -43,12 +49,6 @@
         {
           "event": "Will René Yahuasi Calamani win the 2026 La Paz gubernatorial election?",
           "odds": "+604",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Iran take military action against a Gulf State on March 20, 2026?",
-          "odds": "-1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -89,26 +89,26 @@
           "moved": "none"
         },
         {
-          "event": "OpenAI receives federal backstop for infrastructure before July?",
-          "odds": "+1392",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Fed rate cut by June 2026 meeting?",
           "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Callum Turner announced as next James Bond?",
-          "odds": "+316",
+          "event": "OpenAI receives federal backstop for infrastructure before July?",
+          "odds": "+1392",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "No change in Bank of Japan’s interest rates after the June 2026 meeting?",
-          "odds": "+669",
+          "event": "Will Crude Oil (CL) hit (LOW) $80 by end of June?",
+          "odds": "-170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Callum Turner announced as next James Bond?",
+          "odds": "+316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -143,14 +143,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Ed Hale win the 2026 Maryland Governor Republican primary election?",
-          "odds": "+273",
+          "event": "Will Tisza win 130+ seats in the Hungarian National Assembly in this election?",
+          "odds": "+354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Ivanka Trump announce a presidential run before 2027?",
-          "odds": "+1328",
+          "event": "Will Ed Hale win the 2026 Maryland Governor Republican primary election?",
+          "odds": "+273",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -167,14 +167,32 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Will France win Eurovision 2026?",
+          "odds": "+754",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Chennai Super Kings win the 2026 Indian Premier League?",
           "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will France win Eurovision 2026?",
-          "odds": "+747",
+          "event": "Will the Bank of Mexico announce a decrease at the March meeting?",
+          "odds": "-233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Kraken vs. Blue Jackets",
+          "odds": "+156",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will NVIDIA (NVDA) finish week of March 16 above $195?",
+          "odds": "+809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -185,32 +203,14 @@
           "moved": "none"
         },
         {
-          "event": "Miami Open: Casper Ruud vs Ethan Quinn",
-          "odds": "-177",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Hany Mukhtar win the 2026 MLS Golden Boot?",
-          "odds": "+1011",
+          "event": "Will IK Start win on 2026-03-21?",
+          "odds": "+132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will there be between 10 and 13 US strikes on Somalia in March 2026?",
           "odds": "+257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "USD1 depeg by December 31?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Bank of Mexico announce a decrease at the March meeting?",
-          "odds": "-212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
