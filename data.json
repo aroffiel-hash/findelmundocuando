@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "21 de marzo de 2026 — 21:48 UTC",
+  "lastUpdated": "21 de marzo de 2026 — 22:54 UTC",
   "ticker": [
+    "WHO says attack on Sudan hospital killed 64, including 13 children",
+    "ICC Chief Prosecutor Khan cleared of sexual misconduct by judges: Report",
+    "State of emergency declared as Iranian missile hits Arad in southern Israel",
+    "US says it has crippled Iranian threat in Strait of Hormuz",
     "‘Tears and grief’: Mother’s Day in Gaza marked by mourning",
     "Joe Kent speaks out against Iran war at prayer event after resigning",
     "EU urges members to start storing winter gas as Iran war causes price surge",
@@ -11,11 +15,7 @@
     "Tehran holds Eid prayers as funeral held for IRGC spokesman",
     "Bahrain says Patriot system intercepted drone over homes",
     "Arab states should beware of Israel’s hegemonic energy expansion",
-    "UK says Iran missile attack on Diego Garcia failed",
-    "Iranian woman’s video of US-Israel attack ends as bomb hits",
-    "Unease in Japan after Trump cites Pearl Harbor to defend Iran war",
-    "Japan beat Australia to lift Women’s Asian Cup title",
-    "Iran says US and Israel attacked Natanz nuclear facility"
+    "UK says Iran missile attack on Diego Garcia failed"
   ],
   "sections": [
     {
@@ -29,12 +29,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Iran take military action against a Gulf State on March 21, 2026?",
-          "odds": "-109",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Iran successfully target shipping on March 20, 2026?",
           "odds": "+2464",
           "params": "Fuente: Polymarket",
@@ -42,7 +36,7 @@
         },
         {
           "event": "Will NATO countries clash with each other before 2027?",
-          "odds": "+1090",
+          "odds": "+1269",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -63,6 +57,12 @@
           "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will any European country expel an Israeli ambassador by March 31?",
+          "odds": "+2677",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -71,12 +71,6 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "S&P 500 (SPX) Up or Down on March 23?",
-          "odds": "-156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "OpenAI receives federal backstop for infrastructure before July?",
           "odds": "+1860",
           "params": "Fuente: Polymarket",
@@ -84,13 +78,7 @@
         },
         {
           "event": "Callum Turner announced as next James Bond?",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: Leeds United FC 0 - 0 Brentford FC?",
-          "odds": "-1328",
+          "odds": "+316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -108,7 +96,19 @@
         },
         {
           "event": "Will Crude Oil (CL) hit (HIGH) $100 by end of March?",
-          "odds": "-209",
+          "odds": "-210",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Fed Pause–Pause–Cut in the next three decisions (Mar–Apr–Jun)?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Aaron Taylor-Johnson announced as next James Bond?",
+          "odds": "+3025",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -143,12 +143,6 @@
           "moved": "none"
         },
         {
-          "event": "Nechirvan Barzani out as Kurdistan Regional Government President?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the Republican Party hold exactly 53 Senate seats after the 2026 midterm elections?",
           "odds": "+1566",
           "params": "Fuente: Polymarket",
@@ -159,6 +153,12 @@
           "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Ned Lamont win the 2026 Connecticut Governor Democratic primary election?",
+          "odds": "-809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -167,20 +167,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the highest temperature in Chicago be between 76-77°F on March 21?",
-          "odds": "+2280",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Gold (GC) hit (LOW) $4,000 by end of March?",
-          "odds": "+1860",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will CR Flamengo win on 2026-03-22?",
-          "odds": "+122",
+          "event": "Will San Jose Earthquakes win on 2026-03-21?",
+          "odds": "+525",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -191,14 +179,14 @@
           "moved": "none"
         },
         {
-          "event": "Blues vs. Canucks",
-          "odds": "-138",
+          "event": "Will Gangwon FC vs. Jeju SK FC end in a draw?",
+          "odds": "+257",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will there be exactly 6 earthquakes of magnitude 7.0 or higher worldwide by June 30?",
-          "odds": "+334",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -209,8 +197,20 @@
           "moved": "none"
         },
         {
+          "event": "Will Greece win Eurovision 2026?",
+          "odds": "+1438",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Arman Tsarukyan fight Charles Oliveira next?",
           "odds": "-104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Paris be 14°C on March 25?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
