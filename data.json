@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "21 de marzo de 2026 — 15:50 UTC",
+  "lastUpdated": "21 de marzo de 2026 — 16:58 UTC",
   "ticker": [
+    "Tehran holds Eid prayers as funeral held for IRGC spokesman",
+    "Bahrain says Patriot system intercepted drone over homes",
+    "Arab states should beware of Israel’s hegemonic energy expansion",
+    "UK says Iran missile attack on Diego Garcia failed",
     "Iranian woman’s video of US-Israel attack ends as bomb hits",
     "Unease in Japan after Trump cites Pearl Harbor to defend Iran war",
     "Japan beat Australia to lift Women’s Asian Cup title",
@@ -11,11 +15,7 @@
     "Lin Yu-ting cleared to return to boxing after sex eligibility review",
     "‘I have fought for Aaron’: A Ugandan mother confronts disability and stigma",
     "Real Madrid vs Atletico Madrid: La Liga – team news, start, lineups",
-    "Israel systematically torturing Palestinians in custody, says UN expert",
-    "Iran war: What’s happening on day 22 of US-Israel attacks?",
-    "Iran says it will allow Japanese ships to transit the Strait of Hormuz",
-    "Trump hints at ‘winding down’ Iran war as US deploys more troops to region",
-    "Japan 1-0 Australia: Women’s Asian Cup 2026 final – as it happened"
+    "Israel systematically torturing Palestinians in custody, says UN expert"
   ],
   "sections": [
     {
@@ -23,14 +23,8 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will fewer than 5 ships be successfully targeted by Iran by March 31?",
-          "odds": "-1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Israel take military action in Gaza on March 25, 2026?",
-          "odds": "+117",
+          "event": "Will Iran strike Bahrain again in March?",
+          "odds": "-284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -42,25 +36,31 @@
         },
         {
           "event": "Will Russia capture Kostyantynivka by June 30?",
+          "odds": "-194",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Miami Open: Francisco Cerundolo vs Thiago Agustin Tirante",
+          "odds": "-334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will a team from LCK (South Korea) win LoL Worlds 2026?",
           "odds": "-203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Iran strike Oman again in March?",
-          "odds": "+900",
+          "event": "Will any European country expel an Israeli ambassador by March 31?",
+          "odds": "+2677",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Iran successfully target shipping on March 25, 2026?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Iran strike Bahrain again in March?",
-          "odds": "-316",
+          "event": "Will Luis Fernando Camacho win the 2026 Santa Cruz gubernatorial election?",
+          "odds": "+104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -83,6 +83,12 @@
           "moved": "none"
         },
         {
+          "event": "Will Brentford FC win on 2026-03-21?",
+          "odds": "+194",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will S&P 500 (SPX) close over $6,500 on the final trading day of March 2026?",
           "odds": "-212",
           "params": "Fuente: Polymarket",
@@ -90,25 +96,19 @@
         },
         {
           "event": "Will Crude Oil (CL) hit (HIGH) $100 by end of March?",
-          "odds": "-194",
+          "odds": "-201",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Fed Pause–Pause–Cut in the next three decisions (Mar–Apr–Jun)?",
-          "odds": "+669",
+          "odds": "+809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Aaron Taylor-Johnson announced as next James Bond?",
           "odds": "+3025",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will S&P 500 (SPX) close at $7,500-$8,000 in December?",
-          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,32 +167,20 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Counter-Strike: Sangal vs UNiTY esports (BO3) - ESL Challenger League Europe Cup #2 Playoffs",
-          "odds": "-122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Partizan vs. ASVEL Lyon-Villeurbanne",
           "odds": "-233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Beijing be 17°C on March 23?",
+          "event": "Will the highest temperature in Wuhan be 13°C on March 23?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Cusco FC win on 2026-03-21?",
           "odds": "+170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Paris be 20°C on March 24?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Grizzlies vs. Hawks",
-          "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -203,13 +191,25 @@
           "moved": "none"
         },
         {
-          "event": "Will \"Ready or Not 2: Here I Come\" Opening Weekend Box Office be between 8.5m and 10m?",
-          "odds": "-426",
+          "event": "AI data center moratorium passed before 2027?",
+          "odds": "+170",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "XRP Up or Down - March 21, 12:00PM-12:05PM ET",
+          "event": "Will Feyenoord Rotterdam vs. AFC Ajax end in a draw?",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in London be 13°C on March 23?",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "XRP Up or Down - March 21, 1:10PM-1:15PM ET",
           "odds": "-104",
           "params": "Fuente: Polymarket",
           "moved": "none"
