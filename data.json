@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "21 de marzo de 2026 — 14:55 UTC",
+  "lastUpdated": "21 de marzo de 2026 — 15:50 UTC",
   "ticker": [
+    "Iranian woman’s video of US-Israel attack ends as bomb hits",
+    "Unease in Japan after Trump cites Pearl Harbor to defend Iran war",
     "Japan beat Australia to lift Women’s Asian Cup title",
     "Iran says US and Israel attacked Natanz nuclear facility",
     "US jury finds Elon Musk misled investors during Twitter purchase",
@@ -13,15 +15,19 @@
     "Iran war: What’s happening on day 22 of US-Israel attacks?",
     "Iran says it will allow Japanese ships to transit the Strait of Hormuz",
     "Trump hints at ‘winding down’ Iran war as US deploys more troops to region",
-    "Japan 1-0 Australia: Women’s Asian Cup 2026 final – as it happened",
-    "300 million people celebrate Nowruz under a cloud of war",
-    "Aid flotilla for Cuba sets sail from Mexico"
+    "Japan 1-0 Australia: Women’s Asian Cup 2026 final – as it happened"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Will fewer than 5 ships be successfully targeted by Iran by March 31?",
+          "odds": "-1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Israel take military action in Gaza on March 25, 2026?",
           "odds": "+117",
@@ -41,8 +47,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Iran strike Bahrain again in March?",
-          "odds": "-316",
+          "event": "Will Iran strike Oman again in March?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -53,14 +59,8 @@
           "moved": "none"
         },
         {
-          "event": "Will a team from LCK (South Korea) win LoL Worlds 2026?",
-          "odds": "-244",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Iran strike Oman again in March?",
-          "odds": "+809",
+          "event": "Will Iran strike Bahrain again in March?",
+          "odds": "-316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -83,12 +83,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Crude Oil (CL) settle over $52 on the final trading day of March 2026?",
-          "odds": "-455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will S&P 500 (SPX) close over $6,500 on the final trading day of March 2026?",
           "odds": "-212",
           "params": "Fuente: Polymarket",
@@ -96,7 +90,7 @@
         },
         {
           "event": "Will Crude Oil (CL) hit (HIGH) $100 by end of March?",
-          "odds": "-183",
+          "odds": "-194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -109,6 +103,12 @@
         {
           "event": "Aaron Taylor-Johnson announced as next James Bond?",
           "odds": "+3025",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will S&P 500 (SPX) close at $7,500-$8,000 in December?",
+          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -149,14 +149,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Trump’s approval rating be between 40.0 and 40.4 on March 27, 2026?",
-          "odds": "+244",
+          "event": "Will Ed Hale win the 2026 Maryland Governor Republican primary election?",
+          "odds": "+267",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Ed Hale win the 2026 Maryland Governor Republican primary election?",
-          "odds": "+267",
+          "event": "Will the Slovenian Democratic Party (SDS) win 35-39 seats in the Slovenian National Assembly in this election?",
+          "odds": "+1654",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -191,8 +191,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Heart of Midlothian FC win on 2026-03-21?",
-          "odds": "-244",
+          "event": "Grizzlies vs. Hawks",
+          "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -203,14 +203,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Motherwell FC win on 2026-03-21?",
-          "odds": "-104",
+          "event": "Will \"Ready or Not 2: Here I Come\" Opening Weekend Box Office be between 8.5m and 10m?",
+          "odds": "-426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "AI data center moratorium passed before 2027?",
-          "odds": "+170",
+          "event": "XRP Up or Down - March 21, 12:00PM-12:05PM ET",
+          "odds": "-104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
