@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "21 de marzo de 2026 — 11:44 UTC",
+  "lastUpdated": "21 de marzo de 2026 — 13:53 UTC",
   "ticker": [
+    "Japan beat Australia to lift Women’s Asian Cup title",
+    "Iran says US and Israel attacked Natanz nuclear facility",
     "US jury finds Elon Musk misled investors during Twitter purchase",
     "War spirals as information control tightens",
     "Drone strike near Iraqi intelligence headquarters in Baghdad kills officer",
@@ -11,11 +13,9 @@
     "Iran war: What’s happening on day 22 of US-Israel attacks?",
     "Iran says it will allow Japanese ships to transit the Strait of Hormuz",
     "Trump hints at ‘winding down’ Iran war as US deploys more troops to region",
-    "LIVE: Japan 1-0 Australia – Women’s Asian Cup 2026 final",
+    "Japan 1-0 Australia: Women’s Asian Cup 2026 final – as it happened",
     "300 million people celebrate Nowruz under a cloud of war",
-    "Aid flotilla for Cuba sets sail from Mexico",
-    "Al Jazeera reporter’s journey from Jordan to Iraq",
-    "Iran war live: US-Israel attack Natanz nuclear site; Diego Garcia targeted"
+    "Aid flotilla for Cuba sets sail from Mexico"
   ],
   "sections": [
     {
@@ -47,20 +47,20 @@
           "moved": "none"
         },
         {
-          "event": "Will Hezbollah conduct military action against Israel on March 21, 2026?",
-          "odds": "-1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "BV Borussia 09 Dortmund vs. Hamburger SV: O/U 1.5",
-          "odds": "-524",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will a team from LCK (South Korea) win LoL Worlds 2026?",
-          "odds": "-270",
+          "odds": "-244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Iran strike Bahrain again in March?",
+          "odds": "-334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Iran strike Oman again in March?",
+          "odds": "+809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -70,6 +70,12 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
+        {
+          "event": "Will Crude Oil (CL) settle over $60 on the final trading day of March 2026?",
+          "odds": "-3024",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will S&P 500 (SPX) hit $6,900 (HIGH) in March 2026?",
           "odds": "+2400",
@@ -95,20 +101,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Crude Oil (CL) settle over $60 on the final trading day of March 2026?",
-          "odds": "-1308",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will S&P 500 (SPX) close over $6,500 on the final trading day of March 2026?",
           "odds": "-212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Crude Oil (CL) hit (HIGH) $130 by end of June?",
-          "odds": "-177",
+          "event": "Will Crude Oil (CL) hit (HIGH) $100 by end of March?",
+          "odds": "-217",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -118,12 +118,6 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
-        {
-          "event": "Will the Republicans win the Florida Senate race in 2026?",
-          "odds": "-566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?",
           "odds": "+2027",
@@ -137,14 +131,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Jo Rae Perkins be the Republican nominee for Senate in Oregon?",
-          "odds": "-127",
+          "event": "Will The Left (Levica) be part of the next Government of Slovenia?",
+          "odds": "+138",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will The Left (Levica) be part of the next Government of Slovenia?",
-          "odds": "+138",
+          "event": "Will Jo Rae Perkins be the Republican nominee for Senate in Oregon?",
+          "odds": "-127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -159,6 +153,12 @@
           "odds": "+267",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Nechirvan Barzani out as Kurdistan Regional Government President?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -166,6 +166,12 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
+        {
+          "event": "Counter-Strike: Sangal vs UNiTY esports (BO3) - ESL Challenger League Europe Cup #2 Playoffs",
+          "odds": "-122",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Partizan vs. ASVEL Lyon-Villeurbanne",
           "odds": "-233",
@@ -179,38 +185,32 @@
           "moved": "none"
         },
         {
+          "event": "Will the highest temperature in Paris be 20°C on March 24?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Colorado Rapids SC win on 2026-03-21?",
+          "odds": "+163",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Elon Musk post 1120-1159 tweets in April 2026?",
           "odds": "+2930",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Elon Musk post 1320-1359 tweets in April 2026?",
-          "odds": "+1654",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the maximum Arctic sea ice extent this winter be between 14.2m & 14.4m square kilometers?",
-          "odds": "-1566",
+          "event": "Will Orlando City SC win the 2026 MLS Cup?",
+          "odds": "+2531",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Democrats win the Wisconsin governor race in 2026?",
           "odds": "-300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in London be 15°C on March 23?",
-          "odds": "+376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Madrid be 19°C on March 23?",
-          "odds": "+525",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
