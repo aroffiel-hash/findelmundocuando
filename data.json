@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "21 de marzo de 2026 — 10:55 UTC",
+  "lastUpdated": "21 de marzo de 2026 — 11:44 UTC",
   "ticker": [
+    "US jury finds Elon Musk misled investors during Twitter purchase",
+    "War spirals as information control tightens",
+    "Drone strike near Iraqi intelligence headquarters in Baghdad kills officer",
+    "Lin Yu-ting cleared to return to boxing after sex eligibility review",
     "‘I have fought for Aaron’: A Ugandan mother confronts disability and stigma",
     "Real Madrid vs Atletico Madrid: La Liga – team news, start, lineups",
     "Israel systematically torturing Palestinians in custody, says UN expert",
     "Iran war: What’s happening on day 22 of US-Israel attacks?",
     "Iran says it will allow Japanese ships to transit the Strait of Hormuz",
     "Trump hints at ‘winding down’ Iran war as US deploys more troops to region",
-    "LIVE: Japan vs Australia – Women’s Asian Cup 2026 final",
+    "LIVE: Japan 1-0 Australia – Women’s Asian Cup 2026 final",
     "300 million people celebrate Nowruz under a cloud of war",
     "Aid flotilla for Cuba sets sail from Mexico",
     "Al Jazeera reporter’s journey from Jordan to Iraq",
-    "Iran war live: US-Israel attack Natanz nuclear site; Diego Garcia targeted",
-    "US judge sides with New York Times against Pentagon journalism policies",
-    "Pezeshkian says Iran not seeking war with Muslim neighbours",
-    "Colombia’s President Gustavo Petro under investigation in US for drug ties",
-    "India cooking gas crisis forces exodus of textile workers"
+    "Iran war live: US-Israel attack Natanz nuclear site; Diego Garcia targeted"
   ],
   "sections": [
     {
@@ -23,14 +23,8 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Israel take military action in Lebanon on March 20, 2026?",
-          "odds": "-371",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Iran leadership change by April 30?",
-          "odds": "+212",
+          "odds": "+203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -53,14 +47,20 @@
           "moved": "none"
         },
         {
-          "event": "Warriors vs. Mavericks",
-          "odds": "-316",
+          "event": "Will Hezbollah conduct military action against Israel on March 21, 2026?",
+          "odds": "-1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "BV Borussia 09 Dortmund vs. Hamburger SV: O/U 1.5",
           "odds": "-524",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will a team from LCK (South Korea) win LoL Worlds 2026?",
+          "odds": "-270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -83,12 +83,6 @@
           "moved": "none"
         },
         {
-          "event": "Leeds United FC vs. Brentford FC: Both Teams to Score",
-          "odds": "-132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Callum Turner announced as next James Bond?",
           "odds": "+400",
           "params": "Fuente: Polymarket",
@@ -101,14 +95,20 @@
           "moved": "none"
         },
         {
+          "event": "Will Crude Oil (CL) settle over $60 on the final trading day of March 2026?",
+          "odds": "-1308",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will S&P 500 (SPX) close over $6,500 on the final trading day of March 2026?",
           "odds": "-212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Crude Oil (CL) hit (HIGH) $100 by end of March?",
-          "odds": "-234",
+          "event": "Will Crude Oil (CL) hit (HIGH) $130 by end of June?",
+          "odds": "-177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -173,12 +173,6 @@
           "moved": "none"
         },
         {
-          "event": "Valorant: Fancy United vs Motiv Esports (BO3) - VCL Southeast Asia: Playoffs",
-          "odds": "+104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the highest temperature in Beijing be 17°C on March 23?",
           "odds": "+170",
           "params": "Fuente: Polymarket",
@@ -187,12 +181,6 @@
         {
           "event": "Will Elon Musk post 1120-1159 tweets in April 2026?",
           "odds": "+2930",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Hong Kong be 22°C on March 22?",
-          "odds": "+1349",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -211,6 +199,18 @@
         {
           "event": "Will the Democrats win the Wisconsin governor race in 2026?",
           "odds": "-300",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in London be 15°C on March 23?",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Madrid be 19°C on March 23?",
+          "odds": "+525",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
