@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "21 de marzo de 2026 — 22:54 UTC",
+  "lastUpdated": "21 de marzo de 2026 — 23:49 UTC",
   "ticker": [
+    "‘They want to colonise us’: Brazil’s Lula warns of foreign interference",
+    "Saudi Arabia expels Iran military attache, four embassy staff",
+    "Iran strikes towns near Israel’s nuclear site in escalating tit-for-tat",
     "WHO says attack on Sudan hospital killed 64, including 13 children",
     "ICC Chief Prosecutor Khan cleared of sexual misconduct by judges: Report",
     "State of emergency declared as Iranian missile hits Arad in southern Israel",
@@ -12,28 +15,13 @@
     "Flash flooding swamps Hawaii, prompting evacuation orders for 5,500 people",
     "Former FBI chief Robert Mueller, known for Trump investigation, dead at 81",
     "Trump threatens to deploy ICE to airports amid Homeland Security shutdown",
-    "Tehran holds Eid prayers as funeral held for IRGC spokesman",
-    "Bahrain says Patriot system intercepted drone over homes",
-    "Arab states should beware of Israel’s hegemonic energy expansion",
-    "UK says Iran missile attack on Diego Garcia failed"
+    "Tehran holds Eid prayers as funeral held for IRGC spokesman"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Will Hezbollah conduct military action against Israel on March 22, 2026?",
-          "odds": "-1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Iran successfully target shipping on March 20, 2026?",
-          "odds": "+2464",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will NATO countries clash with each other before 2027?",
           "odds": "+1269",
@@ -54,13 +42,25 @@
         },
         {
           "event": "Will Luis Fernando Camacho win the 2026 Santa Cruz gubernatorial election?",
-          "odds": "+185",
+          "odds": "+194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will any European country expel an Israeli ambassador by March 31?",
-          "odds": "+2677",
+          "event": "NATO/EU troops fighting in Ukraine in June 30, 2026?",
+          "odds": "+1823",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Paramount close Warner Bros. acquisition by end of 2026?",
+          "odds": "-189",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "European country agrees to give Ukraine security guarantee by June 30?",
+          "odds": "+426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -96,7 +96,7 @@
         },
         {
           "event": "Will Crude Oil (CL) hit (HIGH) $100 by end of March?",
-          "odds": "-210",
+          "odds": "-226",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -167,38 +167,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will San Jose Earthquakes win on 2026-03-21?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Elon Musk post 340-359 tweets from March 24 to March 31, 2026?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Gangwon FC vs. Jeju SK FC end in a draw?",
-          "odds": "+257",
+          "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will there be exactly 6 earthquakes of magnitude 7.0 or higher worldwide by June 30?",
-          "odds": "+284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will FC Argeș Pitești win on 2026-03-21?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Greece win Eurovision 2026?",
-          "odds": "+1438",
+          "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -209,8 +185,32 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Paris be 14°C on March 25?",
-          "odds": "+1011",
+          "event": "Will the Patek Index hit $109,000 (HIGH) by April 30?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in London be 12°C on March 22?",
+          "odds": "+269",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "XRP Up or Down - March 22, 2:00AM-2:05AM ET",
+          "odds": "+104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "XRP Up or Down - March 22, 1:55PM-2:00PM ET",
+          "odds": "+104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "XRP Up or Down - March 22, 5:40AM-5:45AM ET",
+          "odds": "+104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
