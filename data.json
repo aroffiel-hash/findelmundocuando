@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "22 de marzo de 2026 — 15:50 UTC",
+  "lastUpdated": "22 de marzo de 2026 — 16:58 UTC",
   "ticker": [
+    "‘Risk of escalation is extremely high as Iran shows it can retaliate’",
+    "Did Israel miscalculate Iranian military capabilities?",
+    "The Gaza Tribunal: A question of complicity",
+    "Pakistan T20 cricket league to be held in empty stadiums amid oil crisis",
+    "Iran claims missile attacks on key Israeli military bases",
+    "Moment Israeli strike hits bridge in southern Lebanon",
+    "Iranian authorities taunt US, Israel, EU amid strikes and assassinations",
     "Trump’s changing messages on Iran war: What does it say about US strategy?",
     "Is Greater Israel already happening on the ground?",
     "Canada’s Supreme Court must strike down Quebec’s Bill 21",
@@ -8,14 +15,7 @@
     "Iran says will hit region’s energy sites if US, Israel target power plants",
     "Hezbollah attack kills one in north Israel as assault on Lebanon continues",
     "Did Iran launch missiles at US-UK base on Diego Garcia? Here’s what to know",
-    "Moment Iranian strike hits central Tel Aviv",
-    "‘Opening Strait of Hormuz will probably require US boots on the ground’",
-    "‘Colonialism did its job of isolating us’ – Colombia VP",
-    "Latin American presidents criticise US actions",
-    "Iran war is creating ‘heightened risks of instability across countries in A",
-    "Aftermath of Iranian missile strikes near Israel’s nuclear facility",
-    "Lebanese nurse refuses to leave her post at hospital despite losses",
-    "‘The United States doesn’t even pretend to be within international law’"
+    "Moment Iranian strike hits central Tel Aviv"
   ],
   "sections": [
     {
@@ -23,8 +23,14 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Russia capture Kostyantynivka by June 30?",
-          "odds": "-185",
+          "event": "Will Luis Fernando Camacho win the 2026 Santa Cruz gubernatorial election?",
+          "odds": "+143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "CD Mirandés vs. Real Valladolid CF: O/U 2.5",
+          "odds": "+117",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -35,26 +41,20 @@
           "moved": "none"
         },
         {
-          "event": "Will Luis Fernando Camacho win the 2026 Santa Cruz gubernatorial election?",
-          "odds": "+233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Israel be in the top 3 at Eurovision 2026?",
           "odds": "+244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Iran conduct a military action against Israel on March 23, 2026?",
-          "odds": "-733",
+          "event": "NATO/EU troops fighting in Ukraine in June 30, 2026?",
+          "odds": "+2225",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "NATO/EU troops fighting in Ukraine in June 30, 2026?",
-          "odds": "+2225",
+          "event": "Will Israel take military action in Lebanon on March 26, 2026?",
+          "odds": "-719",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -84,7 +84,7 @@
         },
         {
           "event": "Will Crude Oil (CL) hit (HIGH) $100 by end of March?",
-          "odds": "-342",
+          "odds": "-354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -102,7 +102,7 @@
         },
         {
           "event": "Will the Fed Pause–Pause–Cut in the next three decisions (Mar–Apr–Jun)?",
-          "odds": "+809",
+          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -143,8 +143,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Denmark win the televote for Eurovision 2026?",
-          "odds": "+1566",
+          "event": "Will the Freedom Movement (GS) win <25 seats in the Slovenian National Assembly in this election?",
+          "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -155,8 +155,8 @@
           "moved": "none"
         },
         {
-          "event": "Will the Freedom Movement (GS) win <25 seats in the Slovenian National Assembly in this election?",
-          "odds": "+163",
+          "event": "Will Franck Allisio win the Marseille mayor election?",
+          "odds": "+2280",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,26 +167,26 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the Bank of Canada announce no change at the April meeting?",
-          "odds": "-1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Seattle be 39°F or below on March 25?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will there be exactly 6 earthquakes of magnitude 7.0 or higher worldwide by June 30?",
-          "odds": "+376",
+          "odds": "+334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the South African Reserve Bank make no change to the repo rate after the March meeting?",
-          "odds": "-566",
+          "event": "Will the highest temperature in New York City be between 40-41°F on March 24?",
+          "odds": "+2531",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Seattle be between 50-51°F on March 23?",
+          "odds": "-104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Italy win on 2026-03-26?",
+          "odds": "-300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -197,20 +197,20 @@
           "moved": "none"
         },
         {
-          "event": "Will FC Slovan Liberec win on 2026-04-04?",
-          "odds": "-117",
+          "event": "Will the highest temperature in Madrid be 17°C on March 22?",
+          "odds": "+1685",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Pump.fun perform an airdrop by December 31, 2026",
-          "odds": "+300",
+          "event": "Floyd Mayweather vs. Manny Pacquiao 2",
+          "odds": "-177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Tromsø IL win on 2026-03-22?",
-          "odds": "+316",
+          "event": "Will SC Braga vs. FC Porto end in a draw?",
+          "odds": "+222",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
