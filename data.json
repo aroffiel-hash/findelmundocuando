@@ -1,6 +1,7 @@
 {
-  "lastUpdated": "22 de marzo de 2026 — 20:55 UTC",
+  "lastUpdated": "22 de marzo de 2026 — 21:52 UTC",
   "ticker": [
+    "Slovenia’s Freedom Movement Party takes narrow election lead: Exit poll",
     "Displaced families shelter in tents in Beirut amid Israeli strikes",
     "Emerging from latest blackout, Cuba says ready for any potential US attack",
     "Trump sends US immigration agents to airports as shutdown chaos deepens",
@@ -14,8 +15,7 @@
     "‘Risk of escalation is extremely high as Iran shows it can retaliate’",
     "Did Israel miscalculate Iranian military capabilities?",
     "The Gaza Tribunal: A question of complicity",
-    "Pakistan T20 cricket league to be held in empty stadiums amid oil crisis",
-    "Iran claims missile attacks on key Israeli military bases"
+    "Pakistan T20 cricket league to be held in empty stadiums amid oil crisis"
   ],
   "sections": [
     {
@@ -23,20 +23,14 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Trump announces end of military operations against Iran by April 15th?",
-          "odds": "+222",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will NATO countries clash with each other before 2027?",
           "odds": "+1134",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will any European country expel an Israeli ambassador by March 31?",
-          "odds": "+2930",
+          "event": "Will Israel take military action in Lebanon on March 26, 2026?",
+          "odds": "-599",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -59,8 +53,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Israel take military action in Lebanon on March 26, 2026?",
-          "odds": "-599",
+          "event": "NATO/EU troops fighting in Ukraine in June 30, 2026?",
+          "odds": "+2280",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Ukraine win on 2026-03-26?",
+          "odds": "+194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -90,25 +90,25 @@
         },
         {
           "event": "Will Crude Oil (CL) hit (HIGH) $100 by end of March?",
-          "odds": "-498",
+          "odds": "-549",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will S&P 500 (SPX) close over $6,500 on the final trading day of March 2026?",
-          "odds": "+104",
+          "odds": "+143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Crude Oil (CL) hit (LOW) $85 by end of March?",
+          "odds": "+809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will S&P 500 (SPX) hit 5600 (LOW) in March?",
           "odds": "+2464",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Fed Pause–Pause–Cut in the next three decisions (Mar–Apr–Jun)?",
-          "odds": "+809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -138,7 +138,7 @@
         },
         {
           "event": "Will Brashad Hasley be the Democratic nominee for Senate in Colorado?",
-          "odds": "+1860",
+          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -156,7 +156,7 @@
         },
         {
           "event": "Meloni out as Prime Minister of Italy by June 30?",
-          "odds": "+1328",
+          "odds": "+1370",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,14 +167,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the highest temperature in Chicago be between 58-59°F on March 25?",
-          "odds": "+354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Lucknow be 36°C on March 25?",
-          "odds": "+1011",
+          "event": "Will the highest temperature in Miami be between 78-79°F on March 26?",
+          "odds": "+426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -185,8 +179,26 @@
           "moved": "none"
         },
         {
+          "event": "Will the highest temperature in Atlanta be between 82-83°F on March 22?",
+          "odds": "-1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "XRP Up or Down - March 22, 8PM ET",
+          "odds": "-104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Pump.fun perform an airdrop by December 31, 2026",
-          "odds": "+222",
+          "odds": "+270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Cincinnati Reds vs. Cleveland Guardians",
+          "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -199,18 +211,6 @@
         {
           "event": "Will Woody Allen be confirmed to have visited Epstein’s island?",
           "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Perplexity not IPO by December 31, 2027?",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will France win on 2026-03-26?",
-          "odds": "+132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
