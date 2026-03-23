@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "23 de marzo de 2026 — 22:00 UTC",
+  "lastUpdated": "23 de marzo de 2026 — 23:05 UTC",
   "ticker": [
     "Have Israel, the US and Iran violated international law?",
     "Smotrich urges Israel to annex southern Lebanon as assault intensifies",
@@ -47,6 +47,12 @@
           "moved": "none"
         },
         {
+          "event": "Will Russia capture Pokrovka by March 31?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Israeli parliament dissolved by June 30?",
           "odds": "+222",
           "params": "Fuente: Polymarket",
@@ -54,13 +60,7 @@
         },
         {
           "event": "Will the Iranian regime fall by April 30?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "NATO/EU troops fighting in Ukraine in June 30, 2026?",
-          "odds": "+2339",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -70,12 +70,6 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
-        {
-          "event": "Will Crude Oil (CL) hit (LOW) $80 by end of March?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "OpenAI receives federal backstop for infrastructure before July?",
           "odds": "+2280",
@@ -96,7 +90,7 @@
         },
         {
           "event": "Will Crude Oil (CL) settle at $90+ in March?",
-          "odds": "-177",
+          "odds": "-149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -111,6 +105,12 @@
           "odds": "-426",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "S&P 500 (SPX) Opens Up or Down on March 24?",
+          "odds": "-122",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -120,13 +120,31 @@
       "rows": [
         {
           "event": "Will the All India Anna Dravida Munnetra Kazhagam (ADMK) win the most seats in the 2026 Tamil Nadu Legislative Assembly election?",
-          "odds": "+373",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will José Williams finish in second place in the first round of the 2026 Peruvian presidential election?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Vladimir Cerrón finish in second place in the first round of the 2026 Peruvian presidential election?",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Republican Party hold exactly 53 Senate seats after the 2026 midterm elections?",
           "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will turnout in the first round of the 2026 Peruvian presidential election be  greater than 85%?",
+          "odds": "+257",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -141,24 +159,6 @@
           "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will Tom Begich win the 2026 Alaska governor election?",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Milei out as President of Argentina before 2027?",
-          "odds": "+1119",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Luiz Inácio Lula da Silva qualify for Brazil's presidential runoff?",
-          "odds": "-334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -167,8 +167,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the highest temperature in Shanghai be 17°C on March 26?",
-          "odds": "+426",
+          "event": "Will Kuwait join the Abraham Accords before 2027?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "BNB Up or Down - March 23, 6:45PM-7:00PM ET",
+          "odds": "-104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -191,26 +197,20 @@
           "moved": "none"
         },
         {
-          "event": "Will Claude go down 7-8 times in March?",
-          "odds": "+334",
+          "event": "Will Claude 5 be released by March 31, 2026?",
+          "odds": "+3025",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Toronto be 10°C on March 26?",
+          "odds": "+270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Waymo launch in New York City by June 30 2026?",
           "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Claude 5 be released by March 31, 2026?",
-          "odds": "+2930",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Bank of England rate hike in 2026?",
-          "odds": "-669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
