@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "23 de marzo de 2026 — 20:57 UTC",
+  "lastUpdated": "23 de marzo de 2026 — 22:00 UTC",
   "ticker": [
+    "Have Israel, the US and Iran violated international law?",
+    "Smotrich urges Israel to annex southern Lebanon as assault intensifies",
+    "Iranian officials dismiss claims of US talks",
+    "Moment missile strikes shortly after Israeli president’s visit",
+    "Ukraine strikes key Russian oil port and refinery",
     "What Trump said about Iran after postponing military strikes",
     "Air Canada crash at LaGuardia Airport: What happened, who were the victims?",
     "Tehran residents express distrust over Trump’s war diplomacy",
-    "Colombian military plane crash kills at least one",
+    "Colombian military plane crash kills at least one injures 77",
     "‘Stop, stop, stop’: Moment Air Canada plane crashes into truck",
     "Italy’s Meloni concedes referendum defeat, calling it ‘a lost opportunity’",
     "EU calls for clarification after Hungary accused of leaking info to Russia",
     "Iran denies any talks with US after Trump claims ‘productive’ discussions",
     "Why the oil and gas price shock from the Iran war won’t just fade away",
-    "How the Iran war is about to hit your wallet",
-    "Trump can declare victory in Iran – and he should",
-    "How Israel is reacting to Trump’s  ‘de-escalation’ with Iran",
-    "Israeli strike on Lebanon bridge raises fears of ground invasion",
-    "Which countries have strategic oil reserves – and how much?",
-    "Trump deploys ICE agents to US airports amid staffing issues, delays"
+    "How the Iran war is about to hit your wallet"
   ],
   "sections": [
     {
@@ -48,19 +48,19 @@
         },
         {
           "event": "Israeli parliament dissolved by June 30?",
-          "odds": "+233",
+          "odds": "+222",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Iranian regime fall by April 30?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "NATO/EU troops fighting in Ukraine in June 30, 2026?",
           "odds": "+2339",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Iranian regime fall by April 30?",
-          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -72,7 +72,7 @@
       "rows": [
         {
           "event": "Will Crude Oil (CL) hit (LOW) $80 by end of March?",
-          "odds": "+488",
+          "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -96,13 +96,13 @@
         },
         {
           "event": "Will Crude Oil (CL) settle at $90+ in March?",
-          "odds": "-203",
+          "odds": "-177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Fed Pause–Pause–Cut in the next three decisions (Mar–Apr–Jun)?",
-          "odds": "+1011",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -121,12 +121,6 @@
         {
           "event": "Will the All India Anna Dravida Munnetra Kazhagam (ADMK) win the most seats in the 2026 Tamil Nadu Legislative Assembly election?",
           "odds": "+373",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump be impeached before his term ends?",
-          "odds": "-212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -159,6 +153,12 @@
           "odds": "+1119",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Luiz Inácio Lula da Silva qualify for Brazil's presidential runoff?",
+          "odds": "-334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -167,14 +167,26 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Will the highest temperature in Shanghai be 17°C on March 26?",
+          "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Toronto be 11°C on March 26?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the highest temperature in Denver be 96°F or higher on March 25?",
           "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Sao Paulo: Joao Lucas Da Silva vs Hugo Dellien",
-          "odds": "+149",
+          "event": "Will the highest temperature in Sao Paulo be 30°C on March 27?",
+          "odds": "+203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -191,26 +203,14 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Dallas be between 80-81°F on March 23?",
-          "odds": "-300",
+          "event": "Will Claude 5 be released by March 31, 2026?",
+          "odds": "+2930",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Tesla (TSLA) close above $390 on March 23?",
-          "odds": "+2225",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Mojtaba Khamenei seen in public by April 30?",
-          "odds": "+316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will 80 ships transit the Strait of Hormuz on any day in March?",
-          "odds": "+1718",
+          "event": "Bank of England rate hike in 2026?",
+          "odds": "-669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
