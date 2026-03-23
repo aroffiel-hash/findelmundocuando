@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "23 de marzo de 2026 — 18:10 UTC",
+  "lastUpdated": "23 de marzo de 2026 — 20:57 UTC",
   "ticker": [
+    "What Trump said about Iran after postponing military strikes",
+    "Air Canada crash at LaGuardia Airport: What happened, who were the victims?",
+    "Tehran residents express distrust over Trump’s war diplomacy",
+    "Colombian military plane crash kills at least one",
+    "‘Stop, stop, stop’: Moment Air Canada plane crashes into truck",
+    "Italy’s Meloni concedes referendum defeat, calling it ‘a lost opportunity’",
+    "EU calls for clarification after Hungary accused of leaking info to Russia",
+    "Iran denies any talks with US after Trump claims ‘productive’ discussions",
+    "Why the oil and gas price shock from the Iran war won’t just fade away",
     "How the Iran war is about to hit your wallet",
     "Trump can declare victory in Iran – and he should",
     "How Israel is reacting to Trump’s  ‘de-escalation’ with Iran",
     "Israeli strike on Lebanon bridge raises fears of ground invasion",
     "Which countries have strategic oil reserves – and how much?",
-    "Trump deploys ICE agents to US airports amid staffing issues, delays",
-    "Energy, water, bonds: What are Iran’s targets if Trump hits power plants?",
-    "Trump signals off-ramp in Iran war despite no ‘regime change’",
-    "Trump speaks after announcing delay on Iran attacks",
-    "Madrid protest against US blockade of Cuba",
-    "‘False flag attack’: Iran denies claims it fired missiles at Diego Garcia",
-    "US-Israeli war on Iran strains food, water and fuel prices in India",
-    "‘NATO joining US-Israel’s war on Iran is between slim and none’",
-    "‘Substantial evidence’ of double-tap strike in killing of Gaza’s Hind Rajab",
-    "New UN climate report says the past decade was the hottest on record"
+    "Trump deploys ICE agents to US airports amid staffing issues, delays"
   ],
   "sections": [
     {
@@ -23,14 +23,14 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will NATO countries clash with each other before 2027?",
-          "odds": "+1269",
+          "event": "Israeli forces enter Beirut by March 31, 2026?",
+          "odds": "+3025",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Israeli forces enter Beirut by March 31, 2026?",
-          "odds": "+2677",
+          "event": "Will NATO countries clash with each other before 2027?",
+          "odds": "+1269",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -41,26 +41,26 @@
           "moved": "none"
         },
         {
-          "event": "Spread: Warriors (-1.5)",
-          "odds": "-104",
+          "event": "European country agrees to give Ukraine security guarantee by June 30?",
+          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "European country agrees to give Ukraine security guarantee by June 30?",
-          "odds": "+614",
+          "event": "Israeli parliament dissolved by June 30?",
+          "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "NATO/EU troops fighting in Ukraine in June 30, 2026?",
-          "odds": "+2280",
+          "odds": "+2339",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Iranian regime fall by April 30?",
-          "odds": "+1011",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -71,8 +71,8 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Callum Turner announced as next James Bond?",
-          "odds": "+354",
+          "event": "Will Crude Oil (CL) hit (LOW) $80 by end of March?",
+          "odds": "+488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -89,20 +89,20 @@
           "moved": "none"
         },
         {
-          "event": "Will Crude Oil (CL) hit (LOW) $80 by end of March?",
-          "odds": "+334",
+          "event": "Will S&P 500 (SPX) hit 5600 (LOW) in March?",
+          "odds": "+2464",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Crude Oil (CL) settle at $90+ in March?",
-          "odds": "-170",
+          "odds": "-203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Fed Pause–Pause–Cut in the next three decisions (Mar–Apr–Jun)?",
-          "odds": "+1150",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -120,19 +120,25 @@
       "rows": [
         {
           "event": "Will the All India Anna Dravida Munnetra Kazhagam (ADMK) win the most seats in the 2026 Tamil Nadu Legislative Assembly election?",
-          "odds": "+318",
+          "odds": "+373",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Trump be impeached before his term ends?",
-          "odds": "-143",
+          "odds": "-212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Republican Party hold exactly 53 Senate seats after the 2026 midterm elections?",
           "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
+          "odds": "+1860",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -144,13 +150,7 @@
         },
         {
           "event": "Will Tom Begich win the 2026 Alaska governor election?",
-          "odds": "+300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
-          "odds": "+1860",
+          "odds": "+334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -167,38 +167,20 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Perplexity not IPO by December 31, 2027?",
-          "odds": "-108",
+          "event": "Will the highest temperature in Denver be 96°F or higher on March 25?",
+          "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Denver be between 78-79°F on March 24?",
-          "odds": "+809",
+          "event": "Sao Paulo: Joao Lucas Da Silva vs Hugo Dellien",
+          "odds": "+149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Lucknow be 33°C or below on March 25?",
-          "odds": "-177",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Team Spirit qualify to Blast Open Rotterdam Playoffs?",
-          "odds": "-257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Over $20M committed to the P2P Protocol public sale?",
-          "odds": "-117",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will 25-29 ships transit the Strait of Hormuz between March 17-23?",
-          "odds": "+308",
+          "event": "Will Claude go down 7-8 times in March?",
+          "odds": "+334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -209,8 +191,26 @@
           "moved": "none"
         },
         {
-          "event": "Dubrovnik: Nuria Brancaccio vs Lisa Pigato",
-          "odds": "+104",
+          "event": "Will the highest temperature in Dallas be between 80-81°F on March 23?",
+          "odds": "-300",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Tesla (TSLA) close above $390 on March 23?",
+          "odds": "+2225",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Mojtaba Khamenei seen in public by April 30?",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will 80 ships transit the Strait of Hormuz on any day in March?",
+          "odds": "+1718",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
