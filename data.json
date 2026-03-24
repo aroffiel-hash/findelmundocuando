@@ -1,6 +1,7 @@
 {
-  "lastUpdated": "24 de marzo de 2026 — 21:54 UTC",
+  "lastUpdated": "24 de marzo de 2026 — 23:02 UTC",
   "ticker": [
+    "Palestinian refugees in Lebanon face another forced displacement",
     "Arms manufacturer thrives amid US-Israel war on Iran",
     "Long lines, unpaid TSA workers: Experts say US air travel system in crisis",
     "Building collapses after Iranian missile strike on Israel",
@@ -14,8 +15,7 @@
     "US says they’re talking, Iran says they’re not. Who’s telling the truth?",
     "Egypt’s Mohamed Salah to leave Liverpool at end of season after 9-year stay",
     "What impact is the war on Iran having on Israel?",
-    "Why is Trump asking for Europe’s help in war on Iran?",
-    "Aid flotilla vessel arrives in Cuba amid US-driven energy crisis"
+    "Why is Trump asking for Europe’s help in war on Iran?"
   ],
   "sections": [
     {
@@ -24,7 +24,7 @@
       "rows": [
         {
           "event": "Will Israel win Eurovision 2026?",
-          "odds": "+2339",
+          "odds": "+2280",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -72,7 +72,13 @@
       "rows": [
         {
           "event": "OpenAI receives federal backstop for infrastructure before July?",
-          "odds": "+1370",
+          "odds": "+2339",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Texas Longhorns vs. Purdue Boilermakers",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -95,20 +101,14 @@
           "moved": "none"
         },
         {
-          "event": "Texas Longhorns vs. Purdue Boilermakers",
-          "odds": "+284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the 10-year Treasury yield dip below 3.0% before 2027?",
-          "odds": "+376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Aaron Taylor-Johnson announced as next James Bond?",
-          "odds": "+2400",
+          "odds": "+3125",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will there be no change in Fed interest rates after the June 2026 meeting?",
+          "odds": "-614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,6 +167,12 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Anthropic $500B+ valuation in 2026?",
+          "odds": "-524",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will St. Pauli be relegated from the Bundesliga after the 2025–26 season?",
           "odds": "+138",
           "params": "Fuente: Polymarket",
@@ -179,38 +185,32 @@
           "moved": "none"
         },
         {
-          "event": "Will Claude 5 be released by March 31, 2026?",
-          "odds": "+3233",
+          "event": "XRP Up or Down on March 25?",
+          "odds": "+138",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Los Angeles be between 82-83°F on March 25?",
-          "odds": "+2464",
+          "event": "Counter-Strike: 9INE vs OG (BO3) - BC Game Masters Championship Group D",
+          "odds": "-163",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Austin be between 90-91°F on March 25?",
-          "odds": "+143",
+          "event": "Will the highest temperature in Seattle be between 52-53°F on March 26?",
+          "odds": "+149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Uruguay win on 2026-03-27?",
-          "odds": "+733",
+          "event": "Will Elon Musk post 400-419 tweets from March 24 to March 31, 2026?",
+          "odds": "+2602",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Mojtaba Khamenei seen in public by April 30?",
-          "odds": "+354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will KOSPI Composite Index (^KS11) hit 4800 (LOW) in Q1 2026?",
-          "odds": "+1983",
+          "event": "AHL: Manitoba Moose vs. Toronto Marlies",
+          "odds": "+156",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
