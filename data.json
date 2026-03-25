@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "25 de marzo de 2026 — 08:05 UTC",
+  "lastUpdated": "25 de marzo de 2026 — 11:28 UTC",
   "ticker": [
+    "Spain’s PM says Israel to inflict on Lebanon same destruction as in Gaza",
+    "UN human rights chief warns war on Iran is spreading",
+    "Iran’s closure of the Strait of Hormuz is an international crisis",
+    "‘A heinous crime’: Air strikes kill seven fighters in Iraq’s Anbar",
+    "Belarus’s Lukashenko makes first visit to North Korea in bid to deepen ties",
+    "US Democrats condemn war on Iran as Senate resolution fails",
+    "Is Iran’s negotiating position stronger than when US-Israeli war started?",
+    "Dreams of survival: How war has restructured Gaza’s job market",
+    "Russia, Ukraine tit-for-tat attacks knock out power for over half a million",
+    "US talking to itself, says Iran as Trump claims wheels of diplomacy turning",
+    "‘Do not call your defeat an agreement’ IRGC warns US, Israel",
     "Iran’s new security boss Mohammad Zolghadr: Why his appointment matters",
     "US-Israel war on Iran: What’s happening on day 26 of attacks?",
     "Amid US-Israeli attacks, people in Iran struggle to survive ailing economy",
-    "As Iran war rocks global economy, Global South bears brunt of fallout",
-    "OpenAI pulls AI video app Sora as concerns grow on deepfake videos",
-    "Parsi: No deal ‘’without both sides giving something to the other’",
-    "Thousands march to mark 50th anniversary of Argentina’s bloody coup",
-    "New Zealand footballers willing to play Iran World Cup match outside US",
-    "Indonesians fire wooden cannons in post-Eid tradition",
-    "Canada tells Israel that Lebanon’s sovereignty ‘must not be violated’",
-    "US jury orders Meta to pay $375m for endangering children",
-    "What we know about the US’s 15-point plan Iran proposal",
-    "US to send thousands of soldiers from 82nd Airborne Division to Middle East",
-    "Iran says ‘non-hostile’ ships can pass safely through Strait of Hormuz",
-    "Drone attack ignites fuel tank at Kuwait airport"
+    "From Pakistan to Egypt, Iran war drives up prices in Global South"
   ],
   "sections": [
     {
@@ -23,26 +23,26 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
+          "event": "Will Israel conduct military action in Greater Beirut on March 25, 2026?",
+          "odds": "-733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the People Power Party win 3 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
           "odds": "-127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Marco Rubio enter Iran by June 30?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "European country agrees to give Ukraine security guarantee by June 30?",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Russia capture Pokrovka by March 31?",
           "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Marco Rubio enter Iran by June 30?",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -77,8 +77,8 @@
           "moved": "none"
         },
         {
-          "event": "S&P 500 (SPX) Up or Down on March 25?",
-          "odds": "-257",
+          "event": "Will S&P 500 (SPX) hit $5,800 (LOW) in December?",
+          "odds": "-149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -96,19 +96,19 @@
         },
         {
           "event": "Will Crude Oil (CL) settle at $85-$90 in March?",
-          "odds": "+400",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Crude Oil (CL) settle over $52 on the final trading day of June 2026?",
+          "odds": "-334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Aaron Taylor-Johnson announced as next James Bond?",
           "odds": "+3125",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will there be no change in Fed interest rates after the June 2026 meeting?",
-          "odds": "-614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -125,14 +125,26 @@
           "moved": "none"
         },
         {
-          "event": "Will Tisza win 90–99 seats in the Hungarian National Assembly in this election?",
-          "odds": "+614",
+          "event": "Will President Trump sign 3 pieces of legislation into law in March?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Fidesz-KDNP win 40-44% of the national list votes in the 2026 Hungarian Parliamentary election?",
+          "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Dan Cox win the 2026 Maryland Governor Republican primary election?",
           "odds": "-132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Our Homeland Movement (Mi Hazánk) win at least one seat in the next Hungarian parliamentary election?",
+          "odds": "-900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -147,18 +159,6 @@
           "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will Luiz Inácio Lula da Silva qualify for Brazil's presidential runoff?",
-          "odds": "-400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Ned Lamont win the 2026 Connecticut Governor Democratic primary election?",
-          "odds": "-1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -167,14 +167,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will St. Pauli be relegated from the Bundesliga after the 2025–26 season?",
-          "odds": "+138",
+          "event": "Will the highest temperature in Toronto be -1°C on March 27?",
+          "odds": "+880",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Dallas be between 88-89°F on March 26?",
-          "odds": "+177",
+          "event": "Will Trump say \"Cookie\" this week? (March 29)",
+          "odds": "+117",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -185,32 +185,32 @@
           "moved": "none"
         },
         {
-          "event": "Miami Open: Elena Rybakina vs Jessica Pegula",
-          "odds": "-212",
+          "event": "Will Real Salt Lake win the 2026 MLS Cup?",
+          "odds": "+1685",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "USD.AI FDV above $300M one day after launch?",
-          "odds": "+376",
+          "event": "Will the Reserve Bank of Australia increase the target for the cash rate after the May Meeting?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Charles Leclerc win the 2026 F1 Japanese Grand Prix?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "NL: ZSC Lions vs. Lugano",
+          "odds": "-203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Maxx Crosby play for Baltimore Ravens next?",
           "odds": "+3125",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Nebraska Cornhuskers vs. Iowa Hawkeyes",
-          "odds": "-117",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will NVIDIA (NVDA) finish week of March 23 above $150?",
-          "odds": "-2399",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
