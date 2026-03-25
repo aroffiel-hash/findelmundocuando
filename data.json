@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "25 de marzo de 2026 — 20:56 UTC",
+  "lastUpdated": "25 de marzo de 2026 — 22:59 UTC",
   "ticker": [
+    "Mexico will continue accepting Cuban medical workers despite US pressure",
+    "Video shows Israeli strike hitting displacement camp in Gaza",
+    "Palestine weekly wrap: West Bank attacks surge, Israel restricts Gaza aid",
+    "Philippines farmers feeling the pinch of the war on Iran",
+    "Barcelona hammer Real Madrid in Women’s Champions League quarterfinals",
+    "US investors bet big on Indian cricket with record billion-dollar IPL deals",
+    "UN adopts slavery resolution despite resistance",
+    "Four killed in latest US attack on alleged drug-smuggling boat in Caribbean",
+    "Iran releases video claiming to show downing of US jet",
     "Benfica fined for fans’ racism at Real Madrid game with UEFA investigation",
     "Explosions and smoke seen as Iranian missiles hit Israel",
     "Palestinian family evicted from home in occupied East Jerusalem",
     "Trump to visit Xi Jinping in China on May 14 and 15 after Iran war delay",
     "US tells Iran to accept defeat or Trump will ‘unleash hell’",
-    "Democrat Emily Gregory wins Florida seat in Trump’s Mar-a-Lago district",
-    "US jury finds Meta, Alphabet liable in landmark social media addiction case",
-    "What’s Iran’s war strategy and what risks does it pose?",
-    "UN passes resolution naming slave trade ‘gravest crime against humanity’",
-    "UN chief says ‘high time’ to end ‘out of control’ war on Iran",
-    "Iran’s state TV outlines five conditions to end war",
-    "Israel forcibly displaces more Palestinian families in East Jerusalem",
-    "Palestine Action hunger strikers to sue prisons over alleged mistreatment",
-    "Inside Trump’s quiet plan to ‘take’ Cuba",
-    "How the US plunged Cuba into darkness"
+    "Democrat alleges Trump ‘sold out’ US security in classified documents case"
   ],
   "sections": [
     {
@@ -23,8 +23,8 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Iran take military action against a Gulf State on March 25, 2026?",
-          "odds": "-669",
+          "event": "US x Iran meeting by June 30, 2026?",
+          "odds": "-354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -35,14 +35,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Marco Rubio enter Iran by June 30?",
-          "odds": "+1328",
+          "event": "Will Russia capture Pokrovka by March 31?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Russia capture Pokrovka by March 31?",
-          "odds": "+900",
+          "event": "Will Marco Rubio enter Iran by June 30?",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -60,7 +60,7 @@
         },
         {
           "event": "Will Paramount close Warner Bros. acquisition by end of 2026?",
-          "odds": "-209",
+          "odds": "-200",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -89,6 +89,12 @@
           "moved": "none"
         },
         {
+          "event": "Texas Longhorns vs. Purdue Boilermakers",
+          "odds": "+300",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will S&P 500 (SPX) hit $5,800 (LOW) in December?",
           "odds": "-149",
           "params": "Fuente: Polymarket",
@@ -105,12 +111,6 @@
           "odds": "+244",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will Crude Oil (CL) settle at $85-$90 in March?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -118,12 +118,6 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
-        {
-          "event": "Will Beinir Johannesen be the next Løgmaður of the Faroe Islands following the 2026 Faroese general election?",
-          "odds": "-1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will the Republican Party hold exactly 53 Senate seats after the 2026 midterm elections?",
           "odds": "+1566",
@@ -137,14 +131,20 @@
           "moved": "none"
         },
         {
-          "event": "Will Tisza win the national list vote in the 2026 Hungarian Parliamentary election by 6-9%?",
-          "odds": "+733",
+          "event": "Will Dan Cox win the 2026 Maryland Governor Republican primary election?",
+          "odds": "-132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Dan Cox win the 2026 Maryland Governor Republican primary election?",
-          "odds": "-132",
+          "event": "Will Tatiana Auguste win the by-election for the seat of Terrebone in the House of Commons of Canada?",
+          "odds": "-156",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Sweden win the televote for Eurovision 2026?",
+          "odds": "+1415",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -167,26 +167,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Athletic Club win on 2026-04-01?",
-          "odds": "+1011",
+          "event": "Will Silver (SI) settle over $120 on the final trading day of June 2026?",
+          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Beijing be 23°C on March 28?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Georgia win on 2026-03-26?",
-          "odds": "-127",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Elon Musk post 65-89 tweets from March 26 to March 28, 2026?",
-          "odds": "+222",
+          "event": "Split: Maxim Mrva vs Kimmer Coppejans",
+          "odds": "+117",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -197,20 +185,32 @@
           "moved": "none"
         },
         {
-          "event": "Will \"Smoke\" be said 20+ times at the Rotterdam Grand Final?",
-          "odds": "-669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Milan be 13°C on March 27?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Maxx Crosby play for Baltimore Ravens next?",
           "odds": "+3125",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the US strike 10 countries in 2026?",
+          "odds": "+1076",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "NVIDIA (NVDA) Up or Down on March 26?",
+          "odds": "+117",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Seoul be 11°C on March 28?",
+          "odds": "+2339",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will América de Cali vs. Llaneros FC end in a draw?",
+          "odds": "+316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
