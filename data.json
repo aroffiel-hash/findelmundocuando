@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "26 de marzo de 2026 — 10:13 UTC",
+  "lastUpdated": "26 de marzo de 2026 — 14:51 UTC",
   "ticker": [
-    "In U-turn, UK police say Palestine Action protesters will be arrested again",
-    "Deaths and debts: Missiles in Gulf shake millions of South Asian families",
-    "Senegal appeal to CAS against handing over of AFCON title to Morocco",
-    "NBA owners vote to explore Seattle, Las Vegas expansion bids",
-    "Netanyahu boasts about ‘breaking boundaries in every sense of the word’",
-    "Oil prices rise higher as Iran denies US talks, dimming deescalation hopes",
-    "Malaysia’s prime minister says Iran talks should end war",
-    "Videos show wave of missiles fired from Lebanon to Israel",
-    "US lawmakers push for pause in data centres until AI safeguards in place",
-    "Russia slams second US-Israeli strike at Iran’s Bushehr nuclear reactor",
-    "Australia bans visitors from Iran amid war in the Middle East",
-    "US jury finds Meta, Google, liable in social media addiction trial",
-    "Malaysia moves to tighten rules for expats, raising fears of talent flight",
-    "Harrison: ‘There is going to be some kind of a military escalation.’",
-    "Tehran issues warning to regional neighbour if Iranian island occupied"
+    "Russian officials meet US counterparts as Moscow denies aiding Iran",
+    "Iranian naval chief killed in attack, Israel says",
+    "Teen volunteer paramedic killed in Israeli strike in Lebanon",
+    "Damage in Israel from Iranian attacks",
+    "‘My phone is a brick’: Russians scramble for information as data blocked",
+    "Senegal pledges to fight ‘robbery’ after CAF strips it of AFCON title",
+    "Is Europe heading to an energy crisis?",
+    "Video: GCC chief says Iran charging for ships to pass Strait of Hormuz",
+    "As a Palestinian, I stand in solidarity with the Iranian people. Here’s why",
+    "North Korea’s Kim meets Lukashenko, slams ‘pressure ​on Belarus from West’",
+    "Jury finds Meta, YouTube liable for social media addiction: What we know",
+    "Venezuela’s Maduro set to again appear in US court: How strong is the case?",
+    "Iran to Lebanon: Four million people displaced by US-Israeli war",
+    "Germany warns of world economic ‘catastrophe’; OECD cuts UK growth forecast",
+    "AFCON & CAF: Justice or Chaos?"
   ],
   "sections": [
     {
@@ -23,20 +23,20 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Hezbollah conduct military action against Israel on March 22, 2026?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Warsaw be 10°C on March 27?",
-          "odds": "+2400",
+          "event": "Will the next diplomatic US-Iran meeting be in Turkey?",
+          "odds": "+986",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the People Power Party win 3 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
           "odds": "-127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Putin out as President of Russia by June 30?",
+          "odds": "+2027",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -48,13 +48,13 @@
         },
         {
           "event": "Will Paramount close Warner Bros. acquisition by end of 2026?",
-          "odds": "-231",
+          "odds": "-195",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Putin out as President of Russia by June 30?",
-          "odds": "+2027",
+          "event": "Will Iran conduct a military action against Israel on March 25, 2026?",
+          "odds": "-747",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -78,7 +78,7 @@
         },
         {
           "event": "OpenAI receives federal backstop for infrastructure before July?",
-          "odds": "+2339",
+          "odds": "+1288",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -89,14 +89,8 @@
           "moved": "none"
         },
         {
-          "event": "Will S&P 500 (SPX) hit $5,800 (LOW) in December?",
-          "odds": "-149",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Crude Oil (CL) settle at $85-$90 in March?",
-          "odds": "+566",
+          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -111,6 +105,12 @@
           "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $150 in April?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -119,6 +119,12 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
+          "event": "Will Roberto Sánchez Palomino finish in first place in the first round of the 2026 Peruvian presidential election?",
+          "odds": "+2172",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the Republican Party hold exactly 53 Senate seats after the 2026 midterm elections?",
           "odds": "+1566",
           "params": "Fuente: Polymarket",
@@ -126,13 +132,7 @@
         },
         {
           "event": "Will the 2026 Midterm Elections happen as scheduled?",
-          "odds": "-733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Tatiana Auguste win the by-election for the seat of Terrebone in the House of Commons of Canada?",
-          "odds": "-143",
+          "odds": "-900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -150,13 +150,13 @@
         },
         {
           "event": "Will Luiz Inácio Lula da Silva qualify for Brazil's presidential runoff?",
-          "odds": "-376",
+          "odds": "-316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
-          "odds": "+1786",
+          "event": "Will the Democrats win the New Hampshire Senate race in 2026?",
+          "odds": "-376",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,49 +167,49 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Will Real Sociedad de Fútbol win on 2026-04-04?",
+          "odds": "-156",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the US strike 10 countries in 2026?",
           "odds": "+998",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Austin be between 90-91°F on March 26?",
-          "odds": "+127",
+          "event": "Over $8M committed to the P2P Protocol public sale?",
+          "odds": "-170",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Milan be 14°C on March 27?",
+          "event": "Legends Cricket League: Mumbai Spartans vs Southern Super Stars - Team Top Batter Mumbai Spartans Winner",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in New York City be between 50-51°F on March 29?",
           "odds": "+257",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Google (GOOGL) Up or Down on March 26?",
-          "odds": "+733",
+          "event": "MegaETH market cap (FDV) >$800M one day after launch?",
+          "odds": "+203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Paris be 9°C on March 28?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "XRP Up or Down - March 26, 8:00AM-8:05AM ET",
-          "odds": "+104",
+          "event": "Will Spider-Man: Brand New Day be the top grossing movie of 2026?",
+          "odds": "+163",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "XRP Up or Down - March 26, 4:05PM-4:10PM ET",
-          "odds": "+104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "XRP Up or Down - March 26, 6:35AM-6:40AM ET",
           "odds": "+104",
           "params": "Fuente: Polymarket",
           "moved": "none"
