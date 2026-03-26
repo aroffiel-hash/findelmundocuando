@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "26 de marzo de 2026 — 18:11 UTC",
+  "lastUpdated": "26 de marzo de 2026 — 20:05 UTC",
   "ticker": [
+    "Key takeaways from Trump’s war on Iran meeting",
+    "Trump says Iran ‘begging’ for deal to end war as Tehran issues new demands",
+    "Kim Jong Un gifted gun after Belarus friendship treaty",
+    "Iranian missiles cause widespread damage across Israel in latest wave",
     "More than one million displaced by Israel’s evacuations in Lebanon",
     "London police officer filmed in crowd intimidating Al Jazeera journalists",
     "LIVE: Brazil vs France – FIFA World Cup 2026 warm up",
@@ -8,14 +12,10 @@
     "Pentagon boss claims Iran now has ‘no navy, no navy leader’",
     "Olympics align with Trump as transgender athletes banned from women’s games",
     "Trump says Iran ‘lousy fighters but great negotiators’",
-    "Tehran’s’tollbooth’: How Iran picks who to let through Strait of Hormuz",
+    "Tehran’s ‘toll booth’: How Iran picks who to let through Strait of Hormuz",
     "Pakistan says it is mediating US-Iran talks",
     "WTO says world experiencing worst trade disruption in 80 years",
-    "Russian officials meet US counterparts as Moscow denies aiding Iran",
-    "Iranian naval chief killed in attack, Israel says",
-    "Teen volunteer paramedic killed in Israeli strike in Lebanon",
-    "Damage in Israel from Iranian attacks",
-    "‘My phone is a brick’: Russians scramble for information as data blocked"
+    "Russian officials meet US counterparts as Moscow denies aiding Iran"
   ],
   "sections": [
     {
@@ -23,44 +23,44 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will the next diplomatic US-Iran meeting be in Turkey?",
-          "odds": "+740",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Israel take military action in Lebanon on March 29, 2026?",
           "odds": "-1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will China’s 2026 annual GDP growth (Y/Y) be between 4.0% and 5.0%?",
-          "odds": "-300",
+          "event": "Will the next diplomatic US-Iran meeting be in Turkey?",
+          "odds": "+740",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Hezbollah conduct military action against Israel on March 27, 2026?",
+          "odds": "-1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Iran conduct a military action against Israel on March 23, 2026?",
+          "odds": "+132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump say \"Nuclear\" during Greek Independence Day event?",
+          "odds": "+138",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Paramount close Warner Bros. acquisition by end of 2026?",
-          "odds": "-216",
+          "odds": "-207",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Putin out as President of Russia by June 30?",
-          "odds": "+2027",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "European country agrees to give Ukraine security guarantee by June 30?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Israel conduct military action in Greater Beirut on March 31, 2026?",
-          "odds": "-104",
+          "event": "Will China’s 2026 annual GDP growth (Y/Y) be between 4.0% and 5.0%?",
+          "odds": "-300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -70,6 +70,12 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
+        {
+          "event": "Will Crude Oil (CL) settle at $85-$90 in March?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will S&P 500 (SPX) hit $7,600 (HIGH) in December?",
           "odds": "+566",
@@ -83,12 +89,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Crude Oil (CL) settle at $85-$90 in March?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the Fed Pause–Pause–Cut in the next three decisions (Mar–Apr–Jun)?",
           "odds": "+1150",
           "params": "Fuente: Polymarket",
@@ -96,7 +96,7 @@
         },
         {
           "event": "US federally charges Cuba leader Miguel Diaz-Canel?",
-          "odds": "+233",
+          "odds": "+222",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -107,8 +107,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Crude Oil (CL) hit (HIGH) $140 by end of June?",
-          "odds": "+257",
+          "event": "Will Crude Oil (CL) hit (HIGH) $200 by end of June?",
+          "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -126,25 +126,19 @@
         },
         {
           "event": "Will the 2026 Midterm Elections happen as scheduled?",
-          "odds": "-809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democrats win the New Hampshire Senate race in 2026?",
-          "odds": "-222",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Shelley Hughes advance from the 2026 Alaska Governor primary election?",
-          "odds": "+1150",
+          "odds": "-1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Conservatives flip Liberals for Canada Seats Polls in 2026?",
           "odds": "+354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Shelley Hughes advance from the 2026 Alaska Governor primary election?",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -157,6 +151,12 @@
         {
           "event": "Will Ned Lamont win the 2026 Connecticut Governor Democratic primary election?",
           "odds": "-1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Seth Moulton be the Democratic nominee for Senate in Massachusetts?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -173,20 +173,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Seattle have between 7 and 8 inches of precipitation in March?",
-          "odds": "+3233",
+          "event": "English Premier League: Bruno Fernandes breaks assists record?",
+          "odds": "+163",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Tel Aviv be 20°C on March 27?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Austria win on 2026-03-27?",
-          "odds": "-163",
+          "event": "Will Lewis Hamilton win the 2026 F1 Japanese Grand Prix?",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -197,20 +191,26 @@
           "moved": "none"
         },
         {
-          "event": "Will Microsoft (MSFT) close above $380 on March 26?",
-          "odds": "+2400",
+          "event": "Will US Cremonese vs. Bologna FC 1909 end in a draw?",
+          "odds": "+244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Elon Musk post 340-359 tweets from March 27 to April 3, 2026?",
-          "odds": "+1011",
+          "event": "Will the highest temperature in Madrid be 18°C on March 28?",
+          "odds": "+376",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Lewis Hamilton win the 2026 F1 Japanese Grand Prix?",
-          "odds": "+1328",
+          "event": "MegaETH market cap (FDV) >$800M one day after launch?",
+          "odds": "+194",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Spider-Man: Brand New Day be the top grossing movie of 2026?",
+          "odds": "+149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
