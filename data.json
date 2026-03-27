@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "27 de marzo de 2026 — 06:02 UTC",
+  "lastUpdated": "27 de marzo de 2026 — 10:06 UTC",
   "ticker": [
+    "Wildlife killed, reefs damaged in ‘active’ Gulf of Mexico oil spill",
+    "India lowers fuel taxes, says rumours of lockdown ‘completely false’",
+    "War on Iran price crisis not just about energy, says analyst",
+    "Video: Children’s toys found in rubble of US-Israeli strike in Iran",
+    "Iran emergency workers search for survivors after deadly US-Israel attacks",
+    "How extensive is Russia’s military aid to Iran?",
+    "Now in power, Nepal’s rapper-politician Balen Shah faces new challenge",
+    "How can students in Gaza continue to learn with no universities?",
+    "Israeli opposition leader rails against ‘multi-front war without strategy’",
+    "Israel’s opposition says military forces are ‘in collapse’",
+    "Iran bans sports teams from travelling to ‘hostile’ countries amid war",
+    "Italy to play Bosnia in 2026 World Cup playoff final, Kosovo face Turkiye",
+    "US-Israel war on Iran: What’s happening on day 28 of attacks?",
     "‘Truly junk’: E-waste from rich nations floods local markets in Nigeria",
-    "The Strait of Hormuz is not just an oil chokepoint",
-    "Sri Lanka braces for new economic crisis as war on Iran continues",
-    "Malaysia’s ships allowed to pass Strait of Hormuz, PM Anwar says",
-    "First responders rescue man from Tehran building hit by air strike",
-    "Palestinians flee tear gas as Israeli settlers arrive in occupied West Bank",
-    "Red Crescent video shows aftermath of strike on homes in Iran’s Urmia",
-    "Trump’s signature to appear on US currency in first for sitting president",
-    "Albanese says Australia playing “constructive” role in the war on Iran",
-    "Endangered monarch butterfly population surges 64 percent",
-    "Mexico launches search for two missing aid boats bound for Cuba",
-    "Australia’s post-Bondi crackdown accused of targeting pro-Palestinian voices",
-    "Who is fighting in Myanmar’s multi-front civil war?",
-    "Analysts say Trump doesn’t understand Iran reality has changed",
-    "Former Venezuelan president Maduro seeks to throw out US drug charges"
+    "The Strait of Hormuz is not just an oil chokepoint"
   ],
   "sections": [
     {
@@ -24,7 +24,7 @@
       "rows": [
         {
           "event": "Will Paramount close Warner Bros. acquisition by end of 2026?",
-          "odds": "-224",
+          "odds": "-199",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -35,8 +35,8 @@
           "moved": "none"
         },
         {
-          "event": "Spread: CD Mirandés (-1.5)",
-          "odds": "+2400",
+          "event": "Wizards vs. Warriors",
+          "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -53,14 +53,14 @@
           "moved": "none"
         },
         {
-          "event": "NATO/EU troops fighting in Ukraine in June 30, 2026?",
-          "odds": "+2122",
+          "event": "Will Hezbollah conduct military action against Israel on March 30, 2026?",
+          "odds": "-284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Ukraine advance through the second Eurovision Semi-Final?",
-          "odds": "-1011",
+          "event": "NATO/EU troops fighting in Ukraine in June 30, 2026?",
+          "odds": "+2122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -70,12 +70,6 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
-        {
-          "event": "Will the Fed Pause–Pause–Cut in the next three decisions (Mar–Apr–Jun)?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Crude Oil (CL) settle over $52 on the final trading day of June 2026?",
           "odds": "-900",
@@ -101,8 +95,14 @@
           "moved": "none"
         },
         {
-          "event": "S&P 500 (SPX) Up or Down on March 27?",
-          "odds": "-257",
+          "event": "Will S&P 500 (SPX) close at $6,500-$6,600 in March?",
+          "odds": "+203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will S&P 500 (SPX) close over $6,700 on the final trading day of March 2026?",
+          "odds": "+426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -119,32 +119,20 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
+          "event": "Will Roberto Sánchez Palomino finish in first place in the first round of the 2026 Peruvian presidential election?",
+          "odds": "+163",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the 2026 Midterm Elections happen as scheduled?",
-          "odds": "-809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump’s approval rating be between 40.0 and 40.4 on March 27, 2026?",
-          "odds": "-104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Conservatives flip Liberals for Canada Seats Polls in 2026?",
-          "odds": "+354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Míde Nic Fhionnlaoich win the 2026 Galway West by-election?",
-          "odds": "+1011",
+          "odds": "-900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Mette Frederiksen be the next prime minister of Denmark after the 2026 parliamentary elections?",
-          "odds": "-733",
+          "odds": "-1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -155,8 +143,20 @@
           "moved": "none"
         },
         {
+          "event": "Will Míde Nic Fhionnlaoich win the 2026 Galway West by-election?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Luiz Inácio Lula da Silva qualify for Brazil's presidential runoff?",
           "odds": "-284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Ned Lamont win the 2026 Connecticut Governor Democratic primary election?",
+          "odds": "-1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,8 +167,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Tesla (TSLA) close above $440 end of March?",
-          "odds": "+2400",
+          "event": "Over $160M committed to the P2P Protocol public sale?",
+          "odds": "+2757",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -179,26 +179,26 @@
           "moved": "none"
         },
         {
-          "event": "Will NYC Mayor post 80-99 posts from March 27 to April 3, 2026?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Counter-Strike: Wildcard vs NOMERCY (BO1) - Roman Imperium Cup Group A",
           "odds": "-614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Amazon (AMZN) close at $200-$205 on the final day of trading of the week of Mar 23 – Mar 27?",
-          "odds": "+809",
+          "event": "Will Spider-Man: Brand New Day be the top grossing movie of 2026?",
+          "odds": "+163",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Spider-Man: Brand New Day be the top grossing movie of 2026?",
-          "odds": "+170",
+          "event": "Will Forsen beat xQc's Minecraft speedrun record by March 31?",
+          "odds": "+1654",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in San Francisco be between 64-65°F on March 29?",
+          "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -209,8 +209,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Forsen beat xQc's Minecraft speedrun record by March 31?",
-          "odds": "+1654",
+          "event": "T20 Series Afghanistan vs Sri Lanka: Afghanistan vs Sri Lanka",
+          "odds": "-149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
