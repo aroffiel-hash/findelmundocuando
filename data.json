@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "28 de marzo de 2026 — 05:13 UTC",
+  "lastUpdated": "28 de marzo de 2026 — 07:56 UTC",
   "ticker": [
+    "US Secretary of State says war could conclude in ‘weeks, not months’",
+    "Doncic faces one-game ban after technical foul in Lakers win against Nets",
+    "White is hero and villain on England return, Germany’s Wirtz destroys Swiss",
+    "‘She left her body’: A mother’s fight against her daughter’s anorexia",
     "Israel’s unending attacks in Lebanon push country’s population to the brink",
     "Uproar in Bahrain after detainee dies in police custody",
     "How the US-Israel war on Iran unfolded in its first four weeks",
@@ -11,11 +15,7 @@
     "Trump says US-Israeli war on Iran creating a new Middle East",
     "Iran war live: Trump again slams NATO’s lack of support for war on Tehran",
     "Rescue workers rush to save lives after south Tehran missile strike",
-    "Houthis warn ‘fingers on the trigger’ as US-Israel war on Iran continues",
-    "‘Fingers on the trigger’ for military intervention, Houthis warn",
-    "Tiger Woods charged with DUI after rollover crash in Florida",
-    "Oyarzabal double seals Spain win against Serbia in World Cup warm-up",
-    "What is the TACO trade and are investors profiting amid war on Iran?"
+    "Houthis warn ‘fingers on the trigger’ as US-Israel war on Iran continues"
   ],
   "sections": [
     {
@@ -23,8 +23,8 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Legends Cricket League: Loser of Qualifier vs Winner of Eliminator - Toss Match Double Winner of Eliminator Winner",
-          "odds": "+809",
+          "event": "Will Russia enter Novooleksandrivka by April 30, 2026?",
+          "odds": "-233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -54,7 +54,7 @@
         },
         {
           "event": "Will Israel or the US target Fordow nuclear facility?",
-          "odds": "+809",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -71,20 +71,26 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
+          "event": "OpenAI receives federal backstop for infrastructure before July?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will S&P 500 (SPX) close at $7,500-$8,000 in December?",
           "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "OpenAI receives federal backstop for infrastructure before July?",
-          "odds": "+1288",
+          "event": "Will the Fed’s lower bound reach 0% or lower before 2027?",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the Fed’s lower bound reach 0% or lower before 2027?",
-          "odds": "+2400",
+          "event": "Altmaier vs. Bondioli: Match O/U 21.5",
+          "odds": "+100",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -97,12 +103,6 @@
         {
           "event": "US federally charges Cuba leader Miguel Diaz-Canel?",
           "odds": "+156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will S&P 500 (SPX) hit $7,300 (HIGH) in June?",
-          "odds": "+426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -126,7 +126,7 @@
         },
         {
           "event": "Will the 2026 Midterm Elections happen as scheduled?",
-          "odds": "-900",
+          "odds": "-809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -155,8 +155,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Luiz Inácio Lula da Silva qualify for Brazil's presidential runoff?",
-          "odds": "-244",
+          "event": "Will Carlos Álvarez win the 2026 Peruvian presidential election?",
+          "odds": "+1624",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -166,6 +166,12 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
+        {
+          "event": "Will Trump say \"Ethanol\" this week? (March 29)",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the DHS shutdown end between April 1-4, 2026?",
           "odds": "+843",
@@ -179,14 +185,20 @@
           "moved": "none"
         },
         {
+          "event": "Will Terrance McKinney win by KO or TKO?",
+          "odds": "+143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Júbilo Iwata win on 2026-03-29?",
           "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Los Angeles be between 68-69°F on March 28?",
-          "odds": "+1011",
+          "event": "Will the highest temperature in Sao Paulo be 29°C on March 29?",
+          "odds": "+257",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -197,19 +209,7 @@
           "moved": "none"
         },
         {
-          "event": "XRP Up or Down - March 28, 6:20AM-6:25AM ET",
-          "odds": "+104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "BNB Up or Down - March 28, 6:20AM-6:25AM ET",
-          "odds": "+104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "BNB Up or Down - March 28, 6:05AM-6:10AM ET",
+          "event": "BNB Up or Down - March 29, 3:20AM-3:25AM ET",
           "odds": "+104",
           "params": "Fuente: Polymarket",
           "moved": "none"
