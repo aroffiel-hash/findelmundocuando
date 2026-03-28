@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "28 de marzo de 2026 — 15:58 UTC",
+  "lastUpdated": "28 de marzo de 2026 — 17:04 UTC",
   "ticker": [
+    "Ukraine’s Zelenskyy signs air defence deals with UAE, Qatar on Gulf tour",
+    "Senegal parade AFCON trophy, despite title being awarded to Morocco",
+    "Israeli forces intensify attacks on Beirut",
+    "Three journalists killed in Israeli strike on marked press car in Lebanon",
+    "One month in, disapproval high but US lawmakers take no action on Iran war",
     "Morocco claims AFCON case closed, despite Senegal appeals to CAF and CAS",
     "At least 22 migrants die off Greece after 6 days at sea",
     "Defending champion Aryna Sabalenka and Coco Gauff meet in Miami Open final",
@@ -10,12 +15,7 @@
     "At least 15 US troops wounded in Iran strike on Saudi airbase: Reports",
     "Iran footballers pay tribute to victims of school strike at start of war",
     "Former US defence chief says more war won’t bring peace to Middle East",
-    "Diop debut for Morocco adds latest twist in Senegal post-AFCON dispute",
-    "Protests in Yemen against US-Israeli attacks as Houthis warn of action",
-    "How the US and Israel are making the Islamic republic stronger",
-    "Russian strikes on Ukraine kill 4 as deal to end war dims",
-    "The war on Iran faces a MAGA backlash",
-    "Severe floods hit Makhachkala, capital of Russia’s Dagestan region"
+    "Diop debut for Morocco adds latest twist in Senegal post-AFCON dispute"
   ],
   "sections": [
     {
@@ -24,13 +24,7 @@
       "rows": [
         {
           "event": "Putin out as President of Russia by June 30?",
-          "odds": "+2172",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "JD Vance diplomatic meeting with Iran by March 31?",
-          "odds": "+2073",
+          "odds": "+2677",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -53,14 +47,20 @@
           "moved": "none"
         },
         {
+          "event": "US x Iran ceasefire by April 7?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Ronald Acuña Jr. win the 2026 National League Hank Aaron Award?",
           "odds": "+2339",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the People Power Party (PPP) win the 2026 South Korean local elections?",
-          "odds": "+2757",
+          "event": "North Korea missile test/launch by April 15?",
+          "odds": "+203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -70,12 +70,6 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
-        {
-          "event": "Naples: Daniel Altmaier vs Federico Bondioli",
-          "odds": "-524",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will S&P 500 (SPX) close at $7,500-$8,000 in December?",
           "odds": "+566",
@@ -108,7 +102,13 @@
         },
         {
           "event": "Will there be no change in Fed interest rates after the June 2026 meeting?",
-          "odds": "-566",
+          "odds": "-669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Fed’s upper bound reach 4.5% or higher before 2027?",
+          "odds": "+1594",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -121,12 +121,6 @@
         {
           "event": "Will the 2026 Midterm Elections happen as scheduled?",
           "odds": "-900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Denmark win the televote for Eurovision 2026?",
-          "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -159,6 +153,12 @@
           "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will United Left (BSP) win at least one seat in the 2026 Bulgarian parliamentary election?",
+          "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -167,20 +167,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Set Handicap: Jones (-1.5) vs Wolf (+1.5)",
-          "odds": "+177",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump post \"Boeing\" on Truth Social this week?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump post \"Spain\" on Truth Social this week?",
-          "odds": "+1899",
+          "event": "Will the highest temperature in Ankara be 16°C on April 1?",
+          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -197,20 +185,32 @@
           "moved": "none"
         },
         {
+          "event": "Will Seoul have between 50-55mm of precipitation in March?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Júbilo Iwata win on 2026-03-29?",
           "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Counter-Strike: Magna vs ShindeN (BO3) - FERJEE In House Group A",
-          "odds": "+376",
+          "event": "ChatGPT Outage by April 3?",
+          "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Córdoba CF win on 2026-03-31?",
           "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Mikael Ishak score the most goals in the 2025-26 UEFA Europa Conference League?",
+          "odds": "+117",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
