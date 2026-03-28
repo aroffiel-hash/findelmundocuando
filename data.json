@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "28 de marzo de 2026 — 07:56 UTC",
+  "lastUpdated": "28 de marzo de 2026 — 09:54 UTC",
   "ticker": [
+    "Tiger Woods released on bail hours after arrest on suspicion of DUI",
+    "US House passes bill funding Homeland Security amid shutdown",
+    "Philippine transport strikers say Marcos Jr failing to control oil prices",
+    "US-Israel war on Iran: What’s happening on day 29 of attacks?",
+    "Trump claims Iran wants to ‘make a deal’",
+    "Yemen’s Houthis launch missile attack on Israel as war on Iran intensifies",
     "US Secretary of State says war could conclude in ‘weeks, not months’",
     "Doncic faces one-game ban after technical foul in Lakers win against Nets",
     "White is hero and villain on England return, Germany’s Wirtz destroys Swiss",
@@ -9,13 +15,7 @@
     "Uproar in Bahrain after detainee dies in police custody",
     "How the US-Israel war on Iran unfolded in its first four weeks",
     "Trump says ‘Cuba is next’ target of US military",
-    "How mothers raise newborn babies during Israel’s offensive in Lebanon",
-    "Intense bombing in Tehran, Isfahan",
-    "Tiger Woods arrested for suspected DUI after rolling his car",
-    "Trump says US-Israeli war on Iran creating a new Middle East",
-    "Iran war live: Trump again slams NATO’s lack of support for war on Tehran",
-    "Rescue workers rush to save lives after south Tehran missile strike",
-    "Houthis warn ‘fingers on the trigger’ as US-Israel war on Iran continues"
+    "How mothers raise newborn babies during Israel’s offensive in Lebanon"
   ],
   "sections": [
     {
@@ -23,14 +23,8 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Russia enter Novooleksandrivka by April 30, 2026?",
-          "odds": "-233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Paramount close Warner Bros. acquisition by end of 2026?",
-          "odds": "-194",
+          "odds": "-190",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -41,8 +35,14 @@
           "moved": "none"
         },
         {
+          "event": "Will Israel strike ≤1 countries in April 2026?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the People Power Party (PPP) win the 2026 South Korean local elections?",
-          "odds": "+2757",
+          "odds": "+2602",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -54,13 +54,13 @@
         },
         {
           "event": "Will Israel or the US target Fordow nuclear facility?",
-          "odds": "+1011",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "NATO/EU troops fighting in Ukraine in June 30, 2026?",
-          "odds": "+2027",
+          "event": "Will Israel or the US target Isfahan Nuclear Technology Center nuclear facility?",
+          "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -89,12 +89,6 @@
           "moved": "none"
         },
         {
-          "event": "Altmaier vs. Bondioli: Match O/U 21.5",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the 10-year Treasury yield hit 5.5% before 2027?",
           "odds": "+376",
           "params": "Fuente: Polymarket",
@@ -108,7 +102,13 @@
         },
         {
           "event": "Will there be no change in Fed interest rates after the June 2026 meeting?",
-          "odds": "-566",
+          "odds": "-614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Fed’s upper bound reach 5.0% or higher before 2027?",
+          "odds": "+2122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -119,14 +119,8 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Eric Swalwell win the California Governor Election in 2026?",
-          "odds": "-104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the 2026 Midterm Elections happen as scheduled?",
-          "odds": "-809",
+          "odds": "-900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -156,7 +150,13 @@
         },
         {
           "event": "Will Carlos Álvarez win the 2026 Peruvian presidential election?",
-          "odds": "+1624",
+          "odds": "+1392",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Luiz Inácio Lula da Silva qualify for Brazil's presidential runoff?",
+          "odds": "-257",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,14 +167,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Trump say \"Ethanol\" this week? (March 29)",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the DHS shutdown end between April 1-4, 2026?",
-          "odds": "+843",
+          "event": "Will Andrea Kimi Antonelli achieve the fastest lap at the 2026 F1 Japanese Grand Prix?",
+          "odds": "+127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -185,8 +179,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Terrance McKinney win by KO or TKO?",
-          "odds": "+143",
+          "event": "Game Handicap: TLPH (-1.5) vs Team Falcons PH (+1.5)",
+          "odds": "+117",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will OpenAI have the best AI model at the end of June 2026?",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -197,20 +197,20 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Sao Paulo be 29°C on March 29?",
-          "odds": "+257",
+          "event": "Will AD Ceuta FC win on 2026-03-28?",
+          "odds": "+127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Mikael Ishak score the most goals in the 2025-26 UEFA Europa Conference League?",
+          "odds": "-127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "T20 Series Afghanistan vs Sri Lanka: Afghanistan vs Sri Lanka",
           "odds": "-149",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "BNB Up or Down - March 29, 3:20AM-3:25AM ET",
-          "odds": "+104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
