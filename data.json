@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "28 de marzo de 2026 — 14:02 UTC",
+  "lastUpdated": "28 de marzo de 2026 — 15:58 UTC",
   "ticker": [
+    "Morocco claims AFCON case closed, despite Senegal appeals to CAF and CAS",
+    "At least 22 migrants die off Greece after 6 days at sea",
+    "Defending champion Aryna Sabalenka and Coco Gauff meet in Miami Open final",
+    "Iran warns neighbours not to let ‘enemies run the war’ from their land",
     "Verstappen calls his Red Bull ‘undriveable’ after more F1 woes at Japan GP",
     "Pakistan’s Naseem Shah under fire after criticism of politician’s PSL visit",
     "At least 15 US troops wounded in Iran strike on Saudi airbase: Reports",
@@ -11,11 +15,7 @@
     "How the US and Israel are making the Islamic republic stronger",
     "Russian strikes on Ukraine kill 4 as deal to end war dims",
     "The war on Iran faces a MAGA backlash",
-    "Severe floods hit Makhachkala, capital of Russia’s Dagestan region",
-    "Nepal’s ex-PM Oli detained over alleged role in deadly protest crackdown",
-    "Tiger Woods released on bail hours after arrest on suspicion of DUI",
-    "US House passes bill funding Homeland Security amid shutdown",
-    "Philippine transport strikers say Marcos Jr failing to control oil prices"
+    "Severe floods hit Makhachkala, capital of Russia’s Dagestan region"
   ],
   "sections": [
     {
@@ -23,8 +23,14 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
+          "event": "Putin out as President of Russia by June 30?",
+          "odds": "+2172",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "JD Vance diplomatic meeting with Iran by March 31?",
-          "odds": "+1308",
+          "odds": "+2073",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -35,8 +41,8 @@
           "moved": "none"
         },
         {
-          "event": "Putin out as President of Russia by June 30?",
-          "odds": "+2400",
+          "event": "Will Shohei Ohtani win the 2026 National League Hank Aaron Award?",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -47,14 +53,8 @@
           "moved": "none"
         },
         {
-          "event": "Will a Gulf State carry out military action against Iran by April 15, 2026?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Counter-Strike: Imperial vs Yawara Esports - Map 2 Winner",
-          "odds": "-316",
+          "event": "Will Ronald Acuña Jr. win the 2026 National League Hank Aaron Award?",
+          "odds": "+2339",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -71,6 +71,12 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
+          "event": "Naples: Daniel Altmaier vs Federico Bondioli",
+          "odds": "-524",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will S&P 500 (SPX) close at $7,500-$8,000 in December?",
           "odds": "+566",
           "params": "Fuente: Polymarket",
@@ -78,25 +84,19 @@
         },
         {
           "event": "OpenAI receives federal backstop for infrastructure before July?",
-          "odds": "+900",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the 10-year Treasury yield hit 5.5% before 2027?",
+          "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Fed’s lower bound reach 0% or lower before 2027?",
           "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Ducks vs. Oilers",
-          "odds": "+138",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the 10-year Treasury yield hit 5.5% before 2027?",
-          "odds": "+376",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -108,7 +108,7 @@
         },
         {
           "event": "Will there be no change in Fed interest rates after the June 2026 meeting?",
-          "odds": "-614",
+          "odds": "-566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -125,8 +125,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Alianza para el Progreso (APP) win the most seats in the 2026 Peruvian Senate election?",
-          "odds": "+455",
+          "event": "Will Denmark win the televote for Eurovision 2026?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Michael Bennet win the 2026 Colorado Governor Democratic primary election?",
+          "odds": "-354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -143,20 +149,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Carlos Álvarez win the 2026 Peruvian presidential election?",
-          "odds": "+1462",
+          "event": "Will Daniel Cameron be the Republican nominee for Senate in Kentucky?",
+          "odds": "+348",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Michael Bennet win the 2026 Colorado Governor Democratic primary election?",
-          "odds": "-354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Luiz Inácio Lula da Silva qualify for Brazil's presidential runoff?",
-          "odds": "-257",
+          "event": "Will Tony Thurmond advance from the 2026 California Governor primary election?",
+          "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,14 +167,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Exact Score: Club Atlético de Madrid 1 - 1 FC Barcelona?",
-          "odds": "+1899",
+          "event": "Set Handicap: Jones (-1.5) vs Wolf (+1.5)",
+          "odds": "+177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will OpenAI have the best AI model at the end of June 2026?",
-          "odds": "+1566",
+          "event": "Will Trump post \"Boeing\" on Truth Social this week?",
+          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -185,32 +185,32 @@
           "moved": "none"
         },
         {
+          "event": "Exact Score: Club Atlético de Madrid 1 - 1 FC Barcelona?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Marseille finish in the top 4 of the Ligue 1 2025–26 standings?",
+          "odds": "-284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Júbilo Iwata win on 2026-03-29?",
           "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
+          "event": "Counter-Strike: Magna vs ShindeN (BO3) - FERJEE In House Group A",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Córdoba CF win on 2026-03-31?",
           "odds": "+316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Mikael Ishak score the most goals in the 2025-26 UEFA Europa Conference League?",
-          "odds": "+117",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Overwatch: Virtus.pro vs Team Peps (BO3) - OCS EMEA Stage 1 Group Stage",
-          "odds": "-1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will \"They Will Kill You\" Opening Weekend Box Office be between 5m and 6m?",
-          "odds": "+108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
