@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "29 de marzo de 2026 — 19:48 UTC",
+  "lastUpdated": "29 de marzo de 2026 — 21:02 UTC",
   "ticker": [
+    "IRGC spokesperson says Trump ‘only understands the language of force’",
+    "Qatari TV station hit in Iran",
+    "Lebanon’s Catholics observe Palm Sunday under looming threat of war",
     "RSF attack on Sudan’s South Kordofan kills at least 14, including children",
     "Cuba is not alone, deputy FM says as US threats grow",
     "Republican Mace says Congress must approve any US troop deployment to Iran",
@@ -12,10 +15,7 @@
     "Israeli police block Catholic cardinal from Holy Sepulchre on Palm Sunday",
     "Funeral held for Lebanese journalists killed in Israeli strike",
     "Houthis open new front in Iran war: Will Yemeni group block Bab al-Mandeb?",
-    "African football chief will ‘respect’ CAS decision on AFCON final row",
-    "How the US memeifies its war on Iran",
-    "Pakistan maintains ‘delicate balancing act’ as it hosts Iran talks",
-    "‘Nowhere is really safe’: Iranian dissidents grapple with US war in Iran"
+    "African football chief will ‘respect’ CAS decision on AFCON final row"
   ],
   "sections": [
     {
@@ -23,26 +23,8 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will China invade Taiwan by September 30, 2026?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Iran conduct a military action against Israel on March 30, 2026?",
-          "odds": "-1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Iran strike Iraq by April 30, 2026?",
-          "odds": "-524",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Israel or the US target Fordow nuclear facility?",
-          "odds": "+1328",
+          "event": "Houthi military action against Israel by April 30, 2026?",
+          "odds": "-163",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -63,6 +45,24 @@
           "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Saudi Arabia military action against Yemen by April 30?",
+          "odds": "+222",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Juan Soto win the 2026 National League MVP Award?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "NATO/EU troops fighting in Ukraine in June 30, 2026?",
+          "odds": "+2027",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -77,20 +77,26 @@
           "moved": "none"
         },
         {
+          "event": "Will the Fed’s upper bound reach 5.25% or higher before 2027?",
+          "odds": "+1594",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "S&P 500 (SPX) Up or Down on March 30?",
+          "odds": "+170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will there be no change in Fed interest rates after the June 2026 meeting?",
-          "odds": "-669",
+          "odds": "-614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Fed’s upper bound reach 4.5% or higher before 2027?",
           "odds": "+2280",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "S&P 500 (SPX) Up or Down on March 30?",
-          "odds": "+163",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -103,12 +109,6 @@
         {
           "event": "Aaron Taylor-Johnson announced as next James Bond?",
           "odds": "+1823",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Fed’s upper bound reach 5.25% or higher before 2027?",
-          "odds": "+2073",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,32 +167,20 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Marseille finish in the top 4 of the Ligue 1 2025–26 standings?",
-          "odds": "-400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Exact Score: Club Atlético de Madrid 1 - 1 FC Barcelona?",
           "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "NRFI: Athletics vs. Toronto Blue Jays",
-          "odds": "+108",
+          "event": "Will the highest temperature in Dallas be between 80-81°F on March 29?",
+          "odds": "+203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the total number of TSA passengers for March 31 be less than 2,400,000?",
-          "odds": "-2399",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "US Men's Clay Court Championships, Qualification: Alex Bolt vs Andres Andrade",
-          "odds": "-132",
+          "event": "Côte d'Ivoire vs. Scotland: Both Teams to Score",
+          "odds": "-108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -203,14 +191,26 @@
           "moved": "none"
         },
         {
-          "event": "Will Al Nassr Saudi Club vs. Al Najmah Saudi Club end in a draw?",
-          "odds": "+2677",
+          "event": "Will Elon Musk post 260-279 tweets from March 27 to April 3, 2026?",
+          "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Trump sell 1-100 Gold Cards in 2026?",
-          "odds": "+415",
+          "event": "Will Elon Musk post 220-239 tweets from March 27 to April 3, 2026?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Atlanta be between 68-69°F on March 29?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will there be between 30 and 40 average daily transits of the Strait of Hormuz on April 30?",
+          "odds": "+3025",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
