@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "30 de marzo de 2026 — 06:18 UTC",
+  "lastUpdated": "30 de marzo de 2026 — 10:48 UTC",
   "ticker": [
-    "Canadian YouTuber captures congestion of dozens of ships in Hormuz Strait",
-    "Trump says Iran’s ‘had regime change’ as he describes ‘boatloads of oil’",
-    "Fakhar Zaman charged with ball‑tampering by Pakistan board in PSL",
-    "Australia to halve fuel tax as global energy crisis deepens",
-    "Amnesty warns of human rights risks at 2026 World Cup",
-    "Marco Bezzecchi wins USA MotoGP to extend perfect start to season",
-    "CAF general secretary quits amid AFCON final controversy",
-    "IAEA says Iran’s Khondab heavy water reactor no longer operational",
-    "Iranian academic describes US-Israeli attacks on Iran’s universities",
-    "Netanyahu orders deeper Israeli invasion into Lebanon",
-    "Oil tops $116 a barrel as Iran accuses US of preparing invasion",
-    "Iranian attack damages Kuwait power and desalination plant, kills worker",
-    "Iran war live: Trump says wants to take Iran’s oil; Kuwait power site hit",
-    "How will the Houthis’ involvement shape the war?",
-    "European nations criticise Israel’s death penalty plans"
+    "Land Day in Gaza: Between memory and the fight for what remains",
+    "Iraq risks Arab ties as Iran-aligned groups strike Gulf nations",
+    "France beat Colombia 3-1 to showcase firepower and squad depth",
+    "Smoke rise from Beirut suburbs following Israeli attack",
+    "Trump wants to invade Iran to seize oil, calls US objectors ‘stupid people’",
+    "UN peacekeeper killed in southern Lebanon as Israeli invasion intensifies",
+    "‘This is a nightmare scenario if it escalates further.’",
+    "Did Israel miscalculate in launching the war on Iran?",
+    "Displaced families in Sudan struggle as aid falls short",
+    "US-Israel war on Iran: What’s happening on day 31 of attacks",
+    "Mohamed Salah warned against US move as MLS clubs eye Egyptian footballer",
+    "Settlers burn vehicles in town near Hebron",
+    "Land Day: What happened in Palestine on March 30, 1976?",
+    "By the 50th anniversary of Land Day, Palestinians lose most of their land",
+    "‘We’re killing them, bro’: Israelis correct Iranian online streamer"
   ],
   "sections": [
     {
@@ -23,8 +23,20 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
+          "event": "Will USD fall to 1.4M Iranian rials by April 30?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will USD reach 1.8M Iranian rials by April 30?",
-          "odds": "+233",
+          "odds": "+244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump say \"Coward\" in April?",
+          "odds": "-149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -41,12 +53,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Juan Soto win the 2026 National League MVP Award?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "NATO/EU troops fighting in Ukraine in June 30, 2026?",
           "odds": "+2027",
           "params": "Fuente: Polymarket",
@@ -55,12 +61,6 @@
         {
           "event": "Will Ukraine advance through the second Eurovision Semi-Final?",
           "odds": "-809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Valorant: Nova Esports vs EDward Gaming (BO3) - VCT China Group Omega",
-          "odds": "+316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -72,13 +72,13 @@
       "rows": [
         {
           "event": "OpenAI receives federal backstop for infrastructure before July?",
-          "odds": "+238",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will there be no change in Fed interest rates after the June 2026 meeting?",
-          "odds": "-669",
+          "odds": "-614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -89,26 +89,14 @@
           "moved": "none"
         },
         {
+          "event": "Kraken vs. Oilers",
+          "odds": "+149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will S&P 500 (SPX) close at $6,000-$6,500 in December?",
-          "odds": "+284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $150 in April?",
-          "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Aaron Taylor-Johnson announced as next James Bond?",
-          "odds": "+2677",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Bank of England increases interest rates by 25 bps after June 2026 meeting?",
-          "odds": "+132",
+          "odds": "+354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -125,14 +113,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Conservative People’s Party be part of the next Government of Denmark?",
-          "odds": "+127",
+          "event": "Will Daniel Cameron be the Republican nominee for Senate in Kentucky?",
+          "odds": "+415",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Daniel Cameron be the Republican nominee for Senate in Kentucky?",
-          "odds": "+536",
+          "event": "Will Conservative People’s Party be part of the next Government of Denmark?",
+          "odds": "+127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -156,7 +144,7 @@
         },
         {
           "event": "Lai Ching-te impeached by June 30?",
-          "odds": "+2027",
+          "odds": "+2841",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,32 +155,26 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Will 1. FC Köln vs. SV Werder Bremen end in a draw?",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Bank of Canada announce an increase at the April meeting?",
+          "odds": "+2172",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will USD/KRW hit 1600 (High) in 2026?",
           "odds": "+177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Dallas be between 68-69°F on April 4?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Dallas be between 70-71°F on April 4?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Dallas be between 80-81°F on April 4?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: Club Atlético de Madrid 1 - 1 FC Barcelona?",
-          "odds": "+1899",
+          "event": "Will Elon Musk post 400-419 tweets from March 31 to April 7, 2026?",
+          "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -203,14 +185,20 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Seattle be between 56-57°F on April 4?",
-          "odds": "+900",
+          "event": "Will Hong Kong have between 160-170mm of precipitation in March?",
+          "odds": "+380",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Toronto be 5°C on April 4?",
-          "odds": "+1899",
+          "event": "Will the highest temperature in Wellington be 18°C on April 4?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Mikael Ishak score the most goals in the 2025-26 UEFA Europa Conference League?",
+          "odds": "-132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
