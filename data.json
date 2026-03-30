@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "30 de marzo de 2026 — 10:48 UTC",
+  "lastUpdated": "30 de marzo de 2026 — 14:53 UTC",
   "ticker": [
-    "Land Day in Gaza: Between memory and the fight for what remains",
-    "Iraq risks Arab ties as Iran-aligned groups strike Gulf nations",
-    "France beat Colombia 3-1 to showcase firepower and squad depth",
-    "Smoke rise from Beirut suburbs following Israeli attack",
-    "Trump wants to invade Iran to seize oil, calls US objectors ‘stupid people’",
-    "UN peacekeeper killed in southern Lebanon as Israeli invasion intensifies",
-    "‘This is a nightmare scenario if it escalates further.’",
-    "Did Israel miscalculate in launching the war on Iran?",
-    "Displaced families in Sudan struggle as aid falls short",
-    "US-Israel war on Iran: What’s happening on day 31 of attacks",
-    "Mohamed Salah warned against US move as MLS clubs eye Egyptian footballer",
-    "Settlers burn vehicles in town near Hebron",
-    "Land Day: What happened in Palestine on March 30, 1976?",
-    "By the 50th anniversary of Land Day, Palestinians lose most of their land",
-    "‘We’re killing them, bro’: Israelis correct Iranian online streamer"
+    "Rubio tells Al Jazeera Strait of Hormuz will reopen ‘one way or another’",
+    "Trump wants to ‘take Iran’s oil’: Can he, and what would that mean?",
+    "Kenya’s former New York marathon champion Korir gets five-year doping ban",
+    "War on Iran disrupts Asia’s used-car exports to the Middle East",
+    "‘I’m always watching’: A mother’s vigil in Mexico’s cancer system",
+    "Spain closes airspace to US planes involved in war on Iran",
+    "Why have the US and Israel bombed more than 75 Iranian police facilities?",
+    "Palestinian recalls brother’s arrest at the Rafah crossing",
+    "Homes damaged as Iranian missiles trigger sirens across northern Israel",
+    "Iran’s Foreign Ministry denies claims of US-Iran negotiations",
+    "Trump ‘pretty sure’ of Iran deal, but can Pakistan-led efforts end the war?",
+    "Germany’s FM tells President al-Sharaa ‘We stand with Syria’",
+    "Russia’s FSB orders British diplomat’s expulsion, UK rejects ‘intimidation’",
+    "Beirut apartment damaged in Israeli strike",
+    "Sirens heard across Haifa port"
   ],
   "sections": [
     {
@@ -23,14 +23,26 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will USD fall to 1.4M Iranian rials by April 30?",
-          "odds": "+488",
+          "event": "Will the highest temperature in Warsaw be 16°C on April 3?",
+          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will USD reach 1.8M Iranian rials by April 30?",
-          "odds": "+244",
+          "odds": "+270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "European country agrees to give Ukraine security guarantee by June 30?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Warsaw be 15°C on April 3?",
+          "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -41,26 +53,14 @@
           "moved": "none"
         },
         {
-          "event": "European country agrees to give Ukraine security guarantee by June 30?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the People Power Party (PPP) win the 2026 South Korean local elections?",
           "odds": "+2531",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "NATO/EU troops fighting in Ukraine in June 30, 2026?",
-          "odds": "+2027",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Ukraine advance through the second Eurovision Semi-Final?",
-          "odds": "-809",
+          "event": "Will USD reach 1.6M Iranian rials by April 30?",
+          "odds": "-354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -72,25 +72,13 @@
       "rows": [
         {
           "event": "OpenAI receives federal backstop for infrastructure before July?",
-          "odds": "+284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will there be no change in Fed interest rates after the June 2026 meeting?",
-          "odds": "-614",
+          "odds": "+301",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Fed’s upper bound reach 4.5% or higher before 2027?",
           "odds": "+1624",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Kraken vs. Oilers",
-          "odds": "+149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -107,6 +95,18 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
+          "event": "Will Luiz Inácio Lula da Silva qualify for Brazil's presidential runoff?",
+          "odds": "-316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Progressive Bulgaria (PB) win the 2026 Bulgarian Parliamentary election by 10-15%?",
+          "odds": "+270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Michael Bennet win the 2026 Colorado Governor Democratic primary election?",
           "odds": "-376",
           "params": "Fuente: Polymarket",
@@ -114,7 +114,7 @@
         },
         {
           "event": "Will Daniel Cameron be the Republican nominee for Senate in Kentucky?",
-          "odds": "+415",
+          "odds": "+380",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -131,20 +131,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Luiz Inácio Lula da Silva qualify for Brazil's presidential runoff?",
-          "odds": "-284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Míde Nic Fhionnlaoich win the 2026 Galway West by-election?",
           "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Lai Ching-te impeached by June 30?",
-          "odds": "+2841",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -155,50 +143,50 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will 1. FC Köln vs. SV Werder Bremen end in a draw?",
-          "odds": "+233",
+          "event": "Will the highest temperature in New York City be between 64-65°F on April 2?",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the Bank of Canada announce an increase at the April meeting?",
-          "odds": "+2172",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will USD/KRW hit 1600 (High) in 2026?",
-          "odds": "+177",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Elon Musk post 400-419 tweets from March 31 to April 7, 2026?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Meta dip to $540 in April?",
-          "odds": "-1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Hong Kong have between 160-170mm of precipitation in March?",
-          "odds": "+380",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Wellington be 18°C on April 4?",
-          "odds": "+733",
+          "event": "Will Elon Musk post 115-139 tweets from March 30 to April 1, 2026?",
+          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Mikael Ishak score the most goals in the 2025-26 UEFA Europa Conference League?",
           "odds": "-132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Donald Trump post 40-59 Truth Social posts from March 27 to April 3, 2026?",
+          "odds": "+2602",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Liverpool FC win on 2026-04-08?",
+          "odds": "+284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "R2 FDV above $800M one day after launch?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Lucknow be 34°C on April 1?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Counter-Strike: paiN Academy vs FOLHA AMARELA (BO3) - ESL Challenger League South America Cup #3 Playoffs",
+          "odds": "+149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
