@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "31 de marzo de 2026 — 05:55 UTC",
+  "lastUpdated": "31 de marzo de 2026 — 09:45 UTC",
   "ticker": [
-    "LeBron James records triple-double as Lakers dominate Wizards",
-    "Children in Gaza reenact a funeral procession during play",
-    "Spain closes airspace to US warplanes involved in war on Iran",
-    "Outrage and condemnation over Israel’s death penalty law for Palestinians",
-    "UK pro-Palestine activist arrested weeks after being released on bail",
-    "What we learned from Al Jazeera’s interview with Marco Rubio",
-    "Activist Nerdeen Kiswani: ‘I feel more threatened than ever before’",
-    "Pentagon denies that Hegseth’s broker sought investment before Iran war",
-    "Intense US-Israeli attacks on Iranian city of Isfahan cause column of fire",
-    "At least 70 killed, 30 wounded in Haiti gang attack, rights group says",
-    "Al Jazeera’s full interview with Marco Rubio on US war on Iran",
-    "Iran war live: Kuwaiti oil tanker hit in Dubai port; 3 UN soldiers killed",
-    "US raises concern over Israel’s closure of Jerusalem holy sites",
-    "Iran’s foreign ministry rejects US ceasefire demands",
-    "Key moments from Marco Rubio’s interview with Al Jazeera"
+    "Sudan war ‘being fought on women’s bodies’: Survivors detail sexual assault",
+    "Palestine weekly wrap: Holy sites remain closed as deadly violence spreads",
+    "Video: Newborns evacuated from Gaza return as toddlers over two years later",
+    "Somali army takes over key city in Southwest as state leader resigns",
+    "Iran war wipes $120bn off Dubai, Abu Dhabi stock markets",
+    "Mexico’s President welcomes FIFA Chief",
+    "Iran war: What is happening on day 32 of US-Israel attacks?",
+    "US says Cuba policy unchanged despite allowing Russian tanker",
+    "Israel says four soldiers killed as army pushes deeper into south Lebanon",
+    "Ghana fires football head coach ⁠Otto Addo 72 days before World Cup",
+    "Three scenarios for the Strait of Hormuz",
+    "South Korean president promises maximum response to energy crisis",
+    "Drone attack sparks fire on Kuwaiti tanker in UAE amid Iran’s Gulf attacks",
+    "15-year-old Vaibhav Sooryavanshi scores 15-ball fifty for Rajasthan Royals",
+    "What can nations do to make up for the ongoing energy shortfall?"
   ],
   "sections": [
     {
@@ -23,20 +23,8 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Iran strike Abqaiq oil processing facility by April 30?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
           "odds": "-126",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Israel strike 3 countries in March 2026?",
-          "odds": "-614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -53,14 +41,26 @@
           "moved": "none"
         },
         {
+          "event": "NATO/EU troops fighting in Ukraine in June 30, 2026?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will a team from LPL (China) win MSI 2026?",
+          "odds": "+170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Military action against Iran ends on April 6, 2026?",
           "odds": "+2841",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "NATO/EU troops fighting in Ukraine in June 30, 2026?",
-          "odds": "+2027",
+          "event": "Will the next diplomatic US-Iran meeting be in Pakistan?",
+          "odds": "-112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -77,20 +77,26 @@
           "moved": "none"
         },
         {
-          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $135 Week of March 30 2026?",
-          "odds": "+1899",
+          "event": "Will Crude Oil (CL) hit (HIGH) $115 by end of June?",
+          "odds": "-270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $140 in April?",
+          "odds": "+284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "S&P 500 (SPX) Opens Up or Down on March 31?",
+          "odds": "-809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Fed increase interest rates by 25 bps after the June 2026 meeting?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Crude Oil (CL) hit (HIGH) $115 by end of June?",
-          "odds": "-270",
+          "odds": "+2172",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -103,12 +109,6 @@
         {
           "event": "Will the Edmonton Oilers win the Pacific Division?",
           "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Bank of England increases interest rates by 25 bps after June 2026 meeting?",
-          "odds": "+132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -149,14 +149,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Míde Nic Fhionnlaoich win the 2026 Galway West by-election?",
-          "odds": "+1011",
+          "event": "Will Jim Pillen win the 2026 Nebraska Governor Republican primary election?",
+          "odds": "-1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Lai Ching-te impeached by June 30?",
-          "odds": "+2841",
+          "event": "Will Míde Nic Fhionnlaoich win the 2026 Galway West by-election?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,50 +167,50 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Will Tesla (TSLA) close above $380 end of April?",
+          "odds": "-149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "NRFI: Boston Red Sox vs. Houston Astros",
           "odds": "+112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Netanyahu out by end of 2026?",
-          "odds": "+143",
+          "event": "Will the highest temperature in Milan be 19°C on April 4?",
+          "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Wellington be 15°C on April 1?",
-          "odds": "+2677",
+          "event": "Copa Colsanitas: Emiliana Arango vs Maria Lourdes Carle",
+          "odds": "-177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Milan be 23°C or higher on April 4?",
-          "odds": "+455",
+          "event": "Will Bolivia win on 2026-03-31?",
+          "odds": "+170",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Beijing be 20°C on April 3?",
-          "odds": "+1328",
+          "event": "BC Rytas vs. Nymburk",
+          "odds": "-233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Clint Twedt-Ball be the Democratic Nominee for IA-02?",
+          "odds": "+203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Atlético Nacional vs. Jaguares de Córdoba FC: Both Teams to Score",
           "odds": "-300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "KHL: Avtomobilist Yekaterinburg vs. Salavat Yulaev Ufa",
-          "odds": "-156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Bucharest Open: Christopher O'Connell vs Mariano Navone",
-          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
