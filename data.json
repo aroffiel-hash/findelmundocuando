@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "31 de marzo de 2026 — 16:34 UTC",
+  "lastUpdated": "31 de marzo de 2026 — 19:57 UTC",
   "ticker": [
+    "Iran’s FM confirms contact with US envoy Witkoff, denies talks under way",
+    "Palestinians in occupied West Bank protest Israel’s death penalty law",
+    "Israeli strike hits building in Beirut’s southern suburbs",
+    "US-Israel launch major attacks as Iranian authorities maintain defiance",
+    "One month of war on Iran cost Arab countries up to $194bn: UNDP",
+    "Major explosion at Russian petrochemical plant",
+    "Foreign journalist kidnapped in Iraq: Interior Ministry",
+    "Why Iran believes it can outlast the US",
+    "Qatar says ‘ready to help’ with US-Iran negotiations",
+    "UK accused of ‘intimidation tactics’ against bailed pro-Palestine activists",
+    "UN aid chief warns of new Israeli occupation in southern Lebanon",
     "Trump attacks NATO allies as pressure mounts over Strait of Hormuz",
     "Qatar says Iran’s attacks on neighbours crossed ‘many red lines’",
     "Cuba crisis explained: Who holds power, and could Diaz-Canel be replaced?",
-    "LIVE: Bosnia vs Italy – World Cup 2026 qualifying final",
-    "Venezuela’s ‘Chavismo’ movement faces a crossroads after US attack",
-    "The attack on the right to protest in the UK is not just about Palestine",
-    "Iran will play World Cup games in US despite war, FIFA’s Infantino says",
-    "Where to invest during Iran war? Ask – or don’t – Mohammad Bagher Ghalibaf",
-    "Is our timeline of human history accurate?",
-    "War on Iran: US’s history of making other nations pay for conflicts",
-    "Cancer drug facility, religious site hit in Israeli-US strikes on Iran",
-    "Will China join Pakistan-led efforts to mediate US-Iran peace?",
-    "Tyre hospital ‘hit five times’ since start of Israel’s attacks on Lebanon",
-    "US defence secretary says next few days in Iran war will be ‘decisive’",
-    "What’s Israel’s death penalty law that only applies to Palestinians?"
+    "LIVE: Bosnia and Herzegovina vs Italy – World Cup 2026 qualifying final"
   ],
   "sections": [
     {
@@ -25,12 +25,6 @@
         {
           "event": "NATO/EU troops fighting in Ukraine in June 30, 2026?",
           "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Military action against Iran ends by April 30, 2026?",
-          "odds": "+149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -63,6 +57,12 @@
           "odds": "-809",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Iran successfully target shipping on March 29, 2026?",
+          "odds": "+2930",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -71,20 +71,20 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will S&P 500 (SPX) close at $6,000-$6,500 in December?",
-          "odds": "+455",
+          "event": "WTI Crude Oil (WTI) Up or Down on March 31?",
+          "odds": "+713",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Kraken vs. Oilers: O/U 6.5",
-          "odds": "-104",
+          "event": "Credit One Charleston Open: Anna Bondar vs Magdalena Frech",
+          "odds": "+100",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Fed increase interest rates by 25 bps after the June 2026 meeting?",
-          "odds": "+2225",
+          "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -96,13 +96,19 @@
         },
         {
           "event": "US recession by end of 2026?",
-          "odds": "+177",
+          "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Crude Oil (CL) hit (HIGH) $110 by end of June?",
+          "odds": "-334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Aaron Taylor-Johnson announced as next James Bond?",
-          "odds": "+2841",
+          "odds": "+2464",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -113,20 +119,8 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will CDU win the most seats in the 2026 Berlin state elections?",
-          "odds": "-112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the Republicans win the Illinois Senate race in 2026?",
           "odds": "+1233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Tisza win 110–119 seats in the Hungarian National Assembly in this election?",
-          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -143,6 +137,12 @@
           "moved": "none"
         },
         {
+          "event": "Will Kevin Hern be the Republican nominee for Senate in Oklahoma?",
+          "odds": "-1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Conservative People’s Party be part of the next Government of Denmark?",
           "odds": "+127",
           "params": "Fuente: Polymarket",
@@ -153,6 +153,12 @@
           "odds": "+525",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Nancy Dahlstrom win the 2026 Alaska governor election?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -161,20 +167,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the highest temperature in Sao Paulo be 29°C on April 2?",
-          "odds": "+376",
+          "event": "Will the highest temperature in Seoul be 13°C on April 1?",
+          "odds": "+177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "San Luis Potosi: Tibo Colson vs Rodrigo Pacheco",
-          "odds": "+143",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Clint Twedt-Ball be the Democratic Nominee for IA-02?",
-          "odds": "+203",
+          "event": "Will Google (GOOGL) finish week of March 30 above $260?",
+          "odds": "-3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -185,26 +185,32 @@
           "moved": "none"
         },
         {
-          "event": "Atlético Nacional vs. Jaguares de Córdoba FC: Both Teams to Score",
-          "odds": "-300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Counter-Strike: Eternal Fire vs Sashi Esport - Map 2 Winner",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Hawks vs. Nets",
-          "odds": "-1150",
+          "event": "Will the highest temperature in Tel Aviv be 20°C on April 3?",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
-          "odds": "+1654",
+          "odds": "+1685",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will a team from LEC (Europe / EMEA) win MSI 2026?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Maduro guilty of all counts?",
+          "odds": "+284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Extended launch a token by June 30 2026?",
+          "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
