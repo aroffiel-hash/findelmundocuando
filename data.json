@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "01 de abril de 2026 — 10:35 UTC",
+  "lastUpdated": "01 de abril de 2026 — 14:54 UTC",
   "ticker": [
-    "Israel kills 7 people in Beirut, Hezbollah fights invasion in south Lebanon",
-    "Which teams are in the FIFA World Cup 2026?",
-    "Houthis claim joint missile attack on Israel with Iran and Hezbollah",
-    "‘An incredible feeling’: Turkiye beat Kosovo to end 24-year World Cup wait",
-    "US messages via Witkoff and intermediaries are not negotiations: Araghchi",
-    "India begins world’s largest population census",
-    "‘Gerrymandering’ in India’s Assam cuts Muslim representation before vote",
-    "War on Iran: Three key takeaways from Araghchi’s interview with Al Jazeera",
-    "Israeli police inspect damage on the road after missile impact",
-    "Iran attacks cause fire in Kuwait, Bahrain; kill man in UAE",
-    "What is NASA’s Artemis II moon mission, and when will it launch?",
-    "Spain’s FA condemns Islamophobic chants during game with Egypt",
-    "Iran war: What is happening on day 33 of US-Israel attacks?",
-    "Iraq defeat Bolivia 2-1 to qualify for FIFA World Cup 2026",
-    "First Black astronaut candidate ‘proud’ Victor Glover will make history"
+    "Can Russia help fill the global energy gap?",
+    "Russia claims to take full control of Ukraine’s Luhansk region",
+    "French President Macron visits Japan to discuss the energy crisis",
+    "Russia imposing ban on all gasoline exports due to Iran war",
+    "‘The World Cup curse’: Outcry as Italy miss out for third time in a row",
+    "Lebanon faces growing displacement crisis",
+    "Minerals for aid: Are new US health deals ‘exploiting’ African countries?",
+    "‘Permanent scar’: Iran minister on US-Israeli attacks on monuments",
+    "UK finds pro-Palestine protest organisers guilty of breaching police rules",
+    "How are NATO allies pushing back against Trump’s Iran war demands?",
+    "UK PM says war on Iran will impact Britain’s future",
+    "West Bank strikes over Palestinian-only death penalty",
+    "US Supreme Court to hear constitutional test of birthright citizenship",
+    "Iraq celebrates qualification for FIFA World Cup 2026",
+    "Assaulted, robbed: Refugees abused on Bosnia-Croatia border"
   ],
   "sections": [
     {
@@ -23,20 +23,14 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Iran leadership change by December 31?",
-          "odds": "+194",
+          "event": "Will Iran conduct a military action against Israel on April 5, 2026?",
+          "odds": "-900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Israel military action against Yemen by April 15, 2026?",
-          "odds": "-122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will France send warships through the Strait of Hormuz by April 30, 2026?",
-          "odds": "+1328",
+          "event": "Will Iran strike UAE again in March?",
+          "odds": "-521",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -47,20 +41,26 @@
           "moved": "none"
         },
         {
+          "event": "Will Russia capture all of Lyman by December 31, 2026?",
+          "odds": "-222",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Fred Hoiberg win the Men's 2026 Naismith Coach of the Year award?",
           "odds": "+222",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Rainbow Six Siege: Spacestation Gaming vs DarkZero Esports (BO1) - North America League Kickoff Group B",
-          "odds": "+212",
+          "event": "Will Ukraine advance through the second Eurovision Semi-Final?",
+          "odds": "-809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Ukraine advance through the second Eurovision Semi-Final?",
-          "odds": "-809",
+          "event": "Military action against Iran continues through April 30, 2026?",
+          "odds": "-104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -71,32 +71,20 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "US recession by end of 2026?",
-          "odds": "+244",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Crude Oil (CL) hit (HIGH) $110 by end of June?",
-          "odds": "-203",
+          "odds": "-212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Edmonton Oilers win the Pacific Division?",
-          "odds": "+257",
+          "odds": "+270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Aaron Taylor-Johnson announced as next James Bond?",
           "odds": "+2122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Bank of England increases interest rates by 25 bps after June 2026 meeting?",
-          "odds": "+132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -106,12 +94,6 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
-        {
-          "event": "Will Jim Pillen win the 2026 Nebraska Governor Republican primary election?",
-          "odds": "-1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will the Republicans win the Illinois Senate race in 2026?",
           "odds": "+1512",
@@ -125,6 +107,24 @@
           "moved": "none"
         },
         {
+          "event": "Will Starmer say \"Green\" during the next Prime Minister's Questions event?",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Starmer say \"Trump\" during the next Prime Minister's Questions event?",
+          "odds": "-149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Rafael López Aliaga finish in first place in the first round of the 2026 Peruvian presidential election?",
+          "odds": "+257",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Conservative People’s Party be part of the next Government of Denmark?",
           "odds": "+127",
           "params": "Fuente: Polymarket",
@@ -132,19 +132,7 @@
         },
         {
           "event": "Will Shawn Harris win the GA-14 special election?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Rafael López Aliaga finish in first place in the first round of the 2026 Peruvian presidential election?",
-          "odds": "+222",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Renovación Popular (RP) win the most seats in the 2026 Peruvian Senate election?",
-          "odds": "+400",
+          "odds": "+2677",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -155,26 +143,32 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Gujarat Titans win the 2026 Indian Premier League?",
-          "odds": "+1328",
+          "event": "Will The Super Mario Galaxy Movie be the top grossing movie of 2026?",
+          "odds": "+222",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Maverick McNealy win the 2026 Valero Texas Open?",
-          "odds": "+2531",
+          "event": "Will Cheltenham Town FC win on 2026-04-03?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Amazon (AMZN) close at $205-$210 on the final day of trading of the week of Mar 30 – Apr 3?",
+          "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Toronto be 10°C on April 4?",
+          "odds": "+488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Fight to Go the Distance?",
           "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Pelicans vs. Trail Blazers",
-          "odds": "+244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -191,14 +185,8 @@
           "moved": "none"
         },
         {
-          "event": "Will SpaceX's public ticker be another ticker?",
-          "odds": "+149",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Singapore be 31°C on April 3?",
-          "odds": "+669",
+          "event": "Will the Democratic Party win the TX-11 House seat?",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
