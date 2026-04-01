@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "01 de abril de 2026 — 17:38 UTC",
+  "lastUpdated": "01 de abril de 2026 — 20:06 UTC",
   "ticker": [
+    "Crete turns orange as Saharan dust sweeps in",
+    "Central Israel hit by one of Iran’s largest missile barrages in weeks",
+    "Palestinians in West Bank protest, strike against Israeli death penalty law",
+    "Memorial honours Indonesian UN peacekeeper killed in Lebanon",
+    "Why Iran says its universities are being targeted",
+    "Iraq coach says World Cup can help ‘change perception’ of country",
     "Iran authorities await war ‘victory’ as supporters mark 1979 anniversary",
     "‘This is an apartheid regime’: Critics decry Israel’s new death penalty law",
     "Iranian officials ‘laugh’ at Trump’s claim Iran wants a ceasefire",
@@ -9,13 +15,7 @@
     "UK to host meeting of 35 countries on reopening Strait of Hormuz",
     "What can nations do to make up for the ongoing energy shortfall?",
     "Russia says will continue helping Cuba after first oil shipment arrives",
-    "Mojtaba Khamenei’s rumoured injury or death won’t change Iran’s trajectory",
-    "Iran War: What a Marine Expeditionary Unit is – and other US military terms",
-    "Iran denies Trump’s claim Iranian president requested ceasefire",
-    "Ali Zafar wins defamation case against Meesha Shafi: Why it matters",
-    "Can Russia help fill the global energy gap?",
-    "Russia claims to take full control of Ukraine’s Luhansk region",
-    "French President Macron visits Japan to discuss the energy crisis"
+    "Mojtaba Khamenei’s rumoured injury or death won’t change Iran’s trajectory"
   ],
   "sections": [
     {
@@ -23,26 +23,14 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Military action against Iran ends by May 31, 2026?",
-          "odds": "-614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will another country conduct military action against Iran by April 30, 2026?",
-          "odds": "+400",
+          "event": "Will Russia capture all of Lyman by December 31, 2026?",
+          "odds": "-222",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the People Power Party (PPP) win the 2026 South Korean local elections?",
           "odds": "+3125",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Russia capture all of Lyman by December 31, 2026?",
-          "odds": "-222",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -59,8 +47,20 @@
           "moved": "none"
         },
         {
-          "event": "Will Iran conduct a military action against Israel on April 8, 2026?",
-          "odds": "-566",
+          "event": "Will Hezbollah conduct military action against Israel on April 3, 2026?",
+          "odds": "-1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Iran strike Ras Tanura by April 30?",
+          "odds": "+222",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will China blockade Taiwan by June 30?",
+          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -72,19 +72,7 @@
       "rows": [
         {
           "event": "Will Crude Oil (CL) hit (HIGH) $110 by end of June?",
-          "odds": "-170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump say \"Oil\" or \"Gas\" 3+ times during Address to the Nation?",
-          "odds": "-426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Crude Oil all time high by April 30?",
-          "odds": "+1150",
+          "odds": "-185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -155,20 +143,26 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will The Super Mario Galaxy Movie be the top grossing movie of 2026?",
-          "odds": "+222",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Cheltenham Town FC win on 2026-04-03?",
           "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Toronto be 9°C on April 4?",
-          "odds": "+614",
+          "event": "Will the highest temperature in Toronto be 12°C or higher on April 5?",
+          "odds": "+170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Google dip to $220 in April?",
+          "odds": "+2339",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Austin be between 70-71°F on April 5?",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -179,26 +173,20 @@
           "moved": "none"
         },
         {
+          "event": "Will Apple (AAPL) close at $245-$250 on the final day of trading of the week of Mar 30 – Apr 3?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Ankara be 12°C on April 3?",
+          "odds": "+170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Fight to Go the Distance?",
           "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Justin Pearson be the Democratic Nominee for TN-09?",
-          "odds": "+194",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
-          "odds": "+1685",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will USD/KRW hit 1350 (Low) in 2026?",
-          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
