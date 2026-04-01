@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "01 de abril de 2026 — 22:31 UTC",
+  "lastUpdated": "01 de abril de 2026 — 23:31 UTC",
   "ticker": [
+    "First troops from UN-backed Gang Suppression Force arrive in Haiti",
+    "Artemis II successfully launches four astronauts into space",
+    "NASA’s Artemis II lifts off to the moon",
     "US removes sanctions on Venezuela’s interim President Delcy Rodriguez",
     "NASA moon mission a ‘contrast’ to US war on Iran, says US senator",
     "SpaceX files to go public, paving way to make Elon Musk first trillionaire",
@@ -12,22 +15,13 @@
     "Ecuador claims 28% drop in homicides amid concerns over anti-crime campaign",
     "‘Hits close to home’: US Supreme Court hears birthright citizenship case",
     "Burundi says at least 13 killed, dozens injured in military base blast",
-    "India begins counting its population in historic census",
-    "Crete turns orange as Saharan dust sweeps in",
-    "Central Israel hit by one of Iran’s largest missile barrages in weeks",
-    "Palestinians in West Bank protest, strike against Israeli death penalty law"
+    "India begins counting its population in historic census"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Will Israel take military action in Gaza on April 2, 2026?",
-          "odds": "+149",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Ukraine advance through the second Eurovision Semi-Final?",
           "odds": "-809",
@@ -41,26 +35,32 @@
           "moved": "none"
         },
         {
+          "event": "Will Reza Pahlavi enter Iran by May 31?",
+          "odds": "+2464",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Fred Hoiberg win the Men's 2026 Naismith Coach of the Year award?",
           "odds": "+222",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Reza Pahlavi enter Iran by May 31?",
-          "odds": "+2602",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Iran strike Ras Tanura by April 30?",
-          "odds": "+300",
+          "odds": "+244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Hezbollah conduct military action against Israel on April 3, 2026?",
           "odds": "-1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Kharg Island no longer under Iranian control by June 30?",
+          "odds": "+244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -84,7 +84,7 @@
         },
         {
           "event": "Aaron Taylor-Johnson announced as next James Bond?",
-          "odds": "+2122",
+          "odds": "+2841",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -97,12 +97,6 @@
         {
           "event": "Will Michael Bennet win the 2026 Colorado Governor Democratic primary election?",
           "odds": "-376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Shawn Harris win the GA-14 special election?",
-          "odds": "+2677",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -135,6 +129,12 @@
           "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Míde Nic Fhionnlaoich win the 2026 Galway West by-election?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -149,26 +149,14 @@
           "moved": "none"
         },
         {
+          "event": "Will the highest temperature in Wuhan be 23°C on April 5?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the highest temperature in Seoul be 13°C on April 4?",
           "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Denver be between 68-69°F on April 5?",
-          "odds": "+300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Austin be between 70-71°F on April 5?",
-          "odds": "+284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Shanghai be 22°C on April 4?",
-          "odds": "+354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -187,6 +175,18 @@
         {
           "event": "Will Justin Pearson be the Democratic Nominee for TN-09?",
           "odds": "+194",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
+          "odds": "+1685",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will USD/KRW hit 1350 (Low) in 2026?",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
