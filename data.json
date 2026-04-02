@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "02 de abril de 2026 — 10:46 UTC",
+  "lastUpdated": "02 de abril de 2026 — 11:41 UTC",
   "ticker": [
+    "Israeli strikes kill 7 in southern Lebanon, Hezbollah targets ground troops",
+    "How Israel’s record budget will finance expanding illegal settlements",
+    "Libyan military leader may have combat drones despite UN embargo",
+    "Eight countries condemn Israel’s one-sided death penalty for Palestinians",
+    "Yemen’s Houthis coordinate with Iran, but retain independence, despite war",
+    "US-Israeli attacks and its impact on Iran’s economy",
     "Zimbabweans fear planned constitutional change will kill political choice",
     "Trump’s tariffs one year on: How Americans are paying the price",
     "Nearly 1,200 children killed or injured in Yemen despite truce: NGO",
@@ -9,25 +15,13 @@
     "How a year of tariffs cost Americans more than they saved",
     "‘Orban constantly vetoes’: Europe braces for Hungary election",
     "Iran’s ex-foreign minister Kharazi ‘gravely wounded’ in attack on his home",
-    "Oil price surges, Asian stocks fall as Trump vows to continue Iran attacks",
-    "Iran war: What is happening on day 34 of US-Israel attacks?",
-    "Mourners vow resistance as Iran marks Islamic Republic’s 47th anniversary",
-    "‘It all depends on the crop’: Gulf crisis hits South Asia farmers",
-    "Israel’s death penalty law is not about executing Palestinians",
-    "How long will Artemis II take to reach the moon, and what happens next?",
-    "Trump’s primetime speech on Iran war: Key takeaways"
+    "Oil price surges, Asian stocks fall as Trump vows to continue Iran attacks"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Will Russia capture Lyman by June 30, 2026?",
-          "odds": "+143",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Russia capture all of Lyman by December 31, 2026?",
           "odds": "-203",
@@ -36,13 +30,13 @@
         },
         {
           "event": "Will Ukraine advance through the second Eurovision Semi-Final?",
-          "odds": "-809",
+          "odds": "-900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Israel take military action in Gaza on April 1, 2026?",
-          "odds": "+525",
+          "event": "Will Iran strike Ras Tanura by April 30?",
+          "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -53,14 +47,20 @@
           "moved": "none"
         },
         {
-          "event": "Will Iran strike Ras Tanura by April 30?",
-          "odds": "+316",
+          "event": "Will Russia capture Lyman by April 30, 2026?",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Hezbollah conduct military action against Israel on April 8, 2026?",
           "odds": "-900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will China blockade Taiwan by June 30?",
+          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -72,13 +72,13 @@
       "rows": [
         {
           "event": "Will the Edmonton Oilers win the Pacific Division?",
-          "odds": "+163",
+          "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Blackhawks vs. Oilers",
-          "odds": "+194",
+          "event": "Will Crude Oil (CL) hit (HIGH) $105 by end of June?",
+          "odds": "-3125",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -137,20 +137,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the highest temperature in Munich be 11°C on April 4?",
-          "odds": "+1786",
+          "event": "Counter-Strike: BESTIA vs 3DMAX (BO3) - Parken Challenger Championship Playoffs",
+          "odds": "-108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in San Francisco be between 74-75°F on April 4?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Counter-Strike: 9INE vs Gentle Mates - Map 2 Winner",
-          "odds": "+203",
+          "event": "Will the highest temperature in Chengdu be 28°C on April 5?",
+          "odds": "+488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -167,20 +161,26 @@
           "moved": "none"
         },
         {
-          "event": "Base FDV above $6B one day after launch?",
-          "odds": "+257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Denver be 49°F or below on April 3?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Justin Pearson be the Democratic Nominee for TN-09?",
           "odds": "+194",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Chicago be between 54-55°F on April 6?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
+          "odds": "+1594",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will USD/KRW hit 1350 (Low) in 2026?",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
