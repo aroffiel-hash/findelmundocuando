@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "02 de abril de 2026 — 18:49 UTC",
+  "lastUpdated": "02 de abril de 2026 — 19:44 UTC",
   "ticker": [
+    "Iranians celebrate New Year in parks despite ongoing attacks",
+    "GCC chief urges UN to halt Iranian attacks, protect Gulf waterways",
+    "Can Russia help fill the global energy gap?",
+    "Children’s hospital in Tehran keeps hopes and smiles alive during war",
+    "Videos capture projectile falling in central Israel after Iran strike",
     "UN experts urge investigation into Israel’s killing of Lebanese journalists",
     "Pastor’s White House prayer claims Iranians seek death of all Jews",
     "Mohamed Salah: Football, Faith & Changing Perceptions",
@@ -10,12 +15,7 @@
     "World Cup 2026: Iran and Infantino talks progressing as war darkens US trip",
     "US-Israeli strike hits newly opened B1 bridge near Tehran, killing two",
     "Video: Protests in Gaza against Israel’s Palestinian death penalty law",
-    "‘Israel has been avoiding any diplomacy’ and pursuing escalation",
-    "Pakistan, Afghanistan hold talks in China to end months of conflict",
-    "US reinforcements are coming to the Gulf – but what does victory look like?",
-    "Can the US seize Iran’s enriched uranium – and what are the risks?",
-    "Iran releases mocking missile launch video after Trump threats",
-    "European Parliament member Rima Hassan taken into French police custody"
+    "‘Israel has been avoiding any diplomacy’ and pursuing escalation"
   ],
   "sections": [
     {
@@ -30,7 +30,7 @@
         },
         {
           "event": "Will Russia capture Lyman by April 30, 2026?",
-          "odds": "+1011",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -71,12 +71,6 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will WTI Crude Oil (WTI) hit (LOW) $90 Week of March 30 2026?",
-          "odds": "-184",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the Edmonton Oilers win the Pacific Division?",
           "odds": "+163",
           "params": "Fuente: Polymarket",
@@ -95,12 +89,6 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Monty Fritts win the 2026 Tennessee Governor Republican primary election?",
-          "odds": "+1860",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Renovación Popular (RP) win the most seats in the 2026 Peruvian Senate election?",
           "odds": "+244",
           "params": "Fuente: Polymarket",
@@ -108,7 +96,7 @@
         },
         {
           "event": "Will Nancy Dahlstrom win the 2026 Alaska governor election?",
-          "odds": "+3233",
+          "odds": "+2339",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -135,6 +123,12 @@
           "odds": "+2677",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will CD win the second most seats in the 2026 Colombian Chamber of Representatives election?",
+          "odds": "-2073",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -143,38 +137,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the highest temperature in Hong Kong be 27°C on April 6?",
-          "odds": "+194",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will 3DMAX qualify to IEM Cologne Major 2026?",
-          "odds": "+237",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party win the LA-01 House seat?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Fight to Go the Distance?",
           "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the VT-AL House seat?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Tokyo be 18°C on April 4?",
-          "odds": "+203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -185,8 +149,38 @@
           "moved": "none"
         },
         {
-          "event": "Will Justin Pearson be the Democratic Nominee for TN-09?",
-          "odds": "+194",
+          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will USD/KRW hit 1350 (Low) in 2026?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Maduro guilty of all counts?",
+          "odds": "+300",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Bill Gates be confirmed to have visited Epstein’s island?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Brex IPO before 2027?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Taipei be 25°C on April 5?",
+          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
