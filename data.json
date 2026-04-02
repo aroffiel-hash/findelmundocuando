@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "02 de abril de 2026 — 20:29 UTC",
+  "lastUpdated": "02 de abril de 2026 — 21:31 UTC",
   "ticker": [
+    "Oil shock triggers global price spikes as Iran war drags on",
+    "Iran says army forces are ready to repel US-Israeli attacks",
+    "Russia sending second ship with oil to Cuba amid US blockade",
+    "At least 43 people killed in ADF attack in northeast DR Congo, army says",
+    "As war drags on, US reiterates Trump open to diplomacy with Iran",
+    "Legal groups condemn arrival of a dozen deportees from US to Uganda",
+    "State Department claims Iran ‘continually’ pursuing nuclear weapon",
     "Planning commission approves Trump’s White House ballroom plans",
     "‘It’s the beginning of the end’ of the American security order",
     "What might end Israel’s war on Iran?",
@@ -8,14 +15,7 @@
     "Barcelona thump Real Madrid 6-0 to reach women’s Champions League semifinal",
     "Iranians celebrate New Year in parks despite ongoing attacks",
     "GCC chief urges UN to halt Iranian attacks, protect Gulf waterways",
-    "Can Russia help fill the global energy gap?",
-    "Children’s hospital in Tehran keeps hopes and smiles alive during war",
-    "Videos capture projectile falling in central Israel after Iran strike",
-    "UN experts urge investigation into Israel’s killing of Lebanese journalists",
-    "Pastor’s White House prayer claims Iranians seek death of all Jews",
-    "Mohamed Salah: Football, Faith & Changing Perceptions",
-    "US Homeland Security shutdown to stretch on, despite Senate passing funding",
-    "Trump fires Pam Bondi as US attorney general, elevates Todd Blanche"
+    "Can Russia help fill the global energy gap?"
   ],
   "sections": [
     {
@@ -29,20 +29,14 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Warsaw be 17°C on April 4?",
-          "odds": "+1899",
+          "event": "Sabres vs. Senators: O/U 5.5",
+          "odds": "-149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Russia capture Lyman by April 30, 2026?",
           "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Warsaw be 11°C on April 4?",
-          "odds": "+1415",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -61,6 +55,12 @@
         {
           "event": "Will China blockade Taiwan by June 30?",
           "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Russia enter Dobropillia by April 30?",
+          "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -126,7 +126,7 @@
         },
         {
           "event": "Will Pete Buttigieg win the 2028 Democratic presidential nomination?",
-          "odds": "+2602",
+          "odds": "+2677",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -137,32 +137,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will \"Something Very Bad Is Going to Happen: Season 1\" be the top US Netflix show this week?",
-          "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Seoul be 16°C on April 6?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Swindon Town FC win on 2026-04-02?",
-          "odds": "+455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Fight to Go the Distance?",
           "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Beijing be 17°C on April 4?",
-          "odds": "+900",
+          "event": "Will the highest temperature in Buenos Aires be 18°C on April 6?",
+          "odds": "+426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -181,6 +163,24 @@
         {
           "event": "Will USD/KRW hit 1350 (Low) in 2026?",
           "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the U.S. invade Mexico in 2026?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Mexico City be 30°C on April 4?",
+          "odds": "+1940",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Maduro guilty of all counts?",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
