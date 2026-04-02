@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "02 de abril de 2026 — 21:31 UTC",
+  "lastUpdated": "02 de abril de 2026 — 22:26 UTC",
   "ticker": [
+    "Unbridled Bosnian joy marks World Cup qualification win over Italy",
+    "Pope Leo condemns ‘brutality’ of world in first Easter services",
+    "9-year-old boy recounts airstrike in Lebanon that killed whole family",
     "Oil shock triggers global price spikes as Iran war drags on",
     "Iran says army forces are ready to repel US-Israeli attacks",
     "Russia sending second ship with oil to Cuba amid US blockade",
@@ -12,10 +15,7 @@
     "‘It’s the beginning of the end’ of the American security order",
     "What might end Israel’s war on Iran?",
     "Yamal slams anti-Muslim fan chants as Spain’s World Cup final hopes tainted",
-    "Barcelona thump Real Madrid 6-0 to reach women’s Champions League semifinal",
-    "Iranians celebrate New Year in parks despite ongoing attacks",
-    "GCC chief urges UN to halt Iranian attacks, protect Gulf waterways",
-    "Can Russia help fill the global energy gap?"
+    "Barcelona thump Real Madrid 6-0 to reach women’s Champions League semifinal"
   ],
   "sections": [
     {
@@ -24,13 +24,7 @@
       "rows": [
         {
           "event": "Will Russia capture all of Lyman by December 31, 2026?",
-          "odds": "-194",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Sabres vs. Senators: O/U 5.5",
-          "odds": "-149",
+          "odds": "-185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -63,6 +57,12 @@
           "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Warsaw be 12°C on April 4?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -72,7 +72,13 @@
       "rows": [
         {
           "event": "Will the Edmonton Oilers win the Pacific Division?",
-          "odds": "+163",
+          "odds": "+177",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Blackhawks vs. Oilers: O/U 6.5",
+          "odds": "-108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -89,26 +95,20 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Tony Thurmond advance from the 2026 California Governor primary election?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Renovación Popular (RP) win the most seats in the 2026 Peruvian Senate election?",
           "odds": "+244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Nancy Dahlstrom win the 2026 Alaska governor election?",
-          "odds": "+2400",
+          "event": "Will voter turnout be 71–74% in the 2026 Hungarian parliamentary election?",
+          "odds": "+149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will voter turnout be 71–74% in the 2026 Hungarian parliamentary election?",
-          "odds": "+149",
+          "event": "Will Nancy Dahlstrom win the 2026 Alaska governor election?",
+          "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -126,7 +126,13 @@
         },
         {
           "event": "Will Pete Buttigieg win the 2028 Democratic presidential nomination?",
-          "odds": "+2677",
+          "odds": "+2602",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will CD win the second most seats in the 2026 Colombian Chamber of Representatives election?",
+          "odds": "-2073",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -136,6 +142,12 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
+        {
+          "event": "Will Málaga CF win on 2026-04-04?",
+          "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Fight to Go the Distance?",
           "odds": "+566",
@@ -161,26 +173,20 @@
           "moved": "none"
         },
         {
-          "event": "Will USD/KRW hit 1350 (Low) in 2026?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the U.S. invade Mexico in 2026?",
           "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Mexico City be 30°C on April 4?",
-          "odds": "+1940",
+          "event": "Will the highest temperature in Istanbul be 17°C or higher on April 3?",
+          "odds": "+354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Maduro guilty of all counts?",
-          "odds": "+284",
+          "event": "Will SpaceX IPO by June 30, 2026?",
+          "odds": "-194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
