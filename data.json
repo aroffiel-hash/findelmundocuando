@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "02 de abril de 2026 — 01:49 UTC",
+  "lastUpdated": "02 de abril de 2026 — 04:25 UTC",
   "ticker": [
     "Iran war live: Trump claims goals nearing completion, vows to ‘finish job’",
-    "Magnitude 7.4 quake hits off Indonesia’s Ternate, tsunami warning triggered",
+    "Magnitude 7.4 quake hits off Indonesia’s Ternate, tsunami warning lifted",
     "FBI agents from US arrive in Cuba to probe lethal speedboat shooting",
     "First troops from UN-backed Gang Suppression Force arrive in Haiti",
     "Watch the moment Artemis II launches historic mission around the moon",
@@ -23,8 +23,8 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Spurs vs. Warriors: O/U 228.5",
-          "odds": "+104",
+          "event": "Will Russia capture Lyman by June 30, 2026?",
+          "odds": "+143",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -35,14 +35,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Russia capture Lyman by June 30, 2026?",
-          "odds": "+143",
+          "event": "Will Russia capture all of Lyman by December 31, 2026?",
+          "odds": "-194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Russia capture all of Lyman by December 31, 2026?",
-          "odds": "-194",
+          "event": "Will Iran strike UAE by April 30, 2026?",
+          "odds": "-800",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -53,14 +53,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Iran strike UAE by April 30, 2026?",
-          "odds": "-825",
+          "event": "Will Iran strike Ras Tanura by April 30?",
+          "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Iran strike Ras Tanura by April 30?",
-          "odds": "+244",
+          "event": "Spurs vs. Warriors: O/U 227.5",
+          "odds": "-316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -71,14 +71,26 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will the Edmonton Oilers win the Pacific Division?",
-          "odds": "+300",
+          "event": "Will gas hit (High) $4.50 by April 30?",
+          "odds": "+132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Natural Gas (NG) hit (HIGH) $3.80 in April?",
-          "odds": "+400",
+          "event": "Will Natural Gas (NG) hit (LOW) $2.70 Week of March 30 2026?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Edmonton Oilers win the Pacific Division?",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "S&P 500 (SPX) Up or Down on April 2?",
+          "odds": "+334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -97,12 +109,6 @@
         {
           "event": "Will Starmer say \"Green\" during the next Prime Minister's Questions event?",
           "odds": "+233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Olivia Chow win the 2026 Toronto mayoral election?",
-          "odds": "-212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -135,6 +141,12 @@
           "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Míde Nic Fhionnlaoich win the 2026 Galway West by-election?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -143,26 +155,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Jazz vs. Rockets",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Cheltenham Town FC win on 2026-04-03?",
           "odds": "+455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Atlanta be between 78-79°F on April 3?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Ceará SC win on 2026-04-01?",
-          "odds": "+367",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -173,20 +167,38 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in San Francisco be 78°F or higher on April 4?",
-          "odds": "-127",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Fight to Go the Distance?",
           "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
+          "event": "Will Praggnanandhaa R win on 2026-04-03 at FIDE Candidates 2026 Open?",
+          "odds": "+212",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Justin Pearson be the Democratic Nominee for TN-09?",
           "odds": "+194",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will BNB reach $1600 by December 31, 2026?",
+          "odds": "+663",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
+          "odds": "+1685",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will USD/KRW hit 1350 (Low) in 2026?",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
