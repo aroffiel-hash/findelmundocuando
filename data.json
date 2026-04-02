@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "02 de abril de 2026 — 06:08 UTC",
+  "lastUpdated": "02 de abril de 2026 — 08:02 UTC",
   "ticker": [
+    "Mourners vow resistance as Iran marks Islamic Republic’s 47th anniversary",
+    "‘It all depends on the crop’: Gulf crisis hits South Asia farmers",
+    "Israel’s death penalty law is not about executing Palestinians",
     "How long will Artemis II take to reach the moon, and what happens next?",
     "Trump’s primetime speech on Iran war: Key takeaways",
     "Trump’s national address on Iran ’embarrassing, incoherent’",
@@ -12,10 +15,7 @@
     "Iran war live: Trump claims goals nearing completion, vows to ‘finish job’",
     "Magnitude 7.4 quake hits off Indonesia’s Ternate, tsunami warning lifted",
     "FBI agents from US arrive in Cuba to probe lethal speedboat shooting",
-    "First troops from UN-backed Gang Suppression Force arrive in Haiti",
-    "Watch the moment Artemis II launches historic mission around the moon",
-    "NASA successfully launches historic Artemis II moon mission",
-    "US removes sanctions on Venezuela’s interim President Delcy Rodriguez"
+    "First troops from UN-backed Gang Suppression Force arrive in Haiti"
   ],
   "sections": [
     {
@@ -24,7 +24,13 @@
       "rows": [
         {
           "event": "Will Russia capture Lyman by June 30, 2026?",
-          "odds": "+156",
+          "odds": "+143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Israel conduct military action in Greater Beirut on March 29, 2026?",
+          "odds": "+376",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -35,32 +41,26 @@
           "moved": "none"
         },
         {
+          "event": "Valorant: Dplus vs ONSIDE GAMING (BO3) - VCL Korea: Playoffs",
+          "odds": "-194",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Russia capture all of Lyman by December 31, 2026?",
           "odds": "-185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Fred Hoiberg win the Men's 2026 Naismith Coach of the Year award?",
-          "odds": "+222",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Iran strike Ras Tanura by April 30?",
-          "odds": "+300",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Israel take military action in Gaza on April 1, 2026?",
-          "odds": "+455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "JD Vance diplomatic meeting with Iran by April 10?",
-          "odds": "+2531",
+          "odds": "+488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -72,13 +72,7 @@
       "rows": [
         {
           "event": "Will the Edmonton Oilers win the Pacific Division?",
-          "odds": "+170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Aaron Taylor-Johnson announced as next James Bond?",
-          "odds": "+2841",
+          "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -97,12 +91,6 @@
         {
           "event": "Will Renovación Popular (RP) win the most seats in the 2026 Peruvian Senate election?",
           "odds": "+244",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Conservative People’s Party be part of the next Government of Denmark?",
-          "odds": "+127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -129,6 +117,12 @@
           "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Sarah Knafo win the 2027 French presidential election?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -137,14 +131,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Cheltenham Town FC win on 2026-04-03?",
-          "odds": "+455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Macarthur FC win on 2026-04-02?",
-          "odds": "+149",
+          "event": "LoL: G2 NORD vs E WIE EINFACH E-SPORTS (BO1) - Prime League 1st Division Regular Season",
+          "odds": "-354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -161,8 +149,20 @@
           "moved": "none"
         },
         {
+          "event": "Will the highest temperature in Austin be between 88-89°F on April 3?",
+          "odds": "+212",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Fight to Go the Distance?",
           "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Base FDV above $6B one day after launch?",
+          "odds": "+244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -174,13 +174,7 @@
         },
         {
           "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
-          "odds": "+1685",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will USD/KRW hit 1350 (Low) in 2026?",
-          "odds": "+1150",
+          "odds": "+1594",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
