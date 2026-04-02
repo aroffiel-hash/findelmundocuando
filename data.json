@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "02 de abril de 2026 — 15:55 UTC",
+  "lastUpdated": "02 de abril de 2026 — 16:51 UTC",
   "ticker": [
+    "Video: Protests in Gaza against Israel’s Palestinian death penalty law",
+    "‘Israel has been avoiding any diplomacy’ and pursuing escalation",
+    "Pakistan, Afghanistan hold talks in China to end months of conflict",
     "US reinforcements are coming to the Gulf – but what does victory look like?",
     "Can the US seize Iran’s enriched uranium – and what are the risks?",
     "Iran releases mocking missile launch video after Trump threats",
@@ -10,12 +13,9 @@
     "Why Lebanon should join the International Criminal Court",
     "UEFA’s Euro 2032 warning the latest blow to Italy after World Cup exit",
     "Burkina Faso military, allies committing ‘horrific’ civilian abuses: HRW",
-    "Spanish cyclist Guardeno airlifted to intensive care after training crash",
+    "Spanish cyclist Guardeno airlifted to intensive care after crash with car",
     "UK-led coalition of 40 countries vows action on Hormuz Strait gridlock",
-    "Pakistan to continue with Iran-US mediation despite ‘obstacles’",
-    "‘Bomb back to the Stone Age’: US history of threats and carpet bombing",
-    "Smoke rises over Mashhad, Iran, following strike near airport",
-    "Women’s Asian Cup finalists accuse governing body over equal money"
+    "Pakistan to continue with Iran-US mediation despite ‘obstacles’"
   ],
   "sections": [
     {
@@ -35,14 +35,14 @@
           "moved": "none"
         },
         {
-          "event": "Will the People Power Party (PPP) win the 2026 South Korean local elections?",
-          "odds": "+2757",
+          "event": "Will Israel take military action in Gaza on March 31, 2026?",
+          "odds": "-900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will any country expel an Israeli ambassador by December 31?",
-          "odds": "+222",
+          "event": "Will the People Power Party (PPP) win the 2026 South Korean local elections?",
+          "odds": "+2757",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -60,7 +60,7 @@
         },
         {
           "event": "US-Iran nuclear deal by June 30?",
-          "odds": "+300",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -72,7 +72,7 @@
       "rows": [
         {
           "event": "Will the Edmonton Oilers win the Pacific Division?",
-          "odds": "+270",
+          "odds": "+194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -90,7 +90,7 @@
         },
         {
           "event": "Will Nancy Dahlstrom win the 2026 Alaska governor election?",
-          "odds": "+900",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -114,7 +114,7 @@
         },
         {
           "event": "Will Pete Buttigieg win the 2028 Democratic presidential nomination?",
-          "odds": "+2677",
+          "odds": "+2602",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -131,7 +131,31 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Will the highest temperature in London be 17°C or higher on April 3?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Hong Kong be 27°C on April 6?",
+          "odds": "+194",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Wuhan be 22°C on April 3?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the highest temperature in Chengdu be 28°C on April 5?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Seattle be between 50-51°F on April 2?",
           "odds": "+488",
           "params": "Fuente: Polymarket",
           "moved": "none"
@@ -143,38 +167,14 @@
           "moved": "none"
         },
         {
+          "event": "Will 3DMAX qualify to IEM Cologne Major 2026?",
+          "odds": "-287",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Fight to Go the Distance?",
           "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party win the LA-01 House seat?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Milan be 20°C on April 5?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Justin Pearson be the Democratic Nominee for TN-09?",
-          "odds": "+194",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
-          "odds": "+1594",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Atlanta be between 78-79°F on April 4?",
-          "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
