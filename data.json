@@ -1,11 +1,12 @@
 {
-  "lastUpdated": "03 de abril de 2026 — 22:27 UTC",
+  "lastUpdated": "03 de abril de 2026 — 23:28 UTC",
   "ticker": [
+    "Lawyers search for Epstein survivors for Bank of America $72.5m settlement",
     "Christians in Lebanon observe Good Friday under Israeli attacks",
     "Will force be used to reopen Strait of Hormuz?",
     "Cuba releases over 2,000 prisoners amid mounting US pressure",
     "Survivors of Iran bridge attack recall terror of US-Israeli strike",
-    "NASA releases first stunning Artemis II photos of Earth from moon mission",
+    "NASA releases stunning first photos of Earth from Artemis II moon mission",
     "Two dozen Democrat-led states sue Trump over mail-in ballot limits",
     "US judge upholds decision to toss subpoenas into Fed Chair Jerome Powell",
     "More than 20 attacks on Iranian healthcare facilities since March 1: WHO",
@@ -14,8 +15,7 @@
     "Drone strike on Sudan hospital kills 10, medical charity MSF says",
     "Palestine 36: A film about a revolt that nearly changed history",
     "Cambodia parliament approves law to combat cybercrime scam rings",
-    "US unemployment rate drops despite economic uncertainty and Iran war",
-    "What we know about the US fighter jet shot down in Iran"
+    "US unemployment rate drops despite economic uncertainty and Iran war"
   ],
   "sections": [
     {
@@ -23,14 +23,8 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will the United States send warships through the Strait of Hormuz by April 30, 2026?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Trump visit China by May 31?",
-          "odds": "-257",
+          "odds": "-244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -63,6 +57,12 @@
           "odds": "-2225",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will China blockade Taiwan by June 30?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -72,7 +72,7 @@
       "rows": [
         {
           "event": "Will the Edmonton Oilers win the Pacific Division?",
-          "odds": "+143",
+          "odds": "+149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -84,7 +84,13 @@
         },
         {
           "event": "Will Natural Gas (NG) hit (HIGH) $3.60 in April?",
-          "odds": "+809",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will gas hit (High) $4.75 by April 30?",
+          "odds": "+244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -96,7 +102,7 @@
       "rows": [
         {
           "event": "Will Rick Jackson win the 2026 Georgia Governor Republican primary election?",
-          "odds": "-138",
+          "odds": "-143",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -143,14 +149,20 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "DeepSeek V4 released by April 7?",
-          "odds": "+2464",
+          "event": "Rolex Monte Carlo Masters, Qualification: Cristian Garin vs Jesper de Jong",
+          "odds": "+163",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Ipswich Town FC win on 2026-04-03?",
           "odds": "+176",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Club Atlético de Madrid win on 2026-04-08?",
+          "odds": "+426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -167,26 +179,20 @@
           "moved": "none"
         },
         {
-          "event": "Will Gangwon FC vs. Gwangju FC end in a draw?",
-          "odds": "+284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the highest temperature in Mexico City be 24°C on April 6?",
           "odds": "+316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Braga win the 2025-26 UEFA Europa League?",
-          "odds": "+2400",
+          "event": "Will Villarreal CF win on 2026-04-06?",
+          "odds": "+132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "XRP Up or Down - April 3, 4:00PM-8:00PM ET",
-          "odds": "-156",
+          "event": "Will Braga win the 2025-26 UEFA Europa League?",
+          "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
