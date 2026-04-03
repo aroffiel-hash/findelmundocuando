@@ -1,7 +1,13 @@
 {
-  "lastUpdated": "03 de abril de 2026 — 06:08 UTC",
+  "lastUpdated": "03 de abril de 2026 — 07:58 UTC",
   "ticker": [
-    "Iran war live: Trump warns assault on infrastructure ‘hasn’t even started’",
+    "How Israel is destroying healthcare infrastructure in southern Lebanon",
+    "Iranian women footballers reveal ‘enormous pressure’ of the Asian Cup saga",
+    "Hegseth fires US Army chief of staff in reported string of dismissals",
+    "Iran war: What is happening on day 35 of US-Israeli attacks?",
+    "Myanmar’s coup leader elected president by pro-military parliament",
+    "How China’s ‘teapot’ refineries are cushioning it from Iran war oil crisis",
+    "Iran war live: Ex-FM Zarif says Tehran should ‘declare victory, make deal’",
     "How war on Iran turned Pakistan’s LNG surplus into a looming shortage",
     "Donald Trump fires loyalist Attorney General Pam Bondi",
     "Iran vows retaliation after deadly US strike on bridge in Karaj",
@@ -9,13 +15,7 @@
     "US court orders resentencing for Colorado clerk involved in election scheme",
     "Rights groups, Milwaukee leaders slam ICE’s arrest of Palestinian advocate",
     "Unbridled Bosnian joy marks World Cup qualification win over Italy",
-    "Pope Leo condemns ‘brutality’ of world in first Easter services",
-    "9-year-old boy recounts airstrike in Lebanon that killed whole family",
-    "Oil shock triggers global price spikes as Iran war drags on",
-    "Iran says army forces are ready to repel US-Israeli attacks",
-    "Russia sending second ship with oil to Cuba amid US blockade",
-    "At least 43 people killed in ADF attack in northeast DR Congo, army says",
-    "As war drags on, US reiterates Trump open to diplomacy with Iran"
+    "Pope Leo condemns ‘brutality’ of world in first Easter services"
   ],
   "sections": [
     {
@@ -24,13 +24,31 @@
       "rows": [
         {
           "event": "Will Russia capture Lyman by April 30, 2026?",
-          "odds": "+1011",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the People Power Party (PPP) win the 2026 South Korean local elections?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "US x Iran ceasefire by April 30?",
+          "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Bahrain strike Iran by April 30?",
+          "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will China blockade Taiwan by June 30?",
-          "odds": "+1899",
+          "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -41,26 +59,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Bahrain strike Iran by April 30?",
-          "odds": "+2841",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the highest temperature in Warsaw be 15°C on April 4?",
           "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "US x Iran ceasefire by April 30?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Trump announces end of military operations against Iran by June 30th?",
-          "odds": "-300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -72,7 +72,7 @@
       "rows": [
         {
           "event": "Will the Edmonton Oilers win the Pacific Division?",
-          "odds": "+185",
+          "odds": "+149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -90,7 +90,7 @@
       "rows": [
         {
           "event": "Will voter turnout be 71–74% in the 2026 Hungarian parliamentary election?",
-          "odds": "+149",
+          "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -101,8 +101,20 @@
           "moved": "none"
         },
         {
+          "event": "Will Sarah Knafo win the 2027 French presidential election?",
+          "odds": "+3125",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Míde Nic Fhionnlaoich win the 2026 Galway West by-election?",
           "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Rick Jackson win the 2026 Georgia Governor Republican primary election?",
+          "odds": "-132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -113,20 +125,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Dathan Jones be the Republican nominee for Senate in Colorado?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Ned Lamont win the 2026 Connecticut Governor Democratic primary election?",
-          "odds": "-1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Fuerza Popular (FP) win the most seats in the 2026 Peruvian Senate election?",
-          "odds": "+138",
+          "event": "Will Jonathan Kreiss-Tomkins advance from the 2026 Alaska Governor primary election?",
+          "odds": "-104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -137,14 +137,26 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will MegaETH perform an airdrop by June 30?",
-          "odds": "-116",
+          "event": "Toronto Blue Jays vs. Chicago White Sox",
+          "odds": "-203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Atlanta be between 70-71°F on April 5?",
-          "odds": "+300",
+          "event": "Will the highest temperature in Taipei be 24°C on April 5?",
+          "odds": "+2930",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will MegaETH perform an airdrop by June 30?",
+          "odds": "-112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Bill Gates be confirmed to have visited Epstein’s island?",
+          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -155,32 +167,20 @@
           "moved": "none"
         },
         {
+          "event": "Menorca: Miguel Damas vs Daniel Rincon",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Austin be between 82-83°F on April 3?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
           "odds": "+1512",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the U.S. invade Mexico in 2026?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Maduro guilty of all counts?",
-          "odds": "+270",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in San Francisco be between 68-69°F on April 3?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Elon Musk post 220-239 tweets from March 31 to April 7, 2026?",
-          "odds": "+525",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
