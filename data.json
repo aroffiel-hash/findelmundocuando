@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "04 de abril de 2026 — 04:11 UTC",
+  "lastUpdated": "04 de abril de 2026 — 05:52 UTC",
   "ticker": [
+    "NASA unveils first images of Earth from Artemis II",
+    "Iran war: What is happening on day 36 of US-Israeli attacks?",
     "European Parliament’s Rima Hassan: I’m a target of ‘political harassment’",
     "Iranian missile attack hits residential areas in central Israel",
     "Palestinian Christians in Gaza mark Good Friday",
@@ -13,9 +15,7 @@
     "Cuba releases over 2,000 prisoners amid mounting US pressure",
     "Survivors of Iran bridge attack recall terror of US-Israeli strike",
     "NASA releases stunning first photos of Earth from Artemis II moon mission",
-    "Two dozen Democrat-led states sue Trump over mail-in ballot limits",
-    "US judge upholds decision to toss subpoenas into Fed Chair Jerome Powell",
-    "More than 20 attacks on Iranian healthcare facilities since March 1: WHO"
+    "Two dozen Democrat-led states sue Trump over mail-in ballot limits"
   ],
   "sections": [
     {
@@ -24,7 +24,7 @@
       "rows": [
         {
           "event": "Will the People Power Party (PPP) win the 2026 South Korean local elections?",
-          "odds": "+2602",
+          "odds": "+2677",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -59,8 +59,8 @@
           "moved": "none"
         },
         {
-          "event": "EU/NATO country announces peacekeeping force in Ukraine by June 30?",
-          "odds": "+2757",
+          "event": "Will India send warships through the Strait of Hormuz by April 30, 2026?",
+          "odds": "+2602",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -87,6 +87,12 @@
           "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Natural Gas (NG) hit (HIGH) $4.00 in April?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -96,13 +102,13 @@
       "rows": [
         {
           "event": "Will TISZA win 50-54% of the national list votes in the 2026 Hungarian Parliamentary election?",
-          "odds": "+284",
+          "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Nancy Dahlstrom win the 2026 Alaska governor election?",
-          "odds": "+2400",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -143,26 +149,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Will Ludvig Aberg win the 2026 Valero Texas Open?",
+          "odds": "+532",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Ipswich Town FC win on 2026-04-03?",
           "odds": "+154",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Seoul be 15°C on April 6?",
-          "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Ludvig Aberg win the 2026 Valero Texas Open?",
-          "odds": "+687",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Lucknow be 34°C on April 5?",
-          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -179,14 +173,26 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Seoul be 10°C on April 6?",
-          "odds": "+1899",
+          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
+          "odds": "+1685",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Milan be 26°C or higher on April 5?",
-          "odds": "+3233",
+          "event": "Will the U.S. invade Mexico in 2026?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Maduro guilty of all counts?",
+          "odds": "+270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Miguel Díaz-Canel out as leader of Cuba by December 31?",
+          "odds": "-122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
