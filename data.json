@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "04 de abril de 2026 — 19:26 UTC",
+  "lastUpdated": "04 de abril de 2026 — 20:23 UTC",
   "ticker": [
+    "Tehran psychiatric hospital not usable after US-Israeli strike",
+    "Universities hit as US, Israel ramp up attacks on Iran’s infrastructure",
     "Iran’s coastline: architecture of control",
     "Vehicle engulfed in flames after Israeli drone strike in central Gaza",
     "Italy’s Meloni meets Qatar emir to discuss energy issues amid Iran war",
@@ -13,9 +15,7 @@
     "Three suspects ordered to stay in UK custody over Jewish charity attack",
     "Witness records Israeli strike on building in Lebanon’s Tyre",
     "Vehicles burn in Israel after being hit with Iranian projectile debris",
-    "Haaland grabs hat-trick as Man City thrash Liverpool to reach FA Cup semis",
-    "Israeli strikes damage hospital in Lebanon’s Tyre; ground invasion advances",
-    "Projectile hits near Iran’s Bushehr nuclear plant, killing one: IAEA"
+    "Haaland grabs hat-trick as Man City thrash Liverpool to reach FA Cup semis"
   ],
   "sections": [
     {
@@ -35,8 +35,14 @@
           "moved": "none"
         },
         {
+          "event": "Will Iran strike Lebanon by April 30, 2026?",
+          "odds": "+284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will China blockade Taiwan by June 30?",
-          "odds": "+2602",
+          "odds": "+2464",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -57,12 +63,6 @@
           "odds": "+792",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Exact Score: VfB Stuttgart 3 - 1 BV Borussia 09 Dortmund?",
-          "odds": "+316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -71,14 +71,14 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "S&P 500 (SPX) Opens Up or Down on April 6?",
-          "odds": "+222",
+          "event": "Will UK GDP growth in Q1 2026 be between 0.3% and 0.6%?",
+          "odds": "+262",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will UK GDP growth in Q1 2026 be between 0.3% and 0.6%?",
-          "odds": "+506",
+          "event": "Bank of England increases interest rates by 25 bps after June 2026 meeting?",
+          "odds": "+163",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -114,7 +114,7 @@
         },
         {
           "event": "Will Pete Buttigieg win the 2028 Democratic presidential nomination?",
-          "odds": "+2464",
+          "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -143,20 +143,8 @@
           "moved": "none"
         },
         {
-          "event": "Will MrBeast say \"Sponsor\" or \"Sponsored\" during his next video?",
-          "odds": "-376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Wellington be 21°C on April 8?",
-          "odds": "+376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Busan be 17°C on April 6?",
-          "odds": "+334",
+          "event": "Will the highest temperature in Houston be between 80-81°F on April 4?",
+          "odds": "-1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -173,14 +161,26 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Lucknow be 33°C or below on April 6?",
-          "odds": "-170",
+          "event": "Will Bengaluru FC win on 2026-04-04?",
+          "odds": "+575",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Kuala Lumpur be 31°C on April 5?",
-          "odds": "+284",
+          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
+          "odds": "+1685",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the U.S. invade Mexico in 2026?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Los Angeles be 76°F or higher on April 8?",
+          "odds": "+334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
