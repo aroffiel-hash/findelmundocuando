@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "05 de abril de 2026 — 12:42 UTC",
+  "lastUpdated": "05 de abril de 2026 — 13:50 UTC",
   "ticker": [
+    "Trump offers no concrete plan as Strait of Hormuz closure shocks Europe",
+    "Iran’s ex-FM Zarif proposes peace roadmap; Gulf points at erosion of trust",
+    "Italian PM says the Gulf is ‘fundamental’ for Europe’s security",
     "Oman, Iran discuss smooth transit in Strait of Hormuz, Muscat says",
     "Jeremy Hansen is the first Canadian to head to the moon",
     "“We blame Trump”: Drivers line up for free gas as prices surge in the US",
@@ -12,22 +15,13 @@
     "Israel’s attack on UNRWA is central to its genocide of the Palestinians",
     "Messi scores as Inter Miami open new stadium with a draw in the MLS",
     "Thousands rally in Iraq against ‘senseless’ US-Israel war on Iran",
-    "Trump seeks to end the war without it becoming ‘an abject failure’",
-    "Under Israeli restrictions, Palestinian Christians mark quiet Holy Week",
-    "Iran war: What is happening on day 37 of US-Israeli attacks?",
-    "Yemen’s Houthis claim cluster missile attack on Israel’s Ben Gurion airport"
+    "Trump seeks to end the war without it becoming ‘an abject failure’"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Will a Gulf State carry out military action against Iran by April 15, 2026?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "LoL: Lodis vs BOMBA Team (BO3) - Rift Legends Regular Season",
           "odds": "+1328",
@@ -47,20 +41,26 @@
           "moved": "none"
         },
         {
-          "event": "Counter-Strike: Chinggis Warriors vs NSN (BO3) - ESL Challenger League Asia Cup #3 Playoffs",
-          "odds": "-488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Ukraine re-enter Rodynske by April 30?",
-          "odds": "-566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the People Power Party win 5 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
           "odds": "+792",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "US-Iran nuclear deal by June 30?",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Warsaw be 8°C on April 8?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Anthony Edwards: Assists O/U 3.5",
+          "odds": "+127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -75,12 +75,6 @@
           "odds": "+163",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will UK GDP growth in Q1 2026 be between 0% and 0.3%?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -88,6 +82,12 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
+        {
+          "event": "Will Andrey Gyurov be the next prime minister of Bulgaria after the 2026 parliamentary election?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Ron DeSantis announce a presidential run before 2027?",
           "odds": "+900",
@@ -120,13 +120,7 @@
         },
         {
           "event": "Will Pete Buttigieg win the 2028 Democratic presidential nomination?",
-          "odds": "+2464",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Ned Lamont win the 2026 Connecticut Governor Democratic primary election?",
-          "odds": "-900",
+          "odds": "+2531",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -137,20 +131,32 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the highest temperature in Shanghai be 15°C on April 7?",
-          "odds": "+1011",
+          "event": "Will the highest temperature in Seoul be 10°C on April 7?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Shanghai be 23°C on April 9?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Marine Le Pen win her appeal to lift ineligibility ban in 2026?",
+          "odds": "+354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Manchester City win the 2025–26 English Premier League?",
-          "odds": "+614",
+          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Austin be between 74-75°F on April 8?",
-          "odds": "+334",
+          "event": "Will the highest temperature in Mexico City be 23°C on April 5?",
+          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -161,26 +167,14 @@
           "moved": "none"
         },
         {
-          "event": "Total Kills Over/Under 23.5 in Game 2?",
-          "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
-          "odds": "+1438",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Marine Le Pen win her appeal to lift ineligibility ban in 2026?",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Rolex Monte Carlo Masters: Zizou Bergs vs Adrian Mannarino",
           "odds": "-316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Total Kills Over/Under 23.5 in Game 2?",
+          "odds": "+426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
