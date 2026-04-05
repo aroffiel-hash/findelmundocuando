@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "05 de abril de 2026 — 14:30 UTC",
+  "lastUpdated": "05 de abril de 2026 — 15:26 UTC",
   "ticker": [
+    "DR Congo to receive ‘third-country’ deportees from the US under new deal",
+    "Christian Lebanese families displaced as they celebrate Easter",
+    "Iran’s World Cup participation depends on relocation from US, minister says",
+    "Why an attack on Bushehr nuclear plant would be catastrophic for the Gulf",
+    "Suspected measles outbreak kills nearly 100 children in Bangladesh",
+    "Nepal announces two-day weekends as fuel crisis caused by Iran war deepens",
     "Trump offers no concrete plan as Strait of Hormuz closure shocks Europe",
     "Iran’s ex-FM Zarif proposes peace roadmap; Gulf points at erosion of trust",
     "Italian PM says the Gulf is ‘fundamental’ for Europe’s security",
@@ -9,13 +15,7 @@
     "“We blame Trump”: Drivers line up for free gas as prices surge in the US",
     "Lamine Yamal’s anger after Barcelona’s La Liga win downplayed by Flick",
     "US pilot from downed F-15E plane rescued in Iran: What we know",
-    "Footage shows Israeli military dog attacking Palestinian man inside mosque",
-    "Ukraine hits port in Russia’s Primorsk, oil refinery in Nizhny Novgorod",
-    "Kuwait’s power, water plants damaged as Iran keeps attacking Gulf states",
-    "Israel’s attack on UNRWA is central to its genocide of the Palestinians",
-    "Messi scores as Inter Miami open new stadium with a draw in the MLS",
-    "Thousands rally in Iraq against ‘senseless’ US-Israel war on Iran",
-    "Trump seeks to end the war without it becoming ‘an abject failure’"
+    "Footage shows Israeli military dog attacking Palestinian man inside mosque"
   ],
   "sections": [
     {
@@ -29,20 +29,26 @@
           "moved": "none"
         },
         {
-          "event": "Will Vladimir Guerrero Jr. win the 2026 American League MVP Award?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will China blockade Taiwan by June 30?",
           "odds": "+1983",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
+          "event": "Rockets vs. Warriors: O/U 226.5",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the People Power Party win 5 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
           "odds": "+792",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Hurricanes vs. Senators: O/U 6.5",
+          "odds": "+112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -55,12 +61,6 @@
         {
           "event": "Will the highest temperature in Warsaw be 8°C on April 8?",
           "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Warsaw be 11°C on April 6?",
-          "odds": "+257",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -120,7 +120,7 @@
         },
         {
           "event": "Will Pete Buttigieg win the 2028 Democratic presidential nomination?",
-          "odds": "+2531",
+          "odds": "+2464",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -131,20 +131,20 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Pakistan Super League: Multan Sultans vs Quetta Gladiators",
-          "odds": "-203",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Jamshedpur FC win on 2026-04-09?",
           "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Miami be between 80-81°F on April 7?",
-          "odds": "+270",
+          "event": "Will Aarhus GF win on 2026-04-06?",
+          "odds": "+138",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Taipei be 25°C on April 6?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -155,26 +155,26 @@
           "moved": "none"
         },
         {
-          "event": "Will Manchester City win the 2025–26 English Premier League?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Rolex Monte Carlo Masters: Zizou Bergs vs Adrian Mannarino",
           "odds": "-316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the U.S. invade Mexico in 2026?",
-          "odds": "+1150",
+          "event": "Will the highest temperature in Singapore be 34°C or higher on April 8?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Total Kills Over/Under 23.5 in Game 2?",
-          "odds": "+426",
+          "event": "Will Manchester City win the 2025–26 English Premier League?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Seattle be between 62-63°F on April 5?",
+          "odds": "+740",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
