@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "05 de abril de 2026 — 18:34 UTC",
+  "lastUpdated": "05 de abril de 2026 — 19:29 UTC",
   "ticker": [
+    "Trump threatens Iran in expletive-filled social media post",
+    "Israel continues deadly attacks on Gaza while striking Iran, Lebanon",
+    "Frustration grows as Iran’s wartime internet shutdown breaks grim record",
+    "Video captures Iranian missile striking residential building in Haifa",
+    "Rodent infestations and attacks spread in Gaza tent camps",
     "‘Refuse to celebrate’: Christians in Gaza mark sombre Easter amid genocide",
     "Israeli air strikes, shelling across Lebanon add to rising death toll",
     "OPEC+ agrees to hike oil output, warns of slow recovery after attacks",
@@ -10,18 +15,19 @@
     "Earth in rear-view of Artemis II astronauts",
     "Israel’s Ben-Gvir details plans for Palestinian ‘death row’",
     "Trump threatens ‘hell’ for Iran over Hormuz Strait as deadline approaches",
-    "Mearsheimer: No signs of quick end to US-Israel war on Iran",
-    "DR Congo to receive ‘third-country’ deportees from the US under new deal",
-    "Christian Lebanese families displaced as they celebrate Easter",
-    "Iran’s World Cup participation depends on relocation from US, minister says",
-    "Why an attack on Bushehr nuclear plant would be catastrophic for the Gulf",
-    "Suspected measles outbreak kills nearly 100 children in Bangladesh"
+    "Mearsheimer: No signs of quick end to US-Israel war on Iran"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Anthony Edwards: Rebounds O/U 4.5",
+          "odds": "+575",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will China blockade Taiwan by June 30?",
           "odds": "+1940",
@@ -31,12 +37,6 @@
         {
           "event": "LoL: Lodis vs BOMBA Team (BO3) - Rift Legends Regular Season",
           "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will CD Mirandés win on 2026-04-05?",
-          "odds": "+316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -71,8 +71,20 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
+          "event": "Madrid: Federico Cina vs Jurij Rodionov",
+          "odds": "-108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Bank of England increases interest rates by 25 bps after June 2026 meeting?",
           "odds": "+163",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Crude Oil (CL) hit (HIGH) $150 by end of June?",
+          "odds": "+244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -89,14 +101,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Nancy Dahlstrom win the 2026 Alaska governor election?",
-          "odds": "+900",
+          "event": "Will Linke win the most seats in the 2026 Berlin state elections?",
+          "odds": "+809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Linke win the most seats in the 2026 Berlin state elections?",
-          "odds": "+809",
+          "event": "Will Nancy Dahlstrom win the 2026 Alaska governor election?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -131,26 +143,20 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the highest temperature in Atlanta be 80°F or higher on April 9?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Jamshedpur FC win on 2026-04-09?",
           "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Manchester City win the 2025–26 English Premier League?",
-          "odds": "+669",
+          "event": "Will AS Roma win on 2026-04-05?",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Al Qadisiyah Saudi Club win on 2026-04-05?",
-          "odds": "-203",
+          "event": "Will Manchester City win the 2025–26 English Premier League?",
+          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -167,14 +173,20 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in New York City be between 40-41°F on April 8?",
-          "odds": "+1899",
+          "event": "Will Inter Kashi FC win on 2026-04-07?",
+          "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Total Kills Over/Under 23.5 in Game 2?",
-          "odds": "+426",
+          "event": "Will the DHS shutdown end between April 29-30, 2026?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
+          "odds": "+1539",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
