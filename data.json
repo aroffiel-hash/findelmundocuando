@@ -1,10 +1,11 @@
 {
-  "lastUpdated": "05 de abril de 2026 — 01:52 UTC",
+  "lastUpdated": "05 de abril de 2026 — 01:55 UTC",
   "ticker": [
     "US satellite firm Planet Labs announces blackout on war on Iran images",
     "Iran war live: Tehran rejects Trump’s ultimatum; fire at Kuwait oil complex",
     "Car slams into Louisiana Lao New Year parade, injuring about 15 people",
     "Israeli measures tighten grip on Hebron’s Ibrahimi Mosque",
+    "Lewandowski claims late La Liga win for Barcelona at Atletico",
     "Giuffre family urges UK’s King Charles to meet Epstein survivors in US",
     "How will Pakistan deal with the fallout from Iran war?",
     "Indonesia receives bodies of peacekeepers killed in southern Lebanon",
@@ -12,179 +13,157 @@
     "Israeli police arrest antiwar protesters in Tel Aviv",
     "Tehran psychiatric hospital not usable after US-Israeli strike",
     "Universities hit as US, Israel ramp up attacks on Iran’s infrastructure",
-    "Iran’s coastline: architecture of control"
+    "Iran’s coastline: architecture of control",
+    "Vehicle engulfed in flames after Israeli drone strike in central Gaza",
+    "Italy’s Meloni meets Qatar emir to discuss energy issues amid Iran war"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "LoL: Lodis vs BOMBA Team (BO3) - Rift Legends Regular Season",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the People Power Party (PPP) win the 2026 South Korean local elections?",
+          "odds": "+2225",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will China blockade Taiwan by June 30?",
+          "odds": "+2464",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Trump say \"Iran\" during the White House Easter Egg Roll?",
           "odds": "-163",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Luis Antonio Revilla win the 2026 La Paz gubernatorial election?",
+          "odds": "-2225",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the People Power Party win 5 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
+          "odds": "+792",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "US-Iran nuclear deal by June 30?",
           "odds": "+354",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
-          "moved": "none"
-        },
-        {
-          "event": "Will Israel take military action in Gaza on April 10, 2026?",
-          "odds": "+170",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
-          "moved": "none"
-        },
-        {
-          "event": "Will a Gulf State carry out military action against Iran by April 15, 2026?",
-          "odds": "+614",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
-          "moved": "none"
-        },
-        {
-          "event": "Will Israel strike 3 countries in April 2026?",
-          "odds": "+104",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the May decision?",
-          "odds": "-1328",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
-          "moved": "none"
-        },
-        {
-          "event": "Will Israel launch a major ground offensive in Gaza by June 30?",
-          "odds": "+566",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
-          "moved": "none"
-        },
-        {
-          "event": "Will there be between 0 and 10 average daily transits of the Strait of Hormuz on April 30?",
-          "odds": "+212",
-          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Luis Antonio Revilla win the 2026 La Paz gubernatorial election?",
-          "odds": "-2225",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
+          "event": "Will the Slovenian People’s Party (SLS) be part of the next Government of Slovenia?",
+          "odds": "-127",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Kim Dong-yeon win the 2026 Gyeonggi Province Gubernatorial Election?",
-          "odds": "+354",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
+          "event": "Will Gavin Newsom win the 2028 US Presidential Election?",
+          "odds": "+484",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Antonio Delgado win the 2026 New York Democratic Gubernatorial Primary?",
-          "odds": "+2677",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
+          "event": "Will J.D. Vance win the 2028 Republican presidential nomination?",
+          "odds": "+172",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will JD Vance say \"Russia\" or \"Ukraine\" 6+ times during meetings with Orbán?",
-          "odds": "-809",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇨🇳",
-      "label": "CHINA / PACÍFICO / COREA",
-      "rows": [
-        {
-          "event": "Will China blockade Taiwan by June 30?",
-          "odds": "+2464",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con tensión China-Taiwán.",
+          "event": "Will Nancy Dahlstrom win the 2026 Alaska governor election?",
+          "odds": "+747",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Trump meet with Kim Jong Un in 2026?",
-          "odds": "+525",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
-      "rows": [
-        {
-          "event": "Will Trump talk to Reza Pahlavi in April?",
-          "odds": "+3125",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Will another person win the first round of the 2026 Brazilian presidential election?",
+          "odds": "+1076",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Trump say \"Six Seven\" in April?",
-          "odds": "+163",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Will Dathan Jones be the Republican nominee for Senate in Colorado?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Trump pardon Ghislaine Maxwell before 2027?",
-          "odds": "+1566",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
-          "moved": "none"
-        },
-        {
-          "event": "SCOTUS strikes down Trump's Birthright Citizenship EO?",
-          "odds": "-2122",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump name \"Warren\" or \"Pocahontas\" in April?",
-          "odds": "-104",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
-      "rows": [
-        {
-          "event": "Will Lens win Coupe de France?",
-          "odds": "+122",
-          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republicans win the Mississippi Senate race in 2026?",
-          "odds": "-809",
-          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
-          "moved": "none"
-        },
-        {
-          "event": "Will Elon Musk Testify to Congress about Epstein?",
-          "odds": "+400",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democrats win the Kentucky Senate race in 2026?",
+          "event": "Will Linke win the most seats in the 2026 Berlin state elections?",
           "odds": "+1150",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will the highest temperature in Denver be between 72-73°F on April 7?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the Republicans win the Virginia Senate race in 2026?",
+          "event": "Will the highest temperature in Sao Paulo be 28°C on April 8?",
+          "odds": "+270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in London be 13°C on April 5?",
+          "odds": "-316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "KBO: Hanwha Eagles vs. Doosan Bears",
+          "odds": "+122",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Dallas be between 70-71°F on April 6?",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Amsterdam be 13°C on April 7?",
           "odds": "+1566",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will São Bernardo FC win on 2026-04-05?",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the U.S. invade Mexico in 2026?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
