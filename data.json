@@ -1,9 +1,10 @@
 {
-  "lastUpdated": "05 de abril de 2026 — 04:34 UTC",
+  "lastUpdated": "05 de abril de 2026 — 06:11 UTC",
   "ticker": [
+    "Trump’s unpopular war on Iran",
     "Iran says Iraqi ships can pass Strait of Hormuz as transits tick up",
     "US satellite firm Planet Labs announces blackout on war on Iran images",
-    "Iran war live: US officer from downed F-15E jet ‘recovered’, official says",
+    "Iran war live: Trump confirms rescue of US officer, says ‘we got him’",
     "Car slams into Louisiana Lao New Year parade, injuring about 15 people",
     "Israeli measures tighten grip on Hebron’s Ibrahimi Mosque",
     "Lewandowski claims late La Liga win for Barcelona at Atletico",
@@ -14,8 +15,7 @@
     "Israeli police arrest antiwar protesters in Tel Aviv",
     "Tehran psychiatric hospital not usable after US-Israeli strike",
     "Universities hit as US, Israel ramp up attacks on Iran’s infrastructure",
-    "Iran’s coastline: architecture of control",
-    "Vehicle engulfed in flames after Israeli drone strike in central Gaza"
+    "Iran’s coastline: architecture of control"
   ],
   "sections": [
     {
@@ -23,20 +23,14 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
+          "event": "Will the People Power Party (PPP) win the 2026 South Korean local elections?",
+          "odds": "+3025",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "LoL: Lodis vs BOMBA Team (BO3) - Rift Legends Regular Season",
           "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Luis Antonio Revilla win the 2026 La Paz gubernatorial election?",
-          "odds": "-920",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the People Power Party (PPP) win the 2026 South Korean local elections?",
-          "odds": "+2027",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -53,14 +47,20 @@
           "moved": "none"
         },
         {
+          "event": "Will a Gulf State carry out military action against Iran by April 15, 2026?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the People Power Party win 5 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
           "odds": "+792",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will a Gulf State carry out military action against Iran by April 15, 2026?",
-          "odds": "+525",
+          "event": "US-Iran nuclear deal by June 30?",
+          "odds": "+354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -75,6 +75,12 @@
           "odds": "+163",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will UK GDP growth in Q1 2026 be between 0% and 0.3%?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -83,12 +89,6 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will the Slovenian People’s Party (SLS) be part of the next Government of Slovenia?",
-          "odds": "-127",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Gavin Newsom win the 2028 US Presidential Election?",
           "odds": "+498",
           "params": "Fuente: Polymarket",
@@ -96,7 +96,7 @@
         },
         {
           "event": "Will J.D. Vance win the 2028 Republican presidential nomination?",
-          "odds": "+172",
+          "odds": "+171",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -123,6 +123,12 @@
           "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Linke win the most seats in the 2026 Berlin state elections?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -132,7 +138,25 @@
       "rows": [
         {
           "event": "Will Bengaluru FC win on 2026-04-04?",
-          "odds": "+861",
+          "odds": "+817",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Weed rescheduled by December 31?",
+          "odds": "+136",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will FC København vs. Silkeborg IF end in a draw?",
+          "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will FC Bayern München win on 2026-04-07?",
+          "odds": "+117",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -144,37 +168,19 @@
         },
         {
           "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
-          "odds": "+1685",
+          "odds": "+1438",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Denver be between 62-63°F on April 5?",
-          "odds": "+1011",
+          "event": "Will the highest temperature in Atlanta be between 70-71°F on April 8?",
+          "odds": "+376",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Lens win Coupe de France?",
-          "odds": "+122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Elaine Luria be the Democratic nominee for VA-02?",
-          "odds": "-400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Yu Deng win the 2026 Fields Medal?",
-          "odds": "+138",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Google (GOOGL) close above $285 on April 6?",
-          "odds": "-1150",
+          "event": "Will the highest temperature in Los Angeles be 86°F or higher on April 5?",
+          "odds": "+2339",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
