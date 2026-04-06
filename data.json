@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "06 de abril de 2026 — 17:39 UTC",
+  "lastUpdated": "06 de abril de 2026 — 18:50 UTC",
   "ticker": [
+    "Hegseth says strikes on Iran increasing as Hormuz deadline looms",
+    "Video: Iran’s top university hit in US-Israeli strikes",
+    "Artemis II breaks record for the furthest human travel from earth",
+    "Democrats blast Trump for Iran ‘war crimes’ threat; Republicans supportive",
+    "How Asia became ground zero for the oil crisis",
+    "Cairo faces darker nights as global energy prices continue to soar",
+    "Trump warns deadline ‘final’ as Iran pushes proposal to end war",
     "Trump praised airman’s rescue in Iran during White House Easter event",
     "Libya’s oil disputes mirror Hormuz crisis, fuel European energy fears",
     "Gaza camp offers children a sense of safety",
@@ -8,14 +15,7 @@
     "Gaza grandmother loses her family due to Israeli attacks",
     "Where are Iran’s power plants that Trump has threatened to destroy?",
     "Ukraine strikes Russian Black Sea energy hub Novorossiysk",
-    "In maps and photos: Five Iranian civilian bridges at risk of US strikes",
-    "The US could still try to play the ethnic card in Iran",
-    "Jobless young Palestinians trapped as Israel holds Gaza’s economy hostage",
-    "‘Smell’ of war comes to St Petersburg as Ukraine hammers Russian refineries",
-    "How US operation to rescue air officer from Iran unfolded",
-    "Has Trump confirmed Iran’s claim that protesters were US-armed?",
-    "Iran threatens Bab al-Mandeb closure: How would that affect world trade?",
-    "Pakistan offers ‘two-phased’ truce deal to end US-Israel war on Iran"
+    "In maps and photos: Five Iranian civilian bridges at risk of US strikes"
   ],
   "sections": [
     {
@@ -35,14 +35,14 @@
           "moved": "none"
         },
         {
-          "event": "US military draft authorized in 2026?",
-          "odds": "+614",
+          "event": "US-Iran nuclear deal by June 30?",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "US-Iran nuclear deal by June 30?",
-          "odds": "+284",
+          "event": "US military draft authorized in 2026?",
+          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -72,13 +72,13 @@
       "rows": [
         {
           "event": "Will Crude Oil (CL) hit (HIGH) $150 by end of June?",
-          "odds": "+257",
+          "odds": "+270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will WTI Crude Oil (WTI) hit (HIGH) $120 in April?",
-          "odds": "-270",
+          "odds": "-244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -93,6 +93,12 @@
           "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -102,7 +108,7 @@
       "rows": [
         {
           "event": "Will Linke win the most seats in the 2026 Berlin state elections?",
-          "odds": "+809",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -120,7 +126,7 @@
         },
         {
           "event": "Will Nancy Dahlstrom win the 2026 Alaska governor election?",
-          "odds": "+719",
+          "odds": "+1308",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -131,14 +137,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Ned Lamont win the 2026 Connecticut Governor Democratic primary election?",
-          "odds": "-809",
+          "event": "Will Pete Buttigieg win the 2028 Democratic presidential nomination?",
+          "odds": "+2602",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the Republicans win the Mississippi Senate race in 2026?",
-          "odds": "-1011",
+          "event": "Will Ned Lamont win the 2026 Connecticut Governor Democratic primary election?",
+          "odds": "-809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -155,8 +161,20 @@
           "moved": "none"
         },
         {
-          "event": "Will AVS Futebol vs. Vitória SC end in a draw?",
+          "event": "Mexico City: Jay Clarke vs Matias Soto",
+          "odds": "-127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Chongqing be 27°C on April 9?",
           "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Rolex Monte Carlo Masters: Tomas Etcheverry vs Grigor Dimitrov",
+          "odds": "-149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -167,32 +185,20 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Los Angeles be between 68-69°F on April 9?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Axiom launch a token by December 31, 2026?",
           "odds": "+194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Campinas: Juan Manuel La Serna vs Enzo Camargo Lima",
-          "odds": "-1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Mexico City be 23°C on April 6?",
-          "odds": "+257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Gemini 3.5 released by April 30?",
           "odds": "+1198",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will none of the eaglets hatch before April 17?",
+          "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
