@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "06 de abril de 2026 — 10:04 UTC",
+  "lastUpdated": "06 de abril de 2026 — 11:43 UTC",
   "ticker": [
+    "Trump’s ‘Bridge Day’ threat: Can a last-ditch ceasefire plan work?",
+    "Real Madrid vs Bayern Munich: Champions League – team news, start, lineups",
+    "Israel destroys southern Lebanon towns, hits ‘safe’ areas around Beirut",
+    "World Cup qualification earns Iraq coach Arnold a hero’s welcome in Sydney",
+    "Up to 1.2 million people forced to flee as Israel pummels Lebanon",
     "Iraqis give rousing welcome to coach behind historic World Cup return",
     "Why did ‘Handala’ target FBI Director Kash Patel?",
     "Families fleeing Israeli attacks take refuge in Lebanon’s mountains",
@@ -10,12 +15,7 @@
     "Iran’s top university bombed as US, Israel intensify attacks; 34 killed",
     "Iran war: What is happening on day 38 of US-Israeli attacks?",
     "‘Cocktail of Hindutva and welfarism’: How Modi’s BJP is wooing Assam voters",
-    "Man City captain Silva to leave Premier League club at season’s end",
-    "Steph Curry returns from injury with 29 points but Warriors lose to Rockets",
-    "A new regional order for the Strait of Hormuz",
-    "Vietnam’s gig workers slammed by rising fuel costs amid fallout of Iran war",
-    "Iran war live: Tehran rejects Trump’s Hormuz deadline; 2 killed in Haifa",
-    "UK police arrest seven protesters near RAF base used by US"
+    "Man City captain Silva to leave Premier League club at season’s end"
   ],
   "sections": [
     {
@@ -23,8 +23,8 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Russia capture all of Hryshyne by April 30?",
-          "odds": "+900",
+          "event": "Israel strike on Yemen by April 30, 2026?",
+          "odds": "-127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -42,7 +42,7 @@
         },
         {
           "event": "US-Iran nuclear deal by June 30?",
-          "odds": "+316",
+          "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -59,8 +59,8 @@
           "moved": "none"
         },
         {
-          "event": "Israel strike on Yemen by April 30, 2026?",
-          "odds": "-163",
+          "event": "Will the highest temperature in Warsaw be 6°C on April 8?",
+          "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -71,14 +71,8 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will the Kharg Island oil terminal be hit by April 15?",
-          "odds": "+354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Natural Gas (NG) hit (HIGH) $3.20 in April?",
-          "odds": "+177",
+          "odds": "+156",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -89,8 +83,8 @@
           "moved": "none"
         },
         {
-          "event": "Monza: Gianluca Cadenasso vs Hugo Gaston",
-          "odds": "+122",
+          "event": "Will the Kharg Island oil terminal be hit by April 15?",
+          "odds": "+316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -125,6 +119,12 @@
           "moved": "none"
         },
         {
+          "event": "Will the Pirate Party of Slovenia (PPS) be part of the next Government of Slovenia?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Mark Lohan win the 2026 Galway West by-election?",
           "odds": "+233",
           "params": "Fuente: Polymarket",
@@ -153,12 +153,6 @@
           "odds": "-1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will Pete Buttigieg win the 2028 Democratic presidential nomination?",
-          "odds": "+2464",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -167,8 +161,20 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Manchester City win the 2025–26 English Premier League?",
-          "odds": "+669",
+          "event": "Wuning: Jie Cui vs August Holmgren",
+          "odds": "+284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will there be exactly 3 earthquakes of magnitude 5.5 or higher worldwide by April 5?",
+          "odds": "+194",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Los Angeles be between 68-69°F on April 9?",
+          "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -179,37 +185,25 @@
           "moved": "none"
         },
         {
-          "event": "Will the price of XRP be above $0.90 on April 8?",
-          "odds": "-2399",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Paris be 25°C on April 8?",
-          "odds": "+1251",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Chongqing be 23°C on April 8?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Arsenal FC vs. AFC Bournemouth end in a draw?",
-          "odds": "+376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Alianza FC win on 2026-02-11?",
-          "odds": "+156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Elon Musk post 1480-1519 tweets in May 2026?",
+          "odds": "+1685",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Gemini 3.5 released by April 30?",
+          "odds": "+1049",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "LoL: KT Rolster Challengers vs Dplus KIA Challengers (BO3) - LCK Challengers League Rounds 1-2",
+          "odds": "-426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
           "odds": "+1685",
           "params": "Fuente: Polymarket",
           "moved": "none"
