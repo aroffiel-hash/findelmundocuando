@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "06 de abril de 2026 — 08:20 UTC",
+  "lastUpdated": "06 de abril de 2026 — 10:04 UTC",
   "ticker": [
+    "Iraqis give rousing welcome to coach behind historic World Cup return",
+    "Why did ‘Handala’ target FBI Director Kash Patel?",
+    "Families fleeing Israeli attacks take refuge in Lebanon’s mountains",
+    "Yemen’s civilians fear fallout after Houthis enter Iran war",
+    "Trump says US armed Iranian dissidents via Kurds, Kurdish groups deny claim",
+    "A visual guide to Artemis II and previous missions to the moon",
+    "Iran’s top university bombed as US, Israel intensify attacks; 34 killed",
+    "Iran war: What is happening on day 38 of US-Israeli attacks?",
+    "‘Cocktail of Hindutva and welfarism’: How Modi’s BJP is wooing Assam voters",
     "Man City captain Silva to leave Premier League club at season’s end",
     "Steph Curry returns from injury with 29 points but Warriors lose to Rockets",
     "A new regional order for the Strait of Hormuz",
     "Vietnam’s gig workers slammed by rising fuel costs amid fallout of Iran war",
     "Iran war live: Tehran rejects Trump’s Hormuz deadline; 2 killed in Haifa",
-    "UK police arrest seven protesters near RAF base used by US",
-    "Ukraine and Syria to cooperate on security, Zelenskyy says",
-    "Driver faces impaired driving charges after Lao New Year incident",
-    "Has the humanitarian crisis in Gaza been ignored?",
-    "Hamas armed wing says disarmament demands not acceptable",
-    "Israeli air strike hits crowd in Gaza City",
-    "Hamas armed wing rejects disarmament while Israel continues attacks",
-    "Is war more profitable than peace? David Keen explains",
-    "Dozens missing after boat carrying migrants capsizes near Libya",
-    "Trump threatens Iran in expletive-filled social media post"
+    "UK police arrest seven protesters near RAF base used by US"
   ],
   "sections": [
     {
@@ -41,14 +41,14 @@
           "moved": "none"
         },
         {
-          "event": "Will the People Power Party win 5 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
-          "odds": "+792",
+          "event": "US-Iran nuclear deal by June 30?",
+          "odds": "+316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "US-Iran nuclear deal by June 30?",
-          "odds": "+284",
+          "event": "Will the People Power Party win 5 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
+          "odds": "+792",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -60,7 +60,7 @@
         },
         {
           "event": "Israel strike on Yemen by April 30, 2026?",
-          "odds": "-185",
+          "odds": "-163",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -71,26 +71,26 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $130 in April?",
-          "odds": "+170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the Kharg Island oil terminal be hit by April 15?",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Crude Oil (CL) hit (HIGH) $120 by end of June?",
-          "odds": "-270",
+          "odds": "+354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Natural Gas (NG) hit (HIGH) $3.20 in April?",
           "odds": "+177",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Crude Oil (CL) hit (HIGH) $120 by end of June?",
+          "odds": "-222",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Monza: Gianluca Cadenasso vs Hugo Gaston",
+          "odds": "+122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -118,12 +118,6 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
-        {
-          "event": "Will Ricardo Belmont finish in first place in the first round of the 2026 Peruvian presidential election?",
-          "odds": "+1823",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Linke win the most seats in the 2026 Berlin state elections?",
           "odds": "+809",
@@ -159,6 +153,12 @@
           "odds": "-1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Pete Buttigieg win the 2028 Democratic presidential nomination?",
+          "odds": "+2464",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -168,19 +168,31 @@
       "rows": [
         {
           "event": "Will Manchester City win the 2025–26 English Premier League?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will FC Arouca win on 2026-04-06?",
-          "odds": "+163",
+          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the U.S. invade Mexico in 2026?",
           "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the price of XRP be above $0.90 on April 8?",
+          "odds": "-2399",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Paris be 25°C on April 8?",
+          "odds": "+1251",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Chongqing be 23°C on April 8?",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -199,18 +211,6 @@
         {
           "event": "Will Elon Musk post 1480-1519 tweets in May 2026?",
           "odds": "+1685",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Gemini 3.5 released by April 30?",
-          "odds": "+1165",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
-          "odds": "+1438",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
