@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "06 de abril de 2026 — 14:10 UTC",
+  "lastUpdated": "06 de abril de 2026 — 15:40 UTC",
   "ticker": [
+    "Where are Iran’s power plants that Trump has threatened to destroy?",
+    "Ukraine strikes Russian Black Sea energy hub Novorossiysk",
     "In maps and photos: Five Iranian civilian bridges at risk of US strikes",
     "The US could still try to play the ethnic card in Iran",
     "Jobless young Palestinians trapped as Israel holds Gaza’s economy hostage",
@@ -13,9 +15,7 @@
     "Real Madrid vs Bayern Munich: Champions League – team news, start, lineups",
     "Israel destroys southern Lebanon towns, hits ‘safe’ areas around Beirut",
     "World Cup qualification earns Iraq coach Arnold a hero’s welcome in Sydney",
-    "Up to 1.2 million people forced to flee as Israel pummels Lebanon",
-    "Iraqis give rousing welcome to coach behind historic World Cup return",
-    "Why did ‘Handala’ target FBI Director Kash Patel?"
+    "Up to 1.2 million people forced to flee as Israel pummels Lebanon"
   ],
   "sections": [
     {
@@ -23,20 +23,26 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
+          "event": "Will Iran strike Ukraine by April 30, 2026?",
+          "odds": "+2930",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "US military draft authorized in 2026?",
           "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Iran strike Ukraine by April 30, 2026?",
-          "odds": "+1940",
+          "event": "US-Iran nuclear deal by June 30?",
+          "odds": "+270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "US-Iran nuclear deal by June 30?",
-          "odds": "+284",
+          "event": "Will the highest temperature in Warsaw be 11°C on April 7?",
+          "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -48,19 +54,13 @@
         },
         {
           "event": "Iran leadership change by June 30?",
-          "odds": "+455",
+          "odds": "+426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "CDC issues Level 3 warning by December 31?",
-          "odds": "-194",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the People Power Party win 2 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
-          "odds": "+194",
+          "event": "Will the highest temperature in Warsaw be 12°C on April 7?",
+          "odds": "+809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -72,19 +72,19 @@
       "rows": [
         {
           "event": "Will the Kharg Island oil terminal be hit by April 30?",
-          "odds": "+138",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "S&P 500 (SPX) Up or Down on April 6?",
-          "odds": "-149",
+          "odds": "+149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Crude Oil (CL) hit (HIGH) $150 by end of June?",
           "odds": "+284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $120 in April?",
+          "odds": "-257",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -106,12 +106,6 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
-        {
-          "event": "Will Perry Johnson win the 2026 Michigan Governor Republican primary election?",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Linke win the most seats in the 2026 Berlin state elections?",
           "odds": "+809",
@@ -147,6 +141,12 @@
           "odds": "-809",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will the Republicans win the Mississippi Senate race in 2026?",
+          "odds": "-1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -155,26 +155,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the highest temperature in Los Angeles be between 68-69°F on April 7?",
-          "odds": "+270",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Elon Musk post 220-239 tweets from April 3 to April 10, 2026?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will NVIDIA (NVDA) close above $175 on April 6?",
-          "odds": "-614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in New York City be 45°F or below on April 9?",
-          "odds": "+2677",
+          "event": "Will the U.S. invade Mexico in 2026?",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -185,20 +167,38 @@
           "moved": "none"
         },
         {
-          "event": "Will the U.S. invade Mexico in 2026?",
-          "odds": "+1150",
+          "event": "Gemini 3.5 released by April 30?",
+          "odds": "+1198",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Toronto be 4°C on April 8?",
-          "odds": "+604",
+          "event": "Will Elon Musk post 1480-1519 tweets in May 2026?",
+          "odds": "+1685",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Tel Aviv be 19°C on April 7?",
-          "odds": "+300",
+          "event": "Will the highest temperature in Atlanta be between 72-73°F on April 6?",
+          "odds": "+1023",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will none of the eaglets hatch before April 17?",
+          "odds": "+2280",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump talk to Mohammed bin Salman in April?",
+          "odds": "-545",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Silver (SI) hit (LOW) $45 by end of June?",
+          "odds": "+532",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
