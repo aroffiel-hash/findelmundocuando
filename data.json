@@ -1,6 +1,7 @@
 {
-  "lastUpdated": "06 de abril de 2026 — 06:27 UTC",
+  "lastUpdated": "06 de abril de 2026 — 08:20 UTC",
   "ticker": [
+    "Man City captain Silva to leave Premier League club at season’s end",
     "Steph Curry returns from injury with 29 points but Warriors lose to Rockets",
     "A new regional order for the Strait of Hormuz",
     "Vietnam’s gig workers slammed by rising fuel costs amid fallout of Iran war",
@@ -14,8 +15,7 @@
     "Hamas armed wing rejects disarmament while Israel continues attacks",
     "Is war more profitable than peace? David Keen explains",
     "Dozens missing after boat carrying migrants capsizes near Libya",
-    "Trump threatens Iran in expletive-filled social media post",
-    "Israel continues deadly attacks on Gaza while striking Iran, Lebanon"
+    "Trump threatens Iran in expletive-filled social media post"
   ],
   "sections": [
     {
@@ -23,8 +23,20 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
+          "event": "Will Russia capture all of Hryshyne by April 30?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "US military draft authorized in 2026?",
           "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Iran strike Ukraine by April 30, 2026?",
+          "odds": "+1940",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -36,31 +48,19 @@
         },
         {
           "event": "US-Iran nuclear deal by June 30?",
-          "odds": "+257",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Antonio Delgado win the 2026 New York Democratic Gubernatorial Primary?",
-          "odds": "+2930",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Iran strike Ukraine by April 30, 2026?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Russia capture all of Hryshyne by April 30?",
-          "odds": "+900",
+          "odds": "+2757",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Israel strike on Yemen by April 30, 2026?",
-          "odds": "-194",
+          "odds": "-185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -71,20 +71,20 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will the Kharg Island oil terminal be hit by April 15?",
-          "odds": "+354",
+          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $130 in April?",
+          "odds": "+170",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Natural Gas (NG) hit (HIGH) $3.00 in April?",
-          "odds": "-233",
+          "event": "Will the Kharg Island oil terminal be hit by April 15?",
+          "odds": "+334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Crude Oil (CL) hit (HIGH) $120 by end of June?",
-          "odds": "-316",
+          "odds": "-270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -96,7 +96,7 @@
         },
         {
           "event": "Will Crude Oil (CL) hit (HIGH) $150 by end of June?",
-          "odds": "+270",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -120,19 +120,19 @@
       "rows": [
         {
           "event": "Will Ricardo Belmont finish in first place in the first round of the 2026 Peruvian presidential election?",
-          "odds": "+1718",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Mark Lohan win the 2026 Galway West by-election?",
-          "odds": "+233",
+          "odds": "+1823",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Linke win the most seats in the 2026 Berlin state elections?",
           "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Mark Lohan win the 2026 Galway West by-election?",
+          "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -179,26 +179,14 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Singapore be 33°C on April 6?",
-          "odds": "-104",
+          "event": "Will the U.S. invade Mexico in 2026?",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Arsenal FC vs. AFC Bournemouth end in a draw?",
           "odds": "+376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "US Lecce vs. Atalanta BC: Both Teams to Score",
-          "odds": "-108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the U.S. invade Mexico in 2026?",
-          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -211,6 +199,18 @@
         {
           "event": "Will Elon Musk post 1480-1519 tweets in May 2026?",
           "odds": "+1685",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Gemini 3.5 released by April 30?",
+          "odds": "+1165",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
+          "odds": "+1438",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
