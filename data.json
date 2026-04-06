@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "06 de abril de 2026 — 12:57 UTC",
+  "lastUpdated": "06 de abril de 2026 — 14:10 UTC",
   "ticker": [
+    "In maps and photos: Five Iranian civilian bridges at risk of US strikes",
+    "The US could still try to play the ethnic card in Iran",
+    "Jobless young Palestinians trapped as Israel holds Gaza’s economy hostage",
+    "‘Smell’ of war comes to St Petersburg as Ukraine hammers Russian refineries",
     "How US operation to rescue air officer from Iran unfolded",
     "Has Trump confirmed Iran’s claim that protesters were US-armed?",
     "Iran threatens Bab al-Mandeb closure: How would that affect world trade?",
@@ -11,29 +15,13 @@
     "World Cup qualification earns Iraq coach Arnold a hero’s welcome in Sydney",
     "Up to 1.2 million people forced to flee as Israel pummels Lebanon",
     "Iraqis give rousing welcome to coach behind historic World Cup return",
-    "Why did ‘Handala’ target FBI Director Kash Patel?",
-    "Families fleeing Israeli attacks take refuge in Lebanon’s mountains",
-    "Yemen’s civilians fear fallout after Houthis enter Iran war",
-    "Trump says US armed Iranian dissidents via Kurds, Kurdish groups deny claim",
-    "A visual guide to Artemis II and previous missions to the moon"
+    "Why did ‘Handala’ target FBI Director Kash Patel?"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Israel strike on Yemen by April 30, 2026?",
-          "odds": "-177",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Antonio Delgado win the 2026 New York Democratic Gubernatorial Primary?",
-          "odds": "+2677",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "US military draft authorized in 2026?",
           "odds": "+614",
@@ -48,7 +36,7 @@
         },
         {
           "event": "US-Iran nuclear deal by June 30?",
-          "odds": "+300",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -59,8 +47,20 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Warsaw be 9°C on April 7?",
+          "event": "Iran leadership change by June 30?",
           "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "CDC issues Level 3 warning by December 31?",
+          "odds": "-194",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the People Power Party win 2 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
+          "odds": "+194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -71,20 +71,20 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will the Kharg Island oil terminal be hit by April 15?",
-          "odds": "+316",
+          "event": "Will the Kharg Island oil terminal be hit by April 30?",
+          "odds": "+138",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "S&P 500 (SPX) Up or Down on April 6?",
+          "odds": "-149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Crude Oil (CL) hit (HIGH) $150 by end of June?",
-          "odds": "+300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Kharg Island oil terminal be hit by April 30?",
-          "odds": "+163",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -106,6 +106,12 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
+        {
+          "event": "Will Perry Johnson win the 2026 Michigan Governor Republican primary election?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Linke win the most seats in the 2026 Berlin state elections?",
           "odds": "+809",
@@ -141,12 +147,6 @@
           "odds": "-809",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will the Republicans win the Mississippi Senate race in 2026?",
-          "odds": "-1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -155,14 +155,26 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Wuning: Jie Cui vs August Holmgren",
-          "odds": "+284",
+          "event": "Will the highest temperature in Los Angeles be between 68-69°F on April 7?",
+          "odds": "+270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Seattle be between 60-61°F on April 8?",
-          "odds": "+212",
+          "event": "Will Elon Musk post 220-239 tweets from April 3 to April 10, 2026?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will NVIDIA (NVDA) close above $175 on April 6?",
+          "odds": "-614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in New York City be 45°F or below on April 9?",
+          "odds": "+2677",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -179,26 +191,14 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Munich be 17°C on April 8?",
-          "odds": "+455",
+          "event": "Will the highest temperature in Toronto be 4°C on April 8?",
+          "odds": "+604",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Elon Musk post 1480-1519 tweets in May 2026?",
-          "odds": "+1685",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Gemini 3.5 released by April 30?",
-          "odds": "+1049",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "LoL: KaBuM! Ilha das Lendas vs paiN Gaming Academy (BO1) - Circuito Desafiante Regular Season",
-          "odds": "-212",
+          "event": "Will the highest temperature in Tel Aviv be 19°C on April 7?",
+          "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
