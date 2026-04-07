@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "07 de abril de 2026 — 19:54 UTC",
+  "lastUpdated": "07 de abril de 2026 — 20:40 UTC",
   "ticker": [
+    "Russia and China block UN resolution on Strait of Hormuz",
+    "Pope Leo slams Trump’s threat that Iran’s ‘civilisation will die’",
+    "Mediterranean migrant deaths mounting towards 1,000 in 2026: UN",
+    "FIFA opens disciplinary probe against Spanish FA after Islamaphobic chants",
+    "Massive fire engulfs oil storage tanks near Baghdad",
+    "‘No end in sight’ if Trump acts on threat to destroy Iran infrastructure",
+    "Trump to pursue stability with China’s Xi in May meeting, USTR Greer says",
     "Iranians form human chains across bridges, at power plants",
     "How AI is being used to target Palestinians",
     "Video: Historic building in Ukraine up in flames after Russia drone attack",
@@ -8,20 +15,19 @@
     "What we know about the shooting by Istanbul’s Israeli consulate",
     "Iraqi armed group releases abducted US journalist Shelly Kittleson",
     "Tehran synagogue destroyed as US-Israeli strikes kill over a dozen",
-    "Afghanistan brands China peace talks with Pakistan ‘useful’",
-    "UK blocks rapper Kanye West from entry over anti-Semitism and Nazi support",
-    "Why JD Vance joined Pakistan’s last-ditch US-Iran mediation efforts",
-    "WHO suspends Gaza medical evacuations after Israeli fire kills driver",
-    "Top university says US-Israel attack targeted Iran’s progress, AI learning",
-    "US denies nuclear plan as deadline on threat to Iran ‘civilisation’ looms",
-    "Netanyahu: Israel shifting ‘balance of power’ with Iran strikes",
-    "Russia confirms 16 Cameroonian soldiers killed in Ukraine war"
+    "Afghanistan brands China peace talks with Pakistan ‘useful’"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "US obtains Iranian enriched uranium by May 31?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "CDC issues Level 3 warning by December 31?",
           "odds": "+149",
@@ -30,12 +36,18 @@
         },
         {
           "event": "US-Iran nuclear deal by June 30?",
-          "odds": "+300",
+          "odds": "+244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "US obtains Iranian enriched uranium by May 31?",
+          "event": "Will the highest temperature in Warsaw be 9°C on April 9?",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Israel take military action in Gaza on April 7, 2026?",
           "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
@@ -49,18 +61,6 @@
         {
           "event": "Will the People Power Party win 5 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
           "odds": "+792",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Warsaw be 6°C on April 9?",
-          "odds": "+852",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Iran withdraw from the NPT before 2027?",
-          "odds": "+257",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -90,7 +90,13 @@
         },
         {
           "event": "Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?",
-          "odds": "+1150",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Roger Federer play at Wimbledon?",
+          "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -102,13 +108,7 @@
         },
         {
           "event": "Will 1 Fed rate cut happen in 2026?",
-          "odds": "+300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will UK GDP growth in Q1 2026 be between 0% and 0.3%?",
-          "odds": "+1328",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -118,6 +118,12 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
+        {
+          "event": "Will Fidesz-KDNP win 70-84 seats in the Hungarian National Assembly in this election?",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Mark Lohan win the 2026 Galway West by-election?",
           "odds": "+400",
@@ -132,13 +138,7 @@
         },
         {
           "event": "Will Rafael López Aliaga win the 2026 Peruvian presidential election?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Fidesz-KDNP win 70-84 seats in the Hungarian National Assembly in this election?",
-          "odds": "+316",
+          "odds": "+376",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -149,14 +149,14 @@
           "moved": "none"
         },
         {
-          "event": "Will the Republicans win the Mississippi Senate race in 2026?",
-          "odds": "-614",
+          "event": "Will Nithya Raman win the 2026 Los Angeles mayoral election?",
+          "odds": "+127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will JD Vance win the 2028 US Presidential Election?",
-          "odds": "+461",
+          "event": "Will the Republicans win the Mississippi Senate race in 2026?",
+          "odds": "-614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -166,6 +166,30 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
+        {
+          "event": "Trump removed via 25th Amendment before 2027?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Mexico City: Daniel Milavsky vs Juan Pablo Ficovich",
+          "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "XRP Up or Down - April 7, 4:30PM-4:45PM ET",
+          "odds": "-194",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "MegaETH market cap (FDV) >$600M one day after launch?",
+          "odds": "-244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Perena FDV above $400M one day after launch?",
           "odds": "+733",
@@ -185,32 +209,8 @@
           "moved": "none"
         },
         {
-          "event": "MegaETH market cap (FDV) >$600M one day after launch?",
-          "odds": "-244",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Colorado Rapids SC vs. Houston Dynamo end in a draw?",
           "odds": "+257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Mexico City: Daniel Milavsky vs Juan Pablo Ficovich",
-          "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "LoL: Kaufland Hangry Knights vs Eintracht Frankfurt (BO1) - Prime League 1st Division Regular Season",
-          "odds": "+104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Bulls vs. Mavericks",
-          "odds": "+108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
