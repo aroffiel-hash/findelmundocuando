@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "07 de abril de 2026 — 04:29 UTC",
+  "lastUpdated": "07 de abril de 2026 — 06:16 UTC",
   "ticker": [
+    "Iran says US-Israeli projectile has struck a synagogue in Tehran",
+    "Trump’s threat to strike Iran’s power plants looms",
+    "‘Why would Iran agree to a ceasefire given US and Israeli track record?’",
     "Artemis II astronauts break record for farthest human travel from Earth",
     "‘They want to create a rift’: Israeli attacks deepen Lebanon fissures",
     "Vance heads to Budapest to shore up Orban’s support before Sunday vote",
@@ -12,10 +15,7 @@
     "Russia jails former Kursk governor in Ukraine incursion-linked graft probe",
     "Israeli air strike kills at least 10 Palestinians near Gaza school",
     "US Supreme Court clears path for Steve Bannon criminal case dismissal",
-    "Lebanon’s Hezbollah and Yemen’s Houthis join Iran in strike on Israel",
-    "Trump claims Iranians begging US to keep bombing Iran",
-    "Video: Trump threatens to jail reporter over Iran airman rescue leak",
-    "Renewed Israeli strikes pound Lebanon as ground offensive deepens"
+    "Lebanon’s Hezbollah and Yemen’s Houthis join Iran in strike on Israel"
   ],
   "sections": [
     {
@@ -23,20 +23,14 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "US military draft authorized in 2026?",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "US-Iran nuclear deal by June 30?",
-          "odds": "+284",
+          "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Israel conduct military action in Greater Beirut on April 7, 2026?",
-          "odds": "-284",
+          "odds": "-222",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -48,7 +42,7 @@
         },
         {
           "event": "CDC issues Level 3 warning by December 31?",
-          "odds": "-108",
+          "odds": "-170",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -63,6 +57,12 @@
           "odds": "-488",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Rainbow Six Siege: Unreal Nightmare vs HL tauri Esports - Game 2 Winner",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -71,20 +71,14 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $120 in April?",
-          "odds": "-455",
+          "event": "Will Natural Gas (NG) hit (LOW) $2.00 in April?",
+          "odds": "+2172",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Crude Oil (CL) hit (HIGH) $150 by end of June?",
-          "odds": "+270",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Natural Gas (NG) hit (LOW) $2.00 in April?",
-          "odds": "+2172",
+          "odds": "+257",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -125,14 +119,14 @@
           "moved": "none"
         },
         {
-          "event": "Will the Pirate Party of Slovenia (PPS) be part of the next Government of Slovenia?",
-          "odds": "+2400",
+          "event": "Will voter turnout be 74–77% in the 2026 Hungarian parliamentary election?",
+          "odds": "+257",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will voter turnout be 74–77% in the 2026 Hungarian parliamentary election?",
-          "odds": "+257",
+          "event": "Will the Pirate Party of Slovenia (PPS) be part of the next Government of Slovenia?",
+          "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -167,6 +161,12 @@
           "moved": "none"
         },
         {
+          "event": "Will the highest temperature in Busan be 18°C on April 8?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Gemini 3.5 released by April 30?",
           "odds": "+1328",
           "params": "Fuente: Polymarket",
@@ -174,7 +174,7 @@
         },
         {
           "event": "Will Axiom launch a token by December 31, 2026?",
-          "odds": "+156",
+          "odds": "+122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -185,26 +185,20 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Atlanta be between 64-65°F on April 8?",
-          "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Denver be between 68-69°F on April 7?",
-          "odds": "+257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Rippling IPO before 2027?",
           "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Yu Deng win the 2026 Fields Medal?",
-          "odds": "+149",
+          "event": "Will Tesla (TSLA) finish week of April 6 above $360?",
+          "odds": "+257",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Amsterdam be 20°C or higher on April 9?",
+          "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
