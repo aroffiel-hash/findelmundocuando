@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "08 de abril de 2026 — 13:08 UTC",
+  "lastUpdated": "08 de abril de 2026 — 15:04 UTC",
   "ticker": [
+    "Lavan refinery blaze continues hours after US-Iran ceasefire agreement",
+    "Israeli closure of Al-Aqsa ‘selective’, ‘discriminatory’",
+    "‘Stone Age’ to ‘Golden Age’: How the final hours before the truce unfolded",
+    "Scenes of chaos, destruction as Israel bombards Lebanon",
+    "Defeat from the jaws of victory: Israel reacts to Trump’s Iran ceasefire",
+    "Escaped prisoner hides on shopping centre roof in Namibia",
     "World Athletics postpones Doha Diamond League amid US-Israel war on Iran",
     "Mumbai’s historic dock quietens as fuel crisis chokes fishing trade",
     "US ‘third-country’ deportees deal sparks backlash in DRC",
-    "UAE, Kuwait, Bahrain report attacks despite Iran-US ceasefire",
+    "Saudi Arabia, UAE, Kuwait, Bahrain report attacks after Iran-US ceasefire",
     "‘We’re new miyas’: Will BJP naming some Assamese Muslims ‘Indigenous’ work?",
     "China probes ‘malicious’ cyberbullying of teen diving champion Quan",
     "Meloni’s Trump trouble: Why Italian PM is distancing herself from US leader",
     "Lebanon excluded from ceasefire as Israeli strikes continue",
-    "US-Iran ceasefire deal: What are the terms, and what’s next?",
-    "GCC, other Middle East nations react to Iran-US ceasefire announcement",
-    "Romanian football great Mircea Lucescu dies aged 80",
-    "Tehran celebrates as Iran, US agree to two-week ceasefire",
-    "‘Our geography is our oil’: Why Djibouti hosts many foreign military bases",
-    "On rare China visit, Taiwan’s opposition leader calls for reconciliation",
-    "Yemen’s teachers pushed to the brink as salaries collapse"
+    "US-Iran ceasefire deal: What are the terms, and what’s next?"
   ],
   "sections": [
     {
@@ -23,14 +23,14 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Israel take military action in Gaza on April 8, 2026?",
-          "odds": "-244",
+          "event": "Israel military action against Iranian Power Plant by April 30?",
+          "odds": "+170",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "US announces military support of Kurds in Iran by April 30?",
-          "odds": "+1566",
+          "odds": "+1104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -41,26 +41,26 @@
           "moved": "none"
         },
         {
-          "event": "Will Ukraine be in the top 10 at Eurovision 2026?",
-          "odds": "-334",
+          "event": "Will Iran strike Khurais Field by April 30?",
+          "odds": "+108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the United Kingdom send warships through the Strait of Hormuz by April 30, 2026?",
-          "odds": "+809",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Ukraine be in the top 10 at Eurovision 2026?",
+          "odds": "-300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the U.S. test a nuclear weapon by June 30 2026?",
           "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Israel x Turkey military clash before 2027?",
-          "odds": "+525",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -71,32 +71,14 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will the S&P 500 (SPX) open at 6900–7000 on April 8?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-          "odds": "-400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will S&P 500 (SPX) hit $6,300 (LOW) in June?",
-          "odds": "+143",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Aaron Taylor-Johnson announced as next James Bond?",
-          "odds": "+3233",
+          "odds": "+104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?",
-          "odds": "+1011",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -111,6 +93,24 @@
           "odds": "+132",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Roger Federer play at Wimbledon?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Crude Oil (CL) settle at $77-$84 in June?",
+          "odds": "+222",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will UK GDP growth in Q1 2026 be between 0% and 0.3%?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -119,8 +119,20 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
+          "event": "Will Jorge Nieto win the 2026 Peruvian presidential election?",
+          "odds": "+2757",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Tisza win 130+ seats in the Hungarian National Assembly in this election?",
+          "odds": "+212",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will JD Vance win the 2028 US Presidential Election?",
-          "odds": "+440",
+          "odds": "+437",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -147,18 +159,6 @@
           "odds": "+2757",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Milei out as President of Argentina before 2027?",
-          "odds": "+1462",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Phil Weiser win the 2026 Colorado Governor Democratic primary election?",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -167,14 +167,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the ECB announce no change at the April 2026 meeting?",
-          "odds": "-624",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will The Weeknd have the second-greatest number of monthly Spotify listeners this month?",
-          "odds": "-2399",
+          "event": "Will the highest temperature in Miami be between 78-79°F on April 8?",
+          "odds": "+143",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -185,14 +179,20 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Helsinki be 9°C on April 11?",
-          "odds": "+566",
+          "event": "Rippling IPO before 2027?",
+          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Rippling IPO before 2027?",
-          "odds": "+614",
+          "event": "Will the highest temperature in Chongqing be 29°C on April 9?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Helsinki be 9°C on April 11?",
+          "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -203,14 +203,14 @@
           "moved": "none"
         },
         {
-          "event": "Will NYC have less than 2 inches of precipitation in April?",
-          "odds": "+138",
+          "event": "Will Soldier Boy die in \"The Boys: Season 5\"?",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Fabiano Caruana vs. Anish Giri end in a draw?",
-          "odds": "-149",
+          "event": "Will NYC have less than 2 inches of precipitation in April?",
+          "odds": "+138",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
