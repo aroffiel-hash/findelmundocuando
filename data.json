@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "08 de abril de 2026 — 08:09 UTC",
+  "lastUpdated": "08 de abril de 2026 — 10:02 UTC",
   "ticker": [
+    "Lebanon excluded from ceasefire as Israeli strikes continue",
+    "US-Iran ceasefire deal: What are the terms, and what’s next?",
+    "GCC, other Middle East nations react to Iran-US ceasefire announcement",
+    "Romanian football great Mircea Lucescu dies aged 80",
+    "Tehran celebrates as Iran, US agree to two-week ceasefire",
+    "‘Our geography is our oil’: Why Djibouti hosts many foreign military bases",
+    "On rare China visit, Taiwan’s opposition leader calls for reconciliation",
     "Yemen’s teachers pushed to the brink as salaries collapse",
-    "Iran war: What is happening on day 40 of US-Israeli attacks?",
-    "Iran war live: Trump announces truce, Tehran agrees safe transit in Hormuz",
+    "US-Israeli war on Iran: What is happening on day 40?",
+    "Iran war live: Trump declares ceasefire, Tehran agrees safe Hormuz transit",
     "‘Fearless’ teen sensation Sooryavanshi aces Bumrah test in IPL blitz",
     "In Strait of Hormuz, Iran and China take aim at US dollar hegemony",
     "US ceasefire allows negotiations on Iran’s ‘workable’ 10-point plan",
     "US politicians react to Trump’s Iran ceasefire with caution, relief",
-    "Iranians commemorate victims of Minab school strike",
-    "World welcomes US-Iran ceasefire, urges lasting peace in the Middle East",
-    "Netanyahu says US-Iran ceasefire ‘does not include Lebanon’",
-    "Is Arteta’s intensity Arsenal’s Premier and Champions League hope, or fear?",
-    "Iraqis celebrates US-Iran ceasefire as two-week halt in war begins",
-    "Climate activist Greta Thunberg slams Trump’s threats against Iran",
-    "Trump administration reaffirms plans to deport Abrego Garcia to Liberia",
-    "Oil prices slide, stocks surge as Trump announces two-week Iran ceasefire"
+    "Iranians commemorate victims of Minab school strike"
   ],
   "sections": [
     {
@@ -23,20 +23,26 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
+          "event": "Will Israel take military action in Lebanon on April 9, 2026?",
+          "odds": "-400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Iran agrees to surrender enriched uranium stockpile by April 30, 2026?",
+          "odds": "+373",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the People Power Party win 5 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
           "odds": "+792",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Warsaw be 7°C on April 9?",
-          "odds": "+156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "US announces military support of Kurds in Iran by April 30?",
-          "odds": "+2172",
+          "odds": "+2225",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -47,20 +53,14 @@
           "moved": "none"
         },
         {
+          "event": "Will the U.S. test a nuclear weapon by June 30 2026?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Israel x Turkey military clash before 2027?",
           "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Iran agrees to surrender enriched uranium stockpile by April 30, 2026?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Reza Pahlavi lead Iran in 2026?",
-          "odds": "+986",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -72,25 +72,25 @@
       "rows": [
         {
           "event": "Will Natural Gas (NG) hit (LOW) $2.00 in April?",
-          "odds": "+2172",
+          "odds": "+2280",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+          "odds": "-400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will S&P 500 (SPX) hit $6,300 (LOW) in June?",
+          "odds": "+100",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Aaron Taylor-Johnson announced as next James Bond?",
           "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Oilers vs. Sharks: O/U 6.5",
-          "odds": "-112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-          "odds": "-376",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -125,12 +125,6 @@
           "moved": "none"
         },
         {
-          "event": "Will the Democrats win the Kentucky Senate race in 2026?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Dathan Jones be the Republican nominee for Senate in Colorado?",
           "odds": "+900",
           "params": "Fuente: Polymarket",
@@ -144,19 +138,25 @@
         },
         {
           "event": "Will JD Vance win the 2028 US Presidential Election?",
-          "odds": "+443",
+          "odds": "+446",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will another outcome occur in the 2026 Hungarian Parliamentary election?",
-          "odds": "+400",
+          "event": "Will Jorge Nieto win the 2026 Peruvian presidential election?",
+          "odds": "+2930",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Republicans win the Mississippi Senate race in 2026?",
           "odds": "-1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will John Cornyn win the Texas Republican Senate Primary runoff by 9% or more?",
+          "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,8 +167,32 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Zhang Youxia sentenced to prison before 2027?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Wuning: Li Tu vs Alastair Gray",
+          "odds": "-108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Eddie Nketiah: Anytime Goalscorer",
           "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Lucknow be 30°C or below on April 10?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Helsinki be 9°C on April 11?",
+          "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -179,38 +203,14 @@
           "moved": "none"
         },
         {
-          "event": "Perena FDV above $400M one day after launch?",
-          "odds": "+733",
+          "event": "Indian Premier League: Rajasthan Royals vs Royal Challengers Bangalore",
+          "odds": "+117",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Trump say \"Pakistan\" or \"Pakistani\" during events with Rutte?",
-          "odds": "-270",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will SpaceX's market cap be between $1.4T and $1.6T at market close on IPO day?",
-          "odds": "+1269",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
-          "odds": "+1786",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Zhang Youxia sentenced to prison before 2027?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Atlanta be between 76-77°F on April 9?",
-          "odds": "+2400",
+          "event": "Will Falcons win IEM Rio 2026?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
