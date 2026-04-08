@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "08 de abril de 2026 — 19:55 UTC",
+  "lastUpdated": "08 de abril de 2026 — 20:37 UTC",
   "ticker": [
+    "NASA releases picture of ‘Earthset’ shot by Artemis crew",
+    "World reacts to ‘brutal’ Israeli attacks on Lebanon amid US-Iran ceasefire",
     "Iranians breathe a ‘ceasefire’ sigh of relief as all sides claim victory",
     "White House says Trump’s ‘red line’ against Iran nuclear enrichment remains",
     "JD Vance slams Zelenskyy comments on Orban ahead of Hungary election",
@@ -13,9 +15,7 @@
     "Trump claims victory in Iran — but is this really a win?",
     "Israeli attack kills Al Jazeera journalist Mohammed Wishah in Gaza",
     "Lebanon PM welcomes US-Iran ceasefire as Israeli strikes hit Beirut",
-    "Nobel Prize Committee condemns Russian move to criminalise rights group",
-    "LIVE: Barcelona vs Atletico Madrid – Champions League quarterfinal",
-    "How Pakistan managed to get the US and Iran to a ceasefire"
+    "Nobel Prize Committee condemns Russian move to criminalise rights group"
   ],
   "sections": [
     {
@@ -23,8 +23,8 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Trump announces US x Iran ceasefire end by April 15, 2026?",
-          "odds": "+163",
+          "event": "US announces military support of Kurds in Iran by April 30?",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -35,14 +35,8 @@
           "moved": "none"
         },
         {
-          "event": "US announces military support of Kurds in Iran by April 30?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Russia x Ukraine ceasefire by May 31, 2026?",
-          "odds": "+1940",
+          "odds": "+1823",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -59,8 +53,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Iran take military action against a Gulf State on March 31, 2026?",
-          "odds": "+400",
+          "event": "Will the highest temperature in Warsaw be 13°C on April 10?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Ukraine be in the top 10 at Eurovision 2026?",
+          "odds": "-334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -84,7 +84,13 @@
         },
         {
           "event": "Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?",
-          "odds": "+1150",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "S&P 500 (SPX) Up or Down on April 9?",
+          "odds": "-203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -105,12 +111,6 @@
           "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will Roger Federer play at Wimbledon?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -120,7 +120,7 @@
       "rows": [
         {
           "event": "Will JD Vance win the 2028 US Presidential Election?",
-          "odds": "+431",
+          "odds": "+434",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -132,12 +132,6 @@
         },
         {
           "event": "Will John Cornyn win the Texas Republican Senate Primary runoff by 9% or more?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Phil Weiser win the 2026 Colorado Governor Democratic primary election?",
           "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
@@ -159,6 +153,12 @@
           "odds": "+376",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?",
+          "odds": "+1119",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -173,26 +173,20 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Panama City be 32°C or higher on April 12?",
-          "odds": "-334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Rippling IPO before 2027?",
           "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will any AI model reach 1560 Coding Arena Score by June 30, 2026?",
-          "odds": "-400",
+          "event": "Tobey Maguire as Spider-Man?",
+          "odds": "-1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in San Francisco be between 70-71°F on April 9?",
-          "odds": "+3233",
+          "event": "Will the highest temperature in Busan be 18°C on April 10?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -209,8 +203,14 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Tokyo be 26°C or higher on April 11?",
-          "odds": "+244",
+          "event": "Will Novak Djokovic win the 2026 Men's French Open?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will SpaceX's market cap be between $1.4T and $1.6T at market close on IPO day?",
+          "odds": "+1269",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
