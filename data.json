@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "08 de abril de 2026 — 18:03 UTC",
+  "lastUpdated": "08 de abril de 2026 — 19:55 UTC",
   "ticker": [
+    "Iranians breathe a ‘ceasefire’ sigh of relief as all sides claim victory",
+    "White House says Trump’s ‘red line’ against Iran nuclear enrichment remains",
+    "JD Vance slams Zelenskyy comments on Orban ahead of Hungary election",
+    "Trump backs Israel, says Lebanon a ‘separate skirmish’ after ceasefire",
+    "How Trump’s promise to ‘wipe out’ Iran could backfire on US power",
+    "‘A lot of work to do’ to reopen Strait of Hormuz after US-Iran ceasefire",
+    "Ecuador recalls its ambassador from Colombia over Jorge Glas comments",
     "‘Why my child?’: Yemen’s Taiz mourns sniper’s killing of teen",
     "Civilians under fire by gangs in Gaza: What happened in Maghazi?",
     "Trump claims victory in Iran — but is this really a win?",
@@ -8,20 +15,19 @@
     "Lebanon PM welcomes US-Iran ceasefire as Israeli strikes hit Beirut",
     "Nobel Prize Committee condemns Russian move to criminalise rights group",
     "LIVE: Barcelona vs Atletico Madrid – Champions League quarterfinal",
-    "How Pakistan managed to get the US and Iran to a ceasefire",
-    "Hegseth: Iran ‘begged’ for ceasefire, claims ‘historic victory’",
-    "Trump says Lebanon not included in US-Iran ceasefire amid Israeli assault",
-    "Israel launches 100 air strikes in 10 minutes across Lebanon",
-    "Vance warns Iran ceasefire hinges on good faith talks",
-    "Iran, US both claim victory, but did they actually concede ground?",
-    "Hegseth touts US ‘victory’ over Iran as Tehran hails its own ‘historic’ win",
-    "Israel strikes central Beirut without warning"
+    "How Pakistan managed to get the US and Iran to a ceasefire"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Trump announces US x Iran ceasefire end by April 15, 2026?",
+          "odds": "+163",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Iran strike Khurais Field by April 30?",
           "odds": "+244",
@@ -35,8 +41,8 @@
           "moved": "none"
         },
         {
-          "event": "Military action against Iran ends by April 29, 2026?",
-          "odds": "-257",
+          "event": "Russia x Ukraine ceasefire by May 31, 2026?",
+          "odds": "+1940",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -47,20 +53,14 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Warsaw be 11°C on April 11?",
-          "odds": "+257",
+          "event": "Iran agrees to end enrichment of uranium by December 31?",
+          "odds": "+194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Ukraine be in the top 10 at Eurovision 2026?",
-          "odds": "-334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the U.S. test a nuclear weapon by June 30 2026?",
-          "odds": "+1899",
+          "event": "Will Iran take military action against a Gulf State on March 31, 2026?",
+          "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -71,20 +71,14 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will S&P 500 (SPX) hit $6,300 (LOW) in June?",
-          "odds": "+108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $125 Week of April 6 2026?",
-          "odds": "+3233",
+          "event": "Will gas hit (Low) $3.50 by April 30?",
+          "odds": "+747",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will 1 Fed rate cut happen in 2026?",
-          "odds": "+300",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -95,20 +89,26 @@
           "moved": "none"
         },
         {
+          "event": "Will S&P 500 (SPX) hit $7,050 (HIGH) in June?",
+          "odds": "+117",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Bank of England increases interest rates by 25 bps after June 2026 meeting?",
           "odds": "+132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Roger Federer play at Wimbledon?",
+          "event": "Will Japan GDP growth in Q1 2026 be between 0.0% and 0.2%?",
           "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Crude Oil (CL) settle at $77-$84 in June?",
-          "odds": "+222",
+          "event": "Will Roger Federer play at Wimbledon?",
+          "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -120,7 +120,7 @@
       "rows": [
         {
           "event": "Will JD Vance win the 2028 US Presidential Election?",
-          "odds": "+429",
+          "odds": "+431",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -167,14 +167,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the highest temperature in Shanghai be 21°C on April 11?",
-          "odds": "+566",
+          "event": "Eddie Nketiah: Anytime Goalscorer",
+          "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Eddie Nketiah: Anytime Goalscorer",
-          "odds": "+3233",
+          "event": "Will the highest temperature in Panama City be 32°C or higher on April 12?",
+          "odds": "-334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -185,32 +185,32 @@
           "moved": "none"
         },
         {
-          "event": "Will Novak Djokovic win the 2026 Men's French Open?",
+          "event": "Will any AI model reach 1560 Coding Arena Score by June 30, 2026?",
+          "odds": "-400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in San Francisco be between 70-71°F on April 9?",
           "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will SpaceX's market cap be between $1.4T and $1.6T at market close on IPO day?",
-          "odds": "+1269",
+          "event": "Will Jamshedpur FC win on 2026-04-09?",
+          "odds": "+203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
-          "odds": "+1786",
+          "event": "Will OpenAI have the #3 AI model at the end of April 2026 (Style Control On)?",
+          "odds": "+2602",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Robert MacIntyre finish in the Top 20 at the 2026 Augusta National Invitational?",
-          "odds": "+112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Athletics vs. New York Yankees",
-          "odds": "+170",
+          "event": "Will the highest temperature in Tokyo be 26°C or higher on April 11?",
+          "odds": "+244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
