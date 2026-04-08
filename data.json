@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "08 de abril de 2026 — 04:33 UTC",
+  "lastUpdated": "08 de abril de 2026 — 06:18 UTC",
   "ticker": [
+    "US ceasefire allows negotiations on Iran’s ‘workable’ 10-point plan",
+    "US politicians react to Trump’s Iran ceasefire with caution, relief",
+    "Iranians commemorate victims of Minab school strike",
+    "World welcomes US-Iran ceasefire, urges lasting peace in the Middle East",
     "Netanyahu says US-Iran ceasefire ‘does not include Lebanon’",
     "Is Arteta’s intensity Arsenal’s Premier and Champions League hope, or fear?",
     "Iraqis celebrates US-Iran ceasefire as two-week halt in war begins",
@@ -11,11 +15,7 @@
     "Iran agrees to open Strait of Hormuz for two-week US ceasefire",
     "White House confirms two-week suspension of strikes on Iran",
     "Trump agrees to pause attacks on Iran if Strait of Hormuz opens",
-    "Billionaire investor Ackman makes $64bn bid for Universal Music Group",
-    "Trump announces two-week ceasefire as Iran agrees to reopen Hormuz Strait",
-    "What we know about Pakistan’s proposed Iran war pause",
-    "Iranian musician stages protest at power station over Trump threats",
-    "Arsenal beat Sporting with late Havertz goal in Champions League quarters"
+    "Billionaire investor Ackman makes $64bn bid for Universal Music Group"
   ],
   "sections": [
     {
@@ -23,32 +23,14 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "CDC issues Level 3 warning by December 31?",
-          "odds": "-108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the People Power Party win 5 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
           "odds": "+792",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Military action against Iran ends on April 12, 2026?",
-          "odds": "+1487",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Leavitt say \"Ukraine\" during the next White House press briefing?",
-          "odds": "-132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "US announces military support of Kurds in Iran by April 30?",
-          "odds": "+1392",
+          "odds": "+2073",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -61,6 +43,24 @@
         {
           "event": "Israel x Turkey military clash before 2027?",
           "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Reza Pahlavi lead Iran in 2026?",
+          "odds": "+975",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the May decision?",
+          "odds": "-1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the People Power Party win 2 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
+          "odds": "+222",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -77,8 +77,8 @@
           "moved": "none"
         },
         {
-          "event": "Will gas hit (High) $4.25 by April 30?",
-          "odds": "+100",
+          "event": "Aaron Taylor-Johnson announced as next James Bond?",
+          "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -89,14 +89,14 @@
           "moved": "none"
         },
         {
-          "event": "Bank of England increases interest rates by 25 bps after June 2026 meeting?",
-          "odds": "+132",
+          "event": "Will 1 Fed rate cut happen in 2026?",
+          "odds": "+270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will 1 Fed rate cut happen in 2026?",
-          "odds": "+300",
+          "event": "Bank of England increases interest rates by 25 bps after June 2026 meeting?",
+          "odds": "+132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -125,20 +125,14 @@
           "moved": "none"
         },
         {
+          "event": "Will the Democrats win the Kentucky Senate race in 2026?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Dathan Jones be the Republican nominee for Senate in Colorado?",
           "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will JD Vance win the 2028 US Presidential Election?",
-          "odds": "+449",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republicans win the Mississippi Senate race in 2026?",
-          "odds": "-566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -149,14 +143,20 @@
           "moved": "none"
         },
         {
-          "event": "Will Pete Buttigieg win the 2028 Democratic presidential nomination?",
-          "odds": "+2677",
+          "event": "Will JD Vance win the 2028 US Presidential Election?",
+          "odds": "+440",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Milei out as President of Argentina before 2027?",
-          "odds": "+1462",
+          "event": "Will the Republicans win the Mississippi Senate race in 2026?",
+          "odds": "-1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Pete Buttigieg win the 2028 Democratic presidential nomination?",
+          "odds": "+2677",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,20 +167,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Set Handicap: Etcheverry (-1.5) vs Atmane (+1.5)",
+          "odds": "+108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Colorado Rapids SC vs. Houston Dynamo end in a draw?",
           "odds": "+257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Seoul be 10°C on April 10?",
-          "odds": "+1624",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Galatasaray SK win on 2026-04-08?",
-          "odds": "-112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -191,8 +185,20 @@
           "moved": "none"
         },
         {
-          "event": "Will global temperature increase by between 1.20ºC and 1.24ºC in April 2026?",
-          "odds": "+194",
+          "event": "Will the highest temperature in Lucknow be 31°C on April 9?",
+          "odds": "+300",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will FC Twente '65 win on 2026-04-10?",
+          "odds": "-455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Rippling IPO before 2027?",
+          "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -203,14 +209,8 @@
           "moved": "none"
         },
         {
-          "event": "Rippling IPO before 2027?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will SpaceX's market cap be between $1.4T and $1.6T at market close on IPO day?",
-          "odds": "+1269",
+          "event": "Will the highest temperature in Lucknow be 37°C on April 11?",
+          "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
