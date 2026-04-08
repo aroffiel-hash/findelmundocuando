@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "08 de abril de 2026 — 01:54 UTC",
+  "lastUpdated": "08 de abril de 2026 — 04:33 UTC",
   "ticker": [
+    "Netanyahu says US-Iran ceasefire ‘does not include Lebanon’",
+    "Is Arteta’s intensity Arsenal’s Premier and Champions League hope, or fear?",
+    "Iraqis celebrates US-Iran ceasefire as two-week halt in war begins",
+    "Climate activist Greta Thunberg slams Trump’s threats against Iran",
+    "Trump administration reaffirms plans to deport Abrego Garcia to Liberia",
     "Oil prices slide, stocks surge as Trump announces two-week Iran ceasefire",
     "Iran says talks with US will begin in Pakistan’s Islamabad on Friday",
     "Iran agrees to open Strait of Hormuz for two-week US ceasefire",
@@ -10,12 +15,7 @@
     "Trump announces two-week ceasefire as Iran agrees to reopen Hormuz Strait",
     "What we know about Pakistan’s proposed Iran war pause",
     "Iranian musician stages protest at power station over Trump threats",
-    "Arsenal beat Sporting with late Havertz goal in Champions League quarters",
-    "Djibouti and the Horn of Africa: new front in the war on Iran",
-    "Iran warns region and beyond as tension builds ahead of US ultimatum",
-    "Pakistan appeals to Trump to extend deadline, Iran to reopen Hormuz Strait",
-    "Kane leads Bayern to 2-1 win over Real Madrid in Champions League thriller",
-    "Protesters in Iraq swarm Kuwaiti consulate after deadly rocket attack"
+    "Arsenal beat Sporting with late Havertz goal in Champions League quarters"
   ],
   "sections": [
     {
@@ -24,19 +24,19 @@
       "rows": [
         {
           "event": "CDC issues Level 3 warning by December 31?",
-          "odds": "+163",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Iran withdraw from the NPT before 2027?",
-          "odds": "+354",
+          "odds": "-108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the People Power Party win 5 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
           "odds": "+792",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Military action against Iran ends on April 12, 2026?",
+          "odds": "+1487",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -48,19 +48,19 @@
         },
         {
           "event": "US announces military support of Kurds in Iran by April 30?",
-          "odds": "+2073",
+          "odds": "+1392",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Ukraine be in the top 10 at Eurovision 2026?",
-          "odds": "-354",
+          "odds": "-334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Israel x Turkey military clash before 2027?",
-          "odds": "+566",
+          "odds": "+525",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -71,44 +71,44 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will WTI Crude Oil (WTI) hit (LOW) $80 in April?",
-          "odds": "-138",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Natural Gas (NG) hit (LOW) $2.00 in April?",
           "odds": "+2172",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Crude Oil all time high by April 30?",
-          "odds": "+1566",
+          "event": "Will gas hit (High) $4.25 by April 30?",
+          "odds": "+100",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will gas hit (High) $4.25 by April 30?",
-          "odds": "+108",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Bank of England increases interest rates by 25 bps after June 2026 meeting?",
-          "odds": "-156",
+          "odds": "+132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will 1 Fed rate cut happen in 2026?",
-          "odds": "+270",
+          "odds": "+300",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Roger Federer play at Wimbledon?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will UK GDP growth in Q1 2026 be between 0% and 0.3%?",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -118,12 +118,6 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
-        {
-          "event": "Will Fidesz-KDNP win 70-84 seats in the Hungarian National Assembly in this election?",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Mike Collins be the Republican nominee for Senate in Georgia?",
           "odds": "-455",
@@ -138,7 +132,7 @@
         },
         {
           "event": "Will JD Vance win the 2028 US Presidential Election?",
-          "odds": "+443",
+          "odds": "+449",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -149,8 +143,14 @@
           "moved": "none"
         },
         {
+          "event": "Will Spencer Pratt win the 2026 Los Angeles mayoral election?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Pete Buttigieg win the 2028 Democratic presidential nomination?",
-          "odds": "+2602",
+          "odds": "+2677",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -173,8 +173,26 @@
           "moved": "none"
         },
         {
-          "event": "LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Rounds 1-2",
-          "odds": "+163",
+          "event": "Will the highest temperature in Seoul be 10°C on April 10?",
+          "odds": "+1624",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Galatasaray SK win on 2026-04-08?",
+          "odds": "-112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Queens Park Rangers FC win on 2026-04-11?",
+          "odds": "+143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will global temperature increase by between 1.20ºC and 1.24ºC in April 2026?",
+          "odds": "+194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -191,26 +209,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Queens Park Rangers FC win on 2026-04-11?",
-          "odds": "+143",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will SpaceX's market cap be between $1.4T and $1.6T at market close on IPO day?",
-          "odds": "+1718",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
-          "odds": "+1786",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will AA Estudiantes win on 2026-04-11?",
-          "odds": "+149",
+          "odds": "+1269",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
