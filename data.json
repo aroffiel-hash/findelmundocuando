@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "09 de abril de 2026 — 15:16 UTC",
+  "lastUpdated": "09 de abril de 2026 — 17:00 UTC",
   "ticker": [
+    "Humanitarian situation in Sudan at ‘catastrophic levels’, says NGO",
+    "What Happens Inside Israel’s Detention System",
+    "India’s Assam and Kerala states hold legislative assembly elections",
+    "Israel bombed Gaza on 36 of the past 40 days while the war raged in Iran",
+    "A record-breaking field: What to expect from Peru’s presidential election",
+    "Al Jazeera’s Mohammed Wishah, killed by Israeli strike, laid to rest",
+    "Can global supply chains recover from the Iran war?",
+    "Israeli attacks on Lebanon aimed to undermine ceasefire, critics say",
+    "Has Iran’s 10-point plan changed, as JD Vance claims?",
     "Brazil bowler Cardoso takes 9 Lesotho wickets in record-breaking T20 win",
     "Is the world economy heading towards stagflation?",
     "Israeli settlers storm Al-Aqsa Mosque compound after reopening",
     "What is Iran’s Strait of Hormuz protocol and will other nations accept it?",
     "The economic cost of US-Israel war on Iran",
-    "US-Iran talks in Pakistan: Who’s attending, what’s on the agenda?",
-    "Four die, dozens rescued in attempted Channel crossing from France to UK",
-    "Lebanon Latest: Israel kills hundreds in one day",
-    "Global energy crisis is ‘the mother of all crises’: Turkish energy minister",
-    "Fury vs Makhmudov: All you need to know about the heavyweight boxing bout",
-    "Bosnian ball boy who hid Donnarumma’s penalty shootout notes hailed as hero",
-    "Funeral held for Al Jazeera’s Wishah killed in Israeli strike in Gaza",
-    "Why Israel’s attacks on Lebanon could cripple US-Iran ceasefire",
-    "Argentina MPs approve bill allowing mining in glaciers",
-    "Trump’s administration trying to sell war ‘wins’ to a sceptical US public"
+    "US-Iran talks in Pakistan: Who’s attending, what’s on the agenda?"
   ],
   "sections": [
     {
@@ -23,8 +23,8 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Israel x Turkey military clash before 2027?",
-          "odds": "+488",
+          "event": "Will Kuwait strike Iran by April 30?",
+          "odds": "+3025",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -41,26 +41,26 @@
           "moved": "none"
         },
         {
-          "event": "Will Hezbollah conduct military action against Israel on April 10, 2026?",
-          "odds": "-614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Israel x Hezbollah ceasefire by June 30, 2026?",
-          "odds": "-165",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Warsaw be 9°C on April 11?",
-          "odds": "+1566",
+          "event": "Will Iran take military action against a Gulf State on April 9, 2026?",
+          "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the May decision?",
           "odds": "-669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will \"China\" be said during the next episode of the All-In Podcast?",
+          "odds": "-334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the People Power Party win 2 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
+          "odds": "+222",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -71,14 +71,14 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will gas hit (Low) $3.50 by April 30?",
-          "odds": "+747",
+          "event": "Will S&P 500 (SPX) hit $7,050 (HIGH) in June?",
+          "odds": "-132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will S&P 500 (SPX) hit $6,000 (LOW) in June?",
-          "odds": "+185",
+          "event": "Will gas hit (Low) $3.50 by April 30?",
+          "odds": "+747",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -101,14 +101,14 @@
           "moved": "none"
         },
         {
-          "event": "Will S&P 500 (SPX) hit $7,050 (HIGH) in June?",
-          "odds": "+163",
+          "event": "Will the Fed Pause–Pause–Pause in the next three decisions (Apr–Jun–Jul)?",
+          "odds": "-400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Crude Oil (CL) settle at $77-$84 in June?",
-          "odds": "+455",
+          "event": "Aaron Taylor-Johnson announced as next James Bond?",
+          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -125,20 +125,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Mark Rutte say \"The President\" during his speech on April 9?",
-          "odds": "-669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Alexis Hill win the 2026 Nevada Governor Democratic primary election?",
-          "odds": "+1328",
+          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Pete Buttigieg win the 2028 Democratic presidential nomination?",
-          "odds": "+2677",
+          "odds": "+2757",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -149,14 +143,20 @@
           "moved": "none"
         },
         {
-          "event": "Will Jernej Vrtovec be the next Prime Minister of Slovenia?",
-          "odds": "+2400",
+          "event": "Will Fidesz-KDNP win the national list vote in the 2026 Hungarian Parliamentary election by 0-3%?",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will John Coupar win the 2026 Vancouver mayoral election?",
           "odds": "+687",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Elon Musk Testify to Congress about Epstein?",
+          "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,26 +167,26 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the highest temperature in Chengdu be 25°C on April 10?",
-          "odds": "+222",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Tobey Maguire as Spider-Man?",
           "odds": "-1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Tesla (TSLA) close above $330 on April 10?",
-          "odds": "-455",
+          "event": "Will Novak Djokovic win the 2026 Men's French Open?",
+          "odds": "+2930",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Novak Djokovic win the 2026 Men's French Open?",
-          "odds": "+2930",
+          "event": "Will ACF Fiorentina win on 2026-04-09?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Seattle be between 62-63°F on April 11?",
+          "odds": "+2225",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -198,7 +198,7 @@
         },
         {
           "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
-          "odds": "+1751",
+          "odds": "+1415",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
