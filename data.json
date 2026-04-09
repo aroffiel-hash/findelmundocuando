@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "09 de abril de 2026 — 01:46 UTC",
+  "lastUpdated": "09 de abril de 2026 — 04:29 UTC",
   "ticker": [
+    "13-year-old girl captures terrifying moment Israel bombed Beirut",
+    "Turkish convoy condemns ‘lawless aggression’ of the US and Israel",
     "Protesters outside Israeli embassy in London condemn assault on Lebanon",
     "US VP JD Vance says Lebanon is not part of the US-Iran ceasefire",
     "Iran war live: Lebanon mourns as Israel raids shake Trump, Tehran ceasefire",
@@ -13,45 +15,13 @@
     "Macron welcomes US-Iran ceasefire and urges Lebanon’s inclusion",
     "Trump threatens 50% tariffs on countries that supply Iran with weapons",
     "Devastation in Beirut after Israeli strikes reduce homes to rubble",
-    "Atletico Madrid shock 10-man Barcelona 2-0 in Champions League quarterfinal",
-    "What to know about Israel’s strikes on Lebanon amid US-Iran ceasefire",
-    "Trump has found his Iran off-ramp – but at what cost?"
+    "Atletico Madrid shock 10-man Barcelona 2-0 in Champions League quarterfinal"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Iran agrees to end enrichment of uranium by December 31?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Rainbow Six Siege: Wildcard Gaming vs DarkZero Esports (BO1) - North America League Kickoff Group B",
-          "odds": "+138",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Russia x Ukraine ceasefire by May 31, 2026?",
-          "odds": "+1786",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Iran strike Khurais Field by April 30?",
-          "odds": "+244",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Hezbollah conduct military action against Israel on April 9, 2026?",
-          "odds": "-334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will the People Power Party win 5 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
           "odds": "+792",
@@ -60,7 +30,37 @@
         },
         {
           "event": "Israel x Turkey military clash before 2027?",
-          "odds": "+488",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Ukraine be in the top 10 at Eurovision 2026?",
+          "odds": "-334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Reza Pahlavi lead Iran in 2026?",
+          "odds": "+817",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Military action against Iran continues through April 30, 2026?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the U.S. test a nuclear weapon by June 30 2026?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "US x Iran permanent peace deal by April 30, 2026?",
+          "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -84,19 +84,19 @@
         },
         {
           "event": "Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?",
-          "odds": "+1150",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will S&P 500 (SPX) hit $7,050 (HIGH) in June?",
+          "odds": "+177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Crude Oil (CL) settle at $77-$84 in June?",
           "odds": "+455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will S&P 500 (SPX) hit $7,050 (HIGH) in June?",
-          "odds": "+117",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -120,7 +120,7 @@
       "rows": [
         {
           "event": "Will JD Vance win the 2028 US Presidential Election?",
-          "odds": "+434",
+          "odds": "+431",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -132,7 +132,13 @@
         },
         {
           "event": "Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?",
-          "odds": "+1090",
+          "odds": "+1049",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Yuri Fulmer win the 2026 Conservative Party of British Columbia leadership election?",
+          "odds": "+609",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -144,19 +150,13 @@
         },
         {
           "event": "Will Pete Buttigieg win the 2028 Democratic presidential nomination?",
-          "odds": "+2677",
+          "odds": "+2757",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Milei out as President of Argentina before 2027?",
           "odds": "+1462",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Tom Begich win the 2026 Alaska governor election?",
-          "odds": "+376",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -173,14 +173,26 @@
           "moved": "none"
         },
         {
+          "event": "Rippling IPO before 2027?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Tobey Maguire as Spider-Man?",
           "odds": "-1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Rippling IPO before 2027?",
-          "odds": "+614",
+          "event": "Will the highest temperature in Seoul be 16°C on April 12?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "LoL: Top Esports vs JD Gaming (BO3) - LPL Group Ascend",
+          "odds": "+138",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -191,26 +203,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Novak Djokovic win the 2026 Men's French Open?",
-          "odds": "+2930",
+          "event": "LoL: Dplus KIA vs Gen.G (BO3) - LCK Rounds 1-2",
+          "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the Bank of Mexico announce a decrease at the May meeting?",
-          "odds": "+300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Munich be 17°C on April 11?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Ankara be 7°C on April 10?",
-          "odds": "+244",
+          "event": "Will Meta (META) finish week of April 6 above $590?",
+          "odds": "-1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
