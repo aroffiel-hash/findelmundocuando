@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "09 de abril de 2026 — 04:29 UTC",
+  "lastUpdated": "09 de abril de 2026 — 06:17 UTC",
   "ticker": [
+    "For Gulf states, Hormuz uncertainty casts shadow over fragile US-Iran truce",
+    "Man rescued after two weeks trapped in collapsed Mexico mine",
+    "Trump slams NATO over Iran after meeting Rutte, renews Greenland threat",
     "13-year-old girl captures terrifying moment Israel bombed Beirut",
     "Turkish convoy condemns ‘lawless aggression’ of the US and Israel",
     "Protesters outside Israeli embassy in London condemn assault on Lebanon",
     "US VP JD Vance says Lebanon is not part of the US-Iran ceasefire",
-    "Iran war live: Lebanon mourns as Israel raids shake Trump, Tehran ceasefire",
+    "Iran war live: Trump threatens action if Tehran fails to comply with deal",
     "‘Israel must be restrained for US-Iran ceasefire to hold’",
     "Woman given 15 years for role supplying drugs linked to Matthew Perry death",
     "Americans question Trump’s instinct on Iran war",
     "JD Vance says Iran would be ‘dumb’ to let talks collapse over Lebanon",
     "Prosecutors move to subpoena Tiger Woods’ prescription drug records",
     "Trump administration signals it is mulling NATO withdrawal after Iran war",
-    "Macron welcomes US-Iran ceasefire and urges Lebanon’s inclusion",
-    "Trump threatens 50% tariffs on countries that supply Iran with weapons",
-    "Devastation in Beirut after Israeli strikes reduce homes to rubble",
-    "Atletico Madrid shock 10-man Barcelona 2-0 in Champions League quarterfinal"
+    "Macron welcomes US-Iran ceasefire and urges Lebanon’s inclusion"
   ],
   "sections": [
     {
@@ -23,8 +23,14 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will the People Power Party win 5 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
-          "odds": "+792",
+          "event": "Will Ukraine be in the top 10 at Eurovision 2026?",
+          "odds": "-354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "US x Iran permanent peace deal by May 31, 2026?",
+          "odds": "+177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -35,20 +41,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Ukraine be in the top 10 at Eurovision 2026?",
-          "odds": "-334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Reza Pahlavi lead Iran in 2026?",
           "odds": "+817",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Military action against Iran continues through April 30, 2026?",
-          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -59,8 +53,14 @@
           "moved": "none"
         },
         {
-          "event": "US x Iran permanent peace deal by April 30, 2026?",
-          "odds": "+400",
+          "event": "US announces military support of Iran opposition by April 30?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the May decision?",
+          "odds": "-1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -78,13 +78,13 @@
         },
         {
           "event": "Will 1 Fed rate cut happen in 2026?",
-          "odds": "+300",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?",
-          "odds": "+1011",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -125,14 +125,14 @@
           "moved": "none"
         },
         {
-          "event": "Will the Republicans win the Mississippi Senate race in 2026?",
-          "odds": "-1011",
+          "event": "Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?",
+          "odds": "+1090",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?",
-          "odds": "+1049",
+          "event": "Will the Republicans win the Mississippi Senate race in 2026?",
+          "odds": "-1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -155,8 +155,8 @@
           "moved": "none"
         },
         {
-          "event": "Milei out as President of Argentina before 2027?",
-          "odds": "+1462",
+          "event": "Will We Continue the Change – Democratic Bulgaria (PP–DB) finish third in the 2026 Bulgarian parliamentary election?",
+          "odds": "-316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -166,12 +166,6 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
-        {
-          "event": "Will the Republican Party win the ND-AL House seat?",
-          "odds": "-1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Rippling IPO before 2027?",
           "odds": "+614",
@@ -185,20 +179,8 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Seoul be 16°C on April 12?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "LoL: Top Esports vs JD Gaming (BO3) - LPL Group Ascend",
-          "odds": "+138",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Jamshedpur FC win on 2026-04-09?",
-          "odds": "+203",
+          "event": "Will the highest temperature in Tokyo be 24°C on April 11?",
+          "odds": "+334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -211,6 +193,24 @@
         {
           "event": "Will Meta (META) finish week of April 6 above $590?",
           "odds": "-1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Novak Djokovic win the 2026 Men's French Open?",
+          "odds": "+2930",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will FC Juárez vs. Club Tijuana end in a draw?",
+          "odds": "+270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
+          "odds": "+1786",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
