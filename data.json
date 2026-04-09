@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "09 de abril de 2026 — 18:55 UTC",
+  "lastUpdated": "09 de abril de 2026 — 20:01 UTC",
   "ticker": [
+    "US fertility rate drops to all-time low, continuing a two-decade decline",
+    "Why is Hezbollah a sticking point in the Iran ceasefire?",
+    "US led ‘historic’ foreign aid decline in 2025 amid Trump cuts: OECD",
+    "Scale of Beirut destruction revealed after wave of Israeli strikes",
+    "Iran says it ‘would be dumb’ for US to let Netanyahu kill diplomacy",
     "Iranians rally nationwide to honour late leader Ali Khamenei",
     "‘Not some piece of ice’: Greenland hits back at Trump insult",
     "UK says three Russian submarines tracked during ‘covert’ operation",
@@ -10,12 +15,7 @@
     "Sidon residents recall horror of Israeli strikes after Iran ceasefire",
     "Does a US-Iran ceasefire mean the end of the war?",
     "LA28 Olympics opens ticket sales globally after record local demand",
-    "IMF warns of looming inflation crisis on back of US-Israel war on Iran",
-    "Israel’s Netanyahu ready for talks with Lebanon ‘as soon as possible’",
-    "Humanitarian situation in Sudan at ‘catastrophic levels’, says NGO",
-    "What Happens Inside Israel’s Detention System",
-    "India’s Assam and Kerala states hold legislative assembly elections",
-    "Israel bombed Gaza on 36 of the past 40 days while the war raged in Iran"
+    "IMF warns of looming inflation crisis on back of US-Israel war on Iran"
   ],
   "sections": [
     {
@@ -23,14 +23,8 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Kuwait strike Iran by April 30?",
-          "odds": "+3025",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Iran take military action against a Gulf State on April 9, 2026?",
-          "odds": "+354",
+          "event": "Will Iran take military action against a Gulf State on April 10, 2026?",
+          "odds": "+203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -47,20 +41,26 @@
           "moved": "none"
         },
         {
-          "event": "LoL: LNG Esports vs EDward Gaming (BO3) - LPL Group Nirvana",
-          "odds": "-156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the May decision?",
           "odds": "-669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will \"China\" be said during the next episode of the All-In Podcast?",
-          "odds": "-334",
+          "event": "Will the People Power Party win 2 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
+          "odds": "+222",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Rainbow Six Siege: Unreal Nightmare vs HL tauri Esports - Game 2 Winner",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Justin Briner as Izuku Midoriya (My Hero Academia FINAL SEASON) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -70,6 +70,12 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
+        {
+          "event": "Will Natural Gas (NG) hit (HIGH) $3.40 in April?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will gas hit (Low) $3.50 by April 30?",
           "odds": "+747",
@@ -84,7 +90,7 @@
         },
         {
           "event": "Will 1 Fed rate cut happen in 2026?",
-          "odds": "+300",
+          "odds": "+316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -105,12 +111,6 @@
           "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will Crude Oil (CL) settle at $77-$84 in June?",
-          "odds": "+455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -119,14 +119,14 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Jason Perry win the 2026 London Borough of Croydon mayoral election?",
-          "odds": "+270",
+          "event": "Will Alexis Hill win the 2026 Nevada Governor Democratic primary election?",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Alexis Hill win the 2026 Nevada Governor Democratic primary election?",
-          "odds": "+1566",
+          "event": "Will turnout in the first round of the 2026 Peruvian presidential election be between 75% and 80%?",
+          "odds": "+244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -144,7 +144,7 @@
         },
         {
           "event": "Will Tom Begich win the 2026 Alaska governor election?",
-          "odds": "+354",
+          "odds": "+376",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -167,14 +167,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Tesla (TSLA) close above $350 on April 9?",
-          "odds": "+415",
+          "event": "Tobey Maguire as Spider-Man?",
+          "odds": "-1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Tobey Maguire as Spider-Man?",
-          "odds": "-1150",
+          "event": "Will Novak Djokovic win the 2026 Men's French Open?",
+          "odds": "+3025",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -185,14 +185,20 @@
           "moved": "none"
         },
         {
-          "event": "Will MrBeast's latest video get between 72 and 73 million views on day 6?",
-          "odds": "+2400",
+          "event": "Game Handicap: T1 (-1.5) vs DN SOOPers (+1.5)",
+          "odds": "-122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Novak Djokovic win the 2026 Men's French Open?",
-          "odds": "+3025",
+          "event": "Will the highest temperature in Lucknow be 33°C on April 10?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Sarasota: Garrett Johns vs Daniel Dutra da Silva",
+          "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -205,12 +211,6 @@
         {
           "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
           "odds": "+1415",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republicans win the Pennsylvania governor race in 2026?",
-          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
