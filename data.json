@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "10 de abril de 2026 — 21:31 UTC",
+  "lastUpdated": "10 de abril de 2026 — 22:31 UTC",
   "ticker": [
+    "Iranian delegation arrives in Islamabad for talks with US",
+    "Islamabad on lockdown ahead of US-Iran talks",
+    "Real Madrid hand Barcelona huge La Liga title chance after draw with Girona",
+    "Muslims hold first Friday prayers at Al-Aqsa Mosque after reopening",
     "Why is Hungary’s election so important on the international stage?",
     "NASA’s Artemis II prepares for splashdown on Earth",
     "Democrat Kamala Harris teases 2028 presidential bid, following Trump loss",
@@ -11,11 +15,7 @@
     "New tensions emerge before US-Iran war ceasefire talks in Pakistan",
     "UK police arrest man after four die during Channel crossing attempt",
     "Is the US-Iran ceasefire already doomed?",
-    "OIC condemns Israeli approval of 34 new West Bank settlements",
-    "US federal court hears new case against Trump tariffs",
-    "Hawaii’s Kilauea erupts, blasting lava sky-high",
-    "Starmer and Trump talked military options to reopen Strait of Hormuz",
-    "Israeli settlers turn Passover into celebration of ethnic cleansing"
+    "OIC condemns Israeli approval of 34 new West Bank settlements"
   ],
   "sections": [
     {
@@ -23,20 +23,8 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Russia capture all of Huliaipole by April 30?",
-          "odds": "-108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will USD reach 1.7M Iranian rials by April 30?",
           "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Internet Access restored in Iran by April 30, 2026?",
-          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -53,14 +41,26 @@
           "moved": "none"
         },
         {
-          "event": "Rainbow Six Siege: Five Fears vs 1 of 30 (BO1) - North America League Kickoff Group A",
-          "odds": "-163",
+          "event": "US x Iran permanent peace deal by April 30, 2026?",
+          "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "US x Iran permanent peace deal by April 30, 2026?",
-          "odds": "+244",
+          "event": "Will Iran strike Bahrain by April 30, 2026?",
+          "odds": "-132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Iran strike Turkey by April 30, 2026?",
+          "odds": "+3125",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Powell say \"War\" during April press conference?",
+          "odds": "+100",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -107,8 +107,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Trump post \"Pam\" or \"Bondi\" on Truth Social this week?",
-          "odds": "+166",
+          "event": "Will Natural Gas (NG) hit (HIGH) $3.50 Week of April 6 2026?",
+          "odds": "+100",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -125,8 +125,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Tisza win the national list vote in the 2026 Hungarian Parliamentary election by 12-15%?",
-          "odds": "+1566",
+          "event": "Will Trump’s approval rating fall to 37.5% in April?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -138,7 +138,7 @@
         },
         {
           "event": "Will Renovación Popular (RP) win the most seats in the 2026 Peruvian Chamber of Deputies election?",
-          "odds": "+1899",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -167,6 +167,12 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Will Tommy Fleetwood win the 2026 Masters tournament?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Club Olimpia vs. CA Barracas Central end in a draw?",
           "odds": "+354",
           "params": "Fuente: Polymarket",
@@ -191,26 +197,20 @@
           "moved": "none"
         },
         {
+          "event": "Will MrBeast's video get between 80 and 81 million views on week 1?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will \"Project Hail Mary\" 4th Weekend Box Office be greater than 22m?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
           "odds": "+1940",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will SpaceX's market cap be between $1.6T and $1.8T at market close on IPO day?",
-          "odds": "+541",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will there be between 10 and 20 average daily transits of the Strait of Hormuz on April 30?",
-          "odds": "+449",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party win the IL-01 House seat?",
-          "odds": "-1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
