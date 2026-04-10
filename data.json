@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "10 de abril de 2026 — 22:31 UTC",
+  "lastUpdated": "10 de abril de 2026 — 23:29 UTC",
   "ticker": [
+    "Hezbollah rocket attack damages 1,500-year-old Israeli church",
+    "OpenAI CEO Sam Altman’s home targeted in Molotov cocktail attack",
     "Iranian delegation arrives in Islamabad for talks with US",
     "Islamabad on lockdown ahead of US-Iran talks",
     "Real Madrid hand Barcelona huge La Liga title chance after draw with Girona",
@@ -13,15 +15,19 @@
     "Who are Peru’s presidential candidates?",
     "Can Iran negotiations lead to peace?",
     "New tensions emerge before US-Iran war ceasefire talks in Pakistan",
-    "UK police arrest man after four die during Channel crossing attempt",
-    "Is the US-Iran ceasefire already doomed?",
-    "OIC condemns Israeli approval of 34 new West Bank settlements"
+    "UK police arrest man after four die during Channel crossing attempt"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "US x Iran permanent peace deal by April 30, 2026?",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will USD reach 1.7M Iranian rials by April 30?",
           "odds": "+1150",
@@ -41,12 +47,6 @@
           "moved": "none"
         },
         {
-          "event": "US x Iran permanent peace deal by April 30, 2026?",
-          "odds": "+233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Iran strike Bahrain by April 30, 2026?",
           "odds": "-132",
           "params": "Fuente: Polymarket",
@@ -59,8 +59,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Powell say \"War\" during April press conference?",
-          "odds": "+100",
+          "event": "US x Iran permanent peace deal by May 31, 2026?",
+          "odds": "+143",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -83,12 +83,6 @@
           "moved": "none"
         },
         {
-          "event": "Brentford FC vs. Everton FC: O/U 2.5",
-          "odds": "+104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?",
           "odds": "+1011",
           "params": "Fuente: Polymarket",
@@ -101,14 +95,20 @@
           "moved": "none"
         },
         {
-          "event": "Aaron Taylor-Johnson announced as next James Bond?",
-          "odds": "+1718",
+          "event": "Will Natural Gas (NG) hit (HIGH) $3.50 Week of April 6 2026?",
+          "odds": "+100",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Natural Gas (NG) hit (HIGH) $3.50 Week of April 6 2026?",
-          "odds": "+100",
+          "event": "Bank of Japan increases interest rates by 25 bps after the April 2026 meeting?",
+          "odds": "-170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Brazil’s Q1 2026 GDP growth rate (YoY) be between 1.1% and 1.4%?",
+          "odds": "+257",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -132,7 +132,7 @@
         },
         {
           "event": "Will Tucker Carlson win the 2028 US Presidential Election?",
-          "odds": "+2531",
+          "odds": "+2677",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -167,14 +167,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Tommy Fleetwood win the 2026 Masters tournament?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Club Olimpia vs. CA Barracas Central end in a draw?",
-          "odds": "+354",
+          "event": "Will Wadi Degla SC win on 2026-04-13?",
+          "odds": "+149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -197,20 +191,26 @@
           "moved": "none"
         },
         {
-          "event": "Will MrBeast's video get between 80 and 81 million views on week 1?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will \"Project Hail Mary\" 4th Weekend Box Office be greater than 22m?",
           "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
+          "event": "Will Tisza win at least 130 seats?",
+          "odds": "+203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
           "odds": "+1940",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will there be between 10 and 20 average daily transits of the Strait of Hormuz on April 30?",
+          "odds": "+449",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
