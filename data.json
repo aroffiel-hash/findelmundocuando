@@ -1,8 +1,11 @@
 {
-  "lastUpdated": "11 de abril de 2026 — 01:48 UTC",
+  "lastUpdated": "11 de abril de 2026 — 04:15 UTC",
   "ticker": [
+    "Pakistan’s prime minister calls US-Iran talks ‘make or break’",
+    "Title: Artemis II astronauts journey back to Earth after Moon mission",
+    "Trump says Strait of Hormuz to reopen ‘soon’ as US, Iran head to talks",
     "Moment Artemis II splashes down after moon mission",
-    "Artemis II splashdown: Astronauts return to Earth after lunar mission",
+    "NASA’s Artemis II astronauts splash down on Earth after lunar mission",
     "Iran war live: US negotiators due to arrive in Pakistan for ceasefire talks",
     "Israeli strike on government building kills Lebanese officers",
     "Brazil announces US partnership to intercept weapons, drug trafficking",
@@ -12,10 +15,7 @@
     "Iranian delegation arrives in Islamabad for talks with US",
     "Islamabad on lockdown ahead of US-Iran talks",
     "Real Madrid hand Barcelona huge La Liga title chance after draw with Girona",
-    "Muslims hold first Friday prayers at Al-Aqsa Mosque after reopening",
-    "Why is Hungary’s election so important on the international stage?",
-    "NASA’s Artemis II prepares for splashdown on Earth",
-    "Democrat Kamala Harris teases 2028 presidential bid, following Trump loss"
+    "Muslims hold first Friday prayers at Al-Aqsa Mosque after reopening"
   ],
   "sections": [
     {
@@ -23,14 +23,14 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "US x Iran permanent peace deal by May 31, 2026?",
-          "odds": "+127",
+          "event": "Will USD reach 1.7M Iranian rials by April 30?",
+          "odds": "+809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will USD reach 1.7M Iranian rials by April 30?",
-          "odds": "+1150",
+          "event": "BV Borussia 09 Dortmund vs. Bayer 04 Leverkusen: O/U 3.5",
+          "odds": "+138",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -48,13 +48,13 @@
         },
         {
           "event": "Will Trump announce that the US x Iran ceasefire has been broken by April 14, 2026?",
-          "odds": "+614",
+          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Warsaw be 12°C on April 12?",
-          "odds": "+488",
+          "event": "Israel x Hezbollah ceasefire by April 15, 2026?",
+          "odds": "+316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -71,12 +71,6 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will two people dissent the April Fed decision?",
-          "odds": "+212",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will S&P 500 (SPX) hit $6,200 (LOW) in December?",
           "odds": "-274",
           "params": "Fuente: Polymarket",
@@ -84,7 +78,13 @@
         },
         {
           "event": "Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?",
-          "odds": "+1328",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Avispa Fukuoka vs. V-Varen Nagasaki end in a draw?",
+          "odds": "+212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -96,7 +96,7 @@
         },
         {
           "event": "Bank of Japan increases interest rates by 25 bps after the April 2026 meeting?",
-          "odds": "-163",
+          "odds": "-156",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -120,19 +120,13 @@
       "rows": [
         {
           "event": "Will Pete Buttigieg win the 2028 Democratic presidential nomination?",
-          "odds": "+2464",
+          "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Trump’s approval rating fall to 37.5% in April?",
           "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will William Azaroff win the 2026 Vancouver mayoral election?",
-          "odds": "+2602",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -144,7 +138,7 @@
         },
         {
           "event": "Will Tucker Carlson win the 2028 US Presidential Election?",
-          "odds": "+2602",
+          "odds": "+2757",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -159,6 +153,12 @@
           "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Elon Musk Testify to Congress about Epstein?",
+          "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -167,8 +167,20 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Reyer Venezia vs. Pallacanestro Brescia",
+          "odds": "-149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Wadi Degla SC win on 2026-04-13?",
           "odds": "+149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Cesena FC win on 2026-04-11?",
+          "odds": "+270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -185,32 +197,20 @@
           "moved": "none"
         },
         {
-          "event": "Open Capfinances Rouen Metropole, Qualification: Iryna Shymanovich vs Diana Martynov",
-          "odds": "-566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Zcash reach $600 by December 31, 2026?",
           "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will there be between 10 and 20 average daily transits of the Strait of Hormuz on April 30?",
-          "odds": "+455",
+          "event": "Will the highest temperature in Wuhan be 24°C on April 12?",
+          "odds": "+194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Beijing be 23°C or higher on April 13?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "ChatGPT Outage by April 10?",
-          "odds": "+733",
+          "event": "Will the highest temperature in Shenzhen be 28°C on April 13?",
+          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
