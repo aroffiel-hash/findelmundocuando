@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "11 de abril de 2026 — 21:27 UTC",
+  "lastUpdated": "11 de abril de 2026 — 22:25 UTC",
   "ticker": [
     "“Diplomacy is not an event, it’s a process, it takes time.”",
     "Pope Leo urges world leaders to reject war and negotiate peace",
@@ -35,12 +35,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Garrett Crochet win the 2026 AL Cy Young Award?",
-          "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Iran strike Turkey by April 30, 2026?",
           "odds": "+2841",
           "params": "Fuente: Polymarket",
@@ -63,6 +57,12 @@
           "odds": "-109",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will any country expel an Israeli ambassador by December 31?",
+          "odds": "+203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -72,7 +72,7 @@
       "rows": [
         {
           "event": "Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?",
-          "odds": "+1328",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -84,7 +84,13 @@
         },
         {
           "event": "Will WTI Crude Oil (WTI) hit (LOW) $90 in April?",
-          "odds": "-669",
+          "odds": "-614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Dow Jones (DJIA) Up or Down on April 13?",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -103,12 +109,6 @@
         {
           "event": "Will Germany GDP growth in Q1 2026 be less than or equal to 0.0%?",
           "odds": "+817",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Spread: Oilers (-1.5)",
-          "odds": "+525",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -173,12 +173,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Vegalta Sendai win on 2026-04-12?",
-          "odds": "+122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "T20 Series Afghanistan vs Sri Lanka: Afghanistan vs Sri Lanka - Team Top Batter Draw",
           "odds": "+1328",
           "params": "Fuente: Polymarket",
@@ -203,14 +197,20 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Istanbul be 12°C on April 12?",
-          "odds": "+163",
+          "event": "Will Gangwon FC win on 2026-04-12?",
+          "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Seoul be 17°C on April 12?",
-          "odds": "+354",
+          "event": "Will Gold (XAUUSD) hit (LOW) $4,200 in April?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will SpaceX's market cap be between $1.6T and $1.8T at market close on IPO day?",
+          "odds": "+594",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
