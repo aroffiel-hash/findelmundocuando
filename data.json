@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "11 de abril de 2026 — 07:51 UTC",
+  "lastUpdated": "11 de abril de 2026 — 08:36 UTC",
   "ticker": [
+    "Israel rejects ceasefire with Hezbollah ahead of Lebanon talks next week",
+    "Israeli drone attack kills Palestinians near Gaza mosque",
     "Video: Vance arrives in Pakistan for talks with Iran",
     "Artemis II marks historic lunar return with Pacific splashdown success",
     "Chelsea vs Manchester City: Premier League – team news, start, lineups",
@@ -13,21 +15,13 @@
     "Moment Artemis II splashes down after moon mission",
     "NASA’s Artemis II astronauts splash down on Earth after lunar mission",
     "Iran war live: Vance arrives in Pakistan to lead ceasefire talks",
-    "Israeli strike on government building kills Lebanese officers",
-    "Brazil announces US partnership to intercept weapons, drug trafficking",
-    "Colombia responds to Ecuador’s tariff hike with 100-percent import tax"
+    "Israeli strike on government building kills Lebanese officers"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Will Bernie or Mamdani say \"Iran\" during NYC rally?",
-          "odds": "-378",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will BV Borussia 09 Dortmund win on 2026-04-18?",
           "odds": "+132",
@@ -37,12 +31,6 @@
         {
           "event": "Will the People Power Party win 2 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
           "odds": "+257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "RB Leipzig vs. Borussia Mönchengladbach: Both Teams to Score",
-          "odds": "-156",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -60,7 +48,19 @@
         },
         {
           "event": "Will Israel conduct military action against Iran by April 14, 2026?",
-          "odds": "+614",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will a team from Ukraine be the 2026 Conference League winner?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Justin Briner as Izuku Midoriya (My Hero Academia FINAL SEASON) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -125,6 +125,12 @@
           "moved": "none"
         },
         {
+          "event": "Will Fuerza Popular (FP) win the most seats in the 2026 Peruvian Senate election?",
+          "odds": "-900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Trump’s approval rating fall to 37.5% in April?",
           "odds": "+1011",
           "params": "Fuente: Polymarket",
@@ -139,12 +145,6 @@
         {
           "event": "Will Tucker Carlson win the 2028 US Presidential Election?",
           "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Fuerza Popular (FP) win the most seats in the 2026 Peruvian Senate election?",
-          "odds": "-669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -203,8 +203,8 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Milan be 18°C on April 12?",
-          "odds": "+733",
+          "event": "Will the highest temperature in Milan be 22°C on April 12?",
+          "odds": "+3025",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
