@@ -1,6 +1,7 @@
 {
-  "lastUpdated": "11 de abril de 2026 — 05:56 UTC",
+  "lastUpdated": "11 de abril de 2026 — 06:58 UTC",
   "ticker": [
+    "Djibouti’s President Guelleh claims sixth straight term in office",
     "Iran war: What is happening on day 43 of the US-Iran conflict?",
     "Pakistan ambassador speaks to Al Jazeera on eve of US-Iran talks",
     "Pakistan’s prime minister calls US-Iran talks ‘make or break’",
@@ -14,8 +15,7 @@
     "Colombia responds to Ecuador’s tariff hike with 100-percent import tax",
     "Hezbollah rocket attack damages 1,500-year-old Israeli church",
     "OpenAI CEO Sam Altman’s home targeted in Molotov cocktail attack",
-    "Iranian delegation arrives in Islamabad for talks with US",
-    "Islamabad on lockdown ahead of US-Iran talks"
+    "Iranian delegation arrives in Islamabad for talks with US"
   ],
   "sections": [
     {
@@ -23,14 +23,8 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will USD reach 1.7M Iranian rials by April 30?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump announce that the US x Iran ceasefire has been broken by April 14, 2026?",
-          "odds": "+566",
+          "event": "Will Bernie or Mamdani say \"Iran\" during NYC rally?",
+          "odds": "-378",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -63,6 +57,12 @@
           "odds": "-733",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Israel conduct military action against Iran by April 14, 2026?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -90,7 +90,7 @@
         },
         {
           "event": "Bank of Japan increases interest rates by 25 bps after the April 2026 meeting?",
-          "odds": "-156",
+          "odds": "-177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -101,14 +101,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Brazil’s Q1 2026 GDP growth rate (YoY) be between 1.1% and 1.4%?",
-          "odds": "+257",
+          "event": "Will Avispa Fukuoka vs. V-Varen Nagasaki end in a draw?",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Crude Oil (CL) settle at $77-$84 in June?",
-          "odds": "+455",
+          "event": "Will Brazil’s Q1 2026 GDP growth rate (YoY) be between 1.1% and 1.4%?",
+          "odds": "+257",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -120,7 +120,7 @@
       "rows": [
         {
           "event": "Will Pete Buttigieg win the 2028 Democratic presidential nomination?",
-          "odds": "+2400",
+          "odds": "+2531",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -197,20 +197,20 @@
           "moved": "none"
         },
         {
+          "event": "Torino FC leading at halftime?",
+          "odds": "+170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Milan be 18°C on April 12?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Zcash reach $600 by December 31, 2026?",
           "odds": "+233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Hyperliquid reach $50 by December 31, 2026?",
-          "odds": "-244",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Monza: Raphael Collignon vs Martin Landaluce",
-          "odds": "-203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
