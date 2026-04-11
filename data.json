@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "11 de abril de 2026 — 14:31 UTC",
+  "lastUpdated": "11 de abril de 2026 — 15:27 UTC",
   "ticker": [
+    "Hungry Fury ‘light and lean’ for heavyweight comeback fight with Makhmudov",
+    "Christians return to Jerusalem’s Holy Sepulchre as Israel eases restriction",
+    "Police begin arrests at UK protest against Palestine Action ban",
+    "US-Iran ceasefire: Can pressure, incentives, and risks deliver a final deal",
+    "Lebanon mourns security forces killed in Israeli strike",
     "Arsenal shocked by Bournemouth, offering Man City Premier League lifeline",
     "US-Iran talks on ending war begin in Pakistan",
     "Al Jazeera’s Diplomatic Editor outlines key issues in US-Iran talks",
@@ -10,12 +15,7 @@
     "Hungary’s Viktor Orban struggling for political survival ahead of vote",
     "Artemis II crew seen on recovery ship after moon mission return",
     "We need a regional agreement for the Strait of Hormuz",
-    "Israel in row with South Korean leader over Palestinian abuse concerns",
-    "Video: ‘Crucial talks’ says Al Jazeera reporter at US-Iran meeting venue",
-    "NASA hails success of Artemis moon mission but says more work to do",
-    "UK to hold off on deal ceding Chagos Islands amid US opposition",
-    "What’s at stake in Benin’s presidential election?",
-    "At least seven Palestinians killed in Israeli attacks on Gaza"
+    "Israel in row with South Korean leader over Palestinian abuse concerns"
   ],
   "sections": [
     {
@@ -23,8 +23,8 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Rainbow Six Siege: Elevate vs Team Orchid - Game 2 Winner",
-          "odds": "+809",
+          "event": "Will the US x Iran ceasefire be extended by April 21, 2026?",
+          "odds": "-203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -71,12 +71,6 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will Brentford FC win on 2026-04-11?",
-          "odds": "+127",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will S&P 500 (SPX) hit $6,200 (LOW) in December?",
           "odds": "-233",
           "params": "Fuente: Polymarket",
@@ -85,6 +79,12 @@
         {
           "event": "Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?",
           "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Oilers vs. Kings",
+          "odds": "+108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -125,14 +125,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Hungarian Two-Tailed Dog Party (Magyar Kétfarkú Kutya Párt) (MKKP) win at least one seat in the next Hungarian parliamentary election?",
-          "odds": "+2602",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "2026 Balance of Power: R Senate, D House",
-          "odds": "+185",
+          "odds": "+177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -144,19 +138,25 @@
         },
         {
           "event": "Will Tucker Carlson win the 2028 US Presidential Election?",
-          "odds": "+3233",
+          "odds": "+3125",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Tisza win the national list vote in the 2026 Hungarian Parliamentary election by 6-9%?",
-          "odds": "+400",
+          "odds": "+354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Elon Musk Testify to Congress about Epstein?",
           "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will TISZA win 46-50% of the national list votes in the 2026 Hungarian Parliamentary election?",
+          "odds": "+244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -166,18 +166,6 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
-        {
-          "event": "Exact Score: FC St. Pauli 1910 0 - 3 FC Bayern München?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Cagliari Calcio vs. US Cremonese end in a draw?",
-          "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Wadi Degla SC win on 2026-04-13?",
           "odds": "+149",
@@ -209,8 +197,20 @@
           "moved": "none"
         },
         {
+          "event": "AHL: Rochester Americans vs. Providence Bruins",
+          "odds": "+143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Zcash reach $600 by December 31, 2026?",
           "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Another 7.0 or above earthquake by April 15, 2026?",
+          "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
