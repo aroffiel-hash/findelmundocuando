@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "11 de abril de 2026 — 12:43 UTC",
+  "lastUpdated": "11 de abril de 2026 — 13:51 UTC",
   "ticker": [
+    "Al Jazeera’s Diplomatic Editor outlines key issues in US-Iran talks",
+    "Libya approves first unified budget in more than a decade",
+    "Video: JD Vance meets with Pakistani PM ahead of Iran talks",
     "Makeshift Gaza university offers chance to resurrect academic studies",
     "Hungary’s Viktor Orban struggling for political survival ahead of vote",
     "Artemis II crew seen on recovery ship after moon mission return",
@@ -12,10 +15,7 @@
     "What’s at stake in Benin’s presidential election?",
     "At least seven Palestinians killed in Israeli attacks on Gaza",
     "Israel rejects ceasefire with Hezbollah before Lebanon talks next week",
-    "Israeli drone attack kills Palestinians near Gaza mosque",
-    "Video: Vance arrives in Pakistan for talks with Iran",
-    "Artemis II marks historic lunar return with Pacific splashdown success",
-    "Chelsea vs Manchester City: Premier League – team news, start, lineups"
+    "Israeli drone attack kills Palestinians near Gaza mosque"
   ],
   "sections": [
     {
@@ -36,13 +36,7 @@
         },
         {
           "event": "Will the People Power Party win 2 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
-          "odds": "+122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Trump announces US x Iran ceasefire end by April 21, 2026?",
-          "odds": "+257",
+          "odds": "+127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -59,6 +53,12 @@
           "moved": "none"
         },
         {
+          "event": "Will the Democratic Party of Korea win 10 or more seats in South Korea’s June 3, 2026 parliamentary by-elections?",
+          "odds": "-109",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will any country expel an Israeli ambassador by December 31?",
           "odds": "+212",
           "params": "Fuente: Polymarket",
@@ -70,12 +70,6 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
-        {
-          "event": "Will WTI Crude Oil (WTI) hit (LOW) $95 in April?",
-          "odds": "-900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will S&P 500 (SPX) hit $6,200 (LOW) in December?",
           "odds": "-233",
@@ -111,6 +105,12 @@
           "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "No change in Bank of England’s interest rates after April 2026 meeting?",
+          "odds": "-2073",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -118,12 +118,6 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
-        {
-          "event": "Will Renovación Popular (RP) win the most seats in the 2026 Peruvian Chamber of Deputies election?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Pete Buttigieg win the 2028 Democratic presidential nomination?",
           "odds": "+2464",
@@ -133,6 +127,12 @@
         {
           "event": "Will Hungarian Two-Tailed Dog Party (Magyar Kétfarkú Kutya Párt) (MKKP) win at least one seat in the next Hungarian parliamentary election?",
           "odds": "+2602",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "2026 Balance of Power: R Senate, D House",
+          "odds": "+177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -149,14 +149,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Elon Musk Testify to Congress about Epstein?",
-          "odds": "+400",
+          "event": "Will Tisza win the national list vote in the 2026 Hungarian Parliamentary election by 6-9%?",
+          "odds": "+334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will TISZA win 46-50% of the national list votes in the 2026 Hungarian Parliamentary election?",
-          "odds": "+244",
+          "event": "Will Elon Musk Testify to Congress about Epstein?",
+          "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
