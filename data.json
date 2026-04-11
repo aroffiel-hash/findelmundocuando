@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "11 de abril de 2026 — 19:30 UTC",
+  "lastUpdated": "11 de abril de 2026 — 20:25 UTC",
   "ticker": [
+    "Families gather to mourn victims of deadly shooting in Afghanistan",
+    "Iran’s deputy FM says Tehran has ‘upper hand’ in talks with US",
+    "US says two naval ships ‘transited’ Strait of Hormuz for mine-clearing",
+    "Pakistan sends fighter jets to Saudi Arabia amid fragile US-Iran ceasefire",
     "Barcelona move 9 clear of Real Madrid with derby win as La Liga title nears",
     "US appeals court extends deadline to halt White House ballroom construction",
     "Israeli settlers kill Palestinian during raid on occupied West Bank village",
@@ -11,11 +15,7 @@
     "Ceasefire brings some relief for Iranians but economic outlook remains grim",
     "Iraq parliament elects Kurdish politician Nizar Amedi as president",
     "Strait of Hormuz leverage looms over US-Iran talks in Islamabad",
-    "Russia-Ukraine Orthodox Easter ceasefire begins",
-    "Machete-wielding man killed by police in New York’s Grand Central station",
-    "Peru holds presidential election amid a decade of political tumult",
-    "Hungry Fury ‘light and lean’ for heavyweight comeback fight with Makhmudov",
-    "Christians return to Jerusalem’s Holy Sepulchre as Israel eases restriction"
+    "Russia-Ukraine Orthodox Easter ceasefire begins"
   ],
   "sections": [
     {
@@ -25,12 +25,6 @@
         {
           "event": "Will BV Borussia 09 Dortmund win on 2026-04-18?",
           "odds": "+138",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Senators vs. Islanders: O/U 7.5",
-          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -63,6 +57,12 @@
           "odds": "+2841",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Russia rejoin the G7 before 2027?",
+          "odds": "+1269",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -71,14 +71,20 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
+          "event": "Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will S&P 500 (SPX) hit $6,200 (LOW) in December?",
           "odds": "-233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?",
-          "odds": "+1566",
+          "event": "Will WTI Crude Oil (WTI) hit (LOW) $90 in April?",
+          "odds": "-669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -91,12 +97,6 @@
         {
           "event": "Spread: V-Varen Nagasaki (-2.5)",
           "odds": "-244",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will WTI Crude Oil (WTI) hit (LOW) $90 in April?",
-          "odds": "-669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -126,19 +126,13 @@
         },
         {
           "event": "2026 Balance of Power: R Senate, D House",
-          "odds": "+177",
+          "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Tucker Carlson win the 2028 US Presidential Election?",
           "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will TISZA win 46-50% of the national list votes in the 2026 Hungarian Parliamentary election?",
-          "odds": "+257",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -159,6 +153,12 @@
           "odds": "+687",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Chris Dudley win the 2026 Oregon Governor Republican primary election?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -169,6 +169,12 @@
         {
           "event": "Will Wadi Degla SC win on 2026-04-13?",
           "odds": "+149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Shane Lowry finish in the Top 5 at the 2026 Augusta National Invitational?",
+          "odds": "+170",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -191,6 +197,12 @@
           "moved": "none"
         },
         {
+          "event": "Will \"Jiggle Peek\" be said during the PGL Bucharest 2026 Grand Final?",
+          "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Zcash reach $600 by December 31, 2026?",
           "odds": "+233",
           "params": "Fuente: Polymarket",
@@ -199,18 +211,6 @@
         {
           "event": "Will the highest temperature in Taipei be 33°C on April 13?",
           "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Madison Cawthorn be the Republican nominee for FL-19?",
-          "odds": "+635",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "USD.AI FDV above $250M one day after launch?",
-          "odds": "+112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
