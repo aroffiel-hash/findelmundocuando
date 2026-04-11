@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "11 de abril de 2026 — 20:25 UTC",
+  "lastUpdated": "11 de abril de 2026 — 21:27 UTC",
   "ticker": [
+    "“Diplomacy is not an event, it’s a process, it takes time.”",
+    "Pope Leo urges world leaders to reject war and negotiate peace",
+    "Iraqi parliament elects new president",
+    "Has Israeli society become conditioned to permanent war?",
+    "Israeli strikes kill at least 18 people across southern Lebanon",
     "Families gather to mourn victims of deadly shooting in Afghanistan",
     "Iran’s deputy FM says Tehran has ‘upper hand’ in talks with US",
     "US says two naval ships ‘transited’ Strait of Hormuz for mine-clearing",
@@ -10,12 +15,7 @@
     "Israeli settlers kill Palestinian during raid on occupied West Bank village",
     "Iranian rabbi describes Israel’s destruction of a Tehran synagogue",
     "LIVE: Tyson Fury vs Arslanbek Makhmudov – heavyweight boxing match",
-    "Gaza families mourn loved ones killed in overnight Israeli air strikes",
-    "Vigil held in Madrid for victims of Israeli strikes on Lebanon",
-    "Ceasefire brings some relief for Iranians but economic outlook remains grim",
-    "Iraq parliament elects Kurdish politician Nizar Amedi as president",
-    "Strait of Hormuz leverage looms over US-Iran talks in Islamabad",
-    "Russia-Ukraine Orthodox Easter ceasefire begins"
+    "Gaza families mourn loved ones killed in overnight Israeli air strikes"
   ],
   "sections": [
     {
@@ -24,19 +24,7 @@
       "rows": [
         {
           "event": "Will BV Borussia 09 Dortmund win on 2026-04-18?",
-          "odds": "+138",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Iranian regime fall by May 31?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Abbas Araghchi be head of state in Iran end of 2026?",
-          "odds": "+2677",
+          "odds": "+132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -61,6 +49,18 @@
         {
           "event": "Will Russia rejoin the G7 before 2027?",
           "odds": "+1269",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Shin Yong-han win the 2026 Chungcheongbuk Province gubernatorial election?",
+          "odds": "-1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party of Korea win 10 or more seats in South Korea’s June 3, 2026 parliamentary by-elections?",
+          "odds": "-109",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -90,7 +90,7 @@
         },
         {
           "event": "Bank of Japan increases interest rates by 25 bps after the April 2026 meeting?",
-          "odds": "-170",
+          "odds": "-163",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -107,8 +107,8 @@
           "moved": "none"
         },
         {
-          "event": "Fed emergency rate cut before 2027?",
-          "odds": "+1150",
+          "event": "Spread: Oilers (-1.5)",
+          "odds": "+525",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -126,7 +126,7 @@
         },
         {
           "event": "2026 Balance of Power: R Senate, D House",
-          "odds": "+185",
+          "odds": "+177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -173,18 +173,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Shane Lowry finish in the Top 5 at the 2026 Augusta National Invitational?",
-          "odds": "+170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will CD Palestino win on 2026-04-14?",
-          "odds": "+163",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Vegalta Sendai win on 2026-04-12?",
           "odds": "+122",
           "params": "Fuente: Polymarket",
@@ -197,20 +185,32 @@
           "moved": "none"
         },
         {
-          "event": "Will \"Jiggle Peek\" be said during the PGL Bucharest 2026 Grand Final?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Zcash reach $600 by December 31, 2026?",
           "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Taipei be 33°C on April 13?",
-          "odds": "+1566",
+          "event": "Will Trump meet with Keir Starmer in April 2026?",
+          "odds": "+203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Madison Cawthorn be the Republican nominee for FL-19?",
+          "odds": "+635",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Istanbul be 12°C on April 12?",
+          "odds": "+163",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Seoul be 17°C on April 12?",
+          "odds": "+354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
