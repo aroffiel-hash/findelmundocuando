@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "12 de abril de 2026 — 14:38 UTC",
+  "lastUpdated": "12 de abril de 2026 — 15:30 UTC",
   "ticker": [
+    "Trump says US to blockade ships crossing Strait of Hormuz",
+    "Voters cast ballots in pivotal Hungarian election",
+    "At least 30 dead in stampede at Haiti’s historic Citadelle Laferriere",
     "Palestinians condemn storming of Al-Aqsa Mosque by Israel’s Ben-Gvir",
     "Explaining Benin’s presidential election",
     "Lessons from the Iran war",
@@ -12,10 +15,7 @@
     "Benin holds presidential election amid deteriorating security situation",
     "Union Berlin’s Marie-Louise Eta becomes first female manager of men’s team",
     "Saudi Arabia says key oil pipeline back to full capacity after attacks",
-    "Legendary Indian Bollywood singer Asha Bhosle dies aged 92",
-    "More than 500 people arrested at London rally for Palestine Action",
-    "Teen sprint star Gout powers to 200m win in 19.67 seconds",
-    "Deported migrants arrive in Costa Rica from the US"
+    "Legendary Indian Bollywood singer Asha Bhosle dies aged 92"
   ],
   "sections": [
     {
@@ -23,8 +23,14 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Trump agree to Iranian enrichment of uranium in April?",
-          "odds": "+1566",
+          "event": "Will Pakistan send warships through the Strait of Hormuz by April 30, 2026?",
+          "odds": "+1415",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will any country expel an Israeli ambassador by December 31?",
+          "odds": "+156",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -35,26 +41,20 @@
           "moved": "none"
         },
         {
-          "event": "Will any country expel an Israeli ambassador by December 31?",
-          "odds": "+163",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "CD Mirandés vs. CD Castellón: Both Teams to Score",
-          "odds": "-149",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the People Power Party win 2 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
           "odds": "+270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Pakistan send warships through the Strait of Hormuz by April 30, 2026?",
-          "odds": "+1288",
+          "event": "Israel military action against Fordow nuclear facility by April 30?",
+          "odds": "+910",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Iran strike Syria by April 30, 2026?",
+          "odds": "+2464",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -78,7 +78,7 @@
         },
         {
           "event": "Fed emergency rate cut before 2027?",
-          "odds": "+669",
+          "odds": "+809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -101,14 +101,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Trump create a tariff dividend by June 30?",
-          "odds": "+900",
+          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $125 in April?",
+          "odds": "+212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $125 in April?",
-          "odds": "+203",
+          "event": "Will WTI Crude Oil (WTI) hit (LOW) $70 in April?",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -126,13 +126,7 @@
         },
         {
           "event": "2026 Balance of Power: R Senate, D House",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election?",
-          "odds": "+2930",
+          "odds": "+177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -149,14 +143,20 @@
           "moved": "none"
         },
         {
-          "event": "Will Ricardo Belmont finish in first place in the first round of the 2026 Peruvian presidential election?",
-          "odds": "+1328",
+          "event": "Will Ken Paxton win the Texas Republican Senate Primary runoff by 9% or more?",
+          "odds": "+188",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Ken Paxton win the Texas Republican Senate Primary runoff by 9% or more?",
-          "odds": "+188",
+          "event": "Will Elon Musk Testify to Congress about Epstein?",
+          "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Alani Bankhead be the Democratic nominee for Senate in Montana?",
+          "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -166,12 +166,6 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
-        {
-          "event": "Exact Score: FC Bayern München 3 - 1 Real Madrid CF?",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Wadi Degla SC win on 2026-04-13?",
           "odds": "+149",
@@ -191,26 +185,32 @@
           "moved": "none"
         },
         {
-          "event": "Will Bernie or Mamdani say \"Affordability\" during NYC rally?",
-          "odds": "-194",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Nasdaq 100 (NDX) Up or Down on April 13?",
-          "odds": "-104",
+          "event": "Will Qingdao Hainiu FC win on 2026-04-17?",
+          "odds": "+143",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will SpaceX's market cap be between $1.6T and $1.8T at market close on IPO day?",
-          "odds": "+506",
+          "odds": "+502",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
           "odds": "+1415",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Viktor Orbán out by December 31, 2026?",
+          "odds": "-524",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump pardon Elizabeth Holmes before 2027?",
+          "odds": "+488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
