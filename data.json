@@ -1,10 +1,12 @@
 {
-  "lastUpdated": "12 de abril de 2026 — 17:29 UTC",
+  "lastUpdated": "12 de abril de 2026 — 18:38 UTC",
   "ticker": [
+    "US media trapped between oligarchy and presidency",
+    "Man City rout Chelsea 3-0 to close gap on Premier League leaders Arsenal",
     "Iranian authorities remain defiant, urge supporters to stay in streets",
     "Seven ways America can win the ceasefire and end the war",
     "Video: Severe flooding closes schools in Saudi Arabia",
-    "Trump announces Strait of Hormuz blockade after US-Iran peace talks end",
+    "‘Blown to hell’: Trump orders Hormuz blockade after US-Iran peace talks end",
     "Peru votes for ninth president in less than decade",
     "Global Sumud Flotilla sets sail from Barcelona for Gaza",
     "FIFA rejects Iran’s request to relocate World Cup games amid US-Israel war",
@@ -13,21 +15,13 @@
     "At least 30 dead in stampede at Haiti’s historic Citadelle Laferriere",
     "Palestinians condemn storming of Al-Aqsa Mosque by Israel’s Ben-Gvir",
     "Explaining Benin’s presidential election",
-    "Lessons from the Iran war",
-    "Ukraine and Russia accuse each other of breaching Easter ceasefire",
-    "US-Iran ceasefire talks: What are the key sticking points?"
+    "Lessons from the Iran war"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Will the highest temperature in Warsaw be 14°C on April 14?",
-          "odds": "+1594",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Russia rejoin the G7 before 2027?",
           "odds": "+1370",
@@ -37,12 +31,6 @@
         {
           "event": "Will a team from Ukraine be the 2026 Conference League winner?",
           "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Israel military action against Fordow nuclear facility by April 30?",
-          "odds": "+1182",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -63,6 +51,18 @@
           "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party of Korea win 10 or more seats in South Korea’s June 3, 2026 parliamentary by-elections?",
+          "odds": "-137",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Iran agrees to surrender enriched uranium stockpile by June 30, 2026?",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -72,13 +72,13 @@
       "rows": [
         {
           "event": "Will WTI Crude Oil (WTI) hit (HIGH) $125 in April?",
-          "odds": "+194",
+          "odds": "+212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Fed emergency rate cut before 2027?",
-          "odds": "+809",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -101,14 +101,14 @@
           "moved": "none"
         },
         {
-          "event": "Will WTI Crude Oil (WTI) hit (LOW) $70 in April?",
-          "odds": "+1566",
+          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $100 Week of April 13 2026?",
+          "odds": "-809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will WTI Crude Oil (WTI) hit (LOW) $85 in April?",
-          "odds": "+284",
+          "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -120,13 +120,19 @@
       "rows": [
         {
           "event": "2026 Balance of Power: R Senate, D House",
-          "odds": "+185",
+          "odds": "+177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Starmer say \"Kneecap\" during the next Prime Minister's Questions event?",
           "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Alani Bankhead be the Democratic nominee for Senate in Montana?",
+          "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -145,12 +151,6 @@
         {
           "event": "Will Elon Musk Testify to Congress about Epstein?",
           "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Alani Bankhead be the Democratic nominee for Senate in Montana?",
-          "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -179,6 +179,12 @@
           "moved": "none"
         },
         {
+          "event": "Ilirija vs. Borac",
+          "odds": "-185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Doncaster Rovers FC win on 2026-04-18?",
           "odds": "+194",
           "params": "Fuente: Polymarket",
@@ -191,26 +197,20 @@
           "moved": "none"
         },
         {
-          "event": "Will Real Oviedo win on 2026-04-12?",
-          "odds": "-334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "FK Zenit vs. FK Krasnodar: Both Teams to Score",
-          "odds": "+112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Tokyo be 20°C on April 14?",
-          "odds": "+2400",
+          "event": "Will Yulia Navalnaya win the Nobel Peace Prize in 2026?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will SpaceX's market cap be between $1.6T and $1.8T at market close on IPO day?",
           "odds": "+502",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
+          "odds": "+1415",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
