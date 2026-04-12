@@ -1,10 +1,11 @@
 {
-  "lastUpdated": "12 de abril de 2026 — 21:28 UTC",
+  "lastUpdated": "12 de abril de 2026 — 22:27 UTC",
   "ticker": [
+    "These are people Israel killed in Lebanon on a single day",
     "Abuse allegations against lead Democrat shake race for California governor",
     "Nigerian artisans preserve handwoven fabric amid rising global demand",
     "Could the Iran war pose lasting risks to global food security?",
-    "World reacts to election defeat for Viktor Orban, Hungary’s longtime PM",
+    "World reacts to Peter Magyar defeating Viktor Orban, Hungary’s longtime PM",
     "History of flotilla campaigns to end Israel’s siege of Gaza",
     "‘I’ve congratulated the victorious party’: Viktor Orban concedes",
     "What’s next for the US-Iran peace process after talks end without a deal?",
@@ -14,8 +15,7 @@
     "Polls close in Benin with finance minister expected to win election",
     "Peter Magyar’s Tisza wins Hungary election as Viktor Orban concedes",
     "Rescuers dig through rubble after deadly Israeli strikes in south Lebanon",
-    "Dozens feared dead in air strike on village in northeastern Nigeria",
-    "US media trapped between oligarchy and presidency"
+    "Dozens feared dead in air strike on village in northeastern Nigeria"
   ],
   "sections": [
     {
@@ -47,20 +47,20 @@
           "moved": "none"
         },
         {
-          "event": "Senators vs. Devils: O/U 6.5",
-          "odds": "+112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the Democratic Party of Korea win 10 or more seats in South Korea’s June 3, 2026 parliamentary by-elections?",
           "odds": "-137",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Iran agrees to surrender enriched uranium stockpile by June 30, 2026?",
-          "odds": "+334",
+          "event": "US-Iran nuclear deal by April 30?",
+          "odds": "+557",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Shin Yong-han win the 2026 Chungcheongbuk Province gubernatorial election?",
+          "odds": "-900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -83,14 +83,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Germany GDP growth in Q1 2026 be less than or equal to 0.0%?",
-          "odds": "+817",
+          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $160 in April?",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $160 in April?",
-          "odds": "+1328",
+          "event": "Will Germany GDP growth in Q1 2026 be less than or equal to 0.0%?",
+          "odds": "+817",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -120,7 +120,7 @@
       "rows": [
         {
           "event": "2026 Balance of Power: R Senate, D House",
-          "odds": "+177",
+          "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -156,7 +156,7 @@
         },
         {
           "event": "2026 Balance of Power: R Senate, R House",
-          "odds": "+669",
+          "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -179,26 +179,20 @@
           "moved": "none"
         },
         {
-          "event": "Counter-Strike: Team Aether vs EMPIRE (BO3) - Dust2.us Eagle Masters Group Stage",
-          "odds": "-156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Doncaster Rovers FC win on 2026-04-18?",
           "odds": "+194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Atlanta be between 84-85°F on April 12?",
-          "odds": "-2399",
+          "event": "Will the New York Yankees win the 2026 World Series?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the New York Yankees win the 2026 World Series?",
-          "odds": "+1011",
+          "event": "Will the highest temperature in New York City be between 82-83°F on April 14?",
+          "odds": "+354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -211,6 +205,12 @@
         {
           "event": "Variational FDV above $200M one day after launch?",
           "odds": "-156",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "BNB Up or Down - April 13, 5:25PM-5:30PM ET",
+          "odds": "+104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
