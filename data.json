@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "12 de abril de 2026 — 19:35 UTC",
+  "lastUpdated": "12 de abril de 2026 — 20:28 UTC",
   "ticker": [
+    "“The initiative is in the hands of Tehran, not Washington”",
+    "Hungary’s Viktor Orban concedes defeat in parliamentary elections",
+    "How shaky is the Iran-US ceasefire?",
+    "Polls close in Benin with finance minister expected to win election",
+    "Peter Magyar’s Tisza wins Hungary election as Viktor Orban concedes",
     "Rescuers dig through rubble after deadly Israeli strikes in south Lebanon",
     "Dozens feared dead in air strike on village in northeastern Nigeria",
     "US media trapped between oligarchy and presidency",
@@ -10,12 +15,7 @@
     "Video: Severe flooding closes schools in Saudi Arabia",
     "‘Blown to hell’: Trump orders Hormuz blockade after US-Iran peace talks end",
     "Peru votes for ninth president in less than decade",
-    "Global Sumud Flotilla sets sail from Barcelona for Gaza",
-    "FIFA rejects Iran’s request to relocate World Cup games amid US-Israel war",
-    "Trump says US to blockade ships crossing Strait of Hormuz",
-    "Voters cast ballots in pivotal Hungarian election",
-    "At least 30 dead in stampede at Haiti’s historic Citadelle Laferriere",
-    "Palestinians condemn storming of Al-Aqsa Mosque by Israel’s Ben-Gvir"
+    "Global Sumud Flotilla sets sail from Barcelona for Gaza"
   ],
   "sections": [
     {
@@ -35,20 +35,20 @@
           "moved": "none"
         },
         {
-          "event": "Will the People Power Party win 2 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
-          "odds": "+270",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Iran strike Syria by April 30, 2026?",
-          "odds": "+2464",
+          "odds": "+2757",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will France send warships through the Strait of Hormuz by April 30, 2026?",
-          "odds": "+726",
+          "odds": "+740",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the People Power Party win 2 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
+          "odds": "+270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -71,20 +71,8 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will WTI Crude Oil (WTI) hit (LOW) $70 in April?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Fed emergency rate cut before 2027?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will WTI Crude Oil (WTI) hit (LOW) $85 in April?",
-          "odds": "+270",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -101,14 +89,26 @@
           "moved": "none"
         },
         {
-          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $100 Week of April 13 2026?",
-          "odds": "-809",
+          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $160 in April?",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $160 in April?",
-          "odds": "+1566",
+          "event": "Will Crude Oil (CL) settle at $77-$84 in June?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump create a tariff dividend by June 30?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Natural Gas (NG) hit (HIGH) $3.80 in April?",
+          "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -120,7 +120,7 @@
       "rows": [
         {
           "event": "2026 Balance of Power: R Senate, D House",
-          "odds": "+177",
+          "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -167,14 +167,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Wadi Degla SC win on 2026-04-13?",
-          "odds": "+149",
+          "event": "T20 Series Afghanistan vs Sri Lanka: Afghanistan vs Sri Lanka - Team Top Batter Draw",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "T20 Series Afghanistan vs Sri Lanka: Afghanistan vs Sri Lanka - Team Top Batter Draw",
-          "odds": "+1328",
+          "event": "Will Yulia Navalnaya win the Nobel Peace Prize in 2026?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -185,20 +185,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Yulia Navalnaya win the Nobel Peace Prize in 2026?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will SpaceX's market cap be between $1.6T and $1.8T at market close on IPO day?",
           "odds": "+502",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will there be a run scored in the first inning?: Texas Rangers vs. Los Angeles Dodgers",
-          "odds": "-104",
+          "event": "Will the New York Yankees win the 2026 World Series?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -211,6 +205,12 @@
         {
           "event": "Will Trump pardon Elizabeth Holmes before 2027?",
           "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will TheUnitedStrand get a haircut by 2025-26 season end?",
+          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
