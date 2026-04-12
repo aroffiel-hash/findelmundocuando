@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "12 de abril de 2026 — 02:00 UTC",
+  "lastUpdated": "12 de abril de 2026 — 05:17 UTC",
   "ticker": [
+    "Musician performs inside melting glacier to highlight climate crisis",
+    "Oil tankers exit Strait of Hormuz amid fragile US-Iran ceasefire",
+    "Why did US-Iran talks end without an agreement in Pakistan?",
+    "Watch JD Vance’s full remarks after US-Iran talks end without deal",
+    "US delegation leaves Pakistan without reaching Iran deal",
+    "Iran must not charge tolls in Strait of Hormuz, UN maritime chief says",
+    "Netanyahu next to Middle East map: ‘We strangled them and have more to do’",
     "Palestinians appalled as Israel approves settlements in occupied West Bank",
     "Israel reprimands Spanish diplomat over detonation of Netanyahu effigy",
-    "Iran war live: Talks with US to continue for a second day in Islamabad",
+    "Iran war live: Vance says no deal reached, US has made ‘best, final offer’",
     "Fury beats Makhmudov in heavyweight boxing comeback, then calls out Joshua",
     "US President Trump says US ‘wins’ regardless of how Iran talks go",
     "“Diplomacy is not an event, it’s a process, it takes time.”",
     "Pope Leo urges world leaders to reject war and negotiate peace",
-    "Iraqi parliament elects new president",
-    "Has Israeli society become conditioned to permanent war?",
-    "Israeli strikes kill at least 18 people across southern Lebanon",
-    "Families gather to mourn victims of deadly shooting in Afghanistan",
-    "Iran’s deputy FM says Tehran has ‘upper hand’ in talks with US",
-    "US says two naval ships ‘transited’ Strait of Hormuz for mine-clearing",
-    "Pakistan sends fighter jets to Saudi Arabia amid fragile US-Iran ceasefire",
-    "Barcelona move 9 clear of Real Madrid with derby win as La Liga title nears"
+    "Iraqi parliament elects new president"
   ],
   "sections": [
     {
@@ -24,13 +24,19 @@
       "rows": [
         {
           "event": "Will Russia rejoin the G7 before 2027?",
-          "odds": "+1392",
+          "odds": "+1415",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the People Power Party win 2 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
           "odds": "+127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Israel military action against Fordow nuclear facility by April 30?",
+          "odds": "+1049",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -53,14 +59,8 @@
           "moved": "none"
         },
         {
-          "event": "Iran agrees to surrender enriched uranium stockpile by December 31, 2026?",
-          "odds": "+132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Israel military action against Fordow nuclear facility by April 30?",
-          "odds": "+1392",
+          "event": "Will Israel conduct military action against Iran by April 21, 2026?",
+          "odds": "+143",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -70,12 +70,6 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
-        {
-          "event": "Will WTI Crude Oil (WTI) hit (LOW) $90 in April?",
-          "odds": "-257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?",
           "odds": "+1566",
@@ -111,6 +105,12 @@
           "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Fed emergency rate cut before 2027?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -120,19 +120,25 @@
       "rows": [
         {
           "event": "Will Pete Buttigieg win the 2028 Democratic presidential nomination?",
-          "odds": "+2531",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Rafael López Aliaga finish in first place in the first round of the 2026 Peruvian presidential election?",
-          "odds": "+1718",
+          "odds": "+2464",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "2026 Balance of Power: R Senate, D House",
-          "odds": "+185",
+          "odds": "+177",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Our Homeland Movement (Mi Hazánk) finish with the third-most seats in the next Hungarian parliamentary election?",
+          "odds": "-2339",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Fidesz-KDNP win 40-44% of the national list votes in the 2026 Hungarian Parliamentary election?",
+          "odds": "+203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -149,12 +155,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Fidesz-KDNP win 40-44% of the national list votes in the 2026 Hungarian Parliamentary election?",
-          "odds": "+203",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Elon Musk Testify to Congress about Epstein?",
           "odds": "+400",
           "params": "Fuente: Polymarket",
@@ -167,8 +167,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Exact Score: Chelsea FC 1 - 2 Manchester City FC?",
-          "odds": "+809",
+          "event": "Counter-Strike: Vitality vs RED Canids (BO3) - IEM Rio Group A",
+          "odds": "-2930",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -179,20 +179,14 @@
           "moved": "none"
         },
         {
+          "event": "Will Wolverhampton Wanderers FC win on 2026-04-18?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "T20 Series Afghanistan vs Sri Lanka: Afghanistan vs Sri Lanka - Team Top Batter Draw",
           "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will there be exactly 9 earthquake of magnitude 7.0 or higher worldwide by June 30?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Zcash reach $600 by December 31, 2026?",
-          "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -203,14 +197,20 @@
           "moved": "none"
         },
         {
-          "event": "Will Gangwon FC win on 2026-04-12?",
-          "odds": "+233",
+          "event": "LoL: Sentinels vs Cloud9 (BO3) - LCS Regular Season",
+          "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Lagos be 33°C on April 12?",
-          "odds": "+316",
+          "event": "Will Konyaspor win on 2026-04-12?",
+          "odds": "-138",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will FK Teplice win on 2026-04-11?",
+          "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
