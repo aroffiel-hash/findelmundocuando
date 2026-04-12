@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "12 de abril de 2026 — 05:17 UTC",
+  "lastUpdated": "12 de abril de 2026 — 07:06 UTC",
   "ticker": [
+    "Neymar has to prove his fitness for Brazil’s World Cup squad: Ancelotti",
+    "UFC 327: Ulberg wins light-heavyweight belt with knockout in front of Trump",
+    "Hungarians vote as PM Orban faces toughest election challenge in years",
+    "Pakistan urges US and Iran to uphold ceasefire after talks end",
+    "US and Iran fail to reach peace deal after marathon talks in Pakistan",
     "Musician performs inside melting glacier to highlight climate crisis",
     "Oil tankers exit Strait of Hormuz amid fragile US-Iran ceasefire",
     "Why did US-Iran talks end without an agreement in Pakistan?",
@@ -10,18 +15,19 @@
     "Netanyahu next to Middle East map: ‘We strangled them and have more to do’",
     "Palestinians appalled as Israel approves settlements in occupied West Bank",
     "Israel reprimands Spanish diplomat over detonation of Netanyahu effigy",
-    "Iran war live: Vance says no deal reached, US has made ‘best, final offer’",
-    "Fury beats Makhmudov in heavyweight boxing comeback, then calls out Joshua",
-    "US President Trump says US ‘wins’ regardless of how Iran talks go",
-    "“Diplomacy is not an event, it’s a process, it takes time.”",
-    "Pope Leo urges world leaders to reject war and negotiate peace",
-    "Iraqi parliament elects new president"
+    "Iran war live: Vance says no deal reached, US has made ‘best, final offer’"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Will Israel conduct military action against Iran by April 21, 2026?",
+          "odds": "+143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Russia rejoin the G7 before 2027?",
           "odds": "+1415",
@@ -35,32 +41,26 @@
           "moved": "none"
         },
         {
+          "event": "Will any country expel an Israeli ambassador by December 31?",
+          "odds": "+156",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Warsaw be 13°C on April 13?",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Warsaw be 16°C on April 13?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Israel military action against Fordow nuclear facility by April 30?",
           "odds": "+1049",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Shin Yong-han win the 2026 Chungcheongbuk Province gubernatorial election?",
-          "odds": "-900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will any country expel an Israeli ambassador by December 31?",
-          "odds": "+212",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party of Korea win 10 or more seats in South Korea’s June 3, 2026 parliamentary by-elections?",
-          "odds": "+132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Israel conduct military action against Iran by April 21, 2026?",
-          "odds": "+143",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -71,20 +71,20 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will the Fed decrease interest rates by 25 bps after the June 2026 meeting?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Bank of Japan increases interest rates by 25 bps after the April 2026 meeting?",
-          "odds": "-163",
+          "odds": "-156",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will S&P 500 (SPX) hit $6,200 (LOW) in December?",
           "odds": "-233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "No change in Bank of England’s interest rates after April 2026 meeting?",
+          "odds": "-2073",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -101,14 +101,14 @@
           "moved": "none"
         },
         {
-          "event": "Will S&P 500 (SPY) hit (HIGH) $710 Week of April 13 2026?",
-          "odds": "+1566",
+          "event": "Fed emergency rate cut before 2027?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Fed emergency rate cut before 2027?",
-          "odds": "+1150",
+          "event": "Will Natural Gas (NG) hit (HIGH) $3.80 in April?",
+          "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -120,19 +120,19 @@
       "rows": [
         {
           "event": "Will Pete Buttigieg win the 2028 Democratic presidential nomination?",
-          "odds": "+2464",
+          "odds": "+2531",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Fidesz-KDNP win 48%+ of the national list votes in the 2026 Hungarian Parliamentary election?",
+          "odds": "+1090",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "2026 Balance of Power: R Senate, D House",
           "odds": "+177",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Our Homeland Movement (Mi Hazánk) finish with the third-most seats in the next Hungarian parliamentary election?",
-          "odds": "-2339",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -167,12 +167,6 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Counter-Strike: Vitality vs RED Canids (BO3) - IEM Rio Group A",
-          "odds": "-2930",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Wadi Degla SC win on 2026-04-13?",
           "odds": "+149",
           "params": "Fuente: Polymarket",
@@ -191,26 +185,32 @@
           "moved": "none"
         },
         {
-          "event": "Will Madison Cawthorn be the Republican nominee for FL-19?",
-          "odds": "+635",
+          "event": "Will Apple be the second-largest company in the world by market cap on April 30?",
+          "odds": "+122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "LoL: Sentinels vs Cloud9 (BO3) - LCS Regular Season",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Konyaspor win on 2026-04-12?",
-          "odds": "-138",
+          "event": "Will Ivan Garcia Cortina win the 2026 Paris-Roubaix Hauts-de-France?",
+          "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will FK Teplice win on 2026-04-11?",
           "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will White House post 160-179 posts from April 7 to April 14, 2026?",
+          "odds": "+149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will SpaceX's market cap be between $1.6T and $1.8T at market close on IPO day?",
+          "odds": "+594",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
