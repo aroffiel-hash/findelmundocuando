@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "12 de abril de 2026 — 16:31 UTC",
+  "lastUpdated": "12 de abril de 2026 — 17:29 UTC",
   "ticker": [
+    "Iranian authorities remain defiant, urge supporters to stay in streets",
+    "Seven ways America can win the ceasefire and end the war",
+    "Video: Severe flooding closes schools in Saudi Arabia",
     "Trump announces Strait of Hormuz blockade after US-Iran peace talks end",
     "Peru votes for ninth president in less than decade",
     "Global Sumud Flotilla sets sail from Barcelona for Gaza",
@@ -12,16 +15,19 @@
     "Explaining Benin’s presidential election",
     "Lessons from the Iran war",
     "Ukraine and Russia accuse each other of breaching Easter ceasefire",
-    "US-Iran ceasefire talks: What are the key sticking points?",
-    "LIVE: Chelsea vs Manchester City – Premier League",
-    "Who is running US foreign policy? Varsha Gandikota and Jeremy Scahill",
-    "Israeli army raids across the occupied West Bank overnight"
+    "US-Iran ceasefire talks: What are the key sticking points?"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Will the highest temperature in Warsaw be 14°C on April 14?",
+          "odds": "+1594",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Russia rejoin the G7 before 2027?",
           "odds": "+1370",
@@ -35,14 +41,14 @@
           "moved": "none"
         },
         {
-          "event": "Will the People Power Party win 2 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
-          "odds": "+270",
+          "event": "Israel military action against Fordow nuclear facility by April 30?",
+          "odds": "+1182",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Israel military action against Fordow nuclear facility by April 30?",
-          "odds": "+910",
+          "event": "Will the People Power Party win 2 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
+          "odds": "+270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -57,12 +63,6 @@
           "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party of Korea win 10 or more seats in South Korea’s June 3, 2026 parliamentary by-elections?",
-          "odds": "-137",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -70,6 +70,12 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
+        {
+          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $125 in April?",
+          "odds": "+194",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Fed emergency rate cut before 2027?",
           "odds": "+809",
@@ -95,14 +101,8 @@
           "moved": "none"
         },
         {
-          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $125 in April?",
-          "odds": "+194",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will WTI Crude Oil (WTI) hit (LOW) $70 in April?",
-          "odds": "+1150",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -118,12 +118,6 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
-        {
-          "event": "Will Pete Buttigieg win the 2028 Democratic presidential nomination?",
-          "odds": "+2531",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "2026 Balance of Power: R Senate, D House",
           "odds": "+185",
@@ -159,6 +153,12 @@
           "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "2026 Balance of Power: R Senate, R House",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -185,26 +185,26 @@
           "moved": "none"
         },
         {
-          "event": "Will Real Madrid CF win on 2026-04-21?",
-          "odds": "-354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Qingdao Hainiu FC win on 2026-04-17?",
           "odds": "+143",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Bruins vs. Blue Jackets",
-          "odds": "+138",
+          "event": "Will Real Oviedo win on 2026-04-12?",
+          "odds": "-334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Sao Paulo be 25°C on April 13?",
-          "odds": "+2930",
+          "event": "FK Zenit vs. FK Krasnodar: Both Teams to Score",
+          "odds": "+112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Tokyo be 20°C on April 14?",
+          "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
