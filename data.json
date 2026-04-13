@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "13 de abril de 2026 — 05:35 UTC",
+  "lastUpdated": "13 de abril de 2026 — 07:53 UTC",
   "ticker": [
+    "Celebrations in Hungary after Orban ousted in landmark election",
+    "Pope Leo heads to Algeria as he starts four-country Africa tour",
+    "Iran war: What is happening on day 45 of the US-Iran conflict?",
+    "Who is Israel’s US envoy leading talks with Lebanon?",
+    "Sinner beats Alcaraz in straight sets to win Monte Carlo; reclaim No.1 spot",
+    "‘Terrible for foreign policy’: Trump attacks Pope Leo after peace appeal",
     "Viktor Orban swept from power after 16 years ruling Hungary",
     "Rory McIlroy wins Masters to become fourth back-to-back champion",
     "Oil prices surge past $103 a barrel after US announces blockade of Iran",
@@ -9,13 +15,7 @@
     "Peter Magyar says his election win has ‘liberated Hungary’ from Orban",
     "These are people Israel killed in Lebanon on a single day",
     "Eric Swalwell exits California governor race after sex assault allegations",
-    "Nigerian artisans preserve handwoven fabric amid rising global demand",
-    "Could the Iran war pose lasting risks to global food security?",
-    "World reacts to Peter Magyar defeating Viktor Orban, Hungary’s longtime PM",
-    "History of flotilla campaigns to end Israel’s siege of Gaza",
-    "‘I’ve congratulated the victorious party’: Viktor Orban concedes",
-    "What’s next for the US-Iran peace process after talks end without a deal?",
-    "“The initiative is in the hands of Tehran, not Washington”"
+    "Nigerian artisans preserve handwoven fabric amid rising global demand"
   ],
   "sections": [
     {
@@ -24,13 +24,7 @@
       "rows": [
         {
           "event": "Will Iran strike Syria by April 30, 2026?",
-          "odds": "+2531",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "US-Iran nuclear deal by April 30?",
-          "odds": "+614",
+          "odds": "+2464",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -47,20 +41,26 @@
           "moved": "none"
         },
         {
+          "event": "Will Iran strike Iraq by April 30, 2026?",
+          "odds": "-170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the People Power Party win 2 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
           "odds": "+270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Shin Yong-han win the 2026 Chungcheongbuk Province gubernatorial election?",
-          "odds": "-900",
+          "event": "Will Israel strike 11 countries in 2026?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Israel strike 11 countries in 2026?",
-          "odds": "+784",
+          "event": "Will Shin Yong-han win the 2026 Chungcheongbuk Province gubernatorial election?",
+          "odds": "-900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -71,14 +71,8 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $115 in April?",
-          "odds": "-143",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Fed emergency rate cut before 2027?",
-          "odds": "+900",
+          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -95,12 +89,6 @@
           "moved": "none"
         },
         {
-          "event": "No change in Bank of Japan’s interest rates after the April 2026 meeting?",
-          "odds": "+132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Crude Oil (CL) settle at $77-$84 in June?",
           "odds": "+669",
           "params": "Fuente: Polymarket",
@@ -109,6 +97,18 @@
         {
           "event": "Will Crude Oil (CL) hit (LOW) $60 by end of June?",
           "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will 2 Fed rate cuts happen in 2026?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump create a tariff dividend by June 30?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -120,7 +120,7 @@
       "rows": [
         {
           "event": "2026 Balance of Power: R Senate, D House",
-          "odds": "+194",
+          "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -173,26 +173,26 @@
           "moved": "none"
         },
         {
-          "event": "Will Yulia Navalnaya win the Nobel Peace Prize in 2026?",
-          "odds": "+809",
+          "event": "Variational FDV above $200M one day after launch?",
+          "odds": "-156",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Dota 2: GLYPH vs Yangon Galacticos - Game 2 Winner",
-          "odds": "-334",
+          "event": "Will the highest temperature in Amsterdam be 13°C on April 14?",
+          "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Team Spirit win IEM Rio 2026?",
-          "odds": "+809",
+          "event": "Will the New York Yankees win the 2026 World Series?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Trump say \"Two weeks\" this week? (April 12)",
-          "odds": "+669",
+          "event": "Will the highest temperature in Helsinki be 14°C on April 15?",
+          "odds": "+334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -203,14 +203,14 @@
           "moved": "none"
         },
         {
-          "event": "Will the New York Yankees win the 2026 World Series?",
-          "odds": "+1011",
+          "event": "BNB Up or Down - April 13, 5:25PM-5:30PM ET",
+          "odds": "+104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Variational FDV above $200M one day after launch?",
-          "odds": "-156",
+          "event": "Will \"The Truth & Tragedy of Moriah Wilson\" be the #2 global Netflix movie this week?",
+          "odds": "-3024",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
