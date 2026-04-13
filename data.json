@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "13 de abril de 2026 — 22:38 UTC",
+  "lastUpdated": "13 de abril de 2026 — 23:37 UTC",
   "ticker": [
+    "Hezbollah leader urges Lebanon’s government to pull out of Israel talks",
+    "UN urges ‘all parties’ to respect navigation in Strait of Hormuz",
     "Energy prices rise despite Jones Act suspension by Trump",
     "UN experts slam attacks on Gaza shelters, forced displacement in West Bank",
     "New White House report has plans to fix US housing shortage of 10 million",
@@ -13,9 +15,7 @@
     "Brazil’s fugitive ex-intel chief detained by US immigration authorities",
     "Colombia to cull up to 80 hippos linked to drug lord Pablo Escobar",
     "Trump deletes image of himself as Jesus-like saviour after backlash",
-    "Hezbollah rejects Lebanon’s direct negotiations with Israel",
-    "Trump doubles down in Pope feud, refuses to apologise",
-    "Trump says Iran wants ‘peace deal’ but insists on ‘no nukes’"
+    "Hezbollah rejects Lebanon’s direct negotiations with Israel"
   ],
   "sections": [
     {
@@ -47,6 +47,12 @@
           "moved": "none"
         },
         {
+          "event": "US x Iran diplomatic meeting by April 18, 2026?",
+          "odds": "+108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Israel and Lebanon normalize relations before 2027?",
           "odds": "+376",
           "params": "Fuente: Polymarket",
@@ -55,12 +61,6 @@
         {
           "event": "Will Naftali Bennett be the next Prime Minister of Israel?",
           "odds": "+270",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Justin Briner as Izuku Midoriya (My Hero Academia FINAL SEASON) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?",
-          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -83,14 +83,14 @@
           "moved": "none"
         },
         {
-          "event": "Spread: Oilers (-1.5)",
-          "odds": "+257",
+          "event": "Will Germany GDP growth in Q1 2026 be less than or equal to 0.0%?",
+          "odds": "+356",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Germany GDP growth in Q1 2026 be less than or equal to 0.0%?",
-          "odds": "+356",
+          "event": "Brentford FC vs. Fulham FC: Both Teams to Score",
+          "odds": "-143",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -118,12 +118,6 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
-        {
-          "event": "Will Trump’s approval rating be between 39.0 and 39.4 on April 17, 2026?",
-          "odds": "+203",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
           "odds": "-127",
@@ -159,6 +153,12 @@
           "odds": "-900",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Mark Baisley be the Republican nominee for Senate in Colorado?",
+          "odds": "-1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -166,6 +166,18 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
+        {
+          "event": "BNB Up or Down - April 13, 7:30PM-7:35PM ET",
+          "odds": "-117",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Santa Cruz: Murkel Dellien vs Juan Carlos Prado",
+          "odds": "+194",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will a coin launched in 2026 end the year in the top 50?",
           "odds": "-566",
@@ -185,32 +197,20 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Busan be 20°C on April 15?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Jack Thorne win the 2026 Fields Medal?",
-          "odds": "+127",
+          "odds": "+117",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Milan be 23°C or higher on April 15?",
-          "odds": "+1899",
+          "event": "Will Nicolás Maduro be the leader of Venezuela end of 2026?",
+          "odds": "+405",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Seattle be between 50-51°F on April 15?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Wellington be 18°C on April 15?",
-          "odds": "+244",
+          "event": "Will the highest temperature in Wuhan be 20°C on April 14?",
+          "odds": "+138",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
