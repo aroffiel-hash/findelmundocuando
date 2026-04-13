@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "13 de abril de 2026 — 07:53 UTC",
+  "lastUpdated": "13 de abril de 2026 — 09:49 UTC",
   "ticker": [
+    "Protesters rally in Paris against ‘liberty-killing’ anti-Semitism bill",
+    "What Iran is saying about US plan to blockade ports",
+    "Cuba sent doctors. Washington sent a destroyer.",
+    "Refugee in my own city: Surviving Tehran’s bombing, with my cat for company",
+    "Ghanaian footballer Dominic Frimpong killed in armed attack on team bus",
+    "Australia appoints female army chief for the first time in history",
+    "Why oil prices aren’t what you think – and what it means for global supply",
     "Celebrations in Hungary after Orban ousted in landmark election",
-    "Pope Leo heads to Algeria as he starts four-country Africa tour",
+    "Pope Leo lands in Algeria for historic visit as he starts Africa tour",
     "Iran war: What is happening on day 45 of the US-Iran conflict?",
-    "Who is Israel’s US envoy leading talks with Lebanon?",
-    "Sinner beats Alcaraz in straight sets to win Monte Carlo; reclaim No.1 spot",
+    "Who is Yechiel Leiter, Israel’s US envoy leading talks with Lebanon?",
+    "Sinner beats Alcaraz in straight sets to win Monte Carlo, reclaim No 1 spot",
     "‘Terrible for foreign policy’: Trump attacks Pope Leo after peace appeal",
     "Viktor Orban swept from power after 16 years ruling Hungary",
-    "Rory McIlroy wins Masters to become fourth back-to-back champion",
-    "Oil prices surge past $103 a barrel after US announces blockade of Iran",
-    "US military threatens to blockade all Iranian ports starting on Monday",
-    "Iran war live: US military says it will block Iranian traffic in Hormuz",
-    "Peter Magyar says his election win has ‘liberated Hungary’ from Orban",
-    "These are people Israel killed in Lebanon on a single day",
-    "Eric Swalwell exits California governor race after sex assault allegations",
-    "Nigerian artisans preserve handwoven fabric amid rising global demand"
+    "Rory McIlroy wins Masters to become fourth back-to-back champion"
   ],
   "sections": [
     {
@@ -23,26 +23,14 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
+          "event": "Will Otto Ritter win the 2026 Santa Cruz gubernatorial election?",
+          "odds": "+562",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Iran strike Syria by April 30, 2026?",
           "odds": "+2464",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will a team from Ukraine be the 2026 Conference League winner?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Otto Ritter win the 2026 Santa Cruz gubernatorial election?",
-          "odds": "+352",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Iran strike Iraq by April 30, 2026?",
-          "odds": "-170",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -53,14 +41,26 @@
           "moved": "none"
         },
         {
+          "event": "Israel x Lebanon diplomatic meeting by April 14, 2026?",
+          "odds": "-244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Israel strike 11 countries in 2026?",
           "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Shin Yong-han win the 2026 Chungcheongbuk Province gubernatorial election?",
-          "odds": "-900",
+          "event": "Will the highest temperature in Warsaw be 15°C on April 14?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Kevin Cramer vote to confirm Kevin Warsh as Chair of the Federal Reserve?",
+          "odds": "-1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -119,8 +119,8 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "2026 Balance of Power: R Senate, D House",
-          "odds": "+185",
+          "event": "Will the Bharatiya Janata Party (BJP) win the most seats in the 2026 Assam Legislative Assembly election?",
+          "odds": "-1370",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -131,8 +131,8 @@
           "moved": "none"
         },
         {
-          "event": "Will the Bharatiya Janata Party (BJP) win the most seats in the 2026 Assam Legislative Assembly election?",
-          "odds": "-2172",
+          "event": "Will Rafael López Aliaga finish in second place in the first round of the 2026 Peruvian presidential election?",
+          "odds": "-1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -155,8 +155,8 @@
           "moved": "none"
         },
         {
-          "event": "Will AfD win the most seats in the 2026 Sachsen-Anhalt parliamentary elections?",
-          "odds": "-566",
+          "event": "Will Elon Musk Testify to Congress about Epstein?",
+          "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,20 +167,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "T20 Series Afghanistan vs Sri Lanka: Afghanistan vs Sri Lanka - Team Top Batter Draw",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Variational FDV above $200M one day after launch?",
           "odds": "-156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Amsterdam be 13°C on April 14?",
-          "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -191,14 +179,8 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Helsinki be 14°C on April 15?",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Tesla dip to $285 in April?",
-          "odds": "+376",
+          "event": "Will Anthropic have the #2 AI model at the end of April 2026 (Style Control On)?",
+          "odds": "-400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -209,8 +191,26 @@
           "moved": "none"
         },
         {
-          "event": "Will \"The Truth & Tragedy of Moriah Wilson\" be the #2 global Netflix movie this week?",
-          "odds": "-3024",
+          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
+          "odds": "+1415",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the AK-AL House seat?",
+          "odds": "-163",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will TheUnitedStrand get a haircut by 2025-26 season end?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Anthropic have the second-best Math AI model at the end of April 2026?",
+          "odds": "+222",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
