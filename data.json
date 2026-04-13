@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "13 de abril de 2026 — 17:01 UTC",
+  "lastUpdated": "13 de abril de 2026 — 19:06 UTC",
   "ticker": [
+    "Waist-deep floodwaters force hundreds to evacuate Java, Indonesia",
+    "Indian workers protest over rising living cost",
+    "Starmer announces talks to address the Strait of Hormuz crisis",
+    "EU: No peace possible while “Lebanon is in flames”",
+    "What are the pros and cons of Trump’s Iranian naval blockade?",
+    "Bahrain summons Iraqi envoy as pro-Iranian attacks persist in Gulf",
+    "PM-in-waiting Peter Magyar lays out vision for Hungary after ousting Orban",
     "Iran releases assets of women’s football captain in Australia asylum row",
     "Atletico Madrid vs Barcelona: Champions League – team news, start, lineups",
     "Hungary’s Peter Magyar calls for early convening of parliament",
@@ -8,14 +15,7 @@
     "‘Drinking Arsenal tears’: How the Gunners’ stumble sparked a meme frenzy",
     "What do we know about sea mines in and around the Strait of Hormuz?",
     "US judge dismisses Trump’s $10bn lawsuit against WSJ over Epstein story",
-    "Trump says Iranian ships to be ‘eliminated’ as US naval blockade begins",
-    "Trump’s threat to blockade Hormuz: Why it’s the latest major escalation",
-    "Pakistan eyes narrow window to resuscitate US-Iran talks after breakdown",
-    "Israeli forces kill three Palestinians in Gaza, arrest dozens in West Bank",
-    "At least six killed in Israeli strikes in southern Lebanon",
-    "Cement company Lafarge found guilty in Syria terrorism financing case",
-    "Israel is trying to change Jerusalem’s religious identity",
-    "Tear gas fired at India workers demanding higher wages as living costs rise"
+    "Trump says Iranian ships to be ‘eliminated’ as US naval blockade begins"
   ],
   "sections": [
     {
@@ -30,13 +30,7 @@
         },
         {
           "event": "Will the People Power Party win 2 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Iran strike Jordan by April 30, 2026?",
-          "odds": "+220",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -48,13 +42,19 @@
         },
         {
           "event": "Will Reza Pahlavi enter Iran by December 31?",
-          "odds": "+669",
+          "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Russia capture all of Vovchansk by April 30?",
           "odds": "+2757",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Israel and Lebanon normalize relations before 2027?",
+          "odds": "+426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -71,20 +71,14 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "U.S. forces seize another oil tanker by April 15?",
-          "odds": "+410",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will S&P 500 (SPY) hit (LOW) $670 Week of April 13 2026?",
           "odds": "-614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Avalanche vs. Oilers: O/U 4.5",
-          "odds": "-524",
+          "event": "Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -111,6 +105,12 @@
           "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will 2 Fed rate cuts happen in 2026?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -119,20 +119,8 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Roberto Sánchez Palomino finish in third place in the first round of the 2026 Peruvian presidential election?",
-          "odds": "+852",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
-          "odds": "-122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Tatiana Auguste win the by-election for the seat of Terrebone in the House of Commons of Canada?",
-          "odds": "-203",
+          "odds": "-127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -155,8 +143,20 @@
           "moved": "none"
         },
         {
+          "event": "Will Elon Musk Testify to Congress about Epstein?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Mark Baisley be the Republican nominee for Senate in Colorado?",
           "odds": "-1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Robert Wessels win the 2026 Maine Governor Republican primary election?",
+          "odds": "+2841",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,14 +167,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Exact Score: Manchester United FC 1 - 0 Leeds United FC?",
-          "odds": "+733",
+          "event": "Exact Score: Club Atlético de Madrid 0 - 1 FC Barcelona?",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Rocket Lab USA, Inc. (RKLB) hit (HIGH) $76 Week of April 13 2026?",
-          "odds": "+400",
+          "event": "Exact Score: Liverpool FC 1 - 3 Paris Saint-Germain FC?",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -191,8 +191,14 @@
           "moved": "none"
         },
         {
-          "event": "Will the Republican Party win the AK-AL House seat?",
-          "odds": "-163",
+          "event": "Will Rocket Lab USA, Inc. (RKLB) hit (HIGH) $76 Week of April 13 2026?",
+          "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Barcelona Open: Mariano Navone vs Andrey Rublev",
+          "odds": "+138",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -203,14 +209,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Microsoft acquire TikTok?",
-          "odds": "+852",
+          "event": "Will FISA Section 702 reauthorization become law this year?",
+          "odds": "+244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
