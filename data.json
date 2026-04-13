@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "13 de abril de 2026 — 13:12 UTC",
+  "lastUpdated": "13 de abril de 2026 — 15:11 UTC",
   "ticker": [
+    "Trump says Iranian ships will be ‘eliminated’ as US naval blockade begins",
+    "Trump’s threat to blockade Hormuz: Why it’s war’s latest major escalation",
+    "Pakistan eyes narrow window to resuscitate US-Iran talks after breakdown",
+    "Israeli forces kill three Palestinians in Gaza, arrest dozens in West Bank",
     "At least six killed in Israeli strikes in southern Lebanon",
     "Cement company Lafarge found guilty in Syria terrorism financing case",
     "Israel is trying to change Jerusalem’s religious identity",
@@ -11,11 +15,7 @@
     "Israeli forces fire tear gas near Palestinian schoolchildren",
     "Starmer says UK will not support US blockade of Strait of Hormuz",
     "How a UK military college sought to distance itself from ban on Israelis",
-    "Millions in war-ravaged Sudan surviving on one meal a day, say NGOs",
-    "US blockade of Iran would worsen global energy crisis, analysts say",
-    "Protesters rally in Paris against ‘liberty-killing’ anti-Semitism bill",
-    "What Iran is saying about US plan to blockade ports",
-    "Cuba sent doctors. Washington sent a destroyer."
+    "Millions in war-ravaged Sudan surviving on one meal a day, say NGOs"
   ],
   "sections": [
     {
@@ -23,26 +23,8 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will the People Power Party win 2 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
-          "odds": "+270",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Taiwan Semiconductor (TSM) beat quarterly earnings?",
-          "odds": "-1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Israel strike 11 countries in 2026?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Iran strike Jordan by April 30, 2026?",
-          "odds": "+334",
+          "odds": "-1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -53,14 +35,32 @@
           "moved": "none"
         },
         {
-          "event": "Will Naftali Bennett be the next Prime Minister of Israel?",
-          "odds": "+284",
+          "event": "Will the People Power Party win 2 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
+          "odds": "+270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Russia capture all of Vovchansk by April 30?",
-          "odds": "+2400",
+          "event": "Will Israel strike 11 countries in 2026?",
+          "odds": "+2280",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Iran strike Jordan by April 30, 2026?",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Naftali Bennett be the next Prime Minister of Israel?",
+          "odds": "+270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Justin Briner as Izuku Midoriya (My Hero Academia FINAL SEASON) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -72,13 +72,13 @@
       "rows": [
         {
           "event": "Fed emergency rate cut before 2027?",
-          "odds": "+614",
+          "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "U.S. forces seize another oil tanker by April 15?",
-          "odds": "+395",
+          "odds": "+369",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -96,7 +96,7 @@
         },
         {
           "event": "Will Crude Oil (CL) settle at $77-$84 in June?",
-          "odds": "+669",
+          "odds": "+525",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -119,14 +119,14 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will the Bharatiya Janata Party (BJP) win the most seats in the 2026 Assam Legislative Assembly election?",
-          "odds": "-1594",
+          "event": "Will there be between 125m and 130m votes cast in the 2026 U.S. House of Representatives midterm elections?",
+          "odds": "+376",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Tisza win the national list vote in the 2026 Hungarian Parliamentary election by 15-18%?",
-          "odds": "+1594",
+          "event": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
+          "odds": "-127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -143,12 +143,6 @@
           "moved": "none"
         },
         {
-          "event": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
-          "odds": "-132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Robert Wessels win the 2026 Maine Governor Republican primary election?",
           "odds": "+2841",
           "params": "Fuente: Polymarket",
@@ -157,6 +151,12 @@
         {
           "event": "Will Mark Baisley be the Republican nominee for Senate in Colorado?",
           "odds": "-1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will AfD win the most seats in the 2026 Sachsen-Anhalt parliamentary elections?",
+          "odds": "-900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -173,8 +173,8 @@
           "moved": "none"
         },
         {
-          "event": "FK Akron Tolyatti vs. FK Dinamo Moskva: Both Teams to Score",
-          "odds": "-170",
+          "event": "Will FC Universitatea Cluj win on 2026-04-18?",
+          "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -185,26 +185,26 @@
           "moved": "none"
         },
         {
+          "event": "Will Rocket Lab USA, Inc. (RKLB) hit (HIGH) $76 Week of April 13 2026?",
+          "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will a coin launched in 2026 end the year in the top 50?",
           "odds": "-566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will TheUnitedStrand get a haircut by 2025-26 season end?",
-          "odds": "+1899",
+          "event": "Will the highest temperature in Denver be between 60-61°F on April 14?",
+          "odds": "+334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "BNB Up or Down - April 13, 5:25PM-5:30PM ET",
           "odds": "+104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Indian Premier League: Mumbai Indians vs Punjab Kings",
-          "odds": "-112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
