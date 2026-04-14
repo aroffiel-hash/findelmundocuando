@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "14 de abril de 2026 — 15:08 UTC",
+  "lastUpdated": "14 de abril de 2026 — 16:59 UTC",
   "ticker": [
+    "After three years of war, what is the situation like in Sudan?",
+    "Lebanese, Israeli ambassadors begin direct talks in US",
+    "Ukraine strikes drone production, military support deal with Germany",
+    "Bayern Munich vs Real Madrid: UEFA Champions League – teams, start, lineups",
+    "LIVE: Atletico Madrid vs Barcelona – Champions League quarterfinal",
+    "Italy’s PM: Defence agreement with Israel suspended",
+    "Historic but not enough? Colombia’s Gustavo Petro defends cocaine seizures",
     "Why are the US, Iran arguing over duration of uranium enrichment ban?",
     "‘We are a stable, predictable country’: Spanish PM Sanchez in Beijing",
     "Is it time we rethink taxes?",
@@ -8,14 +15,7 @@
     "Sudan’s war still misunderstood after three years",
     "Can Pakistan juggle US-Iran mediation with Saudi defence commitments?",
     "Israel ‘wants to reach peace and normalisation with Lebanon’",
-    "Trump deletes AI image depicting himself like Jesus after outrage",
-    "Italy suspends defence agreement with Israel",
-    "Jailed Senegal fans deny wrongdoing in AFCON final chaos in Morocco",
-    "India cricket slammed for ‘Orwellian’ control of global game by Wisden",
-    "Iran remains an obstacle to the ‘Greater Israel’ project",
-    "How much will US Hormuz blockade hurt Iran, and does Tehran have an escape?",
-    "How many ships have passed the Strait of Hormuz and how many were attacked?",
-    "Champions League: Barcelona handball claim against Atletico Madrid rejected"
+    "Trump deletes AI image depicting himself like Jesus after outrage"
   ],
   "sections": [
     {
@@ -23,8 +23,20 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
+          "event": "Maple Leafs vs. Senators",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Kevin Cramer vote to confirm Kevin Warsh as Chair of the Federal Reserve?",
           "odds": "-1392",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Russia military action against Kyiv municipality by April 17?",
+          "odds": "-138",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -47,20 +59,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Iran take military action against a Gulf State on March 29, 2026?",
-          "odds": "-900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Naftali Bennett be the next Prime Minister of Israel?",
-          "odds": "+270",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Greece send warships through the Strait of Hormuz by April 30, 2026?",
-          "odds": "+3233",
+          "event": "Will the U.S. invade Iran before 2027?",
+          "odds": "+222",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -71,14 +71,14 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will Germany GDP growth in Q1 2026 be less than or equal to 0.0%?",
-          "odds": "+356",
+          "event": "Will Crude Oil (CL) hit (LOW) $85 by end of June?",
+          "odds": "-455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Crude Oil (CL) hit (LOW) $85 by end of June?",
-          "odds": "-316",
+          "event": "Will Germany GDP growth in Q1 2026 be less than or equal to 0.0%?",
+          "odds": "+356",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -125,20 +125,20 @@
           "moved": "none"
         },
         {
-          "event": "Will Kamala Harris win the 2028 Democratic presidential nomination?",
-          "odds": "+1487",
+          "event": "Will Tucker Carlson win the 2028 Republican presidential nomination?",
+          "odds": "+2122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Tucker Carlson win the 2028 Republican presidential nomination?",
-          "odds": "+2073",
+          "event": "Will Kamala Harris win the 2028 Democratic presidential nomination?",
+          "odds": "+1512",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Mark Baisley be the Republican nominee for Senate in Colorado?",
-          "odds": "-900",
+          "odds": "-1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -149,14 +149,14 @@
           "moved": "none"
         },
         {
-          "event": "Will the Social Democrats (SD) be part of the next Government of Slovenia?",
-          "odds": "+525",
+          "event": "Will Alani Bankhead be the Democratic nominee for Senate in Montana?",
+          "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Alani Bankhead be the Democratic nominee for Senate in Montana?",
-          "odds": "+2400",
+          "event": "Will AfD win the most seats in the 2026 Sachsen-Anhalt parliamentary elections?",
+          "odds": "-669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -173,14 +173,14 @@
           "moved": "none"
         },
         {
-          "event": "Counter-Strike: ALKA vs HereWeGoAgain - Map 2 Winner",
-          "odds": "-170",
+          "event": "Will Zelenskyy post 60-79 posts from April 14 to April 21, 2026?",
+          "odds": "-1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Natus Vincere win IEM Cologne Major 2026?",
-          "odds": "+1566",
+          "event": "Will White House post 100-119 posts from April 17 to April 24, 2026?",
+          "odds": "+196",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -209,8 +209,8 @@
           "moved": "none"
         },
         {
-          "event": "Mobile Legends Bang Bang: Natus Vincere vs ONIC (BO3) - MPL Indonesia Regular Season",
-          "odds": "+122",
+          "event": "Will Finland be in the top 10 at Eurovision 2026?",
+          "odds": "-1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
