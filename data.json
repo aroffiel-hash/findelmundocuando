@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "14 de abril de 2026 — 13:13 UTC",
+  "lastUpdated": "14 de abril de 2026 — 15:08 UTC",
   "ticker": [
+    "Why are the US, Iran arguing over duration of uranium enrichment ban?",
+    "‘We are a stable, predictable country’: Spanish PM Sanchez in Beijing",
+    "Is it time we rethink taxes?",
+    "Spain’s Guardemo still critical in ICU 2 weeks after cycling crash with car",
+    "Sudan’s war still misunderstood after three years",
+    "Can Pakistan juggle US-Iran mediation with Saudi defence commitments?",
+    "Israel ‘wants to reach peace and normalisation with Lebanon’",
     "Trump deletes AI image depicting himself like Jesus after outrage",
     "Italy suspends defence agreement with Israel",
     "Jailed Senegal fans deny wrongdoing in AFCON final chaos in Morocco",
@@ -8,20 +15,19 @@
     "Iran remains an obstacle to the ‘Greater Israel’ project",
     "How much will US Hormuz blockade hurt Iran, and does Tehran have an escape?",
     "How many ships have passed the Strait of Hormuz and how many were attacked?",
-    "Champions League: Barcelona handball claim against Atletico Madrid rejected",
-    "Who controls the Strait of Hormuz?",
-    "IPL switch leads to two-year PSL ban for Zimbabwe’s Muzarabani",
-    "Global oil demand to plunge amid disruptions caused by war on Iran: IEA",
-    "Ice hockey coach admits to faking COVID certificate to enter China Olympics",
-    "Union ‌Berlin denounces sexist abuse aimed at female manager Marie-Lou Eta",
-    "What we know about US-hosted talks between Israel and Lebanon",
-    "Israel-Lebanon direct talks in the US: All to know"
+    "Champions League: Barcelona handball claim against Atletico Madrid rejected"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Will Kevin Cramer vote to confirm Kevin Warsh as Chair of the Federal Reserve?",
+          "odds": "-1392",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Reza Pahlavi enter Iran by December 31?",
           "odds": "+733",
@@ -31,12 +37,6 @@
         {
           "event": "Will the People Power Party win 2 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
           "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Kevin Cramer vote to confirm Kevin Warsh as Chair of the Federal Reserve?",
-          "odds": "-1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -59,8 +59,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Justin Briner as Izuku Midoriya (My Hero Academia FINAL SEASON) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?",
-          "odds": "+1011",
+          "event": "Will Greece send warships through the Strait of Hormuz by April 30, 2026?",
+          "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -71,12 +71,6 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Germany GDP growth in Q1 2026 be less than or equal to 0.0%?",
           "odds": "+356",
           "params": "Fuente: Polymarket",
@@ -85,6 +79,12 @@
         {
           "event": "Will Crude Oil (CL) hit (LOW) $85 by end of June?",
           "odds": "-316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Crude Oil (CL) hit (LOW) $60 by end of June?",
+          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -101,8 +101,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Crude Oil (CL) hit (LOW) $60 by end of June?",
-          "odds": "+809",
+          "event": "Bank of England increases interest rates after April 2026 meeting?",
+          "odds": "+1860",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -119,26 +119,20 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
-          "odds": "-127",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Jorge Nieto finish in fourth place in the first round of the 2026 Peruvian presidential election?",
-          "odds": "-549",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Elon Musk Testify to Congress about Epstein?",
-          "odds": "+566",
+          "event": "Will GERB-SDS win the 2026 Bulgarian Parliamentary election by any margin?",
+          "odds": "+1370",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Kamala Harris win the 2028 Democratic presidential nomination?",
-          "odds": "+1438",
+          "odds": "+1487",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Tucker Carlson win the 2028 Republican presidential nomination?",
+          "odds": "+2073",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -149,14 +143,20 @@
           "moved": "none"
         },
         {
+          "event": "Will the Democrats win the Illinois Senate race in 2026?",
+          "odds": "-1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the Social Democrats (SD) be part of the next Government of Slovenia?",
           "odds": "+525",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the Democrats win the Illinois Senate race in 2026?",
-          "odds": "-1011",
+          "event": "Will Alani Bankhead be the Democratic nominee for Senate in Montana?",
+          "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,26 +167,20 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the highest temperature in Milan be 19°C or higher on April 14?",
-          "odds": "+233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Microsoft acquire TikTok?",
-          "odds": "+1090",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Kelly Loeffler be the next to leave the Trump Cabinet before 2027?",
-          "odds": "+3233",
+          "odds": "+1198",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Counter-Strike: ALKA vs HereWeGoAgain - Map 2 Winner",
           "odds": "-170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Natus Vincere win IEM Cologne Major 2026?",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -211,6 +205,12 @@
         {
           "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
           "odds": "+1392",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Mobile Legends Bang Bang: Natus Vincere vs ONIC (BO3) - MPL Indonesia Regular Season",
+          "odds": "+122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
