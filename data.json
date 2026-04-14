@@ -1,7 +1,11 @@
 {
-  "lastUpdated": "14 de abril de 2026 — 01:59 UTC",
+  "lastUpdated": "14 de abril de 2026 — 04:50 UTC",
   "ticker": [
-    "Iran war live: Trump says Tehran wants deal as US blockade in Hormuz begins",
+    "Super Typhoon Sinlaku bears down on Northern Mariana Islands, Guam",
+    "US military kills two men in new strike on vessel in eastern Pacific",
+    "Man charged with attempted murder after attack on OpenAI CEO Altman’s home",
+    "Anti-war protesters arrested in New York urging end to Israel weapon sales",
+    "Iran war live: Trump says Tehran wants deal amid US blockade in Hormuz",
     "Hezbollah leader urges Lebanon’s government to pull out of Israel talks",
     "UN urges ‘all parties’ to respect navigation in Strait of Hormuz",
     "Energy prices rise despite Jones Act suspension by Trump",
@@ -11,17 +15,19 @@
     "French cement giant Lafarge guilty of financing ISIL in Syria",
     "Benin’s Wadagni wins presidential election with landslide 94% of votes",
     "Israel kills three Palestinians in separate Gaza strikes",
-    "Philippines accuses China of using cyanide to poison South China Sea atoll",
-    "Bernie Sanders vows to push resolution to block US weapons to Israel",
-    "Brazil’s fugitive ex-intel chief detained by US immigration authorities",
-    "Colombia to cull up to 80 hippos linked to drug lord Pablo Escobar",
-    "Trump deletes image of himself as Jesus-like saviour after backlash"
+    "Philippines accuses China of using cyanide to poison South China Sea atoll"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Will Trump agree to Iranian transit fees in the Strait of Hormuz in April?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the People Power Party win 2 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
           "odds": "+566",
@@ -36,31 +42,25 @@
         },
         {
           "event": "Will Reza Pahlavi enter Iran by December 31?",
-          "odds": "+669",
+          "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Israel strike 11 countries in 2026?",
-          "odds": "+1487",
+          "odds": "+1462",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Trump agree to Iranian transit fees in the Strait of Hormuz in April?",
-          "odds": "+1011",
+          "event": "Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the July decision?",
+          "odds": "-156",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Israel and Lebanon normalize relations before 2027?",
-          "odds": "+455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Naftali Bennett be the next Prime Minister of Israel?",
-          "odds": "+270",
+          "event": "Will the highest temperature in Warsaw be 15°C or higher on April 15?",
+          "odds": "-809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -70,12 +70,6 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
-        {
-          "event": "Will S&P 500 (SPY) hit (LOW) $670 Week of April 13 2026?",
-          "odds": "-614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?",
           "odds": "+809",
@@ -107,6 +101,12 @@
           "moved": "none"
         },
         {
+          "event": "Will 2 Fed rate cuts happen in 2026?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Crude Oil (CL) settle at $77-$84 in June?",
           "odds": "+733",
           "params": "Fuente: Polymarket",
@@ -120,7 +120,7 @@
       "rows": [
         {
           "event": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
-          "odds": "-127",
+          "odds": "-122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -149,14 +149,14 @@
           "moved": "none"
         },
         {
-          "event": "Will AfD win the most seats in the 2026 Sachsen-Anhalt parliamentary elections?",
-          "odds": "-900",
+          "event": "Will Mark Baisley be the Republican nominee for Senate in Colorado?",
+          "odds": "-1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Mark Baisley be the Republican nominee for Senate in Colorado?",
-          "odds": "-1566",
+          "event": "Will AfD win the most seats in the 2026 Sachsen-Anhalt parliamentary elections?",
+          "odds": "-900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,8 +167,26 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Will NVIDIA reach $244 in April?",
+          "odds": "+2757",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: Liverpool FC 2 - 1 Paris Saint-Germain FC?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Microsoft acquire TikTok?",
-          "odds": "+998",
+          "odds": "+963",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Team Spirit win IEM Cologne Major 2026?",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -179,38 +197,20 @@
           "moved": "none"
         },
         {
-          "event": "CD Real Tomayapo vs. Bamin Real Potosí: Both Teams to Score",
-          "odds": "-3233",
+          "event": "Will the highest temperature in Jeddah be 33°C on April 14?",
+          "odds": "+138",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
-          "odds": "+1150",
+          "event": "Will the highest temperature in Toronto be 20°C on April 15?",
+          "odds": "+212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Jack Thorne win the 2026 Fields Medal?",
-          "odds": "+117",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Chongqing be 21°C on April 14?",
-          "odds": "+149",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Nicolás Maduro be the leader of Venezuela end of 2026?",
-          "odds": "+378",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will MONOPOLY GO!Chat be #2 Free App in the US Apple App Store on April 14?",
-          "odds": "+2464",
+          "event": "Clube Náutico Capibaribe vs. São Bernardo FC: Both Teams to Score",
+          "odds": "+100",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
