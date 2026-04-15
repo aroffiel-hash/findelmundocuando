@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "15 de abril de 2026 — 04:44 UTC",
+  "lastUpdated": "15 de abril de 2026 — 06:51 UTC",
   "ticker": [
+    "Iran says $270bn war loss must be compensated, as fresh talks with US loom",
+    "England beat Spain 1-0 to lead Women’s World Cup 2027 qualifying group",
+    "Avdija scores 41 as Trail Blazers upset Suns in NBA West play-in",
+    "Candidate calls for new election in Peru, claiming fraud without evidence",
+    "US military says blockade of Iran ports ‘completely’ halts economic trade",
     "South Africa appoints former apartheid-era negotiator as US ambassador",
     "New trial begins over football legend Maradona’s death",
     "US forces kill 4 people in latest strike on vessels in eastern Pacific",
@@ -10,12 +15,7 @@
     "Iran war live: Trump says war ‘close to over’ as Hormuz blockade continues",
     "French police arrest students protesting anti-Semitism law",
     "Delcy Rodriguez calls for a ‘Venezuela free of sanctions’ amid US detente",
-    "Israel and Lebanon hold rare talks in Washington, DC, amid Iran war",
-    "The Take: Who is keeping the fight alive in Sudan’s war?",
-    "Fifth woman accuses former US lawmaker Eric Swalwell of sexual misconduct",
-    "Atletico edge Barcelona on aggregate to reach Champions League semifinal",
-    "Canada faces calls to rescind planned cuts to refugee healthcare scheme",
-    "Israeli attack kills several people in Gaza refugee camp"
+    "Israel and Lebanon hold rare talks in Washington, DC, amid Iran war"
   ],
   "sections": [
     {
@@ -23,20 +23,14 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Kharg Island no longer under Iranian control by May 31?",
-          "odds": "+1566",
+          "event": "Will Reza Pahlavi enter Iran by December 31?",
+          "odds": "+809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Kevin Cramer vote to confirm Kevin Warsh as Chair of the Federal Reserve?",
           "odds": "-1392",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Reza Pahlavi enter Iran by December 31?",
-          "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -48,19 +42,25 @@
         },
         {
           "event": "Will the U.S. invade Iran before 2027?",
-          "odds": "+233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Warsaw be 14°C on April 15?",
-          "odds": "+880",
+          "odds": "+244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "US x Iran permanent peace deal by April 30, 2026?",
-          "odds": "+170",
+          "odds": "+156",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Naftali Bennett be the next Prime Minister of Israel?",
+          "odds": "+270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Justin Briner as Izuku Midoriya (My Hero Academia FINAL SEASON) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -72,7 +72,7 @@
       "rows": [
         {
           "event": "Will Crude Oil (CL) hit (LOW) $60 by end of June?",
-          "odds": "+669",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -84,7 +84,7 @@
         },
         {
           "event": "Aaron Taylor-Johnson announced as next James Bond?",
-          "odds": "+1624",
+          "odds": "+1104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -126,13 +126,19 @@
         },
         {
           "event": "Will Kamala Harris win the 2028 Democratic presidential nomination?",
-          "odds": "+1487",
+          "odds": "+1438",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Indian Union Muslim League (IUML) win between 10 and 12 seats in the 2026 Kerala Legislative Assembly election?",
           "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Starmer say \"Shadow Secretary\" during the next Prime Minister's Questions event?",
+          "odds": "+1165",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -150,13 +156,7 @@
         },
         {
           "event": "Will the All India Trinamool Congress (AITC) win the most seats in the 2026 West Bengal Legislative Assembly election?",
-          "odds": "-130",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "2026 Balance of Power: R Senate, R House",
-          "odds": "+669",
+          "odds": "-126",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,32 +167,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Brighton & Hove Albion FC vs. Chelsea FC end in a draw?",
-          "odds": "+284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Meta reach $730 in April?",
-          "odds": "+316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Istanbul be 12°C on April 16?",
-          "odds": "+122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Wuning 2: Jie Cui vs Mikhail Kukushkin",
-          "odds": "+127",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will there be between 20 and 30 average daily transits of the Strait of Hormuz on April 30?",
-          "odds": "+998",
+          "event": "Xinjiang Flying Tigers vs. Shenzhen Leopards",
+          "odds": "+334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -203,14 +179,38 @@
           "moved": "none"
         },
         {
-          "event": "Will NYC have more than 6 inches of precipitation in April?",
-          "odds": "+1685",
+          "event": "Will the Los Angeles Dodgers win the 2026 World Series?",
+          "odds": "+244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Trump talk to Elon Musk in April?",
-          "odds": "+300",
+          "event": "USD.AI FDV above $400M one day after launch?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
+          "odds": "+1415",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Clube Náutico Capibaribe vs. São Bernardo FC: Both Teams to Score",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Zhejiang Zhiye FC win on 2026-04-17?",
+          "odds": "+122",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will CF América vs. Nashville SC end in a draw?",
+          "odds": "-132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
