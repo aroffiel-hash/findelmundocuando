@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "15 de abril de 2026 — 22:36 UTC",
+  "lastUpdated": "15 de abril de 2026 — 23:36 UTC",
   "ticker": [
+    "Peru’s ballot count drags on amid frustration with presidential election",
+    "Israel bombs homes in southern Lebanon",
     "Brazil’s police open a probe into presidential candidate Flavio Bolsonaro",
     "Bayern edge Real Madrid 4-3 in classic to reach Champions League semifinals",
     "US jury finds Ticketmaster and Live Nation had anticompetitive monopoly",
@@ -13,9 +15,7 @@
     "Pakistani army chief in Tehran amid bid to restart US talks",
     "Pakistan army chief in Tehran to advance next round of US-Iran talks",
     "Pope Leo visits Cameroon with message of peace amid attacks from Trump",
-    "Arab Barghouti says rights groups must do more for Palestinian prisoners",
-    "What is Trump-backed SAVE America Act and what could it mean for US vote?",
-    "Countries pledge $1.5bn for Sudan crisis as war enters fourth year"
+    "Arab Barghouti says rights groups must do more for Palestinian prisoners"
   ],
   "sections": [
     {
@@ -23,20 +23,26 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
+          "event": "Will Trump agree to unfreeze Iranian assets in April?",
+          "odds": "+117",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Israeli forces enter Beirut by April 30, 2026?",
+          "odds": "+3125",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Kevin Cramer vote to confirm Kevin Warsh as Chair of the Federal Reserve?",
           "odds": "-1392",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Trump agree to unfreeze Iranian assets in April?",
-          "odds": "+122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the People Power Party win 2 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
-          "odds": "+733",
+          "odds": "+809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -57,12 +63,6 @@
           "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will any country leave NATO by December 31, 2026?",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -70,6 +70,12 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
+        {
+          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $100 in April?",
+          "odds": "+127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will SPDR S&P 500 ETF Trust (SPY) hit (HIGH) $710 in April?",
           "odds": "+1328",
@@ -95,20 +101,14 @@
           "moved": "none"
         },
         {
-          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $100 in April?",
-          "odds": "+104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Bank of England increases interest rates by 25 bps after June 2026 meeting?",
           "odds": "+488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the Fed’s lower bound reach 0.5% or lower before 2027?",
-          "odds": "+1940",
+          "event": "Will US crude oil reserves fall to 275M by June 5?",
+          "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -118,6 +118,18 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
+        {
+          "event": "Will Rafael López Aliaga finish in second place in the first round of the 2026 Peruvian presidential election?",
+          "odds": "+127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Roberto Sánchez Palomino finish in second place in the first round of the 2026 Peruvian presidential election?",
+          "odds": "-133",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the All India Trinamool Congress (AITC) win the most seats in the 2026 West Bengal Legislative Assembly election?",
           "odds": "-134",
@@ -147,18 +159,6 @@
           "odds": "+1392",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will Phil Scott win the 2026 Vermont Governor Republican primary election?",
-          "odds": "-1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Chris Dudley win the 2026 Oregon Governor Republican primary election?",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -173,14 +173,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Czechia be in the top 10 at Eurovision 2026?",
-          "odds": "+203",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Trail Blazers vs. Spurs",
-          "odds": "+270",
+          "event": "Will the highest temperature in Denver be between 76-77°F on April 16?",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -191,14 +185,8 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Kuala Lumpur be 31°C on April 16?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Kraken vs. Golden Knights",
-          "odds": "+270",
+          "event": "Will Trump say \"MAGA\" or \"Make America Great Again\" during Fox interview on Wednesday?",
+          "odds": "+340",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -211,6 +199,18 @@
         {
           "event": "Will Zhejiang Zhiye FC win on 2026-04-17?",
           "odds": "+122",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Clube Náutico Capibaribe vs. São Bernardo FC: Both Teams to Score",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will West Ham be relegated from the English Premier League after the 2025–26 season?",
+          "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
