@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "15 de abril de 2026 — 16:56 UTC",
+  "lastUpdated": "15 de abril de 2026 — 18:03 UTC",
   "ticker": [
+    "UN experts urge member states to suspend Israel arms transfers",
+    "Is Iran beating the US at its own propaganda game?",
+    "Israel’s High Court hears petitions to oust Ben-Gvir",
+    "Netanyahu sees Lebanon as his last chance for a ‘win’",
     "Why has Italy’s Giorgia Meloni suspended a defence pact with Israel?",
     "LIVE: Bayern Munich vs Real Madrid – Champions League quarterfinal",
     "Trump escalates threats to fire US Federal Reserve Chair Powell",
@@ -11,11 +15,7 @@
     "‘Erosion of a country’s future’: What has the war cost Sudan?",
     "Every 27 minutes, someone is killed in Sudan’s war",
     "Italian magazine cover of Israeli settler sparks diplomatic backlash",
-    "US-Iran talks: What’s the latest on mediation efforts?",
-    "What people in Lebanon are saying about talks with Israel",
-    "What are Iran’s $100bn in frozen assets and where are they held?",
-    "As world focuses on Iran, Israel ‘engineering starvation policy’ in Gaza",
-    "At least nine people killed in Turkiye’s second school shooting in two days"
+    "US-Iran talks: What’s the latest on mediation efforts?"
   ],
   "sections": [
     {
@@ -29,12 +29,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Steve Witkoff have a diplomatic meeting with Iran by April 30?",
-          "odds": "-733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the People Power Party win 2 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
           "odds": "+733",
           "params": "Fuente: Polymarket",
@@ -42,7 +36,13 @@
         },
         {
           "event": "Iran agrees to end enrichment of uranium by April 30?",
-          "odds": "+194",
+          "odds": "+167",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Russia enter Moskovka by April 30?",
+          "odds": "+809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -53,14 +53,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Trump say \"Russia\" during No Tax on Tips Roundtable?",
-          "odds": "+104",
+          "event": "Will Naftali Bennett be the next Prime Minister of Israel?",
+          "odds": "+270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Naftali Bennett be the next Prime Minister of Israel?",
-          "odds": "+300",
+          "event": "US x Iran diplomatic meeting by April 30, 2026?",
+          "odds": "-900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -101,14 +101,14 @@
           "moved": "none"
         },
         {
-          "event": "S&P 500 (SPX) Up or Down on April 15?",
-          "odds": "-455",
+          "event": "Bank of England increases interest rates by 25 bps after June 2026 meeting?",
+          "odds": "+525",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Bank of England increases interest rates by 25 bps after June 2026 meeting?",
-          "odds": "+525",
+          "event": "Will the Fed’s lower bound reach 0.5% or lower before 2027?",
+          "odds": "+1940",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -126,7 +126,7 @@
         },
         {
           "event": "Will the All India Trinamool Congress (AITC) win the most seats in the 2026 West Bengal Legislative Assembly election?",
-          "odds": "-136",
+          "odds": "-127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -167,20 +167,20 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the highest temperature in London be 18°C on April 17?",
-          "odds": "+117",
+          "event": "Will Nicolás Maduro be the leader of Venezuela end of 2026?",
+          "odds": "+509",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Austin be between 88-89°F on April 16?",
-          "odds": "+117",
+          "event": "Will the highest temperature in Seattle be between 60-61°F on April 17?",
+          "odds": "+1685",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Barcelona Open: Cameron Norrie vs Ethan Quinn",
-          "odds": "-376",
+          "event": "CSKA Moscow vs. BC Nizhny Novgorod",
+          "odds": "-900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -191,14 +191,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Zhejiang Zhiye FC win on 2026-04-17?",
-          "odds": "+122",
+          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
+          "odds": "+1076",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
-          "odds": "+1415",
+          "event": "Will Zhejiang Zhiye FC win on 2026-04-17?",
+          "odds": "+122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
