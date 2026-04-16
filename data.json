@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "16 de abril de 2026 — 17:07 UTC",
+  "lastUpdated": "16 de abril de 2026 — 19:04 UTC",
   "ticker": [
+    "Ex-Arsenal and Liverpool keeper Manninger killed in car crash with train",
+    "Barcelona appeal to UEFA over Laws of Game failure in Champions League exit",
+    "Gaza’s new generation of journalists face challenges, but stay resilient",
+    "Former lieutenant governor of Virginia kills wife and himself, police say",
+    "‘Endless grief’: Turkiye mourns victims of second school shooting in a week",
+    "‘Whose is he?’: A Gaza father’s fight for a child who might not be his",
+    "10-day Lebanon-Israel ceasefire announced by Trump",
+    "No date set for US-Iran talks, as Pakistan pushes to keep diplomacy alive",
+    "US general clarifies Iranian ports under blockade, not Strait of Hormuz",
     "Syria takes control of all bases where US forces were deployed",
     "Marie-Louise Eta: Football’s Game-changer",
     "Trump says Israel and Lebanon agree to temporary ceasefire",
     "Israel says it’s West’s defender, but cares little for European critics",
     "Jet fuel shortage: Why Iran war could ground flights in Europe",
-    "UK police arrest 3 after attempted arson at Persian-language media centre",
-    "Thousands of bees swarm southern Israel",
-    "US strike on Pacific vessel kills three",
-    "Turkiye’s Roketsan eyes top 10 exporter rank amid Middle East conflict",
-    "After three years of war, Sudan army and RSF locked in military impasse",
-    "Doping is a ‘big problem’ in India, global anti-doping body chief says",
-    "Who will lead Real Madrid’s ‘revolution’ after Champions League exit?",
-    "FIFA ‘surprised’ by US backlash as transport costs skyrocket at World Cup",
-    "Hegseth says US to keep Iran port blockade in Hormuz, ready for new attacks",
-    "Legal migrants remain vulnerable to trafficking"
+    "UK police arrest 3 after attempted arson at Persian-language media centre"
   ],
   "sections": [
     {
@@ -29,12 +29,6 @@
           "moved": "none"
         },
         {
-          "event": "Rainbow Six Siege: G2 Esports vs Twisted Minds (BO3) - Europe MENA League Kickoff Playoffs",
-          "odds": "-300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Ukraine peace referendum scheduled by June 30?",
           "odds": "+1328",
           "params": "Fuente: Polymarket",
@@ -42,13 +36,19 @@
         },
         {
           "event": "Will Howard Lutnick be the next to leave the Trump Cabinet before 2027?",
-          "odds": "+566",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the US x Iran ceasefire be extended by April 18, 2026?",
+          "odds": "+222",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Naftali Bennett be the next Prime Minister of Israel?",
-          "odds": "+270",
+          "odds": "+257",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -60,7 +60,7 @@
         },
         {
           "event": "Will any country leave NATO by December 31, 2026?",
-          "odds": "+809",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -70,12 +70,6 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
-        {
-          "event": "S&P 500 (SPX) Up or Down on April 16?",
-          "odds": "-233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will S&P 500 (SPX) hit $9,300 (HIGH) in December?",
           "odds": "+2027",
@@ -109,6 +103,12 @@
         {
           "event": "Will US crude oil reserves fall to 375M by May 1?",
           "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Bank of England increases interest rates by 25 bps after June 2026 meeting?",
+          "odds": "+488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -156,7 +156,7 @@
         },
         {
           "event": "Will Dominique de Villepin win the 2027 French presidential election?",
-          "odds": "+1685",
+          "odds": "+1624",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -180,19 +180,13 @@
         },
         {
           "event": "Will a new country join the Abraham Accords before 2027?",
-          "odds": "+133",
+          "odds": "+132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Donald Trump publicly insult someone on April 17, 2026?",
-          "odds": "-1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Munich be 23°C on April 18?",
-          "odds": "+2400",
+          "event": "Will SC Braga win on 2026-04-16?",
+          "odds": "+426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -203,14 +197,20 @@
           "moved": "none"
         },
         {
-          "event": "Hyperliquid Up or Down - April 16, 1:00PM-1:05PM ET",
-          "odds": "-1899",
+          "event": "Will Tesla (TSLA) close above $310 end of April?",
+          "odds": "-3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will West Ham be relegated from the English Premier League after the 2025–26 season?",
           "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jack Thorne win the 2026 Fields Medal?",
+          "odds": "+108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
