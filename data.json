@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "16 de abril de 2026 — 07:22 UTC",
+  "lastUpdated": "16 de abril de 2026 — 09:12 UTC",
   "ticker": [
+    "Fire at key Australian refinery deepens fuel risks amid Iran war shortages",
+    "Muslims the target? Fury as millions lose voting rights in India’s Bengal",
     "Why many Kashmiris are donating gold, breaking piggy banks for Iran",
     "US military kills three in new Eastern Pacific boat strike",
     "Iran war: What is happening on day 48 of the US-Iran conflict?",
@@ -13,9 +15,7 @@
     "Democrats clash with US Energy Secretary over Iran war and gas prices",
     "Pakistan expecting ‘major breakthrough’ tied to Iran’s nuclear programme",
     "Israeli forces fire stun grenades at journalists in occupied Nablus",
-    "Brazil’s fugitive ex-spy chief freed in the US after ICE detention",
-    "Russian attacks on Ukraine kill 14, including a child, authorities say",
-    "Huge crowds greet Pope Leo in Cameroon 20 years after outreach trip"
+    "Brazil’s fugitive ex-spy chief freed in the US after ICE detention"
   ],
   "sections": [
     {
@@ -23,20 +23,26 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Kevin Cramer vote to confirm Kevin Warsh as Chair of the Federal Reserve?",
-          "odds": "-1392",
+          "event": "Houthi military action against Israel by April 30, 2026?",
+          "odds": "+488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the People Power Party win 2 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
-          "odds": "+809",
+          "odds": "+334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Ukraine peace referendum scheduled by June 30?",
           "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "US x Iran permanent peace deal by May 31, 2026?",
+          "odds": "-143",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -57,12 +63,6 @@
           "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will Justin Briner as Izuku Midoriya (My Hero Academia FINAL SEASON) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -70,6 +70,12 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
+        {
+          "event": "Aaron Taylor-Johnson announced as next James Bond?",
+          "odds": "+2172",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will SPDR S&P 500 ETF Trust (SPY) hit (HIGH) $710 in April?",
           "odds": "+1328",
@@ -84,13 +90,13 @@
         },
         {
           "event": "Will US crude oil reserves fall to 375M by May 1?",
-          "odds": "+1566",
+          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will 4 Fed rate cuts happen in 2026?",
-          "odds": "+2464",
+          "odds": "+2841",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -105,12 +111,6 @@
           "odds": "+488",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will US crude oil reserves fall to 275M by June 5?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -118,18 +118,6 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
-        {
-          "event": "Will Roberto Sánchez Palomino finish in third place in the first round of the 2026 Peruvian presidential election?",
-          "odds": "+189",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Gabriel Attal win the 2027 French presidential election?",
-          "odds": "+2602",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "2026 Balance of Power: R Senate, R House",
           "odds": "+733",
@@ -159,6 +147,18 @@
           "odds": "+2841",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Dominique de Villepin win the 2027 French presidential election?",
+          "odds": "+1718",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the No to ten million Switzerland initiative be approved in Switzerland’s June 14, 2026 popular vote?",
+          "odds": "+212",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -167,8 +167,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the highest temperature in Sao Paulo be 31°C on April 18?",
-          "odds": "+566",
+          "event": "Will the highest temperature in Busan be 22°C on April 18?",
+          "odds": "+163",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -179,26 +179,20 @@
           "moved": "none"
         },
         {
-          "event": "Will Trump praise Allah again by April 30?",
-          "odds": "+233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Trump say \"Obliterated\" or \"Obliteration\" during King Charles visit?",
           "odds": "+244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Donald Trump post 120-139 Truth Social posts from April 10 to April 17, 2026?",
-          "odds": "-257",
+          "event": "Hyperliquid Up or Down - April 16, 5:05AM-5:10AM ET",
+          "odds": "-108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "AEK vs. Rayo Vallecano de Madrid: Both Teams to Score",
-          "odds": "-122",
+          "event": "Olympiacos B.C. vs. Olimpia Milano",
+          "odds": "-566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -209,8 +203,14 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Chicago be between 80-81°F on April 17?",
-          "odds": "+233",
+          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
+          "odds": "+1076",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Elon Musk’s net worth be between $650b and $660b on April 30?",
+          "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
