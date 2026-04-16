@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "16 de abril de 2026 — 22:34 UTC",
+  "lastUpdated": "16 de abril de 2026 — 23:35 UTC",
   "ticker": [
+    "People in Beirut wary of trusting Israel will uphold Lebanon ceasefire",
+    "US panel approves Trump’s design for massive arch in Washington, DC",
+    "Israel and Lebanon’s 10-day ceasefire goes into effect",
     "Displaced Lebanese wary as ceasefire between Israel and Hezbollah begins",
     "US State Department restricts visas for those who ‘support adversaries’",
     "Netflix cofounder Hastings to step down after it lost Warner Bros deal",
@@ -12,10 +15,7 @@
     "Ex-NBA player Damon Jones to be first to plead guilty in US gambling case",
     "Qatar hosts talks aimed at putting Iran peace process back on track",
     "Who is keeping the fight alive in Sudan’s war?",
-    "More than $5 trillion in US taxes. Who gets it?",
-    "AOC, Boebert join calls for sexual misconduct accountability in Congress",
-    "What role is China playing in the Iran war and how is it affected?",
-    "UK’s Starmer under fire over report Mandelson failed security vetting"
+    "More than $5 trillion in US taxes. Who gets it?"
   ],
   "sections": [
     {
@@ -31,6 +31,12 @@
         {
           "event": "Ukraine peace referendum scheduled by June 30?",
           "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Marco Rubio attend the next US x Iran diplomatic meeting?",
+          "odds": "+910",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -53,14 +59,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Justin Briner as Izuku Midoriya (My Hero Academia FINAL SEASON) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will United Russia win between 295 and 309 seats in the next Russian State Duma election?",
-          "odds": "+1023",
+          "event": "Will USD fall to 1.5M Iranian rials by April 30?",
+          "odds": "+170",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,32 +167,20 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Amazon reach $260 in April?",
-          "odds": "+132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Chelsea FC win on 2026-04-18?",
-          "odds": "+127",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will \"XO, Kitty: Season 3\" be the top global Netflix show this week?",
           "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Manila be 34°C on April 18?",
-          "odds": "+257",
+          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
+          "odds": "+1076",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
-          "odds": "+1076",
+          "event": "Will the highest temperature in Tokyo be 23°C or higher on April 18?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -211,6 +199,18 @@
         {
           "event": "Will Jack Thorne win the 2026 Fields Medal?",
           "odds": "+108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Silver (XAGUSD) hit (HIGH) $84 in April?",
+          "odds": "-127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Starmer out by December 31, 2026?",
+          "odds": "-149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
