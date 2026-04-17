@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "17 de abril de 2026 — 18:51 UTC",
+  "lastUpdated": "17 de abril de 2026 — 19:54 UTC",
   "ticker": [
+    "US Congress temporarily extends controversial surveillance power under FISA",
+    "World reacts to Strait of Hormuz reopening amid US-Iran conflict",
+    "US confirms transit fare spike to $150 for World Cup fans in New Jersey",
+    "Scholar Rumeysa Ozturk returns to Turkiye following Trump deportation push",
     "Shipping firms seek clarifications before crossing Hormuz",
     "What has Trump said before possible US-Iran talks and what could it mean?",
     "Fifteen South American people deported from the US arrive in DR Congo",
@@ -11,23 +15,13 @@
     "Southern Lebanon’s only functioning hospital damaged by Israeli strikes",
     "Ukraine’s long-range strikes prompt new Russian threat against Europe",
     "Men caught competing as women in prestigious South African marathon",
-    "Controversy as Lebanese banker Sehnaoui is praised for supporting Israel",
-    "Can Pakistan secure Iran-US nuclear compromise, as Trump says deal ‘close’?",
-    "Manchester City vs Arsenal: Guardiola says defeat ends Premier League race",
-    "‘Waiting without answers’: Gaza mother’s fear for her three imprisoned sons",
-    "Iran foreign minister says Strait of Hormuz ‘completely open’"
+    "Controversy as Lebanese banker Sehnaoui is praised for supporting Israel"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Will USD fall to 1.5M Iranian rials by April 30?",
-          "odds": "-163",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will the People Power Party win 2 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
           "odds": "+257",
@@ -41,26 +35,32 @@
           "moved": "none"
         },
         {
+          "event": "Will Jared Kushner have a diplomatic meeting with Iran by April 30?",
+          "odds": "-316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will 2–3 ships be successfully targeted by Iran by April 30?",
           "odds": "-316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "US obtains Iranian enriched uranium by December 31?",
-          "odds": "-108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Naftali Bennett be the next Prime Minister of Israel?",
-          "odds": "+270",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will \"DAN DA DAN Season 2 (kensuke ushio)\" win Best Anime Score at the 2026 Crunchyroll Anime Awards?",
           "odds": "-132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Lexi Howard die in Euphoria: Season 3?",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -77,6 +77,12 @@
           "moved": "none"
         },
         {
+          "event": "Jerome Powell out as Fed Chair by May 31, 2026?",
+          "odds": "-194",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Brentford FC vs. Fulham FC: O/U 10.5 Total Corners",
           "odds": "+138",
           "params": "Fuente: Polymarket",
@@ -85,12 +91,6 @@
         {
           "event": "Will US crude oil reserves fall to 375M by May 1?",
           "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Jerome Powell out as Fed Chair by May 31, 2026?",
-          "odds": "-194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -125,6 +125,24 @@
           "moved": "none"
         },
         {
+          "event": "Sanae Takaichi out as Prime Minister of Japan in 2026?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump’s approval rating be less than 38.5 on April 24, 2026?",
+          "odds": "-108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Juanma Moreno be the next President of Andalusia following the regional election?",
+          "odds": "-1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the Indian Union Muslim League (IUML) win between 10 and 12 seats in the 2026 Kerala Legislative Assembly election?",
           "odds": "+566",
           "params": "Fuente: Polymarket",
@@ -141,24 +159,6 @@
           "odds": "+1624",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will Ty Masterson win the 2026 Kansas Governor Republican primary election?",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Robert Wessels win the 2026 Maine Governor Republican primary election?",
-          "odds": "+2841",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Tamas Sulyok out as President of Hungary by June 30?",
-          "odds": "-400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -167,20 +167,20 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will CZ post 20-39 posts from April 14 to April 21, 2026?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will GPT-6 be released by June 30, 2026?",
           "odds": "+132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in London be 16°C on April 19?",
-          "odds": "+163",
+          "event": "XRP Up or Down on April 18?",
+          "odds": "-117",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democrats win the Oklahoma governor race in 2026?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -197,20 +197,20 @@
           "moved": "none"
         },
         {
+          "event": "Will the highest temperature in Paris be 23°C or higher on April 18?",
+          "odds": "+553",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will FK Oleksandriya win on 2026-04-20?",
           "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will West Ham be relegated from the English Premier League after the 2025–26 season?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Arsenal FC vs. Newcastle United FC end in a draw?",
-          "odds": "+354",
+          "event": "Will the highest temperature in Denver be between 60-61°F on April 18?",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
