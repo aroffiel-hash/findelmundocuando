@@ -1,27 +1,33 @@
 {
-  "lastUpdated": "17 de abril de 2026 — 05:22 UTC",
+  "lastUpdated": "17 de abril de 2026 — 07:23 UTC",
   "ticker": [
+    "World Athletics blocks 11 athlete transfer requests to Turkiye",
+    "Burkina Faso dissolves more than 100 NGOs and civil society groups",
+    "Could the US withdraw from NATO?",
+    "Iran war: What is happening on day 49 of the US-Iran conflict?",
+    "Young South Sudanese models ‘take up space’ in quest to showcase talent",
+    "Inside Israel’s prison system",
+    "Iran women football players thank Australian government for protection",
+    "‘Vengeance for all’: How Iran’s Lego videos won narrative war against Trump",
+    "Why are anti-war protests in the West muted on Iran?",
+    "Congo’s Sassou Nguesso sworn in for fifth term",
     "Chelsea vs Manchester United: Premier League – teams, lineups, start",
     "Trump calls war on Iran a ‘little diversion’",
     "Australian ex-soldier Roberts-Smith granted bail in Afghan war crimes case",
     "France arrests suspect over 1982 attack on Jewish restaurant",
-    "Pentagon chief Pete Hegseth reads fake Bible verse from Pulp Fiction",
-    "Celebrations in Lebanon as 10-day ceasefire with Israel begins",
-    "IMF, World Bank say they are restoring ties with Venezuela",
-    "How Israel’s war upended daily life in Lebanon",
-    "‘Trump forced Israel into a ceasefire’ with Lebanon",
-    "Celebrations on the road as people begin returning to southern Lebanon",
-    "Iran war live: Ceasefire starts in Lebanon as Trump says Tehran deal close",
-    "People in Beirut wary of trusting Israel will uphold Lebanon ceasefire",
-    "US panel approves Trump’s design for massive arch in Washington, DC",
-    "Israel and Lebanon’s 10-day ceasefire goes into effect",
-    "Displaced Lebanese wary as ceasefire between Israel and Hezbollah begins"
+    "Pentagon chief Pete Hegseth reads fake Bible verse from Pulp Fiction"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Foreign intervention in Gaza by April 30?",
+          "odds": "+3025",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the People Power Party win 2 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
           "odds": "+400",
@@ -42,7 +48,7 @@
         },
         {
           "event": "Will Naftali Bennett be the next Prime Minister of Israel?",
-          "odds": "+244",
+          "odds": "+257",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -57,12 +63,6 @@
           "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will any country leave NATO by December 31, 2026?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -70,12 +70,6 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
-        {
-          "event": "Brentford FC vs. Fulham FC: O/U 1.5",
-          "odds": "-400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Aaron Taylor-Johnson announced as next James Bond?",
           "odds": "+2225",
@@ -111,6 +105,12 @@
           "odds": "+376",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will US crude oil reserves fall to 375M by May 1?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -126,7 +126,7 @@
         },
         {
           "event": "Will the No to ten million Switzerland initiative be approved in Switzerland’s June 14, 2026 popular vote?",
-          "odds": "+222",
+          "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -167,8 +167,26 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the highest temperature in Sao Paulo be 29°C on April 18?",
-          "odds": "+163",
+          "event": "Will Elon Musk post 90-114 tweets from April 18 to April 20, 2026?",
+          "odds": "+354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Italy recognize Palestine before 2027?",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will \"The Devil Wears Prada 2\" Opening Weekend Box Office be greater than 100m?",
+          "odds": "+203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Madrid be 30°C on April 18?",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -179,38 +197,20 @@
           "moved": "none"
         },
         {
+          "event": "Will OpenAI have the best Coding AI model at the end of April 2026?",
+          "odds": "+1392",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Madrid be 25°C on April 19?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Tesla (TSLA) close above $310 end of April?",
           "odds": "-3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Kuala Lumpur be 33°C on April 19?",
-          "odds": "+163",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will SpaceX’s initial public offering occur in June 2026 (ET)?",
-          "odds": "-127",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will West Ham be relegated from the English Premier League after the 2025–26 season?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Arsenal FC vs. Newcastle United FC end in a draw?",
-          "odds": "+354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Miami be between 88-89°F on April 18?",
-          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
