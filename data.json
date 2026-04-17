@@ -1,7 +1,12 @@
 {
-  "lastUpdated": "17 de abril de 2026 — 19:54 UTC",
+  "lastUpdated": "17 de abril de 2026 — 20:38 UTC",
   "ticker": [
-    "US Congress temporarily extends controversial surveillance power under FISA",
+    "Will the ceasefire in Lebanon hold?",
+    "Displaced family reunited with grandfather in Lebanon’s Tyre",
+    "World Cup 2026: FIFA chief Infantino defends pricing and tickets in US",
+    "Why Marie-Louise Eta’s appointment should be the norm, not the exception",
+    "UN warns South Sudan at risk of ‘full-scale famine’ as fighting intensifies",
+    "US Congress extends controversial surveillance power under FISA for 10 days",
     "World reacts to Strait of Hormuz reopening amid US-Iran conflict",
     "US confirms transit fare spike to $150 for World Cup fans in New Jersey",
     "Scholar Rumeysa Ozturk returns to Turkiye following Trump deportation push",
@@ -10,12 +15,7 @@
     "Fifteen South American people deported from the US arrive in DR Congo",
     "Inside Kharg Island, Iran’s oil lifeline under threat",
     "Arsenal to embrace ‘privilege’ not pressure of Man City Premier League tilt",
-    "Macron demands assurances after Iran opens Strait of Hormuz",
-    "Record number of Rohingya refugees died at sea last year, UNHCR says",
-    "Southern Lebanon’s only functioning hospital damaged by Israeli strikes",
-    "Ukraine’s long-range strikes prompt new Russian threat against Europe",
-    "Men caught competing as women in prestigious South African marathon",
-    "Controversy as Lebanese banker Sehnaoui is praised for supporting Israel"
+    "Macron demands assurances after Iran opens Strait of Hormuz"
   ],
   "sections": [
     {
@@ -48,7 +48,7 @@
         },
         {
           "event": "Will Naftali Bennett be the next Prime Minister of Israel?",
-          "odds": "+284",
+          "odds": "+244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -107,8 +107,8 @@
           "moved": "none"
         },
         {
-          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $115 Week of April 13 2026?",
-          "odds": "+2400",
+          "event": "Will Trump create a tariff dividend by June 30?",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -137,12 +137,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Juanma Moreno be the next President of Andalusia following the regional election?",
-          "odds": "-1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the Indian Union Muslim League (IUML) win between 10 and 12 seats in the 2026 Kerala Legislative Assembly election?",
           "odds": "+566",
           "params": "Fuente: Polymarket",
@@ -159,6 +153,12 @@
           "odds": "+1624",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Keiko Fujimori win the first round of the 2026 Peruvian presidential elections by at least 5%?",
+          "odds": "-562",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -168,19 +168,7 @@
       "rows": [
         {
           "event": "Will GPT-6 be released by June 30, 2026?",
-          "odds": "+132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "XRP Up or Down on April 18?",
-          "odds": "-117",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democrats win the Oklahoma governor race in 2026?",
-          "odds": "+1011",
+          "odds": "+138",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -197,20 +185,32 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Paris be 23°C or higher on April 18?",
-          "odds": "+553",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will FK Oleksandriya win on 2026-04-20?",
           "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Denver be between 60-61°F on April 18?",
-          "odds": "+1328",
+          "event": "Will West Ham be relegated from the English Premier League after the 2025–26 season?",
+          "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Arsenal FC vs. Newcastle United FC end in a draw?",
+          "odds": "+354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jack Thorne win the 2026 Fields Medal?",
+          "odds": "+108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will a team from England be the 2026 Europa League winner?",
+          "odds": "-104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
