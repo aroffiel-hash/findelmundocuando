@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "17 de abril de 2026 — 22:32 UTC",
+  "lastUpdated": "17 de abril de 2026 — 23:33 UTC",
   "ticker": [
+    "Pressure mounts on Peru’s election authorities amid presidential race delay",
+    "US judge blocks Justice Department bid to seize voter data in Rhode Island",
     "Trump seeks ‘resolution’ of his $10bn lawsuit against IRS, spurring concern",
     "Iran rejects Trump claim on deal to surrender nuclear material stockpiles",
     "Lebanon president says country is no longer a pawn amid Israel ceasefire",
@@ -13,9 +15,7 @@
     "US Congress extends controversial surveillance power under FISA for 10 days",
     "World reacts to Strait of Hormuz reopening amid US-Iran conflict",
     "US confirms transit fare spike to $150 for World Cup fans in New Jersey",
-    "Scholar Rumeysa Ozturk returns to Turkiye following Trump deportation push",
-    "Shipping firms seek clarifications before crossing Hormuz",
-    "What has Trump said before possible US-Iran talks and what could it mean?"
+    "Scholar Rumeysa Ozturk returns to Turkiye following Trump deportation push"
   ],
   "sections": [
     {
@@ -41,26 +41,26 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Warsaw be 16°C on April 18?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will 2–3 ships be successfully targeted by Iran by April 30?",
           "odds": "-316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Naftali Bennett be the next Prime Minister of Israel?",
-          "odds": "+257",
+          "event": "US x Iran diplomatic meeting by April 19, 2026?",
+          "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will \"DAN DA DAN Season 2 (kensuke ushio)\" win Best Anime Score at the 2026 Crunchyroll Anime Awards?",
-          "odds": "-132",
+          "event": "Will Naftali Bennett be the next Prime Minister of Israel?",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Iran sabotage undersea internet cables by April 30?",
+          "odds": "+2757",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -79,6 +79,12 @@
         {
           "event": "Brentford FC vs. Fulham FC: O/U 10.5 Total Corners",
           "odds": "+138",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "S&P 500 (SPX) Up or Down on April 20?",
+          "odds": "+108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -105,12 +111,6 @@
           "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will S&P 500 (SPX) hit $5,800 (LOW) in December?",
-          "odds": "+143",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -126,7 +126,7 @@
         },
         {
           "event": "Will Keiko Fujimori win the first round of the 2026 Peruvian presidential elections by at least 5%?",
-          "odds": "-566",
+          "odds": "-629",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -144,13 +144,13 @@
         },
         {
           "event": "Will Dominique de Villepin win the 2027 French presidential election?",
-          "odds": "+1624",
+          "odds": "+1718",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will David Roth be the Democratic nominee for Senate in Idaho?",
-          "odds": "+203",
+          "event": "Will Progressive Bulgaria (PB) win between 85-89 seats in the 2026 Bulgarian parliamentary election?",
+          "odds": "+663",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -167,32 +167,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Will Shōnan Bellmāre win on 2026-04-18?",
+          "odds": "-149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will GPT-6 be released by June 30, 2026?",
           "odds": "+132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Paris be 16°C on April 19?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Donald Trump publicly insult Nicolás Maduro by April 30, 2026?",
-          "odds": "-185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will SSC Napoli win on 2026-04-24?",
-          "odds": "-270",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will 150 or more ships transit the Strait of Hormuz between April 20-April 26?",
-          "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -209,8 +191,26 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Kuala Lumpur be 34°C or higher on April 18?",
-          "odds": "+1150",
+          "event": "Game Handicap: BLG (-1.5) vs Invictus Gaming (+1.5)",
+          "odds": "-122",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Mobile Legends Bang Bang: Team Liquid ID vs Bigetron by Vitality (BO3) - MPL Indonesia Regular Season",
+          "odds": "+108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Mantova 1911 win on 2026-04-18?",
+          "odds": "+143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "AHL: Rockford IceHogs vs. Texas Stars",
+          "odds": "+143",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
