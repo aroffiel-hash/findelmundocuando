@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "18 de abril de 2026 — 08:47 UTC",
+  "lastUpdated": "18 de abril de 2026 — 09:41 UTC",
   "ticker": [
     "Iran has learned that the Strait of Hormuz is its strongest deterrent",
     "Man City vs Arsenal: All you need to know about title showdown",
@@ -13,7 +13,7 @@
     "Lebanese man removes Israeli flag from castle in southern Lebanon",
     "Trump thanks Gulf states for their ‘tremendous’ support",
     "UN aid chief warns of possible ‘full-scale famine’ in South Sudan",
-    "Iran war live: Tehran says US blockade of ports must end as strait opens",
+    "Iran war live: Hormuz Strait shut down again over US ‘piracy’, says Tehran",
     "Pressure mounts on Peru’s election authorities amid presidential race delay",
     "US judge blocks Justice Department bid to seize voter data in Rhode Island"
   ],
@@ -23,8 +23,26 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
+          "event": "Israel x Iran permanent peace deal by April 30, 2026?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the People Power Party win 2 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
           "odds": "+257",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Warsaw be 10°C on April 20?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Iran agrees to surrender enriched uranium stockpile by April 30, 2026?",
+          "odds": "+122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -43,24 +61,6 @@
         {
           "event": "Will \"DAN DA DAN Season 2 (kensuke ushio)\" win Best Anime Score at the 2026 Crunchyroll Anime Awards?",
           "odds": "-132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Lexi Howard die in Euphoria: Season 3?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "RC Deportivo La Coruña vs. CD Mirandés: O/U 2.5",
-          "odds": "-108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will any country leave NATO by December 31, 2026?",
-          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -89,12 +89,6 @@
           "moved": "none"
         },
         {
-          "event": "S&P 500 (SPX) Opens Up or Down on April 20?",
-          "odds": "-900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Brentford FC vs. Fulham FC: O/U 10.5 Total Corners",
           "odds": "+138",
           "params": "Fuente: Polymarket",
@@ -111,6 +105,12 @@
           "odds": "+2027",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Trump create a tariff dividend by June 30?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -119,14 +119,8 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Morality, Unity, Honour (MECh) win at least one seat in the 2026 Bulgarian parliamentary election?",
-          "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Keiko Fujimori win the first round of the 2026 Peruvian presidential elections by at least 5%?",
-          "odds": "-640",
+          "odds": "-719",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -138,7 +132,7 @@
         },
         {
           "event": "Will Dominique de Villepin win the 2027 French presidential election?",
-          "odds": "+1718",
+          "odds": "+1654",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -159,6 +153,12 @@
           "odds": "+100",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Robert Wessels win the 2026 Maine Governor Republican primary election?",
+          "odds": "+2841",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -167,8 +167,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the highest temperature in Toronto be 9°C on April 20?",
-          "odds": "+1462",
+          "event": "Will the Republican Party win the NY-21 House seat?",
+          "odds": "-177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -203,14 +203,14 @@
           "moved": "none"
         },
         {
-          "event": "Will West Ham be relegated from the English Premier League after the 2025–26 season?",
-          "odds": "+185",
+          "event": "Will the highest temperature in Tel Aviv be 21°C on April 19?",
+          "odds": "+2602",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Jack Thorne win the 2026 Fields Medal?",
-          "odds": "+108",
+          "event": "Will the highest temperature in Toronto be 1°C or below on April 20?",
+          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
