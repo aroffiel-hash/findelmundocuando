@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "18 de abril de 2026 — 10:34 UTC",
+  "lastUpdated": "18 de abril de 2026 — 11:30 UTC",
   "ticker": [
+    "Hormuz: Spin in the Strait",
+    "Ambulance crew in south Lebanon describes Israel’s ‘triple-tap’ attack",
+    "As oil prices plunge below $91 after weeks, a new Hormuz crisis emerges",
     "Death penalty law proves the EU must treat Israel as an apartheid state",
     "Pakistan PM, army chief wrap up key trips in push for more US-Iran talks",
     "Iran has learned that the Strait of Hormuz is its strongest deterrent",
@@ -12,10 +15,7 @@
     "Curry, Warriors knocked out of NBA play-in tournament by Suns",
     "Al-Noor centre: A lifeline for blind children in Gaza",
     "New Jersey announces $150 transit tickets to reach the World Cup",
-    "Lebanese man removes Israeli flag from castle in southern Lebanon",
-    "Trump thanks Gulf states for their ‘tremendous’ support",
-    "UN aid chief warns of possible ‘full-scale famine’ in South Sudan",
-    "Iran war live: Hormuz Strait shut down again over US ‘piracy’, says Tehran"
+    "Lebanese man removes Israeli flag from castle in southern Lebanon"
   ],
   "sections": [
     {
@@ -24,7 +24,13 @@
       "rows": [
         {
           "event": "Will the People Power Party win 2 seats in South Korea’s June 3, 2026 parliamentary by-elections?",
-          "odds": "+257",
+          "odds": "+143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "US x Iran permanent peace deal by April 22, 2026?",
+          "odds": "+270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -57,12 +63,6 @@
           "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "RC Deportivo La Coruña vs. CD Mirandés: O/U 2.5",
-          "odds": "-108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -73,12 +73,6 @@
         {
           "event": "Oilers vs. Ducks",
           "odds": "-170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will US crude oil reserves fall to 375M by May 1?",
-          "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -111,6 +105,12 @@
           "odds": "+143",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will US crude oil reserves fall to 275M by June 5?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -125,14 +125,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Trump’s approval rating be between 39.0 and 39.4 on April 24, 2026?",
-          "odds": "+426",
+          "event": "Will Dominique de Villepin win the 2027 French presidential election?",
+          "odds": "+1685",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Dominique de Villepin win the 2027 French presidential election?",
-          "odds": "+1685",
+          "event": "Will Trump’s approval rating be between 39.0 and 39.4 on April 24, 2026?",
+          "odds": "+426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -167,6 +167,18 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Will the highest temperature in Buenos Aires be 24°C on April 20?",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Beijing be 21°C on April 20?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the Republican Party win the NY-21 House seat?",
           "odds": "-177",
           "params": "Fuente: Polymarket",
@@ -191,26 +203,14 @@
           "moved": "none"
         },
         {
+          "event": "Will Aston Villa finish in 3rd place in the 2025-26 English Premier League?",
+          "odds": "+157",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
           "odds": "+1076",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will LeBron James play for the Sacramento Kings in 2026-27?",
-          "odds": "+329",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Tel Aviv be 21°C on April 19?",
-          "odds": "+2602",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in New York City be between 50-51°F on April 20?",
-          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
