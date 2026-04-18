@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "18 de abril de 2026 — 22:27 UTC",
+  "lastUpdated": "18 de abril de 2026 — 23:28 UTC",
   "ticker": [
     "Iran reasserts control of Hormuz Strait as Trump warns against ‘blackmail’",
     "Manchester United beat Chelsea as Cunha strike boosts Champions League hope",
@@ -13,7 +13,7 @@
     "Ukraine police shoot dead gunman who killed six in Kyiv, took hostages",
     "Trump joined by Joe Rogan as he signs order to speed up psychedelic review",
     "‘No regrets’: Venezuela’s Machado defends giving Nobel medal to Trump",
-    "LIVE: Chelsea 0-1 Manchester United – Premier League",
+    "Chelsea 0-1 Manchester United: Premier League – as it happened",
     "“Lords of war.” Brazil’s president condemns UN Security Council",
     "French soldier serving with UNIFIL killed in Lebanon attack"
   ],
@@ -35,6 +35,12 @@
           "moved": "none"
         },
         {
+          "event": "Israel x Hezbollah permanent peace deal by May 31, 2026?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Another Iranian diplomat expelled by April 30?",
           "odds": "+1566",
           "params": "Fuente: Polymarket",
@@ -42,25 +48,19 @@
         },
         {
           "event": "Kharg Island no longer under Iranian control by April 30?",
-          "odds": "+1899",
+          "odds": "+1983",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump agree to unfreeze Iranian assets in April?",
+          "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Iran sabotage undersea internet cables by April 30?",
           "odds": "+2841",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Naftali Bennett be the next Prime Minister of Israel?",
-          "odds": "+244",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will any country leave NATO by December 31, 2026?",
-          "odds": "+809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -70,6 +70,12 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
+        {
+          "event": "Will WTI Crude Oil (WTI) hit (LOW) $50 Week of April 20 2026?",
+          "odds": "-3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Trump create a tariff dividend by June 30?",
           "odds": "+1566",
@@ -105,12 +111,6 @@
           "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will the Fed’s lower bound reach 0.5% or lower before 2027?",
-          "odds": "+3025",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -118,6 +118,12 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
+        {
+          "event": "Peru General Election invalidated by June 30?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Dominique de Villepin win the 2027 French presidential election?",
           "odds": "+1899",
@@ -133,12 +139,6 @@
         {
           "event": "Will the Indian Union Muslim League (IUML) win between 10 and 12 seats in the 2026 Kerala Legislative Assembly election?",
           "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Peru General Election invalidated by June 30?",
-          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -173,14 +173,20 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Munich be 11°C on April 20?",
-          "odds": "+2464",
+          "event": "Will MFK Karviná win on 2026-04-25?",
+          "odds": "+117",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will MFK Karviná win on 2026-04-25?",
-          "odds": "+117",
+          "event": "Will MrBeast say \"America\" during his next video?",
+          "odds": "+284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the price of XRP be between $1.30 and $1.40 on April 19?",
+          "odds": "+1269",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -197,20 +203,14 @@
           "moved": "none"
         },
         {
-          "event": "Will IMAX (IMAX) beat quarterly earnings?",
-          "odds": "-270",
+          "event": "Will Chelsea FC win on 2026-04-21?",
+          "odds": "+177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will OpenSea launch a token by December 31, 2026?",
-          "odds": "-144",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
-          "odds": "+1076",
+          "event": "Will \"Thrash\" be the top US Netflix movie this week?",
+          "odds": "-1860",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
