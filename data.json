@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "18 de abril de 2026 — 19:36 UTC",
+  "lastUpdated": "18 de abril de 2026 — 20:29 UTC",
   "ticker": [
+    "Will Keir Starmer resign?",
+    "Mazzucato on the Iran war’s economic shock: Who pays the price?",
     "Mexico arrests suspected Hungarian drug trafficker amid crime crackdown",
     "Sudanese refugees trapped between borders and bureaucracy in Morocco",
     "Ukraine police shoot dead gunman who killed six in Kyiv, took hostages",
@@ -13,9 +15,7 @@
     "UNICEF ‘outraged’ after Israeli forces kill water truck drivers in Gaza",
     "Trump claims on Iranian concessions trigger questions, rejections in Tehran",
     "Slavery reparations are just, but who exactly owes whom?",
-    "Iran’s supreme leader warns of ‘new bitter defeats’ for US and Israel",
-    "Iran’s deputy FM says no date for more US talks until ‘framework’ agreed",
-    "Iran closes Strait of Hormuz again over US blockade of its ports"
+    "Iran’s supreme leader warns of ‘new bitter defeats’ for US and Israel"
   ],
   "sections": [
     {
@@ -41,6 +41,12 @@
           "moved": "none"
         },
         {
+          "event": "Kharg Island no longer under Iranian control by April 30?",
+          "odds": "+2464",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Iran sabotage undersea internet cables by April 30?",
           "odds": "+2841",
           "params": "Fuente: Polymarket",
@@ -55,12 +61,6 @@
         {
           "event": "Will any country leave NATO by December 31, 2026?",
           "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Kharg Island no longer under Iranian control by April 30?",
-          "odds": "+2464",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -84,7 +84,7 @@
         },
         {
           "event": "Will 4 Fed rate cuts happen in 2026?",
-          "odds": "+2339",
+          "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -125,26 +125,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Rumen Radev be the next prime minister of Bulgaria after the 2026 parliamentary election?",
-          "odds": "-1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the Indian Union Muslim League (IUML) win between 10 and 12 seats in the 2026 Kerala Legislative Assembly election?",
           "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will turnout in the Texas Republican Senate primary runoff be 2,700,000 voters or greater?",
-          "odds": "+2757",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Jeff Leiper win the 2026 Ottawa mayoral election?",
-          "odds": "+284",
+          "odds": "+316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -159,6 +147,18 @@
           "odds": "+2841",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Green Party win a mayorship in the 2026 United Kingdom local elections?",
+          "odds": "-257",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Marco Rubio be the 2028 Republican Vice-Presidential nominee?",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -167,14 +167,20 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Gold (GC) hit (HIGH) $6,000 by end of December?",
-          "odds": "+244",
+          "event": "Will the highest temperature in Chongqing be 22°C or higher on April 20?",
+          "odds": "+203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Randers FC vs. FC Fredericia end in a draw?",
           "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump say \"Excursion\" or \"Journey\" this week? (April 20 - 26)",
+          "odds": "-108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -205,12 +211,6 @@
         {
           "event": "Will SC Freiburg vs. 1. FC Heidenheim 1846 end in a draw?",
           "odds": "+316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will there be a run scored in the first inning?: Atlanta Braves vs. Philadelphia Phillies",
-          "odds": "+156",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
