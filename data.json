@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "19 de abril de 2026 — 12:47 UTC",
+  "lastUpdated": "19 de abril de 2026 — 13:56 UTC",
   "ticker": [
+    "Displaced Lebanese woman returns to find home destroyed after ceasefire",
+    "Trump says US negotiators to head to Pakistan for Iran talks",
     "Peru says presidential election results due by mid-May after delayed count",
     "Pope Leo tells Angola during huge Mass to ‘build hope’",
     "Iran war: 10 frequently used words and their meanings",
@@ -13,9 +15,7 @@
     "The GCC has unity, it now needs joint defence and development",
     "Displaced Lebanese families return home despite Israeli attacks",
     "Humanoid robots speed past humans in Beijing half-marathon",
-    "Fire razes 200 homes in Sabah, leaving hundreds homeless",
-    "Iran war: What is happening on day 51 of the US-Israeli conflict?",
-    "How the Israeli military targets the people who save lives"
+    "Fire razes 200 homes in Sabah, leaving hundreds homeless"
   ],
   "sections": [
     {
@@ -23,32 +23,32 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Howard Lutnick be the next to leave the Trump Cabinet before 2027?",
-          "odds": "+3125",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Another Iranian diplomat expelled by April 30?",
           "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Israel conduct military action against Iran by April 21, 2026?",
-          "odds": "+817",
+          "event": "Will Trump agree to Iranian enrichment of uranium in April?",
+          "odds": "+189",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Trump agree to Iranian enrichment of uranium in April?",
-          "odds": "+169",
+          "event": "Will Howard Lutnick be the next to leave the Trump Cabinet before 2027?",
+          "odds": "+3125",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Iran sabotage undersea internet cables by April 30?",
           "odds": "+2464",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "US x Iran ceasefire extended by April 21, 2026?",
+          "odds": "-354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -70,12 +70,6 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
-        {
-          "event": "Aaron Taylor-Johnson announced as next James Bond?",
-          "odds": "+2464",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Trump create a tariff dividend by June 30?",
           "odds": "+1566",
@@ -111,6 +105,12 @@
           "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will the Fed’s lower bound reach 0.5% or lower before 2027?",
+          "odds": "+3025",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -118,12 +118,6 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
-        {
-          "event": "Will Jeff Leiper win the 2026 Ottawa mayoral election?",
-          "odds": "+316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will the Indian Union Muslim League (IUML) win between 10 and 12 seats in the 2026 Kerala Legislative Assembly election?",
           "odds": "+566",
@@ -143,12 +137,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Marco Rubio be the 2028 Republican Vice-Presidential nominee?",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Plaid Cymru win the most seats in the 2026 Welsh Senedd election?",
           "odds": "-488",
           "params": "Fuente: Polymarket",
@@ -157,6 +145,18 @@
         {
           "event": "Will Danish Social Liberal Party be part of the next Government of Denmark?",
           "odds": "-481",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
+          "odds": "+1370",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Ronaldo Caiado finish in third place in the first round of the 2026 Brazilian presidential election?",
+          "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -173,20 +173,8 @@
           "moved": "none"
         },
         {
-          "event": "Will FC Metz win on 2026-04-19?",
-          "odds": "+244",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Mexico City be 23°C on April 21?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Limoges vs. Nanterre",
-          "odds": "+233",
+          "event": "Will the highest temperature in Houston be between 72-73°F on April 20?",
+          "odds": "+170",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -211,6 +199,18 @@
         {
           "event": "Will Elena Rybakina be the 2026 Women’s Wimbledon Winner?",
           "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Tony Finau finish in the Top 20 at the 2026 RBC Heritage?",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will OpenSea launch a token by December 31, 2026?",
+          "odds": "-165",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
