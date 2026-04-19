@@ -1,7 +1,11 @@
 {
-  "lastUpdated": "19 de abril de 2026 — 17:31 UTC",
+  "lastUpdated": "19 de abril de 2026 — 18:39 UTC",
   "ticker": [
-    "Eight children killed in mass shooting in Louisiana, US media reports",
+    "Iran and Israel: From friends to enemies",
+    "Israeli attacks on healthcare across Iran, Lebanon and Gaza",
+    "What would it take for the Iran-US talks to succeed?",
+    "Met Police investigate potential Iran links to London arson attacks",
+    "Eight children killed in Louisiana shooting, gunman fatally shot by police",
     "Satellite images reveal Israel expanding Gaza military sites",
     "DRC government, M23 rebels commit to protect civilians, aid deliveries",
     "What to know about US-Iran standoff over the Strait of Hormuz",
@@ -10,12 +14,8 @@
     "Peru says presidential election results due by mid-May after delayed count",
     "Pope Leo tells Angola during huge Mass to ‘build hope’",
     "Iran war: 10 frequently used words and their meanings",
-    "LIVE: Manchester City vs Arsenal – Premier League",
-    "Does the world need new leaders? Varsha Gandikota & Naledi Pandor",
-    "Iran warns Hormuz will stay shut unless US lifts siege on its ports",
-    "Does Israel’s ‘Yellow Line’ violate the Lebanon ceasefire?",
-    "Humanoid robot breaks half marathon world record in Beijing",
-    "Australia and Japan sign contracts for $7bn warships deal"
+    "LIVE: Manchester City beat Arsenal 2-1 – Premier League",
+    "Does the world need new leaders? Varsha Gandikota & Naledi Pandor"
   ],
   "sections": [
     {
@@ -24,7 +24,7 @@
       "rows": [
         {
           "event": "Another Iranian diplomat expelled by April 30?",
-          "odds": "+1566",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -42,7 +42,7 @@
         },
         {
           "event": "Will Iran sabotage undersea internet cables by April 30?",
-          "odds": "+2464",
+          "odds": "+2531",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -78,7 +78,7 @@
         },
         {
           "event": "Will 4 Fed rate cuts happen in 2026?",
-          "odds": "+2602",
+          "odds": "+2464",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -119,20 +119,26 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
+          "event": "Will GERB-SDS win between 50-54 seats in the 2026 Bulgarian parliamentary election?",
+          "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the Indian Union Muslim League (IUML) win between 10 and 12 seats in the 2026 Kerala Legislative Assembly election?",
           "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Ty Masterson win the 2026 Kansas Governor Republican primary election?",
-          "odds": "+177",
+          "event": "Will the Republicans win the Kansas Senate race in 2026?",
+          "odds": "-376",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the Republicans win the Kansas Senate race in 2026?",
-          "odds": "-376",
+          "event": "Will Ty Masterson win the 2026 Kansas Governor Republican primary election?",
+          "odds": "+177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -153,12 +159,6 @@
           "odds": "-481",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
-          "odds": "+1370",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -166,6 +166,12 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
+        {
+          "event": "Will Slavia Prague win Czechia Fortuna Liga?",
+          "odds": "-2399",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Randers FC vs. FC Fredericia end in a draw?",
           "odds": "+426",
@@ -179,20 +185,8 @@
           "moved": "none"
         },
         {
-          "event": "Game 2: Any Player Quadra Kill?",
-          "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will MFK Karviná win on 2026-04-25?",
           "odds": "+117",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Indian Premier League: Rajasthan Royals vs Sunrisers Hyderabad - Who wins the toss?",
-          "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -203,14 +197,20 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Tel Aviv be 20°C on April 20?",
-          "odds": "+2677",
+          "event": "Will the highest temperature in Sao Paulo be 27°C on April 19?",
+          "odds": "+1539",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Tony Finau finish in the Top 20 at the 2026 RBC Heritage?",
-          "odds": "+233",
+          "event": "Will OpenSea launch a token by December 31, 2026?",
+          "odds": "-144",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
+          "odds": "+1076",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
