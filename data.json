@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "20 de abril de 2026 — 13:17 UTC",
+  "lastUpdated": "20 de abril de 2026 — 15:13 UTC",
   "ticker": [
+    "Bulgaria’s former President Radev wins election: All you need to know",
+    "Cloud over US-Iran talks: What are the key sticking points?",
+    "Powerful states are trying to sabotage decarbonisation of shipping",
+    "Tight security in Islamabad as US-Iran talks set to go ahead",
+    "India in ‘extremely high’ doping risk bracket: Athletics Integrity Unit",
     "What we know about the US capture of Iranian vessel near Hormuz",
     "Iran says it has ‘no plans’ for negotiations with the US",
     "Iraq’s ruling Shia bloc races to choose PM as US, Iran watch",
@@ -10,12 +15,7 @@
     "Real Madrid vs Alaves: La Liga – preview, team news, start, lineups",
     "‘Technofascism’: Critics accuse Palantir of pushing AI war doctrine",
     "Kenyan women defy fishing taboos as climate change threatens Lake Victoria",
-    "The EU must not wait till Israel starts executing Palestinians",
-    "Second round in Islamabad: Who are the main US-Iran negotiators?",
-    "US captures Iranian ship Touska amid mediation efforts: All we know",
-    "British universities paid security firm to ‘spy’ on pro-Palestine students",
-    "Eight runners hospitalised after collapsing during South Korea marathon",
-    "Baby food recalled in Austria after jar tests positive for rat poison"
+    "The EU must not wait till Israel starts executing Palestinians"
   ],
   "sections": [
     {
@@ -36,7 +36,13 @@
         },
         {
           "event": "Will Iran strike Qatar by April 30, 2026?",
-          "odds": "+257",
+          "odds": "+300",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Trump drops Powell investigation before Warsh is confirmed?",
+          "odds": "-170",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -47,20 +53,14 @@
           "moved": "none"
         },
         {
+          "event": "Will RC Deportivo La Coruña vs. CD Mirandés end in a draw?",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will United Russia win between 310 and 324 seats in the next Russian State Duma election?",
           "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will any country leave NATO by December 31, 2026?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Naftali Bennett be the next Prime Minister of Israel?",
-          "odds": "+244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -71,6 +71,12 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
+          "event": "Will WTI Crude Oil (WTI) hit (LOW) $60 in April?",
+          "odds": "+2757",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Jerome Powell depart as Fed Chair between May 30 and June 5?",
           "odds": "+900",
           "params": "Fuente: Polymarket",
@@ -78,7 +84,7 @@
         },
         {
           "event": "Will 4 Fed rate cuts happen in 2026?",
-          "odds": "+2464",
+          "odds": "+2531",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -105,12 +111,6 @@
           "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Bank of England increases interest rates by 25 bps after June 2026 meeting?",
-          "odds": "+455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -118,12 +118,6 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
-        {
-          "event": "Will Mehmood Mirza win the 2026 London Borough of Newham mayoral election?",
-          "odds": "+376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Tucker Carlson announce a presidential run before 2027?",
           "odds": "+733",
@@ -159,6 +153,12 @@
           "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Danish Social Liberal Party be part of the next Government of Denmark?",
+          "odds": "-481",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -173,14 +173,26 @@
           "moved": "none"
         },
         {
+          "event": "Will the highest temperature in Ankara be 18°C on April 22?",
+          "odds": "+1165",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will OpenSea launch a token by December 31, 2026?",
-          "odds": "-144",
+          "odds": "-150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Democratic Party win the OH-07 House seat?",
           "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will there be between 30 and 40 average daily transits of the Strait of Hormuz on April 30?",
+          "odds": "+1036",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -199,18 +211,6 @@
         {
           "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
           "odds": "+1119",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will JD Gaming win the LPL 2026 season?",
-          "odds": "+930",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will LeBron James play for the Sacramento Kings in 2026-27?",
-          "odds": "+329",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
