@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "21 de abril de 2026 — 13:11 UTC",
+  "lastUpdated": "21 de abril de 2026 — 15:06 UTC",
   "ticker": [
+    "Trump says he opposes extending Iran ceasefire amid talks uncertainty",
+    "Why is the EU under pressure to suspend its trade agreement with Israel?",
+    "Nigeria charges six people with ‘terrorism’, treason over 2025 coup plot",
+    "Iran’s World Cup participation depends on team’s safety in the US: Minister",
+    "Israeli soldiers and settlers kill 11 Palestinians across Gaza, West Bank",
+    "Palestine weekly wrap: Coordinated attacks and evictions in Gaza, West Bank",
+    "Shot by Israeli forces, Hala, 18 and Mohammad, 13 fight for their lives",
+    "Pakistan races against time to get Iran back to US talks as truce end nears",
+    "EU credibility is on the line over Israel, says Spanish foreign minister",
     "Iran-US war: Four scenarios for what’s next as talks stumble",
     "Are we heading into a world divided by AI tribes?",
     "What was the Iran nuclear deal Trump dumped in search of ‘better’ terms?",
     "Mass trial for nearly 500 alleged gang members in El Salvador",
     "Strait of Hormuz: How a threat became a playbook",
-    "Afghans displaced by Pakistan conflict survive in tent camps",
-    "Is China a winner of the Iran war or facing economic risks?",
-    "Clean electricity meets all new demand, curbing fossil fuels, says Ember",
-    "Spain, Slovenia, Ireland push EU to debate Israel pact suspension",
-    "Burn treatment for Gaza children threatened by Israeli restrictions",
-    "Usain Bolt hopes Australian sprint sensation Gout has strong support system",
-    "Kenya’s John Korir, Sharon Lokedi win Boston Marathon on record-breaking day",
-    "As Iran crisis drags on, fears of global food catastrophe grow",
-    "My dreams in Iran were already dead before the ceasefire came",
-    "US, Iran exchange threats as fragile ceasefire set to expire"
+    "Afghans displaced by Pakistan conflict survive in tent camps"
   ],
   "sections": [
     {
@@ -23,14 +23,8 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Russia invade another country in 2026?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will any country leave NATO by December 31, 2026?",
-          "odds": "+614",
+          "odds": "+809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -47,8 +41,8 @@
           "moved": "none"
         },
         {
-          "event": "US x Iran ceasefire extended by April 22, 2026?",
-          "odds": "-170",
+          "event": "Will the highest temperature in Warsaw be 15°C on April 23?",
+          "odds": "+376",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -60,7 +54,13 @@
         },
         {
           "event": "Will Naftali Bennett be the next Prime Minister of Israel?",
-          "odds": "+222",
+          "odds": "+244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Russia capture all of Pokrovsk by April 30, 2026?",
+          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -78,13 +78,7 @@
         },
         {
           "event": "Will 4 Fed rate cuts happen in 2026?",
-          "odds": "+2531",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $90 Week of April 20 2026?",
-          "odds": "-354",
+          "odds": "+2339",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -111,6 +105,12 @@
           "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will US crude oil reserves fall to 375M by June 5?",
+          "odds": "-143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -131,8 +131,20 @@
           "moved": "none"
         },
         {
-          "event": "Tamas Sulyok out as President of Hungary by June 30?",
-          "odds": "-334",
+          "event": "Will Robert Wessels win the 2026 Maine Governor Republican primary election?",
+          "odds": "+2841",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Sam Bregman win the 2026 New Mexico Governor Democratic primary election?",
+          "odds": "+354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Romeu Zema win the 2026 Brazilian presidential election?",
+          "odds": "+1983",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -143,20 +155,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Sam Bregman win the 2026 New Mexico Governor Democratic primary election?",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Ronaldo Caiado finish in third place in the first round of the 2026 Brazilian presidential election?",
           "odds": "+194",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Robert Wessels win the 2026 Maine Governor Republican primary election?",
-          "odds": "+2841",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,26 +167,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Millonarios FC vs. São Paulo FC end in a draw?",
-          "odds": "+270",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Seoul be 19°C or higher on April 22?",
-          "odds": "+1487",
+          "event": "Madrid Open, Qualification: Patrick Kypson vs Nikoloz Basilashvili",
+          "odds": "-138",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Jack Thorne win the 2026 Fields Medal?",
           "odds": "+104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Set Handicap: Bonzi (-1.5) vs Dedura-Palomero (+1.5)",
-          "odds": "+177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -209,8 +197,20 @@
           "moved": "none"
         },
         {
-          "event": "Savannah: Sascha Gueymard-Wayenburg vs Jack Kennedy",
-          "odds": "-143",
+          "event": "Will the highest temperature in San Francisco be between 60-61°F on April 22?",
+          "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will West Ham be relegated from the English Premier League after the 2025–26 season?",
+          "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will CA Mineiro win on 2026-04-26?",
+          "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
