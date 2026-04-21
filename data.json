@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "21 de abril de 2026 — 07:26 UTC",
+  "lastUpdated": "21 de abril de 2026 — 09:19 UTC",
   "ticker": [
+    "My dreams in Iran were already dead before the ceasefire came",
+    "US, Iran exchange threats as fragile ceasefire set to expire",
+    "Tennis duo Sabalenka and Alcaraz sweep top Laureus sports honours",
+    "Virginia redistricting vote: What polls suggest and what voters will decide",
+    "Mughal-era pigeon training survives in heart of India’s capital",
+    "Trump’s Board of Peace holds Gaza reconstruction talks with UAE’s DP World",
     "Iran war: What is happening on day 53 of the US-Israel conflict?",
     "Technofacism? Why Palantir’s pro-West ‘manifesto’ has critics alarmed",
     "Israeli police arrest two ultra-Orthodox Jews for removing Israeli flags",
@@ -9,13 +15,7 @@
     "Amnesty International slams ‘predatory world order’ led by US and Israel",
     "Japan lifts ban on lethal weapons exports in major shift of pacifist policy",
     "Algeria’s ex-minister of industry jailed in high-profile corruption case",
-    "CJ McCollum, Hawks rally late to shock Knicks in Game 2 of NBA playoffs",
-    "Trump’s Labor Secretary Lori Chavez-DeRemer latest to leave administration",
-    "Cuba confirms talks with US officials, wants end to Trump’s energy blockade",
-    "Global Sumud Flotilla disrupts cargo ship bound for Israel",
-    "US is ‘pretty far behind where they started’ the war on Iran",
-    "Global fallout grows over Israeli soldier smashing Jesus statue in Lebanon",
-    "Six women win 2026 Goldman prize, world’s top environmental award"
+    "CJ McCollum, Hawks rally late to shock Knicks in Game 2 of NBA playoffs"
   ],
   "sections": [
     {
@@ -31,12 +31,6 @@
         {
           "event": "Will any country leave NATO by December 31, 2026?",
           "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Trump announces US x Iran ceasefire end by April 21, 2026?",
-          "odds": "+2280",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -60,7 +54,13 @@
         },
         {
           "event": "Will Naftali Bennett be the next Prime Minister of Israel?",
-          "odds": "+212",
+          "odds": "+222",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Donald Trump visit Israel in 2026?",
+          "odds": "-127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -107,8 +107,8 @@
           "moved": "none"
         },
         {
-          "event": "Will US crude oil reserves fall to 275M by June 5?",
-          "odds": "+2400",
+          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $90 Week of April 20 2026?",
+          "odds": "-354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -143,14 +143,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Robert Wessels win the 2026 Maine Governor Republican primary election?",
-          "odds": "+2841",
+          "event": "Will Ronaldo Caiado finish in third place in the first round of the 2026 Brazilian presidential election?",
+          "odds": "+194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Ronaldo Caiado finish in third place in the first round of the 2026 Brazilian presidential election?",
-          "odds": "+194",
+          "event": "Will Robert Wessels win the 2026 Maine Governor Republican primary election?",
+          "odds": "+2841",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -167,14 +167,20 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Will Donald Trump post 200+ Truth Social posts from April 17 to April 24, 2026?",
+          "odds": "+390",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Gold (XAUUSD) hit (HIGH) $5,050 Week of April 20 2026?",
           "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Donald Trump announce Jonathan Berry as the next United States Labor Secretary",
-          "odds": "+1566",
+          "event": "Madrid Open: Raphael Collignon vs Matteo Berrettini",
+          "odds": "-104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -185,32 +191,26 @@
           "moved": "none"
         },
         {
-          "event": "Oeiras 4: Polina Kudermetova vs Celine Naef",
-          "odds": "-222",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Germany come in last place at Eurovision 2026?",
           "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
+          "event": "Will Meta (META) close above $690 on April 21?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Kash Patel out by June 30?",
+          "odds": "-177",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Jack Thorne win the 2026 Fields Medal?",
           "odds": "+117",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
-          "odds": "+1119",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will JD Gaming win the LPL 2026 season?",
-          "odds": "+930",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
