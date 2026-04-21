@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "21 de abril de 2026 — 02:01 UTC",
+  "lastUpdated": "21 de abril de 2026 — 05:21 UTC",
   "ticker": [
+    "Amnesty International slams ‘predatory world order’ led by US and Israel",
+    "Japan lifts ban on lethal weapons exports in major shift of pacifist policy",
+    "Algeria’s ex-minister of industry jailed in high-profile corruption case",
+    "CJ McCollum, Hawks rally late to shock Knicks in Game 2 of NBA playoffs",
+    "Trump’s Labor Secretary Lori Chavez-DeRemer latest to leave administration",
+    "Cuba confirms talks with US officials, wants end to Trump’s energy blockade",
+    "Global Sumud Flotilla disrupts cargo ship bound for Israel",
     "US is ‘pretty far behind where they started’ the war on Iran",
     "Global fallout grows over Israeli soldier smashing Jesus statue in Lebanon",
     "Six women win 2026 Goldman prize, world’s top environmental award",
@@ -8,14 +15,7 @@
     "‘Predators’: Amnesty slams Netanyahu, Putin, Trump as human rights decline",
     "Hungary’s incoming PM says Netanyahu would be arrested if he visits",
     "D4vd charged with murder of 14-year-old Celeste Rivas Hernandez",
-    "Outcry grows over Israeli soldier smashing Jesus statue in Lebanon",
-    "Tim Cook to step down as Apple CEO",
-    "Fears over Ethiopia peace deal as TPLF restores Tigray government",
-    "EU eyes Ukraine loan, Israeli settler sanctions, after Hungarian election",
-    "How is the war on Iran affecting the Russia-Ukraine conflict?",
-    "FBI Director Kash Patel sues Atlantic for ‘false’ reporting on drinking",
-    "Trump boasts on ‘winning war’ on social media posts",
-    "What to know about the next round of US-Iran talks in Pakistan"
+    "Outcry grows over Israeli soldier smashing Jesus statue in Lebanon"
   ],
   "sections": [
     {
@@ -23,26 +23,20 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Iran strike Qatar by April 30, 2026?",
-          "odds": "+426",
+          "event": "Will Russia invade another country in 2026?",
+          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Trump drops Powell investigation before Warsh is confirmed?",
-          "odds": "-170",
+          "event": "Will any country leave NATO by December 31, 2026?",
+          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Iran strike Burj Khalifa by April 30?",
           "odds": "+2027",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Russia invade another country in 2026?",
-          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -59,8 +53,14 @@
           "moved": "none"
         },
         {
-          "event": "Will any country leave NATO by December 31, 2026?",
-          "odds": "+733",
+          "event": "Mojtaba Khamenei leaves Iran by June 30, 2026?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Naftali Bennett be the next Prime Minister of Israel?",
+          "odds": "+212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -70,6 +70,12 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
+        {
+          "event": "Aaron Taylor-Johnson announced as next James Bond?",
+          "odds": "+3025",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will 4 Fed rate cuts happen in 2026?",
           "odds": "+2531",
@@ -95,20 +101,14 @@
           "moved": "none"
         },
         {
+          "event": "S&P 500 (SPX) Opens Up or Down on April 21?",
+          "odds": "-284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will US crude oil reserves fall to 275M by June 5?",
           "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will US crude oil reserves fall to 375M by June 5?",
-          "odds": "-122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Bank of England increases interest rates by 25 bps after June 2026 meeting?",
-          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -119,14 +119,20 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
+          "event": "Will Ty Masterson win the 2026 Kansas Governor Republican primary election?",
+          "odds": "+127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the Indian Union Muslim League (IUML) win between 10 and 12 seats in the 2026 Kerala Legislative Assembly election?",
           "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Ty Masterson win the 2026 Kansas Governor Republican primary election?",
-          "odds": "+177",
+          "event": "Will Caroline Elliott win the 2026 Conservative Party of British Columbia leadership election?",
+          "odds": "+132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -137,26 +143,20 @@
           "moved": "none"
         },
         {
-          "event": "Will Caroline Elliott win the 2026 Conservative Party of British Columbia leadership election?",
-          "odds": "+122",
+          "event": "Will Sam Bregman win the 2026 New Mexico Governor Democratic primary election?",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republicans win the Idaho Senate race in 2026?",
+          "odds": "-809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Robert Wessels win the 2026 Maine Governor Republican primary election?",
           "odds": "+2841",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Sam Bregman win the 2026 New Mexico Governor Democratic primary election?",
-          "odds": "+354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Ronaldo Caiado finish in third place in the first round of the 2026 Brazilian presidential election?",
-          "odds": "+194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,14 +167,20 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Game Handicap: DK.C (-1.5) vs Kiwoom DRX Challengers (+1.5)",
-          "odds": "+194",
+          "event": "XRP Up or Down - April 21, 1:15AM-1:30AM ET",
+          "odds": "+376",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will XRP reach $1.80 in April?",
-          "odds": "+2027",
+          "event": "Will Gold (XAUUSD) hit (HIGH) $5,050 Week of April 20 2026?",
+          "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Jeddah be 32°C on April 21?",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -193,12 +199,6 @@
         {
           "event": "Will Scott Bessent leave the Trump administration before 2027?",
           "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Gemini 3.5 released by May 31?",
-          "odds": "+1392",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
