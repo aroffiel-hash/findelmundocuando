@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "21 de abril de 2026 — 17:56 UTC",
+  "lastUpdated": "21 de abril de 2026 — 19:07 UTC",
   "ticker": [
+    "Ukraine says Druzhba pipeline running Russian oil to Europe can resume work",
+    "Flu vaccine no longer mandatory for soldiers, says US military chief",
+    "The US exit from Syria, explained",
     "What’s the bill to rebuild Gaza, and who will pay?",
     "Israeli sexual violence helping push Palestinians from West Bank: Report",
     "EU court rules Hungary’s LGBTQ law violates human rights",
@@ -12,10 +15,7 @@
     "Why is the EU under pressure to suspend its trade agreement with Israel?",
     "Nigeria charges six people with ‘terrorism’, treason over 2025 coup plot",
     "Iran’s World Cup participation depends on team’s safety in the US: Minister",
-    "Israeli soldiers and settlers kill 11 Palestinians across Gaza, West Bank",
-    "Palestine weekly wrap: Coordinated attacks and evictions in Gaza, West Bank",
-    "Shot by Israeli forces, Hala, 18 and Mohammad, 13 fight for their lives",
-    "Pakistan races against time to get Iran back to US talks as truce end nears"
+    "Israeli soldiers and settlers kill 11 Palestinians across Gaza, West Bank"
   ],
   "sections": [
     {
@@ -36,7 +36,7 @@
         },
         {
           "event": "US obtains Iranian enriched uranium by December 31?",
-          "odds": "+233",
+          "odds": "+244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -59,8 +59,8 @@
           "moved": "none"
         },
         {
-          "event": "LoL: DOCISK vs BOMBA Team (BO3) - Rift Legends Regular Season",
-          "odds": "+1150",
+          "event": "Will Donald Trump visit Israel in 2026?",
+          "odds": "-127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -77,8 +77,20 @@
           "moved": "none"
         },
         {
+          "event": "Stefan Dostanic vs. Federico Agustin Gomez: Total Sets O/U 2.5",
+          "odds": "+108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will 4 Fed rate cuts happen in 2026?",
           "odds": "+2280",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will WTI Crude Oil (WTI) hit (LOW) $75 in April?",
+          "odds": "+316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -95,20 +107,8 @@
           "moved": "none"
         },
         {
-          "event": "Will WTI Crude Oil (WTI) hit (LOW) $75 in April?",
-          "odds": "+376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will S&P 500 (SPX) hit $9,300 (HIGH) in December?",
           "odds": "+2027",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Bank of England increases interest rates by 25 bps after June 2026 meeting?",
-          "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -119,6 +119,12 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
+          "event": "Will Romeu Zema win the 2026 Brazilian presidential election?",
+          "odds": "+1751",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Ty Masterson win the 2026 Kansas Governor Republican primary election?",
           "odds": "+177",
           "params": "Fuente: Polymarket",
@@ -127,12 +133,6 @@
         {
           "event": "Will Robert Wessels win the 2026 Maine Governor Republican primary election?",
           "odds": "+2841",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Romeu Zema win the 2026 Brazilian presidential election?",
-          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -167,12 +167,6 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will SpaceX IPO by August 31, 2026?",
-          "odds": "-900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Club Alianza Atlético win on 2026-04-30?",
           "odds": "+149",
           "params": "Fuente: Polymarket",
@@ -181,6 +175,18 @@
         {
           "event": "VfL Bochum vs. SpVgg Greuther Fürth: Both Teams to Score",
           "odds": "-117",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: Brighton & Hove Albion FC 0 - 1 Chelsea FC?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will White House post 160-179 posts from April 17 to April 24, 2026?",
+          "odds": "+222",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -205,12 +211,6 @@
         {
           "event": "Exact Score: Paris Saint-Germain FC 2 - 2 FC Bayern München?",
           "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will JD Gaming win the LPL 2026 season?",
-          "odds": "+930",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
