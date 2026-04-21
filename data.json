@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "21 de abril de 2026 — 15:06 UTC",
+  "lastUpdated": "21 de abril de 2026 — 16:53 UTC",
   "ticker": [
+    "LIVE: Real Madrid vs Alaves – La Liga",
+    "Video: Moment hikers get caught in Guatemala volcano eruption",
+    "Rabbi accused of war crimes selected for Israel’s national celebration",
+    "Video: US forces board sanctioned tanker in Asia Pacific",
     "Trump says he opposes extending Iran ceasefire amid talks uncertainty",
     "Why is the EU under pressure to suspend its trade agreement with Israel?",
     "Nigeria charges six people with ‘terrorism’, treason over 2025 coup plot",
@@ -11,23 +15,13 @@
     "Pakistan races against time to get Iran back to US talks as truce end nears",
     "EU credibility is on the line over Israel, says Spanish foreign minister",
     "Iran-US war: Four scenarios for what’s next as talks stumble",
-    "Are we heading into a world divided by AI tribes?",
-    "What was the Iran nuclear deal Trump dumped in search of ‘better’ terms?",
-    "Mass trial for nearly 500 alleged gang members in El Salvador",
-    "Strait of Hormuz: How a threat became a playbook",
-    "Afghans displaced by Pakistan conflict survive in tent camps"
+    "Are we heading into a world divided by AI tribes?"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Will any country leave NATO by December 31, 2026?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Yordan Alvarez win the 2026 American League Hank Aaron Award?",
           "odds": "+614",
@@ -41,8 +35,8 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Warsaw be 15°C on April 23?",
-          "odds": "+376",
+          "event": "US obtains Iranian enriched uranium by December 31?",
+          "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -54,13 +48,19 @@
         },
         {
           "event": "Will Naftali Bennett be the next Prime Minister of Israel?",
-          "odds": "+244",
+          "odds": "+222",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Russia capture all of Pokrovsk by April 30, 2026?",
-          "odds": "+614",
+          "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Donald Trump visit Israel in 2026?",
+          "odds": "-127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -78,7 +78,13 @@
         },
         {
           "event": "Will 4 Fed rate cuts happen in 2026?",
-          "odds": "+2339",
+          "odds": "+2280",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will WTI Crude Oil (WTI) hit (LOW) $80 Week of April 20 2026?",
+          "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -101,14 +107,8 @@
           "moved": "none"
         },
         {
-          "event": "Bank of England increases interest rates by 25 bps after June 2026 meeting?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will US crude oil reserves fall to 375M by June 5?",
-          "odds": "-143",
+          "event": "Will WTI Crude Oil (WTI) hit (LOW) $75 in April?",
+          "odds": "+354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -125,32 +125,32 @@
           "moved": "none"
         },
         {
-          "event": "Will the Indian Union Muslim League (IUML) win between 10 and 12 seats in the 2026 Kerala Legislative Assembly election?",
-          "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Robert Wessels win the 2026 Maine Governor Republican primary election?",
           "odds": "+2841",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Sam Bregman win the 2026 New Mexico Governor Democratic primary election?",
-          "odds": "+354",
+          "event": "Will the Indian Union Muslim League (IUML) win between 10 and 12 seats in the 2026 Kerala Legislative Assembly election?",
+          "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Romeu Zema win the 2026 Brazilian presidential election?",
-          "odds": "+1983",
+          "odds": "+1940",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Republicans win the Idaho Senate race in 2026?",
-          "odds": "-900",
+          "odds": "-1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Sam Bregman win the 2026 New Mexico Governor Democratic primary election?",
+          "odds": "+354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -167,8 +167,20 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Madrid Open, Qualification: Patrick Kypson vs Nikoloz Basilashvili",
-          "odds": "-138",
+          "event": "Will SpaceX IPO by August 31, 2026?",
+          "odds": "-900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Seattle be 55°F or below on April 21?",
+          "odds": "+1036",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Club Alianza Atlético win on 2026-04-30?",
+          "odds": "+149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -180,37 +192,25 @@
         },
         {
           "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
-          "odds": "+1119",
+          "odds": "+1036",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: Paris Saint-Germain FC 2 - 1 FC Bayern München?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: Paris Saint-Germain FC 2 - 2 FC Bayern München?",
+          "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will JD Gaming win the LPL 2026 season?",
           "odds": "+930",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Bank of Canada announce a 25 bps decrease at the June meeting?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in San Francisco be between 60-61°F on April 22?",
-          "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will West Ham be relegated from the English Premier League after the 2025–26 season?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will CA Mineiro win on 2026-04-26?",
-          "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
