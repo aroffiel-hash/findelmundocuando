@@ -1,6 +1,7 @@
 {
-  "lastUpdated": "22 de abril de 2026 — 16:52 UTC",
+  "lastUpdated": "22 de abril de 2026 — 17:55 UTC",
   "ticker": [
+    "Chelsea sack Rosenior after only three months at Premier League club",
     "Iran says ‘fully prepared’ for football team’s World Cup participation",
     "A 42bn-euro dilemma: What is stopping EU from holding Israel to account?",
     "Ukraine restarts Russian oil to Europe, unblocking 90-billion-euro EU loan",
@@ -14,14 +15,19 @@
     "Blockchain billionaire Sun takes Trump family’s crypto firm to court",
     "Pakistan out of women’s football tournament in India over political strife",
     "The war on Iran: Breaking down the words you’re hearing",
-    "Russia says will halt oil flow to Germany via Druzhba pipeline",
-    "What is uranium enrichment and how quickly could Iran build a nuclear bomb?"
+    "Russia says will halt oil flow to Germany via Druzhba pipeline"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Will the next US x Iran diplomatic meeting be on April 24?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Borussia Mönchengladbach win on 2026-04-25?",
           "odds": "+212",
@@ -35,14 +41,14 @@
           "moved": "none"
         },
         {
-          "event": "Will \"Jinshi (The Apothecary Diaries Season 2)\" win Best Anime Supporting Character at the 2026 Crunchyroll Anime Awards?",
-          "odds": "+2400",
+          "event": "Will Russia enter Kupiansk-Vuzlovyi by April 30?",
+          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Russia enter Kupiansk-Vuzlovyi by April 30?",
-          "odds": "+455",
+          "event": "Will \"Jinshi (The Apothecary Diaries Season 2)\" win Best Anime Supporting Character at the 2026 Crunchyroll Anime Awards?",
+          "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -55,12 +61,6 @@
         {
           "event": "Ukraine signs peace deal with Russia by June 30?",
           "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will \"The Fragrant Flower Blooms With Dignity\" win Best New Series at the 2026 Crunchyroll Anime Awards?",
-          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -107,8 +107,8 @@
           "moved": "none"
         },
         {
-          "event": "Manchester United FC vs. Brentford FC: O/U 4.5",
-          "odds": "+376",
+          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $95 Week of April 20 2026?",
+          "odds": "-194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -132,7 +132,7 @@
         },
         {
           "event": "Will Steve Hilton win the California Governor Election in 2026?",
-          "odds": "+1654",
+          "odds": "+1624",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -156,7 +156,7 @@
         },
         {
           "event": "Will Anže Logar be the next Prime Minister of Slovenia?",
-          "odds": "+1462",
+          "odds": "+1182",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,12 +167,6 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the Philadelphia Phillies win the 2026 World Series?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Elon Musk’s net worth be between $620b and $630b on April 30?",
           "odds": "+669",
           "params": "Fuente: Polymarket",
@@ -181,6 +175,12 @@
         {
           "event": "Will Club Alianza Atlético win on 2026-04-30?",
           "odds": "+149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Counter-Strike: Falcons Force vs B8 Academy (BO1) - ESEA Advanced Europe Regular Season",
+          "odds": "-127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
