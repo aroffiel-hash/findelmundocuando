@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "22 de abril de 2026 — 02:00 UTC",
+  "lastUpdated": "22 de abril de 2026 — 04:51 UTC",
   "ticker": [
+    "FIFA unlocks more World Cup tickets and adds new, more expensive categories",
+    "Tehran held military parades as ceasefire was set to end",
     "Argentina’s Milei sings and lights torch for Israeli national day",
     "Trump extends ceasefire and hopes for ‘unified proposal’",
     "Iran war live: Trump says ceasefire extended as talks with Tehran in limbo",
@@ -13,9 +15,7 @@
     "Pro-Palestine legal aid requests stay high in 2025 amid US campus pressure",
     "Nearly 8,000 people died or disappeared on migration routes in 2025: IOM",
     "US issues more Iran sanctions on eve of possible talks in Pakistan",
-    "EU eyes options as Iran conflict threatens jet fuel shortages",
-    "Sudan refugees returning home face new ‘struggle for survival’: UN",
-    "Trump announces Iran ceasefire extension but says blockade remains"
+    "EU eyes options as Iran conflict threatens jet fuel shortages"
   ],
   "sections": [
     {
@@ -23,14 +23,8 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Madrid Open: Roberto Bautista Agut vs Thiago Agustin Tirante",
-          "odds": "+170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Ben-Gvir out as Israeli Minister of National Security by June 30?",
-          "odds": "+733",
+          "event": "Agut vs. Tirante: Match O/U 23.5",
+          "odds": "+122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -48,7 +42,7 @@
         },
         {
           "event": "Will Naftali Bennett be the next Prime Minister of Israel?",
-          "odds": "+244",
+          "odds": "+270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -63,6 +57,12 @@
           "odds": "+212",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will \"The Fragrant Flower Blooms With Dignity\" win Best New Series at the 2026 Crunchyroll Anime Awards?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -71,14 +71,8 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Aaron Taylor-Johnson announced as next James Bond?",
-          "odds": "+3025",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will US GDP growth in Q1 2026 be between 1.0% and 1.5%?",
-          "odds": "+418",
+          "odds": "+536",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -111,6 +105,12 @@
           "odds": "+2027",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Bank of England increases interest rates by 25 bps after June 2026 meeting?",
+          "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -121,12 +121,6 @@
         {
           "event": "Will Ty Masterson win the 2026 Kansas Governor Republican primary election?",
           "odds": "+177",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Nate Morris be the Republican nominee for Senate in Kentucky?",
-          "odds": "+1624",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -144,7 +138,7 @@
         },
         {
           "event": "Will Steve Hilton win the California Governor Election in 2026?",
-          "odds": "+1751",
+          "odds": "+1718",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -156,7 +150,13 @@
         },
         {
           "event": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
-          "odds": "+1308",
+          "odds": "+1539",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Danish Social Liberal Party be part of the next Government of Denmark?",
+          "odds": "-481",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -166,12 +166,6 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
-        {
-          "event": "Athletics vs. Seattle Mariners",
-          "odds": "+163",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Palantir (PLTR) close above $136 end of April?",
           "odds": "-1011",
@@ -187,6 +181,12 @@
         {
           "event": "Will Elon Musk’s net worth be between $620b and $630b on April 30?",
           "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Map 2: Odd/Even Total Rounds?",
+          "odds": "-104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
