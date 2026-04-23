@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "23 de abril de 2026 — 17:13 UTC",
+  "lastUpdated": "23 de abril de 2026 — 18:59 UTC",
   "ticker": [
+    "South Africa president suspends police chief over $21m contract",
+    "Mixed views in Lebanon ahead of controversial talks with Israel",
+    "More than 6 million Somalis face hunger amid climate shocks and conflict",
+    "Israeli forces kill Palestinian teenager in occupied West Bank raid",
+    "US reclassifies some marijuana products as less dangerous drug",
+    "Decapitating cartels? Mexico leans into ‘kingpin strategy’ but at a cost",
+    "Italy slams Trump envoy proposal of taking Iran’s place in World Cup 2026",
+    "Pope Leo ends Africa tour with prison visit",
+    "ACLU, Amnesty lead 120 rights groups issuing US World Cup ‘travel advisory’",
     "How bad is Lamine Yamal’s injury? Will he make Spain’s World Cup opener?",
     "US-Israeli war on Iran will push 30 million back into poverty, UN warns",
     "Journalist recalls Israeli strike killing Amal Khalil in southern Lebanon",
-    "Warner Bros shareholders approve Paramount’s takeover",
+    "Warner Bros shareholders approve Paramount’s $111bn takeover",
     "Turkiye MPs pass bill to restrict social media use for children under 15",
-    "US military board, seize another ship in international waters",
-    "Lebanon Latest: Israel attacks kill journalist and target first responders",
-    "US to ‘shoot and kill’ Iranian boats laying mines in Hormuz, Trump says",
-    "Why are FIFA World Cup 2026 tickets so expensive?",
-    "How Iran war has triggered soaring cost of medicines",
-    "How Lebanese journalist Amal Khalil was pursued and killed by Israel",
-    "Two trains crash head-on in Denmark",
-    "‘Solutions, not slogans’: Gaza holds first election in 21 years",
-    "Makan Nasiri, the only child still missing from the school bombed in Iran",
-    "US Senate passes $70bn funding plan for ICE, Border Patrol"
+    "US military board, seize another ship in international waters"
   ],
   "sections": [
     {
@@ -41,14 +41,14 @@
           "moved": "none"
         },
         {
-          "event": "Will IR Iran vs. New Zealand end in a draw?",
-          "odds": "+222",
+          "event": "Will Kevin Warsh be confirmed as Fed Chair?",
+          "odds": "-1718",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Kevin Warsh be confirmed as Fed Chair?",
-          "odds": "-1654",
+          "event": "Will IR Iran vs. New Zealand end in a draw?",
+          "odds": "+222",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -71,26 +71,14 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "S&P 500 (SPY) closes above $715 on April 23?",
-          "odds": "+900",
+          "event": "Will WTI Crude Oil (WTI) hit (LOW) $80 in April?",
+          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will 4 Fed rate cuts happen in 2026?",
           "odds": "+2757",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Las Vegas Raiders win the 2026 AFC West?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "S&P 500 (SPX) Up or Down on April 23?",
-          "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -109,6 +97,18 @@
         {
           "event": "Will S&P 500 (SPX) hit $4,500 (LOW) in December?",
           "odds": "+300",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Fed Rate Hike by June 2026 Meeting?",
+          "odds": "+1940",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Fed Pause–Pause–Cut in the next three decisions (Apr–Jun–Jul)?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -131,12 +131,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Italy win the televote for Eurovision 2026?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Dan McKee win the 2026 Rhode Island Governor Democratic primary election?",
           "odds": "+733",
           "params": "Fuente: Polymarket",
@@ -144,19 +138,25 @@
         },
         {
           "event": "Will Anže Logar be the next Prime Minister of Slovenia?",
-          "odds": "+1349",
+          "odds": "+1512",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
-          "odds": "+1539",
+          "odds": "+1349",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Brian Shortsleeve win the 2026 Massachusetts Governor Republican primary election?",
           "odds": "+163",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Danish Social Liberal Party be part of the next Government of Denmark?",
+          "odds": "-481",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -166,6 +166,12 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
+        {
+          "event": "Will Anthropic make a deal with the Pentagon by June 30?",
+          "odds": "-104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "PAOK vs. Maroussi",
           "odds": "-316",
@@ -185,14 +191,14 @@
           "moved": "none"
         },
         {
-          "event": "Map 1: Odd/Even Total Rounds?",
-          "odds": "+104",
+          "event": "Will Sønderjyske Fodbold win on 2026-04-23?",
+          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will NYC have between 3 and 4 inches of precipitation in April?",
-          "odds": "+719",
+          "event": "Will the highest temperature in Toronto be 16°C on April 23?",
+          "odds": "+1718",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -205,12 +211,6 @@
         {
           "event": "Will JD Gaming win the LPL 2026 season?",
           "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump say \"Insurance\" during healthcare event?",
-          "odds": "-1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
