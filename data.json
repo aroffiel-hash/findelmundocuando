@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "23 de abril de 2026 — 02:03 UTC",
+  "lastUpdated": "23 de abril de 2026 — 05:24 UTC",
   "ticker": [
+    "Pope Leo visits prison in Equatorial Guinea",
+    "Democrats up in Virginia, but US voters may pay price for redistricting war",
+    "Can fish hook voters in India’s West Bengal elections?",
+    "Protesters stabbed at London rally against war on Iran",
+    "Israel kills journalist and wounds another in south Lebanon targeted attack",
+    "Ultra-Orthodox Jews burn Israeli flags to protest national day",
     "Iran releases video of IRGC seizing ship in the Strait of Hormuz",
     "Iran war live: Israel kills Lebanese journalist; Tehran-US talks stalled",
     "South American migrants deported to DRC say facing pressure to return home",
@@ -9,13 +15,7 @@
     "Prediction market Kalshi docks three US candidates for betting on own races",
     "Yamal scores but injured as Barcelona beat Celta to restore La Liga lead",
     "Man City topple Arsenal at Premier League summit with nervy win at Burnley",
-    "Turkiye making efforts to revive Russia-Ukraine talks, says Erdogan",
-    "Pope Leo urges justice reform in Equatorial Guinea’s prisons",
-    "Israeli forces fire tear gas at funeral of Palestinians killed by settlers",
-    "Trump calls for Republicans to unify around budget reconciliation push",
-    "US suspect accused of stealing Kristi Noem’s purse sentenced to three years",
-    "Trump calls Virginia election ‘rigged’ after redistricting referendum",
-    "Sexual violence in the West Bank emerges as tool to intimidate Palestinians"
+    "Turkiye making efforts to revive Russia-Ukraine talks, says Erdogan"
   ],
   "sections": [
     {
@@ -35,12 +35,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Saudi Arabia recognize Israel by June 30?",
-          "odds": "+1415",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will \"Jinshi (The Apothecary Diaries Season 2)\" win Best Anime Supporting Character at the 2026 Crunchyroll Anime Awards?",
           "odds": "+2400",
           "params": "Fuente: Polymarket",
@@ -48,7 +42,13 @@
         },
         {
           "event": "Will Naftali Bennett be the next Prime Minister of Israel?",
-          "odds": "+284",
+          "odds": "+257",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "US x Iran diplomatic meeting by April 25, 2026?",
+          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -60,7 +60,7 @@
         },
         {
           "event": "Israel withdraws from Lebanon by June 30, 2026?",
-          "odds": "+525",
+          "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -78,7 +78,7 @@
         },
         {
           "event": "Will 4 Fed rate cuts happen in 2026?",
-          "odds": "+2930",
+          "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -132,7 +132,7 @@
         },
         {
           "event": "Will Steve Hilton win the California Governor Election in 2026?",
-          "odds": "+1566",
+          "odds": "+1539",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -150,7 +150,7 @@
         },
         {
           "event": "Will Anže Logar be the next Prime Minister of Slovenia?",
-          "odds": "+2122",
+          "odds": "+1512",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -179,14 +179,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Trump talk to Maria Corina Machado in April?",
-          "odds": "+1328",
+          "event": "Map 1: Odd/Even Total Rounds?",
+          "odds": "+104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Trump name \"Elon\" or \"Musk\" in April?",
-          "odds": "+104",
+          "event": "Will FC Barcelona win on 2026-04-25?",
+          "odds": "-376",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -209,8 +209,8 @@
           "moved": "none"
         },
         {
-          "event": "Will FC Barcelona win on 2026-04-25?",
-          "odds": "-316",
+          "event": "Ledger IPO closing market cap above $3B?",
+          "odds": "+488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
