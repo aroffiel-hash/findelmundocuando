@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "23 de abril de 2026 — 18:59 UTC",
+  "lastUpdated": "23 de abril de 2026 — 20:09 UTC",
   "ticker": [
+    "Real Betis vs Real Madrid: La Liga – teams, start time, lineup",
+    "How Trump’s Iran war is driving military dissent",
+    "US Department of Justice watchdog to probe release of Epstein files",
+    "US Senate passes ICE funding resolution after ‘vote-a-rama’: What’s next?",
     "South Africa president suspends police chief over $21m contract",
     "Mixed views in Lebanon ahead of controversial talks with Israel",
     "More than 6 million Somalis face hunger amid climate shocks and conflict",
@@ -11,29 +15,13 @@
     "Pope Leo ends Africa tour with prison visit",
     "ACLU, Amnesty lead 120 rights groups issuing US World Cup ‘travel advisory’",
     "How bad is Lamine Yamal’s injury? Will he make Spain’s World Cup opener?",
-    "US-Israeli war on Iran will push 30 million back into poverty, UN warns",
-    "Journalist recalls Israeli strike killing Amal Khalil in southern Lebanon",
-    "Warner Bros shareholders approve Paramount’s $111bn takeover",
-    "Turkiye MPs pass bill to restrict social media use for children under 15",
-    "US military board, seize another ship in international waters"
+    "US-Israeli war on Iran will push 30 million back into poverty, UN warns"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Israel withdraws from Lebanon by June 30, 2026?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Bobby Witt Jr. win the 2026 American League MVP Award?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will \"Jinshi (The Apothecary Diaries Season 2)\" win Best Anime Supporting Character at the 2026 Crunchyroll Anime Awards?",
           "odds": "+2400",
@@ -42,7 +30,7 @@
         },
         {
           "event": "Will Kevin Warsh be confirmed as Fed Chair?",
-          "odds": "-1718",
+          "odds": "-1685",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -54,13 +42,25 @@
         },
         {
           "event": "Will Naftali Bennett be the next Prime Minister of Israel?",
-          "odds": "+257",
+          "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Ukraine signs peace deal with Russia by June 30?",
           "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Justin Briner as Izuku Midoriya (My Hero Academia FINAL SEASON) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will \"DAN DA DAN Season 2 (kensuke ushio)\" win Best Anime Score at the 2026 Crunchyroll Anime Awards?",
+          "odds": "-132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -71,12 +71,6 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will WTI Crude Oil (WTI) hit (LOW) $80 in April?",
-          "odds": "+455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will 4 Fed rate cuts happen in 2026?",
           "odds": "+2757",
           "params": "Fuente: Polymarket",
@@ -84,7 +78,13 @@
         },
         {
           "event": "Will US GDP growth in Q1 2026 be between 3.0% and 3.5%?",
-          "odds": "+525",
+          "odds": "+458",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Jerome Powell out as Fed Chair by June 30, 2026?",
+          "odds": "-426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -131,8 +131,20 @@
           "moved": "none"
         },
         {
+          "event": "Will Marine Le Pen announce their candidacy for the 2027 French presidential election in 2026?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Dan McKee win the 2026 Rhode Island Governor Democratic primary election?",
           "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Nina Linh advance from the CA-40 primary election?",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -144,19 +156,7 @@
         },
         {
           "event": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
-          "odds": "+1349",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Brian Shortsleeve win the 2026 Massachusetts Governor Republican primary election?",
-          "odds": "+163",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Danish Social Liberal Party be part of the next Government of Denmark?",
-          "odds": "-481",
+          "odds": "+1462",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,8 +167,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Anthropic make a deal with the Pentagon by June 30?",
-          "odds": "-104",
+          "event": "Will the highest temperature in Buenos Aires be 21°C on April 24?",
+          "odds": "+2841",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -191,14 +191,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Sønderjyske Fodbold win on 2026-04-23?",
-          "odds": "+614",
+          "event": "Will Viktor Orbán be the next leader out before 2027?",
+          "odds": "-1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Toronto be 16°C on April 23?",
-          "odds": "+1718",
+          "event": "Will Feyenoord Rotterdam win on 2026-04-25?",
+          "odds": "-156",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
