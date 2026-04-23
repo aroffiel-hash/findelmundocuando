@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "23 de abril de 2026 — 22:37 UTC",
+  "lastUpdated": "23 de abril de 2026 — 23:39 UTC",
   "ticker": [
+    "US professors sue university over arrest during pro-Palestine protest",
+    "US soldier charged with using Polymarket to bet on Nicolas Maduro abduction",
     "Meta lines up layoffs while Microsoft offers buyouts",
     "Milei administration in Argentina blocks journalist access to Casa Rosada",
     "Funeral held for journalist killed in targeted Israeli strike",
@@ -13,9 +15,7 @@
     "Iran dismisses Trump’s claim of leadership rift, says nation is ‘one soul’",
     "Real Betis vs Real Madrid: La Liga – teams, start time, lineup",
     "How Trump’s Iran war is driving military dissent",
-    "US Department of Justice watchdog to probe release of Epstein files",
-    "US Senate passes ICE funding resolution after ‘vote-a-rama’: What’s next?",
-    "South Africa president suspends police chief over $21m contract"
+    "US Department of Justice watchdog to probe release of Epstein files"
   ],
   "sections": [
     {
@@ -23,14 +23,8 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Valorant: ShindeN vs University War (BO3) - VCL Latin America South: ACE Masters Group B",
-          "odds": "-163",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Kevin Warsh be confirmed as Fed Chair?",
-          "odds": "-1654",
+          "odds": "-1751",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -48,7 +42,7 @@
         },
         {
           "event": "Will Naftali Bennett be the next Prime Minister of Israel?",
-          "odds": "+233",
+          "odds": "+222",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -59,8 +53,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Justin Briner as Izuku Midoriya (My Hero Academia FINAL SEASON) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?",
-          "odds": "+1011",
+          "event": "Will Trump say \"Nuclear\" during WHCA Dinner events?",
+          "odds": "-270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the next US x Iran diplomatic meeting be on May 9?",
+          "odds": "+2073",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -78,7 +78,13 @@
         },
         {
           "event": "Will US GDP growth in Q1 2026 be between 3.0% and 3.5%?",
-          "odds": "+525",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Fed Pause–Pause–Cut in the next three decisions (Apr–Jun–Jul)?",
+          "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -103,12 +109,6 @@
         {
           "event": "Fed Rate Hike by June 2026 Meeting?",
           "odds": "+1940",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Fed Pause–Pause–Cut in the next three decisions (Apr–Jun–Jul)?",
-          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -203,14 +203,14 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Shanghai be 22°C on April 24?",
-          "odds": "+1011",
+          "event": "Will SpaceX have 200 or more launches in 2026?",
+          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will SpaceX have 200 or more launches in 2026?",
-          "odds": "+669",
+          "event": "Will JD Gaming win the LPL 2026 season?",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
