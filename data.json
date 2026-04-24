@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "24 de abril de 2026 — 18:41 UTC",
+  "lastUpdated": "24 de abril de 2026 — 19:46 UTC",
   "ticker": [
+    "Can Europe help the Middle East resolve the war on Iran?",
+    "Trump government extends Jones Act waiver by 90 days to dampen oil prices",
+    "UK assisted dying bill fails after delays but advocates vow to try again",
     "Israeli attacks on Lebanon may violate international law, UN warns",
     "Reality check: Israeli ambitions confront US dictates in Iran and Lebanon",
     "Kosovo court jails three Serb separatists over 2023 Banjska attack",
@@ -12,10 +15,7 @@
     "US has three aircraft carriers in the Middle East for first time since 2003",
     "PM Sanchez rebuffs US idea of suspending Spain from NATO",
     "Chornobyl at 40: Settlers and horses survive Russian drones, contamination",
-    "Five games to go: The Premier League’s unpredictable season turns again",
-    "LIVE: Real Betis vs Real Madrid – La Liga",
-    "Iran-Iraq Tanker War redux? Why the Strait of Hormuz crisis is different",
-    "Israel’s Benjamin Netanyahu says he received treatment for prostate cancer"
+    "Five games to go: The Premier League’s unpredictable season turns again"
   ],
   "sections": [
     {
@@ -23,8 +23,14 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
+          "event": "Will Russia enter Kupiansk-Vuzlovyi by May 31?",
+          "odds": "-1594",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Naftali Bennett be the next Prime Minister of Israel?",
-          "odds": "+194",
+          "odds": "+177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -41,18 +47,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Russia enter Kupiansk-Vuzlovyi by May 31?",
-          "odds": "-2399",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Madrid Open: Thiago Agustin Tirante vs Tommy Paul",
-          "odds": "+203",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Justin Briner as Izuku Midoriya (My Hero Academia FINAL SEASON) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?",
           "odds": "+1011",
           "params": "Fuente: Polymarket",
@@ -61,6 +55,12 @@
         {
           "event": "Will \"DAN DA DAN Season 2 (kensuke ushio)\" win Best Anime Score at the 2026 Crunchyroll Anime Awards?",
           "odds": "-132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will China’s 2026 annual GDP growth (Y/Y) be between 4.0% and 5.0%?",
+          "odds": "-334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -125,20 +125,26 @@
           "moved": "none"
         },
         {
+          "event": "Will the Republicans win the Tennessee Senate race in 2026?",
+          "odds": "-1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Dan McKee win the 2026 Rhode Island Governor Democratic primary election?",
           "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will King Charles say \"George\" or \"Washington\" during the joint meeting of Congress?",
-          "odds": "+212",
+          "event": "Will the Republicans win the Texas Senate race in 2026?",
+          "odds": "-132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the Republicans win the Texas Senate race in 2026?",
-          "odds": "-132",
+          "event": "Will King Charles say \"George\" or \"Washington\" during the joint meeting of Congress?",
+          "odds": "+212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -151,12 +157,6 @@
         {
           "event": "Will Anže Logar be the next Prime Minister of Slovenia?",
           "odds": "+1251",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republicans win the Tennessee Senate race in 2026?",
-          "odds": "-1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -185,6 +185,12 @@
           "moved": "none"
         },
         {
+          "event": "Will LASK Linz win on 2026-05-01?",
+          "odds": "-108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will SpaceX have 200 or more launches in 2026?",
           "odds": "+809",
           "params": "Fuente: Polymarket",
@@ -197,20 +203,14 @@
           "moved": "none"
         },
         {
+          "event": "Will Apple (AAPL) close at $265-$270 on the final day of trading of the week of Apr 20 – Apr 24?",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Urawa Red Diamonds vs. Yokohama F·Marinos end in a draw?",
           "odds": "+300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will JD Gaming win the LPL 2026 season?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Carlos Mendoza win the 2026 NL Manager of the Year?",
-          "odds": "-104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
