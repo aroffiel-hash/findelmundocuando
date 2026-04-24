@@ -1,6 +1,7 @@
 {
-  "lastUpdated": "24 de abril de 2026 — 09:25 UTC",
+  "lastUpdated": "24 de abril de 2026 — 11:00 UTC",
   "ticker": [
+    "Environmental crisis in Russian city after drone attack on refinery",
     "India denounces ‘hellhole’ remark shared by Trump",
     "Global hunger report warns of rising malnutrition and famine risks",
     "Why is there a political deadlock in Lebanon?",
@@ -14,8 +15,7 @@
     "Ukrainian married couple aged 75 killed in Russian attack on Odesa",
     "Does Israel’s ‘Yellow Line’ violate the Lebanon ceasefire?",
     "Trump’s May 1 deadline: Can he continue war on Iran after that?",
-    "Iran war: What’s happening on day 56 after Trump extended ceasefire?",
-    "How fake AI victims are being used to provide rationale for attacking Iran"
+    "Iran war: What’s happening on day 56 after Trump extended ceasefire?"
   ],
   "sections": [
     {
@@ -23,20 +23,8 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Iran agrees to end enrichment of uranium by December 31?",
-          "odds": "+112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will \"Jinshi (The Apothecary Diaries Season 2)\" win Best Anime Supporting Character at the 2026 Crunchyroll Anime Awards?",
           "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the next US x Iran diplomatic meeting be on May 9?",
-          "odds": "+2602",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -48,7 +36,13 @@
         },
         {
           "event": "Will Naftali Bennett be the next Prime Minister of Israel?",
-          "odds": "+222",
+          "odds": "+212",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the next US x Iran diplomatic meeting be on May 10?",
+          "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -59,8 +53,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Justin Briner as Izuku Midoriya (My Hero Academia FINAL SEASON) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?",
-          "odds": "+1011",
+          "event": "Counter-Strike: Yawara Esports vs RED Canids (BO3) - ESL Challenger League South America Cup #4 Playoffs",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Hurricanes vs. Senators",
+          "odds": "-104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -77,6 +77,12 @@
           "moved": "none"
         },
         {
+          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $105 Week of April 20 2026?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will S&P 500 (SPX) hit $5,800 (LOW) in December?",
           "odds": "+122",
           "params": "Fuente: Polymarket",
@@ -85,12 +91,6 @@
         {
           "event": "Will S&P 500 (SPX) hit $4,500 (LOW) in December?",
           "odds": "+300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $105 Week of April 20 2026?",
-          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -138,7 +138,7 @@
         },
         {
           "event": "Will Anže Logar be the next Prime Minister of Slovenia?",
-          "odds": "+2027",
+          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -150,7 +150,7 @@
         },
         {
           "event": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
-          "odds": "+1512",
+          "odds": "+1392",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -166,6 +166,12 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
+        {
+          "event": "Madrid Open: Madison Keys vs Shuai Zhang",
+          "odds": "-104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "PAOK vs. Maroussi",
           "odds": "-316",
@@ -185,8 +191,14 @@
           "moved": "none"
         },
         {
+          "event": "Game Handicap: FNC (-1.5) vs Shifters (+1.5)",
+          "odds": "+170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will a Chinese AI model become #1 by June 30?",
-          "odds": "+2027",
+          "odds": "+1983",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -199,18 +211,6 @@
         {
           "event": "HYPE Up or Down on April 24?",
           "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will SpaceX have 200 or more launches in 2026?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will X-Energy’s market cap be greater than $9B at market close on IPO day?",
-          "odds": "-532",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
