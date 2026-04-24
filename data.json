@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "24 de abril de 2026 — 20:39 UTC",
+  "lastUpdated": "24 de abril de 2026 — 21:41 UTC",
   "ticker": [
+    "US sending envoys to Pakistan, raising hopes of talks with Iran’s Araghchi",
+    "Mass wedding for 300 brides and grooms in central Gaza",
+    "Who’s in control of AI?",
+    "Israel continues attacks on Lebanon despite extension of ceasefire",
+    "Trump to again end legal status of people who entered US with CBP One app",
     "Petro becomes first president to visit Venezuela since Maduro abduction",
     "US appeals court rejects Trump’s ban on asylum seekers, teeing up appeal",
     "Can Europe help the Middle East resolve the war on Iran?",
@@ -10,12 +15,7 @@
     "Reality check: Israeli ambitions confront US dictates in Iran and Lebanon",
     "Kosovo court jails three Serb separatists over 2023 Banjska attack",
     "Trump administration to prioritise seeking death penalty, use firing squads",
-    "Alcaraz’s French Open threepeat dream ended by wrist injury",
-    "How Israel targeted and killed Lebanese journalist Amal Khalil",
-    "Russian oil exports slump as Ukraine hammers ports and refineries",
-    "US Justice Department drops criminal probe of Fed chair Jerome Powell",
-    "US has three aircraft carriers in the Middle East for first time since 2003",
-    "PM Sanchez rebuffs US idea of suspending Spain from NATO"
+    "Alcaraz’s French Open threepeat dream ended by wrist injury"
   ],
   "sections": [
     {
@@ -24,7 +24,7 @@
       "rows": [
         {
           "event": "Will Naftali Bennett be the next Prime Minister of Israel?",
-          "odds": "+177",
+          "odds": "+194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -37,6 +37,12 @@
         {
           "event": "Ukraine signs peace deal with Russia by June 30?",
           "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Communist Party of the Russian Federation (KPRF) win the second-most seats in the next Russian parliamentary election?",
+          "odds": "+108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -54,13 +60,7 @@
         },
         {
           "event": "Will China’s 2026 annual GDP growth (Y/Y) be between 4.0% and 5.0%?",
-          "odds": "-334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Alexis Tipton as Reze (Chainsaw Man – The Movie: Reze Arc) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?",
-          "odds": "+1011",
+          "odds": "-316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -126,19 +126,19 @@
         },
         {
           "event": "Will the Republicans win the Tennessee Senate race in 2026?",
-          "odds": "-1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Dan McKee win the 2026 Rhode Island Governor Democratic primary election?",
-          "odds": "+733",
+          "odds": "-1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Republicans win the Texas Senate race in 2026?",
           "odds": "-132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Dan McKee win the 2026 Rhode Island Governor Democratic primary election?",
+          "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -150,7 +150,7 @@
         },
         {
           "event": "Will Anže Logar be the next Prime Minister of Slovenia?",
-          "odds": "+2073",
+          "odds": "+1349",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -179,12 +179,6 @@
           "moved": "none"
         },
         {
-          "event": "Will a Chinese AI model become #1 by June 30?",
-          "odds": "+2073",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will SpaceX have 200 or more launches in 2026?",
           "odds": "+809",
           "params": "Fuente: Polymarket",
@@ -203,14 +197,20 @@
           "moved": "none"
         },
         {
-          "event": "US Cremonese leading at halftime?",
-          "odds": "+1566",
+          "event": "Will Urawa Red Diamonds vs. Yokohama F·Marinos end in a draw?",
+          "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Urawa Red Diamonds vs. Yokohama F·Marinos end in a draw?",
-          "odds": "+300",
+          "event": "Will JD Gaming win the LPL 2026 season?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Donald Trump publicly insult Jerome Powell by May 31, 2026?",
+          "odds": "-455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
