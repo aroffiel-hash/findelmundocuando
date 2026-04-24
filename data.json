@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "24 de abril de 2026 — 16:49 UTC",
+  "lastUpdated": "24 de abril de 2026 — 17:45 UTC",
   "ticker": [
+    "Alcaraz’s French Open threepeat dream ended by wrist injury",
+    "How Israel targeted and killed Lebanese journalist Amal Khalil",
+    "Russian oil exports slump as Ukraine hammers ports and refineries",
     "US Justice Department drops criminal probe of Fed chair Jerome Powell",
     "US has three aircraft carriers in the Middle East for first time since 2003",
     "PM Sanchez rebuffs US idea of suspending Spain from NATO",
@@ -12,10 +15,7 @@
     "Sally Rooney, Greta Thunberg back Palestine Action before court date",
     "Iranians bring music to sites devastated by US-Israeli attacks",
     "UK to end project tracking potential Israeli violations",
-    "US Navy authorised to target Iranian fast boats in Strait of Hormuz",
-    "UEFA bans Benfica’s Prestianni for six games for verbally abusing Vinicius",
-    "‘Silent suffering’: Why children in Gaza are losing their ability to speak",
-    "Pro-Palestinian activists break into suspected Elbit Systems drone factory"
+    "US Navy authorised to target Iranian fast boats in Strait of Hormuz"
   ],
   "sections": [
     {
@@ -24,19 +24,25 @@
       "rows": [
         {
           "event": "Will Naftali Bennett be the next Prime Minister of Israel?",
-          "odds": "+194",
+          "odds": "+170",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will \"My Hero Academia FINAL SEASON\" win Anime of the Year at the 2026 Crunchyroll Anime Awards?",
-          "odds": "-233",
+          "odds": "-257",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Ukraine signs peace deal with Russia by June 30?",
           "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Russia enter Kupiansk-Vuzlovyi by May 31?",
+          "odds": "-2399",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -55,12 +61,6 @@
         {
           "event": "Will Alexis Tipton as Reze (Chainsaw Man – The Movie: Reze Arc) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?",
           "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Yordan Alvarez win the 2026 American League MVP Award?",
-          "odds": "+295",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -119,6 +119,12 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
+          "event": "Will the All India Trinamool Congress (AITC) win the most seats in the 2026 West Bengal Legislative Assembly election?",
+          "odds": "+123",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Nina Linh advance from the CA-40 primary election?",
           "odds": "+1150",
           "params": "Fuente: Polymarket",
@@ -127,12 +133,6 @@
         {
           "event": "Will Dan McKee win the 2026 Rhode Island Governor Democratic primary election?",
           "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the All India Trinamool Congress (AITC) win the most seats in the 2026 West Bengal Legislative Assembly election?",
-          "odds": "+127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -150,7 +150,7 @@
         },
         {
           "event": "Will Anže Logar be the next Prime Minister of Slovenia?",
-          "odds": "+1487",
+          "odds": "+1251",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -197,20 +197,20 @@
           "moved": "none"
         },
         {
-          "event": "Will María Corina Machado be the leader of Venezuela end of 2026?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "No change in the Selic rate after Bank of Brazil’s June 2026 meeting?",
           "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Cape Town be 24°C on April 25?",
-          "odds": "+1328",
+          "event": "Will Urawa Red Diamonds vs. Yokohama F·Marinos end in a draw?",
+          "odds": "+300",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will JD Gaming win the LPL 2026 season?",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
