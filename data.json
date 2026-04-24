@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "24 de abril de 2026 — 13:09 UTC",
+  "lastUpdated": "24 de abril de 2026 — 15:03 UTC",
   "ticker": [
+    "Iranians bring music to sites devastated by US-Israeli attacks",
+    "UK to end project tracking potential Israeli violations: Report",
+    "US Navy authorised to target Iranian fast boats in Strait of Hormuz",
+    "UEFA bans Benfica’s Prestianni for six games for verbally abusing Vinicius",
+    "‘Silent suffering’: Why children in Gaza are losing their ability to speak",
+    "Pro-Palestinian activists break into suspected Elbit Systems drone factory",
     "Negotiations that enable Israel’s land-grabs",
-    "Iranian FM Araghchi to visit Pakistan as talks with US set to resume",
+    "Iranian FM Araghchi to visit Pakistan in step towards US talks resumption",
     "What’s been happening during the Lebanon ceasefire?",
     "Syria arrests main suspect in civil war Tadamon massacre",
     "Syrian authorities arrest main suspect in 2013 Tadamon massacre",
     "Boston marathoner reflects on helping collapsed runner as video goes viral",
     "With 3,000 containers stuck in Pakistan, Iran explores more land routes",
     "Russian troops, warships in India soon? Why their new military pact matters",
-    "Turkiye’s Istanbul to host F1 Grand Prix for at least five years from 2027",
-    "How long can Iran survive the US’s Hormuz blockade?",
-    "Number of amputees set to rise in Gaza as Israel blocks aid, NGO warns",
-    "US considers suspending Spain from NATO, reported internal email suggests",
-    "Explosions by Israeli forces in south Lebanon despite ceasefire",
-    "Environmental crisis in Russian city after drone attack on refinery",
-    "India denounces ‘hellhole’ remark shared by Trump"
+    "Turkiye’s Istanbul to host F1 Grand Prix for at least five years from 2027"
   ],
   "sections": [
     {
@@ -23,7 +23,7 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Jared Kushner have a diplomatic meeting with Iran by April 30?",
+          "event": "Israel x Hezbollah Ceasefire extended by April 26, 2026?",
           "odds": "+156",
           "params": "Fuente: Polymarket",
           "moved": "none"
@@ -36,19 +36,19 @@
         },
         {
           "event": "Will Naftali Bennett be the next Prime Minister of Israel?",
-          "odds": "+203",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Ukraine signs peace deal with Russia by June 30?",
-          "odds": "+1566",
+          "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will \"My Hero Academia FINAL SEASON\" win Anime of the Year at the 2026 Crunchyroll Anime Awards?",
           "odds": "-233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Ukraine signs peace deal with Russia by June 30?",
+          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -77,26 +77,14 @@
           "moved": "none"
         },
         {
+          "event": "Jerome Powell out from Fed Board by May 30?",
+          "odds": "+108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will S&P 500 (SPX) hit $5,800 (LOW) in December?",
-          "odds": "+122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will gas hit (Low) $3.95 by April 30?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will S&P 500 (SPX) hit $4,500 (LOW) in December?",
-          "odds": "+300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Oilers vs. Ducks",
-          "odds": "-122",
+          "odds": "+117",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -109,6 +97,18 @@
         {
           "event": "Will Brentford FC win on 2026-04-27?",
           "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Edmonton Oilers win the Western Conference?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will S&P 500 (SPX) hit $9,300 (HIGH) in December?",
+          "odds": "+2027",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -125,14 +125,8 @@
           "moved": "none"
         },
         {
-          "event": "Will the All India Anna Dravida Munnetra Kazhagam (ADMK) win the most seats in the 2026 Tamil Nadu Legislative Assembly election?",
-          "odds": "+681",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will King Charles say \"Queen\" or \"Elizabeth\" during the joint meeting of Congress?",
-          "odds": "-185",
+          "event": "Will the Indian Union Muslim League (IUML) win between 16 and 18 seats in the 2026 Kerala Legislative Assembly election?",
+          "odds": "+138",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -150,13 +144,19 @@
         },
         {
           "event": "Will Anže Logar be the next Prime Minister of Slovenia?",
-          "odds": "+1624",
+          "odds": "+1487",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will David Lisnard win the 2027 French presidential election?",
-          "odds": "+2531",
+          "odds": "+2602",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
+          "odds": "+1487",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,19 +167,13 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Madrid Open: Leylah Fernandez vs Iva Jovic",
-          "odds": "+138",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "PAOK vs. Maroussi",
           "odds": "-316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Los Angeles be between 68-69°F on April 26?",
+          "event": "US escorts commercial ship through Hormuz by April 30?",
           "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
@@ -191,8 +185,8 @@
           "moved": "none"
         },
         {
-          "event": "Amouranth divorced by June 30?",
-          "odds": "+900",
+          "event": "Will CF América win on 2026-04-25?",
+          "odds": "-138",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -203,14 +197,20 @@
           "moved": "none"
         },
         {
-          "event": "Will María Corina Machado be the leader of Venezuela end of 2026?",
-          "odds": "+900",
+          "event": "Will a Chinese AI model become #1 by June 30?",
+          "odds": "+2122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will a Chinese AI model become #1 by June 30?",
-          "odds": "+1983",
+          "event": "Will SpaceX have 200 or more launches in 2026?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will María Corina Machado be the leader of Venezuela end of 2026?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
