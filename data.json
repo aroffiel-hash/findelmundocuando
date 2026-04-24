@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "24 de abril de 2026 — 19:46 UTC",
+  "lastUpdated": "24 de abril de 2026 — 20:39 UTC",
   "ticker": [
+    "Petro becomes first president to visit Venezuela since Maduro abduction",
+    "US appeals court rejects Trump’s ban on asylum seekers, teeing up appeal",
     "Can Europe help the Middle East resolve the war on Iran?",
     "Trump government extends Jones Act waiver by 90 days to dampen oil prices",
     "UK assisted dying bill fails after delays but advocates vow to try again",
@@ -13,21 +15,13 @@
     "Russian oil exports slump as Ukraine hammers ports and refineries",
     "US Justice Department drops criminal probe of Fed chair Jerome Powell",
     "US has three aircraft carriers in the Middle East for first time since 2003",
-    "PM Sanchez rebuffs US idea of suspending Spain from NATO",
-    "Chornobyl at 40: Settlers and horses survive Russian drones, contamination",
-    "Five games to go: The Premier League’s unpredictable season turns again"
+    "PM Sanchez rebuffs US idea of suspending Spain from NATO"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Will Russia enter Kupiansk-Vuzlovyi by May 31?",
-          "odds": "-1594",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Naftali Bennett be the next Prime Minister of Israel?",
           "odds": "+177",
@@ -63,6 +57,12 @@
           "odds": "-334",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Alexis Tipton as Reze (Chainsaw Man – The Movie: Reze Arc) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -71,20 +71,8 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will the Fed Pause–Pause–Cut in the next three decisions (Apr–Jun–Jul)?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Fed Rate Hike by June 2026 Meeting?",
           "odds": "+1940",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Brentford FC win on 2026-04-27?",
-          "odds": "+316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -102,13 +90,25 @@
         },
         {
           "event": "Will 3 Fed rate cuts happen in 2026?",
-          "odds": "+1328",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will US crude oil reserves fall to 275M by June 5?",
           "odds": "+1233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will UK GDP growth in Q1 2026 be between 0% and 0.3%?",
+          "odds": "+177",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Fed’s lower bound reach 1.25% or lower before 2027?",
+          "odds": "+1049",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -149,14 +149,14 @@
           "moved": "none"
         },
         {
-          "event": "Will David Lisnard win the 2027 French presidential election?",
-          "odds": "+2602",
+          "event": "Will Anže Logar be the next Prime Minister of Slovenia?",
+          "odds": "+2073",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Anže Logar be the next Prime Minister of Slovenia?",
-          "odds": "+1251",
+          "event": "Will David Lisnard win the 2027 French presidential election?",
+          "odds": "+2602",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -180,13 +180,7 @@
         },
         {
           "event": "Will a Chinese AI model become #1 by June 30?",
-          "odds": "+2122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will LASK Linz win on 2026-05-01?",
-          "odds": "-108",
+          "odds": "+2073",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -197,14 +191,20 @@
           "moved": "none"
         },
         {
+          "event": "Will LASK Linz win on 2026-05-01?",
+          "odds": "-108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Club Alianza Atlético win on 2026-04-30?",
           "odds": "+149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Apple (AAPL) close at $265-$270 on the final day of trading of the week of Apr 20 – Apr 24?",
-          "odds": "+376",
+          "event": "US Cremonese leading at halftime?",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
