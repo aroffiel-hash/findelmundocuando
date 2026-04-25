@@ -1,6 +1,7 @@
 {
-  "lastUpdated": "25 de abril de 2026 — 17:33 UTC",
+  "lastUpdated": "25 de abril de 2026 — 18:40 UTC",
   "ticker": [
+    "Reported US CIA agents killed in crash not authorised to operate: Mexico",
     "Joy and desire for change as Gaza’s Deir el-Balah holds elections",
     "Iran FM Abbas Araghchi and Pakistan PM Shehbaz Sharif meet in Pakistan",
     "US to allow Venezuelan government to cover Maduro’s lawyer fees",
@@ -14,8 +15,7 @@
     "Flights resume at Tehran airport as US-Iran ceasefire holds",
     "Armed groups stage simultaneous attacks across Mali",
     "Iran resumes commercial flights from Tehran airport",
-    "Iran’s Infowar: Lego, AI and ever tightening control",
-    "Mali attacks updates: Coordinated attacks in Bamako, Kidal and elsewhere"
+    "Iran’s Infowar: Lego, AI and ever tightening control"
   ],
   "sections": [
     {
@@ -42,7 +42,7 @@
         },
         {
           "event": "Will China’s 2026 annual GDP growth (Y/Y) be between 4.0% and 5.0%?",
-          "odds": "-300",
+          "odds": "-270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -119,26 +119,20 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Calvin Lee advance from the CA-34 primary election?",
-          "odds": "-270",
+          "event": "Will the Republicans win the Tennessee Senate race in 2026?",
+          "odds": "-1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the Republicans win the Tennessee Senate race in 2026?",
-          "odds": "-1011",
+          "event": "Will Jon Ossoff win the 2028 Democratic presidential nomination?",
+          "odds": "+1751",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Nina Linh advance from the CA-40 primary election?",
           "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Jon Ossoff win the 2028 Democratic presidential nomination?",
-          "odds": "+1786",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -159,6 +153,12 @@
           "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will David Lisnard win the 2027 French presidential election?",
+          "odds": "+2464",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -166,6 +166,12 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
+        {
+          "event": "Will CA Sarmiento vs. CA Tigre end in a draw?",
+          "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Trump meet with Delcy Rodríguez by June 30?",
           "odds": "+455",
@@ -205,12 +211,6 @@
         {
           "event": "Will Carlos Mendoza win the 2026 NL Manager of the Year?",
           "odds": "-104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will SpaceX’s IPO valuation be between 2.25T and 2.50T?",
-          "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
