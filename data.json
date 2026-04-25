@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "25 de abril de 2026 — 12:51 UTC",
+  "lastUpdated": "25 de abril de 2026 — 14:00 UTC",
   "ticker": [
+    "Israeli attacks kill four in southern Lebanon",
+    "LIVE: Arsenal vs Newcastle – Premier League",
+    "‘Scale and coordination of Mali attacks appear unprecedented’",
+    "Indonesian UN peacekeeper becomes sixth killed in Lebanon",
     "Flights resume at Tehran airport as US-Iran ceasefire holds",
     "Armed groups stage simultaneous attacks across Mali",
     "Iran resumes commercial flights from Tehran airport",
@@ -11,17 +15,19 @@
     "Top Iranian and Pakistani officials meet in Islamabad",
     "Overnight Russian attacks on Ukraine kill five, injure 30",
     "Gaza area votes in first municipal election in 20 years",
-    "Ireland to demand Israel pay for settler demolition of Palestinian school",
-    "West Bank scepticism as Palestinians doubt local elections will change much",
-    "US sanctions China’s ‘teapot’ refinery for buying Iranian oil",
-    "Brazil and Chelsea star Estevao’s World Cup hopes in doubt after injury",
-    "Capture of ships by US, Iran violates international law, shipping body says"
+    "Ireland to demand Israel pay for settler demolition of Palestinian school"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Madrid Open: Cameron Norrie vs Thiago Agustin Tirante",
+          "odds": "-122",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Naftali Bennett be the next Prime Minister of Israel?",
           "odds": "+185",
@@ -41,6 +47,12 @@
           "moved": "none"
         },
         {
+          "event": "Will Borussia Mönchengladbach win on 2026-04-25?",
+          "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will China’s 2026 annual GDP growth (Y/Y) be between 4.0% and 5.0%?",
           "odds": "-270",
           "params": "Fuente: Polymarket",
@@ -49,18 +61,6 @@
         {
           "event": "Will Justin Briner as Izuku Midoriya (My Hero Academia FINAL SEASON) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?",
           "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will \"DAN DA DAN Season 2 (kensuke ushio)\" win Best Anime Score at the 2026 Crunchyroll Anime Awards?",
-          "odds": "-132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Russia x Ukraine ceasefire by end of 2027?",
-          "odds": "+117",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -125,12 +125,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Deb Haaland win the 2026 New Mexico Governor Democratic primary election?",
-          "odds": "-455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the Republicans win the Tennessee Senate race in 2026?",
           "odds": "-1150",
           "params": "Fuente: Polymarket",
@@ -159,6 +153,12 @@
           "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will David Lisnard win the 2027 French presidential election?",
+          "odds": "+2464",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -166,12 +166,6 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
-        {
-          "event": "Exact Score: West Ham United FC 2 - 2 Everton FC?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will JD Gaming win the LPL 2026 season?",
           "odds": "+733",
@@ -181,6 +175,12 @@
         {
           "event": "Will Girona FC win on 2026-05-01?",
           "odds": "-112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Vitality win BLAST Rivals Fort Worth 2026?",
+          "odds": "-203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -203,14 +203,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Vitality win BLAST Rivals Fort Worth 2026?",
-          "odds": "-203",
+          "event": "Will there be a run scored in the first inning?: Athletics vs. Texas Rangers",
+          "odds": "+112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will there be a run scored in the first inning?: Athletics vs. Texas Rangers",
-          "odds": "+112",
+          "event": "Will Trump meet with Delcy Rodríguez by June 30?",
+          "odds": "+525",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
