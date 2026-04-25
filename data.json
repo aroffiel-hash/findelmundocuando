@@ -1,6 +1,7 @@
 {
-  "lastUpdated": "25 de abril de 2026 — 04:32 UTC",
+  "lastUpdated": "25 de abril de 2026 — 06:17 UTC",
   "ticker": [
+    "What’s at stake for Iran and the US in Islamabad?",
     "Israel escalates attacks in Gaza, killing 12 people",
     "Iran war: What’s happening on day 57 as Trump dispatches negotiating team?",
     "OpenAI’s Sam Altman apologises over failure to report Canadian mass shooter",
@@ -14,14 +15,19 @@
     "Israel continues attacks on Lebanon despite extension of ceasefire",
     "Trump to again end legal status of people who entered US with CBP One app",
     "Petro becomes first president to visit Venezuela since Maduro abduction",
-    "US appeals court rejects Trump’s ban on asylum seekers, teeing up appeal",
-    "Can Europe help the Middle East resolve the war on Iran?"
+    "US appeals court rejects Trump’s ban on asylum seekers, teeing up appeal"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Will Russia enter Kupiansk-Vuzlovyi by April 30?",
+          "odds": "-1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Naftali Bennett be the next Prime Minister of Israel?",
           "odds": "+194",
@@ -42,7 +48,7 @@
         },
         {
           "event": "Ukraine signs peace deal with Russia by June 30?",
-          "odds": "+1899",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -55,12 +61,6 @@
         {
           "event": "Will \"DAN DA DAN Season 2 (kensuke ushio)\" win Best Anime Score at the 2026 Crunchyroll Anime Awards?",
           "odds": "-132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will China’s 2026 annual GDP growth (Y/Y) be between 4.0% and 5.0%?",
-          "odds": "-316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -119,6 +119,12 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
+          "event": "Will Calvin Lee advance from the CA-34 primary election?",
+          "odds": "-270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Deb Haaland win the 2026 New Mexico Governor Democratic primary election?",
           "odds": "-455",
           "params": "Fuente: Polymarket",
@@ -149,12 +155,6 @@
           "moved": "none"
         },
         {
-          "event": "Will King Charles say \"George\" or \"Washington\" during the joint meeting of Congress?",
-          "odds": "+212",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will David Lisnard win the 2027 French presidential election?",
           "odds": "+2677",
           "params": "Fuente: Polymarket",
@@ -179,8 +179,20 @@
           "moved": "none"
         },
         {
+          "event": "Counter-Strike: ALGO Esports vs Sashi Academy (BO3) - United21 Group C",
+          "odds": "-376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Uzbekistan win on 2026-06-17?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will JD Gaming win the LPL 2026 season?",
-          "odds": "+1150",
+          "odds": "+740",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -191,26 +203,14 @@
           "moved": "none"
         },
         {
+          "event": "Will Londrina EC win on 2026-04-25?",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Trump meet with Delcy Rodríguez by June 30?",
           "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
-          "odds": "+1370",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will San Diego FC win on 2026-05-13?",
-          "odds": "+455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Obama divorce before 2027?",
-          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
