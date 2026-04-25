@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "25 de abril de 2026 — 16:34 UTC",
+  "lastUpdated": "25 de abril de 2026 — 17:33 UTC",
   "ticker": [
+    "Joy and desire for change as Gaza’s Deir el-Balah holds elections",
+    "Iran FM Abbas Araghchi and Pakistan PM Shehbaz Sharif meet in Pakistan",
+    "US to allow Venezuelan government to cover Maduro’s lawyer fees",
     "After years of avoidance, Trump to attend first White House press dinner",
     "African governments need to take urgent action on fertiliser shortages",
     "Deporting soldiers? Why immigrant veterans fear removal from the US",
@@ -12,10 +15,7 @@
     "Armed groups stage simultaneous attacks across Mali",
     "Iran resumes commercial flights from Tehran airport",
     "Iran’s Infowar: Lego, AI and ever tightening control",
-    "Mali attacks live: Coordinated attacks in Bamako, Kati, Kidal and elsewhere",
-    "Palestinians cast their ballots as Gaza holds first election in 21 years",
-    "Gunmen stage simultaneous attacks across Mali, army says",
-    "Top Iranian and Pakistani officials meet in Islamabad"
+    "Mali attacks updates: Coordinated attacks in Bamako, Kidal and elsewhere"
   ],
   "sections": [
     {
@@ -23,20 +23,14 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will the next US x Iran diplomatic meeting occur after May 10?",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Naftali Bennett be the next Prime Minister of Israel?",
-          "odds": "+177",
+          "odds": "+194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will \"My Hero Academia FINAL SEASON\" win Anime of the Year at the 2026 Crunchyroll Anime Awards?",
-          "odds": "-270",
+          "odds": "-244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -48,7 +42,7 @@
         },
         {
           "event": "Will China’s 2026 annual GDP growth (Y/Y) be between 4.0% and 5.0%?",
-          "odds": "-270",
+          "odds": "-300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -61,6 +55,12 @@
         {
           "event": "Will \"DAN DA DAN Season 2 (kensuke ushio)\" win Best Anime Score at the 2026 Crunchyroll Anime Awards?",
           "odds": "-132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Russia x Ukraine ceasefire by end of 2027?",
+          "odds": "+117",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -84,7 +84,7 @@
         },
         {
           "event": "Will 3 Fed rate cuts happen in 2026?",
-          "odds": "+1328",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -126,13 +126,19 @@
         },
         {
           "event": "Will the Republicans win the Tennessee Senate race in 2026?",
-          "odds": "-1150",
+          "odds": "-1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Nina Linh advance from the CA-40 primary election?",
           "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jon Ossoff win the 2028 Democratic presidential nomination?",
+          "odds": "+1786",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -149,12 +155,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Jon Ossoff win the 2028 Democratic presidential nomination?",
-          "odds": "+1786",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Dan McKee win the 2026 Rhode Island Governor Democratic primary election?",
           "odds": "+733",
           "params": "Fuente: Polymarket",
@@ -166,12 +166,6 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
-        {
-          "event": "Exact Score: Valencia CF 1 - 0 Girona FC?",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Trump meet with Delcy Rodríguez by June 30?",
           "odds": "+455",
@@ -211,6 +205,12 @@
         {
           "event": "Will Carlos Mendoza win the 2026 NL Manager of the Year?",
           "odds": "-104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will SpaceX’s IPO valuation be between 2.25T and 2.50T?",
+          "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
