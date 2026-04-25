@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "25 de abril de 2026 — 14:00 UTC",
+  "lastUpdated": "25 de abril de 2026 — 15:34 UTC",
   "ticker": [
+    "After years of avoidance, Trump to attend first White House press dinner",
+    "African governments need to take urgent action on fertiliser shortages",
+    "Deporting soldiers? Why immigrant veterans fear removal from the US",
     "Israeli attacks kill four in southern Lebanon",
     "LIVE: Arsenal vs Newcastle – Premier League",
     "‘Scale and coordination of Mali attacks appear unprecedented’",
@@ -9,13 +12,10 @@
     "Armed groups stage simultaneous attacks across Mali",
     "Iran resumes commercial flights from Tehran airport",
     "Iran’s Infowar: Lego, AI and ever tightening control",
-    "Mali attacks live: Gunfire heard near Bamako airport and in several cities",
+    "Mali attacks live: Coordinated attacks in Bamako, Kati, Kidal and elsewhere",
     "Palestinians cast their ballots as Gaza holds first election in 21 years",
     "Gunmen stage simultaneous attacks across Mali, army says",
-    "Top Iranian and Pakistani officials meet in Islamabad",
-    "Overnight Russian attacks on Ukraine kill five, injure 30",
-    "Gaza area votes in first municipal election in 20 years",
-    "Ireland to demand Israel pay for settler demolition of Palestinian school"
+    "Top Iranian and Pakistani officials meet in Islamabad"
   ],
   "sections": [
     {
@@ -23,14 +23,20 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Madrid Open: Cameron Norrie vs Thiago Agustin Tirante",
-          "odds": "-122",
+          "event": "Will Trump say \"The War Is Over\" this week? (April 20 - 26)",
+          "odds": "+809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Naftali Bennett be the next Prime Minister of Israel?",
-          "odds": "+185",
+          "odds": "+203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the next US x Iran diplomatic meeting occur after May 10?",
+          "odds": "+122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -47,14 +53,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Borussia Mönchengladbach win on 2026-04-25?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will China’s 2026 annual GDP growth (Y/Y) be between 4.0% and 5.0%?",
-          "odds": "-270",
+          "odds": "-300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -72,7 +72,7 @@
       "rows": [
         {
           "event": "Will the Edmonton Oilers win the Western Conference?",
-          "odds": "+1150",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -95,12 +95,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Manchester United FC vs. Brentford FC end in a draw?",
-          "odds": "+300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will US crude oil reserves fall to 275M by June 5?",
           "odds": "+1233",
           "params": "Fuente: Polymarket",
@@ -109,6 +103,12 @@
         {
           "event": "Will Brentford FC win on 2026-05-02?",
           "odds": "+104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will UK GDP growth in Q1 2026 be between 0% and 0.3%?",
+          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -149,14 +149,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Dan McKee win the 2026 Rhode Island Governor Democratic primary election?",
-          "odds": "+733",
+          "event": "Will Jon Ossoff win the 2028 Democratic presidential nomination?",
+          "odds": "+1786",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will David Lisnard win the 2027 French presidential election?",
-          "odds": "+2464",
+          "event": "Will Dan McKee win the 2026 Rhode Island Governor Democratic primary election?",
+          "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -169,18 +169,6 @@
         {
           "event": "Will JD Gaming win the LPL 2026 season?",
           "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Girona FC win on 2026-05-01?",
-          "odds": "-112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Vitality win BLAST Rivals Fort Worth 2026?",
-          "odds": "-203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -203,14 +191,26 @@
           "moved": "none"
         },
         {
+          "event": "Will Trump meet with Delcy Rodríguez by June 30?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will there be a run scored in the first inning?: Athletics vs. Texas Rangers",
           "odds": "+112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Trump meet with Delcy Rodríguez by June 30?",
-          "odds": "+525",
+          "event": "Will the highest temperature in Moscow be 8°C on April 26?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Khamenei post 10-14 posts from April 24 to May 1, 2026?",
+          "odds": "-112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
