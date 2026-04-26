@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "26 de abril de 2026 — 20:32 UTC",
+  "lastUpdated": "26 de abril de 2026 — 21:32 UTC",
   "ticker": [
+    "Iran’s foreign minister leaves Pakistan, heads to Russia for more talks",
+    "Israeli settler attacks Hebron activist’s home as soldier looks on",
+    "What’s driving attacks against gov’t and Russian forces in Mali?",
+    "Bomb attack on Colombia highway kills 19 ahead of election",
     "Former Israeli PMs Bennett, Lapid unite to challenge Netanyahu in elections",
     "Has Iran exposed the limits of what US can achieve by force?",
     "Israel issues forced evacuation orders for southern Lebanon in escalation",
@@ -11,29 +15,13 @@
     "Iran shifts economic focus to essentials during war uncertainty",
     "Abbas loyalists sweep Palestinian elections, including some seats in Gaza",
     "New footage shows moment of deadly bus bombing in Colombia",
-    "‘State of war’: Why Israel has escalated attacks in Gaza",
-    "Will Yamal, Salah and Ekitike miss the World Cup 2026 due to injury?",
-    "War, the Gulf & Rethinking Money in Sport",
-    "US-Iran conflict: What’s the latest as the Islamabad talks stall?",
-    "Mali rattled by ongoing armed attacks: What to know"
+    "‘State of war’: Why Israel has escalated attacks in Gaza"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Ostrava: Marco Cecchinato vs Daniel Michalski",
-          "odds": "-149",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Bank of Russia decrease the key rate after the June Meeting?",
-          "odds": "-488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Star Wars: The Mandalorian and Grogu have the best domestic opening week in 2026?",
           "odds": "+316",
@@ -61,6 +49,18 @@
         {
           "event": "Will Russia capture Sofiivka by May 31?",
           "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Alexis Tipton as Reze (Chainsaw Man – The Movie: Reze Arc) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Yordan Alvarez win the 2026 American League MVP Award?",
+          "odds": "+295",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -101,14 +101,14 @@
           "moved": "none"
         },
         {
-          "event": "Will UK GDP growth in Q1 2026 be between 0% and 0.3%?",
-          "odds": "+614",
+          "event": "Will Brentford FC win on 2026-04-27?",
+          "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the Fed’s lower bound reach 1.25% or lower before 2027?",
-          "odds": "+1049",
+          "event": "Will UK GDP growth in Q1 2026 be between 0% and 0.3%?",
+          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -144,7 +144,7 @@
         },
         {
           "event": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
-          "odds": "+108",
+          "odds": "+112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -166,12 +166,6 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
-        {
-          "event": "Will the Labour Party win control of the most London borough councils?",
-          "odds": "-354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Alphabet be the largest company in the world by market cap on June 30?",
           "odds": "+2531",
@@ -203,14 +197,20 @@
           "moved": "none"
         },
         {
-          "event": "Will FC Bayern München win on 2026-05-06?",
-          "odds": "-138",
+          "event": "Counter-Strike: ALGO Esports vs Sashi Academy (BO3) - United21 Group C",
+          "odds": "-334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Counter-Strike: LPH Gaming vs Sangal ALTERS (BO3) - United21 Group A",
           "odds": "-170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will San Diego FC win on 2026-05-13?",
+          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
