@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "26 de abril de 2026 — 12:53 UTC",
+  "lastUpdated": "26 de abril de 2026 — 14:01 UTC",
   "ticker": [
+    "Mali rattled by ongoing armed attacks: What to know",
+    "40 years since the world’s worst nuclear disaster in Ukraine",
+    "Israel feared Amal Khalil, just as it did Shireen Abu Akleh",
+    "Mali defence minister killed after coordinated attacks",
+    "What lies ahead for Gaza after ceasefires in Iran and Lebanon?",
     "Syria puts first Assad-era official on trial in Damascus",
-    "Kenya’s Sawe is world’s first man to run a sub-two-hour marathon in London",
+    "Sebastian Sawe breaks London marathon record with first run under two hours",
     "Timeline: Trump assassination attempts and security incidents",
-    "Mali’s Defence Minister Sadio Camara killed amid coordinated attacks",
+    "Mali’s Defence Minister Sadio Camara killed during coordinated attacks",
     "What we know about the suspected ‘assassination attempt’ on Donald Trump",
     "At least four people killed in Israeli attacks in Gaza despite ‘ceasefire’",
     "Israel destroys solar panels in south Lebanon",
     "Yemen’s landmine crisis endures despite truce and de-mining efforts",
     "Raghu Rai, legendary Indian photographer, dies at 83",
-    "What to know about Cole Allen, alleged WH correspondents’ dinner shooter",
-    "Chornobyl’s surviving ‘liquidators’ return 40 years after nuclear disaster",
-    "Russian attacks on Ukraine kill at least five, damage ship in port",
-    "Aljamain Sterling calls for featherweight title shot after UFC 116 win",
-    "How American taxpayers fund Trump’s wars",
-    "World reacts to shooting at White House correspondents’ dinner"
+    "What to know about Cole Allen, alleged WH correspondents’ dinner shooter"
   ],
   "sections": [
     {
@@ -23,26 +23,26 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
+          "event": "Will Naftali Bennett be the next Prime Minister of Israel?",
+          "odds": "+143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Star Wars: The Mandalorian and Grogu have the best domestic opening week in 2026?",
           "odds": "+316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Naftali Bennett be the next Prime Minister of Israel?",
-          "odds": "+177",
+          "event": "BV Borussia 09 Dortmund vs. SC Freiburg: O/U 1.5",
+          "odds": "-566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Ukraine signs peace deal with Russia by June 30?",
           "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will BV Borussia 09 Dortmund win on 2026-04-26?",
-          "odds": "-233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -59,8 +59,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Alexis Tipton as Reze (Chainsaw Man – The Movie: Reze Arc) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?",
-          "odds": "+1011",
+          "event": "Will Russia capture Sofiivka by May 31?",
+          "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -119,6 +119,12 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
+          "event": "Will Bruno Retailleau be on the ballot for the 2027 French presidential election?",
+          "odds": "-222",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the Republicans win the Texas Senate race in 2026?",
           "odds": "-132",
           "params": "Fuente: Polymarket",
@@ -137,26 +143,20 @@
           "moved": "none"
         },
         {
+          "event": "Will David Lisnard win the 2027 French presidential election?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Dan McKee win the 2026 Rhode Island Governor Democratic primary election?",
           "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will David Lisnard win the 2027 French presidential election?",
-          "odds": "+2464",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Anže Logar be the next Prime Minister of Slovenia?",
           "odds": "+2122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
-          "odds": "+104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,38 +167,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Map Handicap: Eternal Fire Passion (-1.5) vs Fire Flux Esports (+1.5)",
-          "odds": "+117",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Counter-Strike: Isurus vs Bounty Hunters Esports - Map 1 Winner",
-          "odds": "+122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will FK LNZ Cherkasy win on 2026-04-26?",
-          "odds": "+149",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Kuala Lumpur be 34°C on April 27?",
-          "odds": "+170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Istanbul be 13°C on April 27?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Uzbekistan win on 2026-06-17?",
           "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Chengdu be 18°C on April 28?",
+          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -211,6 +187,30 @@
         {
           "event": "Will Rayo Vallecano de Madrid win on 2026-04-30?",
           "odds": "+127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Carlos Mendoza win the 2026 NL Manager of the Year?",
+          "odds": "-104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will SpaceX’s IPO valuation be between 2.25T and 2.50T?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
+          "odds": "+1370",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Alphabet be the largest company in the world by market cap on June 30?",
+          "odds": "+2464",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
