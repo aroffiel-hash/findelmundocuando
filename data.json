@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "26 de abril de 2026 — 22:31 UTC",
+  "lastUpdated": "26 de abril de 2026 — 23:33 UTC",
   "ticker": [
     "Iran’s foreign minister leaves Pakistan, heads to Russia for more talks",
     "Israeli settler attacks Hebron activist’s home as soldier looks on",
@@ -22,6 +22,12 @@
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Gaza flotilla enters Israeli waters by May 31?",
+          "odds": "+127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Star Wars: The Mandalorian and Grogu have the best domestic opening week in 2026?",
           "odds": "+316",
@@ -57,12 +63,6 @@
           "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will Alexis Tipton as Reze (Chainsaw Man – The Movie: Reze Arc) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -90,7 +90,7 @@
         },
         {
           "event": "Will 3 Fed rate cuts happen in 2026?",
-          "odds": "+1150",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -167,12 +167,6 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Major US official out by April 30?",
-          "odds": "+376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Alphabet be the largest company in the world by market cap on June 30?",
           "odds": "+2531",
           "params": "Fuente: Polymarket",
@@ -203,14 +197,20 @@
           "moved": "none"
         },
         {
-          "event": "Will Trabzonspor win on 2026-04-27?",
-          "odds": "+132",
+          "event": "Will San Diego FC win on 2026-05-13?",
+          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will San Diego FC win on 2026-05-13?",
-          "odds": "+455",
+          "event": "Will Satoshi's identity be revealed by December 31?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump say \"Trump Was Right About Everything\" in April?",
+          "odds": "+376",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
