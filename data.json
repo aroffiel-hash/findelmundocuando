@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "26 de abril de 2026 — 10:39 UTC",
+  "lastUpdated": "26 de abril de 2026 — 11:35 UTC",
   "ticker": [
+    "Kenya’s Sawe is world’s first man to run a sub-two-hour marathon in London",
+    "Timeline: Trump assassination attempts and security incidents",
+    "Mali’s Defence Minister Sadio Camara killed amid coordinated attacks",
+    "What we know about the suspected ‘assassination attempt’ on Donald Trump",
     "At least four people killed in Israeli attacks in Gaza despite ‘ceasefire’",
     "Israel destroys solar panels in south Lebanon",
     "Yemen’s landmine crisis endures despite truce and de-mining efforts",
@@ -11,11 +15,7 @@
     "Aljamain Sterling calls for featherweight title shot after UFC 116 win",
     "How American taxpayers fund Trump’s wars",
     "World reacts to shooting at White House correspondents’ dinner",
-    "Anthony Edwards injures knee in Timberwolves’ Game 4 win against Nuggets",
-    "We can make sure another Chornobyl disaster does not happen, here is how",
-    "Washington shooting: What we know so far",
-    "Iran war: What’s happening on day 58 as Tehran-Washington talks stall?",
-    "Injured Salah has played his last game for Liverpool: Egypt team official"
+    "Anthony Edwards injures knee in Timberwolves’ Game 4 win against Nuggets"
   ],
   "sections": [
     {
@@ -119,12 +119,6 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will the Labour Party win at least 300 council seat elections in the 2026 United Kingdom local elections?",
-          "odds": "-1462",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Nina Linh advance from the CA-40 primary election?",
           "odds": "+1150",
           "params": "Fuente: Polymarket",
@@ -159,6 +153,12 @@
           "odds": "+104",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
+          "odds": "+1624",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -166,6 +166,18 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
+        {
+          "event": "Map Handicap: Eternal Fire Passion (-1.5) vs Fire Flux Esports (+1.5)",
+          "odds": "+117",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Counter-Strike: Isurus vs Bounty Hunters Esports - Map 1 Winner",
+          "odds": "+122",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Uzbekistan win on 2026-06-17?",
           "odds": "+809",
@@ -185,6 +197,12 @@
           "moved": "none"
         },
         {
+          "event": "Will the highest temperature in Moscow be 9°C on April 26?",
+          "odds": "-941",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Carlos Mendoza win the 2026 NL Manager of the Year?",
           "odds": "-104",
           "params": "Fuente: Polymarket",
@@ -193,24 +211,6 @@
         {
           "event": "Will SpaceX’s IPO valuation be between 2.25T and 2.50T?",
           "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
-          "odds": "+1370",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will San Diego FC win on 2026-05-13?",
-          "odds": "+455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Fluxo W7M win CBLOL 2026 Split 1?",
-          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
