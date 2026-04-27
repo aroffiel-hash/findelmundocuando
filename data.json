@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "27 de abril de 2026 — 19:09 UTC",
+  "lastUpdated": "27 de abril de 2026 — 20:55 UTC",
   "ticker": [
+    "China seeks to block US tech giant Meta from AI acquisition",
+    "King Charles and Queen Camilla arrive for high-profile US state visit",
+    "Hezbollah and Israel swap threats and strikes across Lebanon’s border",
+    "Elon Musk trial against Sam Altman to reveal OpenAI power struggle",
+    "Thousands held by paramilitary RSF in Sudan’s el-Fasher: NGO",
+    "What people in Beirut think about the Lebanon-Israel negotiations",
+    "Iraqi president names Shia bloc candidate Ali al-Zaidi as PM-designate",
     "Timeline: The highs and lows of the US-UK ‘special relationship’",
     "US press gala shooting suspect charged with attempting to kill Trump",
     "Ceasefire at risk as Pakistan and Afghanistan report cross-border attacks",
@@ -8,14 +15,7 @@
     "Melania Trump blasts Kimmel, calls on ABC to ‘take stand’ against comedian",
     "Analysis: Bennett-Lapid alliance attempt to unseat Israel’s Netanyahu",
     "Suspected pirates steer cargo vessel towards Somalia",
-    "Will the Iran war push millions back into poverty?",
-    "What does the US dinner shooting mean for Trump?",
-    "DR Congo to establish US-backed paramilitary guard for mines",
-    "Canada’s Carney announces a sovereign wealth fund",
-    "Iran offers Hormuz deal without nuclear talks, as it seeks broader buy-in",
-    "Germany’s Merz says US has no strategy in Iran war",
-    "Timeline: How Mali went from democracy beacon to instability",
-    "Plane crashes near South Sudan’s Juba, killing all 14 on board"
+    "Will the Iran war push millions back into poverty?"
   ],
   "sections": [
     {
@@ -23,14 +23,14 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will the next diplomatic US-Iran meeting be in Egypt?",
-          "odds": "+2602",
+          "event": "Ukraine signs peace deal with Russia by June 30?",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Ukraine signs peace deal with Russia by June 30?",
-          "odds": "+1566",
+          "event": "Will Israel annex any territory by December 31?",
+          "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -119,12 +119,6 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
-          "odds": "+104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will David Lisnard win the 2027 French presidential election?",
           "odds": "+2677",
           "params": "Fuente: Polymarket",
@@ -137,8 +131,20 @@
           "moved": "none"
         },
         {
+          "event": "Will Peter Milobar win the 2026 Conservative Party of British Columbia leadership election?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Keir Starmer say \"Mental Health\" during the next Prime Minister's Questions event?",
           "odds": "-149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Bharatiya Janata Party (BJP) win the most seats in the 2026 West Bengal Legislative Assembly election?",
+          "odds": "-117",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -149,14 +155,8 @@
           "moved": "none"
         },
         {
-          "event": "Will the Bharatiya Janata Party (BJP) win the most seats in the 2026 West Bengal Legislative Assembly election?",
-          "odds": "-118",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Anže Logar be the next Prime Minister of Slovenia?",
-          "odds": "+3025",
+          "event": "Will Ségolène Royal be on the ballot for the 2027 French presidential election?",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,8 +167,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Madrid Open: Vit Kopriva vs Rafael Jodar",
-          "odds": "+400",
+          "event": "Will Olympique de Marseille win on 2026-05-01?",
+          "odds": "-138",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -197,6 +197,12 @@
           "moved": "none"
         },
         {
+          "event": "Bill Gates charged by June 30?",
+          "odds": "+2930",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Carlos Mendoza win the 2026 NL Manager of the Year?",
           "odds": "+1011",
           "params": "Fuente: Polymarket",
@@ -205,12 +211,6 @@
         {
           "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
           "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Olympique de Marseille win on 2026-05-01?",
-          "odds": "-138",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
