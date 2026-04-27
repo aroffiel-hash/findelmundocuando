@@ -1,6 +1,7 @@
 {
-  "lastUpdated": "27 de abril de 2026 — 22:43 UTC",
+  "lastUpdated": "27 de abril de 2026 — 23:46 UTC",
   "ticker": [
+    "US Supreme Court reinstates Republican-favoured Texas electoral map",
     "Bahrain strips 69 people of citizenship over Iran support",
     "Leavitt blames democrats for ‘cult of hatred’ against Trump",
     "Will vote make a difference to Palestinians under Israeli occupation?",
@@ -14,8 +15,7 @@
     "What people in Beirut think about the Lebanon-Israel negotiations",
     "Iraqi president names Shia bloc candidate Ali al-Zaidi as PM-designate",
     "Timeline: The highs and lows of the US-UK ‘special relationship’",
-    "US press gala shooting suspect charged with attempting to kill Trump",
-    "Ceasefire at risk as Pakistan and Afghanistan report cross-border attacks"
+    "US press gala shooting suspect charged with attempting to kill Trump"
   ],
   "sections": [
     {
@@ -23,14 +23,14 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Ukraine signs peace deal with Russia by June 30?",
-          "odds": "+1566",
+          "event": "Will Israel annex any territory by December 31?",
+          "odds": "+376",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Israel annex any territory by December 31?",
-          "odds": "+400",
+          "event": "Ukraine signs peace deal with Russia by June 30?",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -71,6 +71,12 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
+          "event": "Jerome Powell out as Fed Chair by May 31, 2026?",
+          "odds": "-1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the Edmonton Oilers win the Western Conference?",
           "odds": "+2400",
           "params": "Fuente: Polymarket",
@@ -79,12 +85,6 @@
         {
           "event": "Spread: Brentford FC (-2.5)",
           "odds": "+2339",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Jerome Powell out as Fed Chair by May 31, 2026?",
-          "odds": "-1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -120,19 +120,19 @@
       "rows": [
         {
           "event": "Will David Lisnard win the 2027 French presidential election?",
-          "odds": "+2841",
+          "odds": "+2757",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Bharatiya Janata Party (BJP) win the most seats in the 2026 West Bengal Legislative Assembly election?",
+          "odds": "-108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Keir Starmer say \"Mental Health\" during the next Prime Minister's Questions event?",
           "odds": "-149",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Bharatiya Janata Party (BJP) win the most seats in the 2026 West Bengal Legislative Assembly election?",
-          "odds": "-113",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -173,12 +173,6 @@
           "moved": "none"
         },
         {
-          "event": "Saint-Malo: Elsa Jacquemot vs Bianca Andreescu",
-          "odds": "+212",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will SE Palmeiras win on 2026-05-10?",
           "odds": "-127",
           "params": "Fuente: Polymarket",
@@ -209,8 +203,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Snapchat be acquired before 2027?",
-          "odds": "+360",
+          "event": "Will Brann win Norway Eliteserien?",
+          "odds": "+629",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Chicago Cubs vs. San Diego Padres",
+          "odds": "+108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
