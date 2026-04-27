@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "27 de abril de 2026 — 17:16 UTC",
+  "lastUpdated": "27 de abril de 2026 — 19:09 UTC",
   "ticker": [
+    "Timeline: The highs and lows of the US-UK ‘special relationship’",
+    "US press gala shooting suspect charged with attempting to kill Trump",
+    "Ceasefire at risk as Pakistan and Afghanistan report cross-border attacks",
+    "Gunmen kidnap 23 children from Nigerian orphanage",
     "Melania Trump blasts Kimmel, calls on ABC to ‘take stand’ against comedian",
     "Analysis: Bennett-Lapid alliance attempt to unseat Israel’s Netanyahu",
     "Suspected pirates steer cargo vessel towards Somalia",
@@ -11,11 +15,7 @@
     "Iran offers Hormuz deal without nuclear talks, as it seeks broader buy-in",
     "Germany’s Merz says US has no strategy in Iran war",
     "Timeline: How Mali went from democracy beacon to instability",
-    "Plane crashes near South Sudan’s Juba, killing all 14 on board",
-    "Anthony Joshua to fight Tyson Fury in November: Hearn",
-    "Lebanon Latest: Israel’s deadly attacks amid ceasefire breaches",
-    "Rival armed groups join forces against the Malian state: What next?",
-    "NPT summit: Can nuclear pact survive US-Israel war on Iran?"
+    "Plane crashes near South Sudan’s Juba, killing all 14 on board"
   ],
   "sections": [
     {
@@ -35,12 +35,6 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Warsaw be 10°C on April 29?",
-          "odds": "+156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Trump say \"Coward\" in April?",
           "odds": "-270",
           "params": "Fuente: Polymarket",
@@ -48,13 +42,19 @@
         },
         {
           "event": "Pakistan military action against Afghanistan by April 30?",
-          "odds": "-143",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Justin Briner as Izuku Midoriya (My Hero Academia FINAL SEASON) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?",
           "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Counter-Strike: Just Swing vs Chinggis Warriors - Map 1 Winner",
+          "odds": "-104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -95,20 +95,20 @@
           "moved": "none"
         },
         {
-          "event": "Exact Score: Manchester United FC 2 - 2 Brentford FC?",
+          "event": "Fed Rate Hike by June 2026 Meeting?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will 3 Fed rate cuts happen in 2026?",
           "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Exact Score: Manchester United FC 0 - 2 Brentford FC?",
-          "odds": "+2464",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Fed Rate Hike by June 2026 Meeting?",
-          "odds": "+2400",
+          "event": "Will US crude oil reserves fall to 275M by June 5?",
+          "odds": "+1233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -120,7 +120,13 @@
       "rows": [
         {
           "event": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
-          "odds": "+108",
+          "odds": "+104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will David Lisnard win the 2027 French presidential election?",
+          "odds": "+2677",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -131,8 +137,8 @@
           "moved": "none"
         },
         {
-          "event": "Will David Lisnard win the 2027 French presidential election?",
-          "odds": "+2464",
+          "event": "Will Keir Starmer say \"Mental Health\" during the next Prime Minister's Questions event?",
+          "odds": "-149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -143,20 +149,14 @@
           "moved": "none"
         },
         {
+          "event": "Will the Bharatiya Janata Party (BJP) win the most seats in the 2026 West Bengal Legislative Assembly election?",
+          "odds": "-118",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Anže Logar be the next Prime Minister of Slovenia?",
           "odds": "+3025",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
-          "odds": "+1512",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republicans win the South Carolina Senate race in 2026?",
-          "odds": "-400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -166,6 +166,12 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
+        {
+          "event": "Madrid Open: Vit Kopriva vs Rafael Jodar",
+          "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Map 2: Odd/Even Total Rounds?",
           "odds": "-104",
@@ -191,26 +197,20 @@
           "moved": "none"
         },
         {
-          "event": "Will Microsoft (MSFT) close above $315 end of April?",
-          "odds": "+211",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Carlos Mendoza win the 2026 NL Manager of the Year?",
-          "odds": "-104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will OpenAI have the best AI model at the end of May 2026?",
-          "odds": "+1718",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
-          "odds": "+1023",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Olympique de Marseille win on 2026-05-01?",
+          "odds": "-138",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
