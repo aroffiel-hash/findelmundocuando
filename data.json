@@ -1,33 +1,27 @@
 {
-  "lastUpdated": "27 de abril de 2026 — 08:11 UTC",
+  "lastUpdated": "27 de abril de 2026 — 10:57 UTC",
   "ticker": [
+    "Dynamic pricing adding to ‘dystopian’ 2026 World Cup, ex-Liverpool CEO says",
+    "Iran’s foreign minister in Russia for talks",
+    "Russia attacks Odesa, claims Ukraine hit Zaporizhzhia nuclear plant",
+    "North Korea opens museum commemorating troops killed fighting for Russia",
+    "The war on Iran is eroding nuclear non-proliferation",
+    "Questions over Trump’s security after shooting at press gala",
+    "Iran’s top diplomat in Russia as Tehran intensifies efforts to end the war",
+    "War and neglect fuel deadly measles epidemic in Sudan’s Darfur",
     "‘I have to protect them’: The man guarding Mauritania’s rare Islamic books",
     "ACL injury ends Xavi Simons’ World Cup 2026 dream with the Netherlands",
     "Iran war: What’s happening on day 59 amid diplomatic push to end conflict?",
     "Zaragoza goalkeeper punches player, sparks brawl in La Liga 2 derby match",
     "King Charles US visit: What to know about the itinerary, Congress address",
     "Activists accused of raiding Israeli weapons factory face trial in Germany",
-    "Rockets thrash LeBron’s Lakers; Wembanyama triumphant on Spurs’ return",
-    "Taiwan court hands down jail terms in TSMC trade secrets case",
-    "From Australia to Vietnam, the Iran war is fuelling demand for EVs",
-    "Satellite images show scale of Israeli destruction of south Lebanon towns",
-    "Oil prices rise amid stalled US-Iran peace talks",
-    "Iran war live: Araghchi to meet Putin; Trump says Tehran can call for talks",
-    "Video: Israeli ‘ceasefire’ violations on the rise in Gaza",
-    "Iran’s foreign minister leaves Pakistan, heads to Russia for more talks",
-    "Israeli settler attacks Hebron activist’s home as soldier looks on"
+    "Rockets thrash LeBron’s Lakers; Wembanyama triumphant on Spurs’ return"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Will Trump say \"Iran\" during King Charles visit?",
-          "odds": "-163",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Ukraine signs peace deal with Russia by June 30?",
           "odds": "+1566",
@@ -41,14 +35,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Russia capture Sofiivka by May 31?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Trump visit China by June 30?",
-          "odds": "-566",
+          "odds": "-614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -59,8 +47,20 @@
           "moved": "none"
         },
         {
+          "event": "Will Russia enter Huliaipilske by April 30?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Yordan Alvarez win the 2026 American League MVP Award?",
           "odds": "+295",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will \"Takopi's Original Sin\" win Best New Series at the 2026 Crunchyroll Anime Awards?",
+          "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -83,6 +83,18 @@
           "moved": "none"
         },
         {
+          "event": "Will Jerome Powell depart as Fed Chair by May 16 2026?",
+          "odds": "-354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Jerome Powell out as Fed Chair by May 31, 2026?",
+          "odds": "-900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Fed Rate Hike by June 2026 Meeting?",
           "odds": "+2400",
           "params": "Fuente: Polymarket",
@@ -90,25 +102,13 @@
         },
         {
           "event": "Will 3 Fed rate cuts happen in 2026?",
-          "odds": "+1328",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will US crude oil reserves fall to 275M by June 5?",
           "odds": "+1233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Jerome Powell out as Fed Chair by May 31, 2026?",
-          "odds": "-733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Jerome Powell depart as Fed Chair by May 16 2026?",
-          "odds": "-354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -120,13 +120,7 @@
       "rows": [
         {
           "event": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
-          "odds": "+108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Bruno Retailleau be on the ballot for the 2027 French presidential election?",
-          "odds": "-222",
+          "odds": "+104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -143,8 +137,14 @@
           "moved": "none"
         },
         {
+          "event": "Will Reform UK win at least 1800 council seat elections in the 2026 United Kingdom local elections?",
+          "odds": "-170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Anže Logar be the next Prime Minister of Slovenia?",
-          "odds": "+1594",
+          "odds": "+1308",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -179,20 +179,14 @@
           "moved": "none"
         },
         {
+          "event": "Will Microsoft (MSFT) close above $315 end of April?",
+          "odds": "+211",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Carlos Mendoza win the 2026 NL Manager of the Year?",
           "odds": "-104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will SpaceX’s IPO valuation be between 2.25T and 2.50T?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in New York City be between 64-65°F on April 28?",
-          "odds": "+149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -203,14 +197,20 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Atlanta be between 80-81°F on April 29?",
-          "odds": "+400",
+          "event": "Will San Diego FC win on 2026-05-13?",
+          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will San Diego FC win on 2026-05-13?",
-          "odds": "+455",
+          "event": "Will Satoshi's identity be revealed by December 31?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "FC Bayern Munchen vs. Rostock Seawolves",
+          "odds": "-900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
