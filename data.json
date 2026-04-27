@@ -1,27 +1,33 @@
 {
-  "lastUpdated": "27 de abril de 2026 — 10:57 UTC",
+  "lastUpdated": "27 de abril de 2026 — 12:19 UTC",
   "ticker": [
+    "Mbappe could miss El Clasico after Real Madrid confirm thigh injury",
+    "Fighting over access to water in Chad kills at least 42, army intervenes",
+    "Varoufakis on Palantir, AI warfare, and the rise of tech lordism",
+    "Somalia hunger crisis worsens as drought displaces more than 500,000 people",
+    "World Cup 2026 prize money, fees to be increased for all teams: FIFA",
     "Dynamic pricing adding to ‘dystopian’ 2026 World Cup, ex-Liverpool CEO says",
     "Iran’s foreign minister in Russia for talks",
     "Russia attacks Odesa, claims Ukraine hit Zaporizhzhia nuclear plant",
     "North Korea opens museum commemorating troops killed fighting for Russia",
     "The war on Iran is eroding nuclear non-proliferation",
     "Questions over Trump’s security after shooting at press gala",
-    "Iran’s top diplomat in Russia as Tehran intensifies efforts to end the war",
+    "Iran’s top diplomat visits Russia as part of efforts to end the war",
     "War and neglect fuel deadly measles epidemic in Sudan’s Darfur",
     "‘I have to protect them’: The man guarding Mauritania’s rare Islamic books",
-    "ACL injury ends Xavi Simons’ World Cup 2026 dream with the Netherlands",
-    "Iran war: What’s happening on day 59 amid diplomatic push to end conflict?",
-    "Zaragoza goalkeeper punches player, sparks brawl in La Liga 2 derby match",
-    "King Charles US visit: What to know about the itinerary, Congress address",
-    "Activists accused of raiding Israeli weapons factory face trial in Germany",
-    "Rockets thrash LeBron’s Lakers; Wembanyama triumphant on Spurs’ return"
+    "ACL injury ends Xavi Simons’ World Cup 2026 dream with the Netherlands"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Will Russia enter Huliaipilske by April 30?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Ukraine signs peace deal with Russia by June 30?",
           "odds": "+1566",
@@ -41,26 +47,20 @@
           "moved": "none"
         },
         {
+          "event": "Pakistan military action against Afghanistan by April 30?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Alexis Tipton as Reze (Chainsaw Man – The Movie: Reze Arc) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?",
           "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Russia enter Huliaipilske by April 30?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Yordan Alvarez win the 2026 American League MVP Award?",
           "odds": "+295",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will \"Takopi's Original Sin\" win Best New Series at the 2026 Crunchyroll Anime Awards?",
-          "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -84,7 +84,7 @@
         },
         {
           "event": "Will Jerome Powell depart as Fed Chair by May 16 2026?",
-          "odds": "-354",
+          "odds": "-316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -102,7 +102,7 @@
         },
         {
           "event": "Will 3 Fed rate cuts happen in 2026?",
-          "odds": "+1150",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -120,7 +120,7 @@
       "rows": [
         {
           "event": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
-          "odds": "+104",
+          "odds": "+108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -137,14 +137,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Reform UK win at least 1800 council seat elections in the 2026 United Kingdom local elections?",
-          "odds": "-170",
+          "event": "Will Danish Social Liberal Party be part of the next Government of Denmark?",
+          "odds": "-390",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Anže Logar be the next Prime Minister of Slovenia?",
-          "odds": "+1308",
+          "odds": "+2531",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -166,6 +166,12 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
+        {
+          "event": "Will the highest temperature in Toronto be 9°C on April 29?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will SE Palmeiras win on 2026-05-10?",
           "odds": "-127",
@@ -205,12 +211,6 @@
         {
           "event": "Will Satoshi's identity be revealed by December 31?",
           "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "FC Bayern Munchen vs. Rostock Seawolves",
-          "odds": "-900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
