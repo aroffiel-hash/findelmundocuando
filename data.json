@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "28 de abril de 2026 — 21:02 UTC",
+  "lastUpdated": "28 de abril de 2026 — 22:51 UTC",
   "ticker": [
+    "As US-Iran talks remain ‘stalled’, experts warn of ‘long-term disruptions’",
+    "Former FBI director Comey again indicted by US Justice Department",
+    "The biggest military spenders",
+    "PSG beat Bayern 5-4 in record-breaking Champions League semifinal first leg",
+    "King Charles calls for NATO unity, Ukraine support in US Congress speech",
+    "Mountaineer climbs Everest for Palestinian children",
+    "Armed group announces siege on Mali capital",
     "Trump hails US-UK bond as he welcomes British royals",
     "Northern Ireland makes arrest linked to suspected New IRA car bombing",
     "Congress cheers King Charles for underlining ‘checks and balances’",
@@ -8,14 +15,7 @@
     "Trump scolds Germany’s Merz for criticism of Iran war",
     "After 60 days of war in Iran, does US Congress want a say?",
     "Massive explosion from Israeli operation seen in southern Lebanon",
-    "Can the Nuclear Non-Proliferation Treaty prevent a disaster?",
-    "Families forced into displacement by famine in Sudan",
-    "Greek pensioner, 89, arrested following shooting rampage",
-    "Austrian pleads guilty to ISIL-planned attack on Taylor Swift concert",
-    "Trump approval dips to record low amid Iran war, inflation woes: Poll",
-    "Mali military leader Goita emerges as Russia declares it halted coup",
-    "What are OPEC and OPEC +, and why has the UAE quit?",
-    "From exile to judge: Symbolism in Syria’s trial of Assad, former officials"
+    "Can the Nuclear Non-Proliferation Treaty prevent a disaster?"
   ],
   "sections": [
     {
@@ -31,12 +31,6 @@
         {
           "event": "Ukraine signs peace deal with Russia by June 30?",
           "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump say \"Iran\" during King Charles visit?",
-          "odds": "-270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -59,6 +53,12 @@
           "moved": "none"
         },
         {
+          "event": "Iran leadership change by May 31?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "US x Cuba military clash in 2026?",
           "odds": "+177",
           "params": "Fuente: Polymarket",
@@ -77,12 +77,6 @@
           "moved": "none"
         },
         {
-          "event": "Ducks vs. Oilers: O/U 6.5",
-          "odds": "-149",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will 3 Fed rate cuts happen in 2026?",
           "odds": "+1328",
           "params": "Fuente: Polymarket",
@@ -91,12 +85,6 @@
         {
           "event": "Fed rate hike in 2026?",
           "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "S&P 500 (SPY) closes above $715 on April 28?",
-          "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -111,6 +99,18 @@
           "odds": "+2073",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will the Fed’s lower bound reach 1.25% or lower before 2027?",
+          "odds": "+675",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will US crude oil reserves fall to 325M by June 5?",
+          "odds": "+149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -118,12 +118,6 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
-        {
-          "event": "Will Keir Starmer say \"Renewable\" during the next Prime Minister's Questions event?",
-          "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
           "odds": "+1624",
@@ -159,6 +153,12 @@
           "odds": "+156",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Trump’s approval rating fall to 38.5% in April?",
+          "odds": "+2464",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -167,20 +167,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Amazon (AMZN) close above $255 on April 28?",
-          "odds": "-354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the Democratic Party win the OH-10 House seat?",
           "odds": "+354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Seoul be 15°C on April 29?",
-          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -191,14 +179,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
-          "odds": "+2841",
+          "event": "Exact Score: Club Atlético de Madrid 3 - 3 Arsenal FC?",
+          "odds": "+3125",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Sao Paulo be 28°C on April 29?",
-          "odds": "+270",
+          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
+          "odds": "+2841",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -209,8 +197,20 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Toronto be 17°C on April 28?",
-          "odds": "+100",
+          "event": "New York Yankees vs. Texas Rangers",
+          "odds": "-117",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "X banned in any European country by December 31?",
+          "odds": "+222",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Wellington be 15°C on April 30?",
+          "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
