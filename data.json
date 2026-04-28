@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "28 de abril de 2026 — 12:24 UTC",
+  "lastUpdated": "28 de abril de 2026 — 15:23 UTC",
   "ticker": [
-    "Atletico Madrid vs Arsenal: Champions League – team news, start, lineups",
-    "Amnesty calls for US strike on Yemen to be investigated as war crime",
-    "How the US-Israeli war is collapsing the sanctions regime on Iran",
-    "Mapping the destruction: How Israel ‘wiped out’ Lebanon’s Bint Jbeil",
-    "When will Strait of Hormuz be ‘safe’ for commercial shipping again?",
-    "Algeria’s Luca Zidane doubtful for World Cup after chin and jaw fracture",
-    "Is capitalism fuelling today’s wars? Varsha Gandikota & Jason Hickel",
-    "Born during Israel’s genocide: Gaza’s child survivors bear the scars of war",
-    "Paris and Lyon prepare as Nice mayor opposes 2030 Olympics ice hockey venue",
-    "The Process of Uranium Enrichment",
-    "Congressmen call for National Guard to address drone threat at World Cup",
-    "Kashmir seminary declared unlawful under Indian law, sparks outcry",
-    "Iraq appoints new prime minister-designate",
-    "Croatia’s Modric undergoes facial surgery but aims to be fit for World Cup",
-    "All New York boroughs to host free World Cup fan events, Mamdani says"
+    "Belarus eyes Western ties as it frees journalist Andrzej Poczobut",
+    "Qatar says using Hormuz Strait as political weapon is ‘unacceptable’",
+    "Is Egypt threatening Israel through its military exercises on the border?",
+    "What is the Azawad Liberation Front, part of the Mali attacks?",
+    "The cost of 76 years of US wars, from Korea to Iran",
+    "Do conspiracy theories hold value?",
+    "Who is Ali al-Zaidi, the businessman named as Iraq’s PM-designate?",
+    "How Massie’s Kentucky primary may test Trump’s hold on the Republican Party",
+    "EU-backed migrant crackdowns in Mauritania fuel fear and deportations",
+    "What’s in Iran’s latest proposal – and how has the US responded?",
+    "‘War crime’: Afghan-Pakistan truce under strain after university strike",
+    "Kandice in southern Lebanon",
+    "UAE leaves OPEC in blow to oil cartel amid war on Iran",
+    "Australia’s top diplomat visits China to talk energy security",
+    "Migrants in hiding as Mauritania pushbacks drastically cut Europe arrivals"
   ],
   "sections": [
     {
@@ -24,7 +24,7 @@
       "rows": [
         {
           "event": "Will Iran strike Oman by April 30, 2026?",
-          "odds": "+669",
+          "odds": "-713",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -41,6 +41,12 @@
           "moved": "none"
         },
         {
+          "event": "Israel x Hamas ceasefire cancelled by June 30?",
+          "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will North and South Korea engage in direct talks by June 30?",
           "odds": "+300",
           "params": "Fuente: Polymarket",
@@ -53,14 +59,8 @@
           "moved": "none"
         },
         {
-          "event": "Israel x Hamas ceasefire cancelled by June 30?",
-          "odds": "+316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will US withdraw from NATO before 2027?",
-          "odds": "+963",
+          "odds": "+777",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -71,20 +71,14 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will the Edmonton Oilers win the Western Conference?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will no one dissent the April Fed decision?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will 3 Fed rate cuts happen in 2026?",
-          "odds": "+809",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Fed rate hike in 2026?",
+          "odds": "+525",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -107,8 +101,14 @@
           "moved": "none"
         },
         {
-          "event": "Fed rate hike in 2026?",
-          "odds": "+316",
+          "event": "Will Crude Oil (CL) hit (LOW) $40 by end of June?",
+          "odds": "+2280",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Brentford FC win on 2026-05-02?",
+          "odds": "+100",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -126,7 +126,13 @@
         },
         {
           "event": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
-          "odds": "+1823",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Mike Kennealy win the 2026 Massachusetts Governor Republican primary election?",
+          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -144,19 +150,13 @@
         },
         {
           "event": "Will the Republicans win the 2028 US Presidential Election?",
-          "odds": "+138",
+          "odds": "+163",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Joe Johnson be the Republican nominee for Senate in Oregon?",
           "odds": "+3025",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will John Hickenlooper be the Democratic nominee for Senate in Colorado?",
-          "odds": "-194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,8 +167,38 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Will the Democratic Party win the OH-10 House seat?",
+          "odds": "+354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Ostrava: Dalibor Svrcina vs Felix Gill",
+          "odds": "-614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Central Bank of Colombia announce no change at the April meeting?",
+          "odds": "+1104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Austin be between 82-83°F on April 29?",
+          "odds": "+149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
           "odds": "+2841",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Reddit (RDDT) beat quarterly earnings?",
+          "odds": "-1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -179,38 +209,8 @@
           "moved": "none"
         },
         {
-          "event": "Will the Republican Party win the CA-03 House seat?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Alibaba have a #1 AI model by June 30?",
           "odds": "+3125",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Central Bank of Colombia announce no change at the April meeting?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Kylian Mbappé win the 2026 Ballon d'Or?",
-          "odds": "+354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "ECB rate hike in 2026?",
-          "odds": "-426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the FL-14 House seat?",
-          "odds": "+177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
