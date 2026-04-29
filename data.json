@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "29 de abril de 2026 — 21:58 UTC",
+  "lastUpdated": "29 de abril de 2026 — 22:58 UTC",
   "ticker": [
+    "Carney, ‘strong and resolute’ in first year, now has to deliver on promises",
+    "Israel has begun intercepting Gaza-bound Global Sumud Flotilla aid boats",
+    "Israel intercepts Global Sumud boats, demands activists halt their mission",
     "UAE quits OPEC",
     "Arsenal cruelly denied penalty by VAR in Champions League draw at Atletico",
     "New Florida map boosts Republican seats amid national redistricting fight",
@@ -12,22 +15,13 @@
     "Mali’s Tuareg rebels say Russian fighters must withdraw from country",
     "Ex-FBI chief Comey appears in court over alleged Trump threat",
     "US lawmakers question Pete Hegseth over budget for war on Iran",
-    "Pentagon chief Hegseth first public hearing on Iran war: Key takeaways",
-    "Two Jewish men stabbed in London ‘terrorist attack’",
-    "Indonesian soldiers on trial after acid attack on activist",
-    "‘Trump’s Justice Department is on a revenge tour’"
+    "Pentagon chief Hegseth first public hearing on Iran war: Key takeaways"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Ukraine signs peace deal with Russia by June 30?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will China invade Taiwan by June 30, 2027?",
           "odds": "+614",
@@ -36,19 +30,7 @@
         },
         {
           "event": "Israel x Hamas ceasefire cancelled by June 30?",
-          "odds": "+257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "US x Iran diplomatic meeting by May 15, 2026?",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Korea Republic win on 2026-06-11?",
-          "odds": "+149",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -59,8 +41,26 @@
           "moved": "none"
         },
         {
+          "event": "US x Iran diplomatic meeting by May 15, 2026?",
+          "odds": "+270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Korea Republic win on 2026-06-11?",
+          "odds": "+149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Russia capture Kindrativka by May 31?",
           "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Russia capture all of Pokrovsk by May 31, 2026?",
+          "odds": "+122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -78,13 +78,25 @@
         },
         {
           "event": "Fed rate hike in 2026?",
-          "odds": "+525",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $110 Week of April 27 2026?",
+          "odds": "-222",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will UK GDP growth in Q1 2026 be between 0% and 0.3%?",
           "odds": "+149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Mexico GDP growth in Q1 2026 be between 0.5% and 1.0%?",
+          "odds": "-138",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -97,18 +109,6 @@
         {
           "event": "Will the Fed’s lower bound reach 1.25% or lower before 2027?",
           "odds": "+675",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will US crude oil reserves fall to 325M by June 5?",
-          "odds": "+149",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will S&P 500 (SPX) hit $8,200 (HIGH) in December?",
-          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -138,7 +138,7 @@
         },
         {
           "event": "Will Anže Logar be the next Prime Minister of Slovenia?",
-          "odds": "+1751",
+          "odds": "+2841",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -167,20 +167,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Jiujiang: Rio Noguchi vs Coleman Wong",
-          "odds": "+233",
+          "event": "Will Trump say \"Obliterated\" or \"Obliteration\" during King Charles visit?",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will JD Vance say \"King\" or \"Queen\" on the Will Cain Show?",
           "odds": "+104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will MrBeast say \"Huge amount\" during his next video?",
-          "odds": "+354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -209,8 +203,14 @@
           "moved": "none"
         },
         {
-          "event": "BNB Up or Down on April 30?",
-          "odds": "+112",
+          "event": "Will Sunderland AFC win on 2026-05-02?",
+          "odds": "+138",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "T20 Series Bangladesh vs Sri Lanka, Women: Bangladesh vs Sri Lanka",
+          "odds": "+163",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
