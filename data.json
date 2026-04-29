@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "29 de abril de 2026 — 17:21 UTC",
+  "lastUpdated": "29 de abril de 2026 — 19:15 UTC",
   "ticker": [
+    "CCTV footage shows moment Israeli strike targets Palestinians",
+    "Britain’s King Charles visits 9/11 Memorial in New York",
+    "Trump vows to maintain Iran blockade, Tehran threaten ‘practical’ action",
+    "UK’s ‘terrorism’ laws risk overreach, watchdog warns",
+    "South Africa to deport Robert Mugabe’s son over firearm offence",
+    "Is the US forcing Zambia to trade minerals for lives?",
+    "US Fed holds rates steady in Powell’s final meeting as Fed chair",
+    "UAE quits OPEC: What that means for the Gulf, energy markets and beyond",
+    "US top court voids Louisiana voting map amid national redistricting fight",
+    "Trump admin probe into ABC amid Kimmel row sparks US free speech concerns",
+    "Families sue OpenAI, alleging chatbot aided in Canadian school shooting",
+    "A 48-team World Cup is Panini sticker collectors’ biggest challenge yet",
     "Man carries deceased sister into Indian bank amid paperwork difficulty",
     "What does Chornobyl look like 40 years later?",
-    "Madagascar detains French ex-serviceman over alleged destabilisation plot",
-    "Hungary’s new PM races to unlock EU’s frozen funds",
-    "FOIP at 10: Bridging the Indo-Pacific and the Middle East",
-    "Why ‘8647’ landed ex-FBI chief Comey in Trump’s crosshairs",
-    "Senate panel advances Kevin Warsh’s nomination for US Fed chair",
-    "UK expels Russian diplomat in tit-for-tat move",
-    "LIVE: Atletico Madrid vs Arsenal – Champions League semifinal",
-    "Over 1.2m in Lebanon expected to face acute hunger: UN-backed report",
-    "Iran’s currency falls to new low as US blockade, sanctions impact trade",
-    "US Supreme Court hears Haiti, Syria TPS case with wide-ranging implications",
-    "Inside Tehran’s main airport as more flights take off during ceasefire",
-    "Young Palestinian artists from Gaza exhibit work shaped by war",
-    "‘We saw terrible things’: Mali refugees tell of atrocities amid attacks"
+    "Madagascar detains French ex-serviceman over alleged destabilisation plot"
   ],
   "sections": [
     {
@@ -23,14 +23,20 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
+          "event": "Iran leadership change by May 31?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Ukraine signs peace deal with Russia by June 30?",
           "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Iran leadership change by May 31?",
-          "odds": "+669",
+          "event": "Will China invade Taiwan by June 30, 2027?",
+          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -57,12 +63,6 @@
           "odds": "+122",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will the Bank of Russia decrease the key rate after the July Meeting?",
-          "odds": "-122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -72,31 +72,13 @@
       "rows": [
         {
           "event": "Will 3 Fed rate cuts happen in 2026?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will \"Economy\" be said during the next episode of the Lemonade Stand Podcast?",
-          "odds": "-488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Bank of Japan increases interest rates by 25 bps after the June 2026 meeting?",
-          "odds": "-156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $115 Week of April 27 2026?",
-          "odds": "+446",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Fed rate hike in 2026?",
-          "odds": "+566",
+          "odds": "+525",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -111,6 +93,24 @@
           "odds": "+2841",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will the Fed’s lower bound reach 1.25% or lower before 2027?",
+          "odds": "+675",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will US crude oil reserves fall to 325M by June 5?",
+          "odds": "+149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will S&P 500 (SPX) hit $8,200 (HIGH) in December?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -118,6 +118,18 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
+        {
+          "event": "Will the Indian National Congress (INC) win the most seats in the 2026 Puducherry Legislative Assembly election?",
+          "odds": "+1624",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Alex Lawson win the 2026 Ottawa mayoral election?",
+          "odds": "+1624",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
           "odds": "+1899",
@@ -143,20 +155,8 @@
           "moved": "none"
         },
         {
-          "event": "Will the Republicans win the 2028 US Presidential Election?",
-          "odds": "+156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Chad Bianco win the California Governor Election in 2026?",
-          "odds": "+2531",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will John Hickenlooper be the Democratic nominee for Senate in Colorado?",
-          "odds": "-194",
+          "odds": "+2464",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,8 +167,32 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Will Mirassol FC vs. Club Always Ready end in a draw?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Sao Paulo be 28°C on April 30?",
+          "odds": "+194",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will MrBeast say \"Huge amount\" during his next video?",
+          "odds": "+354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "X banned in any European country by December 31?",
           "odds": "+149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will there be exactly 7 earthquakes of magnitude 5.5 or higher worldwide from April 27 - May 3?",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -185,32 +209,8 @@
           "moved": "none"
         },
         {
-          "event": "Will the Democratic Party win the AL-07 House seat?",
-          "odds": "-900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will NVIDIA be the second-largest company in the world by market cap on May 31?",
           "odds": "+2531",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will West Ham be relegated from the English Premier League after the 2025–26 season?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Panama City be 29°C or higher on April 30?",
-          "odds": "-1370",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will there be exactly 7 earthquakes of magnitude 5.5 or higher worldwide from April 27 - May 3?",
-          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
