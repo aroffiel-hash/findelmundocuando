@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "29 de abril de 2026 — 15:06 UTC",
+  "lastUpdated": "29 de abril de 2026 — 17:21 UTC",
   "ticker": [
+    "Man carries deceased sister into Indian bank amid paperwork difficulty",
+    "What does Chornobyl look like 40 years later?",
+    "Madagascar detains French ex-serviceman over alleged destabilisation plot",
+    "Hungary’s new PM races to unlock EU’s frozen funds",
+    "FOIP at 10: Bridging the Indo-Pacific and the Middle East",
+    "Why ‘8647’ landed ex-FBI chief Comey in Trump’s crosshairs",
+    "Senate panel advances Kevin Warsh’s nomination for US Fed chair",
+    "UK expels Russian diplomat in tit-for-tat move",
+    "LIVE: Atletico Madrid vs Arsenal – Champions League semifinal",
+    "Over 1.2m in Lebanon expected to face acute hunger: UN-backed report",
+    "Iran’s currency falls to new low as US blockade, sanctions impact trade",
+    "US Supreme Court hears Haiti, Syria TPS case with wide-ranging implications",
     "Inside Tehran’s main airport as more flights take off during ceasefire",
     "Young Palestinian artists from Gaza exhibit work shaped by war",
-    "‘We saw terrible things’: Mali refugees tell of atrocities amid attacks",
-    "Suspect arrested after two Jewish people stabbed in London",
-    "Israeli strike kills five family members in Lebanon",
-    "World Boxing allows Russian, Belarusian boxers to compete as neutrals",
-    "Sri Lanka’s government ‘temporarily’ takes over cricket board",
-    "Rains revive Iraq’s wetlands after years of drought",
-    "Is Iran’s oil storage nearly full – and will it have to cut production?",
-    "How Hezbollah’s fibre optic drones test Israel’s sophisticated radar system",
-    "‘No more Mr Nice Guy’: Trump warns Iran to ‘get smart’ over stalled talks",
-    "At least three killed, more than 10 injured in Russian attacks on Ukraine",
-    "What role has Russia played in Mali’s security and the Sahel region?",
-    "Qatar to host FIFA Under-17 World Cup 2026 in November–December",
-    "How US and Iran are playing a crypto cat-and-mouse game over sanctions"
+    "‘We saw terrible things’: Mali refugees tell of atrocities amid attacks"
   ],
   "sections": [
     {
@@ -35,14 +35,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Korea Republic win on 2026-06-11?",
-          "odds": "+149",
+          "event": "Israel x Hamas ceasefire cancelled by June 30?",
+          "odds": "+426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Iran agrees to end enrichment of uranium by May 31?",
-          "odds": "+733",
+          "event": "Will Korea Republic win on 2026-06-11?",
+          "odds": "+149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -53,14 +53,14 @@
           "moved": "none"
         },
         {
-          "event": "Israel x Hamas ceasefire cancelled by June 30?",
-          "odds": "+426",
+          "event": "Will Russia capture all of Pokrovsk by May 31, 2026?",
+          "odds": "+122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Russia capture all of Pokrovsk by May 31, 2026?",
-          "odds": "+122",
+          "event": "Will the Bank of Russia decrease the key rate after the July Meeting?",
+          "odds": "-122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -71,20 +71,26 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will \"Economy\" be said during the next episode of the Lemonade Stand Podcast?",
-          "odds": "-488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will 3 Fed rate cuts happen in 2026?",
           "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
+          "event": "Will \"Economy\" be said during the next episode of the Lemonade Stand Podcast?",
+          "odds": "-488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Bank of Japan increases interest rates by 25 bps after the June 2026 meeting?",
-          "odds": "-151",
+          "odds": "-156",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $115 Week of April 27 2026?",
+          "odds": "+446",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -103,12 +109,6 @@
         {
           "event": "Will the Fed’s lower bound reach 0.5% or lower before 2027?",
           "odds": "+2841",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Fed’s lower bound reach 1.25% or lower before 2027?",
-          "odds": "+675",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -150,7 +150,7 @@
         },
         {
           "event": "Will Chad Bianco win the California Governor Election in 2026?",
-          "odds": "+2464",
+          "odds": "+2531",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -167,20 +167,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the highest temperature in Kuala Lumpur be 32°C on April 30?",
-          "odds": "+1328",
+          "event": "X banned in any European country by December 31?",
+          "odds": "+149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the lowest temperature in London be 12°C on April 30?",
-          "odds": "+300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Space FDV above $15M one day after launch?",
-          "odds": "-1150",
+          "event": "Will Gold (XAUUSD) hit (HIGH) $5,000 in April?",
+          "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -197,20 +191,26 @@
           "moved": "none"
         },
         {
-          "event": "Will OpenAI have the #2 AI model at the end of April 2026 (Style Control On)?",
-          "odds": "+3025",
+          "event": "Will NVIDIA be the second-largest company in the world by market cap on May 31?",
+          "odds": "+2531",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Gold (XAUUSD) hit (HIGH) $5,000 in April?",
-          "odds": "+3233",
+          "event": "Will West Ham be relegated from the English Premier League after the 2025–26 season?",
+          "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Buenos Aires be 22°C on April 30?",
-          "odds": "+455",
+          "event": "Will the highest temperature in Panama City be 29°C or higher on April 30?",
+          "odds": "-1370",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will there be exactly 7 earthquakes of magnitude 5.5 or higher worldwide from April 27 - May 3?",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
