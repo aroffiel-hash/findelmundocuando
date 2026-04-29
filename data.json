@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "29 de abril de 2026 — 20:57 UTC",
+  "lastUpdated": "29 de abril de 2026 — 21:58 UTC",
   "ticker": [
+    "UAE quits OPEC",
+    "Arsenal cruelly denied penalty by VAR in Champions League draw at Atletico",
+    "New Florida map boosts Republican seats amid national redistricting fight",
+    "Trump: Putin offered to help settle Iranian nuclear enrichment impasse",
+    "Why is the UAE quitting OPEC – and what’s the impact?",
     "What’s behind Israel’s plan to move the Bnei Menashe?",
     "Ukraine asks Israel to seize ship carrying grain ‘stolen’ by Russia",
     "Musk accuses Altman of betraying OpenAI’s nonprofit founding mission",
@@ -10,12 +15,7 @@
     "Pentagon chief Hegseth first public hearing on Iran war: Key takeaways",
     "Two Jewish men stabbed in London ‘terrorist attack’",
     "Indonesian soldiers on trial after acid attack on activist",
-    "‘Trump’s Justice Department is on a revenge tour’",
-    "CCTV footage shows moment Israeli strike targets Palestinians",
-    "Britain’s King Charles visits 9/11 Memorial in New York",
-    "Trump vows to maintain Iran blockade, Tehran threatens ‘practical’ action",
-    "UK’s ‘terrorism’ laws risk overreach, watchdog warns",
-    "South Africa to deport Robert Mugabe’s son over firearm offence"
+    "‘Trump’s Justice Department is on a revenge tour’"
   ],
   "sections": [
     {
@@ -23,19 +23,7 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Iran leadership change by May 31?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Ukraine signs peace deal with Russia by June 30?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Warsaw be 11°C on April 30?",
           "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
@@ -48,13 +36,25 @@
         },
         {
           "event": "Israel x Hamas ceasefire cancelled by June 30?",
-          "odds": "+426",
+          "odds": "+257",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "US x Iran diplomatic meeting by May 15, 2026?",
+          "odds": "+334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Korea Republic win on 2026-06-11?",
           "odds": "+149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Russia enter Vasylivka by May 31, 2026?",
+          "odds": "+104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -72,13 +72,7 @@
       "rows": [
         {
           "event": "Will 3 Fed rate cuts happen in 2026?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $100 in May?",
-          "odds": "-2531",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -111,6 +105,12 @@
           "odds": "+149",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will S&P 500 (SPX) hit $8,200 (HIGH) in December?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -120,7 +120,7 @@
       "rows": [
         {
           "event": "Will Liam Shrivastava win the 2026 London Borough of Lewisham mayoral election?",
-          "odds": "-177",
+          "odds": "-163",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -167,6 +167,12 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Jiujiang: Rio Noguchi vs Coleman Wong",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will JD Vance say \"King\" or \"Queen\" on the Will Cain Show?",
           "odds": "+104",
           "params": "Fuente: Polymarket",
@@ -197,20 +203,14 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Houston be between 84-85°F on April 30?",
-          "odds": "+1090",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will West Ham be relegated from the English Premier League after the 2025–26 season?",
           "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Gold (GC) hit (HIGH) $6,200 by end of June?",
-          "odds": "+2602",
+          "event": "BNB Up or Down on April 30?",
+          "odds": "+112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
