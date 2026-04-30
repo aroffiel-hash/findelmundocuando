@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "30 de abril de 2026 — 02:38 UTC",
+  "lastUpdated": "30 de abril de 2026 — 05:52 UTC",
   "ticker": [
+    "Can the EU’s Article 42.7 offer Europe NATO-like collective defence?",
+    "New Zealand court denies bid by mosque mass shooter to appeal conviction",
+    "Marathon record breaker Sabastian Sawe returns to hero’s welcome in Kenya",
+    "London police release bodycam of arrest after two Jewish men stabbed",
+    "Video emerges of heavy firefight in Mali",
+    "Oil prices soar on fears of long supply disruption, US siege of Iran ports",
+    "US indicts Sinaloa governor, 9 others over Mexican drug cartel links",
     "Israel seizes Global Sumud Flotilla boats 1,000km away from Gaza",
     "Pro-government rally in Tehran demands end to US threats",
     "Hundreds of Ultra-Orthodox Jews protest Israel’s military draft",
@@ -8,20 +15,19 @@
     "Chile police blast water cannons at student protesters",
     "Carney ‘strong’ in year one, now must deliver on promises in Canada",
     "Israel has begun intercepting Gaza-bound Global Sumud Flotilla aid boats",
-    "Israeli forces raid Global Sumud Flotilla boats in international waters",
-    "UAE quits OPEC",
-    "Arsenal cruelly denied penalty by VAR in Champions League draw at Atletico",
-    "New Florida map boosts Republican seats amid national redistricting fight",
-    "Trump: Putin offered to help settle Iranian nuclear enrichment impasse",
-    "Why is the UAE quitting OPEC – and what’s the impact?",
-    "What’s behind Israel’s plan to move the Bnei Menashe?",
-    "Ukraine asks Israel to seize ship carrying grain ‘stolen’ by Russia"
+    "Israeli forces raid Global Sumud Flotilla boats in international waters"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "US-Iran nuclear deal by May 31?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Israel x Hamas ceasefire cancelled by June 30?",
           "odds": "+284",
@@ -57,12 +63,6 @@
           "odds": "+122",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will the Bank of Russia decrease the key rate after the July Meeting?",
-          "odds": "-122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -71,14 +71,14 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will 3 Fed rate cuts happen in 2026?",
-          "odds": "+1566",
+          "event": "Will WTI Crude Oil (WTI) hit (LOW) $80 in May?",
+          "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Fed rate hike in 2026?",
-          "odds": "+525",
+          "odds": "+488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -119,12 +119,6 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Liam Shrivastava win the 2026 London Borough of Lewisham mayoral election?",
-          "odds": "-163",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Alex Lawson win the 2026 Ottawa mayoral election?",
           "odds": "+1624",
           "params": "Fuente: Polymarket",
@@ -138,7 +132,7 @@
         },
         {
           "event": "Will Anže Logar be the next Prime Minister of Slovenia?",
-          "odds": "+2841",
+          "odds": "+2930",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -156,7 +150,13 @@
         },
         {
           "event": "Will Chad Bianco win the California Governor Election in 2026?",
-          "odds": "+2841",
+          "odds": "+2677",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republicans win the 2028 US Presidential Election?",
+          "odds": "+156",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,14 +167,26 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Will the lowest temperature in Paris be 14°C or higher on May 1?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump talk to Elon Musk in April?",
+          "odds": "+681",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will JD Vance say \"King\" or \"Queen\" on the Will Cain Show?",
           "odds": "+104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Game Handicap: TT (-1.5) vs LGD Gaming (+1.5)",
-          "odds": "+284",
+          "event": "Will Mexico win on 2026-06-11?",
+          "odds": "-185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -185,32 +197,20 @@
           "moved": "none"
         },
         {
+          "event": "Will the highest temperature in Los Angeles be between 70-71°F on April 30?",
+          "odds": "+269",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
           "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will West Ham be relegated from the English Premier League after the 2025–26 season?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Seoul be 19°C on April 30?",
-          "odds": "+212",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will there be at least 2000 measles cases in the U.S. by May 31, 2026?",
-          "odds": "+316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Donald Trump publicly insult someone on April 30, 2026?",
-          "odds": "-900",
+          "event": "Will Deportivo Toluca FC win on 2026-04-29?",
+          "odds": "+488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
