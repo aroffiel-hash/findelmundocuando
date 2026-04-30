@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "30 de abril de 2026 — 19:10 UTC",
+  "lastUpdated": "30 de abril de 2026 — 20:54 UTC",
   "ticker": [
+    "US Congress passes bill to resume funding for DHS and end partial shutdown",
+    "Uganda court sentences man to death for killing four children at nursery",
+    "Trump says Tennessee next to redistrict after US Voting Rights Act ruling",
+    "Mexico’s Sheinbaum questions US claims of drug ties to Sinaloa governor",
+    "Iran confirmed to play at World Cup according to FIFA chief Infantino",
+    "Piracy rises off Somalia as US-Israeli war on Iran diverts naval forces",
     "Lebanese girl mourns paramedic father killed in Israeli strike",
     "Myanmar’s former leader Aung San Suu Kyi moved to house arrest",
     "UN chief calls for immediate reopening of the Strait of Hormuz",
@@ -9,25 +15,13 @@
     "Israel rights group petitions top court to order release of 14 Gaza doctors",
     "Trump slams Germany’s Merz again as rift over Iran war widens",
     "How rebels teamed up to shake Mali and the Kremlin’s grip",
-    "Africa and Asia back Infantino for unique fourth term as FIFA president",
-    "Saudi Arabia to end LIV Golf funding, while league appoints new chairman",
-    "Iran, protests, human rights – all to know about the 76th FIFA Congress",
-    "From railways to energy — five strategic projects linking Gulf states",
-    "‘Act of piracy’: World reacts to Israeli interception of Gaza aid flotilla",
-    "Lindsey Vonn not ready to decide if she’ll ski again after Olympics crash",
-    "US military equipment worth billions of dollars destroyed in Iran war"
+    "Africa and Asia back Infantino for unique fourth term as FIFA president"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Will the highest temperature in Warsaw be 25°C on May 2?",
-          "odds": "+177",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will the Communist Party of the Russian Federation (KPRF) win the third-most seats in the next Russian parliamentary election?",
           "odds": "+300",
@@ -42,7 +36,7 @@
         },
         {
           "event": "Will Israel win the televote for Eurovision 2026?",
-          "odds": "+203",
+          "odds": "+212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -63,6 +57,12 @@
           "odds": "-143",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Justin Briner as Izuku Midoriya (My Hero Academia FINAL SEASON) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?",
+          "odds": "+112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -70,12 +70,6 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
-        {
-          "event": "WTI Crude Oil (WTI) closes above $105 on April 30?",
-          "odds": "-163",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Fed rate hike in 2026?",
           "odds": "+525",
@@ -109,6 +103,12 @@
         {
           "event": "Will the Fed’s lower bound reach 0.5% or lower before 2027?",
           "odds": "+2225",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Fed’s lower bound reach 1.25% or lower before 2027?",
+          "odds": "+675",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,14 +167,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Exact Score: Nottingham Forest FC 0 - 3 Aston Villa FC?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will NVIDIA (NVDA) hit (LOW) $192 Week of April 27 2026?",
-          "odds": "+334",
+          "event": "Trump approval Up or Down this week?",
+          "odds": "+100",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -191,26 +185,32 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Toronto be 10°C on April 30?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Elon Musk post 165-189 tweets from May 2 to May 4, 2026?",
-          "odds": "+2531",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Paris be 27°C on May 2?",
-          "odds": "+2073",
+          "event": "Will the highest temperature in Hong Kong be 29°C on May 2?",
+          "odds": "+426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will West Ham be relegated from the English Premier League after the 2025–26 season?",
           "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will SpaceX's market cap be between $1.8T and $2.0T at market close on IPO day?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "LoL: Gen.G vs Dplus KIA (BO3) - LCK Rounds 1-2",
+          "odds": "-300",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Charles Leclerc win the 2026 F1 Miami Grand Prix?",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
