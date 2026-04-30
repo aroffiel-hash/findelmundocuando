@@ -1,27 +1,33 @@
 {
-  "lastUpdated": "30 de abril de 2026 — 17:13 UTC",
+  "lastUpdated": "30 de abril de 2026 — 19:10 UTC",
   "ticker": [
+    "Lebanese girl mourns paramedic father killed in Israeli strike",
+    "Myanmar’s former leader Aung San Suu Kyi moved to house arrest",
+    "UN chief calls for immediate reopening of the Strait of Hormuz",
+    "UAE exit signals OPEC’s declining grip on oil markets",
+    "US falls to ‘historic low’ in press freedom tracker: RSF",
+    "Israel rights group petitions top court to order release of 14 Gaza doctors",
+    "Trump slams Germany’s Merz again as rift over Iran war widens",
+    "How rebels teamed up to shake Mali and the Kremlin’s grip",
     "Africa and Asia back Infantino for unique fourth term as FIFA president",
     "Saudi Arabia to end LIV Golf funding, while league appoints new chairman",
     "Iran, protests, human rights – all to know about the 76th FIFA Congress",
     "From railways to energy — five strategic projects linking Gulf states",
     "‘Act of piracy’: World reacts to Israeli interception of Gaza aid flotilla",
     "Lindsey Vonn not ready to decide if she’ll ski again after Olympics crash",
-    "US military equipment worth billions of dollars destroyed in Iran war",
-    "Indonesian soldiers accused of acid attack. What happened and why?",
-    "Has the US Supreme Court weakened the Voting Rights Act – and how?",
-    "Hormuz effect? How US, China are ramping up tensions over the Panama Canal",
-    "Was Israeli PM’s Lebanon destruction video a snub to Trump?",
-    "Mali crisis: Who are the key leaders to know about?",
-    "Anti-immigrant attacks and protests in South Africa",
-    "Why are Western feminists silent on the war on Iranian women?",
-    "$25bn or $1 trillion: How much has Iran war really cost the US?"
+    "US military equipment worth billions of dollars destroyed in Iran war"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Will the highest temperature in Warsaw be 25°C on May 2?",
+          "odds": "+177",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the Communist Party of the Russian Federation (KPRF) win the third-most seats in the next Russian parliamentary election?",
           "odds": "+300",
@@ -36,7 +42,7 @@
         },
         {
           "event": "Will Israel win the televote for Eurovision 2026?",
-          "odds": "+212",
+          "odds": "+203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -53,14 +59,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Justin Briner as Izuku Midoriya (My Hero Academia FINAL SEASON) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?",
-          "odds": "+112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Russia capture Lyman by December 31, 2026?",
-          "odds": "-138",
+          "odds": "-143",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -70,6 +70,12 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
+        {
+          "event": "WTI Crude Oil (WTI) closes above $105 on April 30?",
+          "odds": "-163",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Fed rate hike in 2026?",
           "odds": "+525",
@@ -90,7 +96,7 @@
         },
         {
           "event": "Will another country leave OPEC in 2026?",
-          "odds": "+194",
+          "odds": "+203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -105,12 +111,6 @@
           "odds": "+2225",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will the Fed’s lower bound reach 1.25% or lower before 2027?",
-          "odds": "+675",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -118,12 +118,6 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
-        {
-          "event": "Will Venstre be part of the next Government of Denmark?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
           "odds": "+1899",
@@ -133,12 +127,6 @@
         {
           "event": "Will President Trump sign 3 pieces of legislation into law in April?",
           "odds": "+646",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Anže Logar be the next Prime Minister of Slovenia?",
-          "odds": "+2677",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -159,6 +147,18 @@
           "odds": "-426",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will the Republicans win the South Carolina Senate race in 2026?",
+          "odds": "-354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Mike Kennealy win the 2026 Massachusetts Governor Republican primary election?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -167,20 +167,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Elon Musk post 200-219 tweets from April 28 to May 5, 2026?",
-          "odds": "+809",
+          "event": "Exact Score: Nottingham Forest FC 0 - 3 Aston Villa FC?",
+          "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the Democratic Party win the CA-21 House seat?",
-          "odds": "-669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Guangzhou be 26°C on May 1?",
-          "odds": "+1566",
+          "event": "Will NVIDIA (NVDA) hit (LOW) $192 Week of April 27 2026?",
+          "odds": "+334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -192,25 +186,31 @@
         },
         {
           "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
-          "odds": "+1011",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Sporting Kansas City win on 2026-05-02?",
-          "odds": "+376",
+          "event": "Will the highest temperature in Toronto be 10°C on April 30?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Shenzhen be 29°C on May 2?",
-          "odds": "+212",
+          "event": "Will Elon Musk post 165-189 tweets from May 2 to May 4, 2026?",
+          "odds": "+2531",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Game Handicap: HMBLE (-2.5) vs Colossal Gaming (+2.5)",
-          "odds": "-108",
+          "event": "Will the highest temperature in Paris be 27°C on May 2?",
+          "odds": "+2073",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will West Ham be relegated from the English Premier League after the 2025–26 season?",
+          "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
