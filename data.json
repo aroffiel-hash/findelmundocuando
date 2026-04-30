@@ -1,27 +1,33 @@
 {
-  "lastUpdated": "30 de abril de 2026 — 20:54 UTC",
+  "lastUpdated": "30 de abril de 2026 — 21:52 UTC",
   "ticker": [
-    "US Congress passes bill to resume funding for DHS and end partial shutdown",
+    "First US-Venezuela flight lands in Caracas after seven-year suspension",
+    "US gas reaches $4.30 per gallon; Trump says prices will drop after Iran war",
+    "Palestinians mourn football loving teenager killed by Israeli army",
+    "Kenya’s Sawe hailed at State House after historic marathon",
+    "Palestinian journalist released from Israeli prison unrecognisable",
+    "Hegseth testifies on Iran war before Senate committee: Key takeaways",
+    "Flotilla activist: Israel’s ‘brutal attack’ will not deter us",
+    "How is Israel replicating its Gaza tactics in Lebanon?",
+    "Trumps says Iran can play at World Cup in US after FIFA confirmation",
+    "US-Venezuela direct flights resume after seven-year suspension",
+    "RSF condemns ‘kidnapping’ of three journalists on board Gaza aid flotilla",
+    "US passes law to resume DHS funding and end partial government shutdown",
     "Uganda court sentences man to death for killing four children at nursery",
     "Trump says Tennessee next to redistrict after US Voting Rights Act ruling",
-    "Mexico’s Sheinbaum questions US claims of drug ties to Sinaloa governor",
-    "Iran confirmed to play at World Cup according to FIFA chief Infantino",
-    "Piracy rises off Somalia as US-Israeli war on Iran diverts naval forces",
-    "Lebanese girl mourns paramedic father killed in Israeli strike",
-    "Myanmar’s former leader Aung San Suu Kyi moved to house arrest",
-    "UN chief calls for immediate reopening of the Strait of Hormuz",
-    "UAE exit signals OPEC’s declining grip on oil markets",
-    "US falls to ‘historic low’ in press freedom tracker: RSF",
-    "Israel rights group petitions top court to order release of 14 Gaza doctors",
-    "Trump slams Germany’s Merz again as rift over Iran war widens",
-    "How rebels teamed up to shake Mali and the Kremlin’s grip",
-    "Africa and Asia back Infantino for unique fourth term as FIFA president"
+    "Mexico’s Sheinbaum questions US claims of drug ties to Sinaloa governor"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Will Israel win the televote for Eurovision 2026?",
+          "odds": "+203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the Communist Party of the Russian Federation (KPRF) win the third-most seats in the next Russian parliamentary election?",
           "odds": "+300",
@@ -31,12 +37,6 @@
         {
           "event": "Will Russia capture all of Kostyantynivka by December 31, 2026?",
           "odds": "+170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Israel win the televote for Eurovision 2026?",
-          "odds": "+212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -72,7 +72,7 @@
       "rows": [
         {
           "event": "Fed rate hike in 2026?",
-          "odds": "+525",
+          "odds": "+488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -89,26 +89,26 @@
           "moved": "none"
         },
         {
-          "event": "Will another country leave OPEC in 2026?",
-          "odds": "+203",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will UK GDP growth in Q1 2026 be between 0% and 0.3%?",
           "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the Fed’s lower bound reach 0.5% or lower before 2027?",
-          "odds": "+2225",
+          "event": "S&P 500 (SPX) Opens Up or Down on May 1?",
+          "odds": "+100",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the Fed’s lower bound reach 1.25% or lower before 2027?",
-          "odds": "+675",
+          "event": "Will another country leave OPEC in 2026?",
+          "odds": "+194",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Fed’s lower bound reach 0.5% or lower before 2027?",
+          "odds": "+2225",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -131,6 +131,12 @@
           "moved": "none"
         },
         {
+          "event": "Will Steve Hilton finish first in the 2026 California Governor primary election?",
+          "odds": "+244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Mohammed bin Zayed Al Nahyan out as President of the United Arab Emirates by December 31, 2026?",
           "odds": "+1011",
           "params": "Fuente: Polymarket",
@@ -143,20 +149,14 @@
           "moved": "none"
         },
         {
+          "event": "Will Trump’s approval rating be between 39.0 and 39.4 on May 1, 2026?",
+          "odds": "+163",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Mai Vang advance from the CA-07 primary election?",
           "odds": "-426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republicans win the South Carolina Senate race in 2026?",
-          "odds": "-354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Mike Kennealy win the 2026 Massachusetts Governor Republican primary election?",
-          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,8 +167,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Trump approval Up or Down this week?",
-          "odds": "+100",
+          "event": "Will the highest temperature in Hong Kong be 26°C on May 1?",
+          "odds": "+163",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Clube do Remo win on 2026-05-02?",
+          "odds": "+525",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -185,32 +191,26 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Hong Kong be 29°C on May 2?",
-          "odds": "+426",
+          "event": "Trump declassifies new UFO files by May 31?",
+          "odds": "+112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will TSG 1899 Hoffenheim win on 2026-05-02?",
+          "odds": "+143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Ankara be 11°C on May 2?",
+          "odds": "+3025",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will West Ham be relegated from the English Premier League after the 2025–26 season?",
           "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will SpaceX's market cap be between $1.8T and $2.0T at market close on IPO day?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "LoL: Gen.G vs Dplus KIA (BO3) - LCK Rounds 1-2",
-          "odds": "-300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Charles Leclerc win the 2026 F1 Miami Grand Prix?",
-          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
