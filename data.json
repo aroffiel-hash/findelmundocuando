@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "01 de mayo de 2026 — 14:49 UTC",
+  "lastUpdated": "01 de mayo de 2026 — 15:51 UTC",
   "ticker": [
+    "Turkish police fire tear gas, arrest hundreds at May Day rally",
+    "Italian firefighters respond to Tuscany wildfires",
+    "Cricket club bans social media comments to protect players’ mental health",
     "Benfica’s Mourinho says no contact with Real Madrid about manager’s job",
     "Howe says Saudi owners’ desire for success at Newcastle remains unchanged",
     "Woman killed, children injured as Israel attacks Lebanon",
@@ -12,10 +15,7 @@
     "Has the US-Iran ceasefire reset the clock on War Powers Act deadline?",
     "Riots erupt over Australian Aboriginal girl’s murder as suspect arrested",
     "Falklands claim: Can Argentina’s Milei use Trump ties to challenge the UK?",
-    "Who profits big from the war on Iran?",
-    "Oil prices rise again with little sign of war on Iran ending",
-    "Despite growth and pay rises, Greek workers are among the poorest in Europe",
-    "May Day in the age of AI: The new war on workers"
+    "Who profits big from the war on Iran?"
   ],
   "sections": [
     {
@@ -25,6 +25,12 @@
         {
           "event": "Will Cleitinho Azevedo win the 2026 Minas Gerais gubernatorial election?",
           "odds": "-132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Russia enter Havrylivka by May 31, 2026?",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -53,14 +59,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Justin Briner as Izuku Midoriya (My Hero Academia FINAL SEASON) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?",
-          "odds": "+112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Pablo Lopez win the 2026 AL Cy Young Award?",
-          "odds": "+2339",
+          "event": "Will Russia capture all of Hryshyne by May 31?",
+          "odds": "+149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -84,7 +84,7 @@
         },
         {
           "event": "Fed rate hike in 2026?",
-          "odds": "+400",
+          "odds": "+426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -120,13 +120,7 @@
       "rows": [
         {
           "event": "Will Chad Bianco win the California Governor Election in 2026?",
-          "odds": "+1685",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republicans win the South Carolina Senate race in 2026?",
-          "odds": "-400",
+          "odds": "+1415",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -159,6 +153,12 @@
           "odds": "+257",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will John Thune be the next Senate Majority Leader?",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -169,12 +169,6 @@
         {
           "event": "Will Z.ai have a #1 AI model by June 30?",
           "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "FK Csíkszereda Miercurea Ciuc vs. FCSB: Both Teams to Score",
-          "odds": "-122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -191,26 +185,32 @@
           "moved": "none"
         },
         {
-          "event": "Will Trump say \"Radical Left\" this week? (April 27 - May 3)",
-          "odds": "-316",
+          "event": "Will the highest temperature in Shenzhen be 30°C on May 2?",
+          "odds": "+354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will CD Nacional vs. AVS Futebol end in a draw?",
-          "odds": "+376",
+          "event": "Will the highest temperature in Busan be 20°C or higher on May 3?",
+          "odds": "+525",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Arizona Diamondbacks vs. Chicago Cubs",
-          "odds": "+132",
+          "event": "Will the highest temperature in Helsinki be 19°C on May 2?",
+          "odds": "+149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will West Ham be relegated from the English Premier League after the 2025–26 season?",
           "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Bristol City FC vs. Stoke City FC end in a draw?",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
