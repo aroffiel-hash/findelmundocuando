@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "01 de mayo de 2026 — 16:50 UTC",
+  "lastUpdated": "01 de mayo de 2026 — 17:54 UTC",
   "ticker": [
+    "US warns shippers against paying Strait of Hormuz tolls, ‘donations’",
+    "Michael Jackson’s biopic and what it leaves out",
     "UAE exit from OPEC signals closer alignment with US interests, experts say",
     "EU trade deal with South America’s Mercosur bloc takes provisional effect",
     "Pentagon announces deal with seven AI companies for classified systems",
@@ -13,15 +15,19 @@
     "Trump’s threat: Why cutting US troops in Europe won’t be easy",
     "‘Turbulent and dangerous’: How shipping is the new global battleground",
     "Giorgia Meloni’s moral retreat on Gaza",
-    "Greek Orthodox Church sounds alarm over attacks on Christians in Jerusalem",
-    "Gaza aid flotilla vessels taken to Crete after Israeli interception",
-    "Has the US-Iran ceasefire reset the clock on War Powers Act deadline?"
+    "Greek Orthodox Church sounds alarm over attacks on Christians in Jerusalem"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Abidjan 2: Eliakim Coulibaly vs Hamish Stewart",
+          "odds": "-733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Russia enter Havrylivka by May 31, 2026?",
           "odds": "+1150",
@@ -41,6 +47,12 @@
           "moved": "none"
         },
         {
+          "event": "US x Iran permanent peace deal by May 31, 2026?",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Chlöe Swarbrick be the next Prime Minister of New Zealand after the 2026 elections?",
           "odds": "+1566",
           "params": "Fuente: Polymarket",
@@ -48,19 +60,7 @@
         },
         {
           "event": "Gaza flotilla enters Israeli waters by May 31?",
-          "odds": "+233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Russia capture all of Hryshyne by May 31?",
-          "odds": "+149",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "US x Iran permanent peace deal by May 31, 2026?",
-          "odds": "+400",
+          "odds": "+203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -77,14 +77,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Trump say \"Tariff\" at The Villages on May 1?",
-          "odds": "-669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Fed rate hike in 2026?",
-          "odds": "+426",
+          "odds": "+488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -111,6 +105,12 @@
           "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will the Fed’s lower bound reach 1.25% or lower before 2027?",
+          "odds": "+675",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -120,7 +120,7 @@
       "rows": [
         {
           "event": "Will Chad Bianco win the California Governor Election in 2026?",
-          "odds": "+1462",
+          "odds": "+1487",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -167,20 +167,26 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the highest temperature in Toronto be 11°C on May 2?",
-          "odds": "+1566",
+          "event": "Will OpenAI have the third best AI model at the end of May 2026?",
+          "odds": "+1512",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Z.ai have a #1 AI model by June 30?",
-          "odds": "+3233",
+          "event": "Will the highest temperature in Qingdao be 15°C on May 3?",
+          "odds": "+354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Madrid Open: Mirra Andreeva vs Marta Kostyuk",
-          "odds": "-127",
+          "event": "Valorant: LOUD vs Cloud9 (BO3) - VCT Americas Stage 1 Group Alpha",
+          "odds": "+138",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "LoL: Galions vs Karmine Corp Blue (BO1) - LFL Regular Season",
+          "odds": "-233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -191,20 +197,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Pierceson Coody finish in the Top 20 at the 2026 Cadillac Championship?",
-          "odds": "+132",
+          "event": "Counter-Strike: G2 vs FaZe - Map 1 Winner",
+          "odds": "-170",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will OpenAI have the second highest estimated revenue for May 4–May 10, 2026?",
-          "odds": "-1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Busan be 20°C or higher on May 3?",
-          "odds": "+525",
+          "event": "Will the highest temperature in Shenzhen be 31°C on May 2?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
