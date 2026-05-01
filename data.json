@@ -1,7 +1,12 @@
 {
-  "lastUpdated": "01 de mayo de 2026 — 19:02 UTC",
+  "lastUpdated": "01 de mayo de 2026 — 20:43 UTC",
   "ticker": [
-    "Trump says Iran asking for things he ‘can’t agree to’ in latest proposal",
+    "Somali piracy resurfaces in the lightly-protected waters",
+    "Barcelona in sight of La Liga title a week before El Clasico with Real",
+    "US judge bars Trump from ending protected status for Yemeni nationals",
+    "Rebel checkpoints reported around Mali’s capital, northern town seized",
+    "Photos: Cuba holds May Day celebrations amid US threats",
+    "Trump says Iran seeks terms he ‘can’t agree to’ in latest peace proposal",
     "Trump announces 25 percent tariffs on European Union cars, trucks",
     "Poll finds 61 percent of Americans believe attacking Iran was a mistake",
     "US warns shippers against paying Strait of Hormuz tolls, ‘donations’",
@@ -10,12 +15,7 @@
     "EU trade deal with South America’s Mercosur bloc takes provisional effect",
     "Pentagon announces deal with seven AI companies for classified systems",
     "Turkish police fire tear gas, arrest hundreds at May Day rally",
-    "Italian firefighters respond to Tuscany wildfires",
-    "Cricket club bans social media comments to protect players’ mental health",
-    "Benfica’s Mourinho says no contact with Real Madrid about manager’s job",
-    "Howe says Saudi owners’ desire for success at Newcastle remains unchanged",
-    "Woman killed, children injured as Israel attacks Lebanon",
-    "Trump’s threat: Why cutting US troops in Europe won’t be easy"
+    "Italian firefighters respond to Tuscany wildfires"
   ],
   "sections": [
     {
@@ -23,20 +23,14 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
+          "event": "US x Iran permanent peace deal by May 31, 2026?",
+          "odds": "+354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Gaza flotilla enters Israeli waters by May 31?",
           "odds": "+212",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Russia enter Havrylivka by May 31, 2026?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "US x Iran permanent peace deal by May 31, 2026?",
-          "odds": "+334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -63,6 +57,12 @@
           "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Justin Briner as Izuku Midoriya (My Hero Academia FINAL SEASON) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?",
+          "odds": "+112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -71,8 +71,8 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Call of Duty: FaZe Vegas vs Carolina Royal Ravens (BO5) - Call of Duty League Stage 3 Major Qualifiers Qualifiers",
-          "odds": "-354",
+          "event": "Will gas hit (Low) $4.20 by May 31?",
+          "odds": "+104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -120,7 +120,7 @@
       "rows": [
         {
           "event": "Will Chad Bianco win the California Governor Election in 2026?",
-          "odds": "+1539",
+          "odds": "+1512",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -167,26 +167,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "ASVEL Lyon-Villeurbanne vs. BCM Gravelines Dunkerque",
-          "odds": "-1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will OpenAI have the third best AI model at the end of May 2026?",
           "odds": "+1512",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Qingdao be 15°C on May 3?",
-          "odds": "+354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Cameron Young win the 2026 Cadillac Championship?",
-          "odds": "+143",
+          "event": "Will the highest temperature in Helsinki be 15°C on May 3?",
+          "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -211,6 +199,18 @@
         {
           "event": "Will West Ham be relegated from the English Premier League after the 2025–26 season?",
           "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Levante UD win on 2026-05-08?",
+          "odds": "+177",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Scottie Scheffler win the 2026 Cadillac Championship?",
+          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
