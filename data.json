@@ -1,6 +1,7 @@
 {
-  "lastUpdated": "02 de mayo de 2026 — 08:59 UTC",
+  "lastUpdated": "02 de mayo de 2026 — 10:03 UTC",
   "ticker": [
+    "Japan’s Takaichi pledges deeper energy cooperation with Vietnam",
     "Spirit Airlines begins ‘wind-down’, cancels all flights over fuel crisis",
     "UK’s Starmer eyes banning some pro-Palestine protests",
     "Who Is Nayib Bukele? El Salvador’s ‘coolest dictator’",
@@ -14,14 +15,19 @@
     "Trump says US forces are ‘like pirates’ taking Iranian oil",
     "Iran war protester speaks to Al Jazeera from top of Washington bridge",
     "Havana slams new Trump sanctions as ‘collective punishment’ of Cuban people",
-    "Peru probes trafficking of citizens to fight for Russia in Ukraine",
-    "K-pop’s BTS comeback tour rallies South Korea’s global ‘soft power’ drive"
+    "Peru probes trafficking of citizens to fight for Russia in Ukraine"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Abbas Araghchi out as Minister of Foreign Affairs of Iran by May 31, 2026?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Iran agrees to end enrichment of uranium by May 31?",
           "odds": "+733",
@@ -57,12 +63,6 @@
           "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will Justin Briner as Izuku Midoriya (My Hero Academia FINAL SEASON) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?",
-          "odds": "+138",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -70,12 +70,6 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
-        {
-          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $115 in May?",
-          "odds": "-156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will gas hit (Low) $4.20 by May 31?",
           "odds": "+163",
@@ -96,7 +90,7 @@
         },
         {
           "event": "Fed rate hike in 2026?",
-          "odds": "+488",
+          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -111,6 +105,12 @@
           "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will the Fed’s lower bound reach 1.25% or lower before 2027?",
+          "odds": "+675",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -118,6 +118,12 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
+        {
+          "event": "Will Marine Le Pen be the National Rally’s candidate for the 2027 French Presidential election?",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will both candidates advancing to the general election for Governor of California from the June 2, 2026 primary be affiliated with the Republican Party?",
           "odds": "+2225",
@@ -143,20 +149,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Labour Party win the most seats in the House of Representatives in the 2026 Maltese general election?",
-          "odds": "-669",
+          "event": "Will Tamilaga Vettri Kazhagam (TVK) win the most seats in the 2026 Tamil Nadu Legislative Assembly election?",
+          "odds": "+1370",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Steve Hilton finish first in the 2026 California Governor primary election?",
           "odds": "+257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will John Thune be the next Senate Majority Leader?",
-          "odds": "+334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,14 +167,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the highest temperature in Miami be between 84-85°F on May 3?",
-          "odds": "+426",
+          "event": "Mauthausen: Lukas Neumayer vs Roman Safiullin",
+          "odds": "+112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will \"The Devil Wears Prada 2\" Opening Weekend Box Office be less than 70m?",
-          "odds": "+1150",
+          "event": "Will the highest temperature in Beijing be 21°C on May 3?",
+          "odds": "+177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -191,26 +191,26 @@
           "moved": "none"
         },
         {
-          "event": "Will Chiefs win?",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will West Ham be relegated from the English Premier League after the 2025–26 season?",
           "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Bristol City FC win on 2026-05-02?",
-          "odds": "+100",
+          "event": "Will Xi Jinping purge Wang Huning in 2026?",
+          "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Xi Jinping purge Wang Huning in 2026?",
-          "odds": "+2400",
+          "event": "Will the BLAST Rivals Fort Worth 2026 Grand Final be a sweep?",
+          "odds": "+244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Cape Town be 18°C on May 2?",
+          "odds": "-222",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
