@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "02 de mayo de 2026 — 12:56 UTC",
+  "lastUpdated": "02 de mayo de 2026 — 14:09 UTC",
   "ticker": [
+    "LIVE: Arsenal vs Fulham – Premier League",
+    "The United States of Conspiracy",
+    "The dark side of Gaza’s new fancy cafes and restaurants",
+    "Mali probes soldiers suspected of involvement in military base attacks",
+    "Israeli air strikes kill 10 people in southern Lebanon",
+    "Flotilla activists return to Istanbul after Israel detains them at sea",
+    "Rallies under way as workers gather for International Labour Day",
     "NATO assessing details of US troop withdrawal from Germany",
     "Trump says US Navy acting ‘like pirates’ to enforce Iran blockade",
     "Ex-Formula One driver turned Paralympic champion Alex Zanardi dies aged 59",
@@ -8,14 +15,7 @@
     "Spirit Airlines begins ‘wind-down’, cancels all flights over fuel crisis",
     "UK’s Starmer eyes banning some pro-Palestine protests",
     "Who Is Nayib Bukele? El Salvador’s ‘coolest dictator’",
-    "China’s UN Envoy: Hormuz closure will dominate Trump-Xi talks",
-    "Nepal celebrates return of stolen 13th-century Buddha statue from New York",
-    "Man Utd vs Liverpool: Premier League – preview, team news, start, lineups",
-    "China urges reversal of UNIFIL departure from Lebanon as conflict escalates",
-    "Iran war: What’s happening on day 64 as Trump rejects Tehran’s proposal",
-    "Pistons and Raptors survive while LA Lakers progress in NBA playoffs",
-    "US embassy warns citizens in UK as threat level raised to ‘severe’",
-    "Trump says US forces are ‘like pirates’ taking Iranian oil"
+    "China’s UN Envoy: Hormuz closure will dominate Trump-Xi talks"
   ],
   "sections": [
     {
@@ -35,14 +35,20 @@
           "moved": "none"
         },
         {
+          "event": "Congress passes Iran war powers resolution by May 31?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will an Iranian agent be charged in the US by May 31?",
           "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Congress passes Iran war powers resolution by May 31?",
-          "odds": "+566",
+          "event": "Will Russia enter Dobropillia by June 30?",
+          "odds": "+426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -57,12 +63,6 @@
           "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will South Korea GDP growth in Q2 2026 be between 3.5% and 3.9%?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -70,12 +70,6 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
-        {
-          "event": "Brentford FC vs. West Ham United FC: O/U 9.5 Total Corners",
-          "odds": "-156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will US crude oil reserves fall to 325M by June 5?",
           "odds": "+257",
@@ -111,6 +105,12 @@
           "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will the Fed’s lower bound reach 1.25% or lower before 2027?",
+          "odds": "+675",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -118,12 +118,6 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
-        {
-          "event": "Will Tamilaga Vettri Kazhagam (TVK) win the most seats in the 2026 Tamil Nadu Legislative Assembly election?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will both candidates advancing to the general election for Governor of California from the June 2, 2026 primary be affiliated with the Republican Party?",
           "odds": "+2225",
@@ -159,6 +153,12 @@
           "odds": "+334",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will the Republicans win the 2028 US Presidential Election?",
+          "odds": "+163",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -169,12 +169,6 @@
         {
           "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
           "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Atlanta be between 66-67°F on May 3?",
-          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -191,14 +185,8 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Tokyo be 27°C on May 4?",
-          "odds": "+1624",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Counter-Strike: Sharks vs BET-M 33 (BO3) - Stake Ranked Episode 2: Closed Qualifier Playoffs",
-          "odds": "-112",
+          "event": "Will AECOM (ACM) beat quarterly earnings?",
+          "odds": "-185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -209,8 +197,20 @@
           "moved": "none"
         },
         {
-          "event": "Will PSV win on 2026-05-02?",
-          "odds": "+170",
+          "event": "Will the April 2026 unemployment rate be 4.4%?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in San Francisco be between 60-61°F on May 4?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Lagos be 30°C on May 2?",
+          "odds": "+1134",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
