@@ -1,6 +1,7 @@
 {
-  "lastUpdated": "02 de mayo de 2026 — 22:33 UTC",
+  "lastUpdated": "02 de mayo de 2026 — 23:36 UTC",
   "ticker": [
+    "Philippines volcano erupts, blanketing ash across the sky",
     "The rise of political violence under Trump",
     "Why are maritime laws failing to secure the seas?",
     "Timmy the humpback whale escapes to the North Sea",
@@ -14,8 +15,7 @@
     "Spain demands Israel release arrested Gaza flotilla crew member",
     "Devastation of Southern Lebanon continues under ‘ceasefire’",
     "Yemen reports hijacked oil tanker headed for Somalia",
-    "Spain’s Sanchez demands Netanyahu free Spaniard seized on aid flotilla",
-    "Prices surge, jobs disappear as war strains Iran’s economy"
+    "Spain’s Sanchez demands Netanyahu free Spaniard seized on aid flotilla"
   ],
   "sections": [
     {
@@ -24,19 +24,19 @@
       "rows": [
         {
           "event": "Will Russia capture all of Kostyantynivka by June 30, 2026?",
-          "odds": "+1899",
+          "odds": "+1415",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Israel win the televote for Eurovision 2026?",
+          "odds": "+212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Jared Kushner attend the next US x Iran diplomatic meeting?",
           "odds": "-163",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Israel win the televote for Eurovision 2026?",
-          "odds": "+203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -89,6 +89,18 @@
           "moved": "none"
         },
         {
+          "event": "Will Matthieu Pigasse be on the ballot for the 2027 French presidential election?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Jerome Powell out from Fed Board by December 31?",
+          "odds": "+163",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Fed rate cut by December 2026 meeting?",
           "odds": "+127",
           "params": "Fuente: Polymarket",
@@ -97,18 +109,6 @@
         {
           "event": "Will the Fed’s lower bound reach 0.5% or lower before 2027?",
           "odds": "+2225",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will S&P 500 (SPX) hit $8,200 (HIGH) in December?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Fed’s lower bound reach 1.25% or lower before 2027?",
-          "odds": "+675",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -155,8 +155,8 @@
           "moved": "none"
         },
         {
-          "event": "Will the Republicans win the 2028 US Presidential Election?",
-          "odds": "+163",
+          "event": "Will South Carolina use a new congressional map for the 2026 United States midterm elections?",
+          "odds": "-122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -179,20 +179,14 @@
           "moved": "none"
         },
         {
-          "event": "Counter-Strike: Voca vs Zomblers (BO3) - ESL Challenger League North America Cup #4 Playoffs",
-          "odds": "-733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will ForecastEx self-certify sports event contracts by June 30, 2026?",
           "odds": "+212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will West Ham be relegated from the English Premier League after the 2025–26 season?",
-          "odds": "+185",
+          "event": "Will Xi Jinping purge Wang Huning in 2026?",
+          "odds": "+2225",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -203,14 +197,20 @@
           "moved": "none"
         },
         {
-          "event": "Will Donald Trump post 180-199 Truth Social posts from May 5 to May 12, 2026?",
-          "odds": "+1011",
+          "event": "Will the highest temperature in Wuhan be 25°C on May 3?",
+          "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Xi Jinping purge Wang Huning in 2026?",
-          "odds": "+1182",
+          "event": "Will the highest temperature in Jeddah be 36°C on May 3?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will West Ham be relegated from the English Premier League after the 2025–26 season?",
+          "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
