@@ -1,12 +1,13 @@
 {
-  "lastUpdated": "02 de mayo de 2026 — 15:40 UTC",
+  "lastUpdated": "02 de mayo de 2026 — 16:39 UTC",
   "ticker": [
+    "Mexico’s Sinaloa state governor resigns amid US drug trafficking charges",
     "Israel’s ‘two-tier’ policing and the crime epidemic in Palestinian towns",
     "LIVE: Arsenal vs Fulham – Premier League",
     "The United States of Conspiracy",
     "The dark side of Gaza’s new fancy cafes and restaurants",
     "Mali probes soldiers suspected of involvement in military base attacks",
-    "Israeli air strikes kill 10 people in southern Lebanon",
+    "Israeli air strikes on Lebanon kill 41 people in 24-hours",
     "Flotilla activists return to Istanbul after Israel detains them at sea",
     "Rallies under way as workers gather for International Labour Day",
     "NATO assessing details of US troop withdrawal from Germany",
@@ -14,26 +15,13 @@
     "Ex-Formula One driver turned Paralympic champion Alex Zanardi dies aged 59",
     "Japan’s Takaichi pledges deeper energy cooperation with Vietnam",
     "Spirit Airlines begins ‘wind-down’, cancels all flights over fuel crisis",
-    "UK’s Starmer eyes banning some pro-Palestine protests",
-    "Who Is Nayib Bukele? El Salvador’s ‘coolest dictator’"
+    "UK’s Starmer eyes banning some pro-Palestine protests"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Will Russia enter Dobropillia by June 30?",
-          "odds": "+284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will USD reach 2.0M Iranian rials by May 31?",
-          "odds": "+112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Jared Kushner attend the next US x Iran diplomatic meeting?",
           "odds": "-185",
@@ -63,6 +51,18 @@
           "odds": "+194",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "US x Cuba military clash in 2026?",
+          "odds": "+127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will \"Takopi's Original Sin\" win Anime of the Year at the 2026 Crunchyroll Anime Awards?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -73,12 +73,6 @@
         {
           "event": "Will US crude oil reserves fall to 325M by June 5?",
           "odds": "+257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will WTI Crude Oil (WTI) hit (LOW) $90 in May?",
-          "odds": "-203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -95,12 +89,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Brentford FC win on 2026-05-02?",
-          "odds": "-2399",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the Fed’s lower bound reach 0.5% or lower before 2027?",
           "odds": "+2225",
           "params": "Fuente: Polymarket",
@@ -109,6 +97,18 @@
         {
           "event": "Will S&P 500 (SPX) hit $8,200 (HIGH) in December?",
           "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Fed’s lower bound reach 1.25% or lower before 2027?",
+          "odds": "+675",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Fed rate cut by December 2026 meeting?",
+          "odds": "+112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -121,6 +121,12 @@
         {
           "event": "Will both candidates advancing to the general election for Governor of California from the June 2, 2026 primary be affiliated with the Republican Party?",
           "odds": "+2225",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Iain Black win the 2026 Conservative Party of British Columbia leadership election?",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -143,12 +149,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Iain Black win the 2026 Conservative Party of British Columbia leadership election?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Mike Kennealy win the 2026 Massachusetts Governor Republican primary election?",
           "odds": "+669",
           "params": "Fuente: Polymarket",
@@ -166,12 +166,6 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
-        {
-          "event": "Will the highest temperature in Hong Kong be 25°C on May 4?",
-          "odds": "+300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
           "odds": "+1011",
@@ -191,26 +185,32 @@
           "moved": "none"
         },
         {
+          "event": "Will the highest temperature in Amsterdam be 15°C on May 4?",
+          "odds": "+270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will West Ham be relegated from the English Premier League after the 2025–26 season?",
           "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will FC Utrecht win on 2026-05-02?",
-          "odds": "-222",
+          "event": "Fulham FC leading at halftime?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will OpenAI’s market cap be $1.5T or greater at market close on IPO day?",
+          "odds": "+713",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the next model released by OpenAI debut at a score of at least 1500?",
           "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Xi Jinping purge Wang Huning in 2026?",
-          "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
