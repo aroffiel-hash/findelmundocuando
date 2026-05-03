@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "03 de mayo de 2026 — 07:52 UTC",
+  "lastUpdated": "03 de mayo de 2026 — 09:17 UTC",
   "ticker": [
+    "Israel issues new forced displacement orders in southern Lebanon",
+    "Gretchen Walsh lowers own 100m butterfly world record for fourth time",
+    "The World Cup & Passport privilege",
+    "Austrian police arrest man after discovery of rat poison in baby food",
+    "Japan’s Inoue beats Nakatani to retain undisputed super bantamweight title",
+    "South Korea holds pro-Palestine protest in solidarity with Gaza",
+    "Man charged with murder of five-year-old Australian Indigenous girl",
     "Iran war: What’s happening on day 65 as Trump reviews new plan to end war?",
     "China blocks US sanctions against five ‘teapot’ refineries",
     "Taiwan leader visits Eswatini despite China’s attempts to block trip",
@@ -8,14 +15,7 @@
     "In Yemen, Starlink internet brings opportunities – for some",
     "Teen F1 leader Antonelli takes Miami pole as race start time changed",
     "Carlos Prates punishes Jack Della Maddalena at UFC Fight Night Australia",
-    "Millions of jobs lost as Iranians battle ‘Operation Economic Fury’",
-    "US approves $8.6bn in arms sales to Middle East allies",
-    "UAE lifts all air traffic restrictions introduced since Iran war",
-    "Trump expresses doubt that Iran’s peace proposal is ‘acceptable’",
-    "Iran war live: Trump to review 14-point plan; Israel pounds Lebanon",
-    "Philippines volcano erupts, blanketing ash across the sky",
-    "The rise of political violence under Trump",
-    "Why are maritime laws failing to secure the seas?"
+    "Millions of jobs lost as Iranians battle ‘Operation Economic Fury’"
   ],
   "sections": [
     {
@@ -24,7 +24,7 @@
       "rows": [
         {
           "event": "Will Russia capture all of Kostyantynivka by June 30, 2026?",
-          "odds": "+1415",
+          "odds": "+1215",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -167,14 +167,38 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Will the lowest temperature in Shanghai be 16°C on May 5?",
+          "odds": "+143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will there be between 0 and 10 average daily transits of the Strait of Hormuz on May 31?",
           "odds": "-122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
+          "event": "Will OpenAI’s market cap be $1.5T or greater at market close on IPO day?",
+          "odds": "+870",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Elon Musk post 140-159 tweets from May 5 to May 12, 2026?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
           "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Apple (AAPL) hit (HIGH) $296 in May?",
+          "odds": "+149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -187,30 +211,6 @@
         {
           "event": "Will ForecastEx self-certify sports event contracts by June 30, 2026?",
           "odds": "+284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Lagos be 34°C on May 3?",
-          "odds": "+316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will OpenAI’s market cap be $1.5T or greater at market close on IPO day?",
-          "odds": "+870",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will West Ham be relegated from the English Premier League after the 2025–26 season?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "KBO: KT Wiz vs. Kia Tigers",
-          "odds": "-1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
