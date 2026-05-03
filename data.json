@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "03 de mayo de 2026 — 15:40 UTC",
+  "lastUpdated": "03 de mayo de 2026 — 16:40 UTC",
   "ticker": [
+    "The US vs Latin America: Varsha Gandikota and Susana Muhamad",
+    "Israel threatens Gaza war resumption to force disarmament as ‘truce’ frays",
     "Zelenskyy has no cards to play against Russia or the West",
     "On World Press Freedom Day, Pope honours journalists killed in war zones",
     "Who are the two Gaza flotilla activists abducted by Israel?",
@@ -13,9 +15,7 @@
     "Israel approves purchase of fighter jets from the US",
     "US military says two service members taking part in Morocco drills missing",
     "Taiwan’s leader visits Eswatini despite pressure from China to block trip",
-    "Two women die in attempted Channel crossing from France to UK",
-    "Gaza aid flotilla activists appear in Israeli court after abduction",
-    "LIVE: Manchester United vs Liverpool – Premier League"
+    "Two women die in attempted Channel crossing from France to UK"
   ],
   "sections": [
     {
@@ -24,25 +24,25 @@
       "rows": [
         {
           "event": "Will Jared Kushner attend the next US x Iran diplomatic meeting?",
-          "odds": "-156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Capitão Wagner win the 2026 Ceará gubernatorial election?",
-          "odds": "+1251",
+          "odds": "-177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Iran agrees to unrestricted shipping through Hormuz by May 31?",
-          "odds": "+614",
+          "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Israel x Iran permanent peace deal by June 30, 2026?",
           "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Capitão Wagner win the 2026 Ceará gubernatorial election?",
+          "odds": "+1251",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -78,7 +78,7 @@
         },
         {
           "event": "Fed rate hike in 2026?",
-          "odds": "+455",
+          "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -131,8 +131,14 @@
           "moved": "none"
         },
         {
+          "event": "Will the Conservative Party win at least 400 council seat elections in the 2026 United Kingdom local elections?",
+          "odds": "-524",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
-          "odds": "+2280",
+          "odds": "+2027",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -153,12 +159,6 @@
           "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will Partido Social Democrático (PSD) win the most seats in the next Brazilian Senate election?",
-          "odds": "+1594",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -169,6 +169,12 @@
         {
           "event": "Total Kills Over/Under 24.5 in Game 2?",
           "odds": "+138",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Sonos (SONO) beat quarterly earnings?",
+          "odds": "-127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -185,14 +191,14 @@
           "moved": "none"
         },
         {
-          "event": "Game Handicap: G2 (-1.5) vs Natus Vincere (+1.5)",
-          "odds": "+143",
+          "event": "Wild vs. Avalanche",
+          "odds": "+170",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will OpenAI’s market cap be $1.5T or greater at market close on IPO day?",
-          "odds": "+580",
+          "odds": "+777",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -205,12 +211,6 @@
         {
           "event": "Will Roasso Kumamoto win on 2026-05-06?",
           "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Indian Premier League: Mumbai Indians vs Lucknow Super Giants",
-          "odds": "-143",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
