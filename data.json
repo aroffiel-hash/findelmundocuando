@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "03 de mayo de 2026 — 14:09 UTC",
+  "lastUpdated": "03 de mayo de 2026 — 15:40 UTC",
   "ticker": [
+    "Zelenskyy has no cards to play against Russia or the West",
+    "On World Press Freedom Day, Pope honours journalists killed in war zones",
+    "Who are the two Gaza flotilla activists abducted by Israel?",
     "US to cut troops in Germany as Iran war spat deepens",
     "USA vs Paraguay among World Cup games with unsold, exorbitant tickets",
     "It does not make sense to invest more Arab resources in a US alliance",
@@ -12,10 +15,7 @@
     "Taiwan’s leader visits Eswatini despite pressure from China to block trip",
     "Two women die in attempted Channel crossing from France to UK",
     "Gaza aid flotilla activists appear in Israeli court after abduction",
-    "LIVE: Manchester United vs Liverpool – Premier League",
-    "Who is Cherie DeVaux, the first female trainer to win the Kentucky Derby?",
-    "What’s Iran’s 14-point proposal to end the war? And will Trump accept it?",
-    "Strait of Hormuz blockade and other major naval sieges in modern times"
+    "LIVE: Manchester United vs Liverpool – Premier League"
   ],
   "sections": [
     {
@@ -24,7 +24,7 @@
       "rows": [
         {
           "event": "Will Jared Kushner attend the next US x Iran diplomatic meeting?",
-          "odds": "-177",
+          "odds": "-156",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -35,13 +35,25 @@
           "moved": "none"
         },
         {
+          "event": "Iran agrees to unrestricted shipping through Hormuz by May 31?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Israel x Iran permanent peace deal by June 30, 2026?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "US x Cuba military clash in 2026?",
           "odds": "+127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Iran agrees to unrestricted shipping through Hormuz by May 31?",
+          "event": "Iran agrees to surrender enriched uranium stockpile by June 30, 2026?",
           "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
@@ -49,18 +61,6 @@
         {
           "event": "Will Russia enter Shevchenko by May 31?",
           "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will North and South Korea engage in direct talks by June 30?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Borussia Mönchengladbach vs. BV Borussia 09 Dortmund: O/U 1.5",
-          "odds": "-524",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,8 +167,26 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Total Kills Over/Under 24.5 in Game 2?",
+          "odds": "+138",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Map 1: Odd/Even Total Rounds?",
           "odds": "-104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Giravanz Kitakyūshū vs. Roasso Kumamoto end in a draw?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Game Handicap: G2 (-1.5) vs Natus Vincere (+1.5)",
+          "odds": "+143",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -179,38 +197,20 @@
           "moved": "none"
         },
         {
-          "event": "Cagliari: Hubert Hurkacz vs Matteo Arnaldi",
-          "odds": "+149",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
           "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Madrid be 23°C on May 3?",
-          "odds": "+1940",
+          "event": "Will Roasso Kumamoto win on 2026-05-06?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will MrBeast's next video get between 35 and 40 million views on day 1?",
-          "odds": "-1215",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will ForecastEx self-certify sports event contracts by June 30, 2026?",
-          "odds": "+212",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Xi Jinping purge Wang Huning in 2026?",
-          "odds": "+2225",
+          "event": "Indian Premier League: Mumbai Indians vs Lucknow Super Giants",
+          "odds": "-143",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
