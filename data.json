@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "03 de mayo de 2026 — 09:17 UTC",
+  "lastUpdated": "03 de mayo de 2026 — 10:49 UTC",
   "ticker": [
+    "Ben-Gvir celebrates birthday with cake decorated with death penalty noose",
+    "Ukraine drone attack hits Russian Baltic port, governor says",
+    "Are Somali pirates on a comeback in 2026?",
     "Israel issues new forced displacement orders in southern Lebanon",
     "Gretchen Walsh lowers own 100m butterfly world record for fourth time",
     "The World Cup & Passport privilege",
@@ -12,10 +15,7 @@
     "China blocks US sanctions against five ‘teapot’ refineries",
     "Taiwan leader visits Eswatini despite China’s attempts to block trip",
     "Joel Embiid, 76ers knock out second-seeded Celtics in NBA Playoffs",
-    "In Yemen, Starlink internet brings opportunities – for some",
-    "Teen F1 leader Antonelli takes Miami pole as race start time changed",
-    "Carlos Prates punishes Jack Della Maddalena at UFC Fight Night Australia",
-    "Millions of jobs lost as Iranians battle ‘Operation Economic Fury’"
+    "In Yemen, Starlink internet brings opportunities – for some"
   ],
   "sections": [
     {
@@ -41,6 +41,12 @@
           "moved": "none"
         },
         {
+          "event": "Will the highest temperature in Warsaw be 26°C on May 5?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "US x Cuba military clash in 2026?",
           "odds": "+122",
           "params": "Fuente: Polymarket",
@@ -57,12 +63,6 @@
           "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will US withdraw from NATO before 2027?",
-          "odds": "+941",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -70,6 +70,12 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
+        {
+          "event": "Will V-Varen Nagasaki vs. Nagoya Grampus end in a draw?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will US crude oil reserves fall to 325M by June 5?",
           "odds": "+257",
@@ -83,32 +89,26 @@
           "moved": "none"
         },
         {
-          "event": "Will Matthieu Pigasse be on the ballot for the 2027 French presidential election?",
-          "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Jerome Powell out from Fed Board by December 31?",
           "odds": "+170",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
+          "event": "Will Matthieu Pigasse be on the ballot for the 2027 French presidential election?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "OPEC dissolves in 2026?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Fed rate cut by December 2026 meeting?",
-          "odds": "+112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Fed’s lower bound reach 0.5% or lower before 2027?",
-          "odds": "+2225",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will S&P 500 (SPX) hit $8,200 (HIGH) in December?",
-          "odds": "+669",
+          "odds": "+122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,32 +167,38 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Exact Score: RCD Espanyol de Barcelona 1 - 1 Real Madrid CF?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the lowest temperature in Shanghai be 16°C on May 5?",
           "odds": "+143",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will there be between 0 and 10 average daily transits of the Strait of Hormuz on May 31?",
-          "odds": "-122",
+          "event": "Map 1: Odd/Even Total Rounds?",
+          "odds": "-104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will OpenAI’s market cap be $1.5T or greater at market close on IPO day?",
-          "odds": "+870",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Elon Musk post 140-159 tweets from May 5 to May 12, 2026?",
-          "odds": "+614",
+          "odds": "+1198",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
           "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Toronto Blue Jays vs. Minnesota Twins",
+          "odds": "-104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -205,12 +211,6 @@
         {
           "event": "Will Xi Jinping purge Wang Huning in 2026?",
           "odds": "+2225",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will ForecastEx self-certify sports event contracts by June 30, 2026?",
-          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
