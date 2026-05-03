@@ -1,7 +1,11 @@
 {
-  "lastUpdated": "03 de mayo de 2026 — 02:14 UTC",
+  "lastUpdated": "03 de mayo de 2026 — 05:52 UTC",
   "ticker": [
-    "Iran war live: Trump says reviewing 14-point plan; Israel pounds Lebanon",
+    "Millions of jobs lost as Iranians battle ‘Operation Economic Fury’",
+    "US approves $8.6bn in arms sales to Middle East allies",
+    "UAE lifts all air traffic restrictions introduced since Iran war",
+    "Trump expresses doubt that Iran’s peace proposal is ‘acceptable’",
+    "Iran war live: Trump to review 14-point plan; Israel pounds Lebanon",
     "Philippines volcano erupts, blanketing ash across the sky",
     "The rise of political violence under Trump",
     "Why are maritime laws failing to secure the seas?",
@@ -11,11 +15,7 @@
     "Khartoum drone strike kills five in Sudan, NGO reports",
     "Ukraine eyes Belarus border activities as Russian strikes persist",
     "Syria becomes alternative energy corridor for oil as Hormuz effectively blo",
-    "Israel’s expanding ‘orange line’ tightens deadly no-go zones in Gaza",
-    "Arsenal ease past Fulham to pull six points clear of Manchester City",
-    "Spain demands Israel release arrested Gaza flotilla crew member",
-    "Devastation of Southern Lebanon continues under ‘ceasefire’",
-    "Yemen reports hijacked oil tanker headed for Somalia"
+    "Israel’s expanding ‘orange line’ tightens deadly no-go zones in Gaza"
   ],
   "sections": [
     {
@@ -41,12 +41,6 @@
           "moved": "none"
         },
         {
-          "event": "Will BV Borussia 09 Dortmund win on 2026-05-03?",
-          "odds": "-104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "US x Cuba military clash in 2026?",
           "odds": "+122",
           "params": "Fuente: Polymarket",
@@ -55,6 +49,12 @@
         {
           "event": "Will Russia enter Shevchenko by May 31?",
           "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will North and South Korea engage in direct talks by June 30?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -77,14 +77,8 @@
           "moved": "none"
         },
         {
-          "event": "Will S&P 500 (SPX) hit $8,000 (HIGH) in June?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Fed rate hike in 2026?",
-          "odds": "+426",
+          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -111,6 +105,12 @@
           "odds": "+2225",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will S&P 500 (SPX) hit $8,200 (HIGH) in December?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -131,14 +131,14 @@
           "moved": "none"
         },
         {
-          "event": "Will John Thune be the next Senate Majority Leader?",
-          "odds": "+284",
+          "event": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
+          "odds": "+2280",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
-          "odds": "+2225",
+          "event": "Will John Thune be the next Senate Majority Leader?",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -167,26 +167,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Indian Premier League: Sunrisers Hyderabad vs Kolkata Knight Riders - Who wins the toss?",
-          "odds": "-104",
+          "event": "Will FC UTA Arad win on 2026-05-03?",
+          "odds": "+316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Exact Score: Columbus Crew 1 - 1 Minnesota United FC?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Busan be 22°C on May 4?",
-          "odds": "+257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Moscow be 20°C on May 3?",
-          "odds": "+177",
+          "event": "Will US Sassuolo Calcio vs. AC Milan end in a draw?",
+          "odds": "+316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -197,20 +185,32 @@
           "moved": "none"
         },
         {
-          "event": "Will ForecastEx self-certify sports event contracts by June 30, 2026?",
-          "odds": "+212",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Xi Jinping purge Wang Huning in 2026?",
           "odds": "+2225",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
+          "event": "Will the highest temperature in Guangzhou be 27°C on May 3?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will ForecastEx self-certify sports event contracts by June 30, 2026?",
+          "odds": "+212",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will OpenAI’s market cap be $1.5T or greater at market close on IPO day?",
           "odds": "+870",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will West Ham be relegated from the English Premier League after the 2025–26 season?",
+          "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
