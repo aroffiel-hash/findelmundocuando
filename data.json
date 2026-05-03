@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "03 de mayo de 2026 — 10:49 UTC",
+  "lastUpdated": "03 de mayo de 2026 — 11:37 UTC",
   "ticker": [
+    "Who is Cherie DeVaux, the first female trainer to win the Kentucky Derby?",
+    "What’s Iran’s 14-point proposal to end the war? And will Trump accept it?",
+    "Strait of Hormuz blockade and other major naval sieges in modern times",
+    "Hospitals in Lebanon overwhelmed with patients injured by Israeli attacks",
+    "After Maduro",
     "Ben-Gvir celebrates birthday with cake decorated with death penalty noose",
     "Ukraine drone attack hits Russian Baltic port, governor says",
     "Are Somali pirates on a comeback in 2026?",
@@ -10,12 +15,7 @@
     "Austrian police arrest man after discovery of rat poison in baby food",
     "Japan’s Inoue beats Nakatani to retain undisputed super bantamweight title",
     "South Korea holds pro-Palestine protest in solidarity with Gaza",
-    "Man charged with murder of five-year-old Australian Indigenous girl",
-    "Iran war: What’s happening on day 65 as Trump reviews new plan to end war?",
-    "China blocks US sanctions against five ‘teapot’ refineries",
-    "Taiwan leader visits Eswatini despite China’s attempts to block trip",
-    "Joel Embiid, 76ers knock out second-seeded Celtics in NBA Playoffs",
-    "In Yemen, Starlink internet brings opportunities – for some"
+    "Man charged with murder of five-year-old Australian Indigenous girl"
   ],
   "sections": [
     {
@@ -30,7 +30,13 @@
         },
         {
           "event": "Will Jared Kushner attend the next US x Iran diplomatic meeting?",
-          "odds": "-185",
+          "odds": "-177",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Borussia Mönchengladbach vs. BV Borussia 09 Dortmund: Both Teams to Score",
+          "odds": "-177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -41,26 +47,20 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Warsaw be 26°C on May 5?",
-          "odds": "+455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "US x Cuba military clash in 2026?",
           "odds": "+122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Russia enter Shevchenko by May 31?",
-          "odds": "+426",
+          "event": "Iran agrees to unrestricted shipping through Hormuz by May 31?",
+          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will North and South Korea engage in direct talks by June 30?",
-          "odds": "+900",
+          "event": "Will Russia enter Shevchenko by May 31?",
+          "odds": "+426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -95,12 +95,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Matthieu Pigasse be on the ballot for the 2027 French presidential election?",
-          "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "OPEC dissolves in 2026?",
           "odds": "+809",
           "params": "Fuente: Polymarket",
@@ -111,6 +105,12 @@
           "odds": "+122",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will the Fed’s lower bound reach 0.5% or lower before 2027?",
+          "odds": "+2225",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -118,6 +118,12 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
+        {
+          "event": "Will Jermaine Johnson win the 2026 South Carolina Governor Democratic primary election?",
+          "odds": "-244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Partido Novo (NOVO) win the most seats in the next Brazilian Senate election?",
           "odds": "+1415",
@@ -151,12 +157,6 @@
         {
           "event": "Will Mike Kennealy win the 2026 Massachusetts Governor Republican primary election?",
           "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Partido Social Democrático (PSD) win the most seats in the next Brazilian Senate election?",
-          "odds": "+1594",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -197,6 +197,12 @@
           "moved": "none"
         },
         {
+          "event": "Will SV 07 Elversberg win on 2026-05-03?",
+          "odds": "+127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Toronto Blue Jays vs. Minnesota Twins",
           "odds": "-104",
           "params": "Fuente: Polymarket",
@@ -205,12 +211,6 @@
         {
           "event": "Will Apple (AAPL) hit (HIGH) $296 in May?",
           "odds": "+149",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Xi Jinping purge Wang Huning in 2026?",
-          "odds": "+2225",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
