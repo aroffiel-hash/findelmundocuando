@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "03 de mayo de 2026 — 17:41 UTC",
+  "lastUpdated": "03 de mayo de 2026 — 18:50 UTC",
   "ticker": [
+    "Israeli forces kill Palestinian man in raid on Nablus in occupied West Ban",
+    "Investigators say Trump assassination suspect shot officer at press gala",
     "Floods and landslides kill at least 18 in Kenya",
     "Man United beat Liverpool 3-2 to secure Champions League qualification",
     "Bulk carrier attacked by multiple small craft off Iran, UKMTO says",
@@ -13,9 +15,7 @@
     "USA vs Paraguay among World Cup games with unsold, exorbitant tickets",
     "It does not make sense to invest more Arab resources in a US alliance",
     "Netanyahu boasts of Israel’s billion-dollar military investments",
-    "Was the Iran war the final blow in the collapse of Spirit Airlines?",
-    "OPEC+ announces symbolic oil output rise during Strait of Hormuz closure",
-    "Israel approves purchase of fighter jets from the US"
+    "Was the Iran war the final blow in the collapse of Spirit Airlines?"
   ],
   "sections": [
     {
@@ -23,20 +23,8 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Spread: Borussia Mönchengladbach (-1.5)",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Capitão Wagner win the 2026 Ceará gubernatorial election?",
           "odds": "+1251",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "US x Cuba military clash in 2026?",
-          "odds": "+122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -47,20 +35,32 @@
           "moved": "none"
         },
         {
-          "event": "Iran closes its airspace by May 31?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Pakistan Super League: Peshawar Zalmi vs Hyderabad Kingsmen",
-          "odds": "-809",
+          "event": "US x Cuba military clash in 2026?",
+          "odds": "+122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Russia capture Prymorske by December 31, 2026?",
           "odds": "+257",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "NATO x Russia military clash by December 31, 2026?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Russia enter Shevchenko by May 31?",
+          "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will US withdraw from NATO before 2027?",
+          "odds": "+963",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -84,7 +84,7 @@
         },
         {
           "event": "Fed rate hike in 2026?",
-          "odds": "+400",
+          "odds": "+376",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -119,12 +119,6 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will the Conservative Party win at least 400 council seat elections in the 2026 United Kingdom local elections?",
-          "odds": "-524",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Partido Novo (NOVO) win the most seats in the next Brazilian Senate election?",
           "odds": "+1415",
           "params": "Fuente: Polymarket",
@@ -145,6 +139,12 @@
         {
           "event": "Will John Thune be the next Senate Majority Leader?",
           "odds": "+284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jair Bolsonaro qualify for Brazil's presidential runoff?",
+          "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -173,20 +173,8 @@
           "moved": "none"
         },
         {
-          "event": "Map 1: Odd/Even Total Rounds?",
-          "odds": "-104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Giravanz Kitakyūshū vs. Roasso Kumamoto end in a draw?",
           "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Helsinki be 12°C on May 4?",
-          "odds": "+376",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -211,6 +199,18 @@
         {
           "event": "Will Roasso Kumamoto win on 2026-05-06?",
           "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Buenos Aires be 22°C on May 4?",
+          "odds": "+177",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will ForecastEx self-certify sports event contracts by June 30, 2026?",
+          "odds": "+212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
