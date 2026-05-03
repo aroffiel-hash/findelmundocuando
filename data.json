@@ -1,6 +1,7 @@
 {
-  "lastUpdated": "03 de mayo de 2026 — 22:34 UTC",
+  "lastUpdated": "03 de mayo de 2026 — 23:37 UTC",
   "ticker": [
+    "Thousands in India’s Manipur mark three years since ethnic clashes began",
     "Three dead in suspected hantavirus outbreak on Atlantic cruise ship",
     "French left-wing’s Melenchon says he will run for president in 2027",
     "Real Madrid stays alive in La Liga title race with victory at Espanyol",
@@ -14,8 +15,7 @@
     "Israel’s strategy of ‘permanent war’: A race against time?",
     "Israeli forces kill Palestinian man in raid on Nablus in occupied West Ban",
     "Investigators say Trump assassination suspect shot officer at press gala",
-    "Floods and landslides kill at least 18 in Kenya",
-    "Manchester United beat Liverpool to secure Champions League qualification"
+    "Floods and landslides kill at least 18 in Kenya"
   ],
   "sections": [
     {
@@ -41,12 +41,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Russia capture Prymorske by December 31, 2026?",
-          "odds": "+257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Justin Briner as Izuku Midoriya (My Hero Academia FINAL SEASON) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?",
           "odds": "+222",
           "params": "Fuente: Polymarket",
@@ -60,6 +54,12 @@
         },
         {
           "event": "NATO x Russia military clash by December 31, 2026?",
+          "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Russia enter Shevchenko by May 31?",
           "odds": "+426",
           "params": "Fuente: Polymarket",
           "moved": "none"
@@ -107,8 +107,8 @@
           "moved": "none"
         },
         {
-          "event": "Jerome Powell out as Fed Chair by May 15, 2026?",
-          "odds": "-156",
+          "event": "Will the Fed’s lower bound reach 1.25% or lower before 2027?",
+          "odds": "+675",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,20 +167,26 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Will OpenAI’s market cap be $1.5T or greater at market close on IPO day?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Giravanz Kitakyūshū vs. Roasso Kumamoto end in a draw?",
           "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Trump meet with Vladimir Putin in May 2026?",
-          "odds": "+3125",
+          "event": "Will Hamas agree to disarm by June 30?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will OpenAI’s market cap be $1.5T or greater at market close on IPO day?",
-          "odds": "+777",
+          "event": "Will Trump meet with Vladimir Putin in May 2026?",
+          "odds": "+3125",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -205,12 +211,6 @@
         {
           "event": "Palantir total customers above 1020 in Q1?",
           "odds": "+117",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will ForecastEx self-certify sports event contracts by June 30, 2026?",
-          "odds": "+212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
