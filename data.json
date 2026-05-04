@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "04 de mayo de 2026 — 08:32 UTC",
+  "lastUpdated": "04 de mayo de 2026 — 11:00 UTC",
   "ticker": [
+    "NATO chief says Europeans have ‘gotten the message’ from Trump on defence",
+    "‘I can’t feel my leg’: Israeli gunfire disables teenagers in West Bank",
+    "Iran war: What’s happening on day 66 as Trump announces Hormuz mission?",
+    "Japan PM: Hormuz closure ‘inflicting enormous impact’ on Asia Pacific",
+    "Iran warns US to stay out of Hormuz after Trump says US will ‘guide’ ships",
     "Crew of Iranian ship seized by US forces evacuated to Pakistan, gov’t says",
     "Former NYC Mayor Giuliani hospitalised in ‘critical condition’",
     "Japan PM says Iran war oil crisis having ‘enormous impact’ in Asia Pacific",
@@ -9,13 +14,8 @@
     "How to escape Russia’s army: Soldiers serving in Ukraine seek a way out",
     "Fireworks in Milan as Inter clinch Serie A title with a 2-0 win over Parma",
     "Detained Gaza aid flotilla activists arrive in Netherlands",
-    "Trump says US to begin escorting ships in Strait of Hormuz",
-    "Oil prices flat as Trump’s plan for Strait of Hormuz fails to calm market",
-    "Illegal ‘free party’ at French military site draws up to 40,000 ravers",
-    "Iran war live: Iranian military warns US of attacks over Hormuz mission",
-    "Thousands in India’s Manipur mark three years since ethnic clashes began",
-    "Three dead in suspected hantavirus outbreak on Atlantic cruise ship",
-    "French left-wing’s Melenchon says he will run for president in 2027"
+    "Trump says US to begin ‘guiding’ ships in Strait of Hormuz",
+    "Oil prices flat as Trump’s plan for Strait of Hormuz fails to calm market"
   ],
   "sections": [
     {
@@ -23,38 +23,38 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
+          "event": "Will USD reach 1.9M Iranian rials by May 31?",
+          "odds": "-2399",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will J.D. Vance have a diplomatic meeting with Iran by May 31?",
+          "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Capitão Wagner win the 2026 Ceará gubernatorial election?",
           "odds": "+1251",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Iran agrees to surrender enriched uranium stockpile by June 30, 2026?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "US x Cuba military clash in 2026?",
-          "odds": "+122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Russia capture all of Kostyantynivka by December 31, 2026?",
-          "odds": "+104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will US withdraw from NATO before 2027?",
-          "odds": "+1090",
+          "odds": "+132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "NATO x Russia military clash by December 31, 2026?",
           "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will US withdraw from NATO before 2027?",
+          "odds": "+1104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -89,26 +89,26 @@
           "moved": "none"
         },
         {
+          "event": "S&P 500 (SPY) closes above $730 on May 4?",
+          "odds": "+663",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the Fed’s lower bound reach 0.5% or lower before 2027?",
-          "odds": "+1983",
+          "odds": "+1624",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Fed rate cut by December 2026 meeting?",
-          "odds": "+122",
+          "odds": "+112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Manchester City FC vs. Brentford FC: O/U 1.5",
           "odds": "-524",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Natural Gas (NG) Up or Down on May 4?",
-          "odds": "-809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -143,6 +143,12 @@
           "moved": "none"
         },
         {
+          "event": "Will Paloma Valencia win the 2026 Colombian presidential election?",
+          "odds": "+269",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Nationalist Party win the most seats in the House of Representatives in the 2026 Maltese general election?",
           "odds": "+1940",
           "params": "Fuente: Polymarket",
@@ -151,12 +157,6 @@
         {
           "event": "Will Mike Kennealy win the 2026 Massachusetts Governor Republican primary election?",
           "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Partido Social Democrático (PSD) win the most seats in the next Brazilian Senate election?",
-          "odds": "+1594",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -173,26 +173,20 @@
           "moved": "none"
         },
         {
-          "event": "Will Forsen beat xQc's Minecraft speedrun record by May 31, 2026?",
-          "odds": "+316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Los Angeles Dodgers vs. Houston Astros",
           "odds": "-170",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "LoL: KT Rolster vs BNK FEARX - Game 2 Winner",
-          "odds": "-212",
+          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
+          "odds": "+3025",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
-          "odds": "+3025",
+          "event": "Will Ice Spice be on Vogue's Best-Dressed list?",
+          "odds": "+1349",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -205,6 +199,12 @@
         {
           "event": "Will ForecastEx self-certify sports event contracts by June 30, 2026?",
           "odds": "+212",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the lowest temperature in Seoul be 15°C on May 6?",
+          "odds": "+1983",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
