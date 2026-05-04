@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "04 de mayo de 2026 — 05:58 UTC",
+  "lastUpdated": "04 de mayo de 2026 — 08:32 UTC",
   "ticker": [
+    "Crew of Iranian ship seized by US forces evacuated to Pakistan, gov’t says",
+    "Former NYC Mayor Giuliani hospitalised in ‘critical condition’",
+    "Japan PM says Iran war oil crisis having ‘enormous impact’ in Asia Pacific",
+    "North Korean women’s club to play rare football match in the South",
+    "All-round hero Hardie helps Babar Azam’s Peshawar Zalmi win PSL 2026",
+    "How to escape Russia’s army: Soldiers serving in Ukraine seek a way out",
     "Fireworks in Milan as Inter clinch Serie A title with a 2-0 win over Parma",
     "Detained Gaza aid flotilla activists arrive in Netherlands",
     "Trump says US to begin escorting ships in Strait of Hormuz",
     "Oil prices flat as Trump’s plan for Strait of Hormuz fails to calm market",
     "Illegal ‘free party’ at French military site draws up to 40,000 ravers",
-    "Iran war live: Tehran warns Trump’s Hormuz mission will violate ceasefire",
+    "Iran war live: Iranian military warns US of attacks over Hormuz mission",
     "Thousands in India’s Manipur mark three years since ethnic clashes began",
     "Three dead in suspected hantavirus outbreak on Atlantic cruise ship",
-    "French left-wing’s Melenchon says he will run for president in 2027",
-    "Real Madrid stays alive in La Liga title race with victory at Espanyol",
-    "Iran lawmaker says Strait of Hormuz will not return to pre‑war state",
-    "Trump says US will ‘help free up’ ships stuck in Hormuz Strait",
-    "Is Mali’s military government losing control?",
-    "Kimi Antonelli wins Miami GP to extend F1 title lead",
-    "World Press Freedom Day marked in Gaza as journalist death toll rises"
+    "French left-wing’s Melenchon says he will run for president in 2027"
   ],
   "sections": [
     {
@@ -41,14 +41,14 @@
           "moved": "none"
         },
         {
-          "event": "Will US withdraw from NATO before 2027?",
-          "odds": "+998",
+          "event": "Will Russia capture all of Kostyantynivka by December 31, 2026?",
+          "odds": "+104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Justin Briner as Izuku Midoriya (My Hero Academia FINAL SEASON) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?",
-          "odds": "+222",
+          "event": "Will US withdraw from NATO before 2027?",
+          "odds": "+1090",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -59,8 +59,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Russia enter Shevchenko by May 31?",
-          "odds": "+426",
+          "event": "Will Justin Briner as Izuku Midoriya (My Hero Academia FINAL SEASON) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?",
+          "odds": "+222",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -70,12 +70,6 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
-        {
-          "event": "Will gas hit (High) $5.00 by May 31?",
-          "odds": "+300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will US crude oil reserves fall to 325M by June 5?",
           "odds": "+257",
@@ -95,20 +89,26 @@
           "moved": "none"
         },
         {
-          "event": "OPEC dissolves in 2026?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the Fed’s lower bound reach 0.5% or lower before 2027?",
-          "odds": "+2339",
+          "odds": "+1983",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Fed rate cut by December 2026 meeting?",
           "odds": "+122",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Manchester City FC vs. Brentford FC: O/U 1.5",
+          "odds": "-524",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Natural Gas (NG) Up or Down on May 4?",
+          "odds": "-809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -118,12 +118,6 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
-        {
-          "event": "Will both candidates advancing to the general election for Governor of California from the June 2, 2026 primary be affiliated with the Republican Party?",
-          "odds": "+2464",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Partido Novo (NOVO) win the most seats in the next Brazilian Senate election?",
           "odds": "+1415",
@@ -143,12 +137,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Trump’s approval rating be between 39.0 and 39.4 on May 8, 2026?",
-          "odds": "+194",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Mark Lynch be the Republican nominee for Senate in South Carolina?",
           "odds": "+843",
           "params": "Fuente: Polymarket",
@@ -159,6 +147,18 @@
           "odds": "+1940",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Mike Kennealy win the 2026 Massachusetts Governor Republican primary election?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Partido Social Democrático (PSD) win the most seats in the next Brazilian Senate election?",
+          "odds": "+1594",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -167,26 +167,26 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Hamas agree to disarm by June 30?",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will OpenAI’s market cap be $1.5T or greater at market close on IPO day?",
           "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Trump meet with Vladimir Putin in May 2026?",
-          "odds": "+3125",
+          "event": "Will Forsen beat xQc's Minecraft speedrun record by May 31, 2026?",
+          "odds": "+316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Trump meet with Keir Starmer in May 2026?",
-          "odds": "+1899",
+          "event": "Los Angeles Dodgers vs. Houston Astros",
+          "odds": "-170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "LoL: KT Rolster vs BNK FEARX - Game 2 Winner",
+          "odds": "-212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -203,14 +203,14 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Jeddah be 38°C on May 4?",
-          "odds": "+334",
+          "event": "Will ForecastEx self-certify sports event contracts by June 30, 2026?",
+          "odds": "+212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will ForecastEx self-certify sports event contracts by June 30, 2026?",
-          "odds": "+212",
+          "event": "Will Oliver Adams Larkin be the Democratic Nominee for FL-23?",
+          "odds": "+127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
