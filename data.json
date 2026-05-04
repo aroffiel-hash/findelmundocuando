@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "04 de mayo de 2026 — 19:20 UTC",
+  "lastUpdated": "04 de mayo de 2026 — 21:02 UTC",
   "ticker": [
+    "Video: Modi’s BJP poised to take control in India’s West Bengal",
+    "Russia and Ukraine declare competing ceasefires",
+    "Police clash with protesters after ICE arrest in New York",
+    "Moscow rehearses V-Day parade marking WWII victory",
+    "Mali leader Goita takes defence post after minister killed",
     "Gangland wars killing dozens of bystanders, report Swedish police",
     "Iran-US clash over alleged warship attack in Strait of Hormuz",
     "Zambia delaying US deals over minerals and data demands",
@@ -10,12 +15,7 @@
     "US Supreme Court temporarily lifts ban on abortion pill mail delivery",
     "Nepal lodges protest against India over long-running border dispute",
     "Captain warns ‘no ship will be a hero’ by risking Hormuz transit",
-    "Would you bet on the next disaster? The rise of prediction markets",
-    "GameStop targets eBay with unsolicited $56bn acquisition offer",
-    "Lebanon Latest",
-    "US releases Touska container ship crew: Why it matters",
-    "US official says China is ‘funding’ Iran, urges Beijing to help open Hormuz",
-    "UAE reports missile and drone strikes incoming from Iran"
+    "Would you bet on the next disaster? The rise of prediction markets"
   ],
   "sections": [
     {
@@ -35,6 +35,12 @@
           "moved": "none"
         },
         {
+          "event": "Will Donald Trump visit China on May 13, 2026?",
+          "odds": "-122",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Capitão Wagner win the 2026 Ceará gubernatorial election?",
           "odds": "+1251",
           "params": "Fuente: Polymarket",
@@ -43,12 +49,6 @@
         {
           "event": "US x Cuba military clash in 2026?",
           "odds": "+122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Donald Trump visit China on May 13, 2026?",
-          "odds": "-122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -71,6 +71,12 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
+          "event": "Fed rate cut by December 2026 meeting?",
+          "odds": "+177",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will US crude oil reserves fall to 325M by June 5?",
           "odds": "+257",
           "params": "Fuente: Polymarket",
@@ -89,8 +95,8 @@
           "moved": "none"
         },
         {
-          "event": "Fed rate cut by December 2026 meeting?",
-          "odds": "+177",
+          "event": "Will gas hit (Low) $4.25 by May 31?",
+          "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -105,12 +111,6 @@
           "odds": "+1685",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will OPEC crude oil production be above 20 million barrels per day in May?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -119,6 +119,12 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
+          "event": "Will voter turnout be between 90% and 95% in the 2026 Maltese general election?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Iván Cepeda Castro win the first round of the 2026 Colombian presidential election by 20%+?",
           "odds": "+669",
           "params": "Fuente: Polymarket",
@@ -126,7 +132,7 @@
         },
         {
           "event": "Will Paloma Valencia win the 2026 Colombian presidential election?",
-          "odds": "+269",
+          "odds": "+267",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -153,12 +159,6 @@
           "odds": "+941",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will Mike Kennealy win the 2026 Massachusetts Governor Republican primary election?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -169,12 +169,6 @@
         {
           "event": "Will ForecastEx self-certify sports event contracts by June 30, 2026?",
           "odds": "+257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Beijing be 26°C on May 6?",
-          "odds": "+354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -197,20 +191,26 @@
           "moved": "none"
         },
         {
-          "event": "Will White House post 140-159 posts from May 1 to May 8, 2026?",
-          "odds": "+127",
+          "event": "Will ES Troyes AC win on 2026-05-09?",
+          "odds": "-122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "LoL: Team WE vs Invictus Gaming (BO3) - LPL Group Ascend",
-          "odds": "+488",
+          "event": "Will Hong Kong have between 220-230mm of precipitation in May?",
+          "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will IONQ (IONQ) beat quarterly earnings?",
-          "odds": "-762",
+          "event": "Will Ron DeSantis join the Trump administration by June 30?",
+          "odds": "+354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will FC Universitario win on 2026-05-04?",
+          "odds": "-108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
