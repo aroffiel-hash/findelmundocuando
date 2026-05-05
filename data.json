@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "05 de mayo de 2026 — 10:28 UTC",
+  "lastUpdated": "05 de mayo de 2026 — 11:55 UTC",
   "ticker": [
+    "What Modi’s big win in Indian state elections could mean for its democracy",
+    "Can central banks curb inflation as energy costs rise?",
+    "Bayern Munich vs PSG: Champions League – preview, team news, start, lineups",
+    "Tuareg rebels hold dozens of soldiers in Mali as prisoners",
+    "‘Starmer’s referendum’: How local elections could expose a fractured UK",
+    "Two hantavirus cases confirmed, five more suspected on stranded cruise ship",
+    "Taiwan player victim of ‘inappropriate contact’ at UK table tennis event",
     "US Secret Service shoots gunman near White House",
     "Macron sings as Armenia’s leader drums in unusual moment at state dinner",
     "Russian air attacks kill five at Ukraine’s Naftogaz gas facilities",
@@ -8,14 +15,7 @@
     "NBA semifinal series: Timberwolves stun Spurs in Game 1; Knicks beat 76ers",
     "What Iran is saying about attack on UAE",
     "Afghanistan accuses Pakistan of killing three civilians in ‘war crime’",
-    "What to know ahead of the Ohio primary election",
-    "As summer approaches, skin diseases spread through Gaza’s refugee camps",
-    "In Mauritania, push to phase out private schools divides opinion",
-    "Palestine weekly wrap: Israeli security agencies sound alarm on settlers",
-    "No FIFA World Cup 2026 broadcast deals signed in India, China",
-    "Nine workers killed in Colombia coal mine explosion",
-    "Thiago Ávila’s letter from Israeli prison to his daughter",
-    "Explosion at fireworks factory in China kills 26, injures 61"
+    "What to know ahead of the Ohio primary election"
   ],
   "sections": [
     {
@@ -31,12 +31,6 @@
         {
           "event": "Will Bryan Woo win the 2026 AL Cy Young Award?",
           "odds": "+1269",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "US x Russia military clash by December 31, 2026?",
-          "odds": "+1349",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -63,6 +57,12 @@
           "odds": "+580",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will the Communist Party of the Russian Federation (KPRF) win the third-most seats in the next Russian parliamentary election?",
+          "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -71,6 +71,24 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
+          "event": "Bondar vs. Zheng: Match O/U 23.5",
+          "odds": "+122",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Bondar vs. Zheng: Match O/U 22.5",
+          "odds": "+104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Internazionali BNL d'Italia, Qualification: Dino Prizmic vs Federico Bondioli",
+          "odds": "-900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will S&P 500 (SPY) hit (HIGH) $780 in May?",
           "odds": "+1685",
           "params": "Fuente: Polymarket",
@@ -78,7 +96,7 @@
         },
         {
           "event": "Fed rate hike in 2026?",
-          "odds": "+316",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -93,24 +111,6 @@
           "odds": "-104",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will the Fed’s lower bound reach 0.5% or lower before 2027?",
-          "odds": "+1940",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will S&P 500 (SPX) hit $7,700 (HIGH) in June?",
-          "odds": "+963",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will S&P 500 (SPY) hit (HIGH) $770 in May?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -121,12 +121,6 @@
         {
           "event": "Will Partido Social Democrático (PSD) win the most seats in the next Brazilian Senate election?",
           "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Starmer say \"Scotland\" during the next Prime Minister's Questions event?",
-          "odds": "+122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -159,6 +153,12 @@
           "odds": "+104",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Abelardo de la Espriella  win the 2026 Colombian presidential election?",
+          "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -185,14 +185,14 @@
           "moved": "none"
         },
         {
-          "event": "Fetterman leaves the Democrats by June 30?",
-          "odds": "+900",
+          "event": "Will Elon Musk post <40 tweets from May 4 to May 6, 2026?",
+          "odds": "+270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Ron DeSantis join the Trump administration by June 30?",
-          "odds": "+354",
+          "event": "Fetterman leaves the Democrats by June 30?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -203,14 +203,14 @@
           "moved": "none"
         },
         {
-          "event": "Over $4B crypto hack value in 2026?",
-          "odds": "+2400",
+          "event": "Will Chelsea FC win on 2026-05-16?",
+          "odds": "+316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Opendoor (OPEN) beat quarterly earnings?",
-          "odds": "+170",
+          "event": "Over $4B crypto hack value in 2026?",
+          "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
