@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "05 de mayo de 2026 — 08:00 UTC",
+  "lastUpdated": "05 de mayo de 2026 — 10:28 UTC",
   "ticker": [
+    "US Secret Service shoots gunman near White House",
+    "Macron sings as Armenia’s leader drums in unusual moment at state dinner",
+    "Russian air attacks kill five at Ukraine’s Naftogaz gas facilities",
+    "Taiwan has ‘right to engage with the world’ after Eswatini visit",
+    "NBA semifinal series: Timberwolves stun Spurs in Game 1; Knicks beat 76ers",
+    "What Iran is saying about attack on UAE",
+    "Afghanistan accuses Pakistan of killing three civilians in ‘war crime’",
+    "What to know ahead of the Ohio primary election",
+    "As summer approaches, skin diseases spread through Gaza’s refugee camps",
+    "In Mauritania, push to phase out private schools divides opinion",
     "Palestine weekly wrap: Israeli security agencies sound alarm on settlers",
     "No FIFA World Cup 2026 broadcast deals signed in India, China",
     "Nine workers killed in Colombia coal mine explosion",
     "Thiago Ávila’s letter from Israeli prison to his daughter",
-    "Explosion at fireworks factory in China kills 26, injures 61",
-    "‘What comes next?’: Fear grips Pakistani families of Somali piracy victims",
-    "Iran war: What’s happening on day 67 as Hormuz crisis deepens?",
-    "FIFA bans former Guyana official Alves for 5 years over sexual harassment",
-    "Iran says US military killed five civilians in attacks on passenger boats",
-    "Man City have lost control of the Premier League title race: Guardiola",
-    "A small plane crashes into building in Brazil, killing three",
-    "States should tax windfall oil profits to fund their way out of crisis",
-    "An explosion at a fireworks plant in China has killed at least 21 people",
-    "‘Dangerous escalation’: World condemns Iran after attacks on UAE",
-    "Oil prices surge as violence flares in Strait of Hormuz"
+    "Explosion at fireworks factory in China kills 26, injures 61"
   ],
   "sections": [
     {
@@ -35,6 +35,12 @@
           "moved": "none"
         },
         {
+          "event": "US x Russia military clash by December 31, 2026?",
+          "odds": "+1349",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "US x Cuba military clash in 2026?",
           "odds": "+132",
           "params": "Fuente: Polymarket",
@@ -47,20 +53,14 @@
           "moved": "none"
         },
         {
+          "event": "Will Cam Schlittler win the 2026 AL Cy Young Award?",
+          "odds": "+230",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Jose Soriano win the 2026 AL Cy Young Award?",
           "odds": "+580",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Communist Party of the Russian Federation (KPRF) win the third-most seats in the next Russian parliamentary election?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will US withdraw from NATO before 2027?",
-          "odds": "+1049",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -77,20 +77,14 @@
           "moved": "none"
         },
         {
+          "event": "Fed rate hike in 2026?",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will US crude oil reserves fall to 325M by June 5?",
           "odds": "+257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will S&P 500 (SPX) hit $8,200 (HIGH) in December?",
-          "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Fed rate hike in 2026?",
-          "odds": "+334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -103,6 +97,12 @@
         {
           "event": "Will the Fed’s lower bound reach 0.5% or lower before 2027?",
           "odds": "+1940",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will S&P 500 (SPX) hit $7,700 (HIGH) in June?",
+          "odds": "+963",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -137,12 +137,6 @@
           "moved": "none"
         },
         {
-          "event": "Will John Thune be the next Senate Majority Leader?",
-          "odds": "+284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Mark Lynch be the Republican nominee for Senate in South Carolina?",
           "odds": "+941",
           "params": "Fuente: Polymarket",
@@ -155,8 +149,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Alex Borg be the next Prime Minister of Malta following the 2026 Maltese general election?",
-          "odds": "+1624",
+          "event": "Will Mike Kennealy win the 2026 Massachusetts Governor Republican primary election?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Bert Mizusawa be the Republican nominee for Senate in Virginia?",
+          "odds": "+104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -166,12 +166,6 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
-        {
-          "event": "Will the highest temperature in Tokyo be 23°C on May 6?",
-          "odds": "+817",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Xi Jinping purge Wang Huning in 2026?",
           "odds": "+2841",
@@ -191,12 +185,6 @@
           "moved": "none"
         },
         {
-          "event": "Will ES Troyes AC win on 2026-05-09?",
-          "odds": "-122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Fetterman leaves the Democrats by June 30?",
           "odds": "+900",
           "params": "Fuente: Polymarket",
@@ -209,8 +197,20 @@
           "moved": "none"
         },
         {
-          "event": "Internazionali BNL d'Italia, Qualification: Gabriela Ruse vs Sinja Kraus",
-          "odds": "-185",
+          "event": "Will West Ham be relegated from the English Premier League after the 2025–26 season?",
+          "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Over $4B crypto hack value in 2026?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Opendoor (OPEN) beat quarterly earnings?",
+          "odds": "+170",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
