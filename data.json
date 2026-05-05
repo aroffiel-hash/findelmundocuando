@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "05 de mayo de 2026 — 02:11 UTC",
+  "lastUpdated": "05 de mayo de 2026 — 05:36 UTC",
   "ticker": [
+    "A small plane crashes into building in Brazil, killing three",
+    "States should tax windfall oil profits to fund their way out of crisis",
+    "An explosion at a fireworks plant in China has killed at least 21 people",
+    "‘Dangerous escalation’: World condemns Iran after attacks on UAE",
+    "Oil prices surge as violence flares in Strait of Hormuz",
+    "Strong security presence in Mexico’s Sinaloa state amid cartel violence",
     "Israeli strike sparks fire in northern Gaza City",
     "Alabama lawmakers adjourn after protests over redistricting",
     "Newborn born in Nablus a day after his father was killed in Israeli raid",
@@ -9,13 +15,7 @@
     "For Christians in Israel and Jerusalem, intolerance is becoming normal",
     "Brazil’s Lula to travel to US to meet with Trump later this week",
     "Hormuz tensions push ceasefire to the brink as Trump threatens Iran",
-    "Is Israel’s interception of the Global Sumud Flotilla legal?",
-    "Video: Modi’s BJP poised to take control in India’s West Bengal",
-    "Russia and Ukraine declare competing ceasefires",
-    "Police clash with protesters after ICE arrest in New York",
-    "Moscow rehearses V-Day parade marking WWII victory",
-    "Mali leader Goita takes defence post after minister killed",
-    "Gangland wars killing dozens of bystanders, report Swedish police"
+    "Is Israel’s interception of the Global Sumud Flotilla legal?"
   ],
   "sections": [
     {
@@ -31,12 +31,6 @@
         {
           "event": "Will Bryan Woo win the 2026 AL Cy Young Award?",
           "odds": "+1269",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump visit China by May 15?",
-          "odds": "-524",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -61,6 +55,12 @@
         {
           "event": "Will the Communist Party of the Russian Federation (KPRF) win the third-most seats in the next Russian parliamentary election?",
           "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will US withdraw from NATO before 2027?",
+          "odds": "+1049",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -95,12 +95,6 @@
           "moved": "none"
         },
         {
-          "event": "Will gas hit (Low) $4.25 by May 31?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will S&P 500 (SPY) hit (HIGH) $780 in May?",
           "odds": "+1685",
           "params": "Fuente: Polymarket",
@@ -108,7 +102,13 @@
         },
         {
           "event": "Will the Fed’s lower bound reach 0.5% or lower before 2027?",
-          "odds": "+1119",
+          "odds": "+1940",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Manchester City FC vs. Brentford FC: O/U 1.5",
+          "odds": "-524",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -118,12 +118,6 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
-        {
-          "event": "Will David Farley win the by-election for the seat of Farrer in the Australian House of Representatives?",
-          "odds": "-566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Partido Social Democrático (PSD) win the most seats in the next Brazilian Senate election?",
           "odds": "+2400",
@@ -159,6 +153,12 @@
           "odds": "+1624",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Mike Kennealy win the 2026 Massachusetts Governor Republican primary election?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -167,26 +167,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will NVIDIA (NVDA) hit (HIGH) $208 Week of May 4 2026?",
-          "odds": "+354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Xi Jinping purge Wang Huning in 2026?",
           "odds": "+2841",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Denver be between 36-37°F on May 6?",
-          "odds": "+257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
-          "odds": "+3025",
+          "odds": "+1860",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -203,14 +191,26 @@
           "moved": "none"
         },
         {
+          "event": "Fetterman leaves the Democrats by June 30?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Ron DeSantis join the Trump administration by June 30?",
           "odds": "+354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Istanbul: Katherine Sebov vs Berfu Cengiz",
-          "odds": "+104",
+          "event": "Will West Ham be relegated from the English Premier League after the 2025–26 season?",
+          "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Opendoor (OPEN) beat quarterly earnings?",
+          "odds": "+170",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
