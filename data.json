@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "06 de mayo de 2026 — 02:12 UTC",
+  "lastUpdated": "06 de mayo de 2026 — 05:51 UTC",
   "ticker": [
+    "Iran’s Araghchi holds talks with China’s Wang Yi in Beijing",
+    "Romania’s pro-EU government ousted after no-confidence vote",
+    "US pauses plan to guide ships through the Strait of Hormuz",
+    "Spain agrees to let hantavirus-hit cruise ship dock in Canary Islands",
+    "Protesters rally in Louisiana and Tennessee against redistricting",
     "Iran war live: Trump says Hormuz operation paused amid US, Tehran talks",
     "Thai temples launch rockets in friendly festival rivalry",
     "Buses block off roads in Bolivia as transport workers strike over fuel",
@@ -10,12 +15,7 @@
     "Before Vatican trip, Rubio defends Trump remarks on Pope Leo over Iran",
     "Israel kills one boy, injures officers in strike on Gaza police station",
     "US Army says ‘Project Freedom’ in blockaded Hormuz has ‘just begun’",
-    "Could OPEC break lead to era of energy volatility?",
-    "Mauritania’s plan to close private schools sparks backlash",
-    "US plans to hike tariffs on EU cars to 25% will hit luxury market the most",
-    "Miscalculation over Strait of Hormuz could ‘bring an all-out war’",
-    "Sudan recalls Ethiopia ambassador after strikes on Khartoum",
-    "Video: Trump says Iran should ‘wave the white flag’"
+    "Could OPEC break lead to era of energy volatility?"
   ],
   "sections": [
     {
@@ -31,12 +31,6 @@
         {
           "event": "US x Cuba military clash in 2026?",
           "odds": "+132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Capitão Wagner win the 2026 Ceará gubernatorial election?",
-          "odds": "+1251",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -63,6 +57,12 @@
           "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will North and South Korea engage in direct talks by June 30?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -72,13 +72,7 @@
       "rows": [
         {
           "event": "Fed rate hike in 2026?",
-          "odds": "+300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will S&P 500 (SPY) hit (HIGH) $780 in May?",
-          "odds": "+1685",
+          "odds": "+376",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -107,14 +101,14 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Mark Lynch be the Republican nominee for Senate in South Carolina?",
-          "odds": "+629",
+          "event": "Will Abelardo de la Espriella  win the 2026 Colombian presidential election?",
+          "odds": "+177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Abelardo de la Espriella  win the 2026 Colombian presidential election?",
-          "odds": "+185",
+          "event": "Will Oh Se-hoon win the 2026 Seoul Mayoral Election",
+          "odds": "+809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -125,8 +119,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Oh Se-hoon win the 2026 Seoul Mayoral Election",
-          "odds": "+1150",
+          "event": "Will Ozzy Lusth be voted off Survivor Season 50 this week?",
+          "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -155,8 +149,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the highest temperature in Los Angeles be between 66-67°F on May 6?",
-          "odds": "+233",
+          "event": "Will Tokushima Vortis win on 2026-05-06?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Xi Jinping purge Wang Huning in 2026?",
+          "odds": "+314",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -167,37 +167,31 @@
           "moved": "none"
         },
         {
-          "event": "Will Xi Jinping purge Wang Huning in 2026?",
-          "odds": "+2841",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Denver be between 42-43°F on May 6?",
-          "odds": "+1685",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will TKO Group (TKO) beat quarterly earnings?",
-          "odds": "-400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Valorant: Eternal Fire vs Team Heretics (BO3) - VCT EMEA Playoffs",
-          "odds": "+149",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
           "odds": "+1023",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Buenos Aires be 24°C on May 6?",
+          "event": "Will Switzerland be in the top 10 at Eurovision 2026?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will VfL Bochum win on 2026-05-09?",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "LoL: Hanwha Life Esports vs DN SOOPers (BO3) - LCK Rounds 1-2",
+          "odds": "-1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will AC Milan win on 2026-05-10?",
           "odds": "+117",
           "params": "Fuente: Polymarket",
           "moved": "none"
