@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "07 de mayo de 2026 — 21:50 UTC",
+  "lastUpdated": "07 de mayo de 2026 — 22:55 UTC",
   "ticker": [
+    "Videos show interceptions over the skies of Tehran",
+    "Real Madrid’s Valverde hospitalised with head injury after Tchouameni fight",
     "US trade court rules against Trump’s 10 percent global tariffs",
     "Tenerife resort town awaits hantavirus-hit cruise ship",
     "Tennessee approves new congressional map in latest redistricting flurry",
@@ -13,9 +15,7 @@
     "Palestinian boy mourns father killed in Israeli strike on security post",
     "US issues new Cuba sanctions as UN experts warn of ‘energy starvation’",
     "‘This is my last voice note’: how piracy returned to Somalia and Yemen",
-    "Gulf states urge UN action to ensure Strait of Hormuz safety",
-    "Can China help end the Iran war?",
-    "Inside the Israeli bloc that could topple Netanyahu"
+    "Gulf states urge UN action to ensure Strait of Hormuz safety"
   ],
   "sections": [
     {
@@ -24,7 +24,7 @@
       "rows": [
         {
           "event": "US obtains Iranian enriched uranium by May 31?",
-          "odds": "+1150",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -36,7 +36,7 @@
         },
         {
           "event": "Will Russia enter Vasylivka by May 31, 2026?",
-          "odds": "-122",
+          "odds": "-104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -71,20 +71,20 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
+          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $120 in May?",
+          "odds": "+354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Fed rate hike in 2026?",
-          "odds": "+400",
+          "odds": "+426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Trump say \"Tariff\" during events with Xi Jinping?",
           "odds": "-284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $120 in May?",
-          "odds": "+316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -97,6 +97,12 @@
         {
           "event": "Will the Fed’s lower bound reach 0.5% or lower before 2027?",
           "odds": "+1940",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $130 in May?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -143,14 +149,14 @@
           "moved": "none"
         },
         {
-          "event": "Will New Slovenia – Christian Democrats (NSi) be part of the next Government of Slovenia?",
-          "odds": "-809",
+          "event": "Will Kim Doo-kyum win the 2026 Ulsan mayoral election?",
+          "odds": "+194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Partido Socialista Obrero Español de Andalucía (PSOE-A) win 27-29 seats in the 2026 Andalusia Regional Election?",
-          "odds": "+212",
+          "event": "Will New Slovenia – Christian Democrats (NSi) be part of the next Government of Slovenia?",
+          "odds": "-809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,20 +173,8 @@
           "moved": "none"
         },
         {
-          "event": "Hyperliquid Up or Down - May 7, 5:45PM-6:00PM ET",
-          "odds": "+112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Meta Platforms, Inc. (META) hit (LOW) $540 in May?",
           "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Predict.fun launch a token by September 30, 2026?",
-          "odds": "-117",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -191,20 +185,32 @@
           "moved": "none"
         },
         {
+          "event": "Thunder vs. Lakers",
+          "odds": "-316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the Democratic Party win the IL-09 House seat?",
           "odds": "-1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the lowest temperature in Hong Kong be 23°C on May 8?",
-          "odds": "+426",
+          "event": "Indian Premier League: Rajasthan Royals vs Gujarat Titans",
+          "odds": "-117",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will CD Guadalajara win on 2026-05-09?",
           "odds": "+117",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Western Force win?",
+          "odds": "+100",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
