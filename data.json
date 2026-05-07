@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "07 de mayo de 2026 — 20:09 UTC",
+  "lastUpdated": "07 de mayo de 2026 — 21:50 UTC",
   "ticker": [
+    "US trade court rules against Trump’s 10 percent global tariffs",
+    "Tenerife resort town awaits hantavirus-hit cruise ship",
+    "Tennessee approves new congressional map in latest redistricting flurry",
+    "Iran says it attacked US Navy ships after they targeted Iranian tanker",
+    "Trump sets July 4 deadline for EU tariff hike decision",
+    "Senators press US military on Israel’s displacement campaign in Lebanon",
+    "Armed fighters kill at least 30 people in attacks in central Mali",
+    "Palestinians expose torture and sexual violence in Israeli detention",
+    "Kenyan villagers sue BP over pollution from 1980s oil exploration",
+    "Palestinian boy mourns father killed in Israeli strike on security post",
+    "US issues new Cuba sanctions as UN experts warn of ‘energy starvation’",
     "‘This is my last voice note’: how piracy returned to Somalia and Yemen",
     "Gulf states urge UN action to ensure Strait of Hormuz safety",
     "Can China help end the Iran war?",
-    "Inside the Israeli bloc that could topple Netanyahu",
-    "ISIL-linked Australian women arrested at airports",
-    "Israel’s attacks and pressure sowing seeds for division in tense Lebanon",
-    "Brazil’s Lula meets Trump amid efforts to avert new US trade tariffs",
-    "Man pleads guilty to Colorado firebombing, groups call for family reprieve",
-    "US sanctions Iraqi minister accused of aiding Iran oil sales",
-    "Protests in Bolivia escalate amid economic turmoil and policy demands",
-    "EU closely monitoring hantavirus outbreak on cruise ship",
-    "Superbike rider killed in crash during qualifying in Northern Ireland",
-    "Why has the US sanctioned Iraq’s deputy oil minister for helping Iran?",
-    "Trump calls for ‘incitement’ charges against top Democrat Hakeem Jeffries",
-    "WHO confirms five cases of hantavirus linked to cruise ship"
+    "Inside the Israeli bloc that could topple Netanyahu"
   ],
   "sections": [
     {
@@ -23,14 +23,14 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "BV Borussia 09 Dortmund vs. Eintracht Frankfurt: O/U 3.5",
-          "odds": "-104",
+          "event": "US obtains Iranian enriched uranium by May 31?",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Israel strike on Yemen by May 31, 2026?",
-          "odds": "+809",
+          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -59,8 +59,8 @@
           "moved": "none"
         },
         {
-          "event": "US obtains Iranian enriched uranium by May 31?",
-          "odds": "+1566",
+          "event": "Will Trump post \"Ceasefire\" or \"Cease-fire\" or \"Cease fire\" on Truth Social this week?",
+          "odds": "-376",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -72,7 +72,7 @@
       "rows": [
         {
           "event": "Fed rate hike in 2026?",
-          "odds": "+354",
+          "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -83,14 +83,8 @@
           "moved": "none"
         },
         {
-          "event": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-          "odds": "-614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the US federal government take a stake in OpenAI?",
-          "odds": "+900",
+          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $120 in May?",
+          "odds": "+316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -101,14 +95,14 @@
           "moved": "none"
         },
         {
-          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $120 in May?",
-          "odds": "+400",
+          "event": "Will the Fed’s lower bound reach 0.5% or lower before 2027?",
+          "odds": "+1940",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the Fed’s lower bound reach 0.5% or lower before 2027?",
-          "odds": "+1940",
+          "event": "Will UK GDP growth in Q1 2026 be between 0.9% and 1.2%?",
+          "odds": "+323",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -119,12 +113,6 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will David Bronson win the 2026 Alaska governor election?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
           "odds": "+1940",
           "params": "Fuente: Polymarket",
@@ -132,7 +120,7 @@
         },
         {
           "event": "Will the Republicans win the 2028 US Presidential Election?",
-          "odds": "+163",
+          "odds": "+156",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -159,6 +147,12 @@
           "odds": "-809",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Partido Socialista Obrero Español de Andalucía (PSOE-A) win 27-29 seats in the 2026 Andalusia Regional Election?",
+          "odds": "+212",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -167,20 +161,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Bab el-Mandeb Strait effectively closed by September 30?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Zelenskyy post 80-99 posts from May 5 to May 12, 2026?",
           "odds": "+194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Cameron Young win the 2026 Truist Championship?",
-          "odds": "+809",
+          "event": "Hyperliquid Up or Down - May 7, 5:45PM-6:00PM ET",
+          "odds": "+112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -191,26 +179,32 @@
           "moved": "none"
         },
         {
+          "event": "Will Predict.fun launch a token by September 30, 2026?",
+          "odds": "-117",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
           "odds": "+1594",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Taipei be 28°C on May 8?",
-          "odds": "+257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Elon Musk post 100-119 tweets from May 5 to May 12, 2026?",
-          "odds": "+2757",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the Democratic Party win the IL-09 House seat?",
           "odds": "-1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the lowest temperature in Hong Kong be 23°C on May 8?",
+          "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will CD Guadalajara win on 2026-05-09?",
+          "odds": "+117",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
