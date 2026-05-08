@@ -1,27 +1,33 @@
 {
-  "lastUpdated": "08 de mayo de 2026 — 05:25 UTC",
+  "lastUpdated": "08 de mayo de 2026 — 07:20 UTC",
   "ticker": [
+    "Migration is getting riskier even as progress is made",
+    "Iran war day 70: US, Iran trade fire in Hormuz amid ceasefire tensions",
+    "Thunder pull away from Lakers in NBA playoffs, while Pistons down Cavs",
+    "‘A calamity’: Why is a record heatwave sweeping South Asia?",
+    "Ex-prisoners recount abuse in Israeli detention centres",
     "Trump says ceasefire still in effect, but Iran ‘better sign agreement fast’",
     "Oil prices jump as US, Iran trade fire in Strait of Hormuz",
     "The Palestinian shot dead hours before his son was born",
     "Tennessee approves map dismantling majority-Black district",
     "Seafarers trapped in limbo as US and Iran clash in Strait of Hormuz",
-    "Iran war live: Trump says ceasefire still ‘in effect’ as Iran, US clash",
+    "Iran war live: UAE says intercepted attacks after Iran, US trade blows",
     "Are global alliances fracturing?",
     "Huge fire at Mexican fair kills five people",
     "Barcelona vs Real Madrid: El Clasico – La Liga, history, Valverde, Mbappe",
-    "Videos show interceptions over the skies of Tehran",
-    "Real Madrid’s Valverde hospitalised with head injury after Tchouameni fight",
-    "US trade court rules against Trump’s 10 percent global tariffs",
-    "Tenerife resort town awaits hantavirus-hit cruise ship",
-    "Tennessee approves new congressional map in latest redistricting flurry",
-    "Iran says it attacked US Navy ships after they targeted Iranian tanker"
+    "Videos show interceptions over the skies of Tehran"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Will Russia capture Rai-Oleksandrivka by June 30?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Israel strike on Yemen by May 31, 2026?",
           "odds": "+488",
@@ -31,12 +37,6 @@
         {
           "event": "Will Russia enter Vasylivka by May 31, 2026?",
           "odds": "-104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Rainbow Six Siege: ENTERPRISE Esports vs EDward Gaming (BO1) - BLAST R6 Major Salt Lake City Play-In",
-          "odds": "-244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -83,14 +83,14 @@
           "moved": "none"
         },
         {
-          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $140 in May?",
-          "odds": "+2073",
+          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $130 in May?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $130 in May?",
-          "odds": "+809",
+          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $140 in May?",
+          "odds": "+2172",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -155,20 +155,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "LoL: GMBLERS ESPORTS vs Zena Esports - Game 2 Winner",
-          "odds": "-122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will SoftBank HAWKS gaming qualify for EWC 2026?",
           "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Wuhan be 30°C on May 10?",
-          "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -185,20 +173,32 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Los Angeles be between 70-71°F on May 8?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the Democratic Party win the WY-AL House seat?",
           "odds": "+1462",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Racing Club de Lens vs. FC Nantes: Both Teams to Score",
-          "odds": "-138",
+          "event": "Will the highest temperature in Miami be between 92-93°F on May 10?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Western Force win?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Al Ettifaq Saudi Club win on 2026-05-09?",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Elon Musk post 960-999 tweets in May 2026?",
+          "odds": "+2602",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
