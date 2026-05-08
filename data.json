@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "08 de mayo de 2026 — 17:07 UTC",
+  "lastUpdated": "08 de mayo de 2026 — 19:08 UTC",
   "ticker": [
+    "Libya’s largest oil refinery halts operations during fighting",
+    "Four convicted in US related to killing of Haitian President Jovenel Moise",
+    "Trump announces three-day ceasefire in Russia-Ukraine war",
+    "ASEAN leaders adopt measures to ease economic pain caused by Iran war",
+    "Olympic water polo resignations cite lack of respect, belittling behaviour",
+    "How and when can Arsenal or Man City win the Premier League?",
+    "More than a dozen reported killed in Israeli attacks on south Lebanon",
     "Justice for Shireen: The American investigation",
     "Real Madrid fine Valverde and Tchouameni for dressing-room fight",
     "South Koreans gear up to roar on football team from rival North",
@@ -8,14 +15,7 @@
     "‘Leader of the pack’: Reform UK makes election gains, humiliating Labour",
     "Rubio says Iranian boats firing at Americans will be ‘blown up’",
     "South Africa’s top court revives impeachment inquiry against president",
-    "‘Make up their own minds’: Pentagon releases first tranche of UFO files",
-    "Virginia Supreme Court strikes down Democrats’ redistricting plan in US",
-    "‘In the days of old, the world was safe’: West Bank family’s enduring unity",
-    "Botswana’s former President Festus Mogae dies aged 86",
-    "Kenya cancer cluster sparks ‘environmental genocide’ claims over oil waste",
-    "Thousands run Palestine Marathon under shadow of Israel’s war on Gaza",
-    "Cash-strapped Egyptians Zamalek eye record CAF Cup prize money",
-    "What would prolonged war mean for Sudan?"
+    "‘Make up their own minds’: Pentagon releases first tranche of UFO files"
   ],
   "sections": [
     {
@@ -24,7 +24,7 @@
       "rows": [
         {
           "event": "Israel strike on Yemen by May 31, 2026?",
-          "odds": "+525",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -36,7 +36,7 @@
         },
         {
           "event": "Will US withdraw from NATO before 2027?",
-          "odds": "+1104",
+          "odds": "+1076",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -54,7 +54,7 @@
         },
         {
           "event": "Will Putin visit China by May 31?",
-          "odds": "-185",
+          "odds": "-177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -77,8 +77,14 @@
           "moved": "none"
         },
         {
-          "event": "WTI Crude Oil (WTI) Up or Down on May 8?",
-          "odds": "+455",
+          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $140 in May?",
+          "odds": "+2225",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $130 in May?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -95,20 +101,14 @@
           "moved": "none"
         },
         {
-          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $140 in May?",
-          "odds": "+2073",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $130 in May?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the Fed’s lower bound reach 0.5% or lower before 2027?",
           "odds": "+1940",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will UK GDP growth in Q1 2026 be between 0.9% and 1.2%?",
+          "odds": "+323",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -138,7 +138,7 @@
         },
         {
           "event": "Will there be no Somaliland parliamentary election before 2027?",
-          "odds": "+170",
+          "odds": "-1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -173,26 +173,32 @@
           "moved": "none"
         },
         {
+          "event": "Will Elon Musk post 740-759 tweets in May 2026?",
+          "odds": "+1251",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Karachi be 32°C on May 9?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Karsiyaka vs. Bursaspor",
           "odds": "-149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Singapore be 31°C on May 10?",
-          "odds": "+222",
+          "event": "Pro Football: A.J. Brown to join Patriots by regular season start?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
           "odds": "+2757",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Starmer out by May 15, 2026?",
-          "odds": "+2602",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -205,12 +211,6 @@
         {
           "event": "Will the Democratic Party win the WY-AL House seat?",
           "odds": "+1462",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will FC CFR 1907 Cluj win on 2026-05-08?",
-          "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
