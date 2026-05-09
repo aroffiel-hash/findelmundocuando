@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "09 de mayo de 2026 — 16:45 UTC",
+  "lastUpdated": "09 de mayo de 2026 — 17:43 UTC",
   "ticker": [
+    "Israeli attacks across Lebanon kill at least 19",
+    "Péter Magyar Takes Office, Marking the Official End of the Orbán Era",
+    "‘On level of atomic bomb’: Iran highlights Hormuz importance amid US talks",
     "Niger suspends nine French media bodies: Watchdog slams ‘abusive’ decision",
     "Palestinians run West Bank freedom marathon along separation wall",
     "One dead in US after being struck by taking off Frontier Airlines plane",
@@ -12,22 +15,13 @@
     "Iran says it will play at 2026 World Cup if hosts address ‘concerns’",
     "Trump says hantavirus is ‘under control’ as WHO tracks cruise outbreak",
     "Australia’s populist One Nation scores first-ever lower house victory",
-    "Displaced Lebanese children keep learning amid displacement",
-    "US military kills two people in new eastern Pacific Ocean attack",
-    "Gaza at the Venice Biennale: Where language falls short, threads take over",
-    "Scaled-back Victory Day parade held in Moscow"
+    "Displaced Lebanese children keep learning amid displacement"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Will Trump agree to Iranian transit fees in the Strait of Hormuz by May 31?",
-          "odds": "+1594",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Russia capture Rai-Oleksandrivka by June 30?",
           "odds": "+488",
@@ -49,6 +43,12 @@
         {
           "event": "Will \"Gachiakuta\" win Anime of the Year at the 2026 Crunchyroll Anime Awards?",
           "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the United Kingdom send warships through the Strait of Hormuz by May 31, 2026?",
+          "odds": "+222",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -89,8 +89,8 @@
           "moved": "none"
         },
         {
-          "event": "Manchester City FC vs. Brentford FC: O/U 1.5",
-          "odds": "-900",
+          "event": "Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?",
+          "odds": "+2841",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -149,14 +149,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will SC Corinthians Paulista vs. São Paulo FC end in a draw?",
-          "odds": "+233",
+          "event": "Will Cerebras' market cap be between $40B and $50B at market close on IPO day?",
+          "odds": "+244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Karsiyaka vs. Bursaspor",
-          "odds": "-149",
+          "event": "Will SC Corinthians Paulista vs. São Paulo FC end in a draw?",
+          "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -179,12 +179,6 @@
           "moved": "none"
         },
         {
-          "event": "Will CR Flamengo win on 2026-05-10?",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Fagiano Okayama win on 2026-05-10?",
           "odds": "+525",
           "params": "Fuente: Polymarket",
@@ -193,6 +187,12 @@
         {
           "event": "Will the Democratic Party win the WY-AL House seat?",
           "odds": "+1462",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Elche CF win on 2026-05-17?",
+          "odds": "+156",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
