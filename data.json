@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "09 de mayo de 2026 — 09:12 UTC",
+  "lastUpdated": "09 de mayo de 2026 — 10:51 UTC",
   "ticker": [
+    "Gaza at the Venice Biennale: Where language falls short, threads take over",
+    "Scaled-back Victory Day parade held in Moscow",
+    "World Cup 2026: How US football has evolved since hosting in 1994",
+    "Barcelona vs Real Madrid: La Liga – preview, team news, start and lineups",
+    "The war on Iran will likely end in American retreat",
+    "Senior Sri Lankan monk arrested for alleged child sex crimes",
     "Hacked educational platform partially restored for millions of students",
     "Russia holds downsized Victory Day parade",
     "Spain’s Canary Islands brace for incoming hantavirus-stricken cruise ship",
@@ -9,31 +15,13 @@
     "Wembanyama powers Spurs past T-Wolves as Knicks beat Sixers in NBA playoffs",
     "Cambodians struggle with displaced lives amid tense ceasefire with Thailand",
     "Iran war live: US expects Tehran’s reply to peace deal; ‘clashes’ in Hormuz",
-    "Pentagon releases video of strikes on Iranian oil tankers",
-    "Celebrated naturalist David Attenborough marks 100th birthday",
-    "Costa Rica inaugurates right-wing president Laura Fernandez",
-    "Laura Fernandez sworn in as Costa Rica’s new president",
-    "Venice Biennale: The Art of the Unseen",
-    "Could Labour and Conservative party dominance in UK politics be ending?",
-    "Al Jazeera reporter witnesses Israeli strikes on Lebanon"
+    "Pentagon releases video of strikes on Iranian oil tankers"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Israel strike on Yemen by May 31, 2026?",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Warsaw be 23°C on May 11?",
-          "odds": "+257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Trump agree to Iranian transit fees in the Strait of Hormuz by May 31?",
           "odds": "+1462",
@@ -54,13 +42,25 @@
         },
         {
           "event": "Will Putin visit China by May 31?",
-          "odds": "-354",
+          "odds": "-300",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Israel closes its airspace by May 31?",
+          "odds": "+525",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will US withdraw from NATO before 2027?",
-          "odds": "+1090",
+          "odds": "+1062",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Justin Briner as Izuku Midoriya (My Hero Academia FINAL SEASON) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?",
+          "odds": "+132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -78,13 +78,7 @@
         },
         {
           "event": "Will WTI Crude Oil (WTI) hit (HIGH) $130 in May?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Manchester City FC vs. Brentford FC: O/U 1.5",
-          "odds": "-733",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -103,6 +97,12 @@
         {
           "event": "Will the Fed’s lower bound reach 0.5% or lower before 2027?",
           "odds": "+1940",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Manchester City FC vs. Brentford FC: O/U 2.5",
+          "odds": "-244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -179,6 +179,12 @@
           "moved": "none"
         },
         {
+          "event": "Will Fluminense FC vs. EC Vitória end in a draw?",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will CS Cartaginés win on 2026-05-09?",
           "odds": "+376",
           "params": "Fuente: Polymarket",
@@ -205,12 +211,6 @@
         {
           "event": "Will Trump meet with Vladimir Putin in May 2026?",
           "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will RCD Espanyol de Barcelona win on 2026-05-09?",
-          "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
