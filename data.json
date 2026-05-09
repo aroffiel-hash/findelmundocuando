@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "09 de mayo de 2026 — 07:48 UTC",
+  "lastUpdated": "09 de mayo de 2026 — 09:12 UTC",
   "ticker": [
+    "Hacked educational platform partially restored for millions of students",
+    "Russia holds downsized Victory Day parade",
+    "Spain’s Canary Islands brace for incoming hantavirus-stricken cruise ship",
     "Israeli settlers set fire to homes and cars in violent West Bank raids",
     "Financial struggles burden Yemen’s army as soldiers wait for wages",
     "Wembanyama powers Spurs past T-Wolves as Knicks beat Sixers in NBA playoffs",
@@ -12,10 +15,7 @@
     "Laura Fernandez sworn in as Costa Rica’s new president",
     "Venice Biennale: The Art of the Unseen",
     "Could Labour and Conservative party dominance in UK politics be ending?",
-    "Al Jazeera reporter witnesses Israeli strikes on Lebanon",
-    "Protests in the Canary Islands as virus-stricken ship heads for port",
-    "Libya’s largest oil refinery halts operations during fighting",
-    "Four convicted in US related to killing of Haitian President Jovenel Moise"
+    "Al Jazeera reporter witnesses Israeli strikes on Lebanon"
   ],
   "sections": [
     {
@@ -29,20 +29,20 @@
           "moved": "none"
         },
         {
+          "event": "Will the highest temperature in Warsaw be 23°C on May 11?",
+          "odds": "+257",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Trump agree to Iranian transit fees in the Strait of Hormuz by May 31?",
-          "odds": "+1438",
+          "odds": "+1462",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Russia capture Rai-Oleksandrivka by June 30?",
           "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Russia enter Khatnie by May 31, 2026?",
-          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -60,7 +60,7 @@
         },
         {
           "event": "Will US withdraw from NATO before 2027?",
-          "odds": "+1076",
+          "odds": "+1090",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -71,20 +71,20 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $130 in May?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Brentford FC win on 2026-05-09?",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Jerome Powell out as Fed Chair by May 16, 2026?",
           "odds": "-2841",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $130 in May?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Manchester City FC vs. Brentford FC: O/U 1.5",
+          "odds": "-733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -101,14 +101,14 @@
           "moved": "none"
         },
         {
-          "event": "Manchester City FC vs. Brentford FC: O/U 1.5",
-          "odds": "-733",
+          "event": "Will the Fed’s lower bound reach 0.5% or lower before 2027?",
+          "odds": "+1940",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the Fed’s lower bound reach 0.5% or lower before 2027?",
-          "odds": "+1940",
+          "event": "Manchester City FC vs. Brentford FC: O/U 10.5 Total Corners",
+          "odds": "-112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -209,8 +209,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Fagiano Okayama win on 2026-05-10?",
-          "odds": "+525",
+          "event": "Will RCD Espanyol de Barcelona win on 2026-05-09?",
+          "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
