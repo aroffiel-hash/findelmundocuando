@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "09 de mayo de 2026 — 17:43 UTC",
+  "lastUpdated": "09 de mayo de 2026 — 18:51 UTC",
   "ticker": [
+    "Tucker Carlson’s pivot",
+    "Syria and Lebanon make ‘significant progress’ at talks on joint interests",
+    "Parent company of Trump’s Truth Social site reports $400m loss this year",
+    "“Nowhere left to go”: Gaza residents return to rubble after Israeli strike",
     "Israeli attacks across Lebanon kill at least 19",
     "Péter Magyar Takes Office, Marking the Official End of the Orbán Era",
     "‘On level of atomic bomb’: Iran highlights Hormuz importance amid US talks",
@@ -11,11 +15,7 @@
     "Bahrain rounds up dozens over alleged links to Iran’s IRGC",
     "Peter Magyar sworn in as Hungary’s PM, ending Orban’s 16 years in power",
     "LIVE: Manchester City vs Brentford – Premier League",
-    "‘A year of resistance’: Cuba’s private sector faces Trump’s oil blockade",
-    "Iran says it will play at 2026 World Cup if hosts address ‘concerns’",
-    "Trump says hantavirus is ‘under control’ as WHO tracks cruise outbreak",
-    "Australia’s populist One Nation scores first-ever lower house victory",
-    "Displaced Lebanese children keep learning amid displacement"
+    "‘A year of resistance’: Cuba’s private sector faces Trump’s oil blockade"
   ],
   "sections": [
     {
@@ -23,20 +23,14 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
+          "event": "Will Putin visit China by May 31?",
+          "odds": "-194",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Russia capture Rai-Oleksandrivka by June 30?",
           "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Russia x Ukraine diplomatic meeting by May 31, 2026?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Putin visit China by May 31?",
-          "odds": "-203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -47,20 +41,26 @@
           "moved": "none"
         },
         {
-          "event": "Will the United Kingdom send warships through the Strait of Hormuz by May 31, 2026?",
-          "odds": "+222",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Israel x Hezbollah diplomatic meeting by May 31, 2026?",
           "odds": "+1539",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
+          "event": "US x Iran diplomatic meeting by May 31, 2026?",
+          "odds": "+104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will US withdraw from NATO before 2027?",
           "odds": "+1076",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Justin Briner as Izuku Midoriya (My Hero Academia FINAL SEASON) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?",
+          "odds": "+132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -79,6 +79,12 @@
         {
           "event": "Will Natural Gas (NG) hit (LOW) $2.00 in May?",
           "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Phoenix Mercury vs. Las Vegas Aces",
+          "odds": "+376",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -149,26 +155,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Cerebras' market cap be between $40B and $50B at market close on IPO day?",
-          "odds": "+244",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will SC Corinthians Paulista vs. São Paulo FC end in a draw?",
-          "odds": "+233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will CS Cartaginés win on 2026-05-09?",
           "odds": "+376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party win the IL-12 House seat?",
-          "odds": "+1823",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -179,20 +167,38 @@
           "moved": "none"
         },
         {
+          "event": "Will Olympique Lyonnais win on 2026-05-10?",
+          "odds": "-117",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the lowest temperature in Paris be 9°C on May 11?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Indian Premier League: Chennai Super Kings vs Lucknow Super Giants",
+          "odds": "-122",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Fagiano Okayama win on 2026-05-10?",
           "odds": "+525",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the Democratic Party win the WY-AL House seat?",
-          "odds": "+1462",
+          "event": "Will Elche CF win on 2026-05-17?",
+          "odds": "+156",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Elche CF win on 2026-05-17?",
-          "odds": "+156",
+          "event": "Exact Score: Sunderland AFC 0 - 1 Manchester United FC?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
