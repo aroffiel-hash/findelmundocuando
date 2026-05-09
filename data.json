@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "09 de mayo de 2026 — 13:03 UTC",
+  "lastUpdated": "09 de mayo de 2026 — 14:43 UTC",
   "ticker": [
+    "Israel to release two detained Gaza flotilla activists",
+    "Bahrain rounds up dozens over alleged links to Iran’s IRGC",
+    "Peter Magyar sworn in as Hungary’s PM, ending Orban’s 16 years in power",
+    "LIVE: Manchester City vs Brentford – Premier League",
+    "‘A year of resistance’: Cuba’s private sector faces Trump’s oil blockade",
     "Iran says it will play at 2026 World Cup if hosts address ‘concerns’",
     "Trump says hantavirus is ‘under control’ as WHO tracks cruise outbreak",
     "Australia’s populist One Nation scores first-ever lower house victory",
@@ -10,12 +15,7 @@
     "Scaled-back Victory Day parade held in Moscow",
     "World Cup 2026: How US football has evolved since hosting the 1994 event",
     "Barcelona vs Real Madrid: La Liga – preview, team news, start and lineups",
-    "The war on Iran will likely end in American retreat",
-    "Senior Sri Lankan monk arrested for alleged child sex crimes",
-    "Hacked educational platform partially restored for millions of students",
-    "Russia holds downsized Victory Day parade",
-    "Spain’s Canary Islands brace for incoming hantavirus-stricken cruise ship",
-    "Israeli settlers set fire to homes and cars in violent West Bank raids"
+    "The war on Iran will likely end in American retreat"
   ],
   "sections": [
     {
@@ -24,13 +24,7 @@
       "rows": [
         {
           "event": "Will Trump agree to Iranian transit fees in the Strait of Hormuz by May 31?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Warsaw be 18°C on May 10?",
-          "odds": "+316",
+          "odds": "+1594",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -41,8 +35,20 @@
           "moved": "none"
         },
         {
+          "event": "Will the highest temperature in Warsaw be 19°C on May 10?",
+          "odds": "+108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Iran closes its airspace by May 15?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Putin visit China by May 31?",
-          "odds": "-300",
+          "odds": "-212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -57,12 +63,6 @@
           "odds": "+1539",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Iran closes its airspace by May 15?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -71,14 +71,14 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Jerome Powell out as Fed Chair by May 16, 2026?",
-          "odds": "-2841",
+          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $130 in May?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $130 in May?",
-          "odds": "+900",
+          "event": "Jerome Powell out as Fed Chair by May 16, 2026?",
+          "odds": "-2841",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -105,12 +105,6 @@
           "odds": "-244",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Manchester City FC vs. Brentford FC: O/U 10.5 Total Corners",
-          "odds": "-112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -126,7 +120,7 @@
         },
         {
           "event": "Will the Republicans win the 2028 US Presidential Election?",
-          "odds": "+163",
+          "odds": "+156",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -167,14 +161,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Exact Score: FC Barcelona 3 - 2 Real Madrid CF?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Counter-Strike: PARIVISION vs 9z - Map 2 Winner",
-          "odds": "-257",
+          "event": "Will SC Corinthians Paulista vs. São Paulo FC end in a draw?",
+          "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -191,6 +179,12 @@
           "moved": "none"
         },
         {
+          "event": "APYX FDV above $100M one day after launch?",
+          "odds": "-488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will there be a run scored in the first inning?: Tampa Bay Rays vs. Boston Red Sox",
           "odds": "+112",
           "params": "Fuente: Polymarket",
@@ -203,8 +197,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Eintracht Braunschweig win on 2026-05-09?",
-          "odds": "-3024",
+          "event": "LoL: Movistar KOI vs G2 Esports (BO3) - LEC Regular Season",
+          "odds": "+170",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
