@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "10 de mayo de 2026 — 13:04 UTC",
+  "lastUpdated": "10 de mayo de 2026 — 14:46 UTC",
   "ticker": [
+    "Football on ruins: Gaza’s orphans find refuge on the pitch",
+    "Stories of those killed in a single day of Israeli strikes on Lebanon",
+    "Jorge Martin wins his first Aprilia Grand Prix at French MotoGP",
+    "‘Ukraine has momentum in war with Russia’",
+    "Passengers from Hantavirus-hit cruise begin disembarking ship",
+    "Can Asian economies cope with the fallout from the Iran war?",
+    "Atef Najib faces at least 10 charges in landmark Syria trial",
+    "Iran sends response to US proposal to end war via mediator Pakistan",
     "Can central banks curb inflation as energy costs rise?",
     "US-Iran ceasefire under strain as Gulf states report drone attacks",
     "Why is being a mother so expensive in the United States?",
     "The genocide is still taking Gaza’s mothers",
     "How did Gaza’s sea become a wall?",
     "El Clasico: Kylian Mbappe not in Real Madrid squad to face Barcelona",
-    "Why is Iran taking time to respond to the US proposal to end the war?",
-    "Iran military warns of ‘surprising’ methods of warfare if attacked again",
-    "Libya’s Zawiya refinery resumes full operations",
-    "AFC Asian Cup 2027: Japan to face defending champions Qatar in tough draw",
-    "OKC Thunder bury LA Lakers to take 3-0 NBA Playoff series lead",
-    "Syria sees first government reshuffle since al-Assad’s ouster",
-    "Rebel fighters kill at least 69 people in northeastern DR Congo",
-    "JNIM and Tuareg fighters join forces",
-    "Deadly car bomb attack hits checkpoint in northwest Pakistan"
+    "Why is Iran taking time to respond to the US proposal to end the war?"
   ],
   "sections": [
     {
@@ -60,7 +60,7 @@
         },
         {
           "event": "Iran leadership change by June 30?",
-          "odds": "+809",
+          "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -70,6 +70,12 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
+        {
+          "event": "Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "No change in Bank of Japan’s interest rates after the July 2026 meeting?",
           "odds": "-300",
@@ -93,12 +99,6 @@
           "odds": "+122",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?",
-          "odds": "+2841",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -106,6 +106,12 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
+        {
+          "event": "Will Bert Mizusawa be the Republican nominee for Senate in Virginia?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the Republicans win the 2028 US Presidential Election?",
           "odds": "+156",
@@ -115,12 +121,6 @@
         {
           "event": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
           "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Bert Mizusawa be the Republican nominee for Senate in Virginia?",
-          "odds": "+138",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -161,20 +161,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Lithuania be in the top 5 at Eurovision 2026?",
-          "odds": "+852",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Bulgaria advance through the second Eurovision Semi-Final?",
-          "odds": "-614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Racing Club de Lens win on 2026-05-17?",
           "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Londrina EC vs. São Bernardo FC: Both Teams to Score",
+          "odds": "-104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -185,20 +179,26 @@
           "moved": "none"
         },
         {
-          "event": "Mobile Legends Bang Bang: Team Liquid ID vs EVOS (BO3) - MPL Indonesia Regular Season",
-          "odds": "+127",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Los Angeles be between 68-69°F on May 12?",
-          "odds": "+177",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will US unemployment reach at least 5.0% in 2026?",
-          "odds": "+244",
+          "odds": "+354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will West Ham be relegated from the English Premier League after the 2025–26 season?",
+          "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Letitia James be arrested before 2027?",
+          "odds": "+270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will FC Barcelona vs. Real Betis Balompié end in a draw?",
+          "odds": "+525",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
