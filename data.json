@@ -1,6 +1,7 @@
 {
-  "lastUpdated": "10 de mayo de 2026 — 21:41 UTC",
+  "lastUpdated": "10 de mayo de 2026 — 22:39 UTC",
   "ticker": [
+    "Barcelona beat Real Madrid 2-0 in El Clasico to retain La Liga title",
     "Trump to discuss Iran with Xi Jinping during China visit: Officials",
     "Israeli weapon fires tiny metal cubes into people in Lebanon, like Gaza",
     "US Jewish leader, Israel advocate Abe Foxman dies at 86",
@@ -12,10 +13,9 @@
     "Iran may ‘give assurances on the use of nuclear facilities’",
     "Trump says US will not allow Iran to reach enriched uranium",
     "Food inflation hammers households in war-hit Iran",
-    "LIVE: Barcelona vs Real Madrid 2-0 – El Clasico La Liga",
+    "Barcelona vs Real Madrid 2-0: El Clasico La Liga – as it happened",
     "Russia kills three Ukrainians in 24 hours, accuses Kyiv of violating truce",
-    "Putin hints at ending Russia’s war in Ukraine, but why now?",
-    "With food benefit cuts looming in the US, Californians eye billionaire tax"
+    "Putin hints at ending Russia’s war in Ukraine, but why now?"
   ],
   "sections": [
     {
@@ -35,6 +35,12 @@
           "moved": "none"
         },
         {
+          "event": "Will the Bank of Israel decrease the Bank of Israel Interest Rate after the May decision?",
+          "odds": "-270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Justin Briner as Izuku Midoriya (My Hero Academia FINAL SEASON) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?",
           "odds": "+132",
           "params": "Fuente: Polymarket",
@@ -48,19 +54,13 @@
         },
         {
           "event": "Iran leadership change by June 30?",
-          "odds": "+614",
+          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "US x China Military clash before 2027?",
           "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Steve Witkoff attend the next US x Iran diplomatic meeting?",
-          "odds": "-207",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -71,8 +71,20 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
+          "event": "WTI Crude Oil (WTI) closes above $91 on May 11?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?",
           "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will gas hit (High) $4.60 by May 31?",
+          "odds": "-614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -95,14 +107,8 @@
           "moved": "none"
         },
         {
-          "event": "Will gas hit (High) $4.60 by May 31?",
-          "odds": "+122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
-          "odds": "+334",
+          "event": "Will S&P 500 (SPX) hit $7,450 (HIGH) in June?",
+          "odds": "-455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,32 +173,20 @@
           "moved": "none"
         },
         {
-          "event": "Will White House post 180-199 posts from May 8 to May 15, 2026?",
-          "odds": "+149",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
           "odds": "+2841",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Wuhan be 31°C on May 12?",
-          "odds": "+222",
+          "event": "Will Azerbaijan advance through the second Eurovision Semi-Final?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Trump say \"NVIDIA\" this week?",
-          "odds": "+112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Counter-Strike: MOUZ vs 9z - Map 2 Winner",
-          "odds": "-194",
+          "event": "Will the highest temperature in Buenos Aires be 22°C on May 12?",
+          "odds": "+376",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -205,6 +199,18 @@
         {
           "event": "Will \"In the Grey\" score at least 55 on the Rotten Tomatoes Tomatometer?",
           "odds": "-1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will T1 Esports Academy win LCK CL 2026?",
+          "odds": "+193",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will West Ham be relegated from the English Premier League after the 2025–26 season?",
+          "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
