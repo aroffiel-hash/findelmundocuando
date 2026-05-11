@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "11 de mayo de 2026 — 02:35 UTC",
+  "lastUpdated": "11 de mayo de 2026 — 06:33 UTC",
   "ticker": [
+    "Trump calls Iran response “totally unacceptable”",
+    "Risks and rewards in France-Kenya partnership",
+    "Russia and Ukraine accuse the other of ceasefire violations",
+    "Thailand’s Thaksin Shinawatra released from prison",
+    "Gaza documentary dropped by the BBC wins BAFTA",
     "What next for Real Madrid after Barcelona’s La Liga and Clasico triumph?",
     "Somalis rally against government-ordered evictions in Mogadishu",
     "Iran war live: Trump slams Tehran’s reply; Israel kills 2 medics in Lebanon",
@@ -10,12 +15,7 @@
     "US Jewish leader, Israel advocate Abe Foxman dies at 86",
     "Indian film star Vijay becomes chief minister of Tamil Nadu",
     "South Korea says ship was struck by ‘unidentified flying objects’ in Hormuz",
-    "Trossard scores late as Arsenal beats West Ham, moves closer to title",
-    "Gaza volunteers plant olive trees at devastated al-Shifa Hospital",
-    "Medics among 51 killed in Israeli attacks on Lebanon in past 24 hours",
-    "Iran may ‘give assurances on the use of nuclear facilities’",
-    "Trump says US will not allow Iran to reach enriched uranium",
-    "Food inflation hammers households in war-hit Iran"
+    "Trossard scores late as Arsenal beats West Ham, moves closer to title"
   ],
   "sections": [
     {
@@ -23,8 +23,8 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Israel x Hezbollah diplomatic meeting by May 31, 2026?",
-          "odds": "+1654",
+          "event": "Will the Bank of Israel decrease the Bank of Israel Interest Rate after the May decision?",
+          "odds": "-270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -35,14 +35,20 @@
           "moved": "none"
         },
         {
-          "event": "Will \"Gachiakuta\" win Anime of the Year at the 2026 Crunchyroll Anime Awards?",
-          "odds": "+1328",
+          "event": "US x China Military clash before 2027?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the Bank of Israel decrease the Bank of Israel Interest Rate after the May decision?",
-          "odds": "-270",
+          "event": "Israel x Hezbollah diplomatic meeting by May 31, 2026?",
+          "odds": "+2027",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will \"Gachiakuta\" win Anime of the Year at the 2026 Crunchyroll Anime Awards?",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -54,13 +60,7 @@
         },
         {
           "event": "Will US withdraw from NATO before 2027?",
-          "odds": "+1090",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "US x China Military clash before 2027?",
-          "odds": "+1011",
+          "odds": "+1119",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -79,12 +79,6 @@
         {
           "event": "Will gas hit (High) $4.60 by May 31?",
           "odds": "-614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "S&P 500 (SPX) Up or Down on May 11?",
-          "odds": "+112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -111,6 +105,12 @@
           "odds": "-455",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
+          "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -118,6 +118,12 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
+        {
+          "event": "Will Paloma Valencia place 2nd in the 1st round of the 2026 Colombian presidential election?",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Bert Mizusawa be the Republican nominee for Senate in Virginia?",
           "odds": "+108",
@@ -127,12 +133,6 @@
         {
           "event": "Will Olivier Faure be on the ballot for the 2027 French presidential election?",
           "odds": "+212",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Karim Bouamrane be on the ballot for the 2027 French presidential election?",
-          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -173,26 +173,20 @@
           "moved": "none"
         },
         {
-          "event": "Will US unemployment reach at least 5.0% in 2026?",
-          "odds": "+354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Parma: Marta Lombardini vs Jessica Bouzas Maneiro",
-          "odds": "-809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "EWY (EWY) Up or Down on May 11?",
-          "odds": "+104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
           "odds": "+2841",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Map Handicap: MGC (-1.5) vs K27 (+1.5)",
+          "odds": "+222",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Munich be 19°C or higher on May 11?",
+          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -211,6 +205,12 @@
         {
           "event": "Will West Ham be relegated from the English Premier League after the 2025–26 season?",
           "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Letitia James be arrested before 2027?",
+          "odds": "+270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
