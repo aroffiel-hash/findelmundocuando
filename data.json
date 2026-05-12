@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "12 de mayo de 2026 — 14:06 UTC",
+  "lastUpdated": "12 de mayo de 2026 — 17:04 UTC",
   "ticker": [
-    "Spain reports new hantavirus case in passenger evacuated from cruise ship",
-    "Israel approves law on death penalty for October 7 detainees",
-    "Africa’s richest man plans new Mombasa oil refinery: Why this matters",
-    "A secret Israeli base in Iraq? What we know",
-    "At least nine killed in explosion at Pakistan market",
-    "Report alleges Israel operated covert outpost in Iraq during war on Iran",
-    "Why the Iran war is threatening whales near South Africa",
-    "Can Manchester City overtake Arsenal to win the Premier League title?",
-    "Pakistan scrambles to salvage US-Iran diplomacy as ceasefire faces collapse",
-    "Video: Philippine senator flees ICC arrest over role in drug war",
-    "Can China counter US sanctions with its trade power?",
-    "The crisis is Sudan is much worse than what is acknowledged",
-    "Over 370 Afghans killed in Pakistan conflict in first 3 months of 2026: UN",
-    "USA’s Johnny Cardoso expected to miss World Cup through ankle injury",
-    "At least nine people killed in explosion at Pakistan market"
+    "Israel’s war creating a ‘lost generation’ of Lebanese students",
+    "Kuwait says it foils infiltration operation by Iran’s IRGC",
+    "Pentagon gives new $29bn Iran war price tag, downplays munitions concerns",
+    "Israel kills, injures average of 4 children daily amid Lebanon ‘ceasefire’",
+    "What to know about Curacao at the FIFA World Cup 2026",
+    "Israel killing at least one child a week in occupied West Bank, UN says",
+    "How one Palestinian teen’s life changed forever after Israeli gunfire",
+    "Lamine Yamal’s Palestine flag wave hailed by fans, activists and athletes",
+    "The Flotilla Diaries: Inside the 2025 mission to break the Gaza siege",
+    "Rana stars as Bangladesh win first home Test against Pakistan",
+    "Trump-Xi meeting: Could China, US form a ‘G2’?",
+    "Is it time to reconsider contemporary art?",
+    "Why the hantavirus outbreak is different from COVID-19",
+    "Uganda’s Yoweri Museveni sworn in for seventh term as president",
+    "Spain reports new hantavirus case in passenger evacuated from cruise ship"
   ],
   "sections": [
     {
@@ -29,20 +29,26 @@
           "moved": "none"
         },
         {
-          "event": "Will South Korea ETF (EWY) hit (LOW) $144 in May?",
-          "odds": "+900",
+          "event": "Will Russia enter Zaporizhia by December 31, 2026?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Ukraine agrees not to join NATO before 2027?",
+          "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will US withdraw from NATO before 2027?",
-          "odds": "+1182",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Counter-Strike: Nuclear TigeRES vs Eternal Fire (BO3) - NODWIN Clutch Series Group Stage",
-          "odds": "+1011",
+          "event": "Will South Korea ETF (EWY) hit (LOW) $140 in May?",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -57,12 +63,6 @@
           "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will Steve Witkoff attend the next US x Iran diplomatic meeting?",
-          "odds": "-153",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -70,18 +70,6 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
-        {
-          "event": "Will S&P 500 (SPY) hit (HIGH) $755 Week of May 11 2026?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will S&P 500 (SPY) hit (HIGH) $770 in May?",
-          "odds": "+397",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Crude Oil (CL) hit (HIGH) $140 by end of June?",
           "odds": "+488",
@@ -101,8 +89,14 @@
           "moved": "none"
         },
         {
+          "event": "Will Trump say \"Tariff\" during events with Xi Jinping?",
+          "odds": "-222",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will S&P 500 (SPY) hit (LOW) $680 in May?",
-          "odds": "+900",
+          "odds": "+809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -119,14 +113,20 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Pete Fry win the 2026 Vancouver mayoral election?",
-          "odds": "+669",
+          "event": "Will Liberal Alliance be part of the next Government of Denmark?",
+          "odds": "+726",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
-          "odds": "+1539",
+          "odds": "+1415",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Pete Fry win the 2026 Vancouver mayoral election?",
+          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -143,20 +143,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Liberal Alliance be part of the next Government of Denmark?",
-          "odds": "+1233",
+          "event": "Will Anže Logar be the next Prime Minister of Slovenia?",
+          "odds": "+2841",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Zachariah Wooden advance from the CA-07 primary election?",
           "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Nikolai Denkov win the next Bulgarian presidential election?",
-          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -167,8 +161,20 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Exact Score: CA Osasuna 2 - 0 Club Atlético de Madrid?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "LoL: FURIA Esports vs LOUD (BO5) - CBLOL Playoffs",
           "odds": "-354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Panama City be 33°C or higher on May 12?",
+          "odds": "+334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -185,32 +191,20 @@
           "moved": "none"
         },
         {
+          "event": "Will Gold (XAUUSD) hit (LOW) $4,600 in May?",
+          "odds": "-426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will \"Hundred\" or \"Thousand\" or \"Million\" be said 15+ times during the first episode of the Joe Rogan Experience this week?",
           "odds": "-614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Mohun Bagan Super Giant win on 2026-04-26?",
-          "odds": "-354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Olympiacos win the 2025-26 Euroleague?",
-          "odds": "+127",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will West Ham be relegated from the English Premier League after the 2025–26 season?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Sweden win on 2026-06-25?",
-          "odds": "-170",
+          "event": "Will Donald Trump post 20-39 Truth Social posts from May 12 to May 19, 2026?",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
