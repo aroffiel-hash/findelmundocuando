@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "13 de mayo de 2026 — 14:41 UTC",
+  "lastUpdated": "13 de mayo de 2026 — 17:11 UTC",
   "ticker": [
+    "NYC exhibit displays millions of Epstein files to spotlight US corruption",
+    "Is the Pentagon’s UFO dump a political distraction?",
+    "India’s salt workers brave brutal heat on Gujarat’s desert plains",
+    "Reform UK leader Farage faces parliamentary probe over nearly $7m gift",
+    "LIVE: Manchester City vs Crystal Palace – Premier League",
+    "France confines over 1,700 passengers on cruise ship over gastroenteritis",
+    "Trump arrives in China for two-day summit with Xi",
+    "12 killed by a series of Israeli strikes on cars in Lebanon",
+    "What Trump and Xi want from China visit",
     "‘Most powerful’: What’s the Sarmat missile Russia has test-launched?",
     "Which teams have won the FIFA World Cup?",
     "Amid US-Israel war on Iran, Arizona awaits Iranian team before World Cup",
     "Japan suspends Australian rugby coach Jones for verbally abusing officials",
     "Could South Africa’s Ramaphosa be impeached over ‘cash-in-sofa’ scandal?",
-    "Trump needs Xi much more than Xi needs Trump",
-    "Why Trump decided to back Iraq’s prime minister-designate, Ali al-Zaidi",
-    "Gunshots ring out at Philippine Senate where lawmaker is holed up",
-    "Activist confronts Iran’s former crown prince over war on Iran",
-    "Israeli attacks on Gaza increased by 35% since Iran ceasefire: Report",
-    "Key Zelenskyy aides under corruption cloud: What are they accused of?",
-    "Maldives jails two journalists for reporting on president’s alleged affair",
-    "Trump faces slew of ‘bad options’ on Iran as diplomacy falters",
-    "UN urges independent probes into deadly Nigeria, Chad air attacks",
-    "Israel bulldozes Palestinian shops to make way for settlement-linked road"
+    "Trump needs Xi much more than Xi needs Trump"
   ],
   "sections": [
     {
@@ -31,6 +31,12 @@
         {
           "event": "Ukraine agrees not to join NATO before 2027?",
           "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Israel be in the top 3 at Eurovision 2026?",
+          "odds": "+163",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -54,13 +60,7 @@
         },
         {
           "event": "Will Russia enter Khatnie by May 31, 2026?",
-          "odds": "+455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Ukraine re-enter Maliivka by May 31?",
-          "odds": "+1899",
+          "odds": "+525",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -72,7 +72,7 @@
       "rows": [
         {
           "event": "Will Crude Oil reach a new all-time high by June 30?",
-          "odds": "+525",
+          "odds": "+488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -85,6 +85,12 @@
         {
           "event": "Will the Fed’s lower bound reach 0.5% or lower before 2027?",
           "odds": "+1940",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Natural Gas (NG) hit (HIGH) $3.00 Week of May 11 2026?",
+          "odds": "+222",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -107,14 +113,20 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will François Hollande win the 2027 French presidential election?",
-          "odds": "+2339",
+          "event": "Will Brad Raffensperger win the 2026 Georgia Governor Republican primary election?",
+          "odds": "+1594",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Nikolai Denkov win the next Bulgarian presidential election?",
           "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Abelardo de la Espriella win the 1st round of the 2026 Colombian presidential election?",
+          "odds": "+624",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -141,12 +153,6 @@
           "odds": "+163",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will there be no Somaliland parliamentary election before 2027?",
-          "odds": "-132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -155,14 +161,20 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "LoL: LNG Esports vs LGD Gaming - Game 2 Winner",
+          "odds": "-132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Boca Juniors vs. Obera TC",
           "odds": "-233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Fatih Karagümrük SK vs. Alanyaspor end in a draw?",
-          "odds": "+233",
+          "event": "Will Apple (AAPL) hit (HIGH) $312 in May?",
+          "odds": "+244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -179,20 +191,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Gold (GC) hit (HIGH) $5,700 by end of June?",
-          "odds": "+1215",
+          "event": "Dota 2: Xtreme Gaming vs PlayTime - Game 2 Winner",
+          "odds": "-1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "KBO: LG Twins vs. NC Dinos",
           "odds": "+104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Olympique de Marseille vs. Stade Rennais FC 1901 end in a draw?",
-          "odds": "+270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
