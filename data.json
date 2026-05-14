@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "14 de mayo de 2026 — 06:18 UTC",
+  "lastUpdated": "14 de mayo de 2026 — 09:28 UTC",
   "ticker": [
-    "Madonna, Shakira, BTS to headline World Cup final half-time show",
-    "Kyiv building collapses after Russian strike, reportedly trapping residents",
-    "Trump, Xi speak ahead of talks to make relations ‘better than ever’",
-    "Students in Caracas to demand release of political prisoners",
-    "Xi Jinping welcomes Donald Trump with ceremony ahead of high-stakes meeting",
-    "Iran war: Why the BRICS foreign ministers meeting in India matters",
-    "Families demand release of Pakistani crew captured by Somali pirates",
-    "Iran war live: Tehran slams ‘collusion’ as Netanyahu ‘secretly’ visits UAE",
-    "Trump-Xi summit live: US, China leaders holding talks on trade, tech, Iran",
-    "Trump administration offers $100m in aid to Cuba in exchange for reform",
-    "Memphis residents file lawsuit alleging abuses by Trump-backed task force",
-    "Man City beat Palace to close gap with Arsenal to 2, with two games to play",
-    "Trump taps David Venturella, former private prison executive, to lead ICE",
-    "Funeral held for two Lebanese paramedics killed in Israeli attack",
-    "Trump-Xi summit: Why Beijing might have the advantage"
+    "In the UK, Muslim votes are treated as a problem to be managed",
+    "Lionel Messi scores two goals as Inter Miami rally to beat Cincinnati",
+    "Japanese snacks go black-and-white: Why Iran war is driving up ink prices",
+    "Trump praises China as he ignores question about Taiwan",
+    "UK artist defends ‘Drawings Against Genocide’ show after cancellation",
+    "Nepal in a bind as US-China drone war reaches Everest",
+    "California questions FIFA’s possible violations in World Cup ticket sales",
+    "How China changed Rubio name to let him join Trump summit despite sanctions",
+    "Philippine politician wanted by ICC flees Senate",
+    "What is at stake as Fatah holds its 8th general congress?",
+    "Why are World Cup tickets so expensive?",
+    "Iran war day 76: Vance says progress made in talks; Israel pounds Lebanon",
+    "Trump in China for talks with Xi Jinping",
+    "Iran’s US-bound World Cup squad given public sendoff in Tehran",
+    "Cavaliers rally late, beat Pistons for 3-2 lead in NBA Playoff semifinals"
   ],
   "sections": [
     {
@@ -25,6 +25,12 @@
         {
           "event": "Will the Bank of Russia make no change to the key rate after the June Meeting?",
           "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump announce a tariff reduction on China?",
+          "odds": "-170",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -55,12 +61,6 @@
         {
           "event": "Will Russia enter Khatnie by May 31, 2026?",
           "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Russia test a nuclear weapon by September 30 2026?",
-          "odds": "+2757",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -107,8 +107,8 @@
           "moved": "none"
         },
         {
-          "event": "Will S&P 500 (SPX) hit $6,700 (LOW) in June?",
-          "odds": "+112",
+          "event": "Will Japan GDP growth in Q1 2026 be less than or equal to -0.4%?",
+          "odds": "+594",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -118,6 +118,12 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
+        {
+          "event": "Will Choo Kyung-ho win the 2026 Daegu mayoral election?",
+          "odds": "-284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Iván Cepeda Castro win the first round of the 2026 Colombian presidential election by 10-15%?",
           "odds": "+185",
@@ -150,13 +156,7 @@
         },
         {
           "event": "Will the Republicans win the 2028 US Presidential Election?",
-          "odds": "+163",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will there be no Somaliland parliamentary election before 2027?",
-          "odds": "-132",
+          "odds": "+156",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -179,38 +179,38 @@
           "moved": "none"
         },
         {
+          "event": "Will OpenAI announce earbuds or headphones in 2026?",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
           "odds": "+2602",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will OpenAI announce earbuds or headphones in 2026?",
-          "odds": "+212",
+          "event": "Molde FK vs. Kristiansund BK: Both Teams to Score",
+          "odds": "-156",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Valorant:  REBORN vs Beşiktaş Esports (BO5) - VCL Türkiye: Birlik Playoffs",
-          "odds": "-194",
+          "event": "Oeiras 4: Laslo Djere vs Colton Smith",
+          "odds": "-400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Club Always Ready win on 2026-05-19?",
-          "odds": "-138",
+          "event": "Will the highest temperature in Madrid be 19°C on May 16?",
+          "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the US acquire part of Greenland in 2026?",
           "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Abstract FDV above $200M one day after launch?",
-          "odds": "-334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
