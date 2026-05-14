@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "14 de mayo de 2026 — 09:28 UTC",
+  "lastUpdated": "14 de mayo de 2026 — 11:46 UTC",
   "ticker": [
+    "Labour’s Angela Rayner says she has been cleared over UK tax affairs",
+    "Two killed as Israel ramps up southern Lebanon attacks ahead of US talks",
+    "Zimbabweans lured into Russia’s war as families plead for their return",
+    "Who are the US CEOs in China with Trump, and what’s in it for them?",
+    "Russia launches hundreds more drones at Ukraine, killing three people",
+    "World Cup train and shuttle bus ticket prices cut in New York, New Jersey",
+    "Could Iran war trigger a hunger crisis?",
+    "Federal judge blocks US sanctions against UN rapporteur Francesca Albanese",
     "In the UK, Muslim votes are treated as a problem to be managed",
     "Lionel Messi scores two goals as Inter Miami rally to beat Cincinnati",
     "Japanese snacks go black-and-white: Why Iran war is driving up ink prices",
     "Trump praises China as he ignores question about Taiwan",
     "UK artist defends ‘Drawings Against Genocide’ show after cancellation",
     "Nepal in a bind as US-China drone war reaches Everest",
-    "California questions FIFA’s possible violations in World Cup ticket sales",
-    "How China changed Rubio name to let him join Trump summit despite sanctions",
-    "Philippine politician wanted by ICC flees Senate",
-    "What is at stake as Fatah holds its 8th general congress?",
-    "Why are World Cup tickets so expensive?",
-    "Iran war day 76: Vance says progress made in talks; Israel pounds Lebanon",
-    "Trump in China for talks with Xi Jinping",
-    "Iran’s US-bound World Cup squad given public sendoff in Tehran",
-    "Cavaliers rally late, beat Pistons for 3-2 lead in NBA Playoff semifinals"
+    "California questions FIFA’s possible violations in World Cup ticket sales"
   ],
   "sections": [
     {
@@ -24,25 +24,7 @@
       "rows": [
         {
           "event": "Will the Bank of Russia make no change to the key rate after the June Meeting?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump announce a tariff reduction on China?",
-          "odds": "-170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Ukraine agrees not to join NATO before 2027?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will US withdraw from NATO before 2027?",
-          "odds": "+1182",
+          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -53,14 +35,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Justin Briner as Izuku Midoriya (My Hero Academia FINAL SEASON) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?",
-          "odds": "+132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Russia enter Khatnie by May 31, 2026?",
-          "odds": "+525",
+          "event": "Ukraine agrees not to join NATO before 2027?",
+          "odds": "+488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -71,44 +47,14 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will Natural Gas (NG) hit (HIGH) $3.00 Week of May 11 2026?",
-          "odds": "+222",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will no one dissent the June Fed decision?",
-          "odds": "+122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will S&P 500 (SPY) hit (LOW) $730 Week of May 11 2026?",
           "odds": "+426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Crude Oil reach a new all-time high by June 30?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "No change in Bank of Japan’s interest rates after the July 2026 meeting?",
-          "odds": "-300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Fed’s lower bound reach 0.5% or lower before 2027?",
-          "odds": "+1940",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Japan GDP growth in Q1 2026 be less than or equal to -0.4%?",
-          "odds": "+594",
+          "event": "Will no one dissent the June Fed decision?",
+          "odds": "+122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -118,12 +64,6 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
-        {
-          "event": "Will Choo Kyung-ho win the 2026 Daegu mayoral election?",
-          "odds": "-284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Iván Cepeda Castro win the first round of the 2026 Colombian presidential election by 10-15%?",
           "odds": "+185",
@@ -159,6 +99,12 @@
           "odds": "+156",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will there be no Somaliland parliamentary election before 2027?",
+          "odds": "-132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -173,8 +119,20 @@
           "moved": "none"
         },
         {
+          "event": "Will Cerebras' market cap be between $60B and $70B at market close on IPO day?",
+          "odds": "+354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the lowest temperature in Paris be 5°C on May 16?",
           "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Helsinki be 21°C on May 16?",
+          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -191,26 +149,14 @@
           "moved": "none"
         },
         {
-          "event": "Molde FK vs. Kristiansund BK: Both Teams to Score",
-          "odds": "-156",
+          "event": "Will NVIDIA (NVDA) hit (HIGH) $236 Week of May 11 2026?",
+          "odds": "+316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Oeiras 4: Laslo Djere vs Colton Smith",
-          "odds": "-400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Madrid be 19°C on May 16?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the US acquire part of Greenland in 2026?",
-          "odds": "+566",
+          "event": "Will the highest temperature in Munich be 14°C or higher on May 14?",
+          "odds": "+222",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
