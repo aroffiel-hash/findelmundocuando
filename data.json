@@ -1,13 +1,16 @@
 {
-  "lastUpdated": "14 de mayo de 2026 — 13:52 UTC",
+  "lastUpdated": "14 de mayo de 2026 — 13:54 UTC",
   "ticker": [
+    "Iran still waiting for US visas less than a month before World Cup",
     "Russian drone attack hits Kyiv apartment block during ceasefire",
     "What is on the table during Lebanon-Israel direct negotiations?",
+    "Serie A finish in chaos, worsened by clash with Italian Open tennis final",
     "Latvian prime minister resigns after drone incident",
     "Duststorms and lightning kill at least 96 people in northern India",
     "China’s Xi warns Trump about Taiwan at Beijing summit",
     "UK Health Secretary Wes Streeting resigns from government",
     "Trump and Xi hail ‘most important’ relationship",
+    "Ronda Rousey vs Gina Carano Netflix MMA fight: Card, start, how to watch",
     "Labour’s Angela Rayner says she has been cleared over UK tax affairs",
     "Two killed as Israel ramps up southern Lebanon attacks ahead of US talks",
     "Zimbabweans lured into Russia’s war as families plead for their return",
@@ -16,67 +19,145 @@
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
-      "rows": [
-        {
-          "event": "Will Steve Witkoff attend the next US x Iran diplomatic meeting?",
-          "odds": "-122",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Will the Bank of Russia make no change to the key rate after the June Meeting?",
           "odds": "+614",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Russia x Ukraine ceasefire agreement by May 31, 2026?",
           "odds": "+2841",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Steve Witkoff attend the next US x Iran diplomatic meeting?",
+          "odds": "-122",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Ukraine agrees not to join NATO before 2027?",
           "odds": "+488",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will Donald Trump publicly insult someone on May 27, 2026?",
-          "odds": "-1566",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Will no one dissent the June Fed decision?",
+          "odds": "+122",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Iván Cepeda Castro win the first round of the 2026 Colombian presidential election by 10-15%?",
+          "odds": "+185",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Trump declassifies new UFO files by May 31?",
-          "odds": "+222",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Will Nikolai Denkov win the next Bulgarian presidential election?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
+          "odds": "+1860",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Sara Rodriguez win the 2026 Wisconsin Governor Democratic primary election?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Liberal Alliance be part of the next Government of Denmark?",
+          "odds": "+726",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republicans win the 2028 US Presidential Election?",
+          "odds": "+156",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will there be no Somaliland parliamentary election before 2027?",
+          "odds": "-132",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Romania win the second Eurovision Semi-Final?",
-          "odds": "+1023",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Will the highest temperature in Toronto be 25°C on May 16?",
+          "odds": "+1539",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
+          "odds": "+2602",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Molde FK vs. Kristiansund BK: Both Teams to Score",
+          "odds": "-156",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the US acquire part of Greenland in 2026?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will NVIDIA (NVDA) close above $230 on May 14?",
+          "odds": "-194",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Abstract FDV above $200M one day after launch?",
+          "odds": "-334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will SpaceX's market cap be between $2.0T and $2.5T at market close on IPO day?",
+          "odds": "+257",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Chennai Super Kings win the 2026 Indian Premier League?",
+          "odds": "+986",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
