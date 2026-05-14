@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "14 de mayo de 2026 — 22:04 UTC",
+  "lastUpdated": "14 de mayo de 2026 — 23:51 UTC",
   "ticker": [
+    "Explosions heard as mining groups stage anti-government protest in Bolivia",
+    "UN aid convoy hit by drone strikes in Ukraine’s Kherson",
+    "Cuba’s Diaz-Canel open to US aid amid worsening fuel crisis, blackouts",
+    "Closing arguments begin in Elon Musk’s landmark lawsuit against OpenAI",
     "Could Iran war trigger a hunger crisis?",
     "‘China is gaining from what the US is doing in Iran’",
     "Border Patrol chief Mike Banks resigns in latest Trump immigration shakeup",
@@ -11,23 +15,13 @@
     "Iran, Taiwan, and trade: Trump’s high‑stakes return to Beijing",
     "US Air Force rescues 11 after plane crashes into waters off Florida coast",
     "What does the US hope to achieve from Lebanon-Israel talks?",
-    "Iran expands tiered internet access amid continued online blackout",
-    "Israeli ultranationalists chant racist slogans during Jerusalem Day march",
-    "FIFA warned ‘gruelling heat’ could impact a quarter of World Cup games",
-    "Israel’s Ben Gvir storms Al-Aqsa during Jerusalem Day march",
-    "Jerome Powell: Steering the US Fed through COVID-19 and political pressures"
+    "Iran expands tiered internet access amid continued online blackout"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Will the highest temperature in Warsaw be 13°C on May 16?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Steve Witkoff attend the next US x Iran diplomatic meeting?",
           "odds": "-122",
@@ -36,7 +30,7 @@
         },
         {
           "event": "Ukraine agrees not to join NATO before 2027?",
-          "odds": "+400",
+          "odds": "+354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -48,19 +42,19 @@
       "rows": [
         {
           "event": "Will Nikolai Denkov win the next Bulgarian presidential election?",
-          "odds": "+733",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Romania win the televote for Eurovision 2026?",
+          "odds": "+1182",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
           "odds": "+1487",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Romania win the televote for Eurovision 2026?",
-          "odds": "+1165",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -72,7 +66,7 @@
         },
         {
           "event": "Will Chong Won-oh win the 2026 Seoul Mayoral Election",
-          "odds": "-270",
+          "odds": "-257",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -95,6 +89,24 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Will Fredrikstad FK vs. Hamarkameratene end in a draw?",
+          "odds": "+257",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Wuhan San Zhen FC vs. Liaoning Tieren FC end in a draw?",
+          "odds": "+257",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Donald Trump publicly insult Mohammed bin Salman by May 31, 2026?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
           "odds": "+1654",
           "params": "Fuente: Polymarket",
@@ -103,12 +115,6 @@
         {
           "event": "LoL: Team Liquid vs Cloud9 (BO3) - LCS Regular Season",
           "odds": "+127",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will SpaceX's market cap be between $2.0T and $2.5T at market close on IPO day?",
-          "odds": "+257",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -127,18 +133,6 @@
         {
           "event": "Will the US acquire part of Greenland in 2026?",
           "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Istanbul be 20°C on May 15?",
-          "odds": "+170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Michael Echols be the Republican nominee for LA-05?",
-          "odds": "+488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
