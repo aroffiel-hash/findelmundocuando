@@ -1,6 +1,7 @@
 {
-  "lastUpdated": "15 de mayo de 2026 — 21:53 UTC",
+  "lastUpdated": "15 de mayo de 2026 — 22:49 UTC",
   "ticker": [
+    "Activists hang Palestinian flag on the Eiffel Tower for Nakba Day",
     "Mahmoud Khalil calls for deportation to be halted in light of new evidence",
     "What are World Cup 2026 national team base camps and their locations?",
     "Seven killed in Gaza on Nakba Day as Israel says it targets Hamas member",
@@ -14,20 +15,13 @@
     "Canada’s Carney travels to Alberta as separatists face legal setback",
     "Trump says China to buy 200 Boeing planes, much lower than expected",
     "Zelenskyy vows response after Russian strike kills 24 in Kyiv",
-    "Trump departs China touting deals, but little clarity on Iran or Taiwan",
-    "Russia pounds Kyiv as its advance in eastern Ukraine slows to a crawl"
+    "Trump departs China touting deals, but little clarity on Iran or Taiwan"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Will Trump announce a Taiwan arms sales halt?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Ukraine agrees not to join NATO before 2027?",
           "odds": "+300",
@@ -43,6 +37,12 @@
         {
           "event": "Fed Rate Hike by July 2026 Meeting?",
           "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jerome Powell depart as Fed Chair by May 31 2026?",
+          "odds": "-566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -131,20 +131,20 @@
           "moved": "none"
         },
         {
-          "event": "Molde FK vs. Kristiansund BK: Both Teams to Score",
-          "odds": "-156",
+          "event": "Will the highest temperature in Seoul be 24°C on May 16?",
+          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the US acquire part of Greenland in 2026?",
-          "odds": "+566",
+          "event": "Hyperliquid Up or Down - May 15, 9:10PM-9:15PM ET",
+          "odds": "+104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Abstract FDV above $200M one day after launch?",
-          "odds": "-354",
+          "event": "XRP Up or Down - May 15, 6:30PM-6:45PM ET",
+          "odds": "-376",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
