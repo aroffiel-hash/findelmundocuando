@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "15 de mayo de 2026 — 09:41 UTC",
+  "lastUpdated": "15 de mayo de 2026 — 11:50 UTC",
   "ticker": [
+    "Finland ends drone alert amid regional fears of Ukraine war spillover",
+    "This is the Palestinian Nakba, measured in land taken",
+    "India hikes fuel prices as Iran crisis bites",
+    "Three years of the West Bank’s ‘third Nakba’",
+    "Trump and Xi move towards business-first relationship after Beijing summit",
     "How Xi-Trump summit failed to yield Iran war breakthrough",
     "Xi praises US ‘milestone’ visit and relationship, offers Trump roses",
     "US seeks indictment of former Cuban leader Raul Castro",
@@ -10,12 +15,7 @@
     "Nakba Day: 78 years of ethnic cleansing",
     "Millions of Palestinians mark 78 years since the Nakba",
     "Mitoma fails to make Japan’s 2026 World Cup squad due to hamstring injury",
-    "How David Ben-Gurion got the Palestinians wrong in 1948",
-    "Iran war day 77: Trump, Xi discuss Hormuz as Tehran rallies BRICS",
-    "Why India’s RSS is lobbying the West amid attacks on minorities at home",
-    "Trump and Xi hold high-stakes talks in Beijing",
-    "Top US admiral: Strikes severely degraded Iran’s military, defence",
-    "After Trump’s pledge to ‘open up’ China, low expectations for trade deal"
+    "How David Ben-Gurion got the Palestinians wrong in 1948"
   ],
   "sections": [
     {
@@ -27,10 +27,16 @@
           "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
         {
-          "event": "Will Steve Witkoff attend the next US x Iran diplomatic meeting?",
-          "odds": "-122",
+          "event": "WTI Crude Oil (WTI) Up or Down on May 15?",
+          "odds": "-284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -53,6 +59,12 @@
           "moved": "none"
         },
         {
+          "event": "Will Bill Cassidy finish first in the first round of the Louisiana Republican Senate primary?",
+          "odds": "+2930",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the Republicans win the 2028 US Presidential Election?",
           "odds": "+156",
           "params": "Fuente: Polymarket",
@@ -65,14 +77,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Michael Stansfield advance from the CA-06 primary election?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Zachariah Wooden advance from the CA-07 primary election?",
-          "odds": "+614",
+          "event": "Will the Democratic Party win 14 upper-level local government races?",
+          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -89,14 +95,20 @@
           "moved": "none"
         },
         {
-          "event": "Dota 2: Vici Gaming vs Team Falcons - Game 2 Winner",
-          "odds": "+222",
+          "event": "Solstice FDV above $200M one day after launch?",
+          "odds": "+202",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Donald Trump publicly insult Mohammed bin Salman by May 31, 2026?",
           "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Sao Paulo be 20°C on May 17?",
+          "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -115,12 +127,6 @@
         {
           "event": "Will the price of XRP be between $1.30 and $1.40 on May 16?",
           "odds": "+1288",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Solstice FDV above $200M one day after launch?",
-          "odds": "+202",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
