@@ -1,10 +1,12 @@
 {
-  "lastUpdated": "16 de mayo de 2026 — 13:06 UTC",
+  "lastUpdated": "16 de mayo de 2026 — 13:08 UTC",
   "ticker": [
     "Moment of deadly train crash in Bangkok",
     "Ultra-Orthodox conscription dispute pushes Israeli government to brink",
     "Amid the fertiliser crisis, Africa has a chemical-free option: Agroecology",
+    "Robert Lewandowski to leave Barcelona with his ‘mission complete’",
     "Israel’s Image Crisis: Becoming Too Big to Spin?",
+    "LIVE: Chelsea vs Manchester City – FA Cup final",
     "At least eight killed, 35 injured as train hits bus in Bangkok",
     "How Kansas City became unlikely 2026 World Cup hosts for the US",
     "Israeli strikes on southern Lebanon continue despite ‘ceasefire’ extension",
@@ -12,35 +14,126 @@
     "Britain is losing the ability to tell anti-Semitism from dissent",
     "From the Nakba to Gaza’s ruins: One man’s lifetime of displacement",
     "Russia’s Putin to visit China following Trump’s trip",
-    "Iran war day 78: Trump, Tehran signal talks as Lebanon truce extended"
+    "Iran war day 78: Trump, Tehran signal talks as Lebanon truce extended",
+    "Gunmen kidnap dozens of students in Nigeria’s Borno State"
   ],
   "sections": [
     {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Ukraine agrees not to join NATO before 2027?",
           "odds": "+488",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Trump attend NATO Summit?",
           "odds": "-316",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y ENERGÍA",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
           "event": "Fed Rate Hike by July 2026 Meeting?",
           "odds": "+1011",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con política monetaria de la Fed.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Ivan Cepeda Castro win the 2026 Colombian presidential election?",
+          "odds": "+138",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Nikolai Denkov win the next Bulgarian presidential election?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
+          "odds": "+1462",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Marine Le Pen be the National Rally’s candidate for the 2027 French Presidential election?",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republicans win the 2028 US Presidential Election?",
+          "odds": "+163",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will the highest temperature in Paris be 15°C on May 16?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Omar López be the next permanent manager of the Philadelphia Phillies?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Fight to Go the Distance?",
+          "odds": "-149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
+          "odds": "+2280",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the US acquire part of Greenland in 2026?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Kayserispor vs. Konyaspor end in a draw?",
+          "odds": "+300",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Abstract FDV above $200M one day after launch?",
+          "odds": "-354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in New York City be between 86-87°F on May 17?",
+          "odds": "+194",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
