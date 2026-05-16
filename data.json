@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "16 de mayo de 2026 — 07:55 UTC",
+  "lastUpdated": "16 de mayo de 2026 — 09:25 UTC",
   "ticker": [
+    "Russia’s Putin to visit China following Trump’s trip",
+    "Iran war day 78: Trump, Tehran signal talks as Lebanon truce extended",
+    "Gunmen kidnap dozens of students in Nigeria’s Borno State",
+    "Spain PM defends Eurovision boycott over Israel",
     "Man killed in great white shark attack in western Australia",
     "Aston Villa trounce Liverpool 4-2 to seal Champions League place",
     "Where did Eurovision go wrong?",
@@ -11,17 +15,19 @@
     "Israel launches deadly air strikes on Gaza City apartment building",
     "UK artist defends ‘Drawings Against Genocide’ after show cancelled",
     "Gaza aid convoy in Libya prepares to head to Gaza",
-    "Iran war live: Israel continues Lebanon attacks after ‘ceasefire’ extended",
-    "Activists hang Palestinian flag on the Eiffel Tower for Nakba Day",
-    "Mahmoud Khalil calls for deportation to be halted in light of new evidence",
-    "What are World Cup 2026 national team base camps and their locations?",
-    "Seven killed in Gaza on Nakba Day as Israel says it targets Hamas member"
+    "Iran war live: Israel continues Lebanon attacks after ‘ceasefire’ extended"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Iran closes its airspace by May 24?",
+          "odds": "+300",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Ukraine agrees not to join NATO before 2027?",
           "odds": "+488",
@@ -30,7 +36,7 @@
         },
         {
           "event": "Will Trump attend NATO Summit?",
-          "odds": "-426",
+          "odds": "-316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -78,25 +84,25 @@
         },
         {
           "event": "Will the Republicans win the 2028 US Presidential Election?",
-          "odds": "+156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Anže Logar be the next Prime Minister of Slovenia?",
-          "odds": "+3125",
+          "odds": "+163",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Ivan Cepeda Castro win the 2026 Colombian presidential election?",
-          "odds": "+149",
+          "odds": "+143",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Democratic Party win 14 upper-level local government races?",
           "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Zachariah Wooden advance from the CA-07 primary election?",
+          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -109,6 +115,12 @@
         {
           "event": "Will Donald Trump publicly insult Mohammed bin Salman by May 31, 2026?",
           "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Switzerland win the 2026 IIHF World Championship?",
+          "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -145,12 +157,6 @@
         {
           "event": "Molde FK vs. Kristiansund BK: Both Teams to Score",
           "odds": "-156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Abstract FDV above $200M one day after launch?",
-          "odds": "-354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
