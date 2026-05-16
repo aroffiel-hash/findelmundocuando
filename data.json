@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "16 de mayo de 2026 — 16:52 UTC",
+  "lastUpdated": "16 de mayo de 2026 — 17:51 UTC",
   "ticker": [
+    "UK ex-health minister says will run to replace Prime Minister Keir Starmer",
+    "Al Jazeera’s exclusive report from the Strait of Hormuz",
+    "Sudanese army captures key town near Ethiopian border from RSF",
+    "Man City beat Chelsea in FA Cup final to keep treble dream alive",
     "Hamas confirms killing of Qassam Brigades leader in Israeli attack",
     "Abu-Bilal al-Minuki: ISIL’s shadow commander in West Africa",
     "Iran warns of readiness for war and economic costs as US talks falter",
@@ -11,11 +15,7 @@
     "Mexico teachers threaten World Cup disruption over pay",
     "Moment of deadly train crash in Bangkok",
     "Ultra-Orthodox conscription dispute pushes Israeli government to brink",
-    "Amid the fertiliser crisis, Africa has a chemical-free option: Agroecology",
-    "Robert Lewandowski to leave Barcelona with his ‘mission complete’",
-    "Israel’s Image Crisis: Becoming Too Big to Spin?",
-    "LIVE: Chelsea vs Manchester City – FA Cup final",
-    "At least eight killed, 35 injured as train hits bus in Bangkok"
+    "Amid the fertiliser crisis, Africa has a chemical-free option: Agroecology"
   ],
   "sections": [
     {
@@ -33,6 +33,12 @@
           "odds": "-316",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will New People (NL) gain the most seats in the next Russian parliamentary election?",
+          "odds": "+254",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -43,6 +49,12 @@
         {
           "event": "Fed Rate Hike by July 2026 Meeting?",
           "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will S&P 500 (SPY) hit (LOW) $680 in May?",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -69,6 +81,18 @@
           "odds": "+376",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Zachariah Wooden advance from the CA-07 primary election?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trevor Merrell advance from the CA-04 primary election?",
+          "odds": "+1594",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -76,12 +100,6 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
-        {
-          "event": "Will the lowest temperature in Paris be 10°C on May 19?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will SD Huesca win on 2026-05-18?",
           "odds": "+316",
@@ -91,12 +109,6 @@
         {
           "event": "Counter-Strike: SINQU vs KUUSAMO.gg (BO3) - European Pro League Regular Group C",
           "odds": "+112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will NK Lokomotiva Zagreb win on 2026-05-16?",
-          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -114,13 +126,25 @@
         },
         {
           "event": "Will the US acquire part of Greenland in 2026?",
-          "odds": "+614",
+          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Abstract FDV above $200M one day after launch?",
           "odds": "-354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Airbnb, Inc. (ABNB) hit (LOW) $124 in May?",
+          "odds": "+244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Michael Kim finish in the Top 20 at the 2026 PGA Championship?",
+          "odds": "+213",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
