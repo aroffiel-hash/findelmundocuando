@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "16 de mayo de 2026 — 18:55 UTC",
+  "lastUpdated": "16 de mayo de 2026 — 20:00 UTC",
   "ticker": [
+    "Latvia’s president asks opposition leader to form new government",
+    "Accident kills eight people in Thailand raising questions of rail safety",
+    "Francesca Albanese on Israeli sexual violence suffered by Palestinians",
+    "Spanish Foreign Minister on Spain’s clash with the Trump administration",
     "DRC health minister warns ‘very high’ Ebola lethality rate as toll hits 80",
     "Thousands march in central London to mark 78th Nakba anniversary",
     "Palestinian President Abbas casts vote in decisive Fatah elections",
@@ -11,17 +15,19 @@
     "Hamas confirms killing of Qassam Brigades leader in Israeli attack",
     "Abu-Bilal al-Minuki: ISIL’s shadow commander in West Africa",
     "Iran warns of readiness for war and economic costs as US talks falter",
-    "How Thomas Massie came to represent Republican dissent in age of Trump",
-    "Israeli army kills Palestinian man, raids homes in occupied West Bank",
-    "Tens of thousands march in London in far-right and pro-Palestine protests",
-    "Zimbabwe’s diaspora reshapes real estate and farming investment trends",
-    "Mexico teachers threaten World Cup disruption over pay"
+    "How Thomas Massie came to represent Republican dissent in age of Trump"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Will New People (NL) gain the most seats in the next Russian parliamentary election?",
+          "odds": "+249",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Ukraine agrees not to join NATO before 2027?",
           "odds": "+525",
@@ -31,12 +37,6 @@
         {
           "event": "Will Trump attend NATO Summit?",
           "odds": "-316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will New People (NL) gain the most seats in the next Russian parliamentary election?",
-          "odds": "+255",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -72,7 +72,13 @@
       "rows": [
         {
           "event": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
-          "odds": "+1539",
+          "odds": "+1685",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Greece win the televote for Eurovision 2026?",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -91,12 +97,6 @@
         {
           "event": "Will Zachariah Wooden advance from the CA-07 primary election?",
           "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trevor Merrell advance from the CA-04 primary election?",
-          "odds": "+1594",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -137,12 +137,6 @@
           "moved": "none"
         },
         {
-          "event": "Valorant: 100 Thieves vs LOUD (BO3) - VCT Americas Stage 1 Playoffs",
-          "odds": "-132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the US acquire part of Greenland in 2026?",
           "odds": "+614",
           "params": "Fuente: Polymarket",
@@ -151,6 +145,12 @@
         {
           "event": "Abstract FDV above $200M one day after launch?",
           "odds": "-354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Chicago be 78°F or higher on May 18?",
+          "odds": "-1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
