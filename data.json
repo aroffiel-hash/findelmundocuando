@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "16 de mayo de 2026 — 02:26 UTC",
+  "lastUpdated": "16 de mayo de 2026 — 05:48 UTC",
   "ticker": [
+    "Outbreak of rare strain of Ebola claims at least 65 lives in DR Congo",
+    "Israel launches deadly air strikes on Gaza City apartment building",
+    "UK artist defends ‘Drawings Against Genocide’ after show cancelled",
     "Gaza aid convoy in Libya prepares to head to Gaza",
     "Iran war live: Lebanon, Israel extend truce; Tehran ready for more US talks",
     "Activists hang Palestinian flag on the Eiffel Tower for Nakba Day",
@@ -12,10 +15,7 @@
     "Ex-Sinaloa security chief in Mexico arrested in US over alleged cartel ties",
     "Trump calls journalist’s Iran reporting ‘treasonous’",
     "Pakistan’s Fatima Sana breaks world record for fastest 50 in women’s T20",
-    "Is the US dialling down its support for Taiwan?",
-    "WHO confirms 10 global hantavirus cases, Hondius crew remain symptom-free",
-    "Canada’s Carney travels to Alberta as separatists face legal setback",
-    "Trump says China to buy 200 Boeing planes, much lower than expected"
+    "Is the US dialling down its support for Taiwan?"
   ],
   "sections": [
     {
@@ -24,7 +24,13 @@
       "rows": [
         {
           "event": "Ukraine agrees not to join NATO before 2027?",
-          "odds": "+300",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump attend NATO Summit?",
+          "odds": "-426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -37,12 +43,6 @@
         {
           "event": "Fed Rate Hike by July 2026 Meeting?",
           "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will S&P 500 (SPY) hit (LOW) $680 in May?",
-          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -78,19 +78,19 @@
         },
         {
           "event": "Will Anže Logar be the next Prime Minister of Slovenia?",
-          "odds": "+2930",
+          "odds": "+3125",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Ivan Cepeda Castro win the 2026 Colombian presidential election?",
+          "odds": "+149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Democratic Party win 14 upper-level local government races?",
           "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Zachariah Wooden advance from the CA-07 primary election?",
-          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -100,6 +100,12 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
+        {
+          "event": "Will the lowest temperature in Hong Kong be 23°C on May 16?",
+          "odds": "+163",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the highest temperature in Guangzhou be 27°C on May 17?",
           "odds": "+284",
@@ -119,6 +125,12 @@
           "moved": "none"
         },
         {
+          "event": "Will the Reserve Bank of New Zealand increase the official cash rate after the May decision?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
           "odds": "+2280",
           "params": "Fuente: Polymarket",
@@ -133,18 +145,6 @@
         {
           "event": "Molde FK vs. Kristiansund BK: Both Teams to Score",
           "odds": "-156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Abstract FDV above $200M one day after launch?",
-          "odds": "-354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Romania be in the top 10 at Eurovision 2026?",
-          "odds": "-614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
