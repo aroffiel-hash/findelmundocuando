@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "16 de mayo de 2026 — 05:48 UTC",
+  "lastUpdated": "16 de mayo de 2026 — 07:55 UTC",
   "ticker": [
+    "Man killed in great white shark attack in western Australia",
+    "Aston Villa trounce Liverpool 4-2 to seal Champions League place",
+    "Where did Eurovision go wrong?",
+    "US charges alleged Iran-backed ⁠Kataib Hezbollah suspect – What we know",
+    "Trump says ISIL second-in-command Abu-Bilal al-Minuki killed",
+    "Wembanyama’s Spurs reach Western finals, Pistons stay alive in NBA playoffs",
     "Outbreak of rare strain of Ebola claims at least 65 lives in DR Congo",
     "Israel launches deadly air strikes on Gaza City apartment building",
     "UK artist defends ‘Drawings Against Genocide’ after show cancelled",
     "Gaza aid convoy in Libya prepares to head to Gaza",
-    "Iran war live: Lebanon, Israel extend truce; Tehran ready for more US talks",
+    "Iran war live: Israel continues Lebanon attacks after ‘ceasefire’ extended",
     "Activists hang Palestinian flag on the Eiffel Tower for Nakba Day",
     "Mahmoud Khalil calls for deportation to be halted in light of new evidence",
     "What are World Cup 2026 national team base camps and their locations?",
-    "Seven killed in Gaza on Nakba Day as Israel says it targets Hamas member",
-    "What did Trump and Xi discuss during the China summit?",
-    "Cuba hit by protests, blackouts amid oil shortage",
-    "Ex-Sinaloa security chief in Mexico arrested in US over alleged cartel ties",
-    "Trump calls journalist’s Iran reporting ‘treasonous’",
-    "Pakistan’s Fatima Sana breaks world record for fastest 50 in women’s T20",
-    "Is the US dialling down its support for Taiwan?"
+    "Seven killed in Gaza on Nakba Day as Israel says it targets Hamas member"
   ],
   "sections": [
     {
@@ -43,6 +43,12 @@
         {
           "event": "Fed Rate Hike by July 2026 Meeting?",
           "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will S&P 500 (SPY) hit (LOW) $680 in May?",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -101,18 +107,6 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the lowest temperature in Hong Kong be 23°C on May 16?",
-          "odds": "+163",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Guangzhou be 27°C on May 17?",
-          "odds": "+284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Donald Trump publicly insult Mohammed bin Salman by May 31, 2026?",
           "odds": "+1899",
           "params": "Fuente: Polymarket",
@@ -125,8 +119,8 @@
           "moved": "none"
         },
         {
-          "event": "Will the Reserve Bank of New Zealand increase the official cash rate after the May decision?",
-          "odds": "+669",
+          "event": "Will Ariana Grande have a #1 hit in the US in May?",
+          "odds": "-316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -143,8 +137,20 @@
           "moved": "none"
         },
         {
+          "event": "Will Kayserispor vs. Konyaspor end in a draw?",
+          "odds": "+300",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Molde FK vs. Kristiansund BK: Both Teams to Score",
           "odds": "-156",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Abstract FDV above $200M one day after launch?",
+          "odds": "-354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
