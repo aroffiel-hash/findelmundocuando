@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "16 de mayo de 2026 — 23:44 UTC",
+  "lastUpdated": "17 de mayo de 2026 — 02:30 UTC",
   "ticker": [
+    "Tunisians rally amid economic crisis and political arrests",
+    "Iraq’s new PM Ali al-Zaidi formally takes over",
+    "Iran war live: Tehran plans tolls in Hormuz; Trump warns of ‘very bad time’",
     "Bolivia launches early-morning crackdown on roadblocks outside La Paz",
     "German police assault protesters at Nakba anniversary rally",
     "Two presidential campaign staffers killed in Colombia as elections near",
@@ -9,155 +12,41 @@
     "Bolivian army attempts to clear roads after 11 days of protests",
     "Thousands protest at Eurovision final as five countries boycott over Israel",
     "Can new Pakistan-Afghanistan tensions lead to another border clash?",
-    "In response to Trump, Taiwan says it is ‘sovereign and independent’",
-    "Tens of thousands join far-right rally in central London",
-    "Latvia’s president asks opposition leader to form new government",
-    "Accident kills eight people in Thailand raising questions of rail safety",
-    "Francesca Albanese on Israeli sexual violence suffered by Palestinians",
-    "Spanish Foreign Minister on Spain’s clash with the Trump administration",
-    "DRC health minister warns ‘very high’ Ebola lethality rate as toll hits 80"
+    "In response to Trump, Taiwan says it is ‘sovereign and independent’"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
       "rows": [
         {
           "event": "Ukraine agrees not to join NATO before 2027?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
+          "odds": "+400",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
           "moved": "none"
         },
         {
           "event": "Will Trump attend NATO Summit?",
           "odds": "-316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Justin Briner as Izuku Midoriya (My Hero Academia FINAL SEASON) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?",
-          "odds": "+132",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
           "moved": "none"
         },
         {
           "event": "Will US withdraw from NATO before 2027?",
           "odds": "+1090",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
       "rows": [
         {
-          "event": "Brentford FC vs. Crystal Palace FC: Both Teams to Score",
-          "odds": "-132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Fed Rate Hike by July 2026 Meeting?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
-          "odds": "+1685",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republicans win the 2028 US Presidential Election?",
-          "odds": "+156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Marine Le Pen be the National Rally’s candidate for the 2027 French Presidential election?",
-          "odds": "+376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trevor Merrell advance from the CA-04 primary election?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Zachariah Wooden advance from the CA-07 primary election?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Robert Kenyon win the 2026 Makerfield by-election?",
-          "odds": "+222",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will Aberdeen FC win on 2026-05-17?",
-          "odds": "+203",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will SD Huesca win on 2026-05-18?",
-          "odds": "+316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Counter-Strike: SINQU vs KUUSAMO.gg (BO3) - European Pro League Regular Group C",
-          "odds": "+112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Tokyo be 27°C on May 18?",
-          "odds": "+257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Omar López be the next permanent manager of the Philadelphia Phillies?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "ITF Nakhon Pathom: Gyeong Seo Lee vs Anchisa Chanta",
-          "odds": "+163",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
-          "odds": "+2280",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the US acquire part of Greenland in 2026?",
-          "odds": "+566",
-          "params": "Fuente: Polymarket",
+          "event": "Will Trump say \"Xi\" this week?",
+          "odds": "-426",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
