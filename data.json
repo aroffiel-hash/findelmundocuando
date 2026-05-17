@@ -1,76 +1,169 @@
 {
-  "lastUpdated": "17 de mayo de 2026 — 13:03 UTC",
+  "lastUpdated": "17 de mayo de 2026 — 13:19 UTC",
   "ticker": [
+    "Pro-Palestine protest held at oldest colonial building in South Africa",
+    "Schoolchildren flee Israeli raid in occupied West Bank",
+    "WHO declares Ebola outbreak in DRC a global health emergency",
+    "Israel comes second at Eurovision amid boycotts and backlash",
     "WHO declares Ebola outbreak in DRC, Uganda a global emergency: What to know",
     "Republican Senator Cassidy loses Louisiana primary after opposing Trump",
     "Javier Bardem says condemning the Gaza genocide has led to more work",
     "The strike that changed the geometry of war",
     "Two Nepali Sherpa climbers break own records on Mount Everest",
     "Egyptian teen Amina Orfi beats El-Sherbini to win PSA world squash title",
-    "At least four killed in Ukrainian drone attacks on Russia",
+    "How Arsenal or Man City can clinch Premier League title with two games left",
+    "Ukrainian drone attacks on Russia kill at least five",
+    "Conor McGregor to fight Max Holloway in UFC return on July 11",
     "Al Jazeera reports from Strait of Hormuz on Iran’s plan to manage shipping",
-    "Bulgaria wins Eurovision for first time; Israel comes second amid boycott",
-    "Sardar Azmoun left out as Iran announce World Cup 2026 squad",
-    "Federal funding for Trump ballroom in trouble after Senate ruling",
-    "Modest fashion’s global turn"
+    "Bulgaria wins Eurovision for first time; Israel comes second amid boycott"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
-      "rows": [
-        {
-          "event": "Internet Access restored in Iran by May 31, 2026?",
-          "odds": "+1751",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Ukraine agrees not to join NATO before 2027?",
           "odds": "+400",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Russia x Ukraine ceasefire by October 31, 2026?",
           "odds": "+376",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Russia x Ukraine ceasefire by June 30, 2026?",
           "odds": "+1150",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Trump attend NATO Summit?",
           "odds": "-334",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Justin Briner as Izuku Midoriya (My Hero Academia FINAL SEASON) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?",
+          "odds": "+132",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will US withdraw from NATO before 2027?",
           "odds": "+1076",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Internet Access restored in Iran by May 31, 2026?",
+          "odds": "+1751",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Trump say \"Kamala\" this week?",
+          "event": "Will Jean Castex be on the ballot for the 2027 French presidential election?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Republican House incumbents not win in between four and six nominating elections in the 2026 cycle?",
+          "odds": "+474",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republicans win the 2028 US Presidential Election?",
+          "odds": "+156",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the No to ten million Switzerland initiative be approved in Switzerland’s June 14, 2026 popular vote?",
+          "odds": "+222",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Zachariah Wooden advance from the CA-07 primary election?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trevor Merrell advance from the CA-04 primary election?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Counter-Strike: SINQU vs KUUSAMO.gg (BO3) - European Pro League Regular Group C",
           "odds": "+112",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the US acquire part of Greenland in 2026?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Silkeborg IF win on 2026-05-17?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Omar López be the next permanent manager of the Philadelphia Phillies?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
+          "odds": "+2280",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Abstract FDV above $200M one day after launch?",
+          "odds": "-354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will PSV vs. FC Twente '65 end in a draw?",
+          "odds": "+284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jared Moskowitz be the Democratic Nominee for FL-23?",
+          "odds": "+143",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
