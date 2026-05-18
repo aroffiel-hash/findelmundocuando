@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "18 de mayo de 2026 — 15:15 UTC",
+  "lastUpdated": "18 de mayo de 2026 — 17:54 UTC",
   "ticker": [
+    "Trump drops IRS lawsuit, sets up $1.7bn US anti-weaponisation fund",
+    "World Cup 2026: Will violence and protests test Mexico’s cohost status?",
+    "Philippines launches VP Duterte impeachment trial amid political division",
+    "What we know about Israel’s interception of Gaza aid flotilla",
+    "Kentucky primaries 2026: Poll times, key races and what to watch",
+    "Pakistan’s mediation faces limits as Iran-US tensions deepen",
+    "LIVE: Arsenal vs Burnley – Premier League",
+    "Could the Iran war trigger the next debt shock?",
+    "Former US negotiator with Iran: Trump falling into Vietnam trap",
+    "Tata-ASML deal: How significant is it for India’s semiconductor push?",
+    "World Cup Golden Boot: which players have top scored at each tournament?",
+    "Renewed Israeli attacks kill 7 in Lebanon as death toll exceeds 3,000",
     "What is the UAE’s Barakah nuclear plant, nearly hit by a drone?",
     "The world cannot afford to fail women, children and adolescents",
-    "Ebola, hantavirus: Is the world prepared for the next pandemic?",
-    "Iran eyes challenging stock market reopening after lengthy war closure",
-    "Abducted flotilla activists release pre-recorded messages calling for help",
-    "The Gulf does not have to choose Iran or Israel",
-    "Iran sends response to US proposal to end war via mediator Pakistan",
-    "DRC health minister visits hotspot for Ebola outbreak",
-    "Iran plans to offer insurance for Hormuz transit: Will it work?",
-    "Iran says nuclear enrichment rights cannot be ‘negotiated’",
-    "Russian drone hits Chinese ship off Ukraine before Putin meets Xi Jinping",
-    "Israeli forces begin intercepting Gaza-bound aid flotilla near Cyprus",
-    "Migrants ‘feared for their lives’ as Libyan gunmen fired on rescue ship",
-    "Hantavirus-hit cruise ship docks in the Netherlands",
-    "How war affects civilians for generations"
+    "Ebola, hantavirus: Is the world prepared for the next pandemic?"
   ],
   "sections": [
     {
@@ -23,14 +23,26 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "US x Iran permanent peace deal by June 30, 2026?",
-          "odds": "+284",
+          "event": "Will Russia enter Druzkhivka by December 31, 2026?",
+          "odds": "+203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will US withdraw from NATO before 2027?",
-          "odds": "+1090",
+          "odds": "+1104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "WTI Crude Oil (WTI) closes above $103 on May 19?",
+          "odds": "-122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -42,7 +54,7 @@
       "rows": [
         {
           "event": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
-          "odds": "+890",
+          "odds": "+920",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -65,6 +77,12 @@
           "moved": "none"
         },
         {
+          "event": "Will the Republicans win the Maine Senate race in 2026?",
+          "odds": "+284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Marco Rubio win the 2028 US Presidential Election?",
           "odds": "+614",
           "params": "Fuente: Polymarket",
@@ -75,12 +93,6 @@
           "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will the Republicans win the Maine Senate race in 2026?",
-          "odds": "+284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -89,8 +101,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will \"MINOTAUR by Andrey ZVYAGINTSEV\" win Palme d'Or at the 2026 Cannes Film Festival?",
-          "odds": "+300",
+          "event": "SpaceX IPO closing market cap above $1.4T?",
+          "odds": "-2399",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -107,12 +119,6 @@
           "moved": "none"
         },
         {
-          "event": "SpaceX IPO closing market cap above $1.4T?",
-          "odds": "-2399",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Abstract FDV above $200M one day after launch?",
           "odds": "-316",
           "params": "Fuente: Polymarket",
@@ -121,6 +127,12 @@
         {
           "event": "Will Alphabet Inc. (GOOGL) hit (HIGH) $420 in May?",
           "odds": "+112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Hong Kong have less than 180mm of precipitation in May?",
+          "odds": "-149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
