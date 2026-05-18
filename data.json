@@ -1,133 +1,52 @@
 {
-  "lastUpdated": "18 de mayo de 2026 — 11:01 UTC",
+  "lastUpdated": "18 de mayo de 2026 — 14:58 UTC",
   "ticker": [
-    "Hantavirus-hit cruise ship docks in the Netherlands",
-    "How war affects civilians for generations",
-    "Video: US calls on G7 to impose US-led sanctions on Iran",
-    "US military carries out more strikes against ISIL fighters in Nigeria",
-    "Israeli settlers run over livestock in occupied West Bank",
-    "Israel built two military bases in Iraq before war on Iran: New York Times",
-    "Why was Neymar angry at his substitution and will he play in the World Cup?",
-    "Mitchell, Cavaliers eliminate Pistons, will play Knicks in East finals",
-    "Netanyahu says Israel controls 60 percent of Gaza",
-    "‘Hindu order runs India’: Court declares another medieval mosque a temple",
-    "Al Jazeera reports from Hormuz Island as Iran says it controls the strait",
-    "Israeli forces intercept Gaza-bound aid flotilla",
-    "Mali drone strikes kill at least 10 civilians at wedding",
-    "Iran war day 80: Trump issues warning; Tehran ‘ready’ to confront attacks",
-    "Earthquake hits southern China, toppling buildings"
+    "What is the UAE’s Barakah nuclear plant, nearly hit by a drone?",
+    "The world cannot afford to fail women, children and adolescents",
+    "Ebola, hantavirus: Is the world prepared for the next pandemic?",
+    "Iran eyes challenging stock market reopening after lengthy war closure",
+    "Abducted flotilla activists release pre-recorded messages calling for help",
+    "The Gulf does not have to choose Iran or Israel",
+    "Iran sends response to US proposal to end war via mediator Pakistan",
+    "DRC health minister visits hotspot for Ebola outbreak",
+    "Iran plans to offer insurance for Hormuz transit: Will it work?",
+    "Iran says nuclear enrichment rights cannot be ‘negotiated’",
+    "Russian drone hits Chinese ship off Ukraine before Putin meets Xi Jinping",
+    "Israeli forces begin intercepting Gaza-bound aid flotilla near Cyprus"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
+      "rows": [
+        {
+          "event": "US x Iran permanent peace deal by June 30, 2026?",
+          "odds": "+257",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
       "rows": [
         {
           "event": "Will US withdraw from NATO before 2027?",
           "odds": "+1090",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
-        {
-          "event": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
-          "odds": "+890",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Jean Castex be on the ballot for the 2027 French presidential election?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the No to ten million Switzerland initiative be approved in Switzerland’s June 14, 2026 popular vote?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republicans win the 2028 US Presidential Election?",
-          "odds": "+156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will J.D. Vance be the 2028 Republican Vice-Presidential nominee?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Marco Rubio win the 2028 US Presidential Election?",
-          "odds": "+624",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will the Republicans win the Maine Senate race in 2026?",
-          "odds": "+300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
-          "odds": "+1860",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Abstract FDV above $200M one day after launch?",
-          "odds": "-316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "SpaceX IPO closing market cap above $1.4T?",
-          "odds": "-1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Donald Trump dance on May 18, 2026?",
-          "odds": "+1751",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Uruguay win on 2026-06-21?",
-          "odds": "-233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will a Claude Mythos model be released by June 30, 2026?",
-          "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will West Ham be relegated from the English Premier League after the 2025–26 season?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Chelsea FC win on 2026-05-24?",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
+          "odds": "+284",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
