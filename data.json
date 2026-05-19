@@ -1,139 +1,52 @@
 {
-  "lastUpdated": "19 de mayo de 2026 — 11:56 UTC",
+  "lastUpdated": "19 de mayo de 2026 — 14:43 UTC",
   "ticker": [
+    "Why has FIFA not signed a World Cup broadcast deal in India?",
+    "US extends sanctions waiver on Russian oil: Why it matters",
+    "Ronaldo to lead Portugal at sixth World Cup as Martinez names squad",
+    "Who was Amin Abdullah, the ‘hero’ guard killed in San Diego shooting?",
+    "Suspected car bomb explodes in Syrian capital Damascus",
+    "China-Russia relations are as strong as ever thanks to Trump",
+    "Son of Palestinian president elected to Fatah’s top leadership body",
+    "Israeli far-right minister Smotrich says ICC seeks his arrest",
+    "Xi Jinping seeks to strengthen ties with Putin during China visit",
+    "Trump says Iran attack on ‘hold’: What we know about latest negotiations",
     "Thailand to slash tourist visa-free stays",
-    "Gaza aid flotilla organisers say 41 boats intercepted, 10 still sailing",
-    "Musk vs Altman: What to know about the OpenAI verdict",
-    "Spain’s former PM Zapatero faces corruption probe",
-    "WHO to hold emergency committee meeting as Ebola death toll rises to 131",
-    "Iran squad in race against time for World Cup readiness amid US-Israel war",
-    "The US, Israel and the normalisation of scandal",
-    "Khartoum’s slow recovery amid cautious return",
-    "Starbucks Korea CEO fired over promotion that evoked military crackdown",
-    "‘China holds the cards’: Why Putin’s visit to Beijing after Trump matters",
-    "Child survivor of San Diego mosque shooting describes ordeal",
-    "At least 10 dead as huge floods sweep southern and central China",
-    "‘King of the North’: Who is Andy Burnham, a potential UK prime minister?",
-    "San Diego mosque shooting: What we know about the victims and the attackers",
-    "Gunmen abduct 39 students, 7 teachers in attacks on Nigeria schools"
+    "Gaza aid flotilla organisers say 41 boats intercepted, 10 still sailing"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
       "rows": [
         {
           "event": "Russia x Ukraine ceasefire by June 30, 2026?",
           "odds": "+1150",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
           "moved": "none"
         },
         {
           "event": "Will Russia enter Druzkhivka by December 31, 2026?",
           "odds": "+203",
-          "params": "Fuente: Polymarket",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
+          "moved": "none"
+        },
+        {
+          "event": "Will Russia enter Shevchenko by June 30?",
+          "odds": "+455",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
-        {
-          "event": "Will the No to ten million Switzerland initiative be approved in Switzerland’s June 14, 2026 popular vote?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
-          "odds": "+1076",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Jean Castex be on the ballot for the 2027 French presidential election?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will the Senate pass a reconciliation bill by May 31?",
           "odds": "-222",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republicans win the 2028 US Presidential Election?",
-          "odds": "+156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Marco Rubio win the 2028 US Presidential Election?",
-          "odds": "+619",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Jordan Bardella be on the ballot for the 2027 French presidential election?",
-          "odds": "-300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
-          "odds": "+1860",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Abstract FDV above $200M one day after launch?",
-          "odds": "-316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will RC Celta de Vigo win on 2026-05-23?",
-          "odds": "-127",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Istanbul (Doubles): Gornes/Walkow vs Ayeni/Cook",
-          "odds": "-132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the median home value in New York City be between $612,000 and $617,000 on May 31?",
-          "odds": "+233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Silver (SI) hit (HIGH) $120 by end of June?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Monero hit $1000 in 2026?",
-          "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will West Ham be relegated from the English Premier League after the 2025–26 season?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
