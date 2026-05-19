@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "18 de mayo de 2026 — 22:54 UTC",
+  "lastUpdated": "19 de mayo de 2026 — 00:00 UTC",
   "ticker": [
+    "US suspends joint defence effort with Canada dating back to World War II",
+    "A packed race for governor: What to know about Oregon’s primary elections",
+    "Brazil call up Neymar to World Cup 2026 squad",
     "A redistricting re-do? What to know about Alabama’s primary elections",
     "Is the US trying to force regime change in Cuba?",
     "Guardiola on verge of Manchester City exit at end of Premier League season",
@@ -12,10 +15,7 @@
     "‘Not for sale’: Greenland premier tells US envoy",
     "Iraq launches desert sweep after reports of secret Israeli bases",
     "Indian court declares another historical mosque a temple",
-    "Croatian president rejects new Israeli ambassador",
-    "US drops fraud charges after billionaire Adani pledges $10bn investment",
-    "Will Cuba be forced to accept the US president’s demands?",
-    "Police respond to shooting at US mosque"
+    "Croatian president rejects new Israeli ambassador"
   ],
   "sections": [
     {
@@ -31,6 +31,24 @@
         {
           "event": "Will US withdraw from NATO before 2027?",
           "odds": "+1104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "ITF Klagenfurt: Alessandra Mazzola vs Claudia Gasparovic",
+          "odds": "-1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "WTI Crude Oil (WTI) Up or Down on May 19?",
+          "odds": "+108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -113,6 +131,12 @@
           "moved": "none"
         },
         {
+          "event": "Will there be a run scored in the first inning?: Cleveland Guardians vs. Detroit Tigers",
+          "odds": "-3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Uruguay win on 2026-06-21?",
           "odds": "-233",
           "params": "Fuente: Polymarket",
@@ -127,12 +151,6 @@
         {
           "event": "Counter-Strike: CSGOPOSITIVE vs Oldboys (BO3) - Exort Series Contenders Stage",
           "odds": "-1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the median home value in New York City be between $617,000 and $622,000 on May 31?",
-          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
