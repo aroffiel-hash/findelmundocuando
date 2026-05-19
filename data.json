@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "19 de mayo de 2026 — 14:56 UTC",
+  "lastUpdated": "19 de mayo de 2026 — 17:36 UTC",
   "ticker": [
-    "Why has FIFA not signed a World Cup broadcast deal in India?",
-    "US extends sanctions waiver on Russian oil: Why it matters",
-    "Ronaldo to lead Portugal at sixth World Cup as Martinez names squad",
-    "Who was Amin Abdullah, the ‘hero’ guard killed in San Diego shooting?",
-    "Suspected car bomb explodes in Syrian capital Damascus",
-    "China-Russia relations are as strong as ever thanks to Trump",
-    "Son of Palestinian president elected to Fatah’s top leadership body",
-    "Israeli far-right minister Smotrich says ICC seeks his arrest",
-    "Xi Jinping seeks to strengthen ties with Putin during China visit",
-    "Trump says Iran attack on ‘hold’: What we know about latest negotiations",
-    "Thailand to slash tourist visa-free stays",
-    "Gaza aid flotilla organisers say 41 boats intercepted, 10 still sailing",
-    "Musk vs Altman: What to know about the OpenAI verdict",
-    "Spain’s former PM Zapatero faces corruption probe",
-    "WHO to hold emergency committee meeting as Ebola death toll rises to 131"
+    "Tributes pour in for ‘hero’ guard killed in San Diego mosque shooting",
+    "Trump says Xi assured him China would not send weapons to Iran",
+    "I knew Amin Abdullah, the hero of the San Diego mosque shooting",
+    "How the shape of a map can determine the US midterm elections",
+    "At least 22 killed in Israeli attacks on Lebanon in 24 hours: Ministry",
+    "Carlos Alcaraz withdraws from Wimbledon with wrist injury",
+    "Pakistan sentences man to death for killing TikTok star Sana Yousaf",
+    "Security guards face probe after last week’s Philippine Senate shooting",
+    "Qatar says US-Iran negotiations need ‘more time’",
+    "At least one killed, 21 wounded in car bomb explosion in Syria’s Damascus",
+    "LIVE: Bournemouth vs Man City – Premier League",
+    "Neymar is going to the World Cup: Why did Brazil name him in the squad?",
+    "Flight to Argentina: How significant is it for Israel’s LatAm outreach?",
+    "Resistance: who gets to decide?",
+    "Why has FIFA not signed a World Cup broadcast deal in India?"
   ],
   "sections": [
     {
@@ -23,20 +23,20 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Russia x Ukraine ceasefire by June 30, 2026?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Russia enter Druzkhivka by December 31, 2026?",
           "odds": "+203",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
         {
-          "event": "Will Russia enter Shevchenko by June 30?",
-          "odds": "+455",
+          "event": "Will S&P 500 (SPY) hit (HIGH) $750 in May?",
+          "odds": "+212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -46,12 +46,6 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
-        {
-          "event": "Will the No to ten million Switzerland initiative be approved in Switzerland’s June 14, 2026 popular vote?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
           "odds": "+1076",
@@ -65,26 +59,14 @@
           "moved": "none"
         },
         {
-          "event": "Will the Senate pass a reconciliation bill by May 31?",
-          "odds": "-222",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the Republicans win the 2028 US Presidential Election?",
-          "odds": "+163",
+          "odds": "+156",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Marco Rubio win the 2028 US Presidential Election?",
           "odds": "+629",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will J.D. Vance be the 2028 Republican Vice-Presidential nominee?",
-          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -95,20 +77,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will SpaceX's valuation hit (HIGH) $2.5T by June 30?",
-          "odds": "+455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
-          "odds": "+1860",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Abstract FDV above $200M one day after launch?",
-          "odds": "-316",
+          "odds": "+1823",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -119,8 +89,14 @@
           "moved": "none"
         },
         {
-          "event": "Istanbul (Doubles): Gornes/Walkow vs Ayeni/Cook",
-          "odds": "-132",
+          "event": "Abstract FDV above $200M one day after launch?",
+          "odds": "-354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Antoine Semenyo: Anytime Goalscorer",
+          "odds": "+194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -131,14 +107,20 @@
           "moved": "none"
         },
         {
-          "event": "Will Silver (SI) hit (HIGH) $120 by end of June?",
-          "odds": "+2531",
+          "event": "Will Racing Club de Lens win on 2026-05-22?",
+          "odds": "-170",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Racing Club de Lens win on 2026-05-22?",
-          "odds": "-163",
+          "event": "Will Silver (SI) hit (HIGH) $120 by end of June?",
+          "odds": "+2677",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Brian Armstrong appear on the UpOnly podcast by December 31?",
+          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
