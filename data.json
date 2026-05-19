@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "19 de mayo de 2026 — 14:43 UTC",
+  "lastUpdated": "19 de mayo de 2026 — 14:56 UTC",
   "ticker": [
     "Why has FIFA not signed a World Cup broadcast deal in India?",
     "US extends sanctions waiver on Russian oil: Why it matters",
@@ -12,41 +12,134 @@
     "Xi Jinping seeks to strengthen ties with Putin during China visit",
     "Trump says Iran attack on ‘hold’: What we know about latest negotiations",
     "Thailand to slash tourist visa-free stays",
-    "Gaza aid flotilla organisers say 41 boats intercepted, 10 still sailing"
+    "Gaza aid flotilla organisers say 41 boats intercepted, 10 still sailing",
+    "Musk vs Altman: What to know about the OpenAI verdict",
+    "Spain’s former PM Zapatero faces corruption probe",
+    "WHO to hold emergency committee meeting as Ebola death toll rises to 131"
   ],
   "sections": [
     {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Russia x Ukraine ceasefire by June 30, 2026?",
           "odds": "+1150",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Russia enter Druzkhivka by December 31, 2026?",
           "odds": "+203",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Russia enter Shevchenko by June 30?",
           "odds": "+455",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
+        {
+          "event": "Will the No to ten million Switzerland initiative be approved in Switzerland’s June 14, 2026 popular vote?",
+          "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
+          "odds": "+1076",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jean Castex be on the ballot for the 2027 French presidential election?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the Senate pass a reconciliation bill by May 31?",
           "odds": "-222",
-          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republicans win the 2028 US Presidential Election?",
+          "odds": "+163",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Marco Rubio win the 2028 US Presidential Election?",
+          "odds": "+629",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will J.D. Vance be the 2028 Republican Vice-Presidential nominee?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will SpaceX's valuation hit (HIGH) $2.5T by June 30?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
+          "odds": "+1860",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Abstract FDV above $200M one day after launch?",
+          "odds": "-316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Another 7.0 or above earthquake by May 30, 2026?",
+          "odds": "+203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Istanbul (Doubles): Gornes/Walkow vs Ayeni/Cook",
+          "odds": "-132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the median home value in New York City be between $612,000 and $617,000 on May 31?",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Silver (SI) hit (HIGH) $120 by end of June?",
+          "odds": "+2531",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Racing Club de Lens win on 2026-05-22?",
+          "odds": "-163",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
