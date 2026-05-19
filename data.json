@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "19 de mayo de 2026 — 02:38 UTC",
+  "lastUpdated": "19 de mayo de 2026 — 04:14 UTC",
   "ticker": [
+    "Trump’s repeated ultimatums betray his lack of leverage over Iran",
+    "WHO responding to ‘complex, difficult’ Ebola outbreak in DR Congo",
+    "Russia-China ties ‘stabilising’ force in world, Putin says before Xi talks",
     "Two teen gunmen kill three at San Diego mosque in suspected hate crime",
     "Iran war live: Trump says Iran attack postponed at request of Gulf allies",
     "US suspends joint defence effort with Canada dating back to World War II",
@@ -8,51 +11,129 @@
     "Brazil call up Neymar to World Cup 2026 squad",
     "A redistricting re-do? What to know about Alabama’s primary elections",
     "Is the US trying to force regime change in Cuba?",
+    "Guardiola on verge of Manchester City exit at end of Premier League season",
     "Venezuelan protesters clash with police at rally for political prisoners",
     "Clashes as Morales-allied protesters march on Bolivian capital",
     "Protest in Greece after Israeli forces storm Gaza aid flotilla",
-    "Trump pauses possible Iran strike after Gulf intervention",
-    "‘Not for sale’: Greenland premier tells US envoy"
+    "Trump pauses possible Iran strike after Gulf intervention"
   ],
   "sections": [
     {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Will Russia enter Druzkhivka by December 31, 2026?",
           "odds": "+203",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will US withdraw from NATO before 2027?",
           "odds": "+1119",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
+        {
+          "event": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
+          "odds": "+675",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the No to ten million Switzerland initiative be approved in Switzerland’s June 14, 2026 popular vote?",
+          "odds": "+194",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jean Castex be on the ballot for the 2027 French presidential election?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the Republicans win the Maine Senate race in 2026?",
           "odds": "+284",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Senate pass a reconciliation bill by May 31?",
           "odds": "-222",
-          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Bab el-Mandeb Strait effectively closed by September 30?",
-          "odds": "+284",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Will the Republicans win the 2028 US Presidential Election?",
+          "odds": "+163",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Marco Rubio win the 2028 US Presidential Election?",
+          "odds": "+609",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will Amanda Anisimova be the 2026 Women’s Wimbledon Winner?",
+          "odds": "+1860",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Leeds United FC win on 2026-05-24?",
+          "odds": "+203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Abstract FDV above $200M one day after launch?",
+          "odds": "-316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Meta Platforms, Inc. (META) hit (HIGH) $640 Week of May 18 2026?",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Uruguay win on 2026-06-21?",
+          "odds": "-233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Monero hit $1000 in 2026?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will West Ham be relegated from the English Premier League after the 2025–26 season?",
+          "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Silver (SI) hit (HIGH) $120 by end of June?",
+          "odds": "+1786",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
