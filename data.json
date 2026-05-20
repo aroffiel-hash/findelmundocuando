@@ -1,151 +1,70 @@
 {
-  "lastUpdated": "20 de mayo de 2026 — 00:09 UTC",
+  "lastUpdated": "20 de mayo de 2026 — 02:38 UTC",
   "ticker": [
+    "US President Trump and family given immunity from pending tax audits",
+    "Vance: US ‘locked and loaded’ for military action if Iran talks fail",
+    "US Senate advances resolution to curb Trump’s power to wage war on Iran",
     "Putin meets Xi: Why Russia and China need each other",
     "US to let DR Congo football team in for World Cup despite Ebola restrictions",
     "US authorities say missionary who contracted Ebola en route to Germany",
     "Thousands of protesters demand president’s resignation in Bolivia’s La Paz",
     "NAACP urges athletes to boycott southern US universities over voting rights",
     "Video shows oil spill on Iranian island after refinery attack last month",
-    "Arsenal’s Arteta claims Premier League to step from Guardiola’s shadow",
     "Trump showcases new ‘drone-protected’ White House ballroom",
-    "Arsenal crowned Premier League champions as Man City draw at Bournemouth",
     "More than 15,800 people killed in Russia’s all-out war on Ukraine: UN",
-    "Norway journalist calls out Modi over avoiding media questions",
-    "Does Ukraine have the advantage at the moment?",
-    "Southampton expelled from world’s most lucrative football match for spying",
-    "Mansour Kaziha, Nader Awad identified as victims in San Diego Mosque attack",
-    "Moment Neymar brought to tears after surprise World Cup call-up"
+    "Norway journalist calls out Modi over avoiding media questions"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
+      "rows": [
+        {
+          "event": "Internet Access restored in Iran by June 30, 2026?",
+          "odds": "+376",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
       "rows": [
         {
           "event": "Will Russia enter Druzkhivka by December 31, 2026?",
           "odds": "+203",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Internet Access restored in Iran by June 30, 2026?",
-          "odds": "+376",
-          "params": "Fuente: Polymarket",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
           "moved": "none"
         },
         {
           "event": "Will Russia capture Bilytske by May 31, 2026?",
           "odds": "+1860",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
+      "rows": [
+        {
+          "event": "Trump declassifies new UFO files by May 31?",
+          "odds": "-163",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "label": "ECONOMÍA Y ENERGÍA",
       "rows": [
         {
           "event": "Will WTI Crude Oil (WTI) hit (HIGH) $115 in May?",
           "odds": "+156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
-          "odds": "+852",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Jean Castex be on the ballot for the 2027 French presidential election?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party hold 47 or fewer Senate seats after the 2026 midterm elections?",
-          "odds": "+233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republicans win the 2028 US Presidential Election?",
-          "odds": "+156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Marco Rubio win the 2028 US Presidential Election?",
-          "odds": "+635",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will J.D. Vance be the 2028 Republican Vice-Presidential nominee?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will Tesla, Inc. (TSLA) hit (LOW) $382.50 Week of May 18 2026?",
-          "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "ITF Litija: Bor Artnak vs Oskari Paldanius",
-          "odds": "-185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Getafe CF win on 2026-05-23?",
-          "odds": "+163",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Hyperliquid Up or Down - May 19, 8:00PM-8:15PM ET",
-          "odds": "-163",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Chengdu be 35°C or higher on May 20?",
-          "odds": "+509",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Abstract FDV above $200M one day after launch?",
-          "odds": "-354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Trump declassifies new UFO files by May 31?",
-          "odds": "-163",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party win the FL-16 House seat?",
-          "odds": "+316",
-          "params": "Fuente: Polymarket",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
           "moved": "none"
         }
       ]
