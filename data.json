@@ -1,33 +1,27 @@
 {
-  "lastUpdated": "20 de mayo de 2026 — 04:59 UTC",
+  "lastUpdated": "20 de mayo de 2026 — 08:28 UTC",
   "ticker": [
+    "Putin hails ‘unshakable foundations’ in meeting with China’s Xi",
+    "Chinese supertankers exit Hormuz as Trump, Vance talk up Iran deal",
+    "Iran war day 82: Tehran warns of ‘new fronts’ as Trump sets deadline",
+    "Foreign fishing vessels empty Mauritanian waters",
+    "Taiwan’s president says future will not be decided by ‘external forces’",
+    "Bangladesh beat Pakistan by 78 runs to clinch historic Test series win",
+    "UN cuts global growth forecast, blaming Middle East crisis",
+    "‘Cockroach Janta Party’: Top Indian judge’s comment sparks satire, protest",
+    "Knicks rally from 22 points down to stun Cavs in overtime",
+    "Jones, Jackson move to Republican primary run-off in Georgia governor race",
+    "Daughter honours security guard father killed while protecting mosque",
+    "Fear grips eastern DR Congo amid deadly Ebola outbreak",
     "Arsenal fans erupt after team secures Premier League crown",
-    "China’s Xi Jinping and Russian President Vladimir Putin meet in Beijing",
-    "Republican Thomas Massie who stood up to Trump defeated in Kentucky primary",
-    "Bodies of Italian divers recovered from cave in Maldives",
-    "Nigeria says joint US strikes kill 175 ISIL fighters in country’s northeast",
-    "US President Trump, family granted immunity from pending tax audits",
-    "Vance: US ‘locked and loaded’ for military action if Iran talks fail",
-    "US Senate advances resolution to curb Trump’s power to wage war on Iran",
-    "Iran war live: Tehran warns US of ‘surprises’; Xi, Putin meet in Beijing",
-    "Putin meets Xi: Why Russia and China need each other",
-    "US to let DR Congo football team in for World Cup despite Ebola restrictions",
-    "US authorities say missionary who contracted Ebola en route to Germany",
-    "Thousands of protesters demand president’s resignation in Bolivia’s La Paz",
-    "NAACP urges athletes to boycott southern US universities over voting rights",
-    "Video shows oil spill on Iranian island after refinery attack last month"
+    "China’s Xi Jinping, Russian President Vladimir Putin hold talks in Beijing",
+    "Republican Thomas Massie who stood up to Trump defeated in Kentucky primary"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Internet Access restored in Iran by June 30, 2026?",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Russia enter Druzkhivka by December 31, 2026?",
           "odds": "+203",
@@ -37,18 +31,6 @@
         {
           "event": "Will Russia capture Bilytske by May 31, 2026?",
           "odds": "+1860",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
-      "rows": [
-        {
-          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $115 in May?",
-          "odds": "+156",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -65,8 +47,20 @@
           "moved": "none"
         },
         {
+          "event": "Milei out as President of Argentina before 2027?",
+          "odds": "+1539",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Jean Castex be on the ballot for the 2027 French presidential election?",
           "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Candace Owens or Hunter Biden say \"Election\" on Thursday?",
+          "odds": "+100",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -95,20 +89,26 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Tesla, Inc. (TSLA) hit (LOW) $382.50 Week of May 18 2026?",
-          "odds": "+566",
+          "event": "Will Houston Dash win on 2026-05-20?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Ben Shelton be the 2026 Men’s Wimbledon winner?",
+          "odds": "+2602",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "World Championships: Czechia vs. Norway",
+          "odds": "-455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Abstract FDV above $200M one day after launch?",
-          "odds": "-354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Houston be between 82-83°F on May 20?",
-          "odds": "+257",
+          "odds": "-316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -121,12 +121,6 @@
         {
           "event": "Will the median home value in New York City be between $612,000 and $617,000 on May 31?",
           "odds": "+233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Red Bull Bragantino win on 2026-05-20?",
-          "odds": "+203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
