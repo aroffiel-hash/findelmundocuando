@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "20 de mayo de 2026 — 08:28 UTC",
+  "lastUpdated": "20 de mayo de 2026 — 11:44 UTC",
   "ticker": [
+    "Why are nearly 50,000 Samsung workers about to strike in South Korea?",
+    "Trump critic Massie defeated: Takeaways from US primary election results",
+    "Top five factors behind Arsenal’s first Premier League title in 22 years",
+    "UK eases sanctions on Russian oil imports as fuel prices soar",
+    "Philippines top court rejects bid to block arrest of senator wanted by ICC",
+    "US and Israel planned to install Ahmadinejad as Iranian leader, NYT says",
+    "Kenya transport strike paused after deadly protests",
+    "Women’s football coach who secretly filmed players banned for life",
+    "Modi avoids Norway media: How that led to storm over India’s press freedom",
+    "Is Russia ‘simulating diplomacy’ because of war losses in Ukraine?",
+    "San Diego mosque shooting: Who were the victims?",
+    "At least 87 Gaza aid flotilla activists abducted by Israel on hunger strike",
     "Putin hails ‘unshakable foundations’ in meeting with China’s Xi",
-    "Chinese supertankers exit Hormuz as Trump, Vance talk up Iran deal",
-    "Iran war day 82: Tehran warns of ‘new fronts’ as Trump sets deadline",
-    "Foreign fishing vessels empty Mauritanian waters",
-    "Taiwan’s president says future will not be decided by ‘external forces’",
-    "Bangladesh beat Pakistan by 78 runs to clinch historic Test series win",
-    "UN cuts global growth forecast, blaming Middle East crisis",
-    "‘Cockroach Janta Party’: Top Indian judge’s comment sparks satire, protest",
-    "Knicks rally from 22 points down to stun Cavs in overtime",
-    "Jones, Jackson move to Republican primary run-off in Georgia governor race",
-    "Daughter honours security guard father killed while protecting mosque",
-    "Fear grips eastern DR Congo amid deadly Ebola outbreak",
-    "Arsenal fans erupt after team secures Premier League crown",
-    "China’s Xi Jinping, Russian President Vladimir Putin hold talks in Beijing",
-    "Republican Thomas Massie who stood up to Trump defeated in Kentucky primary"
+    "Chinese supertankers exit Hormuz as Trump and Vance talk up Iran deal",
+    "Iran war day 82: Tehran warns of ‘new fronts’ as Trump sets deadline"
   ],
   "sections": [
     {
@@ -24,13 +24,19 @@
       "rows": [
         {
           "event": "Will Russia enter Druzkhivka by December 31, 2026?",
-          "odds": "+203",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the U.S. lift direct Iran OFAC sanctions by May 31, 2026?",
+          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Russia capture Bilytske by May 31, 2026?",
-          "odds": "+1860",
+          "odds": "+2225",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -43,12 +49,6 @@
         {
           "event": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
           "odds": "+920",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Milei out as President of Argentina before 2027?",
-          "odds": "+1539",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -75,12 +75,6 @@
           "odds": "+635",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will J.D. Vance be the 2028 Republican Vice-Presidential nominee?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -88,18 +82,6 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
-        {
-          "event": "Will Houston Dash win on 2026-05-20?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Ben Shelton be the 2026 Men’s Wimbledon winner?",
-          "odds": "+2602",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "World Championships: Czechia vs. Norway",
           "odds": "-455",
@@ -109,6 +91,12 @@
         {
           "event": "Abstract FDV above $200M one day after launch?",
           "odds": "-316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "GP SAR La Princesse Lalla Meryem: Yulia Starodubtseva vs Anhelina Kalinina",
+          "odds": "+132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -127,6 +115,12 @@
         {
           "event": "Will Silver (SI) hit (HIGH) $120 by end of June?",
           "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Pyramids FC vs. Smouha SC: Both Teams to Score",
+          "odds": "+212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
