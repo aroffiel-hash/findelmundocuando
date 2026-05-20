@@ -1,27 +1,33 @@
 {
-  "lastUpdated": "20 de mayo de 2026 — 17:50 UTC",
+  "lastUpdated": "20 de mayo de 2026 — 20:05 UTC",
   "ticker": [
+    "James Murdoch to acquire New York Magazine and Vox Media Podcast Network",
+    "What’s the significance of the Russian president’s visit to China?",
+    "China and Russia unite after Trump’s Beijing visit",
+    "US indicts Cuba’s former leader Raul Castro: Why it matters",
+    "US indicts Cuba’s Raul Castro over 1996 plane downing",
+    "Sierra Leone receives first group of West African deportees from US",
+    "Chris Rabb win in Pennsylvania energises Democrats’ progressive flank",
+    "Russia ‘dangerously’ intercepts British spy plane over Black Sea: Ministry",
+    "Meta cuts 8,000 jobs in sweeping global layoffs",
     "Controlled reopening ends Iran’s lengthy stock market shutdown",
     "Trump administration indicts Cuba’s Raul Castro over 1996 plane shootdown",
     "Trump jokes about running for Israeli prime minister",
     "Iran claims it coordinated passage of 26 vessels out of Hormuz in 24 hours",
     "At least eight killed in Israel’s air attacks on southern Lebanon",
-    "Oscar-winning director calls Trump, Netanyahu and Putin ‘monsters’",
-    "The battle of perception: From Israel’s Fauda to Hezbollah’s FPV footage",
-    "What is the Power of Siberia 2 pipeline that Russia, China are planning?",
-    "Families demand justice for victims killed in Israeli strikes on Beirut",
-    "Why is Trump’s Gaza Board of Peace facing a funding shortfall?",
-    "Is the West de-risking from China or containing its economy?",
-    "Massie defeated: The Israel lobby’s pyrrhic victory in Kentucky",
-    "‘Multipolar world’: What Xi and Putin announced after Beijing summit",
-    "Will Trump kill the $14bn Taiwan arms deal?",
-    "Israel’s ambassador to Christians gives rose-coloured spiel"
+    "Oscar-winning director calls Trump, Netanyahu and Putin ‘monsters’"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Will Shohei Ohtani win the 2026 NL Cy Young Award?",
+          "odds": "+452",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Kevin Kiermaier win the 2026 AL Platinum Glove award?",
           "odds": "+1823",
@@ -54,7 +60,13 @@
         },
         {
           "event": "Will Marco Rubio win the 2028 US Presidential Election?",
-          "odds": "+663",
+          "odds": "+657",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Prabowo Subianto cease to be President of Indonesia by May 31, 2026?",
+          "odds": "+149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -69,12 +81,6 @@
           "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will Mandela Barnes win the 2026 Wisconsin Governor Democratic primary election?",
-          "odds": "-108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -82,12 +88,6 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
-        {
-          "event": "Will the highest temperature in Dallas be 75°F or below on May 21?",
-          "odds": "+156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "World Championships: Slovakia vs. Canada",
           "odds": "+614",
@@ -113,14 +113,20 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in New York City be between 72-73°F on May 21?",
-          "odds": "+334",
+          "event": "Will Sofia host Eurovision 2027?",
+          "odds": "-733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Democratic Party win the CA-24 House seat?",
           "odds": "-1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Beijing be 24°C on May 21?",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
