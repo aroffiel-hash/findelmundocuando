@@ -1,28 +1,115 @@
 {
-  "lastUpdated": "20 de mayo de 2026 — 14:44 UTC",
+  "lastUpdated": "20 de mayo de 2026 — 14:48 UTC",
   "ticker": [
     "Massie defeated: The Israel lobby’s pyrrhic victory in Kentucky",
     "‘Multipolar world’: What Xi and Putin announced after Beijing summit",
     "Will Trump kill the $14bn Taiwan arms deal?",
     "Israel’s ambassador to Christians gives rose-coloured spiel",
     "Israel’s Ben-Gvir publishes video taunting detained flotilla activists",
+    "North Korean women win in South to reach Asian Champions League final",
     "New York City hotels avert labour strike threat before FIFA World Cup",
     "WHO says 600 suspected cases, 139 deaths in growing Ebola outbreak",
     "Israeli lawmakers advance bill to dissolve parliament",
     "US imposes sanctions on Gaza flotilla organisers: Why it matters",
     "Why Ebola keeps returning to DRC: A heartbreaking human toll",
     "Which teams will make their debut at World Cup 2026?",
-    "Trump-critic Thomas Massie loses Kentucky primary to AIPAC-backed Gallrein"
+    "Trump-critic Thomas Massie loses Kentucky primary to AIPAC-backed Gallrein",
+    "Why are nearly 50,000 Samsung workers about to strike in South Korea?",
+    "Trump critic Massie defeated: Takeaways from US primary election results"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
+        {
+          "event": "Will Renan Santos finish in second place in the first round of the 2026 Brazilian presidential election?",
+          "odds": "+920",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jean Castex be on the ballot for the 2027 French presidential election?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Candace Owens or Hunter Biden say \"Election\" on Thursday?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republicans win the 2028 US Presidential Election?",
+          "odds": "+163",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Marco Rubio win the 2028 US Presidential Election?",
+          "odds": "+651",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will J.D. Vance be the 2028 Republican Vice-Presidential nominee?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "World Championships: Czechia vs. Norway",
+          "odds": "-455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Abstract FDV above $200M one day after launch?",
+          "odds": "-316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: Shanghai Shenhua FC 1 - 1 Wuhan San Zhen FC?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Reserve Bank of Australia increase the target for the cash rate after the June Meeting?",
+          "odds": "+354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Al-Hilal win Saudi Professional League?",
           "odds": "+733",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Silver (SI) hit (HIGH) $120 by end of June?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party win the CA-24 House seat?",
+          "odds": "-1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Monero hit $1000 in 2026?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
