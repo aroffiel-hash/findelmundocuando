@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "21 de mayo de 2026 — 16:12 UTC",
+  "lastUpdated": "21 de mayo de 2026 — 18:55 UTC",
   "ticker": [
-    "Afghan women’s refugee team returns to world cricket post Taliban exclusion",
-    "Russia rehearses ‘use of nuclear forces’ in drills with Belarus",
-    "Ecuador’s Disappeared",
-    "Arteta ‘built a fire’ instead of watching Arsenal’s Premier League crowning",
-    "US-Iran diplomacy picks up: What’s the latest?",
-    "French court finds Airbus, Air France guilty of manslaughter in 2009 crash",
-    "Israel’s arrogance is becoming the evidence in the case against it",
-    "Germany make Neuer first-choice World Cup keeper to cap retirement U-turn",
-    "The implosion of Keir Starmer’s Labour",
-    "Sadio Mane, Kalidou Koulibaly star picks in Senegal’s World Cup squad",
-    "Activists take part in a land convoy from Libya to bring aid to Gaza",
-    "What’s behind the forced disappearances in Ecuador?",
-    "Maths behind Hormuz toll: Is paying Iran for transit cheaper than blockade?",
-    "What’s Trump’s ‘anti-weaponisation fund’ and why are legal experts alarmed?",
-    "India-Africa summit postponed as Ebola spreads to M23-held DR Congo area"
+    "UK launches ‘Great British Summer Savings’ to ease family costs",
+    "Iran’s World Cup hopes hit US visa hurdles",
+    "Who are the 10 best FIFA World Cup players of all time?",
+    "Poll finds nearly three-quarters of Democratic voters oppose aid to Israel",
+    "Displaced Lebanese woman bakes 3,000 loaves daily for war-hit community",
+    "Net migration to the UK falls by nearly 50 percent amid tighter policies",
+    "Mayor cuts limited World Cup tickets for New Yorkers to $50 after furore",
+    "Shocked Maguire posts on Insta that he is not in England’s World Cup squad",
+    "Top UN court rules workers’ right to strike ‘protected’ in key treaty",
+    "French Open rejects prize money change despite tennis stars’ boycott threat",
+    "‘Lingering shock from tragedy’ weeks after Minab school bombing",
+    "Trump says he’ll speak to Taiwan’s leader: Why that is significant",
+    "Why are India’s mosques turning into temple disputes?",
+    "Is the West de-risking from China or containing its economy?",
+    "Putin and Lukashenko monitor joint Russia-Belarus nuclear exercises"
   ],
   "sections": [
     {
@@ -23,20 +23,26 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will the highest temperature in Warsaw be 23°C on May 23?",
-          "odds": "+270",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Russia capture all of Pokrovsk by May 31, 2026?",
-          "odds": "-1751",
+          "event": "Will IR Iran win on 2026-06-21?",
+          "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Kevin Kiermaier win the 2026 AL Platinum Glove award?",
           "odds": "+1823",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will Crude Oil (CL) hit (HIGH) $105 by end of June?",
+          "odds": "-212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -63,6 +69,24 @@
           "odds": "+163",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will a candidate win the 2026 Colombian presidential election in the first round?",
+          "odds": "+769",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party hold exactly 50 Senate seats after the 2026 midterm elections?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Mandela Barnes win the 2026 Wisconsin Governor Democratic primary election?",
+          "odds": "-108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -71,14 +95,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Abstract FDV above $200M one day after launch?",
-          "odds": "-354",
+          "event": "Will the highest temperature in Panama City be 29°C on May 23?",
+          "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Clarity Act signed into law in 2026?",
-          "odds": "-132",
+          "event": "Abstract FDV above $200M one day after launch?",
+          "odds": "-354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -89,14 +113,8 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Seattle be between 66-67°F on May 23?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "ITF Kayseri: Haydar Cem Gokpinar vs Ammar Faleh Alhogbani",
-          "odds": "-246",
+          "event": "Game Handicap: SEC (-1.5) vs mCon esports (+1.5)",
+          "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -113,8 +131,14 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Los Angeles be between 68-69°F on May 22?",
-          "odds": "+185",
+          "event": "Will the Democratic Party win the CA-24 House seat?",
+          "odds": "-1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Liban Mohamed be the Democratic nominee for UT-01?",
+          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
