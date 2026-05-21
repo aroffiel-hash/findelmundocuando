@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "21 de mayo de 2026 — 14:49 UTC",
+  "lastUpdated": "21 de mayo de 2026 — 16:12 UTC",
   "ticker": [
+    "Afghan women’s refugee team returns to world cricket post Taliban exclusion",
+    "Russia rehearses ‘use of nuclear forces’ in drills with Belarus",
+    "Ecuador’s Disappeared",
+    "Arteta ‘built a fire’ instead of watching Arsenal’s Premier League crowning",
+    "US-Iran diplomacy picks up: What’s the latest?",
+    "French court finds Airbus, Air France guilty of manslaughter in 2009 crash",
+    "Israel’s arrogance is becoming the evidence in the case against it",
     "Germany make Neuer first-choice World Cup keeper to cap retirement U-turn",
     "The implosion of Keir Starmer’s Labour",
     "Sadio Mane, Kalidou Koulibaly star picks in Senegal’s World Cup squad",
@@ -8,27 +15,107 @@
     "What’s behind the forced disappearances in Ecuador?",
     "Maths behind Hormuz toll: Is paying Iran for transit cheaper than blockade?",
     "What’s Trump’s ‘anti-weaponisation fund’ and why are legal experts alarmed?",
-    "India-Africa summit postponed as Ebola spreads to M23-held DR Congo area",
-    "Neymar set to shake off injury scare to play for Brazil at World Cup",
-    "Iran World Cup squad members apply for US, Canada visas in Turkiye",
-    "Mauritania’s female Islamic guides: Leading the fight against ‘extremism’",
-    "How Ben-Gvir’s flotilla video shattered Israel’s multimillion ‘Hasbara’"
+    "India-Africa summit postponed as Ebola spreads to M23-held DR Congo area"
   ],
   "sections": [
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Trump say \"Communist\" or \"Communism\" during events in Rockland County?",
-          "odds": "+212",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Will the highest temperature in Warsaw be 23°C on May 23?",
+          "odds": "+270",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Trump ballroom project unblocked by May 31?",
-          "odds": "+233",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Will Russia capture all of Pokrovsk by May 31, 2026?",
+          "odds": "-1751",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Kevin Kiermaier win the 2026 AL Platinum Glove award?",
+          "odds": "+1823",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Jean Castex be on the ballot for the 2027 French presidential election?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Marco Rubio win the 2028 US Presidential Election?",
+          "odds": "+713",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republicans win the 2028 US Presidential Election?",
+          "odds": "+163",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Abstract FDV above $200M one day after launch?",
+          "odds": "-354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Clarity Act signed into law in 2026?",
+          "odds": "-132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Robinhood Markets, Inc. (HOOD) hit (LOW) $60 in May?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Seattle be between 66-67°F on May 23?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "ITF Kayseri: Haydar Cem Gokpinar vs Ammar Faleh Alhogbani",
+          "odds": "-246",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Monero hit $1000 in 2026?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will NVIDIA (NVDA) hit (LOW) $200 Week of May 18 2026?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Los Angeles be between 68-69°F on May 22?",
+          "odds": "+185",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
