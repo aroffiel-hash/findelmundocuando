@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "22 de mayo de 2026 — 18:50 UTC",
+  "lastUpdated": "22 de mayo de 2026 — 20:29 UTC",
   "ticker": [
+    "Man City boss and Palestine advocate Pep Guardiola to step down",
+    "San Diego’s Muslims, a mosque, and a city shaken",
+    "What are the implications of US sanctions in Lebanon?",
+    "Thousands in Cuba rally for Raul Castro to protest US indictment",
+    "Slovenia’s parliament approves right-wing Janez Jansa as prime minister",
+    "Pakistan’s army chief in Iran as US’s Rubio says ‘slight progress’ in talks",
+    "Decades-old photos show ‘joyful’ Gaza in happier times.",
+    "Displaced Lebanese amputee asks ‘where am I supposed to go’?",
+    "Canada’s Carney says Alberta is ‘essential’ as province mulls separation",
+    "Why has the US arms delay rattled Taiwan?",
+    "From Palestine to Catalonia, Guardiola believed in more than just football",
+    "‘I always hear them before I see them’: Drones strike fear in Colombia",
     "US says temporary visa holders should leave to apply for Green Cards",
     "US says DRC team must isolate due to Ebola before arriving for World Cup",
-    "Israel’s October 7 tribunal: Show trial of Palestinians or justice?",
-    "Tulsi Gabbard resigns as Trump’s top US intelligence official",
-    "Gaza flotilla activists allege abuse, sexual assault in Israeli detention",
-    "Video shows Israeli strike on Lebanese child and paramedics",
-    "WHO says 12th person infected with hantavirus detected in the Netherlands",
-    "Kevin Warsh sworn in as new US Fed chair",
-    "Western nations warn Israel to end illegal settlement expansion, violence",
-    "Economic confidence plummets in US amid Iran war, poll shows",
-    "French Open: Players accuse Slams of ignoring concerns as tensions rise",
-    "WHO raises Ebola health risk to ‘very high’ in DR Congo",
-    "Ukrainian strike on dormitory in Russian-occupied Starobilsk kills four",
-    "Why is Trump deploying 5,000 troops to Poland?",
-    "Marco Rubio visits India: What’s at stake with Trump-Modi ties strained?"
+    "Israel’s October 7 tribunal: Show trial of Palestinians or justice?"
   ],
   "sections": [
     {
@@ -41,6 +41,12 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
+          "event": "Will Crude Oil (CL) hit (LOW) $90 by end of June?",
+          "odds": "-244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Fed rate cut by September 2026 meeting?",
           "odds": "+784",
           "params": "Fuente: Polymarket",
@@ -54,7 +60,7 @@
       "rows": [
         {
           "event": "Will Marco Rubio win the 2028 US Presidential Election?",
-          "odds": "+706",
+          "odds": "+700",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -113,14 +119,8 @@
           "moved": "none"
         },
         {
-          "event": "XRP Up or Down - May 22, 2:45PM-3:00PM ET",
-          "odds": "-122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Helsinki be 21°C on May 23?",
-          "odds": "+3125",
+          "event": "Will the highest temperature in Wuhan be 29°C on May 23?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -131,14 +131,20 @@
           "moved": "none"
         },
         {
-          "event": "Will OpenAI's valuation hit (HIGH) $3.0T by December 31?",
-          "odds": "+1011",
+          "event": "Will Ethena reach $1.20 by December 31, 2026?",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Ethena reach $1.20 by December 31, 2026?",
-          "odds": "+1150",
+          "event": "Besiktas vs. Galatasaray",
+          "odds": "-316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Valorant: NRG vs 100 Thieves (BO3) - VCT Americas Stage 1 Playoffs",
+          "odds": "-170",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
