@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "21 de mayo de 2026 — 23:56 UTC",
+  "lastUpdated": "22 de mayo de 2026 — 02:42 UTC",
   "ticker": [
+    "Greenlanders protest opening of new US consulate in Nuuk",
+    "Turkish court ousts leader of main opposition party",
+    "US Senate pushes back against Trump’s $1.8bn ‘anti-weaponisation’ fund",
+    "Iran war live: Signs of progress amid efforts to reach US-Iran peace deal",
     "US says it has not changed its stance on sanctioning Francesca Albanese",
     "Over 2,000 gather in San Diego to mourn three men killed in mosque attack",
     "At least 16 people killed in two attacks in northern Honduras",
@@ -8,126 +12,59 @@
     "Ronaldo scores twice to seal Saudi Pro League at last with Al-Nassr",
     "Ebola treatment hospital burned down in DRC as outbreak spreads",
     "NYC launches lottery for $50 World Cup football tickets",
-    "Flotilla activists recount Israeli violence as they arrive in Turkiye",
-    "US sanctions elected Hezbollah MPs and Lebanese security officials",
-    "Fans create AI-generated team songs ahead of World Cup",
-    "Ebola tensions rise as treatment centre torched in DR Congo’s Ituri",
-    "Five key takeaways from Democrats’ autopsy report on Kamala Harris’s loss",
-    "Trump shifts between diplomacy and threats in Iran standoff",
-    "Do aid flotillas make a difference for Palestinians under Israeli blockade?",
-    "Is Islamophobia being re-packaged as feminism?"
+    "Flotilla activists recount Israeli violence as they arrive in Turkiye"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
       "rows": [
         {
           "event": "Will Ukraine win on 2026-05-31?",
           "odds": "+156",
-          "params": "Fuente: Polymarket",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
+      "rows": [
+        {
+          "event": "Will Trump meet with Pope Leo XIV in 2026?",
+          "odds": "+376",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         },
         {
-          "event": "Will Kevin Kiermaier win the 2026 AL Platinum Glove award?",
-          "odds": "+1823",
-          "params": "Fuente: Polymarket",
+          "event": "Trump ballroom project unblocked by May 31?",
+          "odds": "+233",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "label": "ECONOMÍA Y ENERGÍA",
       "rows": [
         {
           "event": "Will Crude Oil (CL) hit (HIGH) $105 by end of June?",
-          "odds": "-212",
-          "params": "Fuente: Polymarket",
+          "odds": "-185",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
-        {
-          "event": "Will Marco Rubio win the 2028 US Presidential Election?",
-          "odds": "+706",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will the Republican Party hold exactly 50 Senate seats after the 2026 midterm elections?",
           "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republicans win the 2028 US Presidential Election?",
-          "odds": "+163",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Mandela Barnes win the 2026 Wisconsin Governor Democratic primary election?",
-          "odds": "-108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will Colombia win on 2026-06-01?",
-          "odds": "-203",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Robinhood Markets, Inc. (HOOD) hit (LOW) $60 in May?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Mirra Andreeva win the 2026 Women’s French Open?",
-          "odds": "+1349",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Game Handicap: SEC (-1.5) vs mCon esports (+1.5)",
-          "odds": "+233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Monero hit $1000 in 2026?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Liban Mohamed be the Democratic nominee for UT-01?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Besiktas vs. Galatasaray",
-          "odds": "-316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Rocket Lab USA, Inc. (RKLB) hit (HIGH) $164 in May?",
-          "odds": "+354",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
