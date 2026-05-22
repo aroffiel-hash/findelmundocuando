@@ -1,58 +1,151 @@
 {
-  "lastUpdated": "22 de mayo de 2026 — 14:24 UTC",
+  "lastUpdated": "22 de mayo de 2026 — 16:19 UTC",
   "ticker": [
+    "Economic confidence plummets in US amid Iran war, poll shows",
+    "French Open: Players accuse Slams of ignoring concerns as tensions rise",
+    "WHO raises Ebola public health risk to ‘very high’ in DR Congo",
+    "Ukrainian strike on dormitory in Russian-occupied Starobilsk kills four",
+    "Why is Trump deploying 5,000 troops to Poland?",
+    "Marco Rubio visits India: What’s at stake with Trump-Modi ties strained?",
+    "Turkiye shutters liberal Istanbul university seized in criminal probe",
+    "Russia labels Ukraine attack in occupied Luhansk ‘monstrous crime’",
     "Senegal PM slams West’s ‘homosexual tyranny’, defends LGBTQ crackdown",
+    "South Korean activists smash Starbucks cups to protest ‘Tank Day’ campaign",
     "Israeli attacks kill several in Lebanon, with health workers targeted",
     "Russia ‘looking for new soldiers’; Kyiv claims 83,000 dead so far in 2026",
     "How Guardiola compares with Ferguson and other English managerial greats",
     "What is Hindutva, and what are the roots of this political movement?",
-    "Everest record holder warns of Nepal danger as two Indian mountaineers die",
-    "Iran’s enriched uranium stockpile: Can it be safely transferred?",
-    "Man City confirm Guardiola exit to end decade-long, trophy-laden spell",
-    "British climber sets record with 20th Everest summit",
-    "Gang violence kills at least 25 in Honduras",
-    "Man Utd appoint Michael Carrick as permanent manager",
-    "Hundreds protest Ireland’s ‘George Floyd moment’"
+    "India is being left to die in the heat"
   ],
   "sections": [
     {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Will Ukraine win on 2026-05-31?",
           "odds": "+156",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Alexis Tipton as Reze (Chainsaw Man – The Movie: Reze Arc) win Best Anime Voice Artist Performance (English) at the 2026 Crunchyroll Anime Awards?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Warsh say \"War\" or \"Iran\" during swearing-in?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Trump ballroom project unblocked by May 31?",
-          "odds": "+233",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Fed rate cut by September 2026 meeting?",
+          "odds": "+784",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
+        {
+          "event": "Will Marco Rubio win the 2028 US Presidential Election?",
+          "odds": "+700",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Mandela Barnes win the 2026 Wisconsin Governor Democratic primary election?",
+          "odds": "+104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the Republican Party hold exactly 50 Senate seats after the 2026 midterm elections?",
           "odds": "+525",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republicans win the 2028 US Presidential Election?",
+          "odds": "+156",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Sorin Grindeanu be the next Prime Minister of Romania?",
-          "odds": "+1182",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "odds": "+1392",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "No-confidence vote against Spain PM Sanchez by June 30?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Valorant: 9z Team vs KRÜ Blaze (BO3) - VCL Latin America South: Regular Season",
+          "odds": "-203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Doja Cat have a #1 song on the Billboard Hot 100 in 2026?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Indian Premier League: Kolkata Knight Riders vs Delhi Capitals",
+          "odds": "-127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Colombia win on 2026-06-01?",
+          "odds": "-203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Robinhood Markets, Inc. (HOOD) hit (LOW) $60 in May?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Monero hit $1000 in 2026?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Ethena reach $1.20 by December 31, 2026?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Besiktas vs. Galatasaray",
+          "odds": "-316",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
