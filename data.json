@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "22 de mayo de 2026 — 22:02 UTC",
+  "lastUpdated": "23 de mayo de 2026 — 00:00 UTC",
   "ticker": [
+    "Israeli blockade traps would-be Hajj pilgrim in Gaza",
+    "Premier League finale: Arsenal, relegation, Champions League, Salah and Pep",
     "‘Everest Man’ breaks his own record after historic 32nd climb",
     "Mahmoud Khalil to appeal US deportation case to Supreme Court",
     "US judge dismisses indictment against Kilmar Abrego Garcia",
@@ -13,21 +15,13 @@
     "Pakistan’s army chief in Iran as US’s Rubio says ‘slight progress’ in talks",
     "Decades-old photos show ‘joyful’ Gaza in happier times.",
     "Displaced Lebanese amputee asks ‘where am I supposed to go’?",
-    "Canada’s Carney says Alberta is ‘essential’ as province mulls separation",
-    "Why has the US arms delay rattled Taiwan?",
-    "From Palestine to Catalonia, Guardiola believed in more than just football"
+    "Canada’s Carney says Alberta is ‘essential’ as province mulls separation"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Will Ukraine win on 2026-05-31?",
-          "odds": "+156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will the Bank of Korea decrease the base rate after the July Meeting?",
           "odds": "+1899",
@@ -42,7 +36,7 @@
       "rows": [
         {
           "event": "Will Crude Oil (CL) hit (LOW) $90 by end of June?",
-          "odds": "-244",
+          "odds": "-177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -60,13 +54,19 @@
       "rows": [
         {
           "event": "Will Marco Rubio win the 2028 US Presidential Election?",
-          "odds": "+706",
+          "odds": "+640",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Mandela Barnes win the 2026 Wisconsin Governor Democratic primary election?",
           "odds": "+104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Sorin Grindeanu be the next Prime Minister of Romania?",
+          "odds": "+1392",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -87,12 +87,6 @@
           "odds": "+156",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will Sorin Grindeanu be the next Prime Minister of Romania?",
-          "odds": "+1392",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -103,12 +97,6 @@
         {
           "event": "Valorant: 9z Team vs KRÜ Blaze (BO3) - VCL Latin America South: Regular Season",
           "odds": "-203",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Wuhan be 29°C on May 23?",
-          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -145,6 +133,12 @@
         {
           "event": "Besiktas vs. Galatasaray",
           "odds": "-316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Roland Garros ATP: Benjamin Bonzi vs Alexander Zverev",
+          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
