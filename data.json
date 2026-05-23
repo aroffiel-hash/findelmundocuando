@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "23 de mayo de 2026 — 20:41 UTC",
+  "lastUpdated": "23 de mayo de 2026 — 21:48 UTC",
   "ticker": [
+    "Funerals for medics killed in Israeli air strikes in southern Lebanon",
+    "Trump says Iran agreement ‘largely negotiated’, awaiting finalisation",
+    "Violence and overcrowding hampers Ebola response in DRC",
     "India’s Gen Z ‘Cockroach Party’ is going viral",
     "‘Fjord’ by Romania’s Cristian Mungiu wins Cannes top film prize",
     "More than 1.5 million pilgrims brave fierce Mecca heat ahead of Hajj",
@@ -12,16 +15,19 @@
     "Barcelona beat Lyon 4-0 to win Women’s Champions League",
     "‘United States of the Middle East?’: Trump posts US flag covering Iran",
     "Morocco king pardons jailed Senegal football fans from AFCON final",
-    "Thousands march in Madrid demanding Spanish PM quit over graft allegations",
-    "Hull beat Boro in world’s most lucrative game to reach Premier League",
-    "Thousands rally in Taiwan to boost defence spending amid China tensions",
-    "Iran sends ‘mixed’ messages as Pakistani mediators depart Tehran"
+    "Thousands march in Madrid demanding Spanish PM quit over graft allegations"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "US announces new Iran agreement/ceasefire extension by May 26?",
+          "odds": "-185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Set Handicap: Tirante (-1.5) vs Ruiz (+1.5)",
           "odds": "+334",
@@ -48,7 +54,7 @@
       "rows": [
         {
           "event": "Will Marco Rubio win the 2028 US Presidential Election?",
-          "odds": "+629",
+          "odds": "+635",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -83,12 +89,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Robinhood Markets, Inc. (HOOD) hit (LOW) $60 in May?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the highest temperature in Panama City be 31°C on May 23?",
           "odds": "+2400",
           "params": "Fuente: Polymarket",
@@ -102,7 +102,7 @@
         },
         {
           "event": "Will Monero hit $1000 in 2026?",
-          "odds": "+733",
+          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -115,6 +115,12 @@
         {
           "event": "Blaublitz Akita vs. Tochigi City FC: Both Teams to Score",
           "odds": "+163",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Besiktas vs. Galatasaray",
+          "odds": "-316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
