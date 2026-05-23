@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "23 de mayo de 2026 — 13:10 UTC",
+  "lastUpdated": "23 de mayo de 2026 — 14:55 UTC",
   "ticker": [
+    "French Open has ‘positive’ meeting with players over tennis dispute",
+    "Rising global costs threaten Mexico’s production costs and food stability",
+    "Turkish and Syrian officials detain 10 individuals with alleged ISIL ties",
+    "France bans far-right Israeli minister Ben-Gvir over abuse of activists",
     "Israeli air strike pounds southern Lebanon leaving many injured",
     "The pollution that outlives war",
     "DR Congo will not change World Cup preparations despite US Ebola warning",
@@ -11,11 +15,7 @@
     "Uganda confirms three new Ebola cases, bringing total to five",
     "China coal mine blast kills at least 90, leaves nine missing",
     "Man Utd’s Fernandes trumps Arsenal to Premier League player of season award",
-    "Senegal’s President Faye sacks PM Sonko and dissolves government",
-    "Senegal’s President Faye sacks PM Sonko as deepening rift erupts",
-    "Zelenskyy says ‘time is right’ for Ukraine to start process of joining EU",
-    "Kohli refuses Head handshake after heated Hyderabad-Bengaluru clash in IPL",
-    "Israeli attacks in Lebanon kill at least 2 despite supposed ceasefire"
+    "Senegal’s President Faye sacks PM Sonko and dissolves government"
   ],
   "sections": [
     {
@@ -23,20 +23,8 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will the Iran ceasefire continue through June 15?",
-          "odds": "+104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Warsaw be 24°C on May 25?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "US x Iran permanent peace deal by July 31, 2026?",
-          "odds": "+112",
+          "event": "Will the Bank of Korea decrease the base rate after the July Meeting?",
+          "odds": "+3125",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -47,8 +35,8 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will Crude Oil (CL) hit (LOW) $90 by end of June?",
-          "odds": "-156",
+          "event": "Fed rate cut by September 2026 meeting?",
+          "odds": "+525",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -60,13 +48,13 @@
       "rows": [
         {
           "event": "Will Sorin Grindeanu be the next Prime Minister of Romania?",
-          "odds": "+1415",
+          "odds": "+1823",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Marco Rubio win the 2028 US Presidential Election?",
-          "odds": "+629",
+          "odds": "+635",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -83,18 +71,6 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Exact Score: Shanghai Haigang FC 3 - 1 Tianjin Jinmen Hu FC?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: Kashiwa Reysol 2 - 2 JEF United Ichihara Chiba?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Manchester City FC vs. Aston Villa FC: Both Teams to Score",
           "odds": "-156",
           "params": "Fuente: Polymarket",
@@ -107,8 +83,26 @@
           "moved": "none"
         },
         {
+          "event": "RC Celta de Vigo vs. Sevilla FC: Draw at halftime?",
+          "odds": "+138",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Alphabet be the second-largest company in the world by market cap on May 31?",
+          "odds": "-455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Robinhood Markets, Inc. (HOOD) hit (LOW) $60 in May?",
           "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Elon Musk post 220-239 tweets from May 22 to May 29, 2026?",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -119,14 +113,8 @@
           "moved": "none"
         },
         {
-          "event": "Besiktas vs. Galatasaray",
-          "odds": "-316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Norway vs. France end in a draw?",
-          "odds": "+257",
+          "event": "Will Bruno Mars have the greatest number of monthly Spotify listeners this month?",
+          "odds": "-733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
