@@ -1,42 +1,30 @@
 {
-  "lastUpdated": "23 de mayo de 2026 — 04:34 UTC",
+  "lastUpdated": "23 de mayo de 2026 — 09:45 UTC",
   "ticker": [
-    "Are India and Pakistan quietly preparing to restart dialogue?",
-    "Why are anti-migrant attacks increasing in South Africa?",
-    "Some fear US-Philippines war games are drawing conflict closer to home",
-    "Tulsi Gabbard resigns as Trump’s top US intelligence official",
-    "Ebola outbreak disrupts life along the DRC-Uganda border",
-    "Iran war live: Tehran says diplomacy continues but no deal yet with US",
-    "Israeli blockade traps would-be Hajj pilgrim in Gaza",
-    "Premier League finale: Arsenal, relegation, Champions League, Salah and Pep",
-    "‘Everest Man’ breaks his own record after historic 32nd climb",
-    "Mahmoud Khalil to appeal US deportation case to Supreme Court",
-    "US judge dismisses indictment against Kilmar Abrego Garcia",
-    "Bolivia in crisis: Social unrest, demands for president to resign escalate",
-    "Man City boss and Palestine advocate Pep Guardiola to step down",
-    "San Diego’s Muslims, a mosque, and a city shaken",
-    "What are the implications of US sanctions in Lebanon?"
+    "Mexico beat Ghana as World Cup cohosts excel despite FIFA sanctions",
+    "Missiles to munitions: Does the US risk running out of key weapons?",
+    "As Salah plays final Liverpool match, his legacy goes far beyond the pitch",
+    "Failing chemical tank forces thousands to evacuate in Southern California",
+    "North Korean women’s team win Asian Champions League title in South Korea",
+    "Iran weighs US peace proposal despite ‘deep and significant’ disagreements",
+    "Not just the US: India to Brazil, 51 nations armed Israel amid Gaza war",
+    "Gas explosion at Chinese coal mine kills at least 90",
+    "World Cup 2026: Which star players will miss the tournament?",
+    "Iran war day 85: Tehran says major gaps remain in US talks",
+    "Israeli forces attack central Gaza despite ceasefire agreement",
+    "Gilgeous-Alexander leads Thunder past Spurs for 2-1 NBA playoff lead",
+    "Burn-like rashes and hunger: Gaza’s children face skin disease crisis",
+    "Trump releases new batch of previously classified UFO files",
+    "Over 1.6 million pilgrims arrive in Saudi Arabia for hajj pilgrimage"
   ],
   "sections": [
-    {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
-      "rows": [
-        {
-          "event": "Will the Bank of Korea decrease the base rate after the July Meeting?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
     {
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
           "event": "Will Crude Oil (CL) hit (LOW) $90 by end of June?",
-          "odds": "-177",
+          "odds": "-156",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -54,19 +42,13 @@
       "rows": [
         {
           "event": "Will Marco Rubio win the 2028 US Presidential Election?",
-          "odds": "+629",
+          "odds": "+635",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Sorin Grindeanu be the next Prime Minister of Romania?",
-          "odds": "+1438",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Mandela Barnes win the 2026 Wisconsin Governor Democratic primary election?",
-          "odds": "+104",
+          "odds": "+1415",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -81,12 +63,6 @@
           "odds": "+244",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will the Republicans win the 2028 US Presidential Election?",
-          "odds": "+156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -95,8 +71,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "RCD Espanyol de Barcelona leading at halftime?",
-          "odds": "+203",
+          "event": "Exact Score: Shanghai Haigang FC 3 - 1 Tianjin Jinmen Hu FC?",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -107,20 +83,26 @@
           "moved": "none"
         },
         {
+          "event": "Will Burnley FC vs. Wolverhampton Wanderers FC end in a draw?",
+          "odds": "+270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "AI data center in space by December 31, 2026?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Robinhood Markets, Inc. (HOOD) hit (LOW) $60 in May?",
           "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Elina Svitolina win the 2026 Women’s French Open?",
-          "odds": "+1718",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Counter-Strike: ASTRAL vs MASONIC - Map 1 Winner",
-          "odds": "-177",
+          "event": "Will HNK Rijeka win on 2026-05-23?",
+          "odds": "-143",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -133,12 +115,6 @@
         {
           "event": "Will Ethena reach $1.20 by December 31, 2026?",
           "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Besiktas vs. Galatasaray",
-          "odds": "-316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
