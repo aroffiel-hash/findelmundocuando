@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "24 de mayo de 2026 — 06:32 UTC",
+  "lastUpdated": "24 de mayo de 2026 — 09:17 UTC",
   "ticker": [
+    "Rubio says ‘significant progress’ made in US-Iran negotiations",
+    "Yemen war sees scramble for scant resources between displaced and locals",
+    "Toxic gases hinder rescue efforts inside deadly China mine",
+    "Russian attacks on Ukraine’s Kyiv kill at least four people",
+    "Bomb attack in Pakistan’s Balochistan province kills more than 20 people",
+    "“They don’t like each other:” Is Russia and Iran’s alliance falling apart?",
+    "Knicks beat Cavaliers to reach brink of NBA Finals",
+    "Attacks on Ebola centres intensify in eastern DRC amid outbreak fears",
+    "Man dies in northeast Australia after shark attack",
+    "Usyk avoids shock defeat with 11th-round stoppage of Verhoeven",
     "‘Want equal respect’: Pakistan’s females galloping to glory in tent pegging",
     "LIVE: Trump says Iran deal ‘largely negotiated’; Pakistan says talks soon",
     "19 feared trapped after building collapse in Philippines",
     "Iranian sources lay out Iran-US deal details",
-    "US Secret Service fatally shoots gunman who fired at White House checkpoint",
-    "Funerals for medics killed in Israeli air strikes in southern Lebanon",
-    "Trump says Iran agreement ‘largely negotiated’, awaiting finalisation",
-    "Violence and overcrowding hampers Ebola response in DRC",
-    "India’s Gen Z ‘Cockroach Party’ is going viral",
-    "‘Fjord’ by Romania’s Cristian Mungiu wins Cannes top film prize",
-    "More than 1.5 million pilgrims brave fierce Mecca heat ahead of Hajj",
-    "Is pragmatism replacing ideology in international affairs?",
-    "Iran move World Cup base from US to Mexico with FIFA approval",
-    "Tens of thousands rally in Serbia for antigovernment demonstrations",
-    "Pakistan army chief visits Tehran to push for end to US-Israeli war on Iran"
+    "US Secret Service fatally shoots gunman who fired at White House checkpoint"
   ],
   "sections": [
     {
@@ -23,8 +23,14 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
+          "event": "Saudi Arabia bans US military aircraft by May 31?",
+          "odds": "+1594",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will no qualifying diplomatic US-Iran meeting occur by June 30, 2026?",
-          "odds": "+740",
+          "odds": "+594",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -34,6 +40,24 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
+        {
+          "event": "Will Brazil’s Q1 2026 GDP growth rate (YoY) be between 2.3% and 2.6%?",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will S&P 500 (SPX) open between $7,600 and $7,700 on May 26, 2026?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Liverpool FC vs. Brentford FC: O/U 2.5",
+          "odds": "-203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Fed rate cut by September 2026 meeting?",
           "odds": "+525",
@@ -54,7 +78,7 @@
       "rows": [
         {
           "event": "Will Marco Rubio win the 2028 US Presidential Election?",
-          "odds": "+629",
+          "odds": "+635",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -67,6 +91,18 @@
         {
           "event": "Lee Jae-myung impeached before 2027?",
           "odds": "+1198",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Ilie Bolojan be the next Prime Minister of Romania?",
+          "odds": "+1624",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will AKEL win the most seats at the Cyprus House of Representatives election?",
+          "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -89,8 +125,8 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Jeddah be 39°C or higher on May 24?",
-          "odds": "+270",
+          "event": "Will Tottenham Hotspur FC win on 2026-05-24?",
+          "odds": "-108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -101,26 +137,26 @@
           "moved": "none"
         },
         {
-          "event": "Will Donald Trump publicly insult someone on May 24, 2026?",
-          "odds": "-1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the lowest temperature in Shanghai be 23°C on May 25?",
-          "odds": "+177",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Set Handicap: Andreeva (-1.5) vs Ferro (+1.5)",
-          "odds": "-426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will another country recognize Somaliland by June 30?",
           "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Norway vs. France end in a draw?",
+          "odds": "+257",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the TN-08 House seat?",
+          "odds": "-566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "US strike on Colombia by December 31?",
+          "odds": "+376",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
