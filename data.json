@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "24 de mayo de 2026 — 19:08 UTC",
+  "lastUpdated": "24 de mayo de 2026 — 20:46 UTC",
   "ticker": [
+    "‘Trump needs a deal, no matter how bad it is’",
+    "Ebola spreads in the DRC as authorities struggle to contain outbreak",
+    "How will Iran war fallout impact upcoming US elections?",
+    "Israeli strikes kill six in southern Lebanon amid fresh evacuation orders",
     "Zelenskyy speaks to Al Jazeera at site of major Russian attacks in Kyiv",
     "Fatou Bensouda on Israeli threats against her and the ICC",
     "West Ham go down as Salah and Guardiola make emotional Premier League exits",
@@ -11,11 +15,7 @@
     "‘A paper city’: New York ‘library’ hosts 3.5 million pages of Epstein files",
     "China sends aid to Cuba amid a harsh US blockade",
     "Bahrain jails nine defendants for life for ‘cooperating’ with Iran’s IRGC",
-    "France bans Ben-Gvir: Which other Israeli leaders have been penalised?",
-    "For third year in a row, Israel blocks Hajj pilgrimage for Gaza Muslims",
-    "Syria cannot heal without a rebuilt health system",
-    "‘We won’t know who won until final outcome of US-Iran ceasefire’",
-    "Will the Texas primary run-off give Democrats a chance to flip the state?"
+    "France bans Ben-Gvir: Which other Israeli leaders have been penalised?"
   ],
   "sections": [
     {
@@ -30,7 +30,13 @@
         },
         {
           "event": "Will no qualifying diplomatic US-Iran meeting occur by June 30, 2026?",
-          "odds": "+415",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the next diplomatic US-Iran meeting be in Pakistan?",
+          "odds": "-183",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -41,12 +47,6 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will Brazil’s Q1 2026 GDP growth rate (YoY) be between 2.3% and 2.6%?",
-          "odds": "+233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Roland Garros ATP (Doubles): Kecmanovic/Kokkinakis vs Droguet/Gaston",
           "odds": "-117",
           "params": "Fuente: Polymarket",
@@ -54,7 +54,7 @@
         },
         {
           "event": "Fed rate cut by September 2026 meeting?",
-          "odds": "+669",
+          "odds": "+562",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -84,7 +84,7 @@
         },
         {
           "event": "Will Richard Tabor be the Republican nominee for Senate in New Jersey?",
-          "odds": "+132",
+          "odds": "+127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -101,8 +101,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the highest temperature in Austin be 92°F or higher on May 25?",
-          "odds": "+669",
+          "event": "Columbus Crew vs. Atlanta United FC: Both Teams to Score",
+          "odds": "-143",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -119,6 +119,12 @@
           "moved": "none"
         },
         {
+          "event": "Roland Garros ATP (Doubles): Krawietz/Puetz vs Golubev/Nedovyesov",
+          "odds": "-524",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Colombia win on 2026-06-01?",
           "odds": "-203",
           "params": "Fuente: Polymarket",
@@ -131,20 +137,14 @@
           "moved": "none"
         },
         {
-          "event": "Thunder vs. Spurs",
-          "odds": "+138",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Seoul be 24°C on May 25?",
-          "odds": "+2027",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will AutoZone (AZO) beat quarterly earnings?",
           "odds": "-284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will there be a run scored in the first inning?: Washington Nationals vs. Atlanta Braves",
+          "odds": "-117",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
