@@ -1,8 +1,11 @@
 {
-  "lastUpdated": "24 de mayo de 2026 — 02:41 UTC",
+  "lastUpdated": "24 de mayo de 2026 — 06:32 UTC",
   "ticker": [
+    "‘Want equal respect’: Pakistan’s females galloping to glory in tent pegging",
+    "LIVE: Trump says Iran deal ‘largely negotiated’; Pakistan says talks soon",
+    "19 feared trapped after building collapse in Philippines",
     "Iranian sources lay out Iran-US deal details",
-    "Secret Service fatally shoots gunman who fired at White House checkpoint",
+    "US Secret Service fatally shoots gunman who fired at White House checkpoint",
     "Funerals for medics killed in Israeli air strikes in southern Lebanon",
     "Trump says Iran agreement ‘largely negotiated’, awaiting finalisation",
     "Violence and overcrowding hampers Ebola response in DRC",
@@ -12,12 +15,21 @@
     "Is pragmatism replacing ideology in international affairs?",
     "Iran move World Cup base from US to Mexico with FIFA approval",
     "Tens of thousands rally in Serbia for antigovernment demonstrations",
-    "Pakistan army chief visits Tehran to push for end to US-Israeli war on Iran",
-    "Police beat and detain Gaza flotilla activists at airport",
-    "Barcelona beat Lyon 4-0 to win Women’s Champions League",
-    "‘United States of the Middle East?’: Trump posts US flag covering Iran"
+    "Pakistan army chief visits Tehran to push for end to US-Israeli war on Iran"
   ],
   "sections": [
+    {
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "rows": [
+        {
+          "event": "Will no qualifying diplomatic US-Iran meeting occur by June 30, 2026?",
+          "odds": "+740",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
     {
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
@@ -25,6 +37,12 @@
         {
           "event": "Fed rate cut by September 2026 meeting?",
           "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will S&P 500 (SPX) hit $8,600 (HIGH) in December?",
+          "odds": "+488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -36,7 +54,7 @@
       "rows": [
         {
           "event": "Will Marco Rubio win the 2028 US Presidential Election?",
-          "odds": "+635",
+          "odds": "+629",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -59,8 +77,20 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Will Monero hit $1000 in 2026?",
+          "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Colombia win on 2026-06-01?",
           "odds": "-203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Jeddah be 39°C or higher on May 24?",
+          "odds": "+270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -71,26 +101,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Sunderland AFC win on 2026-05-24?",
-          "odds": "+257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Bruno Mars have the greatest number of monthly Spotify listeners this month?",
+          "event": "Will Donald Trump publicly insult someone on May 24, 2026?",
           "odds": "-1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Monero hit $1000 in 2026?",
-          "odds": "+455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Blaublitz Akita vs. Tochigi City FC: Both Teams to Score",
-          "odds": "+163",
+          "event": "Will the lowest temperature in Shanghai be 23°C on May 25?",
+          "odds": "+177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -101,8 +119,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Norway vs. France end in a draw?",
-          "odds": "+257",
+          "event": "Will another country recognize Somaliland by June 30?",
+          "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
