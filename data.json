@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "25 de mayo de 2026 — 17:02 UTC",
+  "lastUpdated": "25 de mayo de 2026 — 19:20 UTC",
   "ticker": [
+    "Lebanon marks Liberation Day under Israeli bombardment",
+    "In Lebanon, everything and nothing has changed since 2000",
+    "Bolivia’s embattled president says will take a 50 percent salary cut",
+    "Mexico to host Iran team during 2026 FIFA World Cup amid US tensions",
+    "Israel escalates Gaza attacks as Netanyahu stalls ceasefire for polls",
+    "Subdued Lebanon Liberation Day celebrations under new Israeli occupation",
+    "Tunisian court hands presidential critic Sonia Dahmani new jail term",
+    "Mexico steps in to host Iran’s World Cup team after US refusal",
+    "Over 1.5 million pilgrims begin Hajj amid regional tensions",
     "How technology is shaping Hajj",
     "Pope says AI must be ‘disarmed’ to prevent domination, exclusion, and death",
     "Rescuers search for survivors after hotel collapse in Philippines",
     "Russia warns foreigners to leave Kyiv as it prepares ‘systematic strikes’",
     "Nearly 300 tourists rescued after cable cars halt mid-air",
-    "Train bomb in Pakistan’s Baloch region: Why violence is on the rise",
-    "Pope Leo calls for ‘disarming’ of artificial intelligence",
-    "Trump links Iran negotiations to expansion of Abraham Accords",
-    "Australian Gaza aid flotilla activists allege abuse after Israeli abduction",
-    "WHO chief says suspected Ebola deaths at 220 as epidemic ‘outpacing us’",
-    "Baloch separatists ‘take advantage’ of Pakistan’s entanglements",
-    "Could Israel sabotage US-Iran deal?",
-    "Iran says deal with US ‘not imminent’ despite progress",
-    "Could Brazilian oil emerge as one of the big winners of the Iran war?",
-    "What are the biggest FIFA World Cup upsets in history?"
+    "Train bomb in Pakistan’s Baloch region: Why violence is on the rise"
   ],
   "sections": [
     {
@@ -30,13 +30,7 @@
         },
         {
           "event": "US obtains Iranian enriched uranium by December 31?",
-          "odds": "+300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Israel x Hezbollah permanent peace deal by May 31, 2026?",
-          "odds": "+614",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -47,26 +41,32 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
+          "event": "Fed rate cut by September 2026 meeting?",
+          "odds": "+726",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the Bank of Canada decrease the target for the overnight rate by 25 bps at the July interest rate announcement?",
           "odds": "+1940",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will S&P 500 (SPY) hit (LOW) $730 in May?",
-          "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Fed rate cut by September 2026 meeting?",
-          "odds": "+594",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will S&P 500 (SPX) hit $8,600 (HIGH) in December?",
           "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "S&P 500 (SPX) Opens Up or Down on May 26?",
+          "odds": "-1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will WTI Crude Oil (WTI) hit (LOW) $85 in May?",
+          "odds": "+127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -78,13 +78,13 @@
       "rows": [
         {
           "event": "Will Pamela Evette win the 2026 South Carolina Governor Republican primary election?",
-          "odds": "+194",
+          "odds": "+163",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Marco Rubio win the 2028 US Presidential Election?",
-          "odds": "+640",
+          "odds": "+646",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -107,26 +107,14 @@
           "moved": "none"
         },
         {
-          "event": "Hyperliquid Up or Down - May 25, 12:40PM-12:45PM ET",
-          "odds": "-108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Leicester Tigers win?",
           "odds": "-212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Qingdao be 22°C on May 26?",
-          "odds": "+300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Amsterdam be 21°C on May 27?",
-          "odds": "+132",
+          "event": "Set Handicap: Paul (-2.5) vs Hijikata (+2.5)",
+          "odds": "-194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -137,14 +125,26 @@
           "moved": "none"
         },
         {
+          "event": "Ink FDV above $250M one day after launch?",
+          "odds": "-524",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "US strike on Colombia by December 31?",
           "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Wuhan be 26°C on May 26?",
-          "odds": "+316",
+          "event": "Set Handicap: Popyrin (-2.5) vs Svajda (+2.5)",
+          "odds": "-104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will DR Congo win on 2026-06-27?",
+          "odds": "+149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
