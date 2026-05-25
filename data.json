@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "25 de mayo de 2026 — 20:59 UTC",
+  "lastUpdated": "25 de mayo de 2026 — 22:11 UTC",
   "ticker": [
+    "Czech police detain Russian priest over ‘white substance’ find",
+    "Israel to intensify Lebanon offensive to ‘crush’ Hezbollah",
     "Bolivia’s president cuts salary in half amid protests",
     "Trump pays tribute to US troops killed in war on Iran on Memorial Day",
     "Ex-Scottish National Party chief pleads guilty to embezzling funds",
@@ -13,23 +15,9 @@
     "Bolivia’s embattled president says will take a 50 percent salary cut",
     "Mexico to host Iran team during 2026 FIFA World Cup amid US tensions",
     "Israel escalates Gaza attacks as Netanyahu stalls ceasefire for polls",
-    "Subdued Lebanon Liberation Day celebrations under new Israeli occupation",
-    "Tunisian court hands presidential critic Sonia Dahmani new jail term",
-    "Mexico steps in to host Iran’s World Cup team after US refusal"
+    "Subdued Lebanon Liberation Day celebrations under new Israeli occupation"
   ],
   "sections": [
-    {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
-      "rows": [
-        {
-          "event": "US obtains Iranian enriched uranium by December 31?",
-          "odds": "+284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
     {
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
@@ -47,14 +35,14 @@
           "moved": "none"
         },
         {
-          "event": "Will S&P 500 (SPX) hit $8,600 (HIGH) in December?",
-          "odds": "+614",
+          "event": "Will WTI Crude Oil (WTI) hit (LOW) $85 in May?",
+          "odds": "+138",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will WTI Crude Oil (WTI) hit (LOW) $85 in May?",
-          "odds": "+117",
+          "event": "Will S&P 500 (SPX) hit $8,600 (HIGH) in December?",
+          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -65,12 +53,6 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Pamela Evette win the 2026 South Carolina Governor Republican primary election?",
-          "odds": "+163",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Lee Jae-myung impeached before 2027?",
           "odds": "+1198",
           "params": "Fuente: Polymarket",
@@ -78,7 +60,7 @@
         },
         {
           "event": "Will Jared Hudson be the Republican nominee for Senate in Alabama?",
-          "odds": "+1370",
+          "odds": "+1134",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -95,20 +77,32 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Roland Garros ATP: Alejandro Tabilo vs Kamil Majchrzak",
+          "odds": "-376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the KS-03 House seat?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Leicester Tigers win?",
           "odds": "-212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Madrid be 36°C on May 27?",
-          "odds": "+900",
+          "event": "Will the highest temperature in Buenos Aires be 20°C on May 27?",
+          "odds": "+1940",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Austin be between 84-85°F on May 26?",
-          "odds": "+525",
+          "event": "Will the highest temperature in Seoul be 24°C on May 27?",
+          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -119,26 +113,14 @@
           "moved": "none"
         },
         {
-          "event": "SpaceX IPO closing market cap above $2.6T?",
-          "odds": "+163",
+          "event": "Will the highest temperature in Panama City be 29°C on May 26?",
+          "odds": "+809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the Republican Party win the TN-08 House seat?",
-          "odds": "-566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Ink FDV above $250M one day after launch?",
-          "odds": "-524",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "US strike on Colombia by December 31?",
-          "odds": "+400",
+          "event": "Will the highest temperature in Denver be between 72-73°F on May 26?",
+          "odds": "+3125",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
