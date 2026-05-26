@@ -1,70 +1,139 @@
 {
-  "lastUpdated": "26 de mayo de 2026 — 14:52 UTC",
+  "lastUpdated": "26 de mayo de 2026 — 15:40 UTC",
   "ticker": [
+    "European countries and EU summon Russian envoys over threats on Kyiv",
+    "Tehran labels US attacks ‘gross violation’, says it is prepared to respond",
+    "Israel is no longer ‘shooting and crying’",
+    "Hajj pilgrims gather at Mount Arafat under scorching desert sun",
+    "‘Leave Kyiv’: Why Russia’s latest Ukraine threat is a major escalation",
     "Iran’s president praises military after US strikes",
     "India, US strike critical minerals deal: What’s in it, why does it matter?",
     "Twitch to politics: Hasan Piker on Gaza and the US right-wing",
+    "US Supreme court rejects NFL attempt to move racism case to arbitration",
     "Do we owe the world children?",
     "Norway World Cup 2026 preview: Players to watch, group matches, squad list",
     "Al Jazeera speaks to Hajj pilgrims about their journey to Mecca",
     "Israel’s occupation of Gaza, Lebanon, Syria extends beyond what maps show",
     "Report warns pro-Palestine protesters face legal crackdown: What to know",
-    "French Open: Medvedev shocked by wildcard Walton in first round",
-    "Protester confronts Canadian politician over ‘Gaza complicity’",
-    "French Open: Sabelenka storms to opening win against Bouzas Maneiro",
-    "Senegal lawmakers elect ousted PM Sonko as new parliament speaker"
+    "French Open: Medvedev shocked by wildcard Walton in first round"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Strait of Hormuz traffic returns to normal by end of June?",
-          "odds": "+138",
-          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
-      "rows": [
-        {
-          "event": "Trump ballroom project unblocked by May 31?",
-          "odds": "+233",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Will Korea Republic vs. Czechia end in a draw?",
+          "odds": "+222",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y ENERGÍA",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
           "event": "Fed rate cut by September 2026 meeting?",
-          "odds": "+609",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con política monetaria de la Fed.",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will S&P 500 (SPX) hit $8,600 (HIGH) in December?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Bank of Canada decrease the target for the overnight rate by 25 bps at the July interest rate announcement?",
           "odds": "+1940",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Bab el-Mandeb Strait effectively closed by June 30?",
-          "odds": "+1076",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election?",
+          "odds": "+273",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jared Hudson be the Republican nominee for Senate in Alabama?",
+          "odds": "+1134",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Lee Jae-myung impeached before 2027?",
+          "odds": "+1198",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Tshisekedi out as President of the DRC by December 31, 2026?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will the Republican Party win the KS-03 House seat?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Leicester Tigers win?",
+          "odds": "-212",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "KBO: Lotte Giants vs. Hanwha Eagles",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jules Vaughn die in Euphoria: Season 3?",
+          "odds": "+681",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Strait of Hormuz traffic returns to normal by end of June?",
+          "odds": "+156",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "US strike on Colombia by December 31?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the TN-08 House seat?",
+          "odds": "-566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Busan be 25°C on May 28?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
