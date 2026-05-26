@@ -1,139 +1,70 @@
 {
-  "lastUpdated": "26 de mayo de 2026 — 08:31 UTC",
+  "lastUpdated": "26 de mayo de 2026 — 14:52 UTC",
   "ticker": [
-    "Knicks reach NBA finals after defeating Cavaliers in Game 4",
-    "Rubio says Strait of Hormuz will open ‘one way or the other’",
-    "As Trump woos China, the Quad grouping drifts towards irrelevance",
-    "‘Come back, my son’: Indian exam leak leaves trail of death, despair, anger",
-    "Rubio says Iran deal could take days after US forces launch new attacks",
-    "Iran war day 88: US attacks near Strait of Hormuz; talks under way in Qatar",
-    "Pakistani women in tent-pegging",
-    "Starbucks’ Korean sales fall after backlash to ‘Tank Day’ ad campaign",
-    "US strikes southern Iran in ‘self defence’ targeting Iranian mine boats",
-    "Netanyahu vows to ‘smite’ Hezbollah with ‘overwhelming’ force",
-    "Istanbul’s Bilgi University reopened after police crackdown",
-    "Cost of living crisis reshapes Eid spending in Nigeria",
-    "Hajj pilgrims arrive near Mecca ahead of Arafah Day",
-    "US military launches strikes on southern Iran amid talks in Qatar",
-    "Canada’s Mark Carney calls treatment of Gaza flotilla activists ‘appalling’"
+    "Iran’s president praises military after US strikes",
+    "India, US strike critical minerals deal: What’s in it, why does it matter?",
+    "Twitch to politics: Hasan Piker on Gaza and the US right-wing",
+    "Do we owe the world children?",
+    "Norway World Cup 2026 preview: Players to watch, group matches, squad list",
+    "Al Jazeera speaks to Hajj pilgrims about their journey to Mecca",
+    "Israel’s occupation of Gaza, Lebanon, Syria extends beyond what maps show",
+    "Report warns pro-Palestine protesters face legal crackdown: What to know",
+    "French Open: Medvedev shocked by wildcard Walton in first round",
+    "Protester confronts Canadian politician over ‘Gaza complicity’",
+    "French Open: Sabelenka storms to opening win against Bouzas Maneiro",
+    "Senegal lawmakers elect ousted PM Sonko as new parliament speaker"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
-          "event": "Will Korea Republic vs. Czechia end in a draw?",
-          "odds": "+222",
-          "params": "Fuente: Polymarket",
+          "event": "Strait of Hormuz traffic returns to normal by end of June?",
+          "odds": "+138",
+          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
+      "rows": [
+        {
+          "event": "Trump ballroom project unblocked by May 31?",
+          "odds": "+233",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "label": "ECONOMÍA Y ENERGÍA",
       "rows": [
         {
           "event": "Fed rate cut by September 2026 meeting?",
-          "odds": "+640",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will S&P 500 (SPX) hit $8,600 (HIGH) in December?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
+          "odds": "+609",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con política monetaria de la Fed.",
           "moved": "none"
         },
         {
           "event": "Will the Bank of Canada decrease the target for the overnight rate by 25 bps at the July interest rate announcement?",
           "odds": "+1940",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
         {
-          "event": "Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election?",
-          "odds": "+273",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Abelardo de la Espriella win the first round of the 2026 Colombian presidential election?",
-          "odds": "+194",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Jared Hudson be the Republican nominee for Senate in Alabama?",
-          "odds": "+1134",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Lee Jae-myung impeached before 2027?",
-          "odds": "+1198",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will the Republican Party win the KS-03 House seat?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Leicester Tigers win?",
-          "odds": "-212",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Natus Vincere win IEM Cologne Major 2026?",
-          "odds": "+910",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "US strike on Colombia by December 31?",
-          "odds": "+455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the TN-08 House seat?",
-          "odds": "-566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Apple (AAPL) Up or Down on May 26?",
-          "odds": "-194",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Istanbul be 25°C on May 26?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will DR Congo win on 2026-06-27?",
-          "odds": "+149",
-          "params": "Fuente: Polymarket",
+          "event": "Bab el-Mandeb Strait effectively closed by June 30?",
+          "odds": "+1076",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
