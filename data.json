@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "25 de mayo de 2026 — 22:11 UTC",
+  "lastUpdated": "26 de mayo de 2026 — 00:00 UTC",
   "ticker": [
     "Czech police detain Russian priest over ‘white substance’ find",
     "Israel to intensify Lebanon offensive to ‘crush’ Hezbollah",
@@ -24,25 +24,19 @@
       "rows": [
         {
           "event": "Fed rate cut by September 2026 meeting?",
-          "odds": "+817",
+          "odds": "+640",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will S&P 500 (SPX) hit $8,600 (HIGH) in December?",
+          "odds": "+488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Bank of Canada decrease the target for the overnight rate by 25 bps at the July interest rate announcement?",
           "odds": "+1940",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will WTI Crude Oil (WTI) hit (LOW) $85 in May?",
-          "odds": "+138",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will S&P 500 (SPX) hit $8,600 (HIGH) in December?",
-          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -59,6 +53,12 @@
           "moved": "none"
         },
         {
+          "event": "Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election?",
+          "odds": "+234",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Jared Hudson be the Republican nominee for Senate in Alabama?",
           "odds": "+1134",
           "params": "Fuente: Polymarket",
@@ -69,6 +69,12 @@
           "odds": "+222",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Nirav Shah win the 2026 Maine Governor Democratic primary election?",
+          "odds": "+270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -76,12 +82,6 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
-        {
-          "event": "Roland Garros ATP: Alejandro Tabilo vs Kamil Majchrzak",
-          "odds": "-376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will the Republican Party win the KS-03 House seat?",
           "odds": "+614",
@@ -95,32 +95,38 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Buenos Aires be 20°C on May 27?",
-          "odds": "+1940",
+          "event": "Will the highest temperature in Chongqing be 31°C or higher on May 26?",
+          "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Seoul be 24°C on May 27?",
-          "odds": "+455",
+          "event": "Ink FDV above $250M one day after launch?",
+          "odds": "-524",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Los Angeles be between 66-67°F on May 27?",
-          "odds": "+257",
+          "event": "Will Abelardo de la Espriella place 1st in the Antioquia Department?",
+          "odds": "-455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Panama City be 29°C on May 26?",
+          "event": "Will the Republican Party win the TN-08 House seat?",
+          "odds": "-566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "US strike on Colombia by December 31?",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Elon Musk post 260-279 tweets from May 26 to June 2, 2026?",
           "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Denver be between 72-73°F on May 26?",
-          "odds": "+3125",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
