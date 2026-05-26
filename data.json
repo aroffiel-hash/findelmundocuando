@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "26 de mayo de 2026 — 02:35 UTC",
+  "lastUpdated": "26 de mayo de 2026 — 04:57 UTC",
   "ticker": [
+    "Starbucks’ Korean sales fall after backlash to ‘Tank Day’ ad campaign",
+    "US strikes southern Iran in ‘self defence’ targeting Iranian mine boats",
+    "Netanyahu vows to ‘smite’ Hezbollah with ‘overwhelming’ force",
+    "Istanbul’s Bilgi University reopened after police crackdown",
+    "Cost of living crisis reshapes Eid spending in Nigeria",
     "Hajj pilgrims arrive near Mecca ahead of Arafah Day",
     "US military launches strikes on southern Iran amid talks in Qatar",
     "Canada’s Mark Carney calls treatment of Gaza flotilla activists ‘appalling’",
@@ -10,67 +15,119 @@
     "Czech police detain Russian priest over ‘white substance’ find",
     "Israel to intensify Lebanon offensive to ‘crush’ Hezbollah",
     "Bolivia’s president cuts salary in half amid protests",
-    "Trump pays tribute to US troops killed in war on Iran on Memorial Day",
-    "Ex-Scottish National Party chief pleads guilty to embezzling funds",
-    "Trump dangles normalisation amid pro-Israel criticism of possible Iran deal"
+    "Trump pays tribute to US troops killed in war on Iran on Memorial Day"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
-      "rows": [
-        {
-          "event": "Will 20-39 ships transit the Strait of Hormuz between May 18-May 24?",
-          "odds": "+117",
-          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
-      "rows": [
-        {
-          "event": "Trump ballroom project unblocked by May 31?",
-          "odds": "+233",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump say \"Bitcoin\" in May?",
-          "odds": "+112",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
       "flag": "💰",
-      "label": "ECONOMÍA Y ENERGÍA",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
           "event": "Fed rate cut by September 2026 meeting?",
           "odds": "+640",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con política monetaria de la Fed.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will S&P 500 (SPX) hit $8,600 (HIGH) in December?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Bank of Canada decrease the target for the overnight rate by 25 bps at the July interest rate announcement?",
           "odds": "+1940",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Bab el-Mandeb Strait effectively closed by June 30?",
-          "odds": "+562",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Will Nirav Shah win the 2026 Maine Governor Democratic primary election?",
+          "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election?",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Abelardo de la Espriella win the first round of the 2026 Colombian presidential election?",
+          "odds": "+194",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jared Hudson be the Republican nominee for Senate in Alabama?",
+          "odds": "+1134",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Lee Jae-myung impeached before 2027?",
+          "odds": "+1198",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will the Republican Party win the KS-03 House seat?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Leicester Tigers win?",
+          "odds": "-212",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Ink FDV above $250M one day after launch?",
+          "odds": "-426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the lowest temperature in Shanghai be 22°C on May 27?",
+          "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Sao Paulo be 18°C on May 27?",
+          "odds": "+2757",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the TN-08 House seat?",
+          "odds": "-566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Elon Musk post 320-339 tweets from May 26 to June 2, 2026?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "US strike on Colombia by December 31?",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
