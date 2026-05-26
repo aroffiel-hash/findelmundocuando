@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "26 de mayo de 2026 — 04:57 UTC",
+  "lastUpdated": "26 de mayo de 2026 — 08:31 UTC",
   "ticker": [
+    "Knicks reach NBA finals after defeating Cavaliers in Game 4",
+    "Rubio says Strait of Hormuz will open ‘one way or the other’",
+    "As Trump woos China, the Quad grouping drifts towards irrelevance",
+    "‘Come back, my son’: Indian exam leak leaves trail of death, despair, anger",
+    "Rubio says Iran deal could take days after US forces launch new attacks",
+    "Iran war day 88: US attacks near Strait of Hormuz; talks under way in Qatar",
+    "Pakistani women in tent-pegging",
     "Starbucks’ Korean sales fall after backlash to ‘Tank Day’ ad campaign",
     "US strikes southern Iran in ‘self defence’ targeting Iranian mine boats",
     "Netanyahu vows to ‘smite’ Hezbollah with ‘overwhelming’ force",
@@ -8,16 +15,21 @@
     "Cost of living crisis reshapes Eid spending in Nigeria",
     "Hajj pilgrims arrive near Mecca ahead of Arafah Day",
     "US military launches strikes on southern Iran amid talks in Qatar",
-    "Canada’s Mark Carney calls treatment of Gaza flotilla activists ‘appalling’",
-    "Tensions rise in Bolivia as protesters march toward presidential palace",
-    "Iran war live: US strikes Iran’s south, Tehran officials in Qatar for talks",
-    "Trump renews petition for White House ballroom, pointing to nearby shooting",
-    "Czech police detain Russian priest over ‘white substance’ find",
-    "Israel to intensify Lebanon offensive to ‘crush’ Hezbollah",
-    "Bolivia’s president cuts salary in half amid protests",
-    "Trump pays tribute to US troops killed in war on Iran on Memorial Day"
+    "Canada’s Mark Carney calls treatment of Gaza flotilla activists ‘appalling’"
   ],
   "sections": [
+    {
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "rows": [
+        {
+          "event": "Will Korea Republic vs. Czechia end in a draw?",
+          "odds": "+222",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
     {
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
@@ -47,14 +59,8 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Nirav Shah win the 2026 Maine Governor Democratic primary election?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election?",
-          "odds": "+334",
+          "odds": "+273",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -95,20 +101,14 @@
           "moved": "none"
         },
         {
-          "event": "Ink FDV above $250M one day after launch?",
-          "odds": "-426",
+          "event": "Will Natus Vincere win IEM Cologne Major 2026?",
+          "odds": "+910",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the lowest temperature in Shanghai be 22°C on May 27?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Sao Paulo be 18°C on May 27?",
-          "odds": "+2757",
+          "event": "US strike on Colombia by December 31?",
+          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -119,14 +119,20 @@
           "moved": "none"
         },
         {
-          "event": "Will Elon Musk post 320-339 tweets from May 26 to June 2, 2026?",
-          "odds": "+2400",
+          "event": "Apple (AAPL) Up or Down on May 26?",
+          "odds": "-194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "US strike on Colombia by December 31?",
-          "odds": "+376",
+          "event": "Will the highest temperature in Istanbul be 25°C on May 26?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will DR Congo win on 2026-06-27?",
+          "odds": "+149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
