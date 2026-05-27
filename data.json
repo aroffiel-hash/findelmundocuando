@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "27 de mayo de 2026 — 15:00 UTC",
+  "lastUpdated": "27 de mayo de 2026 — 16:33 UTC",
   "ticker": [
     "Family mourn ‘Hamas leader’ killed in Israeli attack",
     "Mogadishu gathers for Eid with prayers, family meals and outings",
@@ -12,47 +12,122 @@
     "The Baltics urgently need a de-escalation mechanism; Belarus can help",
     "Nigeria’s Eid Crisis: When a ram becomes a luxury",
     "DRC facing ‘catastrophic collision’ of Ebola and war, WHO chief warns",
-    "‘Eid does not enter tents’: Palestinians in Gaza face grim holiday"
+    "‘Eid does not enter tents’: Palestinians in Gaza face grim holiday",
+    "Israeli authorities filmed treating Palestinians with aggression on Eid",
+    "UFC fighting cage rises on White House lawn for US and Trump celebrations",
+    "Spain police enter PM Sanchez’s Socialist Party HQ in corruption probe"
   ],
   "sections": [
     {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Will Cleitinho Azevedo win the 2026 Minas Gerais gubernatorial election?",
           "odds": "-163",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
-      "rows": [
-        {
-          "event": "Will Trump wear a Yarmulke in 2026?",
-          "odds": "+149",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y ENERGÍA",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
           "event": "Fed rate cut by September 2026 meeting?",
-          "odds": "+663",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con política monetaria de la Fed.",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Bank of Canada decrease the target for the overnight rate by 25 bps at the July interest rate announcement?",
           "odds": "+1940",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Francesca Hong win the 2026 Wisconsin Governor Democratic primary election?",
+          "odds": "+247",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jared Hudson be the Republican nominee for Senate in Alabama?",
+          "odds": "+1119",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Lee Jae-myung impeached before 2027?",
+          "odds": "+1198",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Raphaël Glucksmann win the 2027 French presidential election?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will FathUnionSport win on 2026-05-30?",
+          "odds": "+270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the KS-03 House seat?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Leicester Tigers win?",
+          "odds": "-212",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "US strike on Colombia by December 31?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Chengdu be 30°C on May 29?",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Anthropic’s market cap be between 0.9T and 1.2T at market close on IPO day by December 31 2027?",
+          "odds": "+1512",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Claude Code Commits be less than 500.0k on June 30?",
+          "odds": "-524",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will StandX launch a token by June 30, 2026?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
