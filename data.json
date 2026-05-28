@@ -1,133 +1,58 @@
 {
-  "lastUpdated": "28 de mayo de 2026 — 14:33 UTC",
+  "lastUpdated": "28 de mayo de 2026 — 15:34 UTC",
   "ticker": [
+    "IOC chief Coventry stirs social media storm over athlete payment comments",
+    "Yemen’s former leader Abd-Rabbu Mansour Hadi dies in exile at 80",
+    "Poisonous invasion: What is the ‘devil’s trumpet’ harming crops in Iraq?",
+    "US attacks Bandar Abbas again: Why is the port so important for Iran?",
     "Sinner shocked in French Open exit as Cerundolo recovers from two-sets down",
-    "Teenager Kouame matches Nadal 20-year record in stunning French Open win",
+    "Teenager Kouame beats Vallejo at French Open to match 23-year Nadal record",
     "Anti-Immigrant anger grows in South Africa as migrants forced onto streets",
     "South African president to face impeachment probe over ‘Farmgate’ scandal",
     "Gold Rush: Did CIA agent steal $40m in gold bars via work expenses?",
     "Italy seizes $232m in Mafia assets tied to Cosa Nostra",
-    "Mamdani wears Arsenal thobe during Eid al-Adha celebrations",
     "Why has Trump threatened to bomb Oman, amid Iran war escalation?",
-    "The kingmakers of Makerfield: English town braces for crucial by-election",
-    "Brazil World Cup 2026 team preview: Players to watch, group matches, squad",
-    "Hottest year on record almost certain to occur by end of 2030, UN warns",
-    "‘Donald Trump’ buffalo in Bangladesh will be spared sacrifice",
-    "Iran says US must issue multiple-entry visas for its World Cup squad",
-    "For Gaza, Eid joy is now a form of resistance",
-    "Al Jazeera journalist’s emotional speech after winning Emmy"
+    "The kingmakers of Makerfield: English town braces for crucial by-election"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
       "rows": [
         {
           "event": "Russia x Ukraine ceasefire agreement by October 31, 2026?",
           "odds": "+203",
-          "params": "Fuente: Polymarket",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
+      "rows": [
+        {
+          "event": "Will Trump wear a Yarmulke in 2026?",
+          "odds": "+112",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump say \"Trump Family\" in May?",
+          "odds": "+1899",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "label": "ECONOMÍA Y ENERGÍA",
       "rows": [
         {
           "event": "Will the Bank of Canada make no change to the target for the overnight rate at the July interest rate announcement?",
           "odds": "-1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will Raphaël Glucksmann win the 2027 French presidential election?",
-          "odds": "+3125",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Jared Hudson be the Republican nominee for Senate in Alabama?",
-          "odds": "+1119",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Click Bishop win the 2026 Alaska governor election?",
-          "odds": "+1718",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Lee Jae-myung impeached before 2027?",
-          "odds": "+1198",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Tshisekedi out as President of the DRC by December 31, 2026?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will Western Force win?",
-          "odds": "-132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the KS-03 House seat?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "US strike on Colombia by December 31?",
-          "odds": "+455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Leicester Tigers win?",
-          "odds": "-212",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Shanghai be 32°C on May 30?",
-          "odds": "+2027",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Helsinki be 23°C on May 30?",
-          "odds": "+1036",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will SpaceX's market cap be between $1.0T and $1.5T at market close on IPO day?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Claude Code Commits be less than 500.0k on June 30?",
-          "odds": "-524",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
