@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "28 de mayo de 2026 — 06:48 UTC",
+  "lastUpdated": "28 de mayo de 2026 — 10:50 UTC",
   "ticker": [
-    "Ebola outbreak: What travel restrictions have countries imposed?",
-    "Ghana welcomes home citizens evacuated from South Africa",
-    "Google employee charged with insider trading over Polymarket bets",
-    "Aid cuts and climate change drive deadly malaria surge in Zimbabwe",
-    "Parisians defy swimming ban to cool off as record heat hits Europe",
-    "Uganda closes border with DRC in an effort to contain Ebola outbreak",
-    "US returns Palestinian rights expert Francesca Albanese to sanctions list",
-    "Iran war live: US strikes Iranian site; Kuwait targeted by missiles, drones",
-    "Jill Biden worried husband Joe was ‘having a stroke’ during 2024 US debate",
-    "Bolivia’s president warns ‘time is running out’ amid protest crisis",
-    "Markets rally amid hopes of US-Iran deal",
-    "Former assistant to TV star Matthew Perry sentenced to 41 months in prison",
-    "Why is Israel ramping up attacks in Lebanon despite a ceasefire?",
-    "Trump says no one will control Strait of Hormuz",
-    "Ghana welcomes first group fleeing South African anti-immigration protests"
+    "Argentina’s ‘El Loco’ faces Uruguay mutiny ahead of World Cup",
+    "Iran says it has a new air defence system. How significant is it?",
+    "At least 16 students killed in fire at Kenya girls school dorm",
+    "Germany’s Voeller urges players to avoid political statements at World Cup",
+    "Children with Down syndrome struggle with devastation of war in Gaza",
+    "China’s secret weapon in AI race with US? Lots of cheap energy",
+    "Israeli attack on Gaza City kills at least 10, including four children",
+    "Neymar injury threatens Brazil forward’s World Cup as scans needed on calf",
+    "Bafana Bafana World Cup squad: South Africa names two uncapped players",
+    "World Cup delegation compliant with US Ebola protocols, DR Congo says",
+    "Australia charges alleged ISIL-linked woman after return from Syria",
+    "Iran and US trade attacks after Trump rejects report of Hormuz agreement",
+    "What’s happening on Iran war day 90 as US launches new strikes",
+    "Morocco tops Africa’s industrialisation index for first time",
+    "Palestinian graduates in the West Bank enter a collapsed job market"
   ],
   "sections": [
     {
@@ -23,14 +23,8 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Cleitinho Azevedo win the 2026 Minas Gerais gubernatorial election?",
-          "odds": "-138",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Warsaw be 21°C on May 29?",
-          "odds": "+257",
+          "event": "Russia x Ukraine ceasefire agreement by October 31, 2026?",
+          "odds": "+203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -65,12 +59,6 @@
           "moved": "none"
         },
         {
-          "event": "US x Cuba diplomatic meeting by May 31?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Jared Hudson be the Republican nominee for Senate in Alabama?",
           "odds": "+1119",
           "params": "Fuente: Polymarket",
@@ -93,6 +81,12 @@
           "odds": "+1198",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Tshisekedi out as President of the DRC by December 31, 2026?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -103,6 +97,12 @@
         {
           "event": "Will FathUnionSport win on 2026-05-30?",
           "odds": "+270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Western Force win?",
+          "odds": "-132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -125,26 +125,20 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Miami be between 88-89°F on May 29?",
-          "odds": "+112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Dota 2: Xtreme Gaming vs GLYPH (BO1) - BLAST Slam Group Stage",
-          "odds": "-163",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Mexico win on 2026-06-18?",
-          "odds": "-108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Claude Code Commits be less than 500.0k on June 30?",
           "odds": "-524",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will \"Hit The Wall - Gracie Abrams\" be the #1 song on Spotify this week?",
+          "odds": "+2464",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Anduril's valuation hit (LOW) $70B by June 30?",
+          "odds": "+809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
