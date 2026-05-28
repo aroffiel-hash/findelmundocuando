@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "28 de mayo de 2026 — 02:36 UTC",
+  "lastUpdated": "28 de mayo de 2026 — 06:48 UTC",
   "ticker": [
+    "Ebola outbreak: What travel restrictions have countries imposed?",
+    "Ghana welcomes home citizens evacuated from South Africa",
+    "Google employee charged with insider trading over Polymarket bets",
+    "Aid cuts and climate change drive deadly malaria surge in Zimbabwe",
     "Parisians defy swimming ban to cool off as record heat hits Europe",
     "Uganda closes border with DRC in an effort to contain Ebola outbreak",
     "US returns Palestinian rights expert Francesca Albanese to sanctions list",
-    "Iran war live: US strikes Iranian site as tensions rise in Strait of Hormuz",
+    "Iran war live: US strikes Iranian site; Kuwait targeted by missiles, drones",
     "Jill Biden worried husband Joe was ‘having a stroke’ during 2024 US debate",
     "Bolivia’s president warns ‘time is running out’ amid protest crisis",
     "Markets rally amid hopes of US-Iran deal",
     "Former assistant to TV star Matthew Perry sentenced to 41 months in prison",
     "Why is Israel ramping up attacks in Lebanon despite a ceasefire?",
     "Trump says no one will control Strait of Hormuz",
-    "Ghana welcomes first group fleeing South African anti-immigration protests",
-    "Alabama pushes US Supreme Court to approve congressional map for midterms",
-    "Trump appears to threaten Oman over Strait of Hormuz impasse",
-    "Can the US and India repair ties over trade and China?",
-    "Israel orders evacuation of the Lebanese city of Tyre amid bombardment"
+    "Ghana welcomes first group fleeing South African anti-immigration protests"
   ],
   "sections": [
     {
@@ -25,6 +25,12 @@
         {
           "event": "Will Cleitinho Azevedo win the 2026 Minas Gerais gubernatorial election?",
           "odds": "-138",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Warsaw be 21°C on May 29?",
+          "odds": "+257",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -39,6 +45,12 @@
           "odds": "+2464",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will the Bank of Canada make no change to the target for the overnight rate at the July interest rate announcement?",
+          "odds": "-1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -48,7 +60,13 @@
       "rows": [
         {
           "event": "Will Raphaël Glucksmann win the 2027 French presidential election?",
-          "odds": "+3233",
+          "odds": "+3125",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "US x Cuba diplomatic meeting by May 31?",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -71,20 +89,8 @@
           "moved": "none"
         },
         {
-          "event": "US x Cuba diplomatic meeting by May 31?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Lee Jae-myung impeached before 2027?",
           "odds": "+1198",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Tshisekedi out as President of the DRC by December 31, 2026?",
-          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -95,26 +101,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Total Kills Over/Under 27.5 in Game 2?",
-          "odds": "-149",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will FathUnionSport win on 2026-05-30?",
           "odds": "+270",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Hong Kong be 32°C on May 28?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Shanghai Sharks vs. Zhejiang Lions",
-          "odds": "-185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -125,20 +113,38 @@
           "moved": "none"
         },
         {
-          "event": "Will Leicester Tigers win?",
-          "odds": "-212",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "US strike on Colombia by December 31?",
           "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
+          "event": "Will Leicester Tigers win?",
+          "odds": "-212",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Miami be between 88-89°F on May 29?",
+          "odds": "+112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Dota 2: Xtreme Gaming vs GLYPH (BO1) - BLAST Slam Group Stage",
+          "odds": "-163",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Mexico win on 2026-06-18?",
           "odds": "-108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Claude Code Commits be less than 500.0k on June 30?",
+          "odds": "-524",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
