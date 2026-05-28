@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "28 de mayo de 2026 — 10:50 UTC",
+  "lastUpdated": "28 de mayo de 2026 — 14:33 UTC",
   "ticker": [
-    "Argentina’s ‘El Loco’ faces Uruguay mutiny ahead of World Cup",
-    "Iran says it has a new air defence system. How significant is it?",
-    "At least 16 students killed in fire at Kenya girls school dorm",
-    "Germany’s Voeller urges players to avoid political statements at World Cup",
-    "Children with Down syndrome struggle with devastation of war in Gaza",
-    "China’s secret weapon in AI race with US? Lots of cheap energy",
-    "Israeli attack on Gaza City kills at least 10, including four children",
-    "Neymar injury threatens Brazil forward’s World Cup as scans needed on calf",
-    "Bafana Bafana World Cup squad: South Africa names two uncapped players",
-    "World Cup delegation compliant with US Ebola protocols, DR Congo says",
-    "Australia charges alleged ISIL-linked woman after return from Syria",
-    "Iran and US trade attacks after Trump rejects report of Hormuz agreement",
-    "What’s happening on Iran war day 90 as US launches new strikes",
-    "Morocco tops Africa’s industrialisation index for first time",
-    "Palestinian graduates in the West Bank enter a collapsed job market"
+    "Sinner shocked in French Open exit as Cerundolo recovers from two-sets down",
+    "Teenager Kouame matches Nadal 20-year record in stunning French Open win",
+    "Anti-Immigrant anger grows in South Africa as migrants forced onto streets",
+    "South African president to face impeachment probe over ‘Farmgate’ scandal",
+    "Gold Rush: Did CIA agent steal $40m in gold bars via work expenses?",
+    "Italy seizes $232m in Mafia assets tied to Cosa Nostra",
+    "Mamdani wears Arsenal thobe during Eid al-Adha celebrations",
+    "Why has Trump threatened to bomb Oman, amid Iran war escalation?",
+    "The kingmakers of Makerfield: English town braces for crucial by-election",
+    "Brazil World Cup 2026 team preview: Players to watch, group matches, squad",
+    "Hottest year on record almost certain to occur by end of 2030, UN warns",
+    "‘Donald Trump’ buffalo in Bangladesh will be spared sacrifice",
+    "Iran says US must issue multiple-entry visas for its World Cup squad",
+    "For Gaza, Eid joy is now a form of resistance",
+    "Al Jazeera journalist’s emotional speech after winning Emmy"
   ],
   "sections": [
     {
@@ -34,12 +34,6 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
-        {
-          "event": "Will gas hit (Low) $3.50 by May 31?",
-          "odds": "+2464",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will the Bank of Canada make no change to the target for the overnight rate at the July interest rate announcement?",
           "odds": "-1150",
@@ -71,12 +65,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Andy Burnham win the 2026 Makerfield by-election by between 6% and 9%?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Lee Jae-myung impeached before 2027?",
           "odds": "+1198",
           "params": "Fuente: Polymarket",
@@ -94,12 +82,6 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
-        {
-          "event": "Will FathUnionSport win on 2026-05-30?",
-          "odds": "+270",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Western Force win?",
           "odds": "-132",
@@ -125,20 +107,26 @@
           "moved": "none"
         },
         {
+          "event": "Will the highest temperature in Shanghai be 32°C on May 30?",
+          "odds": "+2027",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Helsinki be 23°C on May 30?",
+          "odds": "+1036",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will SpaceX's market cap be between $1.0T and $1.5T at market close on IPO day?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Claude Code Commits be less than 500.0k on June 30?",
           "odds": "-524",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will \"Hit The Wall - Gracie Abrams\" be the #1 song on Spotify this week?",
-          "odds": "+2464",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Anduril's valuation hit (LOW) $70B by June 30?",
-          "odds": "+809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
