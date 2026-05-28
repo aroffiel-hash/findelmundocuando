@@ -1,27 +1,33 @@
 {
-  "lastUpdated": "28 de mayo de 2026 — 17:59 UTC",
+  "lastUpdated": "28 de mayo de 2026 — 20:30 UTC",
   "ticker": [
+    "Trump administration sues states for denying ICE agents undercover plates",
+    "Three wounded in Swiss train station stabbing labelled ‘act of terror’",
+    "What’s behind South Africa’s anti-migrant protests?",
+    "Israel’s Netanyahu directs army to seize 70 percent of Gaza Strip",
+    "Rebuilding US weapons stockpile may ‘take years’ post-Iran war",
+    "US, Iran reach MoU on 60-day truce, Trump’s approval pending",
+    "US and Iran reach tentative deal for 60-day truce extension, officials say",
+    "CNN sues Perplexity, alleging unlawful distribution of copyrighted content",
+    "How War Changed Eid in Lebanon",
     "UN ‘adds Israel to blacklist’ for conflict-related sexual violence",
     "Latvia parliament approves new gov’t after drone dispute toppled coalition",
     "US inflation surges to three-year high amid tensions with Iran",
     "Smoke rises over Beirut after Israeli strike",
     "Hundreds flee India crackdown on undocumented migrants",
-    "Fire kills 16 students at Kenyan girls’ boarding school",
-    "WHO chief heads to ‘hardest hit’ Ituri as DRC’s 17th Ebola outbreak spreads",
-    "US, Mexico, Canada announce Ebola-related travel measures for World Cup",
-    "US Treasury threatens Oman with sanctions over Hormuz Strait",
-    "Neymar set to miss Brazil World Cup opener due to calf injury",
-    "IOC chief Coventry stirs social media storm over athlete payment comments",
-    "Yemen’s former leader Abd-Rabbu Mansour Hadi dies in exile at 80",
-    "Poisonous invasion: What is the ‘devil’s trumpet’ harming crops in Iraq?",
-    "US attacks Bandar Abbas again: Why is the port so important for Iran?",
-    "Sinner shocked in French Open exit as Cerundolo recovers from two-sets down"
+    "Fire kills 16 students at Kenyan girls’ boarding school"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Will Cristopher Sanchez win the 2026 NL Cy Young Award?",
+          "odds": "+244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Kim Kyung-soo win the 2026 Gyeongsangnam Province Gubernatorial Election?",
           "odds": "+117",
@@ -30,7 +36,19 @@
         },
         {
           "event": "Russia x Ukraine ceasefire agreement by October 31, 2026?",
-          "odds": "+203",
+          "odds": "+222",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "WTI Crude Oil (WTI) Up or Down on May 28?",
+          "odds": "+316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -71,12 +89,6 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Trump wear a Yarmulke in 2026?",
-          "odds": "+112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Western Force win?",
           "odds": "-132",
           "params": "Fuente: Polymarket",
@@ -107,14 +119,20 @@
           "moved": "none"
         },
         {
+          "event": "Will there be fewer than 2 ChatGPT outages in May 2026?",
+          "odds": "-185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Databricks' valuation hit (LOW) $135B by December 31?",
           "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Thunder vs. Spurs: Team to Score First",
-          "odds": "-108",
+          "event": "Will Microsoft (MSFT) close above $430 on May 28?",
+          "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
