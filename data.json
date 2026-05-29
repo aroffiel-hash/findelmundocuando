@@ -1,133 +1,64 @@
 {
-  "lastUpdated": "29 de mayo de 2026 — 12:44 UTC",
+  "lastUpdated": "29 de mayo de 2026 — 14:47 UTC",
   "ticker": [
+    "Sudan medical group says RSF-affiliated fighters kill 27 civilians",
+    "QUAD to build Fiji port: A new US-China flashpoint?",
+    "Following Syria’s broken tracks from Baniyas to Aleppo",
+    "Israeli plan to extend control in Gaza provokes German concern",
+    "Harvard Medical School graduate dedicates speech to Lebanon and Palestine",
     "Firefighters work to free riders stuck atop a rollercoaster in Texas",
     "UN urges ‘urgent’ action to protect children online",
     "World Cup 2026: How France created football’s deepest talent pool",
     "French prosecutors to probe Israeli treatment of flotilla activists",
     "Australian court sets August date for ‘mushroom murderer’ appeal hearing",
     "‘Dangerous colonial occupation’: Israel’s digital West Bank land register",
-    "WHO chief visits DRC amidst Ebola crisis",
-    "US-Iran 60-day proposal: What we know",
-    "Kenyan court suspends US Ebola quarantine facility plan",
-    "How the end of the nuclear file could reshape Iran, and the region",
-    "A visual guide to Ethiopia’s ethnic groups and conflict areas",
-    "Gaza parents brave dental dilemma: Costly treatment or food on the table?",
-    "South Korea’s SK Hynix enters exclusive $1 trillion club",
-    "NATO states slam Russia after drone crashes in Romania",
-    "Netherlands’ World Cup 2026 team preview: Players to watch, group, squad"
+    "WHO chief visits DRC amidst Ebola crisis"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
           "event": "Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the July decision?",
           "odds": "+122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Marco Rubio attend the next US x Iran diplomatic meeting?",
-          "odds": "+423",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "US x China tariff agreement by June 30?",
-          "odds": "+284",
-          "params": "Fuente: Polymarket",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
       "rows": [
         {
-          "event": "Will Jared Hudson be the Republican nominee for Senate in Alabama?",
-          "odds": "+1119",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Click Bishop win the 2026 Alaska governor election?",
-          "odds": "+1718",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Spencer Pratt finish first in the first round of the 2026 Los Angeles mayoral election?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Tshisekedi out as President of the DRC by December 31, 2026?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Robert Kenyon finish second in the 2026 Makerfield by-election?",
-          "odds": "-284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will GPT-5.6 be released between June 8 and June 14, 2026?",
-          "odds": "+300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Western Force win?",
-          "odds": "-132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "US strike on Colombia by December 31?",
-          "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the KS-03 House seat?",
+          "event": "Trump, Putin, and Zelensky seen together before 2027?",
           "odds": "+614",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
+      "rows": [
         {
-          "event": "Mobile Legends Bang Bang: Dewa United Esports vs Geek Fam ID (BO5) - MPL Indonesia Playoffs",
-          "odds": "-156",
-          "params": "Fuente: Polymarket",
+          "event": "Will Donald Trump publicly insult someone on May 30, 2026?",
+          "odds": "-1899",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y ENERGÍA",
+      "rows": [
         {
-          "event": "Will Cristiano Ronaldo announce his retirement in 2026?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Map Handicap: Atreides (-1.5) vs CYBERSHOKE Prospects (+1.5)",
-          "odds": "+222",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will more than 16 SpaceX Starship launches successfully reach Space in 2026?",
-          "odds": "+1415",
-          "params": "Fuente: Polymarket",
+          "event": "Will Crude Oil (CL) hit (HIGH) $105 by end of June?",
+          "odds": "+233",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
           "moved": "none"
         }
       ]
