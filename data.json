@@ -1,64 +1,133 @@
 {
-  "lastUpdated": "29 de mayo de 2026 — 14:47 UTC",
+  "lastUpdated": "29 de mayo de 2026 — 16:39 UTC",
   "ticker": [
+    "Vance says US, Iran have made “a lot of progress” towards deal",
+    "Five killed in Lebanon as Israeli forces advance across key Litani River",
+    "Israel strikes building in Gaza’s Shati refugee camp",
+    "Eid and sacrifice in Gaza",
+    "On the road to Rogun Dam, Tajikistan’s ‘greatest dream’",
+    "Colombia’s ‘Total Peace’ plan: A failure or unfinished business for Petro?",
+    "US federal judge temporarily blocks Trump’s ‘anti-weaponisation fund’",
+    "PSG vs Arsenal: Champions League final – teams, start time, lineups",
+    "Just what are Israel’s long-term plans for Gaza?",
+    "Eight girls arrested on suspicion of arson after Kenya school fire",
+    "Kambo: What is the frog poison ‘spiritual ritual’ killing detoxers?",
     "Sudan medical group says RSF-affiliated fighters kill 27 civilians",
     "QUAD to build Fiji port: A new US-China flashpoint?",
     "Following Syria’s broken tracks from Baniyas to Aleppo",
-    "Israeli plan to extend control in Gaza provokes German concern",
-    "Harvard Medical School graduate dedicates speech to Lebanon and Palestine",
-    "Firefighters work to free riders stuck atop a rollercoaster in Texas",
-    "UN urges ‘urgent’ action to protect children online",
-    "World Cup 2026: How France created football’s deepest talent pool",
-    "French prosecutors to probe Israeli treatment of flotilla activists",
-    "Australian court sets August date for ‘mushroom murderer’ appeal hearing",
-    "‘Dangerous colonial occupation’: Israel’s digital West Bank land register",
-    "WHO chief visits DRC amidst Ebola crisis"
+    "Israeli plan to extend control in Gaza provokes German concern"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the July decision?",
           "odds": "+122",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
-      "rows": [
-        {
-          "event": "Trump, Putin, and Zelensky seen together before 2027?",
-          "odds": "+614",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
-      "rows": [
-        {
-          "event": "Will Donald Trump publicly insult someone on May 30, 2026?",
-          "odds": "-1899",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y ENERGÍA",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
           "event": "Will Crude Oil (CL) hit (HIGH) $105 by end of June?",
           "odds": "+233",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Jared Hudson be the Republican nominee for Senate in Alabama?",
+          "odds": "+1119",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Click Bishop win the 2026 Alaska governor election?",
+          "odds": "+1718",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Spencer Pratt finish first in the first round of the 2026 Los Angeles mayoral election?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Karen Bass win the first round of the 2026 Los Angeles Mayoral Election by 0–5%?",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Tshisekedi out as President of the DRC by December 31, 2026?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will Western Force win?",
+          "odds": "-132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "US strike on Colombia by December 31?",
+          "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the KS-03 House seat?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Mobile Legends Bang Bang: Dewa United Esports vs Geek Fam ID (BO5) - MPL Indonesia Playoffs",
+          "odds": "-156",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Cristiano Ronaldo announce his retirement in 2026?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Map Handicap: Atreides (-1.5) vs CYBERSHOKE Prospects (+1.5)",
+          "odds": "+222",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will more than 16 SpaceX Starship launches successfully reach Space in 2026?",
+          "odds": "+1415",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Trump, Putin, and Zelensky seen together before 2027?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
