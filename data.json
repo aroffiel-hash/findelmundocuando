@@ -1,7 +1,12 @@
 {
-  "lastUpdated": "30 de mayo de 2026 — 13:10 UTC",
+  "lastUpdated": "30 de mayo de 2026 — 13:14 UTC",
   "ticker": [
+    "WHO chief visits Bunia, epicentre of the Ebola outbreak",
+    "The Iran war is dividing Muslims in the Philippines",
+    "Cuba Calls Guantanamo Talks with U.S. General ‘Positive’",
     "Egypt warns Israel that dangerous Gaza escalations threaten ceasefire",
+    "LIVE: PSG vs Arsenal – Champions League final",
+    "Liverpool sack Arne Slot after disastrous Premier League title defence",
     "North Korean POWs: Political pawns in Russia’s war on Ukraine?",
     "What Hegseth’s comments at Shangri-La Dialogue say about US foreign policy",
     "Israel launches more than 10 strikes across southern Lebanon",
@@ -10,43 +15,125 @@
     "Vallejo fined for sexist remarks about female referee at French Open",
     "Police fire tear gas during protest outside New Jersey ICE facility",
     "Officer accuses disabled driver of holding phone with missing hand",
-    "Ukraine drones strike Russian oil facility, as Kyiv and Moscow trade blows",
-    "Voting ongoing in snap elections in Malta, governing party expected to win",
-    "Senegal’s World Cup 2026 team preview: Players to watch, group, squad list"
+    "Ukraine drones strike Russian oil facility, as Kyiv and Moscow trade blows"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
-      "rows": [
-        {
-          "event": "Will Yashar win the most seats in the 2026 Israeli legislative election?",
-          "odds": "+1566",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Ukraine agrees not to join NATO by June 30?",
           "odds": "+3025",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will there be 2–3 North Korea tests in May 2026?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Yashar win the most seats in the 2026 Israeli legislative election?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇨🇳",
-      "label": "CHINA / PACÍFICO / COREA",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will there be 2–3 North Korea tests in May 2026?",
-          "odds": "+1328",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario peninsular coreano.",
+          "event": "Will Xavier Becerra win the California Governor Election in 2026?",
+          "odds": "-173",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Anže Logar be the next Prime Minister of Slovenia?",
+          "odds": "+2757",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jared Hudson be the Republican nominee for Senate in Alabama?",
+          "odds": "+1119",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Tshisekedi out as President of the DRC by December 31, 2026?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Iván Cepeda Castro win the 1st round of the 2026 Colombian presidential election?",
+          "odds": "-316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Labour Party win the second-most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
+          "odds": "+170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "US strike on Colombia by December 31?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the KS-03 House seat?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Buenos Aires be 17°C on May 31?",
+          "odds": "+244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Texas Rangers vs. St. Louis Cardinals",
+          "odds": "+122",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Roland Garros WTA: Anna Kalinskaya vs Camila Osorio",
+          "odds": "-284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Cristiano Ronaldo announce his retirement in 2026?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Map Handicap: Atreides (-1.5) vs CYBERSHOKE Prospects (+1.5)",
+          "odds": "+222",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will more than 16 SpaceX Starship launches successfully reach Space in 2026?",
+          "odds": "+1415",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
