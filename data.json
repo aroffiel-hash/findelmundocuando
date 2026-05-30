@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "30 de mayo de 2026 — 11:15 UTC",
+  "lastUpdated": "30 de mayo de 2026 — 13:10 UTC",
   "ticker": [
+    "Egypt warns Israel that dangerous Gaza escalations threaten ceasefire",
+    "North Korean POWs: Political pawns in Russia’s war on Ukraine?",
     "What Hegseth’s comments at Shangri-La Dialogue say about US foreign policy",
     "Israel launches more than 10 strikes across southern Lebanon",
     "Rubio says Trump envoy Barrack to step down from Syria post",
@@ -10,112 +12,41 @@
     "Officer accuses disabled driver of holding phone with missing hand",
     "Ukraine drones strike Russian oil facility, as Kyiv and Moscow trade blows",
     "Voting ongoing in snap elections in Malta, governing party expected to win",
-    "Senegal’s World Cup 2026 team preview: Players to watch, group, squad list",
-    "Iran war: What is happening on day 92 as Trump weighs Iran deal",
-    "Satire, social media and India’s Gen Z revolt",
-    "Barcelona sign England winger Anthony Gordon from Newcastle",
-    "Rwanda-Russia nuclear deal underscores Africa’s shifting power balance",
-    "Frustration in Lebanon as Israel expands invasion"
+    "Senegal’s World Cup 2026 team preview: Players to watch, group, squad list"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
-          "event": "Will Russia capture all of Rodynske again by May 31?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
+          "event": "Will Yashar win the most seats in the 2026 Israeli legislative election?",
+          "odds": "+1566",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
           "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Warsaw be 20°C on May 31?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
+      "rows": [
         {
           "event": "Ukraine agrees not to join NATO by June 30?",
           "odds": "+3025",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🇨🇳",
+      "label": "CHINA / PACÍFICO / COREA",
       "rows": [
         {
-          "event": "Will Xavier Becerra win the California Governor Election in 2026?",
-          "odds": "-174",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Jared Hudson be the Republican nominee for Senate in Alabama?",
-          "odds": "+1119",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Tshisekedi out as President of the DRC by December 31, 2026?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "US strike on Colombia by December 31?",
-          "odds": "+455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the KS-03 House seat?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Tianjin Jinmen Hu FC vs. Dalian Yingbo FC end in a draw?",
-          "odds": "+233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Papertrade launch a token by December 31, 2026?",
-          "odds": "-222",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Texas Rangers vs. St. Louis Cardinals",
-          "odds": "+122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will AD Ceuta FC vs. Albacete Balompié end in a draw?",
-          "odds": "+257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Cristiano Ronaldo announce his retirement in 2026?",
-          "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Map Handicap: Atreides (-1.5) vs CYBERSHOKE Prospects (+1.5)",
-          "odds": "+222",
-          "params": "Fuente: Polymarket",
+          "event": "Will there be 2–3 North Korea tests in May 2026?",
+          "odds": "+1328",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario peninsular coreano.",
           "moved": "none"
         }
       ]
