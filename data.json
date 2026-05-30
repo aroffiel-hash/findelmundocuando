@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "29 de mayo de 2026 — 23:07 UTC",
+  "lastUpdated": "30 de mayo de 2026 — 02:30 UTC",
   "ticker": [
+    "Louisiana lawmakers pass congressional map favouring Republicans",
+    "First survivor rescued from flooded cave in Laos",
+    "Iran war live: Trump due to make ‘final determination’ on deal with Tehran",
+    "Trump pledges to withdraw from Kennedy Center after court strikes his name",
     "ICE agent arrested over shooting of Venezuelan man in US immigration raid",
     "‘Arbitrary measures’: Lula slams US ‘terror’ designation for Brazil gangs",
     "Ebola treatment centre rebuilt after being torched by protesters in DRC",
@@ -8,102 +12,29 @@
     "Iran denies ceasefire deal with US is “finalised”",
     "How realistic is Trump’s Iran framework?",
     "Could Alberta trigger Canada’s Brexit moment?",
-    "Polish president threatens to strip Ukraine’s Zelenskyy of top state honour",
-    "Canada sidelined in USMCA renegotiations as domestic economy dips",
-    "Ex-US Attorney General Pam Bondi testifies in Epstein files probe",
-    "Netanyahu says Israeli forces have crossed Lebanon’s Litani River",
-    "Israel, Russia among new additions on UN sexual violence ‘blacklist’",
-    "Trump heads into Situation Room to potentially finalise Iran deal",
-    "What’s next after scrapping the ‘Black Code’ in France?",
-    "Russian rate of losses in Ukraine almost triples in one year"
+    "Polish president threatens to strip Ukraine’s Zelenskyy of top state honour"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
-        {
-          "event": "Will Rodrigo Pacheco win the 2026 Minas Gerais gubernatorial election?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Marco Rubio attend the next US x Iran diplomatic meeting?",
-          "odds": "+358",
-          "params": "Fuente: Polymarket",
+          "odds": "+371",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
       "rows": [
         {
-          "event": "Will Jared Hudson be the Republican nominee for Senate in Alabama?",
-          "odds": "+1119",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Tshisekedi out as President of the DRC by December 31, 2026?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will Western Force win?",
-          "odds": "-132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "US strike on Colombia by December 31?",
-          "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the KS-03 House seat?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Philadelphia Phillies vs. Los Angeles Dodgers",
-          "odds": "+104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Mobile Legends Bang Bang: Dewa United Esports vs Geek Fam ID (BO5) - MPL Indonesia Playoffs",
-          "odds": "-156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Cristiano Ronaldo announce his retirement in 2026?",
-          "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Munich be 26°C on May 31?",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Germany win on 2026-05-31?",
-          "odds": "-614",
-          "params": "Fuente: Polymarket",
+          "event": "Will Trump say \"Trump Family\" in May?",
+          "odds": "+1899",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
