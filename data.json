@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "31 de mayo de 2026 — 07:39 UTC",
+  "lastUpdated": "31 de mayo de 2026 — 10:09 UTC",
   "ticker": [
+    "Trump tightens terms on Iran war deal, US media say",
+    "Israel issues more displacement orders in Lebanon, seizes strategic castle",
+    "The strait may reopen, but global confidence may not return",
+    "Iran war day 93: Trump won’t ‘rush’ deal; Israel expands Lebanon invasion",
+    "Holder Gauff beaten by Potapova; Sabalenka solid at French Open",
+    "Missing Syrian chess champion’s children likely dead, authorities say",
     "Panic on beach in northern Israel during Hezbollah strikes",
     "France arrests hundreds of rioters nationwide as PSG win Champions League",
     "Mexico beat Australia 1-0 before World Cup squad submission deadline",
@@ -9,28 +15,40 @@
     "The world hit a 44-year high in executions",
     "Thousands in Peru protest Fujimori presidential run",
     "Emotional scenes as more survivors pulled from flooded Laos cave",
-    "Rescues in eastern Syria after the Euphrates River bursts its banks",
-    "Iran war live: Lebanon slams Israel’s invasion; US-Tehran deal in limbo",
-    "US Congress advances American-Israeli military integration plan",
-    "Al Jazeera exclusive interview with rebel FARC faction in Colombia",
-    "Lebanese army ‘overly stretched’ to fight off latest Israeli invasion",
-    "PSG beat Arsenal to win back-to-back Champions League titles on penalties",
-    "Women bear the brunt of DRC’s Ebola outbreak"
+    "Rescues in eastern Syria after the Euphrates River bursts its banks"
   ],
   "sections": [
+    {
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "rows": [
+        {
+          "event": "Will Russia capture Orikhiv by September 30, 2026?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Iran agrees to surrender enriched uranium stockpile by July 31, 2026?",
+          "odds": "+284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
     {
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Civil Contract win the most seats in the 2026 Armenian National Assembly election?",
-          "odds": "-1150",
+          "event": "US x Cuba diplomatic meeting by June 30?",
+          "odds": "-1940",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Tshisekedi out as President of the DRC by December 31, 2026?",
-          "odds": "+1011",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -71,20 +89,20 @@
           "moved": "none"
         },
         {
+          "event": "Will the highest temperature in Cape Town be 23°C on May 31?",
+          "odds": "+149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the median home value in the Los Angeles Metro area be between $1,173,000 and $1,180,000 on May 31?",
           "odds": "-316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Valorant: OXEN vs KRÜ Blaze (BO3) - VCL Latin America South: Regular Season",
-          "odds": "-900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Tesla deliver between 350000 and 375000 vehicles in Q2 2026",
-          "odds": "+624",
+          "odds": "+986",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
