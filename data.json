@@ -1,54 +1,36 @@
 {
-  "lastUpdated": "31 de mayo de 2026 — 03:38 UTC",
+  "lastUpdated": "31 de mayo de 2026 — 07:39 UTC",
   "ticker": [
+    "Panic on beach in northern Israel during Hezbollah strikes",
+    "France arrests hundreds of rioters nationwide as PSG win Champions League",
+    "Mexico beat Australia 1-0 before World Cup squad submission deadline",
+    "Wembanyama’s Spurs dethrone Thunder to reach NBA Finals against Knicks",
+    "How Nigeria’s ‘algorithmic apothecary’ fuels a surge in risky herbal cures",
+    "The world hit a 44-year high in executions",
+    "Thousands in Peru protest Fujimori presidential run",
     "Emotional scenes as more survivors pulled from flooded Laos cave",
     "Rescues in eastern Syria after the Euphrates River bursts its banks",
     "Iran war live: Lebanon slams Israel’s invasion; US-Tehran deal in limbo",
     "US Congress advances American-Israeli military integration plan",
     "Al Jazeera exclusive interview with rebel FARC faction in Colombia",
     "Lebanese army ‘overly stretched’ to fight off latest Israeli invasion",
-    "PSG beat Arsenal to win back-to-back Champions League titles after shootout",
-    "Women bear the brunt of DRC’s Ebola outbreak",
-    "Putin says drone that crashed in Romania likely Ukrainian",
-    "Is the war in Ukraine entering a new phase?",
-    "Iran reasserts control over Hormuz Strait as deal with US remains elusive",
-    "Qatar says temporary charges ‘negotiable’",
-    "Bruce Springsteen calls out Trump’s ‘reckless’ administration",
-    "22 killed as truck carrying refugees overturns in Afghanistan",
-    "Voters in Malta head to polls for early elections"
+    "PSG beat Arsenal to win back-to-back Champions League titles on penalties",
+    "Women bear the brunt of DRC’s Ebola outbreak"
   ],
   "sections": [
-    {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
-      "rows": [
-        {
-          "event": "Israel x Hezbollah permanent peace deal by June 15, 2026?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
     {
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
           "event": "Will Civil Contract win the most seats in the 2026 Armenian National Assembly election?",
-          "odds": "-1011",
+          "odds": "-1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Tshisekedi out as President of the DRC by December 31, 2026?",
           "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Labour Party win the second-most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
-          "odds": "+170",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -59,26 +41,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "AC Nagano Parceiro leading at halftime?",
-          "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Aryna Sabalenka win the 2026 Women’s French Open?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "US strike on Colombia by December 31?",
           "odds": "+455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Madrid be 33°C on June 1?",
-          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -95,14 +59,32 @@
           "moved": "none"
         },
         {
-          "event": "Roland Garros ATP (Doubles): Reyes/Tabilo vs Reymond/Sanchez",
-          "odds": "+149",
+          "event": "Cruzeiro EC vs. Fluminense FC: Both Teams to Score",
+          "odds": "-104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Shanghai be 31°C on May 31?",
-          "odds": "+2172",
+          "event": "Will the Ornn H200 Index be less than $3.00 on June 30, 2026?",
+          "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the median home value in the Los Angeles Metro area be between $1,173,000 and $1,180,000 on May 31?",
+          "odds": "-316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Valorant: OXEN vs KRÜ Blaze (BO3) - VCL Latin America South: Regular Season",
+          "odds": "-900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Tesla deliver between 350000 and 375000 vehicles in Q2 2026",
+          "odds": "+624",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
