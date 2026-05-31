@@ -1,109 +1,40 @@
 {
-  "lastUpdated": "30 de mayo de 2026 — 23:56 UTC",
+  "lastUpdated": "31 de mayo de 2026 — 02:47 UTC",
   "ticker": [
+    "Emotional scenes as more survivors pulled from flooded Laos cave",
+    "Rescues in eastern Syria after the Euphrates River bursts its banks",
+    "Iran war live: Lebanon’s PM slams Israel attacks; US-Tehran deal in limbo",
     "US Congress advances American-Israeli military integration plan",
     "Al Jazeera exclusive interview with rebel FARC faction in Colombia",
     "Lebanese army ‘overly stretched’ to fight off latest Israeli invasion",
-    "PSG beat Arsenal to win back-to-back Champions League titles after shootout",
     "Women bear the brunt of DRC’s Ebola outbreak",
     "Putin says drone that crashed in Romania likely Ukrainian",
     "Is the war in Ukraine entering a new phase?",
     "Iran reasserts control over Hormuz Strait as deal with US remains elusive",
     "Qatar says temporary charges ‘negotiable’",
-    "Bruce Springsteen calls out Trump’s ‘reckless’ administration",
-    "22 killed as truck carrying refugees overturns in Afghanistan",
-    "Voters in Malta head to polls for early elections",
-    "Two killed, including Palestinian doctor, in Israeli attacks on Gaza",
-    "Liverpool sack Arne Slot after disastrous Premier League title defence",
-    "Confirmed Ebola cases nearly double in days as WHO chief visits DR Congo"
+    "Bruce Springsteen calls out Trump’s ‘reckless’ administration"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
-          "event": "Will there be 2–3 North Korea tests in May 2026?",
-          "odds": "+2225",
-          "params": "Fuente: Polymarket",
+          "event": "Israel x Hezbollah permanent peace deal by June 15, 2026?",
+          "odds": "+809",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
       "rows": [
         {
-          "event": "Will Civil Contract win the most seats in the 2026 Armenian National Assembly election?",
-          "odds": "-1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Tshisekedi out as President of the DRC by December 31, 2026?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Labour Party win the second-most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
-          "odds": "+170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will the highest temperature in Kuala Lumpur be 33°C on May 31?",
-          "odds": "+194",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "US strike on Colombia by December 31?",
-          "odds": "+455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Cristiano Ronaldo announce his retirement in 2026?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the KS-03 House seat?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will there be exactly 5 earthquakes of magnitude 5.5 or higher worldwide from May 25 - 31?",
-          "odds": "+267",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Aryna Sabalenka win the 2026 Women’s French Open?",
-          "odds": "+194",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Ornn H200 Index be less than $3.00 on June 30, 2026?",
-          "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will more than 16 SpaceX Starship launches successfully reach Space in 2026?",
-          "odds": "+1415",
-          "params": "Fuente: Polymarket",
+          "event": "Will Trump meet with Ahmed al-Sharaa in 2026?",
+          "odds": "-646",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
