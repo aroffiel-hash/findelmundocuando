@@ -1,7 +1,6 @@
 {
-  "lastUpdated": "01 de junio de 2026 — 17:22 UTC",
+  "lastUpdated": "01 de junio de 2026 — 17:24 UTC",
   "ticker": [
-    "Can cohosts Canada reach the knockout stages at World Cup 2026?",
     "International court rejects Rwanda’s claim over UK migration deal",
     "Protest outside Kenya’s planned US Ebola quarantine centre",
     "Lebanon’s social grocery store fighting rising costs and displacement",
@@ -11,42 +10,112 @@
     "Indian PM Modi meets Myanmar military gov’t leader in New Delhi",
     "Lebanon latest: Israel captures more land in the south",
     "Egypt’s new monorail offers a modern ride, but Cairo is still not convinced",
+    "Sacked Arsenal staffer doesn’t regret speaking out for Palestine",
     "Huge explosion at Malta fireworks factory",
-    "‘Spoiled insulin’: Sudan war disrupts drug supplies, fuelling smuggling"
+    "‘Spoiled insulin’: Sudan war disrupts drug supplies, fuelling smuggling",
+    "Hungary’s Magyar to amend the constitution to remove President Tamas Sulyok",
+    "How the world failed Ryan and Yaman",
+    "Ukraine’s forcibly transferred children must not be a bargaining chip"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Will Israel annex Gaza territory by June 30 2026?",
           "odds": "+2602",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇨🇳",
-      "label": "CHINA / PACÍFICO / COREA",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Xi Jinping out before 2027?",
-          "odds": "+1370",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Las Vegas Aces vs. Los Angeles Sparks",
+          "odds": "-233",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
+        {
+          "event": "Will Jordan Bardella win the 2027 French presidential election?",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the Democrats win the Georgia Senate race in 2026?",
           "odds": "-524",
-          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Tom Steyer finish first in the 2026 California Governor primary election in San Francisco City and County?",
+          "odds": "-170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "GRVT FDV above $200M one day after launch?",
+          "odds": "-316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Chengdu be 35°C on June 3?",
+          "odds": "+300",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will a dozen eggs cost between $2.00–$2.25 in May?",
+          "odds": "+112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Total Kills Over/Under 29.5 in Game 3?",
+          "odds": "+138",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Ariana Grande have a #1 hit in the US in June?",
+          "odds": "-524",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "YOM FDV above $100M one day after launch?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the NY-08 House seat?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "U.S. enacts AI safety bill before 2027?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
