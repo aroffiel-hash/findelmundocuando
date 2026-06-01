@@ -1,121 +1,52 @@
 {
-  "lastUpdated": "01 de junio de 2026 — 11:24 UTC",
+  "lastUpdated": "01 de junio de 2026 — 17:22 UTC",
   "ticker": [
-    "Kuwait condemns Iranian attack as Iran-US trade new strikes",
-    "French navy, backed by the UK, intercepts Russian oil tanker",
-    "Ethiopia holds elections with PM Abiy’s party expected to dominate",
-    "Israel bombs a beloved Lebanese landmark, chef Husen Fayad’s restaurant",
-    "US, Iran trade new attacks amid talks: Here’s what we know",
-    "Ultra-Orthodox Jewish demonstrators storm Israeli police station",
-    "Which football rule changes will be implemented during the World Cup?",
-    "Iran’s IRGC launches retaliatory strike after US attacks",
-    "Political commentators Cenk, Piker say UK bars them over Israel remarks",
-    "Vinicius brings Maracana curtain-raiser to life as Brazil rout Panama 6-2",
-    "Washington proposes ‘roadmap’ for de-escalation in Lebanon: US official",
-    "Iran war day 94: US strikes Iranian sites; Kuwait intercepts missiles",
-    "Tense election night in Colombia as country heads to presidential runoff",
-    "Israel airstrike kills at least two Palestinians at Gaza port",
-    "Ex-US Fed Chair Powell warns against politicisation amid Trump’s attacks"
+    "Can cohosts Canada reach the knockout stages at World Cup 2026?",
+    "International court rejects Rwanda’s claim over UK migration deal",
+    "Protest outside Kenya’s planned US Ebola quarantine centre",
+    "Lebanon’s social grocery store fighting rising costs and displacement",
+    "Who will replace Newsom? What to know about California’s primary elections",
+    "Iran warns Israeli attacks in Lebanon and Gaza threaten US ceasefire talks",
+    "As Israel pushes past the Litani, Lebanese question the purpose of UNIFIL",
+    "Indian PM Modi meets Myanmar military gov’t leader in New Delhi",
+    "Lebanon latest: Israel captures more land in the south",
+    "Egypt’s new monorail offers a modern ride, but Cairo is still not convinced",
+    "Huge explosion at Malta fireworks factory",
+    "‘Spoiled insulin’: Sudan war disrupts drug supplies, fuelling smuggling"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
-          "event": "Will Russia enter Orikhiv by June 30?",
-          "odds": "+1090",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Iran x Oman Strait of Hormuz agreement by June 15?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
+          "event": "Will Israel annex Gaza territory by June 30 2026?",
+          "odds": "+2602",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🇨🇳",
+      "label": "CHINA / PACÍFICO / COREA",
       "rows": [
         {
-          "event": "Will Robert Kenyon win the 2026 Makerfield by-election?",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
+          "event": "Xi Jinping out before 2027?",
+          "odds": "+1370",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
-        },
-        {
-          "event": "Tshisekedi out as President of the DRC by December 31, 2026?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "rows": [
         {
           "event": "Will the Democrats win the Georgia Senate race in 2026?",
           "odds": "-524",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Cătălin Predoiu be the next Prime Minister of Romania?",
-          "odds": "+2841",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will Urawa Red Diamonds win on 2026-06-06?",
-          "odds": "+112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Set Handicap: Kostyuk (-1.5) vs Svitolina (+1.5)",
-          "odds": "+222",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Boston Cannons vs. Philadelphia Waterdogs",
-          "odds": "+132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Donald Trump publicly insult Marjorie Taylor Greene by June 30, 2026?",
-          "odds": "-1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Decibel launch a token by December 31, 2027?",
-          "odds": "-156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Mexico City be 27°C or higher on June 2?",
-          "odds": "-222",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "GRVT FDV above $200M one day after launch?",
-          "odds": "-354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Qingdao be 24°C or below on June 3?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
