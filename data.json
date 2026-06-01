@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "01 de junio de 2026 — 00:01 UTC",
+  "lastUpdated": "01 de junio de 2026 — 02:55 UTC",
   "ticker": [
+    "‘Before, the land sustained us’: Who benefits from Guinea’s bauxite wealth?",
+    "Colombia’s outsider candidate defied the polls",
+    "Donated milk reaches Cuba amid deepening shortages",
+    "Iran war live: Israel’s expanding invasion of Lebanon draws global alarm",
     "Cepeda, de la Espriella advance in Colombia’s presidential election",
     "Nicaragua confirms death in custody of Indigenous leader Brooklyn Rivera",
     "Can AI cure loneliness? South Korea’s robot companions for seniors",
@@ -8,102 +12,71 @@
     "Ethiopia to vote in first elections since Tigray peace deal",
     "Kohli powers Bengaluru to ‘stuff of dreams’ back-to-back IPL titles",
     "As Ethiopia votes, its deepening human rights crisis must be addressed",
-    "Ethiopia’s election is about affirming national commitment to democracy",
-    "Newark mayor imposes curfew at Delaney Hall immigration detention centre",
-    "What’s at stake in Ethiopia’s elections?",
-    "Explosives store blast kills dozens in Myanmar village",
-    "Building collapses in New Delhi, some people rescued, more feared trapped",
-    "US measure to deepen Israel military cooperation faces bipartisan pushback",
-    "US Congress moves to deepen military ties with Israel: Why it matters",
-    "The largest Israeli advance into Lebanon in years"
+    "Ethiopia’s election is about affirming national commitment to democracy"
   ],
   "sections": [
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
-          "event": "Tshisekedi out as President of the DRC by December 31, 2026?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Robert Kenyon win the 2026 Makerfield by-election?",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will voter turnout be between 50% and 55% in the 2026 Seoul mayoral election?",
-          "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Cătălin Predoiu be the next Prime Minister of Romania?",
+          "event": "Will Israel annex Gaza territory by June 30 2026?",
           "odds": "+2841",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
           "moved": "none"
         },
         {
-          "event": "Will Labour Party win the second-most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
-          "odds": "+170",
-          "params": "Fuente: Polymarket",
+          "event": "Israel x Iran permanent peace deal by June 30, 2026?",
+          "odds": "+880",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
+      "flag": "🇨🇳",
+      "label": "CHINA / PACÍFICO / COREA",
       "rows": [
         {
-          "event": "Will Argentina win on 2026-06-16?",
-          "odds": "-233",
-          "params": "Fuente: Polymarket",
+          "event": "Xi Jinping out before 2027?",
+          "odds": "+1370",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
+      "rows": [
+        {
+          "event": "Will Donald Trump publicly insult Marjorie Taylor Greene by May 31, 2026?",
+          "odds": "-257",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         },
         {
-          "event": "Will BULK launch a token by June 30, 2027?",
-          "odds": "-122",
-          "params": "Fuente: Polymarket",
+          "event": "Will Trump post \"Coast Guard\" on Truth Social this week?",
+          "odds": "-149",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "rows": [
         {
-          "event": "Birmingham: James Duckworth vs Billy Harris",
-          "odds": "-170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Tesla deliver between 350000 and 375000 vehicles in Q2 2026",
-          "odds": "+986",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "GRVT FDV above $200M one day after launch?",
-          "odds": "-270",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Ariana Grande have a #1 hit in the US in June?",
+          "event": "Will the Democrats win the Georgia Senate race in 2026?",
           "odds": "-524",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
-          "event": "YOM FDV above $100M one day after launch?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Cambria launch a token by December 31, 2026?",
-          "odds": "-132",
-          "params": "Fuente: Polymarket",
+          "event": "Will Cătălin Predoiu be the next Prime Minister of Romania?",
+          "odds": "+2841",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
