@@ -1,145 +1,64 @@
 {
-  "lastUpdated": "02 de junio de 2026 — 11:59 UTC",
+  "lastUpdated": "02 de junio de 2026 — 16:07 UTC",
   "ticker": [
+    "Is the Taliban-Russia MoU good for Afghanistan?",
+    "Albanians protest Kushner plan for Sazan Island luxury resort",
+    "‘Trapped’: Gaza patients flown to Iraq stuck in administrative limbo",
+    "Belgian NGO urges India to arrest Israeli reservist over alleged war crimes",
+    "Israeli attacks on Lebanon continue after Trump saying they’d stop",
+    "World Cup delay for Switzerland’s Embolo while US reviews travel document",
+    "UK Athletics fined over death of UAE Paralympian Abdullah Hayayei",
+    "Southampton backs ‘spygate’ Eckert despite world’s most lucrative game miss",
+    "What are the FIFA World Cup 2026 squads for all 48 teams?",
     "Underground drug smuggling tunnel discovered from Tijuana to San Diego",
     "Every world leader who has visited China in 2026 in one chart",
-    "Israel kills five in attacks on Lebanon after Trump announces de-escalation",
-    "Trump says Israel, Hezbollah to stop fighting: What we know",
-    "How social media is turning African life into content at a cost",
-    "Refugee women in CAR face childbirth risks amid US funding cuts",
-    "How the war has made Iran’s water crisis worse",
-    "US gunman kills six family members and takes his own life",
-    "World Cup: No ICE deployment; extra security for Iran games in Los Angeles",
-    "Massive fire engulfs Jakarta market leaving hundreds homeless",
-    "Australia, don’t conflate anti-Semitism with criticism of Israel",
-    "How does Iran’s leadership view the emerging deal with the US?",
-    "Somalia needs a political settlement before it is too late",
-    "High Court orders Kenya government to release details of Ebola facility",
-    "‘Like mice in a cage’: Inside Europe’s prison overcrowding crisis"
+    "Israel kills 8 in attacks on Lebanon after Trump announces de-escalation"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
-          "event": "LoL: EDward Gaming vs Bilibili Gaming - Game 2 Winner",
-          "odds": "+376",
-          "params": "Fuente: Polymarket",
+          "event": "Will Qatar recognize Israel by December 31?",
+          "odds": "+566",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
           "moved": "none"
-        },
-        {
-          "event": "Will Cam Schlittler win the 2026 AL Cy Young Award?",
-          "odds": "+142",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "US x Iran permanent peace deal by June 7, 2026?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
+      "rows": [
         {
           "event": "Will Russia enter Serhiivka by July 31?",
           "odds": "+203",
-          "params": "Fuente: Polymarket",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇨🇳",
+      "label": "CHINA / PACÍFICO / COREA",
+      "rows": [
+        {
+          "event": "Xi Jinping out before 2027?",
+          "odds": "+1392",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "label": "ECONOMÍA Y ENERGÍA",
       "rows": [
-        {
-          "event": "Will Crude Oil reach a new all-time high by September 30?",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Crude Oil (CL) hit (HIGH) $120 by end of June?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will Jordan Bardella win the 2027 French presidential election?",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will AfD win the most seats in the 2026 Mecklenburg-Vorpommern parliamentary elections?",
-          "odds": "-669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Labour Party win the second-most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
-          "odds": "+170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Perugia: Luca Nardi vs Oriol Roca Batalla",
-          "odds": "-194",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Zhejiang Lions vs. Shanghai Sharks",
-          "odds": "-170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Munich be 20°C on June 3?",
-          "odds": "+455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Buenos Aires be 16°C on June 3?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "YOM FDV above $100M one day after launch?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the NY-08 House seat?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "U.S. enacts AI safety bill before 2027?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Rafael Jodar win the 2026 Men's French Open?",
-          "odds": "+1134",
-          "params": "Fuente: Polymarket",
+          "odds": "+733",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
           "moved": "none"
         }
       ]
