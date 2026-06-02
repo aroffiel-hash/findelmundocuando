@@ -1,64 +1,133 @@
 {
-  "lastUpdated": "02 de junio de 2026 — 16:07 UTC",
+  "lastUpdated": "02 de junio de 2026 — 16:42 UTC",
   "ticker": [
+    "UN tells world to brace for extreme weather as El Nino looms",
+    "China opens its markets to African exports. Who benefits?",
+    "Intisar Shanib becomes first woman to head football club in Libya",
+    "Could Russia hit northern Europe if it gained control of Arctic’s Bear Gap?",
+    "The Horn of Africa needs reconciliation, not new borders",
+    "Could Trump’s government be influencing Canada’s separatist movement?",
     "Is the Taliban-Russia MoU good for Afghanistan?",
     "Albanians protest Kushner plan for Sazan Island luxury resort",
+    "‘Encroached territory’: Why India-Nepal border dispute is heating up again",
     "‘Trapped’: Gaza patients flown to Iraq stuck in administrative limbo",
     "Belgian NGO urges India to arrest Israeli reservist over alleged war crimes",
     "Israeli attacks on Lebanon continue after Trump saying they’d stop",
     "World Cup delay for Switzerland’s Embolo while US reviews travel document",
     "UK Athletics fined over death of UAE Paralympian Abdullah Hayayei",
-    "Southampton backs ‘spygate’ Eckert despite world’s most lucrative game miss",
-    "What are the FIFA World Cup 2026 squads for all 48 teams?",
-    "Underground drug smuggling tunnel discovered from Tijuana to San Diego",
-    "Every world leader who has visited China in 2026 in one chart",
-    "Israel kills 8 in attacks on Lebanon after Trump announces de-escalation"
+    "Southampton backs ‘spygate’ Eckert despite world’s most lucrative game miss"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Will Cam Schlittler win the 2026 AL Cy Young Award?",
+          "odds": "+142",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Qatar recognize Israel by December 31?",
           "odds": "+566",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
-      "rows": [
+        },
         {
           "event": "Will Russia enter Serhiivka by July 31?",
           "odds": "+203",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇨🇳",
-      "label": "CHINA / PACÍFICO / COREA",
-      "rows": [
-        {
-          "event": "Xi Jinping out before 2027?",
-          "odds": "+1392",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y ENERGÍA",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
           "event": "Will Crude Oil (CL) hit (HIGH) $120 by end of June?",
           "odds": "+733",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will AfD win the most seats in the 2026 Mecklenburg-Vorpommern parliamentary elections?",
+          "odds": "-669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jordan Bardella win the 2027 French presidential election?",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Labour Party win the second-most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
+          "odds": "+170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Dreamcash FDV above $400M one day after launch?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Poland vs. Nigeria end in a draw?",
+          "odds": "+244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "YOM FDV above $100M one day after launch?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the NY-08 House seat?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "U.S. enacts AI safety bill before 2027?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in New York City be between 74-75°F on June 2?",
+          "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Atlanta be between 84-85°F on June 4?",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Senegal vs. Iraq end in a draw?",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
