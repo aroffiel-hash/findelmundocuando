@@ -1,121 +1,76 @@
 {
-  "lastUpdated": "01 de junio de 2026 — 23:22 UTC",
+  "lastUpdated": "02 de junio de 2026 — 02:52 UTC",
   "ticker": [
+    "US Defense Department bars journalists from its press office",
+    "President Trump attempts to end hostilities in Lebanon",
+    "Celebration, shock and scepticism follow Colombia’s presidential election",
+    "Iran war live: Trump talks to Hezbollah, Israel as Lebanon fighting surges",
+    "Ultra-Orthodox protesters clash with Israeli police over army draft",
+    "Violent protests erupt in Chile over government cuts of social programmes",
+    "US court upholds injunction against Trump policy banning transgender troops",
     "Who attended this year’s Israel Day Parade in New York?",
     "Video: Presidential election has Colombia on edge",
     "Foreign Christians ask for forgiveness over failure to support Israel at Knesset",
     "Denmark gets new government as Greenland crisis persists",
-    "Kenyans protest Ebola quarantine centre for US citizens",
-    "Is the US-backed Gaza peace process in serious danger?",
-    "Protesters call on Kenyan government to halt femicide crisis",
-    "Armenian PM rejects Russia’s demand for EU referendum as relations nosedive",
-    "Trump halts $1.8bn ‘anti-weaponisation’ fund amid bipartisan backlash",
-    "Former election clerk Tina Peters released after Trump pressure campaign",
-    "Gaza-bound aid ship begins voyage from Sweden",
-    "Kenyans protest planned US Ebola quarantine facility",
-    "AI giant Anthropic files for US IPO as investors bet big on AI future",
-    "Israeli strike damages hospital in southern Lebanon",
-    "Ethiopians head to polls as millions excluded from elections"
+    "Kenyans protest Ebola quarantine centre for US citizens"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
-        {
-          "event": "US x Iran permanent peace deal by October 31, 2026?",
-          "odds": "-143",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "US-Iran nuclear deal by July 31?",
-          "odds": "+122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Israel annex Gaza territory by June 30 2026?",
           "odds": "+2602",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
           "moved": "none"
         },
         {
-          "event": "Will Cam Schlittler win the 2026 AL Cy Young Award?",
-          "odds": "+149",
-          "params": "Fuente: Polymarket",
+          "event": "Israeli parliament dissolved by July 31?",
+          "odds": "-566",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
       "rows": [
         {
-          "event": "Will Jordan Bardella win the 2027 French presidential election?",
-          "odds": "+316",
-          "params": "Fuente: Polymarket",
+          "event": "Will Ukraine re-enter Kamianske by June 30?",
+          "odds": "+300",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
           "moved": "none"
         },
         {
-          "event": "Will the Democrats win the Georgia Senate race in 2026?",
-          "odds": "-524",
-          "params": "Fuente: Polymarket",
+          "event": "Will Russia enter Serhiivka by July 31?",
+          "odds": "+203",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
+      "flag": "🇨🇳",
+      "label": "CHINA / PACÍFICO / COREA",
       "rows": [
         {
-          "event": "Mexico vs. South Africa: Draw at halftime?",
-          "odds": "+127",
-          "params": "Fuente: Polymarket",
+          "event": "Xi Jinping out before 2027?",
+          "odds": "+1370",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y ENERGÍA",
+      "rows": [
         {
-          "event": "Will Los Angeles Rams win the 2026 NFC West?",
-          "odds": "+104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in San Francisco be between 64-65°F on June 2?",
-          "odds": "+376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party win the IL-16 House seat?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "YOM FDV above $100M one day after launch?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the NY-08 House seat?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will there be exactly 3 earthquakes of magnitude 6.5 or higher worldwide from June 1 - 7?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "U.S. enacts AI safety bill before 2027?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
+          "event": "Will Crude Oil reach a new all-time high by September 30?",
+          "odds": "+455",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
           "moved": "none"
         }
       ]
