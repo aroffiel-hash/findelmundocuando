@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "03 de junio de 2026 — 03:27 UTC",
+  "lastUpdated": "03 de junio de 2026 — 05:58 UTC",
   "ticker": [
+    "What’s happening on day 96 of Iran war as US, Iran engage in new attacks",
+    "Kyiv residents seek shelter during renewed Russian attacks",
+    "Accident on Kuwait motorway as Iranian missiles fly overhead",
+    "Rebecca Bennett wins New Jersey Democratic primary, to face Trump ally Kean",
     "Benjamin Netanyahu faces Israeli backlash over Lebanon strategy",
     "Tunisian court sentences Ennahdha leader Rached Ghannouchi to life in prison",
     "Mexico and Canada push to extend USMCA trade pact",
@@ -11,54 +15,101 @@
     "Thailand cracks down on foreign companies using fig leaf of local ownership",
     "Iran war live: US hits Iran’s Qeshm, says Tehran targeted Kuwait, Bahrain",
     "Rania al‑Abbasi’s children: The truth revealed",
-    "Italy celebrates 80 years of democracy",
-    "Actor Idris Elba knighted by King Charles at Windsor Castle"
+    "Italy celebrates 80 years of democracy"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will there be 60 or more average daily transits of the Strait of Hormuz on June 30?",
-          "odds": "+900",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Will Sal Stewart win the 2026 NL Rookie of the Year award?",
+          "odds": "+300",
+          "params": "Fuente: Polymarket",
           "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
-      "rows": [
+        },
         {
           "event": "Will Russia enter Serhiivka by July 31?",
           "odds": "+203",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "US announces new Iran agreement/ceasefire extension by June 30?",
+          "odds": "-117",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇨🇳",
-      "label": "CHINA / PACÍFICO / COREA",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Xi Jinping out before 2027?",
-          "odds": "+1392",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Will Xavier Becerra win the 2026 California Governor Primary Election by 5–10%?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Labour Party win the second-most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
+          "odds": "+170",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
       "rows": [
+        {
+          "event": "Dreamcash FDV above $400M one day after launch?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump say \"Fuel\" during Wisconsin events?",
+          "odds": "-143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Trump meet with Keir Starmer in June 2026?",
           "odds": "-1328",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Valorant: Leviatán Esports vs Global Esports (BO3) - VCT Masters London Group Stage",
+          "odds": "-156",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "ITF Kursumlijska Banja: Elena Milutinovic vs Nadja Mladenovic",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Meta (META) finish week of June 1 above $620?",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "YOM FDV above $100M one day after launch?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Atlanta be between 80-81°F on June 3?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
