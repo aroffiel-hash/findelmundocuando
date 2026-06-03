@@ -1,33 +1,27 @@
 {
-  "lastUpdated": "03 de junio de 2026 — 20:13 UTC",
+  "lastUpdated": "03 de junio de 2026 — 23:00 UTC",
   "ticker": [
+    "Real Madrid will bring Mourinho back if Perez is re-elected",
+    "US House of Representatives passes war powers resolution in rebuke to Trump",
+    "Who is Adam Hamawy? Doctor who served in Gaza is on the path to US Congress",
+    "Kuwait labels Iran attack ‘heinous aggression’",
+    "Ukraine attacks St Petersburg as Russia hosts its own ‘Davos’",
+    "Deadly fire rips through New Delhi hotel",
+    "Japan’s football team sports cowboy hats ahead of World Cup",
+    "Does Israel have nukes? ‘Most of the world assesses they do,’ says Rubio",
+    "Ten years on, world remembers Muhammad Ali ‘the Greatest’",
     "Israel’s decades-long history of invading Lebanon",
     "Israeli strikes near Tyre hospital put youngest patient at risk",
     "Dalai Lama receives Grammy award for spoken-word album",
     "Gunfire erupts in Mogadishu before protests against Somali president’s rule",
     "Iran faces a new energy imbalance, but its options are limited",
-    "Israeli attacks kill nine in Lebanon, reach Beirut outskirts",
-    "Lula says Brazil cannot ‘accept treatment’ after new US tariffs proposed",
-    "US cites forced labour concerns as grounds for new tariffs",
-    "Netanyahu downplays US-Israel rift after Trump confirms criticism",
-    "FIFA World Cup 2026: Can Asian champions Qatar reach the knockouts?",
-    "‘Disgraceful’: Egypt jails activist Douma after article on its prisons",
-    "Bangladesh’s top diplomat elected UN General Assembly leader in tight race",
-    "Israeli settlers are driving Palestinian shepherds from their grazing lands",
-    "What is the St Petersburg forum, Putin’s economic outreach to the world?",
-    "The Ebola outbreak the world isn’t paying attention to"
+    "Israeli attacks kill nine in Lebanon, reach Beirut outskirts"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Will JJ Wetherholt win the 2026 NL Rookie of the Year award?",
-          "odds": "+244",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Sal Stewart win the 2026 NL Rookie of the Year award?",
           "odds": "+316",
@@ -43,18 +37,24 @@
       ]
     },
     {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will WTI Crude Oil (WTI) hit (LOW) $65 in June?",
+          "odds": "+2464",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Karen Bass win the first round of the 2026 Los Angeles Mayoral Election by 10–15%?",
-          "odds": "+2757",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Park Heong-joon win the 2026 Busan mayoral election by less than 5%?",
-          "odds": "+566",
+          "event": "Will Kim Sang-wook win the 2026 Ulsan mayoral election?",
+          "odds": "-1718",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -75,6 +75,12 @@
           "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Karen Bass win the first round of the 2026 Los Angeles Mayoral Election by 5–10%?",
+          "odds": "-669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -89,26 +95,20 @@
           "moved": "none"
         },
         {
-          "event": "Will June 2026 be the 1st hottest on record?",
-          "odds": "+354",
+          "event": "Valorant: Team Vitality vs Dragon Ranger Gaming (BO3) - VCT Masters London Group Stage",
+          "odds": "-455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "San Francisco Giants vs. Milwaukee Brewers",
-          "odds": "+156",
+          "event": "Will GPT-5.6 be released between June 1 and June 7, 2026?",
+          "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "YOM FDV above $100M one day after launch?",
           "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Guangzhou be 37°C on June 4?",
-          "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -121,6 +121,12 @@
         {
           "event": "U.S. enacts AI safety bill before 2027?",
           "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Manila be 31°C on June 4?",
+          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
