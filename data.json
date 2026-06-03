@@ -1,139 +1,64 @@
 {
-  "lastUpdated": "03 de junio de 2026 — 11:05 UTC",
+  "lastUpdated": "03 de junio de 2026 — 16:22 UTC",
   "ticker": [
-    "Morocco World Cup 2026 preview: Players to watch, group and squad list",
-    "Israel’s invasion of southern Lebanon devastates centuries of history",
-    "Cape Verde football team arrives in the US for the World Cup",
-    "US artist sues FIFA over destruction of Dallas whale mural for World Cup",
-    "Hilton, Becerra lead California governor race: Key primary election results",
-    "Fire at New Delhi hotel kills at least 21 people",
-    "Remembering Muhammad Ali’s message of peace",
-    "How social media changes the way we see war",
-    "Hezbollah video shows attack on Israeli troops at Lebanon’s Beaufort Castle",
-    "UK-China ‘ice age’ thaws: Why the West needs Beijing",
-    "Democrat and Republican go head-to-head in California governor race",
-    "US ‘disables’ ship allegedly bound for Iranian port",
-    "Foreign nationals among 21 dead in fire in Indian capital",
-    "Iranian drone attack kills one in Kuwait after US strikes Qeshm Island",
-    "Can a US president promote stock they’ve invested in"
+    "Which World Cup 2026 stadiums will host matches in US, Canada and Mexico?",
+    "UK minister condemns violent protests against student’s murder",
+    "Turkiye’s top diplomat, Indonesia’s president discuss $10bn trade goal",
+    "FBI agents fatally shoot alleged hostage-taker in California",
+    "Pro-Palestine US army veteran Adam Hamawy wins New Jersey primary",
+    "Three British navy personnel killed in helicopter crash in England",
+    "Sabalenka the latest French Open shock exit as Shnaider wins quarterfinal",
+    "‘Doesn’t seem qualified’: Who is Bill Pulte, acting US intelligence chief?",
+    "Lamine Yamal and Nico Williams set to be fit for Spain’s World Cup opener",
+    "The Population Bust",
+    "Israel detains Palestine international women’s football player",
+    "Iran’s World Cup squad to depart for Mexico on June 6 despite US visa delay"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
           "event": "US announces new Iran agreement/ceasefire extension by June 30?",
           "odds": "-132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Sal Stewart win the 2026 NL Rookie of the Year award?",
-          "odds": "+300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Woo Sang-ho win the 2026 Gangwon Province gubernatorial election?",
-          "odds": "-809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "US x Iran diplomatic meeting by June 10, 2026?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Warsaw be 22°C on June 4?",
-          "odds": "+284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will JJ Wetherholt win the 2026 NL Rookie of the Year award?",
-          "odds": "+222",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Spread: China PR (-1.5)",
-          "odds": "-257",
-          "params": "Fuente: Polymarket",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🇨🇳",
+      "label": "CHINA / PACÍFICO / COREA",
       "rows": [
         {
-          "event": "Will Labour Party win the second-most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
-          "odds": "+170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Vicki Schmidt win the 2026 Kansas Governor Republican primary election?",
+          "event": "Xi Jinping out before 2027?",
           "odds": "+1328",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "moved": "none"
+        },
+        {
+          "event": "Will China GDP growth in Q2 2026 be between 4.6% and 4.9%?",
+          "odds": "-163",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
       "rows": [
         {
-          "event": "Will the highest temperature in Beijing be 25°C on June 5?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
+          "event": "Will Donald Trump not announce a next United States Attorney General by June 30?",
+          "odds": "-177",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Kuala Lumpur be 33°C on June 4?",
-          "odds": "+149",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "YOM FDV above $100M one day after launch?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Felix Auger Aliassime win the 2026 Men's French Open?",
-          "odds": "+920",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will CZ post 0-19 posts from June 5 to June 12, 2026?",
-          "odds": "-163",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the NY-08 House seat?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Gold (XAUUSD) hit (HIGH) $4,700 in June?",
-          "odds": "+163",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "U.S. enacts AI safety bill before 2027?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
+          "event": "Will Trump speak to Ursula von der Leyen in June?",
+          "odds": "-900",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
