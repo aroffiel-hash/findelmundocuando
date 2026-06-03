@@ -1,115 +1,64 @@
 {
-  "lastUpdated": "03 de junio de 2026 — 00:26 UTC",
+  "lastUpdated": "03 de junio de 2026 — 03:27 UTC",
   "ticker": [
+    "Benjamin Netanyahu faces Israeli backlash over Lebanon strategy",
+    "Tunisian court sentences Ennahdha leader Rached Ghannouchi to life in prison",
+    "Mexico and Canada push to extend USMCA trade pact",
+    "US says it attacked Iran’s Qeshm Island; Tehran targets Kuwait, Bahrain",
+    "Zimbabwe’s e-tricycle crackdown puts rural women’s livelihoods at risk",
+    "Why women go to war",
+    "Trump to attend delayed White House Correspondents’ Dinner after shooting",
+    "Thailand cracks down on foreign companies using fig leaf of local ownership",
+    "Iran war live: US hits Iran’s Qeshm, says Tehran targeted Kuwait, Bahrain",
     "Rania al‑Abbasi’s children: The truth revealed",
     "Italy celebrates 80 years of democracy",
-    "Actor Idris Elba knighted by King Charles at Windsor Castle",
-    "Protesters use ‘Ebola coffin’ to rally against US quarantine centre",
-    "European election monitor dismisses rumours of fraud in Colombia’s election",
-    "Trump berated Netanyahu? Analysts question US-Israel feud rumours",
-    "Drones light up Taipei’s night sky for Computex trade show",
-    "Trump administration scraps $1.8bn ‘anti-weaponisation fund’",
-    "Russia launches massive overnight attack on Ukraine",
-    "‘Milestone’: Macron opens Paris monument honouring Rwanda genocide victims",
-    "What to know about Tuesday’s primaries in California, New Jersey, Montana",
-    "Blue Origin failure sets back NASA lunar goals",
-    "Inside the billion-dollar business of getting a visa",
-    "Spain bans DR Congo World Cup warm-up due to Ebola fears",
-    "Palestine weekly wrap: No respite for Eid as Israel kills dozens in Gaza"
+    "Actor Idris Elba knighted by King Charles at Windsor Castle"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
-        {
-          "event": "LoL: EDward Gaming vs Bilibili Gaming - Game 1 Winner",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Russia enter Serhiivka by July 31?",
-          "odds": "+203",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Albania vs. Israel: O/U 3.5",
-          "odds": "+316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will Jordan Bardella win the 2027 French presidential election?",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Labour Party win the second-most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
-          "odds": "+170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will the highest temperature in Cape Town be 19°C on June 3?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Dreamcash FDV above $400M one day after launch?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Mussab Ali be the Democratic nominee for NJ-08?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will there be 60 or more average daily transits of the Strait of Hormuz on June 30?",
           "odds": "+900",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
+      "rows": [
+        {
+          "event": "Will Russia enter Serhiivka by July 31?",
+          "odds": "+203",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇨🇳",
+      "label": "CHINA / PACÍFICO / COREA",
+      "rows": [
+        {
+          "event": "Xi Jinping out before 2027?",
+          "odds": "+1392",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
+      "rows": [
         {
           "event": "Will Trump meet with Keir Starmer in June 2026?",
           "odds": "-1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Meta (META) finish week of June 1 above $620?",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Innio's market cap be between $26B and $29B at market close on IPO day?",
-          "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "YOM FDV above $100M one day after launch?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
