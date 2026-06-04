@@ -1,121 +1,64 @@
 {
-  "lastUpdated": "04 de junio de 2026 — 11:45 UTC",
+  "lastUpdated": "04 de junio de 2026 — 14:42 UTC",
   "ticker": [
-    "Quiz: World Cup 2026 – player and team records, key statistics",
-    "Monsoon rain reaches Kerala 3 days late but on time to save Indian harvests",
-    "Who is the Indian guru Venezuelan acting President Delcy Rodriguez follows?",
-    "Itamar Ben-Gvir: The face of Israel’s hard right — or the face of Israel?",
-    "‘Grossly unfair’: Meta slams Australia’s bid to make platforms pay for news",
-    "Argentina erupts in protest against gender violence after teen murder",
-    "Mehdi Taremi: Iran’s journey to the 2026 World Cup",
-    "Ireland’s Black community opens up about racism after ‘George Floyd moment’",
-    "Israel and Lebanon agree on ceasefire framework in US-led talks",
-    "US House votes to end Trump’s Iran war: Does it matter?",
-    "Did Germany lose its UNSC seat because of support for Israel?",
-    "Nepali Mount Everest guide found alive after being missing for six days",
-    "Who is Khalilur Rahman, Bangladesh FM who beat Cyprus to UNGA presidency?",
-    "Video: US House of Representatives votes to block further war on Iran",
-    "World Cup 2026: What are the key dates from the opening match to the final?"
+    "Iran footballers describe how war with US-Israel affects their World Cup",
+    "Shark predicts winning start for Brazil at FIFA World Cup",
+    "Why is a US Ebola facility in Kenya sparking protests?",
+    "Fearful foreign nationals in South Africa forced out of their homes",
+    "Rights group sues South African government over US arms exports",
+    "Archaeologists find ancient matrilineal society in Turkiye’s Catalhoyuk",
+    "Fighting in Somalia’s capital as anger over election delay erupts",
+    "First US screwworm case in 60 years: Should America be worried?",
+    "What do Turkiye and Indonesia want from bilateral talks?",
+    "Who are the World Cup Golden Boot favourites? Mbappe, Ronaldo, Messi, Kane?",
+    "Israel’s Smotrich announces plan for 2,162 homes in occupied West Bank",
+    "Quiz: World Cup 2026 – player and team records, key statistics"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
-          "event": "Will China GDP growth in Q2 2026 be between 4.6% and 4.9%?",
-          "odds": "-212",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will Pamela Evette win the 2026 South Carolina Governor Republican primary election?",
-          "odds": "-233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Labour Party win the second-most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
-          "odds": "+170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Labour Party win fewer than 30 seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
+          "event": "Will Saudi Arabia win on 2026-06-15?",
+          "odds": "+669",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
           "event": "UAE x Saudi Arabia sever diplomatic relations in 2026?",
           "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Vicki Schmidt win the 2026 Kansas Governor Republican primary election?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
+      "flag": "🇨🇳",
+      "label": "CHINA / PACÍFICO / COREA",
       "rows": [
         {
-          "event": "Will White House post 140-159 posts from May 29 to June 5, 2026?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
+          "event": "Xi Jinping out before 2027?",
+          "odds": "+1349",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
-          "event": "AS FAR vs. Difaâ Hassani El Jadida: Both Teams to Score",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
+          "event": "Will China GDP growth in Q2 2026 be between 4.6% and 4.9%?",
+          "odds": "-212",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
           "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y ENERGÍA",
+      "rows": [
         {
-          "event": "Will Max Verstappen get pole position at the 2026 F1 Monaco Grand Prix?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Vegalta Sendai win on 2026-06-06?",
-          "odds": "+143",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Ankara be 28°C on June 5?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Albirex Niigata win on 2026-06-06?",
-          "odds": "+177",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Chongqing be 30°C or below on June 5?",
-          "odds": "+284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Durable Goods Orders MoM be between 0% and 2% in May?",
-          "odds": "+426",
-          "params": "Fuente: Polymarket",
+          "event": "WTI Crude Oil (WTI) closes above $95 on June 4?",
+          "odds": "+900",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
           "moved": "none"
         }
       ]
