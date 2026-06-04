@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "04 de junio de 2026 — 21:39 UTC",
+  "lastUpdated": "04 de junio de 2026 — 23:04 UTC",
   "ticker": [
+    "Democrats force vote on Trump’s $1.8bn settlement fund in ‘vote-a-rama’",
+    "Kenyan president defends US Ebola facility amid deadly protests",
+    "Why is the US so invested in Colombia’s election?",
+    "Lebanon latest: Hezbollah rejects US plan as Israel continues attacks",
     "Hezbollah rejects US-brokered ceasefire deal between Israel and Lebanon",
     "US defence secretary compares Bolivia protests to government ‘overthrow’",
     "What is the UK’s ‘two-tier policing’ debate?",
@@ -11,25 +15,9 @@
     "Russia kills 12 in Ukraine as Kyiv mourns 707 children killed since 2022",
     "Hundreds protest in Libya outside UN agency against undocumented migrants",
     "Sherpa found alive on Mount Everest after six days missing",
-    "Saudi energy minister calls for ‘stable energy sector’ during Russia visit",
-    "Marjane Satrapi, the author of ‘Persepolis,’ dies at 56",
-    "Ecuador’s disappeared: Inside one family’s search for answers",
-    "Trump official-turned-foe John Bolton accepts plea deal in documents case",
-    "Israel must allow ICRC to visit Palestinians in prison, Supreme Court rules"
+    "Saudi energy minister calls for ‘stable energy sector’ during Russia visit"
   ],
   "sections": [
-    {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
-      "rows": [
-        {
-          "event": "US announces new Iran agreement/ceasefire extension by June 15?",
-          "odds": "+300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
     {
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
@@ -49,6 +37,12 @@
         {
           "event": "Will the Labour Party win fewer than 30 seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
           "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "UAE x Saudi Arabia sever diplomatic relations in 2026?",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -89,6 +83,12 @@
           "moved": "none"
         },
         {
+          "event": "Will Flavio Cobolli win the 2026 Men's French Open?",
+          "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Durable Goods Orders MoM be between 0% and 2% in May?",
           "odds": "+426",
           "params": "Fuente: Polymarket",
@@ -97,12 +97,6 @@
         {
           "event": "YOM FDV above $100M one day after launch?",
           "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Guatemala win on 2026-06-07?",
-          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
