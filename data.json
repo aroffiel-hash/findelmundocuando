@@ -1,39 +1,27 @@
 {
-  "lastUpdated": "04 de junio de 2026 — 08:13 UTC",
+  "lastUpdated": "04 de junio de 2026 — 11:45 UTC",
   "ticker": [
-    "Sabalenka ‘mentally off track’ as French Open exit made her want to ‘quit’",
-    "How does football influence who we are?",
-    "Israel and Lebanon agree to conditional ceasefire",
-    "Indonesia arrests officials in crackdown on corruption",
-    "Iran war day 97: Tehran says no progress in talks; Israel attacks Lebanon",
-    "What the US-Israel war on Iran will not change in the Middle East",
-    "Gaza is being offered coercion, not reconstruction",
-    "What’s behind the White House’s ‘Alien.gov’ website?",
-    "What are the Ebola vaccines under research, and when will they be ready?",
-    "How India’s CBSE exam scandal set off student outrage against PM Modi",
-    "World Cup 2026: FIFA bans fans from bringing reusable bottles to stadiums",
-    "Germany admits failure to secure UNSC seat likely due to support for Israel",
-    "Israeli strikes on residential buildings kill nine in Gaza City",
-    "Indonesia’s rupiah falls to record low against US dollar",
-    "UK far-right accused of exploiting killing of Henry Nowak"
+    "Quiz: World Cup 2026 – player and team records, key statistics",
+    "Monsoon rain reaches Kerala 3 days late but on time to save Indian harvests",
+    "Who is the Indian guru Venezuelan acting President Delcy Rodriguez follows?",
+    "Itamar Ben-Gvir: The face of Israel’s hard right — or the face of Israel?",
+    "‘Grossly unfair’: Meta slams Australia’s bid to make platforms pay for news",
+    "Argentina erupts in protest against gender violence after teen murder",
+    "Mehdi Taremi: Iran’s journey to the 2026 World Cup",
+    "Ireland’s Black community opens up about racism after ‘George Floyd moment’",
+    "Israel and Lebanon agree on ceasefire framework in US-led talks",
+    "US House votes to end Trump’s Iran war: Does it matter?",
+    "Did Germany lose its UNSC seat because of support for Israel?",
+    "Nepali Mount Everest guide found alive after being missing for six days",
+    "Who is Khalilur Rahman, Bangladesh FM who beat Cyprus to UNGA presidency?",
+    "Video: US House of Representatives votes to block further war on Iran",
+    "World Cup 2026: What are the key dates from the opening match to the final?"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Will Sal Stewart win the 2026 NL Rookie of the Year award?",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Centurion 2: Alexander Donski vs Edward Winter",
-          "odds": "+270",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will China GDP growth in Q2 2026 be between 4.6% and 4.9%?",
           "odds": "-212",
@@ -47,14 +35,8 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Enrique Riquelme win the 2026 Real Madrid presidential election?",
-          "odds": "+1940",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Pamela Evette win the 2026 South Carolina Governor Republican primary election?",
-          "odds": "-244",
+          "odds": "-233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -71,6 +53,12 @@
           "moved": "none"
         },
         {
+          "event": "UAE x Saudi Arabia sever diplomatic relations in 2026?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Vicki Schmidt win the 2026 Kansas Governor Republican primary election?",
           "odds": "+1328",
           "params": "Fuente: Polymarket",
@@ -83,14 +71,32 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Will White House post 140-159 posts from May 29 to June 5, 2026?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "AS FAR vs. Difaâ Hassani El Jadida: Both Teams to Score",
+          "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Max Verstappen get pole position at the 2026 F1 Monaco Grand Prix?",
           "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Trump say \"Surplus\" during Wisconsin events?",
-          "odds": "+222",
+          "event": "Will Vegalta Sendai win on 2026-06-06?",
+          "odds": "+143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Ankara be 28°C on June 5?",
+          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -101,32 +107,14 @@
           "moved": "none"
         },
         {
-          "event": "YOM FDV above $100M one day after launch?",
-          "odds": "+488",
+          "event": "Will the highest temperature in Chongqing be 30°C or below on June 5?",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will White House post 140-159 posts from June 2 to June 9, 2026?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the NY-08 House seat?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "U.S. enacts AI safety bill before 2027?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Birmingham: Otto Virtanen vs Aleksandar Vukic",
-          "odds": "-244",
+          "event": "Will Durable Goods Orders MoM be between 0% and 2% in May?",
+          "odds": "+426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
