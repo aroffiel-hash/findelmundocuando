@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "04 de junio de 2026 — 03:26 UTC",
+  "lastUpdated": "04 de junio de 2026 — 08:13 UTC",
   "ticker": [
-    "UK far-right accused of exploiting killing of Henry Nowak",
-    "Elon Musk’s SpaceX eyes $1.77tn valuation ahead of historic IPO",
-    "Rubio distances himself from Netanyahu’s Gaza plan",
-    "Nigeria’s second-chance schools: women balancing study and survival",
-    "Iran war live: Ceasefire tested by US-Iran clashes; Israel kills 9 in Gaza",
-    "London activists try to erect statue of jailed Palestinian leader",
-    "Trump seeks to split Lebanon talks from war on Iran negotiations",
-    "Kuwait releases CCTV footage of deadly Iranian strike on airport",
-    "Real Madrid will bring Mourinho back if Perez is re-elected",
-    "US House passes Iran war powers resolution in rare pushback against Trump",
-    "Who is Adam Hamawy? Doctor who served in Gaza is on the path to US Congress",
-    "Kuwait labels Iran attack ‘heinous aggression’",
-    "Ukraine attacks St Petersburg as Russia hosts its own ‘Davos’",
-    "Deadly fire rips through New Delhi hotel",
-    "Japan’s football team sports cowboy hats ahead of World Cup"
+    "Sabalenka ‘mentally off track’ as French Open exit made her want to ‘quit’",
+    "How does football influence who we are?",
+    "Israel and Lebanon agree to conditional ceasefire",
+    "Indonesia arrests officials in crackdown on corruption",
+    "Iran war day 97: Tehran says no progress in talks; Israel attacks Lebanon",
+    "What the US-Israel war on Iran will not change in the Middle East",
+    "Gaza is being offered coercion, not reconstruction",
+    "What’s behind the White House’s ‘Alien.gov’ website?",
+    "What are the Ebola vaccines under research, and when will they be ready?",
+    "How India’s CBSE exam scandal set off student outrage against PM Modi",
+    "World Cup 2026: FIFA bans fans from bringing reusable bottles to stadiums",
+    "Germany admits failure to secure UNSC seat likely due to support for Israel",
+    "Israeli strikes on residential buildings kill nine in Gaza City",
+    "Indonesia’s rupiah falls to record low against US dollar",
+    "UK far-right accused of exploiting killing of Henry Nowak"
   ],
   "sections": [
     {
@@ -24,13 +24,19 @@
       "rows": [
         {
           "event": "Will Sal Stewart win the 2026 NL Rookie of the Year award?",
-          "odds": "+300",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Centurion 2: Alexander Donski vs Edward Winter",
+          "odds": "+270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will China GDP growth in Q2 2026 be between 4.6% and 4.9%?",
-          "odds": "-163",
+          "odds": "-212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -41,6 +47,18 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
+          "event": "Will Enrique Riquelme win the 2026 Real Madrid presidential election?",
+          "odds": "+1940",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Pamela Evette win the 2026 South Carolina Governor Republican primary election?",
+          "odds": "-244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Labour Party win the second-most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
           "odds": "+170",
           "params": "Fuente: Polymarket",
@@ -49,12 +67,6 @@
         {
           "event": "Will the Labour Party win fewer than 30 seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
           "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Pamela Evette win the 2026 South Carolina Governor Republican primary election?",
-          "odds": "-244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -77,32 +89,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Zelenskyy post 60-79 posts from May 29 to June 5, 2026?",
-          "odds": "-127",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Trump say \"Surplus\" during Wisconsin events?",
           "odds": "+222",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Croatia win on 2026-06-17?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party win the CA-06 House seat?",
-          "odds": "-669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump speak to Xi Jinping in June?",
-          "odds": "+270",
+          "event": "Will Albirex Niigata win on 2026-06-06?",
+          "odds": "+177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -115,6 +109,24 @@
         {
           "event": "Will White House post 140-159 posts from June 2 to June 9, 2026?",
           "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the NY-08 House seat?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "U.S. enacts AI safety bill before 2027?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Birmingham: Otto Virtanen vs Aleksandar Vukic",
+          "odds": "-244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
