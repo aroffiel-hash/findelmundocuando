@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "05 de junio de 2026 — 07:03 UTC",
+  "lastUpdated": "05 de junio de 2026 — 11:20 UTC",
   "ticker": [
-    "Iran war day 98: Tehran raises doubts on deal as Lebanon fighting continues",
-    "Pakistan’s Lyari defies Bollywood’s gangland label to rise as boxing haven",
-    "Why Mogadishu clashes are deepening Somalia’s political crisis again",
-    "Iran war live: Hezbollah rejects truce as Israel continues Lebanon strikes",
-    "Democrat fails to block US measure to deepen Israel military cooperation",
-    "Ivory Coast beats France in World Cup warning to one of the favourites",
-    "Democrats force vote on Trump’s $1.8bn settlement fund in ‘vote-a-rama’",
-    "Kenyan president defends US Ebola facility amid deadly protests",
-    "Why is the US so invested in Colombia’s election?",
-    "Lebanon latest: Hezbollah rejects US plan as Israel continues attacks",
-    "Hezbollah rejects US-brokered ceasefire deal between Israel and Lebanon",
-    "US defence secretary compares Bolivia protests to government ‘overthrow’",
-    "What is the UK’s ‘two-tier policing’ debate?",
-    "Lufthansa employees injured after Boeing 787 collapses in Frankfurt",
-    "Block the bombs: Support grows for US bill to restrict arms for Israel"
+    "Zelenskyy asks Putin for meeting: What’s he offering, could Russia accept?",
+    "How the world failed a mother’s children, killed in Israeli strikes on Gaza",
+    "Thousands protest in Albania over Kushner-linked resort project",
+    "US visa rejections, war on Iran keep fans away from World Cup",
+    "FIFA World Cup 2026 talking points: NFL-style half-time show, kits and more",
+    "Iran beat Mali in final warm-up before heading to World Cup",
+    "US raises pressure on Cuba as it sanctions President Diaz-Canel",
+    "Sooryavanshi in line for T20 call as India fast-track 15-year-old to top",
+    "Putin says ‘too early’ to talk about staying in power until 2036",
+    "French-Iranian Persepolis author Marjane Satrapi dies of ‘sadness’",
+    "Fireball seen after explosion at Mexico gas facility",
+    "UN envoys call on Trump to stop Israeli annexation",
+    "China’s Xi headed to North Korea in bid to shore up ties",
+    "Kushner Island? Why a planned resort has provoked protests in Albania",
+    "‘We are fighters’: Iraq aim to shock rivals at 2026 World Cup"
   ],
   "sections": [
     {
@@ -23,20 +23,14 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Indonesia recognize Israel by December 31?",
-          "odds": "+669",
+          "event": "NATO x Russia military clash by June 30, 2026?",
+          "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
-      "rows": [
+        },
         {
-          "event": "Trump orders federal review of AI model releases by June 30?",
-          "odds": "+170",
+          "event": "Exact Score: Singapore 2 - 0 China PR?",
+          "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -47,14 +41,20 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Labour Party win the second-most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
-          "odds": "+170",
+          "event": "Will Jérôme Guedj be on the ballot for the 2027 French presidential election?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Jocelyn Benson win the 2026 Michigan Governor Democratic primary election?",
-          "odds": "-1512",
+          "odds": "-270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Labour Party win the second-most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
+          "odds": "+170",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -89,20 +89,26 @@
           "moved": "none"
         },
         {
-          "event": "Will Flavio Cobolli win the 2026 Men's French Open?",
-          "odds": "+390",
+          "event": "Arc FDV above $1B one day after launch?",
+          "odds": "-149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Singapore win on 2026-06-05?",
-          "odds": "+525",
+          "event": "Will the highest temperature in Guangzhou be 32°C on June 6?",
+          "odds": "+376",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Australia win on 2026-06-14?",
-          "odds": "+400",
+          "event": "Will the highest temperature in London be 18°C on June 5?",
+          "odds": "+284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Anthropic or OpenAI IPO first?",
+          "odds": "-334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -121,12 +127,6 @@
         {
           "event": "Will Albirex Niigata win on 2026-06-06?",
           "odds": "+177",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Anthropic or OpenAI IPO first?",
-          "odds": "-334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
