@@ -1,6 +1,7 @@
 {
-  "lastUpdated": "05 de junio de 2026 — 21:19 UTC",
+  "lastUpdated": "05 de junio de 2026 — 23:01 UTC",
   "ticker": [
+    "Trump makes pitch to farmers hard-hit by tariffs, high prices in Wisconsin",
     "Iran footballers issued US visas for World Cup, says White House",
     "Zelenskyy: Putin choosing war by rejecting offer for in-person talks",
     "Trump hails jobs surge, says Iran talks ‘going well’",
@@ -14,8 +15,7 @@
     "Huge fire erupts at Honda warehouse in Barcelona",
     "Trump admin’s cancellation of wind energy projects causes business turmoil",
     "Russia’s Putin says ‘no point’ meeting Ukraine’s Zelenskyy for now",
-    "Ukraine and Russia exchange 185 prisoners of war each",
-    "Video shows moment Israeli air strike hits car in southern Lebanon"
+    "Ukraine and Russia exchange 185 prisoners of war each"
   ],
   "sections": [
     {
@@ -25,6 +25,18 @@
         {
           "event": "NATO x Russia military clash by June 30, 2026?",
           "odds": "+2280",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will Crude Oil reach a new all-time high by December 31?",
+          "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -42,7 +54,13 @@
         },
         {
           "event": "Will Jocelyn Benson win the 2026 Michigan Governor Democratic primary election?",
-          "odds": "-270",
+          "odds": "-713",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will voter turnout be <52% in the second round of the 2026 Colombian presidential election?",
+          "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -69,12 +87,6 @@
           "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will Mauricio Macri win the 2027 Argentina presidential election?",
-          "odds": "+740",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -83,14 +95,20 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Spain vs. England: Draw at halftime?",
-          "odds": "+138",
+          "event": "Will SpaceX have fewer than 11 launches in June 2026?",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Daniil Medvedev be the 2026 Men’s Wimbledon winner?",
-          "odds": "+3025",
+          "event": "Will Elon Musk post 140-159 tweets from June 5 to June 12, 2026?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "LoL: FURIA Esports vs LOS (BO5) - CBLOL Playoffs",
+          "odds": "-194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -107,6 +125,12 @@
           "moved": "none"
         },
         {
+          "event": "Will Trump speak to Vladimir Putin in June?",
+          "odds": "+108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the Republican Party win the NY-08 House seat?",
           "odds": "+1566",
           "params": "Fuente: Polymarket",
@@ -115,18 +139,6 @@
         {
           "event": "U.S. enacts AI safety bill before 2027?",
           "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Bilibili Gaming make a roster change before July?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Predict.fun FDV above $200M one day after launch?",
-          "odds": "-316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
