@@ -1,133 +1,70 @@
 {
-  "lastUpdated": "05 de junio de 2026 — 11:20 UTC",
+  "lastUpdated": "05 de junio de 2026 — 14:31 UTC",
   "ticker": [
-    "Zelenskyy asks Putin for meeting: What’s he offering, could Russia accept?",
-    "How the world failed a mother’s children, killed in Israeli strikes on Gaza",
-    "Thousands protest in Albania over Kushner-linked resort project",
-    "US visa rejections, war on Iran keep fans away from World Cup",
-    "FIFA World Cup 2026 talking points: NFL-style half-time show, kits and more",
-    "Iran beat Mali in final warm-up before heading to World Cup",
-    "US raises pressure on Cuba as it sanctions President Diaz-Canel",
-    "Sooryavanshi in line for T20 call as India fast-track 15-year-old to top",
-    "Putin says ‘too early’ to talk about staying in power until 2036",
-    "French-Iranian Persepolis author Marjane Satrapi dies of ‘sadness’",
-    "Fireball seen after explosion at Mexico gas facility",
-    "UN envoys call on Trump to stop Israeli annexation",
-    "China’s Xi headed to North Korea in bid to shore up ties",
-    "Kushner Island? Why a planned resort has provoked protests in Albania",
-    "‘We are fighters’: Iraq aim to shock rivals at 2026 World Cup"
+    "FIFA cancels World Cup tickets for about 60 fans who got them for free",
+    "Israel maintains attacks despite US-brokered deal with Lebanon",
+    "Celtic fans oppose Keane as potential manager after Israel role",
+    "Iran footballers hand passports to US embassy for World Cup visa approval",
+    "Ukrainian marine drone explodes at Romanian port",
+    "How the US naval blockade has bled Iran of nearly $6bn in oil revenues",
+    "Drone explosion in Romanian port spurs Ukraine war spillover fears",
+    "Inside Syria’s fight against the Captagon trade",
+    "Nazi salutes, Sikhs abused: Tensions grip UK after Henry Nowak’s murder",
+    "Mexico World Cup 2026 preview: Players to watch, group matches and squad",
+    "South Korean police break up 35-hour polling station protest",
+    "UN boosts Lebanon aid appeal as Israeli war drives humanitarian crisis"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
-        {
-          "event": "NATO x Russia military clash by June 30, 2026?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: Singapore 2 - 0 China PR?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will Jérôme Guedj be on the ballot for the 2027 French presidential election?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Jocelyn Benson win the 2026 Michigan Governor Democratic primary election?",
-          "odds": "-270",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Labour Party win the second-most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
-          "odds": "+170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Labour Party win fewer than 30 seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "UAE x Saudi Arabia sever diplomatic relations in 2026?",
           "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Vicki Schmidt win the 2026 Kansas Governor Republican primary election?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
+      "flag": "🇨🇳",
+      "label": "CHINA / PACÍFICO / COREA",
       "rows": [
         {
-          "event": "Will the Democratic Party win the GA-12 House seat?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
+          "event": "Xi Jinping out before 2027?",
+          "odds": "+1328",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
+      "rows": [
+        {
+          "event": "Will Trump announce no pick for the next Director of National Intelligence by December 31, 2026?",
+          "odds": "+488",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         },
         {
-          "event": "Arc FDV above $1B one day after launch?",
-          "odds": "-149",
-          "params": "Fuente: Polymarket",
+          "event": "Will Trump praise Karoline Leavitt by May 31, 2026?",
+          "odds": "+3025",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y ENERGÍA",
+      "rows": [
         {
-          "event": "Will the highest temperature in Guangzhou be 32°C on June 6?",
-          "odds": "+376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in London be 18°C on June 5?",
-          "odds": "+284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Anthropic or OpenAI IPO first?",
-          "odds": "-334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the price of XRP be above $1.40 on June 11?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will South Africa win on 2026-06-18?",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Albirex Niigata win on 2026-06-06?",
-          "odds": "+177",
-          "params": "Fuente: Polymarket",
+          "event": "Will Crude Oil reach a new all-time high by June 30?",
+          "odds": "+2464",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
           "moved": "none"
         }
       ]
