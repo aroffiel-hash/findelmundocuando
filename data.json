@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "05 de junio de 2026 — 17:09 UTC",
+  "lastUpdated": "05 de junio de 2026 — 19:45 UTC",
   "ticker": [
-    "Ukraine slows Russia’s army but struggles to down ballistic missiles",
+    "Anthropic urges AI labs to pause, warns humans risk losing control",
+    "Judge strikes down Trump bar on asylum, visa processing for 39 countries",
+    "Is the latest US ceasefire deal for Lebanon meaningless?",
+    "Huge fire erupts at Honda warehouse in Barcelona",
+    "Trump admin’s cancellation of wind energy projects causes business turmoil",
+    "Russia’s Putin says ‘no point’ meeting Ukraine’s Zelenskyy for now",
+    "Ukraine and Russia exchange 185 prisoners of war each",
+    "Video shows moment Israeli air strike hits car in southern Lebanon",
+    "Germany’s Merz says EU to initiate integration of Western Balkans",
+    "Lawsuit challenges US ‘third-country’ deportations to Equatorial Guinea",
+    "An ice cream parlour survives Gaza’s genocide and gives seven students hope",
+    "Somalia declares order restored after two days of fighting in Mogadishu",
+    "Ballistics Putin’s ‘last argument’ as Ukraine brings his army to standstill",
     "US Senate passes $70bn ICE funding bill: What comes next?",
-    "Zverev cruises past Mensik to reach second French Open final",
-    "Ireland imposes travel ban on Israeli ministers Ben-Gvir and Smotrich",
-    "Why Washington is reducing visa processing across Africa",
-    "Israeli Knesset member backs settlement push in southern Syria",
-    "Man City chair Al Mubarak will ‘say everything’ after verdict on finances",
-    "‘Red meat is a dream’: Iran inflation hits highest level since World War II",
-    "At least 49 people die of thirst after truck breakdown in Niger desert",
-    "Barcelona teenager Lamine Yamal wins La Liga Player of the Season award",
-    "WHO, Africa CDC unveil $518m Ebola plan as Uganda death toll rises",
-    "WFP: War on Iran pushing millions towards hunger",
-    "NASA tells ISS astronauts to ready for possible evacuation amid leak repair",
-    "Are the US and Iran closer to war or to a deal?",
-    "Gaza, Iran, Lebanon: If ceasefires are in place, why do strikes continue?"
+    "Zverev cruises past Mensik to reach second French Open final"
   ],
   "sections": [
     {
@@ -31,21 +31,15 @@
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
-      "rows": [
-        {
-          "event": "Will Crude Oil reach a new all-time high by June 30?",
-          "odds": "+2464",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
+        {
+          "event": "Will both candidates advancing to the general election for Governor of California from the June 2, 2026 primary be affiliated with the Democratic Party?",
+          "odds": "+194",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Jocelyn Benson win the 2026 Michigan Governor Democratic primary election?",
           "odds": "-270",
@@ -61,12 +55,6 @@
         {
           "event": "Will the Labour Party win fewer than 30 seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
           "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will both candidates advancing to the general election for Governor of California from the June 2, 2026 primary be affiliated with the Democratic Party?",
-          "odds": "+143",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -95,14 +83,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Anthropic or OpenAI IPO first?",
-          "odds": "-316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the price of XRP be above $1.40 on June 11?",
-          "odds": "+2400",
+          "event": "Will Daniil Medvedev be the 2026 Men’s Wimbledon winner?",
+          "odds": "+3025",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -125,20 +107,26 @@
           "moved": "none"
         },
         {
-          "event": "Will Jannik Sinner win the 2026 Men's US Open?",
-          "odds": "+117",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "U.S. enacts AI safety bill before 2027?",
           "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Michael Olise win the 2026 Ballon d'Or?",
-          "odds": "+2677",
+          "event": "Will Bilibili Gaming make a roster change before July?",
+          "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Lucknow be 37°C on June 6?",
+          "odds": "+156",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Predict.fun FDV above $200M one day after launch?",
+          "odds": "-316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
