@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "06 de junio de 2026 — 20:57 UTC",
+  "lastUpdated": "06 de junio de 2026 — 22:02 UTC",
   "ticker": [
+    "Pentagon said to raise threat level on Israel spying to ‘critical’",
+    "Tunisians protest for press freedom and release of political prisoners",
+    "Cuba’s Raul Castro makes first public appearance since US charges",
+    "Rights group says drone strike kills 11 in central Sudan market",
     "US doctor recovers from Ebola in Germany as DRC cases surge to 488",
     "Video shows Israeli soldier and settlers assaulting two Palestinians",
     "Palestinian father buries baby killed by Israeli gunfire in West Bank",
@@ -11,11 +15,7 @@
     "100 days into the war on Iran, Trump fails to rally US support",
     "Which sub-Saharan Africa sides have best World Cup chance? Senegal, Ghana?",
     "Russian teenager Mirra Andreeva wins French Open to claim first Grand Slam",
-    "Activists disrupt German military exhibit over arms sales to Israel",
-    "Israeli attacks in Lebanon kill 12 people, including high-ranking soldiers",
-    "‘I’m a cockroach’: Gen Z protest movement lands in Indian capital",
-    "Videos show Kuwait intercepting ballistic missiles from Iran",
-    "Israeli attack on Gaza City tent camp kills at least seven"
+    "Activists disrupt German military exhibit over arms sales to Israel"
   ],
   "sections": [
     {
@@ -24,13 +24,31 @@
       "rows": [
         {
           "event": "US x Iran diplomatic meeting by June 15, 2026?",
-          "odds": "+1328",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Warsaw be 25°C on June 8?",
+          "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Korea Republic vs. Czechia: Both Teams to Score",
           "odds": "-104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $130 in June?",
+          "odds": "+2602",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -77,14 +95,20 @@
           "moved": "none"
         },
         {
+          "event": "Will the highest temperature in Houston be between 88-89°F on June 7?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Milwaukee Brewers vs. Athletics",
           "odds": "+100",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Busan be 27°C on June 7?",
-          "odds": "+629",
+          "event": "Will the highest temperature in Munich be 24°C on June 7?",
+          "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -103,12 +127,6 @@
         {
           "event": "Will Michael Olise win the 2026 Ballon d'Or?",
           "odds": "+2602",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Tesla, Inc. (TSLA) hit (LOW) $345 in June?",
-          "odds": "+316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
