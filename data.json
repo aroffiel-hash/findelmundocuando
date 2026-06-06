@@ -1,10 +1,12 @@
 {
-  "lastUpdated": "06 de junio de 2026 — 02:35 UTC",
+  "lastUpdated": "06 de junio de 2026 — 06:24 UTC",
   "ticker": [
+    "New York Knicks hold off San Antonio Spurs 105-104 for 2-0 NBA Finals lead",
+    "Israeli soldier shoots Palestinian baby dead near Hebron",
     "Arrests of critics in Ghana provokes alarm over free speech under Mahama",
     "Ronaldo joins Portugal training ahead of sixth World Cup appearance",
     "Gaza fishermen stay afloat with dinghies made from doorframes",
-    "Iran war live: US strikes Iranian radar sites; Kuwait comes under attack",
+    "Iran war live: Iranian missiles target Kuwait, Bahrain after US-Iran clash",
     "Trump makes pitch to farmers hard-hit by tariffs, high prices in Wisconsin",
     "Iran footballers issued US visas for World Cup, says White House",
     "Zelenskyy: Putin choosing war by rejecting offer for in-person talks",
@@ -13,9 +15,7 @@
     "‘Pervasive fear’ grips Gaza as Israeli attacks persist despite ceasefire",
     "France opens ‘war crimes’ probe into Israel’s treatment of Gaza activists",
     "Families clear rubble after overnight Israeli strikes in Gaza",
-    "Anthropic urges AI labs to pause, warns humans risk losing control",
-    "Judge strikes down Trump bar on asylum, visa processing for 39 countries",
-    "Is the latest US ceasefire deal for Lebanon meaningless?"
+    "Anthropic urges AI labs to pause, warns humans risk losing control"
   ],
   "sections": [
     {
@@ -30,7 +30,7 @@
         },
         {
           "event": "US x Iran diplomatic meeting by June 15, 2026?",
-          "odds": "+733",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -48,7 +48,13 @@
         },
         {
           "event": "Will Gerlando Alonge win the 2026 Agrigento mayoral election?",
-          "odds": "+138",
+          "odds": "+203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "UAE x Saudi Arabia sever diplomatic relations in 2026?",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -63,18 +69,6 @@
           "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "UAE x Saudi Arabia sever diplomatic relations in 2026?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Vicki Schmidt win the 2026 Kansas Governor Republican primary election?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -83,8 +77,20 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the highest temperature in Busan be 27°C on June 6?",
-          "odds": "-143",
+          "event": "Will GMGN launch a token by December 31, 2027?",
+          "odds": "-203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Milwaukee Brewers vs. Athletics",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "GPT-5.6 released by June 15, 2026?",
+          "odds": "+257",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -95,38 +101,26 @@
           "moved": "none"
         },
         {
-          "event": "GPT-5.6 released by June 15, 2026?",
-          "odds": "+233",
+          "event": "Predict.fun FDV above $200M one day after launch?",
+          "odds": "-300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Qingdao be 22°C on June 6?",
-          "odds": "+284",
+          "event": "Will the highest temperature in Sao Paulo be 22°C on June 6?",
+          "odds": "+244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Seattle Mariners vs. Detroit Tigers",
-          "odds": "-127",
+          "event": "Will the Bank of Brazil decrease the Selic rate after June 2026 meeting?",
+          "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will GMGN launch a token by December 31, 2027?",
-          "odds": "-212",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Silver (XAGUSD) hit (HIGH) $82 in June?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Xi Jinping out before 2027?",
-          "odds": "+1328",
+          "event": "Will Janeese Lewis George win the 2026 Democratic D.C. Mayoral Primary?",
+          "odds": "-566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
