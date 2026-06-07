@@ -1,10 +1,11 @@
 {
-  "lastUpdated": "07 de junio de 2026 — 13:26 UTC",
+  "lastUpdated": "07 de junio de 2026 — 13:28 UTC",
   "ticker": [
     "Ben-Gvir praises police on killing shooter in central Israel",
     "Russian drone strike damages site near Chornobyl nuclear plant",
     "World Cup 2026 in numbers: Key statistical goals, titles and age records",
     "FIFA U-turns on water bottle policy in US, Canada stadiums after backlash",
+    "Giant crowds greet Pope Leo at public mass in Madrid, Spain",
     "Los Angeles tiny homes move people off streets amid World Cup spotlight",
     "Armenians go to polls in test of PM’s pivot to Europe amid Russian pressure",
     "One killed, five wounded in shooting attack in Israel: Medics",
@@ -12,47 +13,127 @@
     "Israeli settlers threaten to kill Palestinian farmer and harass sheep",
     "An Eid celebration on a Gaza rooftop turns into a ‘horror movie’",
     "Kosovo votes again amid political deadlock, seeking EU and NATO progress",
-    "How have countries around the world responded to the US-Israel war on Iran?"
+    "How have countries around the world responded to the US-Israel war on Iran?",
+    "Hundred days of the US-Israel war on Iran",
+    "How the hosts are preparing for an Ebola outbreak during World Cup 2026"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "rows": [
+        {
+          "event": "T20 Blast: Somerset vs Warwickshire",
+          "odds": "-127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Counter-Strike: Bushido Wildcats vs VENOM ESPOR (BO3) - TESFED League Playoffs",
+          "odds": "-112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will S&P 500 (SPY) hit (HIGH) $810 in June?",
+          "odds": "+2280",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
           "event": "UAE x Saudi Arabia sever diplomatic relations in 2026?",
           "odds": "+1899",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Starmer say \"European Union\" during the next Prime Minister's Questions event?",
+          "odds": "+222",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Mauricio Macri win the 2027 Argentina presidential election?",
+          "odds": "+3025",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Vicki Schmidt win the 2026 Kansas Governor Republican primary election?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Labour Party win fewer than 30 seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇨🇳",
-      "label": "CHINA / PACÍFICO / COREA",
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
           "event": "Xi Jinping out before 2027?",
           "odds": "+1269",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
-      "rows": [
-        {
-          "event": "Will Trump praise Delcy Rodriguez by June 30?",
-          "odds": "+170",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Trump praise Gianni Infantino by June 30?",
-          "odds": "-376",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Milwaukee Brewers vs. Athletics",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump praise Delcy Rodriguez by June 30?",
+          "odds": "+170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "OpenAI IPO closing market cap above $800B?",
+          "odds": "-524",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Chicago Cubs win the 2026 World Series?",
+          "odds": "+2677",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Total Kills Over/Under 33.5 in Game 2?",
+          "odds": "+127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will United States win on 2026-06-25?",
+          "odds": "+163",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Michael Olise win the 2026 Ballon d'Or?",
+          "odds": "+2531",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
