@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "07 de junio de 2026 — 21:04 UTC",
+  "lastUpdated": "07 de junio de 2026 — 22:58 UTC",
   "ticker": [
+    "Iran’s attack on Israel aims to restore deterrence but avoid return to war",
+    "Videos show missiles launched from Iran into Israel",
+    "Celebrations seen in Tehran as missiles fly overhead towards Israel",
+    "Iran fires missiles at Israel after Beirut attack ‘crossed all red lines’",
     "Iran fires missiles at Israel after it attacked Beirut",
     "Iran losing patience with Israel and US over ceasefire violations",
     "Iranian World Cup excitement dulled by war and economic crisis",
@@ -11,11 +15,7 @@
     "Denmark’s Christian Eriksen collapses on football pitch during friendly",
     "Bolivia’s legislature passes law allowing use of troops against protesters",
     "Nigerian forces rescue 360 captives from Boko Haram",
-    "Trump says will not unfreeze Iranian assets before ceasefire deal reached",
-    "Police say two suspects have been shot and killed in Israel gun attack",
-    "Al Jazeera reports from Beirut after Israeli attack",
-    "People flood Madrid streets to see Pope Leo’s flower-carpeted procession",
-    "Authenticity is what American voters want"
+    "Trump says will not unfreeze Iranian assets before ceasefire deal reached"
   ],
   "sections": [
     {
@@ -23,8 +23,20 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Israel closes its airspace by June 30?",
-          "odds": "+127",
+          "event": "Denmark vs. Ukraine: O/U 4.5",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will WTI Crude Oil (WTI) hit (LOW) $85 in June?",
+          "odds": "-163",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -65,14 +77,14 @@
           "moved": "none"
         },
         {
-          "event": "OpenAI IPO closing market cap above $800B?",
-          "odds": "-488",
+          "event": "Will the lowest temperature in Miami be between 74-75°F on June 8?",
+          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Donald Trump post 140-159 Truth Social posts from June 9 to June 16, 2026?",
-          "odds": "+1011",
+          "event": "OpenAI IPO closing market cap above $800B?",
+          "odds": "-488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -83,26 +95,26 @@
           "moved": "none"
         },
         {
+          "event": "Tucuman: Karim Bennani vs Santiago Rodriguez Taverna",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Counter-Strike: KOLESIE vs ASTRAL (BO3) - NODWIN Clutch Series Group Stage",
+          "odds": "-149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Michael Olise win the 2026 Ballon d'Or?",
           "odds": "+1823",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will there be a run scored in the first inning?: New York Mets vs. San Diego Padres",
-          "odds": "-203",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "U.S. enacts AI safety bill before 2027?",
           "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the NY-08 House seat?",
-          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
