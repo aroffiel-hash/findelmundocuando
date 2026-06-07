@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "06 de junio de 2026 — 23:58 UTC",
+  "lastUpdated": "07 de junio de 2026 — 02:51 UTC",
   "ticker": [
+    "Protests grow in Albania against Trump-Kushner-linked resort",
+    "Iran war live: Israel kills Lebanon general, Pakistan urges end to war",
+    "Trump pardons former US Congress member accused of insider trading",
     "Pentagon said to raise threat level on Israel spying to ‘critical’",
     "Tunisians protest for press freedom and release of political prisoners",
     "Cuba’s Raul Castro makes first public appearance since US charges",
@@ -9,131 +12,59 @@
     "Video shows Israeli soldier and settlers assaulting two Palestinians",
     "Palestinian father buries baby killed by Israeli gunfire in West Bank",
     "Israeli attack on Gaza City tent camp kills several Palestinians",
-    "From first lady to president? Inside the rise of Peru’s Keiko Fujimori",
-    "‘Unacceptable situation’: Minister cries foul as Jamaica suffers blackout",
-    "Why are Armenia’s elections being so keenly watched abroad?",
-    "100 days into the war on Iran, Trump fails to rally US support",
-    "Which sub-Saharan Africa sides have best World Cup chance? Senegal, Ghana?",
-    "Russian teenager Mirra Andreeva wins French Open to claim first Grand Slam",
-    "Activists disrupt German military exhibit over arms sales to Israel"
+    "From first lady to president? Inside the rise of Peru’s Keiko Fujimori"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
-          "event": "Will Russia enter Vasylivka by July 31, 2026?",
-          "odds": "-170",
-          "params": "Fuente: Polymarket",
+          "event": "UAE x Saudi Arabia sever diplomatic relations in 2026?",
+          "odds": "+1899",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
           "event": "US x Iran diplomatic meeting by June 15, 2026?",
           "odds": "+1328",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
           "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "🇨🇳",
+      "label": "CHINA / PACÍFICO / COREA",
+      "rows": [
         {
-          "event": "Korea Republic vs. Czechia: Both Teams to Score",
-          "odds": "-104",
-          "params": "Fuente: Polymarket",
+          "event": "Xi Jinping out before 2027?",
+          "odds": "+1308",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
+      "rows": [
+        {
+          "event": "Trump declassifies new UFO files by June 30?",
+          "odds": "-163",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "label": "ECONOMÍA Y ENERGÍA",
       "rows": [
         {
           "event": "Will WTI Crude Oil (WTI) hit (HIGH) $130 in June?",
-          "odds": "+2602",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "UAE x Saudi Arabia sever diplomatic relations in 2026?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Maria Natale win the 2026 San Nicola La Strada mayoral election?",
-          "odds": "-809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Mauricio Macri win the 2027 Argentina presidential election?",
-          "odds": "+3025",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Labour Party win fewer than 30 seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Predict.fun FDV above $200M one day after launch?",
-          "odds": "-316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Milwaukee Brewers vs. Athletics",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party win the IA-03 House seat?",
-          "odds": "-185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Helsinki be 22°C on June 7?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Farés Ziam win by KO or TKO?",
-          "odds": "+244",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Xi Jinping out before 2027?",
-          "odds": "+1308",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "OpenAI IPO closing market cap above $800B?",
-          "odds": "-566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Chicago Cubs win the 2026 World Series?",
-          "odds": "+2602",
-          "params": "Fuente: Polymarket",
+          "odds": "+2464",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
           "moved": "none"
         }
       ]
