@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "07 de junio de 2026 — 17:08 UTC",
+  "lastUpdated": "07 de junio de 2026 — 19:12 UTC",
   "ticker": [
+    "Lawsuit seeks to stop Trump’s planned White House UFC match",
+    "Alexander Zverev wins French Open to claim first Grand Slam title",
+    "Denmark’s Christian Eriksen collapses during match with Ukraine",
+    "Bolivia’s legislature passes law allowing use of troops against protesters",
+    "Nigerian forces rescue 360 captives from Boko Haram",
     "Trump says will not unfreeze Iranian assets before ceasefire deal reached",
     "Police say two suspects have been shot and killed in Israel gun attack",
     "Al Jazeera reports from Beirut after Israeli attack",
@@ -10,12 +15,7 @@
     "Ronaldo, other ageing stars push limits to make history at World Cup 2026",
     "From online class to Revolution Square: A Tehran teacher’s routine amid war",
     "Iran’s World Cup squad lands in Mexico amid US visa row",
-    "Iran’s World Cup team arrives in Mexico as US visa row continues",
-    "Does Israel really think it can get rid of Hezbollah in Lebanon?",
-    "The Taiz transplant team looking to begin a medical revolution in Yemen",
-    "Peru polls open in Keiko Fujimori, Roberto Sanchez presidential run-off",
-    "Army frees 360 people abducted by Boko Haram in Nigeria’s Borno State",
-    "Israel kills nine in Gaza as Egypt hosts renewed ‘ceasefire’ talks"
+    "Iran’s World Cup team arrives in Mexico as US visa row continues"
   ],
   "sections": [
     {
@@ -23,14 +23,8 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "NATO x Russia military clash by June 30, 2026?",
-          "odds": "+3025",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: Denmark 1 - 0 Ukraine?",
-          "odds": "+3233",
+          "event": "Will Korea Republic win on 2026-06-11?",
+          "odds": "+170",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -41,20 +35,20 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
+          "event": "Will Eugen Tomac be the next Prime Minister of Romania?",
+          "odds": "-180",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Sánchez win the 2nd round of the 2026 Peru presidential election by 0–4%?",
+          "odds": "+212",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Starmer say \"European Union\" during the next Prime Minister's Questions event?",
           "odds": "+222",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Strong Armenia win the most seats in the 2026 Armenian National Assembly election?",
-          "odds": "+2172",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Nancy Mace win the 2026 South Carolina Governor Republican primary election?",
-          "odds": "+1786",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -78,13 +72,13 @@
       "rows": [
         {
           "event": "Xi Jinping out before 2027?",
-          "odds": "+1288",
+          "odds": "+1308",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "OpenAI IPO closing market cap above $800B?",
-          "odds": "-524",
+          "odds": "-488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -95,14 +89,20 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Shenzhen be 29°C on June 9?",
-          "odds": "+376",
+          "event": "Counter-Strike: G2 vs FUT Esports (BO3) - IEM Cologne Major Stage 2",
+          "odds": "+108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Michael Olise win the 2026 Ballon d'Or?",
           "odds": "+1823",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Counter-Strike: GenOne vs BIG Academy - Map 2 Winner",
+          "odds": "+244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -115,12 +115,6 @@
         {
           "event": "U.S. enacts AI safety bill before 2027?",
           "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Dallas be between 90-91°F on June 8?",
-          "odds": "+354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
