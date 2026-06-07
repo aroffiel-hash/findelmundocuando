@@ -1,103 +1,58 @@
 {
-  "lastUpdated": "07 de junio de 2026 — 11:03 UTC",
+  "lastUpdated": "07 de junio de 2026 — 13:26 UTC",
   "ticker": [
+    "Ben-Gvir praises police on killing shooter in central Israel",
+    "Russian drone strike damages site near Chornobyl nuclear plant",
+    "World Cup 2026 in numbers: Key statistical goals, titles and age records",
+    "FIFA U-turns on water bottle policy in US, Canada stadiums after backlash",
+    "Los Angeles tiny homes move people off streets amid World Cup spotlight",
+    "Armenians go to polls in test of PM’s pivot to Europe amid Russian pressure",
+    "One killed, five wounded in shooting attack in Israel: Medics",
+    "1 killed and 5 injured in Israel shootings",
+    "Israeli settlers threaten to kill Palestinian farmer and harass sheep",
     "An Eid celebration on a Gaza rooftop turns into a ‘horror movie’",
     "Kosovo votes again amid political deadlock, seeking EU and NATO progress",
-    "How have countries around the world responded to the US-Israel war on Iran?",
-    "100 days of the US–Israel war on Iran",
-    "How the hosts are preparing for an Ebola outbreak during World Cup 2026",
-    "Iran criticizes US refusal to grant visas for World Cup delegation",
-    "Who are the best star players to watch at World Cup 2026?",
-    "Massive human wave in Mexico ahead of World Cup 2026",
-    "The accomplishments of 100 days of war on Iran are undeniable",
-    "Iran after 100 days of war: The triumph of survival",
-    "Pakistan’s Naqvi visits Iran with ‘special letter’ for supreme leader",
-    "At least a dozen injured from shooting attack near Ohio festival",
-    "Lebanon army chief in Pakistan, funeral plans for soldiers killed by Israel",
-    "Messi sits out Argentina’s pre-World Cup friendly due to hamstring strain",
-    "Iran war day 100: US, Iran trade attacks again, raising tensions"
+    "How have countries around the world responded to the US-Israel war on Iran?"
   ],
   "sections": [
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
           "event": "UAE x Saudi Arabia sever diplomatic relations in 2026?",
           "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Mauricio Macri win the 2027 Argentina presidential election?",
-          "odds": "+3025",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Vicki Schmidt win the 2026 Kansas Governor Republican primary election?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Labour Party win fewer than 30 seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
+      "flag": "🇨🇳",
+      "label": "CHINA / PACÍFICO / COREA",
       "rows": [
         {
           "event": "Xi Jinping out before 2027?",
-          "odds": "+1288",
-          "params": "Fuente: Polymarket",
+          "odds": "+1269",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
+      "rows": [
+        {
+          "event": "Will Trump praise Delcy Rodriguez by June 30?",
+          "odds": "+170",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         },
         {
-          "event": "Milwaukee Brewers vs. Athletics",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "OpenAI IPO closing market cap above $800B?",
-          "odds": "-524",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Chicago Cubs win the 2026 World Series?",
-          "odds": "+2677",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Singapore be 30°C on June 9?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Total Kills Over/Under 33.5 in Game 2?",
-          "odds": "+127",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Seoul be 25°C on June 8?",
-          "odds": "+284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Michael Olise win the 2026 Ballon d'Or?",
-          "odds": "+2531",
-          "params": "Fuente: Polymarket",
+          "event": "Will Trump praise Gianni Infantino by June 30?",
+          "odds": "-376",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
