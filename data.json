@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "08 de junio de 2026 — 17:46 UTC",
+  "lastUpdated": "08 de junio de 2026 — 20:05 UTC",
   "ticker": [
+    "China’s Xi Jinping and North Korea’s Kim Jong Un meet in Pyongyang",
+    "Albanian PM Rama vows to push on with Kushner-linked luxury resort",
+    "Southern Philippines hit by 7.8-magnitude earthquake",
+    "NATO jets shoot down drone over Latvia, extending Ukraine spillover fears",
+    "US imposes restrictions on 100 Nicaraguan officials after activist’s death",
+    "Moment Israeli helicopter fires missile on Gaza City target",
+    "WHO chief lauds Uganda’s response to Ebola outbreak",
+    "Airline profits plummet as US fuel costs nearly double",
+    "UN watchdog, Western nations call on Iran to restart nuclear cooperation",
+    "FIFA World Cup: the politics and profits of the beautiful game",
+    "Nuclear risks rise as powers expand and modernise arsenals: SIPRI study",
+    "US judge strikes down Trump’s $100,000 H1-B visa fee",
+    "Race tied between left- and right-wing rivals in Peru’s presidential vote",
     "Three rescued, one killed in Russian drone strike on Ukraine block",
-    "7.8 magnitude earthquake leaves dozens dead in the Philippines",
-    "How Lebanon became the breaking point for the Iran war ceasefire",
-    "‘Strategic doctrine’: Iran hails military shift after Beirut raid response",
-    "Lebanon’s children face physical, psychological trauma amid Israel’s war",
-    "Lebanon Latest: Israel pushes deeper as conflict escalates",
-    "‘Lives turned in a second’: Family of baby Sam, shot dead by Israel, grieve",
-    "IAEA chief says Iran-US nuclear talks in ‘complicated phase’",
-    "Why was Israel spared scrutiny for the 1967 USS Liberty attack?",
-    "Meta to take legal action against Israeli spyware company NSO",
-    "How extreme weather and heat could affect players at World Cup 2026",
-    "Texas-bound jet crashes during emergency landing in Dominican Republic",
-    "Al Jazeera explains China-North Korea ties as Xi visits Pyongyang",
-    "At least 11 killed in Pakistan-administered Kashmir clashes before rally",
-    "The retaking of Cuba"
+    "7.8 magnitude earthquake leaves dozens dead in the Philippines"
   ],
   "sections": [
     {
@@ -37,6 +37,18 @@
       ]
     },
     {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "WTI Crude Oil (WTI) closes above $91 on June 8?",
+          "odds": "-300",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
@@ -49,6 +61,12 @@
         {
           "event": "Will Mauricio Macri win the 2027 Argentina presidential election?",
           "odds": "+3125",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Florentino Perez out as Real Madrid president by December 31, 2026?",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -77,32 +95,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the Chicago Cubs win the 2026 World Series?",
-          "odds": "+2677",
+          "event": "Will Egypt win on 2026-06-26?",
+          "odds": "+132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "OpenAI IPO closing market cap above $800B?",
           "odds": "-524",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in New York City be between 76-77°F on June 9?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Michael Olise win the 2026 Ballon d'Or?",
-          "odds": "+2602",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Egypt win on 2026-06-26?",
-          "odds": "+127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -119,8 +119,26 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Shenzhen be 29°C on June 10?",
-          "odds": "+270",
+          "event": "Will Hyperliquid HIP-3 open interest hit $4B in 2026?",
+          "odds": "-809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Uruguay win on 2026-06-15?",
+          "odds": "-212",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Gen.G Esports win the LCK 2026 season playoffs?",
+          "odds": "+149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "U.S. enacts AI safety bill before 2027?",
+          "odds": "+809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
