@@ -1,9 +1,10 @@
 {
-  "lastUpdated": "08 de junio de 2026 — 14:43 UTC",
+  "lastUpdated": "08 de junio de 2026 — 15:35 UTC",
   "ticker": [
+    "‘Lives turned in a second’: Family of baby Sam, shot dead by Israel, grieve",
+    "IAEA chief says Iran-US nuclear talks in ‘complicated phase’",
     "Why was Israel spared scrutiny for the 1967 USS Liberty attack?",
     "Meta to take legal action against Israeli spyware company NSO",
-    "How extreme weather and heat could affect players at World Cup 2026",
     "Texas-bound jet crashes during emergency landing in Dominican Republic",
     "Al Jazeera explains China-North Korea ties as Xi visits Pyongyang",
     "At least 11 killed in Pakistan-administered Kashmir clashes before rally",
@@ -11,123 +12,41 @@
     "North Korea needs China for survival: Why does Beijing need Pyongyang?",
     "Smoke rises in illegal Israeli settlement after Iranian missile attack",
     "Video: Israel claims strike on Iranian petrochemical complex",
-    "Which European nation has the best chance to win World Cup 2026?",
-    "Armenian PM Pashinyan declares victory in parliamentary elections",
-    "Could ex-ISIL fighters be used against Iran, as a Russian official claimed?",
-    "Ohio police drag away football pitch invader in pre-World Cup friendly",
-    "Iran official says US to blame for resumption of hostilities"
+    "Which European nation has the best chance to win World Cup 2026?"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
+        {
+          "event": "Spread: Saudi Arabia (-1.5)",
+          "odds": "+1011",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "moved": "none"
+        },
         {
           "event": "Will Israel and Lebanon hold a diplomatic meeting by June 30, 2026?",
           "odds": "-900",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
           "moved": "none"
         },
         {
           "event": "Will USD be between 1.6M and 1.7M Iranian rials on June 30?",
           "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Jim Schwartzel be the Republican nominee for FL-19?",
-          "odds": "+321",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
       "rows": [
         {
-          "event": "Will voter turnout be between 70% and 80% in the first round of the 2026 Zambian presidential elections?",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Mauricio Macri win the 2027 Argentina presidential election?",
-          "odds": "+3125",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Starmer say \"Mr. Speaker\" 20+ times during the next Prime Minister's Questions event?",
-          "odds": "-1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Hank Kroll advance from the 2026 Alaska Governor primary election?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Vicki Schmidt win the 2026 Kansas Governor Republican primary election?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will the Chicago Cubs win the 2026 World Series?",
-          "odds": "+2677",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "OpenAI IPO closing market cap above $800B?",
-          "odds": "-488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Michael Olise win the 2026 Ballon d'Or?",
-          "odds": "+2602",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Counter-Strike: The Last Resort vs GenOne - Map 1 Winner",
-          "odds": "-104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Adobe Q2 total ARR be above $27.0B?",
-          "odds": "+177",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Algeria win on 2026-06-27?",
-          "odds": "+233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Gen.G Esports win the LCK 2026 season playoffs?",
-          "odds": "+112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "U.S. enacts AI safety bill before 2027?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
+          "event": "Will \"Trump\" be said 10+ times during the first Joe Rogan Experience of the week of June 8?",
+          "odds": "+203",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
