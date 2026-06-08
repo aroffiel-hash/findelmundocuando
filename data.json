@@ -1,27 +1,39 @@
 {
-  "lastUpdated": "08 de junio de 2026 — 10:24 UTC",
+  "lastUpdated": "08 de junio de 2026 — 14:43 UTC",
   "ticker": [
-    "China’s Xi Jinping arrives in North Korea on rare state visit",
-    "Israel’s strikes on Iran expose Trump’s failure to restrain Netanyahu",
-    "Asia’s stock markets dive amid Iran-Israel conflict, Wall Street jitters",
-    "Ukraine, Russia trade fire as Zelenskyy allies back call for direct talks",
-    "New York stabbing, Kansas City shooting raise World Cup security concerns",
-    "Yemen’s Houthis declare ban on Israeli ships sailing the Red Sea",
-    "Magnitude 7.8 earthquake rocks southern Philippines",
-    "Ori Goldberg: Israel’s escalations threaten relationship with US",
-    "Perez re-elected at Real Madrid paving way for Mourinho’s return as manager",
-    "Israel and Iran exchange attacks as ceasefire falters",
-    "‘Homes turned into ovens’: Millions of Yemenis swelter amid heat, blackouts",
-    "Secret Service-level security for NBA Finals with Trump attending Game 3",
-    "What time are World Cup 2026 matches in my time zone?",
-    "How Lebanon and Iran’s war of words became backdrop for latest Israel war",
-    "Iran war day 101: Tensions escalate as Iran and Israel trade air attacks"
+    "Why was Israel spared scrutiny for the 1967 USS Liberty attack?",
+    "Meta to take legal action against Israeli spyware company NSO",
+    "How extreme weather and heat could affect players at World Cup 2026",
+    "Texas-bound jet crashes during emergency landing in Dominican Republic",
+    "Al Jazeera explains China-North Korea ties as Xi visits Pyongyang",
+    "At least 11 killed in Pakistan-administered Kashmir clashes before rally",
+    "The retaking of Cuba",
+    "North Korea needs China for survival: Why does Beijing need Pyongyang?",
+    "Smoke rises in illegal Israeli settlement after Iranian missile attack",
+    "Video: Israel claims strike on Iranian petrochemical complex",
+    "Which European nation has the best chance to win World Cup 2026?",
+    "Armenian PM Pashinyan declares victory in parliamentary elections",
+    "Could ex-ISIL fighters be used against Iran, as a Russian official claimed?",
+    "Ohio police drag away football pitch invader in pre-World Cup friendly",
+    "Iran official says US to blame for resumption of hostilities"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Will Israel and Lebanon hold a diplomatic meeting by June 30, 2026?",
+          "odds": "-900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will USD be between 1.6M and 1.7M Iranian rials on June 30?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Jim Schwartzel be the Republican nominee for FL-19?",
           "odds": "+321",
@@ -35,6 +47,18 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
+          "event": "Will voter turnout be between 70% and 80% in the first round of the 2026 Zambian presidential elections?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Mauricio Macri win the 2027 Argentina presidential election?",
+          "odds": "+3125",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Starmer say \"Mr. Speaker\" 20+ times during the next Prime Minister's Questions event?",
           "odds": "-1011",
           "params": "Fuente: Polymarket",
@@ -43,12 +67,6 @@
         {
           "event": "Will Hank Kroll advance from the 2026 Alaska Governor primary election?",
           "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Mauricio Macri win the 2027 Argentina presidential election?",
-          "odds": "+3125",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -65,8 +83,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Trump meets with Mojtaba Khamenei by December 31?",
-          "odds": "+1566",
+          "event": "Will the Chicago Cubs win the 2026 World Series?",
+          "odds": "+2677",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -77,38 +95,38 @@
           "moved": "none"
         },
         {
-          "event": "Will the Chicago Cubs win the 2026 World Series?",
-          "odds": "+2677",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Michael Olise win the 2026 Ballon d'Or?",
           "odds": "+2602",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Atlanta be between 84-85°F on June 9?",
-          "odds": "+334",
+          "event": "Counter-Strike: The Last Resort vs GenOne - Map 1 Winner",
+          "odds": "-104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Ankara be 25°C on June 9?",
+          "event": "Will Adobe Q2 total ARR be above $27.0B?",
+          "odds": "+177",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Algeria win on 2026-06-27?",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Gen.G Esports win the LCK 2026 season playoffs?",
+          "odds": "+112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "U.S. enacts AI safety bill before 2027?",
           "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Chongqing be 21°C or below on June 9?",
-          "odds": "+2027",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Qatar vs. Switzerland end in a draw?",
-          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
