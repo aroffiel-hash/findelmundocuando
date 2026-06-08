@@ -1,9 +1,12 @@
 {
-  "lastUpdated": "08 de junio de 2026 — 02:53 UTC",
+  "lastUpdated": "08 de junio de 2026 — 05:25 UTC",
   "ticker": [
+    "Satellite images show destruction of the US-Israel war on Iran",
+    "Debris reported in Jordan after Iranian missiles aimed at Israel intercepte",
+    "Peru’s Sanchez visits jailed ex-president as votes are counted",
     "How Mexican cartels turned South African farms into meth production hubs",
     "Oppenheimer: Trump holds the reins on Netanyahu’s escalation options",
-    "Powerful quake strikes Philippines, triggering tsunami alerts across Asia",
+    "Powerful earthquake hits Philippines, triggering tsunami alerts across Asia",
     "Iran and Israel trade threats after Tehran launches missiles",
     "Iran war live: Explosions in Tehran, Isfahan as Israel launches attacks",
     "North Korea’s Kim Jong Un inspects munitions at weapons factory",
@@ -16,31 +19,79 @@
   ],
   "sections": [
     {
-      "flag": "🇨🇳",
-      "label": "CHINA / PACÍFICO / COREA",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Xi Jinping out before 2027?",
-          "odds": "+1308",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Will Hank Kroll advance from the 2026 Alaska Governor primary election?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Mauricio Macri win the 2027 Argentina presidential election?",
+          "odds": "+3125",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Vicki Schmidt win the 2026 Kansas Governor Republican primary election?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Trump speak to Mohammed bin Salman in June?",
-          "odds": "-112",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "OpenAI IPO closing market cap above $800B?",
+          "odds": "-488",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Trump say \"Lion\" this week?",
-          "odds": "+1940",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Will the Chicago Cubs win the 2026 World Series?",
+          "odds": "+2677",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Michael Olise win the 2026 Ballon d'Or?",
+          "odds": "+1823",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Beijing be 24°C on June 9?",
+          "odds": "+1685",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Toronto be 23°C on June 8?",
+          "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "U.S. enacts AI safety bill before 2027?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the NY-08 House seat?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump speak to Mohammed bin Salman in June?",
+          "odds": "-104",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
