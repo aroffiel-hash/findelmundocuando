@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "09 de junio de 2026 — 08:27 UTC",
+  "lastUpdated": "09 de junio de 2026 — 11:55 UTC",
   "ticker": [
+    "Hundred days of Israel’s latest war on Lebanon",
+    "‘Historic’ wave of Palestinian solidarity grows at universities in Germany",
+    "Russian attacks kill 5 in Ukraine as Zelenskyy hails talks with US envoys",
+    "Are Ronaldo, Messi still the largest World Cup draws, or is Mbappe bigger?",
+    "Trump courts boos at historic New York NBA Finals appearance",
+    "Iran conflict: Why has oil stayed near $100 a barrel?",
+    "Iran says US has revoked World Cup ticket allocation for their supporters",
+    "Ranking the Middle East and North African teams at World Cup 2026",
+    "Indian crew rescued after attack on oil tanker off Oman",
+    "Deschamps backs hat-trick hero Olise to shine for France at World Cup",
+    "Protests erupt in Kenya over US Ebola quarantine centre in Nanyuki",
     "World Cup 2026: What time can fans in Europe, Middle East and Africa watch?",
     "‘They were laughing’: Israel’s use of rape and sexual abuse in prisons",
     "Trump says Iran deal in ‘final throes’",
-    "Spain cruise past Peru in final World Cup 2026 warm-up match",
-    "China’s Xi, North Korea’s Kim pledge to boost ties at rare Pyongyang summit",
-    "Iran war day 102: Trump warns Israel against new strikes as ceasefire holds",
-    "Wembanyama scores 32 as Spurs power past Knicks in Game 3 of NBA Finals",
-    "Palestine weekly wrap: Israel presses deeper into Gaza as Cairo talks begin",
-    "Iran’s lakes are vanishing: Satellite images show a deepening water crisis",
-    "Race to find survivors as Philippines quake toll rises to 37",
-    "Nuclear weapons spending surges to record high of $119bn, report says",
-    "‘As close as lips and teeth’: The highs and lows of China-North Korea ties",
-    "Two years after Israel’s Nuseirat ‘rescue’ success, we are still bleeding",
-    "India’s fertility rate falls below replacement level: Why it matters",
-    "Ebola death toll in DR Congo climbs to 101"
+    "Spain cruise past Peru in final World Cup 2026 warm-up match"
   ],
   "sections": [
     {
@@ -23,8 +23,8 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Trump and Putin meet next in China?",
-          "odds": "+376",
+          "event": "Will Avigdor Lieberman be the next Prime Minister of Israel?",
+          "odds": "+2172",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -35,8 +35,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Avigdor Lieberman be the next Prime Minister of Israel?",
-          "odds": "+1751",
+          "event": "Israel withdraws from Lebanon by July 31, 2026?",
+          "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -53,6 +53,18 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
+          "event": "RCA Zemamra vs. UnionTouargaSports: Both Teams to Score",
+          "odds": "+117",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "WTI Crude Oil (WTI) closes above $96 on June 9?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Minnesota Lynx vs. Las Vegas Aces",
           "odds": "+100",
           "params": "Fuente: Polymarket",
@@ -65,20 +77,8 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Vicki Schmidt win the 2026 Kansas Governor Republican primary election?",
-          "odds": "+2841",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Pamela Evette win the first round of the 2026 South Carolina Governor Republican primary election?",
-          "odds": "-455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Florentino Perez out as Real Madrid president by December 31, 2026?",
-          "odds": "+1415",
+          "odds": "+1438",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -95,18 +95,6 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the highest temperature in Cape Town be 20°C on June 10?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Tunisia win on 2026-06-25?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Stuttgart Open (Doubles): Cabral/Mektic vs Hidalgo/Trhac",
           "odds": "+100",
           "params": "Fuente: Polymarket",
@@ -115,12 +103,6 @@
         {
           "event": "Will Donald Trump post 140-159 Truth Social posts from June 9 to June 16, 2026?",
           "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Meta (META) Up or Down on June 9?",
-          "odds": "-163",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -139,6 +121,24 @@
         {
           "event": "Aligned FDV above $20M one day after launch?",
           "odds": "-880",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Gen.G Esports win the LCK 2026 season playoffs?",
+          "odds": "+122",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Ilkley: Taylah Preston vs Harmony Tan",
+          "odds": "-112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Atlanta be between 86-87°F on June 10?",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
