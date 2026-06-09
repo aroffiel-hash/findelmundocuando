@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "09 de junio de 2026 — 14:32 UTC",
+  "lastUpdated": "09 de junio de 2026 — 14:35 UTC",
   "ticker": [
     "Deadly protests in Pakistan-administered Kashmir: What’s going on?",
     "Modi is using a cannon to kill a cockroach",
@@ -12,71 +12,128 @@
     "Mamdani scores goal at World Cup presser",
     "Video captures Russian attack in Ukraine’s Zaporizhzhia",
     "Italy’s foreign minister slams Israel’s Ben-Gvir over ‘flip-flop’ comments",
-    "Israel attacks Tyre in Lebanon, tells all residents to leave"
+    "New video of great white shark in Mediterranean goes viral",
+    "Israel attacks Tyre in Lebanon, tells all residents to leave",
+    "Trump booed ‘thunderously’ at NBA Finals: What we know",
+    "Hundred days of Israel’s latest war on Lebanon"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Spread: Saudi Arabia (-1.5)",
-          "odds": "+1011",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
-          "moved": "none"
-        },
-        {
-          "event": "Will Saudi Arabia finish last in Group H in the 2026 FIFA World Cup Group Stage?",
-          "odds": "+117",
-          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
-          "moved": "none"
-        },
         {
           "event": "Israel withdraws from Lebanon by July 31, 2026?",
           "odds": "+733",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Avigdor Lieberman be the next Prime Minister of Israel?",
           "odds": "+2122",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: Korea Republic 0 - 0 Czechia?",
+          "odds": "+754",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "RCA Zemamra vs. UnionTouargaSports: Both Teams to Score",
+          "odds": "+117",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Minnesota Lynx vs. Las Vegas Aces",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
           "event": "Will Trump’s approval rating be between 38.0 and 38.4 on June 12, 2026?",
           "odds": "-143",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Donald Trump publicly insult Pope Leo XIV by June 30, 2026?",
-          "odds": "+669",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Florentino Perez out as Real Madrid president by December 31, 2026?",
+          "odds": "+1438",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Andy Biggs win the 2026 Arizona Governor Republican primary election?",
+          "odds": "-2677",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will Elon Musk post 180-199 tweets from June 5 to June 12, 2026?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Stuttgart Open (Doubles): Cabral/Mektic vs Hidalgo/Trhac",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Denver be between 88-89°F on June 9?",
+          "odds": "+426",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Donald Trump post 140-159 Truth Social posts from June 9 to June 16, 2026?",
           "odds": "+669",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Adobe Q2 total ARR be above $27.0B?",
+          "odds": "+177",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "SpaceX IPO closing market cap above $2T?",
+          "odds": "-163",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Donald Trump post 160-179 Truth Social posts from June 9 to June 16, 2026?",
           "odds": "+669",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Trump meet with Luiz Inácio Lula da Silva in June 2026?",
-          "odds": "-334",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Will Gen.G Esports win the LCK 2026 season playoffs?",
+          "odds": "+122",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
