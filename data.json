@@ -1,139 +1,94 @@
 {
-  "lastUpdated": "09 de junio de 2026 — 23:14 UTC",
+  "lastUpdated": "10 de junio de 2026 — 02:44 UTC",
   "ticker": [
+    "Belfast plunged into chaos as vehicles set ablaze following stabbing attack",
+    "South Korea’s booming stock market mints generation of novice investors",
+    "Brazil intercepts 108 Cuban immigrants amid growing asylum applications",
+    "Iran war live: Tehran says US fleet targeted in Bahrain after US strikes",
+    "US military launches ‘self-defence strikes’ targeting Iran",
+    "Afghan authorities open fire on protesters over women’s dress code",
+    "US judge halts execution by nitrogen gas, ruling it unconstitutional",
     "Mississippi residents sue Musk’s xAI and SpaceX over data centre ‘nuisance’",
     "Deadly protests in Pakistan-administered Kashmir: What’s going on?",
     "Trump vows retaliation after claiming Iran shot down Apache helicopter",
     "Israeli forces kill nine in Tyre after issuing forced displacement orders",
-    "Canada confirms opening of Gordie Howe Bridge, despite Trump’s threats",
-    "Bear captured after days of panic and school closures in Japan",
-    "Iran conflict: Why has oil stayed near $100 a barrel?",
-    "What will the fallout be from the unrest in Pakistan-administered Kashmir?",
-    "Why so many Americans haven’t heard about the USS Liberty",
-    "NASA announces astronauts for Artemis III spaceflight, scheduled for 2027",
-    "Israel preventing more than 16,500 Palestinians from accessing medical treatment",
-    "‘Anything but normal’: Uncertainty as Iranians try to get by amid US war",
-    "Palestinians confront Israeli settlers over land grab near Hebron",
-    "Mexico prepares for World Cup opening match amid protests",
-    "After Nagorno-Karabakh, Armenians vote for peace over nationalism"
+    "Canada confirms opening of Gordie Howe Bridge, despite Trump’s threats"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
-          "event": "Will Avigdor Lieberman be the next Prime Minister of Israel?",
-          "odds": "+2122",
-          "params": "Fuente: Polymarket",
+          "event": "Spread: Saudi Arabia (-1.5)",
+          "odds": "+1011",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
-          "event": "Will NIKE Q4 Greater China revenue be above $1.0B?",
-          "odds": "-1899",
-          "params": "Fuente: Polymarket",
+          "event": "Will Avigdor Lieberman be the next Prime Minister of Israel?",
+          "odds": "+2073",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
           "moved": "none"
         },
         {
           "event": "Will USD be between 1.6M and 1.7M Iranian rials on June 30?",
           "odds": "+900",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇨🇳",
+      "label": "CHINA / PACÍFICO / COREA",
+      "rows": [
+        {
+          "event": "Will NIKE Q4 Greater China revenue be above $1.0B?",
+          "odds": "-1899",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
+      "rows": [
+        {
+          "event": "Will Trump sell 1k-2.5k Gold Cards in 2026?",
+          "odds": "+3233",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump praise Dana White by June 30?",
+          "odds": "-900",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "label": "ECONOMÍA Y ENERGÍA",
       "rows": [
         {
-          "event": "Will Crude Oil (CL) hit (HIGH) $115 by end of June?",
-          "odds": "+1134",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Minnesota Lynx vs. Las Vegas Aces",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
+          "event": "Will Crude Oil (CL) hit (HIGH) $130 by end of June?",
+          "odds": "+3125",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
         {
-          "event": "Florentino Perez out as Real Madrid president by December 31, 2026?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Keir Starmer be a candidate in the next Labour Party leadership election?",
-          "odds": "+127",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Andy Biggs win the 2026 Arizona Governor Republican primary election?",
-          "odds": "-2677",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Stuttgart Open (Doubles): Cabral/Mektic vs Hidalgo/Trhac",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Elon Musk post 260-279 tweets from June 9 to June 16, 2026?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Kuala Lumpur be 33°C on June 10?",
-          "odds": "+170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Adobe Q2 total ARR be above $27.0B?",
-          "odds": "+177",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Gen.G Esports win the LCK 2026 season playoffs?",
-          "odds": "+138",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Aligned FDV above $20M one day after launch?",
-          "odds": "-880",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Tread FDV above $200M one day after launch",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Counter-Strike: FURIA vs B8 (BO3) - IEM Cologne Major Stage 3",
-          "odds": "-270",
-          "params": "Fuente: Polymarket",
+          "event": "Will the Democratic Union of Hungarians in Romania (UDMR) be included in the next Romanian government?",
+          "odds": "-138",
+          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
