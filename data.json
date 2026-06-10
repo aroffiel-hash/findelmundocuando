@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "10 de junio de 2026 — 21:23 UTC",
+  "lastUpdated": "10 de junio de 2026 — 23:20 UTC",
   "ticker": [
+    "Trial begins for man accused of sparking Palisades Fire in California",
+    "Canada introduces bill to ban social media for children under 16",
+    "Ronaldo misses big chances in Portugal’s World Cup warmup win over Nigeria",
+    "‘Negotiate with bombs’: Hegseth defends second night of US strikes on Iran",
+    "Trump directs interim US intelligence chief Bill Pulte to downsize agency",
     "Israel kills 16 in Lebanon, UN to probe international law violations",
     "Hero’s welcome for Omar Artan after Somali’s World Cup dreams dashed",
     "Gwyneth Paltrow’s Israeli real estate ad goes viral",
@@ -10,12 +15,7 @@
     "Israeli strike on a car kills two in Sidon, Lebanon",
     "Trump: “we’re working… to make sure the right people come in”",
     "Bill Gates testifies in closed-door US House meeting over Epstein ties",
-    "Why Lebanon remains caught up in the Israel-Iran conflict",
-    "Iran says it will ‘not hesitate’ to defend itself after latest clashes",
-    "After a Democrat standoff, Trump signs $70bn immigration enforcement bill",
-    "Trump warns of more attacks on Iran after US Apache helicopter downing",
-    "US military chief Hegseth warns Cuba against acquiring military arms",
-    "UK PM Starmer slams ‘unjustified’ anti-immigration violence in Belfast"
+    "Why Lebanon remains caught up in the Israel-Iran conflict"
   ],
   "sections": [
     {
@@ -23,20 +23,14 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Avigdor Lieberman be the next Prime Minister of Israel?",
-          "odds": "+2172",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will NIKE Q4 Greater China revenue be above $1.0B?",
           "odds": "-1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Iran close its airspace by July 31?",
-          "odds": "-488",
+          "event": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
+          "odds": "+149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -71,12 +65,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Andy Biggs win the 2026 Arizona Governor Republican primary election?",
-          "odds": "-3125",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the Democratic Union of Hungarians in Romania (UDMR) be included in the next Romanian government?",
           "odds": "-138",
           "params": "Fuente: Polymarket",
@@ -88,6 +76,24 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
+        {
+          "event": "Will the highest temperature in Helsinki be 18°C on June 11?",
+          "odds": "+138",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Wuhan be 32°C on June 11?",
+          "odds": "+284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Munich be 18°C or higher on June 12?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Gen.G Esports win the LCK 2026 season playoffs?",
           "odds": "+112",
@@ -107,32 +113,14 @@
           "moved": "none"
         },
         {
+          "event": "Will the highest temperature in Shenzhen be 29°C on June 11?",
+          "odds": "+170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "KBO: Doosan Bears vs. Kia Tigers",
           "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Aligned FDV above $20M one day after launch?",
-          "odds": "-880",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: Mexico 2 - 2 South Africa?",
-          "odds": "+2339",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "U.S. enacts AI safety bill before 2027?",
-          "odds": "+316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Chicago be between 86-87°F on June 11?",
-          "odds": "+203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
