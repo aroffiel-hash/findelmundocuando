@@ -1,145 +1,88 @@
 {
-  "lastUpdated": "10 de junio de 2026 — 11:33 UTC",
+  "lastUpdated": "10 de junio de 2026 — 15:00 UTC",
   "ticker": [
-    "Why has Belfast erupted in anti-immigrant violence after a knife attack?",
-    "Who pays for a supersized World Cup?",
-    "Graham Platner wins Maine primary election: Results and key takeaways",
-    "A four-year-old’s recovery from the trauma of war in Lebanon",
-    "Why is the FIFA World Cup 2026 being held in three countries?",
-    "Iran fires missiles at US bases carrying images of killed commanders",
-    "India’s Bengal pushes out Muslim Bangladeshis, deepening religious tensions",
-    "Argentina World Cup 2026 preview: Players to watch, group matches and squad",
-    "Anti-immigration protests break out in Belfast after knife attack",
-    "Rising from the rubble: A Gaza tech incubator defies Israel’s war",
-    "Spidercam crashes onto pitch during Hungary match",
-    "Twelve killed in Johannesburg mass shooting, manhunt under way",
-    "Baltic states fear Russia-Ukraine war spillover after drone incursions",
-    "FIFA World Cup 2026 explained in maps and charts",
-    "Explosion in Bahrain as Iran attacks US bases"
+    "What are Lebanon’s most important political parties?",
+    "Eight red cards shown to Brazil in fiery friendly against US women",
+    "US bombs Iran’s water facilities: Why that’s so significant",
+    "West Bank ethnic cleansing, settler attacks Israel’s state policy: Amnesty",
+    "7-month-old baby shot by Israeli soldier in Hebron",
+    "Ukraine-made ‘Flamingo’ missile hits target 900 km inside Russia",
+    "Pakistan military helicopter crashes in Kashmir, all on board killed",
+    "Kashmiri rights activist wins partial court victory but remains behind bars",
+    "Hero’s welcome for Somali referee denied entry to US World Cup tournament",
+    "Netanyahu caught between the US, Lebanon war, and Iran ceasefire",
+    "Apache down, fighting up: What the latest US-Iran attacks mean",
+    "Satellite images show Israel’s destruction of historical city of Tyre"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
           "event": "Will Avigdor Lieberman be the next Prime Minister of Israel?",
           "odds": "+2172",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
           "moved": "none"
         },
+        {
+          "event": "Will Qatar win on 2026-06-13?",
+          "odds": "+1512",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
+      "rows": [
         {
           "event": "Will JD Vance attend NATO Summit?",
           "odds": "+669",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
           "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "🇨🇳",
+      "label": "CHINA / PACÍFICO / COREA",
+      "rows": [
         {
           "event": "Will NIKE Q4 Greater China revenue be above $1.0B?",
           "odds": "-1899",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
       "rows": [
         {
-          "event": "Minnesota Lynx vs. Las Vegas Aces",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
+          "event": "Will Trump praise Dana White by June 30?",
+          "odds": "-900",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump sell 1k-2.5k Gold Cards in 2026?",
+          "odds": "+3233",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
-        {
-          "event": "Florentino Perez out as Real Madrid president by December 31, 2026?",
-          "odds": "+1539",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Keir Starmer be a candidate in the next Labour Party leadership election?",
-          "odds": "+127",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Andy Biggs win the 2026 Arizona Governor Republican primary election?",
-          "odds": "-3024",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Julie Gonzales be the Democratic nominee for Senate in Colorado?",
-          "odds": "+1062",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will the Democratic Union of Hungarians in Romania (UDMR) be included in the next Romanian government?",
           "odds": "-138",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will the highest temperature in Ankara be 28°C on June 11?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Taipei be 27°C on June 11?",
-          "odds": "+257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Tread FDV above $200M one day after launch",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Gen.G Esports win the LCK 2026 season playoffs?",
-          "odds": "+138",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Arcium launch a token by June 30, 2026?",
-          "odds": "-669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Adobe Q2 total ARR be above $27.0B?",
-          "odds": "+177",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "KBO: Doosan Bears vs. Kia Tigers",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Aligned FDV above $20M one day after launch?",
-          "odds": "-880",
-          "params": "Fuente: Polymarket",
+          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
