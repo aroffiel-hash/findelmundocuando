@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "10 de junio de 2026 — 15:00 UTC",
+  "lastUpdated": "10 de junio de 2026 — 15:19 UTC",
   "ticker": [
-    "What are Lebanon’s most important political parties?",
     "Eight red cards shown to Brazil in fiery friendly against US women",
     "US bombs Iran’s water facilities: Why that’s so significant",
+    "Mexico vs South Africa: World Cup group match – teams, start and lineups",
     "West Bank ethnic cleansing, settler attacks Israel’s state policy: Amnesty",
     "7-month-old baby shot by Israeli soldier in Hebron",
     "Ukraine-made ‘Flamingo’ missile hits target 900 km inside Russia",
@@ -12,77 +12,146 @@
     "Hero’s welcome for Somali referee denied entry to US World Cup tournament",
     "Netanyahu caught between the US, Lebanon war, and Iran ceasefire",
     "Apache down, fighting up: What the latest US-Iran attacks mean",
-    "Satellite images show Israel’s destruction of historical city of Tyre"
+    "Satellite images show Israel’s destruction of historical city of Tyre",
+    "What’s happening at the World Cup one day before tournament starts?",
+    "Why has Belfast erupted in anti-immigrant violence after a knife attack?",
+    "Who pays for a supersized World Cup?"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Will Avigdor Lieberman be the next Prime Minister of Israel?",
           "odds": "+2172",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
-        {
-          "event": "Will Qatar win on 2026-06-13?",
-          "odds": "+1512",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
-      "rows": [
         {
           "event": "Will JD Vance attend NATO Summit?",
           "odds": "+669",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇨🇳",
-      "label": "CHINA / PACÍFICO / COREA",
-      "rows": [
-        {
-          "event": "Will NIKE Q4 Greater China revenue be above $1.0B?",
-          "odds": "-1899",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
-      "rows": [
-        {
-          "event": "Will Trump praise Dana White by June 30?",
-          "odds": "-900",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Trump sell 1k-2.5k Gold Cards in 2026?",
+          "event": "Will NIKE Q4 Greater China revenue be above $1.0B?",
+          "odds": "-1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Warsaw be 14°C on June 11?",
           "odds": "+3233",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Rainbow Six Siege: PSYKN Company vs Weibo Gaming (BO1) - Asia Pacific League Asia - Stage 1 Group Stage",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Korea Republic vs. Czechia: O/U 0.5",
+          "odds": "-1011",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
+        {
+          "event": "Will S&P 500 (SPX) hit $6,300 (LOW) in June?",
+          "odds": "+2531",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Natural Gas (NG) hit (HIGH) $3.80 in June?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Keir Starmer be a candidate in the next Labour Party leadership election?",
+          "odds": "+127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Andy Biggs win the 2026 Arizona Governor Republican primary election?",
+          "odds": "-3024",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the Democratic Union of Hungarians in Romania (UDMR) be included in the next Romanian government?",
           "odds": "-138",
-          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will the highest temperature in Austin be between 94-95°F on June 10?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Moscow be 31°C on June 12?",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Tread FDV above $200M one day after launch",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Gen.G Esports win the LCK 2026 season playoffs?",
+          "odds": "+138",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Adobe Q2 total ARR be above $27.0B?",
+          "odds": "+177",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "KBO: Doosan Bears vs. Kia Tigers",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will France win on 2026-06-22?",
+          "odds": "-669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Morocco win on 2026-06-13?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
