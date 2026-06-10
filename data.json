@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "10 de junio de 2026 — 02:48 UTC",
+  "lastUpdated": "10 de junio de 2026 — 07:04 UTC",
   "ticker": [
+    "Prediction platform Kalshi to collect job details to combat insider trading",
+    "Platner wins Maine Democratic Senate primary, vows to oust Collins",
+    "Trita Parsi: Iran is pursuing a doctrine of swift retaliation",
+    "Pope Leo welcomed in Barcelona with traditional Catalan human tower",
+    "Afghanistan says Pakistan air raids killed 13 people, including children",
+    "UN report: Israeli forces shield settlers during attacks on Palestinians",
+    "Jordan intercepts Iranian missiles over its airspace",
+    "Somalia criticises US decision to bar World Cup referee",
+    "Air Canada pilot accused of flying for 17 years without proper licence",
+    "Bolivia approves military measures against nationwide protests",
+    "Iran attacks Bahrain, Kuwait, Jordan in retaliation for US strikes",
     "Protesters torch cars, buildings in Belfast after knife attack",
     "Belfast plunged into chaos as vehicles set ablaze following stabbing attack",
     "South Korea’s booming stock market mints generation of novice investors",
-    "Brazil intercepts 108 Cuban immigrants amid growing asylum applications",
-    "Iran war live: Tehran says US fleet targeted in Bahrain after US strikes",
-    "US military launches ‘self-defence strikes’ targeting Iran",
-    "Afghan authorities open fire on protesters over women’s dress code",
-    "US judge halts execution by nitrogen gas, ruling it unconstitutional",
-    "Mississippi residents sue Musk’s xAI and SpaceX over data centre ‘nuisance’",
-    "Deadly protests in Pakistan-administered Kashmir: What’s going on?",
-    "Trump vows retaliation after claiming Iran shot down Apache helicopter",
-    "Israeli forces kill nine in Tyre after issuing forced displacement orders",
-    "Canada confirms opening of Gordie Howe Bridge, despite Trump’s threats",
-    "Bear captured after days of panic and school closures in Japan",
-    "Iran conflict: Why has oil stayed near $100 a barrel?"
+    "Brazil intercepts 108 Cuban immigrants amid growing asylum applications"
   ],
   "sections": [
     {
@@ -33,12 +33,6 @@
           "odds": "-1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will USD be between 1.6M and 1.7M Iranian rials on June 30?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -47,8 +41,8 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will S&P 500 (SPY) hit (LOW) $680 in June?",
-          "odds": "+614",
+          "event": "Will Crude Oil (CL) hit (HIGH) $130 by end of June?",
+          "odds": "+2280",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -61,12 +55,6 @@
         {
           "event": "Minnesota Lynx vs. Las Vegas Aces",
           "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Crude Oil (CL) hit (HIGH) $130 by end of June?",
-          "odds": "+3125",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -107,32 +95,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "KBO: Kia Tigers vs. Hanwha Eagles",
-          "odds": "+117",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Stuttgart Open (Doubles): Cabral/Mektic vs Hidalgo/Trhac",
           "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Gen.G Esports win the LCK 2026 season playoffs?",
-          "odds": "+117",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Adobe Q2 total ARR be above $27.0B?",
-          "odds": "+177",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Aligned FDV above $20M one day after launch?",
-          "odds": "-880",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -143,14 +107,38 @@
           "moved": "none"
         },
         {
-          "event": "U.S. enacts AI safety bill before 2027?",
-          "odds": "+426",
+          "event": "Will Gen.G Esports win the LCK 2026 season playoffs?",
+          "odds": "+112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the Republican Party win the NY-08 House seat?",
-          "odds": "+1566",
+          "event": "Will Adobe Q2 total ARR be above $27.0B?",
+          "odds": "+177",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "KBO: Doosan Bears vs. Kia Tigers",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Aligned FDV above $20M one day after launch?",
+          "odds": "-880",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will there be at least 2150 measles cases in the U.S. by June 30, 2026?",
+          "odds": "+149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "U.S. enacts AI safety bill before 2027?",
+          "odds": "+426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
