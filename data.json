@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "10 de junio de 2026 — 07:04 UTC",
+  "lastUpdated": "10 de junio de 2026 — 11:33 UTC",
   "ticker": [
-    "Prediction platform Kalshi to collect job details to combat insider trading",
-    "Platner wins Maine Democratic Senate primary, vows to oust Collins",
-    "Trita Parsi: Iran is pursuing a doctrine of swift retaliation",
-    "Pope Leo welcomed in Barcelona with traditional Catalan human tower",
-    "Afghanistan says Pakistan air raids killed 13 people, including children",
-    "UN report: Israeli forces shield settlers during attacks on Palestinians",
-    "Jordan intercepts Iranian missiles over its airspace",
-    "Somalia criticises US decision to bar World Cup referee",
-    "Air Canada pilot accused of flying for 17 years without proper licence",
-    "Bolivia approves military measures against nationwide protests",
-    "Iran attacks Bahrain, Kuwait, Jordan in retaliation for US strikes",
-    "Protesters torch cars, buildings in Belfast after knife attack",
-    "Belfast plunged into chaos as vehicles set ablaze following stabbing attack",
-    "South Korea’s booming stock market mints generation of novice investors",
-    "Brazil intercepts 108 Cuban immigrants amid growing asylum applications"
+    "Why has Belfast erupted in anti-immigrant violence after a knife attack?",
+    "Who pays for a supersized World Cup?",
+    "Graham Platner wins Maine primary election: Results and key takeaways",
+    "A four-year-old’s recovery from the trauma of war in Lebanon",
+    "Why is the FIFA World Cup 2026 being held in three countries?",
+    "Iran fires missiles at US bases carrying images of killed commanders",
+    "India’s Bengal pushes out Muslim Bangladeshis, deepening religious tensions",
+    "Argentina World Cup 2026 preview: Players to watch, group matches and squad",
+    "Anti-immigration protests break out in Belfast after knife attack",
+    "Rising from the rubble: A Gaza tech incubator defies Israel’s war",
+    "Spidercam crashes onto pitch during Hungary match",
+    "Twelve killed in Johannesburg mass shooting, manhunt under way",
+    "Baltic states fear Russia-Ukraine war spillover after drone incursions",
+    "FIFA World Cup 2026 explained in maps and charts",
+    "Explosion in Bahrain as Iran attacks US bases"
   ],
   "sections": [
     {
@@ -24,7 +24,13 @@
       "rows": [
         {
           "event": "Will Avigdor Lieberman be the next Prime Minister of Israel?",
-          "odds": "+2073",
+          "odds": "+2172",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will JD Vance attend NATO Summit?",
+          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -40,18 +46,6 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
-        {
-          "event": "Will Crude Oil (CL) hit (HIGH) $130 by end of June?",
-          "odds": "+2280",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will S&P 500 (SPY) hit (LOW) $720 Week of June 8 2026?",
-          "odds": "+284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Minnesota Lynx vs. Las Vegas Aces",
           "odds": "+100",
@@ -78,7 +72,13 @@
         },
         {
           "event": "Will Andy Biggs win the 2026 Arizona Governor Republican primary election?",
-          "odds": "-2677",
+          "odds": "-3024",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Julie Gonzales be the Democratic nominee for Senate in Colorado?",
+          "odds": "+1062",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -95,8 +95,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Stuttgart Open (Doubles): Cabral/Mektic vs Hidalgo/Trhac",
-          "odds": "+100",
+          "event": "Will the highest temperature in Ankara be 28°C on June 11?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Taipei be 27°C on June 11?",
+          "odds": "+257",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -108,7 +114,13 @@
         },
         {
           "event": "Will Gen.G Esports win the LCK 2026 season playoffs?",
-          "odds": "+112",
+          "odds": "+138",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Arcium launch a token by June 30, 2026?",
+          "odds": "-669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -127,18 +139,6 @@
         {
           "event": "Aligned FDV above $20M one day after launch?",
           "odds": "-880",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will there be at least 2150 measles cases in the U.S. by June 30, 2026?",
-          "odds": "+149",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "U.S. enacts AI safety bill before 2027?",
-          "odds": "+426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
