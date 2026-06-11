@@ -1,115 +1,64 @@
 {
-  "lastUpdated": "11 de junio de 2026 — 12:38 UTC",
+  "lastUpdated": "11 de junio de 2026 — 15:41 UTC",
   "ticker": [
-    "Did US sneak 100 million barrels of oil out of Hormuz, as Trump claims?",
-    "Massive Neymar mural unveiled on Brazil street",
-    "Embattled Palestinian president of Oxford Union: ‘I’m not resigning’",
-    "India says US hit another ship off Oman, confirms 3 dead in separate attack",
-    "Top five ‘must-watch’ matches of the group stage at World Cup 2026",
-    "The university must not become a supply chain for AI",
-    "Ethiopia must not be dragged back into war",
-    "Britain’s defence ⁠minister Healey quits over defence spending",
-    "Video shows Gaza teen fisherman before Israeli forces killed him at sea",
-    "117.8 Million fled their homes worldwide: Lebanon’s shelter crisis worsens",
-    "Detained Gaza doctor Hussam Abu Safia shows signs of torture, family says",
-    "Lebanon: Life in Tripoli as War Displaces Over a Million",
-    "Iran says 18 targets hit across US bases, Strait of Hormuz closed",
-    "India’s workers are training AI robots to take their jobs",
-    "Mexico’s historic Azteca Stadium to kickoff World Cup opener: All to know"
+    "Firefighters on scene at Pentagon during ‘hazardous materials incident’",
+    "Trailer: Israel’s Darkest Weapon | Al Jazeera Originals",
+    "Trump says US will ‘be taking’ Kharg Island in latest Iran war threat",
+    "Israel’s Darkest Weapon | Al Jazeera Originals",
+    "Somali referee banned by US to officiate European Super Cup, UEFA says",
+    "I saw Kushner’s Albania resort up close — it is an environmental disaster",
+    "Argentina fans denied US visas get free TVs to watch World Cup",
+    "World chess body suspends Russia over activities in occupied-Ukraine",
+    "Palestine Action activists could face UK ‘terror’ sentences: What we know",
+    "Iran shuts Hormuz strait: But wasn’t it already closed?",
+    "‘Dignity has no passport’: Pope makes appeal for migrants in Canary Islands",
+    "At least 22 killed as Pakistani military helicopter crashes in Kashmir"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
+      "rows": [
+        {
+          "event": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
+          "odds": "+170",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
       "rows": [
         {
           "event": "Will Russia capture all of Kupiansk by December 31?",
           "odds": "+525",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
           "moved": "none"
-        },
-        {
-          "event": "Will Israel and Lebanon hold a diplomatic meeting by June 30, 2026?",
-          "odds": "-614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
-          "odds": "+156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "🇨🇳",
+      "label": "CHINA / PACÍFICO / COREA",
+      "rows": [
         {
           "event": "Will NIKE Q4 Greater China revenue be above $1.0B?",
           "odds": "-1899",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
       "rows": [
         {
-          "event": "Will S&P 500 (SPX) hit $6,300 (LOW) in June?",
-          "odds": "+2531",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Flávio Bolsonaro charged or arrested by September 30?",
-          "odds": "+143",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will DeepSeek have a #1 AI model by December 31, 2026?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Gen.G Esports win the LCK 2026 season playoffs?",
-          "odds": "+170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "WTT - Men's Singles: Maharu Yoshimura vs Vladimir Sidorenko",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Elon Musk win his case against Sam Altman?",
-          "odds": "+2930",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Adobe Q2 total ARR be above $27.0B?",
-          "odds": "+177",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "KBO: Doosan Bears vs. Kia Tigers",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Aligned FDV above $20M one day after launch?",
-          "odds": "-880",
-          "params": "Fuente: Polymarket",
+          "event": "Will Trump sell 1k-2.5k Gold Cards in 2026?",
+          "odds": "+2841",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
