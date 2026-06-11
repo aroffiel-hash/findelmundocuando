@@ -1,27 +1,33 @@
 {
-  "lastUpdated": "11 de junio de 2026 — 02:58 UTC",
+  "lastUpdated": "11 de junio de 2026 — 08:05 UTC",
   "ticker": [
-    "Which World Cup teams, players and officials were denied US visas, entry?",
-    "Nigerian migrants flee South Africa after spike in xenophobic protests",
-    "Iran announces closure of Strait of Hormuz following US strikes",
-    "FIFA boss tells critics to ‘relax’ over Somali referee deportation",
-    "Maasai women turn drought into income through fodder farming in Tanzania",
-    "Mexico braces for celebrations, protests as World Cup opens amid tensions",
-    "Iran war live: Tehran targets Bahrain, Kuwaiti bases after new US strikes",
-    "Iran attacks Bahrain, Kuwait and ships in Hormuz after new US strikes",
-    "Trump’s claim of escorting oil through Hormuz won’t ease crisis",
-    "Hegseth: Guantanamo Bay prisoners ‘should have been executed’",
-    "Trial begins for man accused of sparking Palisades Fire in California",
-    "Canada introduces bill to ban social media for children under 16",
-    "Ronaldo misses big chances in Portugal’s World Cup warmup win over Nigeria",
-    "‘Negotiate with bombs’: Hegseth defends second night of US strikes on Iran",
-    "Trump directs interim US intelligence chief Bill Pulte to downsize agency"
+    "UN watchdog demands Iran provide information on nuclear stockpile",
+    "Bodies of Evidence: Sexual violence in Israeli prisons",
+    "US releases video of warship firing missiles in strikes on Iran",
+    "World Cup 2026: Full match schedule, groups, teams and start times",
+    "How much heat does an AI data centre produce, and where are they located?",
+    "FIFA World Cup 2026: Haiti forced to change kit over war imagery",
+    "Thailand court sentences two men to death for 2015 Bangkok bombing",
+    "Iran war day 104: Iran attacks US bases, closes strait after Trump strikes",
+    "Why India’s deadly dengue crisis is now no longer confined to the monsoons",
+    "Knicks one win away from NBA title after record comeback against Spurs",
+    "Bolivian farmers clash with police as ex-president vows resistance",
+    "Thousands rally in Albania in largest protest yet against Kushner resort",
+    "Funerals held after deadly Pakistani strikes in Afghanistan",
+    "South Korea fines Coupang $408m over biggest data leak in country’s history",
+    "Anti-immigrant protesters clash with police, torch car at Belfast rally"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Will Russia capture all of Kupiansk by December 31?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will NIKE Q4 Greater China revenue be above $1.0B?",
           "odds": "-1899",
@@ -30,7 +36,7 @@
         },
         {
           "event": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
-          "odds": "+156",
+          "odds": "+170",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -55,36 +61,24 @@
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will the Democratic Union of Hungarians in Romania (UDMR) be included in the next Romanian government?",
-          "odds": "-138",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Ilkley: Tristan Schoolkate vs Oliver Tarvet",
+          "odds": "-127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Gen.G Esports win the LCK 2026 season playoffs?",
-          "odds": "+143",
+          "odds": "+117",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "WTT - Men's Singles: Maharu Yoshimura vs Vladimir Sidorenko",
           "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Tread FDV above $200M one day after launch",
-          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
