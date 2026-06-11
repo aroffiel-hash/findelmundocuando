@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "11 de junio de 2026 — 02:54 UTC",
+  "lastUpdated": "11 de junio de 2026 — 02:58 UTC",
   "ticker": [
     "Which World Cup teams, players and officials were denied US visas, entry?",
     "Nigerian migrants flee South Africa after spike in xenophobic protests",
@@ -12,53 +12,110 @@
     "Trump’s claim of escorting oil through Hormuz won’t ease crisis",
     "Hegseth: Guantanamo Bay prisoners ‘should have been executed’",
     "Trial begins for man accused of sparking Palisades Fire in California",
-    "Canada introduces bill to ban social media for children under 16"
+    "Canada introduces bill to ban social media for children under 16",
+    "Ronaldo misses big chances in Portugal’s World Cup warmup win over Nigeria",
+    "‘Negotiate with bombs’: Hegseth defends second night of US strikes on Iran",
+    "Trump directs interim US intelligence chief Bill Pulte to downsize agency"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
-      "rows": [
-        {
-          "event": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
-          "odds": "+156",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇨🇳",
-      "label": "CHINA / PACÍFICO / COREA",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Will NIKE Q4 Greater China revenue be above $1.0B?",
           "odds": "-1899",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
+          "odds": "+156",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will Trump sell 1k-2.5k Gold Cards in 2026?",
-          "odds": "+2841",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Will S&P 500 (SPY) hit (HIGH) $750 Week of June 8 2026?",
+          "odds": "+1370",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will S&P 500 (SPX) hit $6,300 (LOW) in June?",
+          "odds": "+2531",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
           "event": "Will the Democratic Union of Hungarians in Romania (UDMR) be included in the next Romanian government?",
           "odds": "-138",
-          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will Gen.G Esports win the LCK 2026 season playoffs?",
+          "odds": "+143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "WTT - Men's Singles: Maharu Yoshimura vs Vladimir Sidorenko",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Tread FDV above $200M one day after launch",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Adobe Q2 total ARR be above $27.0B?",
+          "odds": "+177",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "KBO: Doosan Bears vs. Kia Tigers",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Aligned FDV above $20M one day after launch?",
+          "odds": "-880",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "U.S. enacts AI safety bill before 2027?",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the DFM Real Estate Index hit 14,000 in 2026?",
+          "odds": "+222",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
