@@ -1,127 +1,64 @@
 {
-  "lastUpdated": "10 de junio de 2026 — 23:20 UTC",
+  "lastUpdated": "11 de junio de 2026 — 02:54 UTC",
   "ticker": [
+    "Which World Cup teams, players and officials were denied US visas, entry?",
+    "Nigerian migrants flee South Africa after spike in xenophobic protests",
+    "Iran announces closure of Strait of Hormuz following US strikes",
+    "FIFA boss tells critics to ‘relax’ over Somali referee deportation",
+    "Maasai women turn drought into income through fodder farming in Tanzania",
+    "Mexico braces for celebrations, protests as World Cup opens amid tensions",
+    "Iran war live: Tehran targets Bahrain, Kuwaiti bases after new US strikes",
+    "Iran attacks Bahrain, Kuwait and ships in Hormuz after new US strikes",
+    "Trump’s claim of escorting oil through Hormuz won’t ease crisis",
+    "Hegseth: Guantanamo Bay prisoners ‘should have been executed’",
     "Trial begins for man accused of sparking Palisades Fire in California",
-    "Canada introduces bill to ban social media for children under 16",
-    "Ronaldo misses big chances in Portugal’s World Cup warmup win over Nigeria",
-    "‘Negotiate with bombs’: Hegseth defends second night of US strikes on Iran",
-    "Trump directs interim US intelligence chief Bill Pulte to downsize agency",
-    "Israel kills 16 in Lebanon, UN to probe international law violations",
-    "Hero’s welcome for Omar Artan after Somali’s World Cup dreams dashed",
-    "Gwyneth Paltrow’s Israeli real estate ad goes viral",
-    "First image in months emerges of Dr. Hussam Abu Safia",
-    "‘I love the inflation’ US President Trump dismisses price concerns",
-    "India summons US envoy over attack on ship carrying Indian sailors off Oman",
-    "Israeli strike on a car kills two in Sidon, Lebanon",
-    "Trump: “we’re working… to make sure the right people come in”",
-    "Bill Gates testifies in closed-door US House meeting over Epstein ties",
-    "Why Lebanon remains caught up in the Israel-Iran conflict"
+    "Canada introduces bill to ban social media for children under 16"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
+      "rows": [
+        {
+          "event": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
+          "odds": "+156",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇨🇳",
+      "label": "CHINA / PACÍFICO / COREA",
       "rows": [
         {
           "event": "Will NIKE Q4 Greater China revenue be above $1.0B?",
           "odds": "-1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
-          "odds": "+149",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
       "rows": [
         {
-          "event": "Will S&P 500 (SPX) hit $6,300 (LOW) in June?",
-          "odds": "+2531",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Natural Gas (NG) hit (HIGH) $3.80 in June?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
+          "event": "Will Trump sell 1k-2.5k Gold Cards in 2026?",
+          "odds": "+2841",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
-        {
-          "event": "Will Keir Starmer be a candidate in the next Labour Party leadership election?",
-          "odds": "+127",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will the Democratic Union of Hungarians in Romania (UDMR) be included in the next Romanian government?",
           "odds": "-138",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will the highest temperature in Helsinki be 18°C on June 11?",
-          "odds": "+138",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Wuhan be 32°C on June 11?",
-          "odds": "+284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Munich be 18°C or higher on June 12?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Gen.G Esports win the LCK 2026 season playoffs?",
-          "odds": "+112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Tread FDV above $200M one day after launch",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Adobe Q2 total ARR be above $27.0B?",
-          "odds": "+177",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Shenzhen be 29°C on June 11?",
-          "odds": "+170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "KBO: Doosan Bears vs. Kia Tigers",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
+          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
