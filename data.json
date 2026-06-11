@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "11 de junio de 2026 — 19:29 UTC",
+  "lastUpdated": "11 de junio de 2026 — 21:55 UTC",
   "ticker": [
-    "Jose Mourinho named Real Madrid coach on three-year deal",
-    "Musk’s Grok accused of violating Canadian privacy laws on deepfakes",
-    "Israeli government mulling huge funding to expand West Bank settlement: NGO",
-    "Toronto police officer shot while investigating attack on US consulate",
-    "Two sentenced to death in Bangkok bombing",
-    "Pope Leo tells migrants: ‘I bow before your dignity’",
-    "Drone strikes on central Sudanese city kill up to 23: NGO",
-    "Property deeds no protection for Palestinians as settler violence spreads",
-    "US-Iran war to pull global economy to post-COVID low: World Bank",
-    "Gold is now the top reserve asset. Is dollar dominance at risk?",
-    "Stephen Miller’s War",
-    "Bahrain releases footage of damage caused by intercepted Iranian drones",
-    "Lebanon Latest: Ceasefire talks continue under fire",
-    "All clear given at Pentagon following after ‘hazardous materials’ alert",
-    "Trailer: Israel’s Darkest Weapon | Al Jazeera Originals"
+    "Man pleads guilty to slaying top Democrat and her husband in Minnesota",
+    "Jimenez and Quinones net as Mexico beat South Africa in World Cup opener",
+    "World Cup mania at Mexico’s Zocalo Square",
+    "What happened, and who performed at the World Cup 2026 opening ceremony?",
+    "How puppets are helping women and children in Gaza cope with trauma",
+    "Minister condemns ‘racist thuggery’ as violence returns to Northern Ireland",
+    "Israel releases Hamas co-founder after two years in detention",
+    "Trump administration sanctions Cuba’s national oil company, blasts Castros",
+    "Mexico City dazzles as World Cup 2026 kicks off in style",
+    "Trump to pick US attorney Jay Clayton for director of national intelligence",
+    "Israel deports French journalist accused of supporting Hamas",
+    "China bars Philippines defence chief as South China Sea spat sails onwards",
+    "How a Kushner-linked resort sparked protests across Albania",
+    "What is the Amal Movement, Lebanon’s other Shia party?",
+    "Jose Mourinho named Real Madrid coach on three-year deal"
   ],
   "sections": [
     {
@@ -23,20 +23,44 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
+          "event": "US x Iran permanent peace deal by December 31, 2026?",
+          "odds": "-270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will NIKE Q4 Greater China revenue be above $1.0B?",
           "odds": "-1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Ukraine recapture Crimean territory by December 31, 2026?",
-          "odds": "+900",
+          "event": "Korea Republic to score first vs. Czechia?",
+          "odds": "+104",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
         {
-          "event": "US x Iran permanent peace deal by December 31, 2026?",
-          "odds": "-284",
+          "event": "Will S&P 500 (SPY) hit (HIGH) $790 in June?",
+          "odds": "+3025",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Mike Collins be the Republican nominee for Senate in Georgia?",
+          "odds": "-1269",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -65,12 +89,6 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Beijing be 27°C or below on June 13?",
-          "odds": "-244",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Flávio Bolsonaro charged or arrested by September 30?",
           "odds": "+143",
           "params": "Fuente: Polymarket",
@@ -83,14 +101,20 @@
           "moved": "none"
         },
         {
-          "event": "Will Spotify reach 1 billion total users in 2026?",
-          "odds": "+1011",
+          "event": "HYPE Up or Down on June 12?",
+          "odds": "-112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Pump.fun reach $0.0042 by December 31, 2026?",
           "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "WTT - Men's Singles: Maharu Yoshimura vs Vladimir Sidorenko",
+          "odds": "+100",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
