@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "12 de junio de 2026 — 20:00 UTC",
+  "lastUpdated": "12 de junio de 2026 — 22:19 UTC",
   "ticker": [
+    "Bosnia, Canada share points in hard-fought draw at World Cup",
+    "Mother sues OpenAI in US after daughter’s death linked to ChatGPT use",
+    "Judge keeps order in place to remove Trump’s name from Kennedy Center",
+    "UAE to unlock frozen Iranian funds amid US ceasefire push",
+    "EU agrees launch of accession process for Ukraine and Moldova",
+    "World Cup fans express excitement and share their predictions",
+    "Will there be a deal to end the Iran war this time?",
+    "Pope warns people smugglers they face God’s wrath",
+    "New York City catches World Cup fever amid transit chaos, high costs",
+    "USA vs Paraguay live: World Cup 2026",
+    "US Congressman says Trump won’t send loads of money to Iran",
+    "Clashes break out at DRC rally against presidential term-limit change",
     "Putin admits Ukraine attacks hitting Russian economy, society",
-    "UK court jails Palestinian Action activists on ‘terrorism’ charges",
-    "Can Pakistan push the US-Iran deal over the finish line?",
-    "How the Gulf will manage collective security after the Iran war ends",
-    "Sam Bankman-Fried loses appeal to overturn fraud convictions and prison",
-    "US judge refuses to block Trump’s White House UFC fight",
-    "Venezuela hits out at Trinidad and Tobago in oil spill spat",
-    "India’s West Bengal pushes out Muslim Bangladeshis",
-    "UN adopts treaty setting standards for gig economy workers",
-    "At least one killed and nine hospitalised in Midland, Texas shooting",
-    "Musk becomes first trillionaire as SpaceX debuts on Nasdaq",
-    "Amnesty calls for Israel boycott over aggression in the occupied West Bank",
-    "Fire rips through the world’s biggest refugee camp in Bangladesh",
-    "Iran: No timeline yet for signing US deal",
-    "US to cut air and naval assets deployed for NATO operations in Europe"
+    "UK court jails Palestine Action activists on ‘terrorism’ charges",
+    "Can Pakistan push the US-Iran deal over the finish line?"
   ],
   "sections": [
     {
@@ -33,12 +33,6 @@
           "odds": "-1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will the Bank of Korea make no change to the base rate after the July Meeting?",
-          "odds": "+284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -49,6 +43,12 @@
         {
           "event": "Will S&P 500 (SPY) hit (LOW) $690 in June?",
           "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "WTI Crude Oil (WTI) closes above $94 on June 12?",
+          "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -77,14 +77,26 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Will Tunisia vs. Netherlands end in a draw?",
+          "odds": "+354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: Brazil 1 - 0 Morocco?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Elon post \"IPO\" on X this week?",
           "odds": "-104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will OpenAI have the best AI model at the end of June 2026?",
-          "odds": "+3233",
+          "event": "Will the highest temperature in Ankara be 22°C on June 14?",
+          "odds": "+194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -95,8 +107,8 @@
           "moved": "none"
         },
         {
-          "event": "Lyon (Doubles): Isaro/Poonacha vs Mansouri/Neuchrist",
-          "odds": "+108",
+          "event": "San Diego Padres vs. Baltimore Orioles",
+          "odds": "+112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -107,20 +119,8 @@
           "moved": "none"
         },
         {
-          "event": "U.S. enacts AI safety bill before 2027?",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Aligned FDV above $20M one day after launch?",
-          "odds": "-880",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Marquinhos be in Brazil's Starting 11?",
-          "odds": "-1328",
+          "event": "Will Ollie Watkins be in England's Starting 11?",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
