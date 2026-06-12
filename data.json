@@ -1,121 +1,46 @@
 {
-  "lastUpdated": "12 de junio de 2026 — 11:39 UTC",
+  "lastUpdated": "12 de junio de 2026 — 14:42 UTC",
   "ticker": [
-    "Nigeria killed more than 13,000 ‘terrorists’ in past year, president says",
-    "Riots, violence, hate: Anti-immigrant unrest spells danger in Belfast",
-    "New Zealand great Kane Williamson retires from international cricket",
-    "Iraq’s paramilitary groups say they will disarm. Will that ever happen?",
-    "Family mourn Indian sailor killed in US strike on oil tanker",
-    "‘Torture isn’t new to Palestinians’: How Israel learned from colonialism",
-    "USA vs Paraguay: World Cup 2026 group match – Trump, schedule, lineups",
-    "Is Israel’s ‘buffer zone’ inside Lebanon an attempt to grab gas reserves?",
-    "Video: What Iran’s football fans think about the World Cup",
-    "China arrests US researcher it says is suspected of ‘spying’",
-    "One in 17 children is working: Here are the industries driving child labour",
-    "World Cup 2026 opening day takeaways: Red cards, VAR and hydration breaks",
-    "Air India crash: Grieving families say justice remains elusive a year later",
-    "Three killed as Ukraine and Russia exchange cross-border attacks",
-    "US-Iran ceasefire? Not for Indian sailors being killed in Hormuz"
+    "Ukraine reclaims territory as it doubles attacks on Russian logistics",
+    "Indonesian students protest gov’t policies amid economic strain",
+    "Video: AI models predict World Cup results",
+    "Backlash after US actor Jerry Seinfeld says Palestine ‘doesn’t exist’",
+    "Are Iran, US really close to a breakthrough ‘deal’?",
+    "London mayor slams event touting illegal Israeli settlement land sales",
+    "Renowned British artist David Hockney dies aged 88",
+    "Thai Princess Bajrakitiyabha dies after years in coma",
+    "Violence escalates in Israel amid ultra-Orthodox military draft protests",
+    "One injured as Israel hits southern Lebanon with air raids, artillery",
+    "A year after Air India crash killed 260: Do we know what happened?",
+    "France-Germany jet plans crash: Can Europe end reliance on US for security?"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "🇨🇳",
+      "label": "CHINA / PACÍFICO / COREA",
       "rows": [
-        {
-          "event": "Will Warsh say \"Maximum Employment\" during June Press Conference?",
-          "odds": "-117",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will NIKE Q4 Greater China revenue be above $1.0B?",
           "odds": "-1899",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
       "rows": [
         {
-          "event": "No change in Bank of England’s interest rates after July 2026 meeting?",
-          "odds": "-376",
-          "params": "Fuente: Polymarket",
+          "event": "Will Trump sell 1k-2.5k Gold Cards in 2026?",
+          "odds": "+2841",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         },
         {
-          "event": "Will S&P 500 (SPY) hit (LOW) $690 in June?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will Mike Collins be the Republican nominee for Senate in Georgia?",
-          "odds": "-1539",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will Yerry Mina be in Colombia's Starting 11?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in San Francisco be between 80-81°F on June 13?",
-          "odds": "+986",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Pump.fun reach $0.0042 by December 31, 2026?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Brazil vs. Morocco end in a draw?",
-          "odds": "+300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Elon Musk win his case against Sam Altman?",
-          "odds": "+2930",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Tel Aviv be 30°C on June 14?",
-          "odds": "+194",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the DFM Real Estate Index hit 14,000 in 2026?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Singapore be 34°C on June 14?",
-          "odds": "+1349",
-          "params": "Fuente: Polymarket",
+          "event": "Will Donald Trump post 100-119 Truth Social posts from June 9 to June 16, 2026?",
+          "odds": "+244",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
