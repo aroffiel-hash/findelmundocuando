@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "12 de junio de 2026 — 17:34 UTC",
+  "lastUpdated": "12 de junio de 2026 — 20:00 UTC",
   "ticker": [
-    "US judge extends block on Trump’s $1.8bn ‘anti-weaponisation’ fund",
-    "Pakistan says ‘final, agreed upon’ text of Iran war ceasefire deal reached",
-    "Pro-Russian opposition party calls for Armenian election result annulment",
-    "USA vs Paraguay: World Cup fever grips Los Angeles despite Trump policies",
-    "SpaceX IPO debuts in US markets, Musk becomes world’s first trillionaire",
-    "Alarm as Ebola spreads into new areas of DR Congo",
-    "Activists form human Palestine flag at World Cup opener in Mexico City",
-    "Archaeologists find ancient female-led society in Turkiye",
-    "Why Mo Amer jokes to survive",
-    "‘Dishonorable’: Trump says leaked Iran ceasefire terms fake",
-    "Ukraine reclaims territory as it doubles attacks on Russian logistics",
-    "Indonesian students protest gov’t policies amid economic strain",
-    "Video: AI models predict World Cup results",
-    "Backlash after US actor Jerry Seinfeld says Palestine ‘doesn’t exist’",
-    "Are Iran, US really close to a breakthrough ‘deal’?"
+    "Putin admits Ukraine attacks hitting Russian economy, society",
+    "UK court jails Palestinian Action activists on ‘terrorism’ charges",
+    "Can Pakistan push the US-Iran deal over the finish line?",
+    "How the Gulf will manage collective security after the Iran war ends",
+    "Sam Bankman-Fried loses appeal to overturn fraud convictions and prison",
+    "US judge refuses to block Trump’s White House UFC fight",
+    "Venezuela hits out at Trinidad and Tobago in oil spill spat",
+    "India’s West Bengal pushes out Muslim Bangladeshis",
+    "UN adopts treaty setting standards for gig economy workers",
+    "At least one killed and nine hospitalised in Midland, Texas shooting",
+    "Musk becomes first trillionaire as SpaceX debuts on Nasdaq",
+    "Amnesty calls for Israel boycott over aggression in the occupied West Bank",
+    "Fire rips through the world’s biggest refugee camp in Bangladesh",
+    "Iran: No timeline yet for signing US deal",
+    "US to cut air and naval assets deployed for NATO operations in Europe"
   ],
   "sections": [
     {
@@ -77,8 +77,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the highest temperature in New York City be between 94-95°F on June 12?",
-          "odds": "-127",
+          "event": "Will Elon post \"IPO\" on X this week?",
+          "odds": "-104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will OpenAI have the best AI model at the end of June 2026?",
+          "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -89,14 +95,8 @@
           "moved": "none"
         },
         {
-          "event": "Will John Vanderlaan finish in the Top 5 at the 2026 RBC Canadian Open?",
-          "odds": "+286",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Team Vitality win Valorant Masters London 2026?",
-          "odds": "+614",
+          "event": "Lyon (Doubles): Isaro/Poonacha vs Mansouri/Neuchrist",
+          "odds": "+108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -119,8 +119,8 @@
           "moved": "none"
         },
         {
-          "event": "Will OpenAI have the best AI model at the end of June 2026?",
-          "odds": "+3233",
+          "event": "Will Marquinhos be in Brazil's Starting 11?",
+          "odds": "-1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
