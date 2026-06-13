@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "13 de junio de 2026 — 00:15 UTC",
+  "lastUpdated": "13 de junio de 2026 — 02:43 UTC",
   "ticker": [
+    "Thomas Partey denied entry into Canada, will miss Ghana’s World Cup opener",
+    "Iran war live: US, Tehran signal peace deal within reach but not signed yet",
     "Palestine football chief says he wasn’t granted US visa to attend World Cup",
     "Bosnia, Canada share points in hard-fought draw at World Cup",
     "Mother sues OpenAI in US after daughter’s death linked to ChatGPT use",
@@ -10,112 +12,53 @@
     "World Cup fans express excitement and share their predictions",
     "Will there be a deal to end the Iran war this time?",
     "Pope warns people smugglers they face God’s wrath",
-    "New York City catches World Cup fever amid transit chaos, high costs",
-    "LIVE: USA vs Paraguay – World Cup 2026",
-    "US Congressman says Trump won’t send loads of money to Iran",
-    "Clashes break out at DRC rally against presidential term-limit change",
-    "Putin admits Ukraine attacks hitting Russian economy, society",
-    "UK court jails Palestine Action activists on ‘terrorism’ charges"
+    "New York City catches World Cup fever amid transit chaos, high costs"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
           "event": "Will USD fall to 1.6M Iranian rials by June 30?",
           "odds": "+426",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
           "moved": "none"
         },
+        {
+          "event": "Will Iran win Group G in the 2026 FIFA World Cup?",
+          "odds": "+740",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇨🇳",
+      "label": "CHINA / PACÍFICO / COREA",
+      "rows": [
         {
           "event": "Will NIKE Q4 Greater China revenue be above $1.0B?",
           "odds": "-1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Warsaw be 15°C on June 14?",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
       "rows": [
         {
-          "event": "Will S&P 500 (SPY) hit (LOW) $690 in June?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will Mike Collins be the Republican nominee for Senate in Georgia?",
-          "odds": "-1539",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will Tunisia vs. Netherlands end in a draw?",
-          "odds": "+354",
-          "params": "Fuente: Polymarket",
+          "event": "Will Donald Trump publicly insult someone on June 17, 2026?",
+          "odds": "-1566",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Shanghai be 26°C on June 14?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "ITF Kayseri: Haydar Cem Gokpinar vs Maxwell Mckennon",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Busan be 26°C on June 14?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will \"The Witness\" be the top US Netflix show this week?",
-          "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Elon post \"IPO\" on X this week?",
-          "odds": "-104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Pump.fun reach $0.0042 by December 31, 2026?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "LoL: Team WE vs Bilibili Gaming - Game 3 Winner",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
+          "event": "Will Trump sell 1k-2.5k Gold Cards in 2026?",
+          "odds": "+2841",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
