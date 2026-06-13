@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "13 de junio de 2026 — 02:43 UTC",
+  "lastUpdated": "13 de junio de 2026 — 05:16 UTC",
   "ticker": [
+    "Older runners defy age in Kenya’s central highlands",
+    "UK court jails Palestine Action activists on ‘terrorism’ charges",
+    "Canada World Cup opener splits Bosnian fans among two ‘home nations’",
+    "Canada and Bosnia fight out historic World Cup opener",
+    "USA hit Paraguay for four in dream start to their World Cup campaign",
+    "World Cup kicks off in US as Katy Perry, Future headline opening ceremony",
     "Thomas Partey denied entry into Canada, will miss Ghana’s World Cup opener",
     "Iran war live: US, Tehran signal peace deal within reach but not signed yet",
     "Palestine football chief says he wasn’t granted US visa to attend World Cup",
@@ -9,56 +15,95 @@
     "Judge keeps order in place to remove Trump’s name from Kennedy Center",
     "UAE to unlock frozen Iranian funds amid US ceasefire push: Sources",
     "EU agrees launch of accession process for Ukraine and Moldova",
-    "World Cup fans express excitement and share their predictions",
-    "Will there be a deal to end the Iran war this time?",
-    "Pope warns people smugglers they face God’s wrath",
-    "New York City catches World Cup fever amid transit chaos, high costs"
+    "World Cup fans express excitement and share their predictions"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Will USD fall to 1.6M Iranian rials by June 30?",
           "odds": "+426",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Iran win Group G in the 2026 FIFA World Cup?",
-          "odds": "+740",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇨🇳",
-      "label": "CHINA / PACÍFICO / COREA",
-      "rows": [
-        {
           "event": "Will NIKE Q4 Greater China revenue be above $1.0B?",
           "odds": "-1899",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Donald Trump publicly insult someone on June 17, 2026?",
-          "odds": "-1566",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Will Heather Doran win the 2026 Arbroath and Broughty Ferry by-election?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Vance announces he won't run for President in 2028 this year?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will \"The Witness\" be the top US Netflix show this week?",
+          "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Elon post \"IPO\" on X this week?",
+          "odds": "-104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Pump.fun reach $0.0042 by December 31, 2026?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the DFM Real Estate Index hit 14,000 in 2026?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "U.S. enacts AI safety bill before 2027?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Aligned FDV above $20M one day after launch?",
+          "odds": "-880",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Marquinhos be in Brazil's Starting 11?",
+          "odds": "-1328",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Trump sell 1k-2.5k Gold Cards in 2026?",
           "odds": "+2841",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
