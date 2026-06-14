@@ -1,8 +1,12 @@
 {
-  "lastUpdated": "14 de junio de 2026 — 02:55 UTC",
+  "lastUpdated": "14 de junio de 2026 — 05:26 UTC",
   "ticker": [
+    "Knicks clinch first NBA title in 53 years, as Brunson shines against Spurs",
+    "‘Lion of Mesopotamia’: How Aymen Hussein beat tragedy to reach World Cup",
+    "Scotland beat Haiti 1-0 to mark a winning return to the World Cup",
     "Two killed in Israeli strike on Gaza",
     "After battling armed attacks, Mauritania attempts to revive tourism",
+    "Why is the price of gold trending down?",
     "Vinicius drags low-key Brazil level against dominant Morocco at World Cup",
     "America250 versus Freedom 250: What to know about the US semiquincentennial",
     "Haiti fans in the streets, Scotland faithful in kilts",
@@ -11,36 +15,113 @@
     "Qatar net late against Switzerland to secure historic first World Cup point",
     "Thousands mourn Thai princess as body taken to lie in state in Bangkok",
     "Dashcam shows US cop accidentally shooting colleague during ‘horseplay’",
-    "Thousands rally in Rome, Italy for rival pro- and anti-migration marches",
-    "Ten observations after attending a World Cup match in the US"
+    "Thousands rally in Rome, Italy for rival pro- and anti-migration marches"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "US and Iran sign an agreement by June 22, 2026?",
+          "odds": "-257",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Warsh say \"Asymmetric\" during June Press Conference?",
+          "odds": "+143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Elmano de Freitas win the 2026 Ceará gubernatorial election?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Mojtaba Khamenei sign a U.S. x Iran deal by July 31?",
           "odds": "+1328",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Foreign intervention in Gaza by June 30?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Trump sell 1k-2.5k Gold Cards in 2026?",
-          "odds": "+2841",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Vance announces he won't run for President in 2028 this year?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Trump speak to Luiz Inácio Lula da Silva in June?",
-          "odds": "-300",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Will Veneziano Vital do Rêgo win the Governor of Paraíba election?",
+          "odds": "+3025",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Exact Score: England 0 - 1 Croatia?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Panama City be 28°C on June 15?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Pump.fun reach $0.0042 by December 31, 2026?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump sell 1k-2.5k Gold Cards in 2026?",
+          "odds": "+2841",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the DFM Real Estate Index hit 14,000 in 2026?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Tel Aviv be 31°C on June 16?",
+          "odds": "+354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "U.S. enacts AI safety bill before 2027?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Aligned FDV above $20M one day after launch?",
+          "odds": "-880",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
