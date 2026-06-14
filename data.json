@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "14 de junio de 2026 — 05:26 UTC",
+  "lastUpdated": "14 de junio de 2026 — 09:23 UTC",
   "ticker": [
+    "World Cup Day 4: Netherlands vs Japan, Curacao debut, prediction, schedule",
+    "UK court to rule on Palestine Action ‘terrorist’ label: What we know",
+    "The World Cup cicada: India’s rare insect on a four-year clock",
+    "Signing of US-Iran deal not on Trump’s public schedule",
+    "UK forces seize suspected Russian shadow fleet tanker in English Channel",
+    "Switzerland votes on right-wing bid to cap country’s population",
+    "Iran war day 107: Washington, Tehran close to signing first stage of deal",
+    "2026 World Cup: Australia stun Turkiye 2-0 in counterattacking masterclass",
+    "Smiles all around as Morocco, Brazil share spoils and Knicks make history",
+    "Costs, careers and choice: Why Indians are having fewer children",
+    "Qatar earns first ever World Cup point",
     "Knicks clinch first NBA title in 53 years, as Brunson shines against Spurs",
     "‘Lion of Mesopotamia’: How Aymen Hussein beat tragedy to reach World Cup",
     "Scotland beat Haiti 1-0 to mark a winning return to the World Cup",
-    "Two killed in Israeli strike on Gaza",
-    "After battling armed attacks, Mauritania attempts to revive tourism",
-    "Why is the price of gold trending down?",
-    "Vinicius drags low-key Brazil level against dominant Morocco at World Cup",
-    "America250 versus Freedom 250: What to know about the US semiquincentennial",
-    "Haiti fans in the streets, Scotland faithful in kilts",
-    "Iran war live: Trump says deal to be signed today; Tehran disputes timing",
-    "Brazil and Morocco kickoff amid electric atmosphere",
-    "Qatar net late against Switzerland to secure historic first World Cup point",
-    "Thousands mourn Thai princess as body taken to lie in state in Bangkok",
-    "Dashcam shows US cop accidentally shooting colleague during ‘horseplay’",
-    "Thousands rally in Rome, Italy for rival pro- and anti-migration marches"
+    "Two killed in Israeli strike on Gaza"
   ],
   "sections": [
     {
@@ -23,8 +23,14 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "US and Iran sign an agreement by June 22, 2026?",
-          "odds": "-257",
+          "event": "Foreign intervention in Gaza by June 30?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Korea Republic win on 2026-06-18?",
+          "odds": "+334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -45,10 +51,16 @@
           "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
         {
-          "event": "Foreign intervention in Gaza by June 30?",
-          "odds": "+2400",
+          "event": "Will Crude Oil (CL) hit (HIGH) $95 by end of June?",
+          "odds": "+194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -60,13 +72,13 @@
       "rows": [
         {
           "event": "Vance announces he won't run for President in 2028 this year?",
-          "odds": "+1011",
+          "odds": "+809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Veneziano Vital do Rêgo win the Governor of Paraíba election?",
-          "odds": "+3025",
+          "event": "Will Mike Lindell win the 2026 Minnesota Governor Republican primary election?",
+          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -83,8 +95,14 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Panama City be 28°C on June 15?",
-          "odds": "+1566",
+          "event": "Will the highest temperature in Munich be 21°C on June 16?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will SpaceX's valuation hit (HIGH) $3.0T by June 30?",
+          "odds": "+1594",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -103,12 +121,6 @@
         {
           "event": "Will the DFM Real Estate Index hit 14,000 in 2026?",
           "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Tel Aviv be 31°C on June 16?",
-          "odds": "+354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
