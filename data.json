@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "14 de junio de 2026 — 17:13 UTC",
+  "lastUpdated": "14 de junio de 2026 — 19:16 UTC",
   "ticker": [
+    "Trump says Israeli attacks on Beirut unjustified, puts Iran deal at risk",
+    "Ibram X. Kendi: Is the US inherently racist?",
+    "Is the G7 still relevant?",
     "Thousands protest as Trump, other world leaders set to meet for G7 summit",
     "Al Jazeera reports from Israeli attack site in southern Beirut",
     "Knicks fans set bus alight during celebrations",
     "Analyst says what attacks on Lebanon could mean for potential US-Iran deal",
-    "Netherlands vs Japan live: World Cup 2026",
+    "LIVE: Netherlands vs Japan – World Cup 2026",
     "‘Unacceptable’: London protesters slam illegal Israeli settlement land sale",
     "UK forces seize suspected Russian oil tanker accused of funding Ukraine war",
     "Trump makes endorsement in key Georgia Republican US Senate run-off",
     "Trump condemns Israel’s attack on Beirut, says Iran deal still close",
     "EU set to hold membership talks with Ukraine",
     "‘We were herded like animals’: Freed from Boko Haram captivity",
-    "US asks Anthropic to block global access to top AI models: Why it matters",
-    "Donald Trump’s name removed from Kennedy Center",
-    "Sexual Violence in Israeli Prisons: What History Tells Us",
-    "‘Making history’: The fight to end female genital mutilation in Colombia"
+    "US asks Anthropic to block global access to top AI models: Why it matters"
   ],
   "sections": [
     {
@@ -24,12 +24,6 @@
       "rows": [
         {
           "event": "Foreign intervention in Gaza by June 30?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Yukinari Sugawara be in Japan's Starting 11?",
           "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
@@ -48,13 +42,19 @@
         },
         {
           "event": "Will Gadi Eizenkot be the next Prime Minister of Israel?",
-          "odds": "+173",
+          "odds": "+177",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
         {
-          "event": "Will Warsh say \"Trump\" during June Press Conference?",
-          "odds": "+426",
+          "event": "Will Mike Lindell win the 2026 Minnesota Governor Republican primary election?",
+          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -71,14 +71,32 @@
           "moved": "none"
         },
         {
+          "event": "Will the highest temperature in Helsinki be 19°C on June 15?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Moonshot have the best AI model at the end of December 2026?",
           "odds": "+1654",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
+          "event": "Will there be exactly 10 earthquakes of magnitude 7.0 or higher worldwide by June 30?",
+          "odds": "+952",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Pump.fun reach $0.0042 by December 31, 2026?",
           "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "U.S. enacts AI safety bill before 2027?",
+          "odds": "+104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -91,24 +109,6 @@
         {
           "event": "Will Trump sell 1k-2.5k Gold Cards in 2026?",
           "odds": "+2841",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the DFM Real Estate Index hit 14,000 in 2026?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "U.S. enacts AI safety bill before 2027?",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Aligned FDV above $20M one day after launch?",
-          "odds": "-880",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
