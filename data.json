@@ -1,109 +1,46 @@
 {
-  "lastUpdated": "14 de junio de 2026 — 00:08 UTC",
+  "lastUpdated": "14 de junio de 2026 — 02:55 UTC",
   "ticker": [
+    "Two killed in Israeli strike on Gaza",
+    "After battling armed attacks, Mauritania attempts to revive tourism",
+    "Vinicius drags low-key Brazil level against dominant Morocco at World Cup",
+    "America250 versus Freedom 250: What to know about the US semiquincentennial",
+    "Haiti fans in the streets, Scotland faithful in kilts",
+    "Iran war live: Trump says deal to be signed today; Tehran disputes timing",
     "Brazil and Morocco kickoff amid electric atmosphere",
     "Qatar net late against Switzerland to secure historic first World Cup point",
     "Thousands mourn Thai princess as body taken to lie in state in Bangkok",
     "Dashcam shows US cop accidentally shooting colleague during ‘horseplay’",
     "Thousands rally in Rome, Italy for rival pro- and anti-migration marches",
-    "Ten observations after attending a World Cup match in the US",
-    "Israel attacks Lebanon as US says Iran deal to be signed on Sunday",
-    "Will the new EU migration rules work?",
-    "‘A global rupture’: Carney calls for Canada-EU unity before G7 summit",
-    "Thousands attend anti-racism rally in Belfast",
-    "‘Not in my name’: The Jewish diaspora fighting the consensus on Israel",
-    "Hungary’s former PM Orban re-elected party leader despite election loss",
-    "Ukraine to keep targeting Russian energy after hitting sea terminal",
-    "Keepy-up cop wows fans with football skills at World Cup event in Boston",
-    "Trump says Iran deal to be signed tomorrow, contradicting Iranian official"
+    "Ten observations after attending a World Cup match in the US"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
-        {
-          "event": "Will NIKE Q4 Greater China revenue be above $1.0B?",
-          "odds": "-1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Mojtaba Khamenei sign a U.S. x Iran deal by July 31?",
           "odds": "+1328",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
       "rows": [
-        {
-          "event": "Vance announces he won't run for President in 2028 this year?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Mike Lindell win the 2026 Minnesota Governor Republican primary election?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will Pump.fun reach $0.0042 by December 31, 2026?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Denver be between 68-69°F on June 14?",
-          "odds": "+316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Trump sell 1k-2.5k Gold Cards in 2026?",
           "odds": "+2841",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         },
         {
-          "event": "Will the DFM Real Estate Index hit 14,000 in 2026?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "U.S. enacts AI safety bill before 2027?",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Aligned FDV above $20M one day after launch?",
-          "odds": "-880",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Valve add first CS2 operation by June 30, 2026?",
-          "odds": "+244",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Anthropic have the best Coding AI model at the end of June 2026?",
-          "odds": "-2122",
-          "params": "Fuente: Polymarket",
+          "event": "Will Trump speak to Luiz Inácio Lula da Silva in June?",
+          "odds": "-300",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
