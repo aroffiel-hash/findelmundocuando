@@ -1,34 +1,91 @@
 {
-  "lastUpdated": "15 de junio de 2026 — 17:04 UTC",
+  "lastUpdated": "15 de junio de 2026 — 19:41 UTC",
   "ticker": [
-    "Drone warfare kills over 1,000 in Sudan in 2026 as strikes multiply: UN",
-    "Lebanon Latest: Cautious optimism after ceasefire deal",
-    "Inside Albania’s protests over Jared Kushner’s resort",
-    "Does the G7 still shape the global economy?",
-    "UK Court upholds ban on Palestine Action as ‘terrorist’ group",
-    "Belgium v Egypt live: World Cup 2026",
-    "FIFA World Cup 2026: Day four",
-    "Iran says Lebanon, assets release key parts of peace deal with US",
-    "Is Lebanon included? Country hopeful for US-Iran ceasefire, despite doubts",
-    "Oxford Union’s first Palestinian president faces down smear campaign",
-    "World welcomes US-Iran ‘peace deal’ criticised by Israel",
-    "Trump says ships ‘starting to move’ through Strait of Hormuz"
+    "US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says",
+    "US judge dismisses Musk’s xAI trade secret lawsuit against OpenAI",
+    "EU fails to agree on sanctions for far-right Israeli minister Ben-Gvir",
+    "France vs Senegal: World Cup 2026 – Mbappe, teams, lineups, start, Dembele",
+    "Tunisia sack boss Sabri Lamouchi after World Cup thrashing by Sweden",
+    "Zelenskyy visits historic Kyiv cathedral after deadly Russian strike",
+    "Spain held to shock draw by Cape Verde in their World Cup opener",
+    "As deal is agreed with US, not all in Iran are convinced that peace is here",
+    "Police, mourners clash over coffin of suspected Ebola victim in DRC",
+    "US visa rules leave Iraq’s World Cup fans behind",
+    "Singer Oliver Tree among six killed in Brazil helicopter collision",
+    "Bus crash in Ethiopian mountains kills at least 31",
+    "Mass return to southern Lebanon following US-Iran agreement",
+    "Iran vs New Zealand: World Cup team news, start, lineups and where to watch",
+    "Trump says Iran deal ‘all signed’"
   ],
   "sections": [
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Trump sell 1k-2.5k Gold Cards in 2026?",
-          "odds": "+2841",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Will the next diplomatic US-Iran meeting be in Switzerland?",
+          "odds": "-165",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Donald Trump post 80-99 Truth Social posts from June 12 to June 19, 2026?",
-          "odds": "+2400",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Will LeBron James play for the Golden State Warriors in 2026-27?",
+          "odds": "+998",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will Moonshot have the best AI model at the end of December 2026?",
+          "odds": "+1654",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Valencia vs. Barcelona",
+          "odds": "-108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "U.S. enacts AI safety bill before 2027?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Kuala Lumpur be 31°C on June 16?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Aligned FDV above $20M one day after launch?",
+          "odds": "-880",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party win the NY-21 House seat?",
+          "odds": "+270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Silver (SI) settle over $65 on the final trading day of June 2026?",
+          "odds": "-354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Wuhan be 31°C on June 17?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
