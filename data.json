@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "15 de junio de 2026 — 03:28 UTC",
+  "lastUpdated": "15 de junio de 2026 — 03:33 UTC",
   "ticker": [
     "Uruguay squad lands in US after flight delay ahead of World Cup opener",
     "Lebanese remain sceptical despite US-Iran ceasefire announcement",
@@ -12,47 +12,104 @@
     "Stock markets soar, oil falls as US, Iran confirm deal to end war",
     "Claims Israel’s Beirut strike pushed Trump on Iran announcement",
     "World Cup nations slam UEFA chief for ‘disappointing’ 48-team criticism",
-    "BREAKING: US, Iran announce ceasefire agreement"
+    "BREAKING: US, Iran announce ceasefire agreement",
+    "US-Iran ‘peace deal’ announced; Trump says Strait of Hormuz reopening",
+    "Japan deny Netherlands by fighting back twice in World Cup opener",
+    "Lamine Yamal fit to start on bench for Spain vs Cape Verde at World Cup"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Foreign intervention in Gaza by June 30?",
           "odds": "+1150",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Gadi Eizenkot be the next Prime Minister of Israel?",
           "odds": "+177",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
-      "rows": [
-        {
-          "event": "Will Trump sell 1k-2.5k Gold Cards in 2026?",
-          "odds": "+2841",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y ENERGÍA",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
           "event": "Will Crude Oil (CL) settle at >$84 in June?",
           "odds": "+566",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will the Democratic Party win the popular vote in the 2026 U.S. House of Representatives midterm elections by between 14% and 16%?",
+          "odds": "+2841",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Exact Score: England 0 - 1 Croatia?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will there be exactly 10 earthquakes of magnitude 7.0 or higher worldwide by June 30?",
+          "odds": "+952",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Moonshot have the best AI model at the end of December 2026?",
+          "odds": "+1654",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Spirit reach the Grand Final at IEM Cologne Major 2026?",
+          "odds": "+132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the lowest temperature in Seoul be 20°C on June 16?",
+          "odds": "+156",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Pump.fun reach $0.0042 by December 31, 2026?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "U.S. enacts AI safety bill before 2027?",
+          "odds": "+104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump sell 1k-2.5k Gold Cards in 2026?",
+          "odds": "+2841",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
