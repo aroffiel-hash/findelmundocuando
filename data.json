@@ -1,121 +1,58 @@
 {
-  "lastUpdated": "14 de junio de 2026 — 23:01 UTC",
+  "lastUpdated": "15 de junio de 2026 — 03:28 UTC",
   "ticker": [
-    "US-Iran ceasefire deal announced, Trump says Strait of Hormuz reopening",
-    "Japan deny Netherlands by fighting back twice in World Cup opener",
-    "Lamine Yamal fit to start on bench for Spain vs Cape Verde at World Cup",
-    "India beat Pakistan by 64 runs to open Women’s T20 World Cup campaign",
-    "LIVE: Ilia Topuria vs Justin Gaethje title fight at UFC Freedom 250",
-    "Gaza mourns four killed in Israeli strike",
-    "Violence erupts during anti-G7 protests in Geneva on eve of summit",
-    "Swiss right-wing plan to cap population rejected by narrow margins",
-    "Medical teams in Goma face mistrust from relatives of Ebola victims",
-    "Six people killed as helicopters collide over Brazil’s Rio de Janeiro",
-    "Lewis Hamilton wins first F1 race with Ferrari in Barcelona",
-    "The president, the billionaires and the news",
-    "Twelve killed in plane crash in US state of Missouri",
-    "Germany hit Curacao for seven to open their World Cup",
-    "Israel welcomes Somaliland president in ‘historic’ visit"
+    "Uruguay squad lands in US after flight delay ahead of World Cup opener",
+    "Lebanese remain sceptical despite US-Iran ceasefire announcement",
+    "Ivory Coast beats Ecuador 1-0 at FIFA World Cup with Amad Diallo goal",
+    "Ecuadorian World Cup fans takeover Philly’s Rocky Steps",
+    "US-Iran to sign a ‘peace deal’ on Friday: What we know so far",
+    "Trump allies cheer Iran ‘peace deal’ announcement as Democrats seek clarity",
+    "Zimbabwe’s climate migrants fear eviction as crackdown intensifies",
+    "Iran’s Ghalenoei, Taremi decry US treatment before first World Cup game",
+    "Stock markets soar, oil falls as US, Iran confirm deal to end war",
+    "Claims Israel’s Beirut strike pushed Trump on Iran announcement",
+    "World Cup nations slam UEFA chief for ‘disappointing’ 48-team criticism",
+    "BREAKING: US, Iran announce ceasefire agreement"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
           "event": "Foreign intervention in Gaza by June 30?",
           "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "US-Iran nuclear deal by June 30?",
-          "odds": "-316",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
           "event": "Will Gadi Eizenkot be the next Prime Minister of Israel?",
-          "odds": "+170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Steve Witkoff sign a U.S. x Iran deal by July 31?",
-          "odds": "+426",
-          "params": "Fuente: Polymarket",
+          "odds": "+177",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
       "rows": [
         {
-          "event": "Will Abiy Ahmed be the next Prime Minister of Ethiopia?",
-          "odds": "-2677",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party win the popular vote in the 2026 U.S. House of Representatives midterm elections by between 14% and 16%?",
+          "event": "Will Trump sell 1k-2.5k Gold Cards in 2026?",
           "odds": "+2841",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
+      "flag": "💰",
+      "label": "ECONOMÍA Y ENERGÍA",
       "rows": [
         {
-          "event": "Exact Score: England 0 - 1 Croatia?",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Moonshot have the best AI model at the end of December 2026?",
-          "odds": "+1654",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will there be exactly 10 earthquakes of magnitude 7.0 or higher worldwide by June 30?",
-          "odds": "+952",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Viktor Gyökeres: 1+ assists",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the lowest temperature in Seoul be 20°C on June 16?",
-          "odds": "+156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Pump.fun reach $0.0042 by December 31, 2026?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "U.S. enacts AI safety bill before 2027?",
-          "odds": "+104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Z.ai have the best Chinese AI model at the end of June 2026?",
-          "odds": "+203",
-          "params": "Fuente: Polymarket",
+          "event": "Will Crude Oil (CL) settle at >$84 in June?",
+          "odds": "+566",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
           "moved": "none"
         }
       ]
