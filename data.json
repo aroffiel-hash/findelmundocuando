@@ -1,28 +1,115 @@
 {
-  "lastUpdated": "16 de junio de 2026 — 16:28 UTC",
+  "lastUpdated": "16 de junio de 2026 — 17:58 UTC",
   "ticker": [
+    "Israeli strikes kill four in southern Lebanon amid ceasefire talks",
+    "Africa’s chances at the World Cup",
+    "Robinhood slashes workforce by 10 percent amid restructuring",
+    "Israel seizes power over occupied West Bank mosque from Palestinians",
+    "Ronaldo’s last dance as Portugal face DR Congo in World Cup: All to know",
+    "Trump slams Israeli attacks on Lebanon at G7 summit",
+    "Qatar renews mediation efforts for regional stability after US-Iran deal",
+    "Post-apartheid South Africa: 50 years after Soweto riots, what has changed?",
+    "The overnight World Cup?",
+    "World Cup 2026: Day five",
     "Nearly all children globally exposed to at least one climate hazard: Report",
     "Israel went to war with Iran, but Netanyahu may be the loser",
     "A Mexican citizen died in ICE custody. Now his family is demanding answers",
     "Optics of peace first, details later: The US-Iran 60-day challenge",
-    "Ukrainian drone detonates near Moscow",
-    "From JCPOA exit to the 2026 deal: How US-Iran ties soured under Trump",
-    "With Israel unleashed, there can be no peace in the Middle East",
-    "Gaza’s football fans follow World Cup matches despite hardships",
-    "Hardliners and moderates: What do Iran’s factions think of deal with US?",
-    "Brazil police arrest bungee jumping operators after woman dies",
-    "‘Justice prevailed’: Is the Netherlands shifting its stance on Israel?",
-    "US visa rules leave Senegal’s World Cup fans behind"
+    "Ukrainian drone detonates near Moscow"
   ],
   "sections": [
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Trump speak to Ahmed al-Sharaa in June?",
-          "odds": "+354",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Will LeBron James play for the Golden State Warriors in 2026-27?",
+          "odds": "+762",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jared Kushner have a diplomatic meeting with Iran by June 30?",
+          "odds": "-244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will Natural Gas (NG) hit (HIGH) $3.40 Week of June 15 2026?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Meloni out as Prime Minister of Italy by December 31?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Miguel Díaz-Canel out as leader of Cuba by June 30?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Silver (SI) settle over $65 on the final trading day of June 2026?",
+          "odds": "-354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Reya launch a token by December 31, 2026?",
+          "odds": "-376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "U.S. enacts AI safety bill before 2027?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will FURIA win IEM Cologne Major 2026?",
+          "odds": "+528",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Anthropic's valuation hit (HIGH) $4.0T by December 31?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Gold (XAUUSD) hit (LOW) $4,150 Week of June 15 2026?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Milan be 34°C on June 17?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
