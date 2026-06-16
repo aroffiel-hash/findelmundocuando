@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "15 de junio de 2026 — 22:12 UTC",
+  "lastUpdated": "16 de junio de 2026 — 00:25 UTC",
   "ticker": [
+    "Gavin Newsom says he’s being investigated by Trump",
+    "Iran war live: Trump says MoU with Tehran signed electronically",
+    "FIFA clears World Cup referee accused of making white supremacist gesture",
     "Journalist hit by Israeli strike while reporting in Lebanon",
     "Egypt draw 1–1 with Belgium at World Cup group game",
     "Iran vs New Zealand live: World Cup 2026",
@@ -12,10 +15,7 @@
     "Netanyahu says Israel won’t leave occupied land in Lebanon",
     "What Israeli leaders are saying about US-Iran ‘peace deal’",
     "California Governor Newsom says US Department of Justice investigating him",
-    "Russian supersonic bomber crashes in Siberia during training exercise",
-    "Dutch court sentences Syrian to 26 years for torturing for al-Assad",
-    "US Air Force B-52 bomber crashes after takeoff at Edwards Air Force Base",
-    "US judge dismisses Musk’s xAI trade secret lawsuit against OpenAI"
+    "Russian supersonic bomber crashes in Siberia during training exercise"
   ],
   "sections": [
     {
@@ -37,9 +37,33 @@
       ]
     },
     {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Mike Lindell win the 2026 Minnesota Governor Republican primary election?",
+          "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
+        {
+          "event": "Valorant: Division One vs Team Evictix (BO3) - VCL North America: Stage 3 Group Stage",
+          "odds": "-112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Set Handicap: Choinski (-1.5) vs Dias (+1.5)",
+          "odds": "+117",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Valencia vs. Barcelona",
           "odds": "-108",
@@ -65,26 +89,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Matt Fitzpatrick win the 2026 U.S. Open?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Meta have the best AI model at the end of July 2026?",
-          "odds": "+2400",
+          "event": "Will the highest temperature in Chongqing be 30°C on June 17?",
+          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Silver (SI) settle over $65 on the final trading day of June 2026?",
           "odds": "-354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the NY-08 House seat?",
-          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
