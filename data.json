@@ -1,28 +1,97 @@
 {
-  "lastUpdated": "16 de junio de 2026 — 03:25 UTC",
+  "lastUpdated": "16 de junio de 2026 — 06:28 UTC",
   "ticker": [
-    "US stock market climbs as US-Iran deal stirs hopes for end to energy chaos",
+    "UK seizes Russian ‘shadow fleet’ tanker – what that means",
+    "US says Iran nuclear talks begin after framework deal signing",
+    "Iran draw 2-2 with New Zealand in politically charged World Cup match",
+    "Ukraine starts negotiations to join EU",
+    "Who is Vozinha, Cape Verde’s viral goalkeeper at the World Cup?",
+    "US stock market jumps as US-Iran deal stirs hopes for end to energy turmoil",
     "Saudi Arabia draw 1–1 against Uruguay in World Cup opening game",
     "Netanyahu says Israel will remain in Lebanon, Syria, and Gaza",
     "South Sudan’s Jonglei: Who burned homes and silenced hospitals?",
     "US fuel prices to take ‘months’ to normalise after US-Iran deal to end war",
     "US Air Force B-52 crashes in California",
     "Gavin Newsom says he’s being investigated by Trump",
-    "Iran war live: Trump says MoU with Tehran signed electronically",
+    "Iran war live: Vance says IAEA to return to Iran, no tolls in Hormuz Strait",
     "FIFA clears World Cup referee accused of making white supremacist gesture",
-    "Journalist hit by Israeli strike while reporting in Lebanon",
-    "Egypt draw 1–1 with Belgium at World Cup group game",
-    "Can a social media ban protect young users?"
+    "Journalist hit by Israeli strike while reporting in Lebanon"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Saudi Arabia win on 2026-06-21?",
-          "odds": "+2280",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Will Warsh say \"Trend\" during June Press Conference?",
+          "odds": "+132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Meloni out as Prime Minister of Italy by December 31?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Valorant: Division One vs Team Evictix (BO3) - VCL North America: Stage 3 Group Stage",
+          "odds": "-112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Guangzhou be 28°C on June 17?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Set Handicap: Choinski (-1.5) vs Dias (+1.5)",
+          "odds": "+117",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "U.S. enacts AI safety bill before 2027?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Valencia vs. Barcelona",
+          "odds": "-108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the lowest temperature in Shanghai be 21°C on June 16?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Rabby launch a token by September 30, 2026?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Aligned FDV above $20M one day after launch?",
+          "odds": "-880",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
