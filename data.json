@@ -1,52 +1,133 @@
 {
-  "lastUpdated": "17 de junio de 2026 — 14:57 UTC",
+  "lastUpdated": "17 de junio de 2026 — 14:59 UTC",
   "ticker": [
+    "Telegram challenges India app ban, calls move unconstitutional",
     "Russian artist and outspoken Putin critic shot dead days after protest",
     "Strait of Hormuz reopens: But can ships’ safety be assured?",
     "Israeli settlers set fire to a mosque in the occupied West Bank",
     "‘He wanted to burn me alive’: 92-year-old recounts West Bank settler attack",
     "UK orders Google to improve transparency for search services",
+    "LIVE: Portugal vs DR Congo – World Cup 2026",
     "Trump accuses Obama of ‘bribing’ Iran in 2015 nuclear deal at G7 summit",
     "Israeli air strikes on Lebanon continue despite US-Iran deal",
     "South Africa play Czechia, seek first World Cup win after Mexico defeat",
     "China pledges new humanitarian aid packages for Lebanon and Iran",
     "Inside Canada’s ‘troubling’ shift on migrant, refugee rights",
     "Taiwan accuses Kenya of deporting conference delegates on China’s behalf",
-    "Pro-Palestine solidarity on display at the 2026 World Cup"
+    "Pro-Palestine solidarity on display at the 2026 World Cup",
+    "Israel takes control of Hebron’s Ibrahimi Mosque: What this means"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Will the U.S. lift direct Iran OFAC sanctions by June 30, 2026?",
           "odds": "-170",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇨🇳",
-      "label": "CHINA / PACÍFICO / COREA",
-      "rows": [
+        },
+        {
+          "event": "Will JD Vance attend the US-Iran Signing Ceremony?",
+          "odds": "-376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: Mexico 0 - 0 Korea Republic?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will a team from LPL (China) win MSI 2026?",
           "odds": "+203",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
+        {
+          "event": "Will Matthieu Pigasse be on the ballot for the 2027 French presidential election?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Meloni out as Prime Minister of Italy by December 31?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Trump’s approval rating be between 39.5 and 39.9 on June 19, 2026?",
           "odds": "+3233",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will White House post 180-199 posts from June 19 to June 26, 2026?",
+          "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Gold (XAUUSD) hit (LOW) $4,150 Week of June 15 2026?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Türkiye vs. Paraguay end in a draw?",
+          "odds": "+244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Russell 2000 (RUT) Up or Down on June 17?",
+          "odds": "-212",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Micron (MU) close at >$1,080 on the final day of trading of the week of Jun 15 – Jun 19?",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Google have a #1 AI model by December 31, 2026?",
+          "odds": "+127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "US bank failure by June 30?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Busan be 28°C on June 18?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
