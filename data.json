@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "17 de junio de 2026 — 06:04 UTC",
+  "lastUpdated": "17 de junio de 2026 — 11:42 UTC",
   "ticker": [
-    "Vozinha’s mum celebrates hero keeper son from afar",
-    "Food shortages spark scuffles outside supermarket in Bolivia",
-    "Lionel Messi rewrites history books at record sixth World Cup",
-    "Trump administration seeks to halt air pollution lawsuit against Musk’s xAI",
-    "Russian drone strikes residential building in Ukraine",
-    "Messi hat-trick fires holders Argentina to win over Algeria at World Cup",
-    "Haaland scores two goals as Norway beat Iraq 4-1 on World Cup return",
-    "Smotrich says Israel taking control of Hebron",
-    "UN reports decline in cross-border fire in southern Lebanon",
-    "Ebola patients recover in DRC amid claims of outbreak hoax",
-    "Ghosts of empire: A quarantine centre and Laikipia’s colonial past",
-    "Democrat calls for Cape Verde goalkeeper Vozinha’s mother to get US visa",
-    "Which France and World Cup records did Mbappe break against Senegal?",
-    "Iran war live: Israel kills 4 in Lebanon as Trump criticises Netanyahu",
-    "Iran will have to leave US hours after every World Cup match, official says"
+    "Zidane Iqbal: The footballer who gave Pakistan its first World Cup moment",
+    "Floyd Mayweather faces theft charges for using bad cheque to buy a watch",
+    "Why UK’s Makerfield by-election matters far beyond one parliamentary seat",
+    "UK’s Starmer says Russian warship’s warning shots in Channel ‘reckless’",
+    "Inside the ‘unacceptable’ UK fair selling property in Israeli settlements",
+    "World Cup predictions: Portugal vs DR Congo, England vs Croatia and more",
+    "Vietnam police rescue more than 400 cats from animal theft crime ring",
+    "Iranian tankers exit US blockade zone before talks to end war",
+    "G7 leaders to boost Ukraine air defences, tighten sanctions on Russia",
+    "US primaries in Oklahoma, Georgia, others: Key takeaways from the results",
+    "Dramatic rescue after plane crashes onto Texas highway",
+    "Oil prices continue slide amid hopes for peace, opening of Strait of Hormuz",
+    "Georgia Republican primary delivers mixed results for Trump",
+    "Iran war day 110: Tehran says Israeli attacks on Lebanon threaten US deal",
+    "Arnautovic scores penalty as Austria beat World Cup debutants Jordan 3-1"
   ],
   "sections": [
     {
@@ -23,20 +23,26 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will LeBron James play for the Golden State Warriors in 2026-27?",
-          "odds": "+762",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the next diplomatic US-Iran meeting be in Qatar?",
-          "odds": "+619",
+          "event": "Will the U.S. lift direct Iran OFAC sanctions by June 30, 2026?",
+          "odds": "-170",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will a team from LPL (China) win MSI 2026?",
-          "odds": "+194",
+          "odds": "+203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Warsh say \"Money\" during June Press Conference?",
+          "odds": "-117",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Warsaw be 26°C on June 18?",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -47,8 +53,8 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will Crude Oil (CL) hit (LOW) $75 by end of June?",
-          "odds": "-900",
+          "event": "Will the US federal government take a stake in Lockheed Martin Corporation?",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -65,6 +71,12 @@
           "moved": "none"
         },
         {
+          "event": "Will Trump’s approval rating be between 38.5 and 38.9 on June 19, 2026?",
+          "odds": "+104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Mike Lindell win the 2026 Minnesota Governor Republican primary election?",
           "odds": "+455",
           "params": "Fuente: Polymarket",
@@ -77,8 +89,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the highest temperature in Busan be 29°C on June 18?",
-          "odds": "+203",
+          "event": "Will the highest temperature in Mexico City be 24°C on June 17?",
+          "odds": "+149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -95,24 +107,6 @@
           "moved": "none"
         },
         {
-          "event": "Austria vs. Jordan: Second half draw?",
-          "odds": "-400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: Argentina 2 - 0 Austria?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "ITF Bucharest: Giulia Safina Popa vs Melinda Biro",
-          "odds": "-733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Micron (MU) close at >$1,080 on the final day of trading of the week of Jun 15 – Jun 19?",
           "odds": "+334",
           "params": "Fuente: Polymarket",
@@ -121,6 +115,24 @@
         {
           "event": "Will Google have a #1 AI model by December 31, 2026?",
           "odds": "+127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Amsterdam be 34°C on June 19?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the NY-08 House seat?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republicans win the Florida governor race in 2026?",
+          "odds": "-334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
