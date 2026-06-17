@@ -1,139 +1,52 @@
 {
-  "lastUpdated": "17 de junio de 2026 — 11:42 UTC",
+  "lastUpdated": "17 de junio de 2026 — 14:57 UTC",
   "ticker": [
-    "Zidane Iqbal: The footballer who gave Pakistan its first World Cup moment",
-    "Floyd Mayweather faces theft charges for using bad cheque to buy a watch",
-    "Why UK’s Makerfield by-election matters far beyond one parliamentary seat",
-    "UK’s Starmer says Russian warship’s warning shots in Channel ‘reckless’",
-    "Inside the ‘unacceptable’ UK fair selling property in Israeli settlements",
-    "World Cup predictions: Portugal vs DR Congo, England vs Croatia and more",
-    "Vietnam police rescue more than 400 cats from animal theft crime ring",
-    "Iranian tankers exit US blockade zone before talks to end war",
-    "G7 leaders to boost Ukraine air defences, tighten sanctions on Russia",
-    "US primaries in Oklahoma, Georgia, others: Key takeaways from the results",
-    "Dramatic rescue after plane crashes onto Texas highway",
-    "Oil prices continue slide amid hopes for peace, opening of Strait of Hormuz",
-    "Georgia Republican primary delivers mixed results for Trump",
-    "Iran war day 110: Tehran says Israeli attacks on Lebanon threaten US deal",
-    "Arnautovic scores penalty as Austria beat World Cup debutants Jordan 3-1"
+    "Russian artist and outspoken Putin critic shot dead days after protest",
+    "Strait of Hormuz reopens: But can ships’ safety be assured?",
+    "Israeli settlers set fire to a mosque in the occupied West Bank",
+    "‘He wanted to burn me alive’: 92-year-old recounts West Bank settler attack",
+    "UK orders Google to improve transparency for search services",
+    "Trump accuses Obama of ‘bribing’ Iran in 2015 nuclear deal at G7 summit",
+    "Israeli air strikes on Lebanon continue despite US-Iran deal",
+    "South Africa play Czechia, seek first World Cup win after Mexico defeat",
+    "China pledges new humanitarian aid packages for Lebanon and Iran",
+    "Inside Canada’s ‘troubling’ shift on migrant, refugee rights",
+    "Taiwan accuses Kenya of deporting conference delegates on China’s behalf",
+    "Pro-Palestine solidarity on display at the 2026 World Cup"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
           "event": "Will the U.S. lift direct Iran OFAC sanctions by June 30, 2026?",
           "odds": "-170",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
           "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "🇨🇳",
+      "label": "CHINA / PACÍFICO / COREA",
+      "rows": [
         {
           "event": "Will a team from LPL (China) win MSI 2026?",
           "odds": "+203",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Warsh say \"Money\" during June Press Conference?",
-          "odds": "-117",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Warsaw be 26°C on June 18?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
       "rows": [
         {
-          "event": "Will the US federal government take a stake in Lockheed Martin Corporation?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Meloni out as Prime Minister of Italy by December 31?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump’s approval rating be between 38.5 and 38.9 on June 19, 2026?",
-          "odds": "+104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Mike Lindell win the 2026 Minnesota Governor Republican primary election?",
-          "odds": "+455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will the highest temperature in Mexico City be 24°C on June 17?",
-          "odds": "+149",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "U.S. enacts AI safety bill before 2027?",
-          "odds": "+455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Gold (XAUUSD) hit (LOW) $4,150 Week of June 15 2026?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Micron (MU) close at >$1,080 on the final day of trading of the week of Jun 15 – Jun 19?",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Google have a #1 AI model by December 31, 2026?",
-          "odds": "+127",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Amsterdam be 34°C on June 19?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the NY-08 House seat?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republicans win the Florida governor race in 2026?",
-          "odds": "-334",
-          "params": "Fuente: Polymarket",
+          "event": "Will Trump’s approval rating be between 39.5 and 39.9 on June 19, 2026?",
+          "odds": "+3233",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
