@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "17 de junio de 2026 — 02:57 UTC",
+  "lastUpdated": "17 de junio de 2026 — 06:04 UTC",
   "ticker": [
+    "Vozinha’s mum celebrates hero keeper son from afar",
+    "Food shortages spark scuffles outside supermarket in Bolivia",
+    "Lionel Messi rewrites history books at record sixth World Cup",
+    "Trump administration seeks to halt air pollution lawsuit against Musk’s xAI",
+    "Russian drone strikes residential building in Ukraine",
+    "Messi hat-trick fires holders Argentina to win over Algeria at World Cup",
+    "Haaland scores two goals as Norway beat Iraq 4-1 on World Cup return",
     "Smotrich says Israel taking control of Hebron",
     "UN reports decline in cross-border fire in southern Lebanon",
     "Ebola patients recover in DRC amid claims of outbreak hoax",
@@ -8,51 +15,113 @@
     "Democrat calls for Cape Verde goalkeeper Vozinha’s mother to get US visa",
     "Which France and World Cup records did Mbappe break against Senegal?",
     "Iran war live: Israel kills 4 in Lebanon as Trump criticises Netanyahu",
-    "Iran will have to leave US hours after every World Cup match, official says",
-    "Brazilian court convicts Eduardo Bolsonaro of courting US interference",
-    "US sprinter Noah Lyles sets world best 150m time at Golden Spike meet",
-    "Somaliland president visits Israeli Knesset on tour",
-    "Ghana’s Partey loses appeal to overturn Canadian visa refusal for World Cup"
+    "Iran will have to leave US hours after every World Cup match, official says"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Iran be an advancing Group Stage third-place team at the 2026 World Cup?",
-          "odds": "+354",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
+          "event": "Will LeBron James play for the Golden State Warriors in 2026-27?",
+          "odds": "+762",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the next diplomatic US-Iran meeting be in Qatar?",
-          "odds": "+726",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
+          "odds": "+619",
+          "params": "Fuente: Polymarket",
           "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇨🇳",
-      "label": "CHINA / PACÍFICO / COREA",
-      "rows": [
+        },
         {
           "event": "Will a team from LPL (China) win MSI 2026?",
           "odds": "+194",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will Trump speak to Ahmed al-Sharaa in June?",
-          "odds": "+270",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Will Crude Oil (CL) hit (LOW) $75 by end of June?",
+          "odds": "-900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Meloni out as Prime Minister of Italy by December 31?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Mike Lindell win the 2026 Minnesota Governor Republican primary election?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will the highest temperature in Busan be 29°C on June 18?",
+          "odds": "+203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "U.S. enacts AI safety bill before 2027?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Gold (XAUUSD) hit (LOW) $4,150 Week of June 15 2026?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Austria vs. Jordan: Second half draw?",
+          "odds": "-400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: Argentina 2 - 0 Austria?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "ITF Bucharest: Giulia Safina Popa vs Melinda Biro",
+          "odds": "-733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Micron (MU) close at >$1,080 on the final day of trading of the week of Jun 15 – Jun 19?",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Google have a #1 AI model by December 31, 2026?",
+          "odds": "+127",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
