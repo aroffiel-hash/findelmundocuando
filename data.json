@@ -1,133 +1,40 @@
 {
-  "lastUpdated": "19 de junio de 2026 — 00:20 UTC",
+  "lastUpdated": "19 de junio de 2026 — 03:38 UTC",
   "ticker": [
-    "Iran war live: JD Vance defends Iran deal as US says naval blockade lifted",
+    "Andy Burnham wins key UK by-election, paving way to challenge Keir Starmer",
+    "Obama opens presidential centre with call for unity",
+    "Paint peeling after $14 million memorial pool renovation",
+    "EU won’t lift key Iran sanctions until formal nuclear deal reached",
+    "Zimbabwe bill to scrap presidential elections sparks backlash",
+    "Iran war live: JD Vance delays trip to Switzerland for talks with Tehran",
     "Vote counting begins in high-stakes UK by-election",
     "US judge orders release of Palestinian rights advocate detained by ICE",
     "Switzerland beat Bosnia and Herzegovina 4-1, top Group B in World Cup",
-    "Mamdani gives New York Knicks keys to city after NBA title",
     "Are prices really dropping in the US, as Trump claims?",
     "Cuba’s Communist Party approves opening economy in unprecedented move",
-    "Myanmar military airstrike kills seven civilians in Rakhine state",
-    "Brazil executes warrant against Lula ally in widening financial scandal",
-    "Conjoined twins separated after surgery in Saudi Arabia",
-    "Neymar will not play in Brazil’s World Cup match against Haiti due to injury",
-    "Ivory Coast’s Elye Wahi granted Canadian visa hours after denial",
-    "Netanyahu says Israel must protect relationship with US",
-    "Pro-Israel hawks in US criticise Iran MoU but avoid clashing with Trump",
-    "Iran’s supreme leader says approved US deal despite having ‘different’ view"
+    "Myanmar military airstrike kills seven civilians in Rakhine state"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
+      "rows": [
+        {
+          "event": "Russia x Ukraine ceasefire by December 31, 2026?",
+          "odds": "+203",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇨🇳",
+      "label": "CHINA / PACÍFICO / COREA",
       "rows": [
         {
           "event": "Will a team from LPL (China) win MSI 2026?",
           "odds": "+212",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "US x Iran diplomatic meeting by July 31, 2026?",
-          "odds": "-706",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Russia x Ukraine ceasefire by December 31, 2026?",
-          "odds": "+203",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
-      "rows": [
-        {
-          "event": "Will Crude Oil (CL) hit (HIGH) $95 by end of June?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will Nithya Raman win the 2026 Los Angeles mayoral election?",
-          "odds": "+163",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Ulf Kristersson be the next Prime Minister of Sweden?",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Pete Buttigieg announce a Presidential run before 2027?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Map Handicap: OSG (-1.5) vs Dplus (+1.5)",
-          "odds": "+132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Karachi be 34°C on June 20?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Claude Code Commits be between 650.0k and 700.0k on June 30?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Google have a #1 AI model by December 31, 2026?",
-          "odds": "+127",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "DOJ releases Biden ghostwriter tapes by June 30?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will David Jolly be the Democratic nominee for Florida Governor?",
-          "odds": "-614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "LoL: T1 vs Team Liquid - Game 4 Winner",
-          "odds": "-212",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Chainlink dip to $4 in June?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
           "moved": "none"
         }
       ]
