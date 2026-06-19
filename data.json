@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "19 de junio de 2026 — 17:12 UTC",
+  "lastUpdated": "19 de junio de 2026 — 19:40 UTC",
   "ticker": [
+    "Iran war: Success or disaster? Mehdi Hasan and David Des Roches",
+    "How is the Iran-US agreement being viewed in Israel?",
+    "Two trains collide near Bedford, north of London",
+    "Backlash for UK MP who linked England World Cup result to women’s safety",
+    "More than 70 medics infected with Ebola as DRC outbreak spreads ‘fast’",
+    "Dramatic rescue as fire rips through school in Japan",
     "Italy’s top diplomat nixes US trip after Meloni says Trump fabricated story",
     "How is China using AI in the classroom?",
     "Israeli air strikes hit Lebanon minutes after new ceasefire",
@@ -9,40 +15,16 @@
     "Germany and Ivory Coast aim to seal World Cup knockout place: All to know",
     "‘Destruction is the goal’: Israel steers between the US, Iran, and Lebanon",
     "Cuba: Between charcoal and solar panels",
-    "Petrol shortages and ‘oil rain’ bring Russia-Ukraine war home to Moscow",
-    "From outsider to president? Inside de la Espriella’s bid to lead Colombia",
-    "Three killed in Ukraine a day after drone attack kills child in Moscow",
-    "Trump’s Iran deal: A victory lap before the victory",
-    "More than a game: Football, friendship and mental health recovery",
-    "Trump takes aim at critics of US-Iran MoU, says Iran ‘finished’",
-    "As Lebanon tests US-Iran deal, Trump must rein in Netanyahu, analysts say"
+    "Petrol shortages and ‘oil rain’ bring Russia-Ukraine war home to Moscow"
   ],
   "sections": [
-    {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
-      "rows": [
-        {
-          "event": "Namibia T20 Tri-Series: Namibia vs Hong Kong, China - Who wins the toss?",
-          "odds": "-1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
     {
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
           "event": "Fed Rate Hike by October 2026 Meeting?",
-          "odds": "-104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the US federal government take a stake in Freeport-McMoRan Inc.?",
-          "odds": "+488",
+          "odds": "-117",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -52,12 +34,6 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
-        {
-          "event": "Will Ulf Kristersson be the next Prime Minister of Sweden?",
-          "odds": "+316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Pete Buttigieg announce a Presidential run before 2027?",
           "odds": "+614",
@@ -77,6 +53,18 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Will Sweden win on 2026-06-20?",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Chongqing be 33°C on June 20?",
+          "odds": "+222",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Google have a #1 AI model by December 31, 2026?",
           "odds": "+127",
           "params": "Fuente: Polymarket",
@@ -85,12 +73,6 @@
         {
           "event": "Will Trump say \"Too Big To Rig\" this week?",
           "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Claude Fable 5 be restored for US customers by June 26?",
-          "odds": "-127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -107,20 +89,14 @@
           "moved": "none"
         },
         {
+          "event": "Will the Republican Party win the NY-08 House seat?",
+          "odds": "+1349",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Chainlink dip to $4 in June?",
           "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Predict.fun FDV above $300M one day after launch?",
-          "odds": "-233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the NY-08 House seat?",
-          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
