@@ -1,40 +1,121 @@
 {
-  "lastUpdated": "19 de junio de 2026 — 03:38 UTC",
+  "lastUpdated": "19 de junio de 2026 — 06:10 UTC",
   "ticker": [
+    "Iran war day 112: Vance defends Tehran ‘deal’ but Switzerland trips are off",
+    "A world on trial: How lawyers documenting Israeli abuse pay a price",
+    "Cape Verde goalkeeper Vozinha happy his mother will attend World Cup",
+    "Burnham by-election victory raises stakes for Starmer",
+    "Behind the noise of an ‘Iran deal’, Palestine continues to burn",
+    "Mexico beat South Korea 1-0, become first team to reach World Cup knockouts",
+    "Norway MP’s join viral World Cup ‘Viking Row’ trend",
+    "Ukraine urges EU to pressure Russia to end war before winter",
+    "Israel strikes southern Lebanon in sudden clash surge with Hezbollah",
     "Andy Burnham wins key UK by-election, paving way to challenge Keir Starmer",
+    "Canada vs Qatar World Cup: 3 goals for David, 2 red cards, 1 injured Kone",
     "Obama opens presidential centre with call for unity",
     "Paint peeling after $14 million memorial pool renovation",
     "EU won’t lift key Iran sanctions until formal nuclear deal reached",
-    "Zimbabwe bill to scrap presidential elections sparks backlash",
-    "Iran war live: JD Vance delays trip to Switzerland for talks with Tehran",
-    "Vote counting begins in high-stakes UK by-election",
-    "US judge orders release of Palestinian rights advocate detained by ICE",
-    "Switzerland beat Bosnia and Herzegovina 4-1, top Group B in World Cup",
-    "Are prices really dropping in the US, as Trump claims?",
-    "Cuba’s Communist Party approves opening economy in unprecedented move",
-    "Myanmar military airstrike kills seven civilians in Rakhine state"
+    "Zimbabwe bill to scrap presidential elections sparks backlash"
   ],
   "sections": [
     {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Will a team from LPL (China) win MSI 2026?",
+          "odds": "+212",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Russia x Ukraine ceasefire by December 31, 2026?",
           "odds": "+203",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Belgium vs. IR Iran: O/U 6.5",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇨🇳",
-      "label": "CHINA / PACÍFICO / COREA",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will a team from LPL (China) win MSI 2026?",
-          "odds": "+212",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
+          "event": "Will Nithya Raman win the 2026 Los Angeles mayoral election?",
+          "odds": "+165",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Ulf Kristersson be the next Prime Minister of Sweden?",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Pete Buttigieg announce a Presidential run before 2027?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will Google have a #1 AI model by December 31, 2026?",
+          "odds": "+127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Rafael Leao join Liverpool?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republicans win the Florida governor race in 2026?",
+          "odds": "-354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Chainlink dip to $4 in June?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the NY-08 House seat?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Predict.fun FDV above $300M one day after launch?",
+          "odds": "-194",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Lewis Hamilton get pole position at the 2026 F1 Austrian Grand Prix?",
+          "odds": "+170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Denver be between 88-89°F on June 19?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
