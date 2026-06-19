@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "19 de junio de 2026 — 21:03 UTC",
+  "lastUpdated": "19 de junio de 2026 — 22:49 UTC",
   "ticker": [
+    "Thirty dead at DRC displacement camp as Ebola threat grows",
+    "USA beat Australia 2–0 to book knockout spot at World Cup",
+    "Spain’s Yamal says ‘very early, unnecessary’ to play full World Cup match",
+    "Canada’s Kone undergoes major leg surgery; to miss rest of World Cup",
+    "Does Trump have to submit the Iran memorandum of understanding to Congress?",
+    "US announces new round of Israel-Lebanon talks in Washington next week",
     "Italian Prime Minister says she didn’t ‘beg’ Trump for G7 photograph",
     "Israel kills ‘a child a day’ on average in Gaza despite ceasefire, UN says",
     "Brazil vs Haiti LIVE: World Cup 2026",
@@ -9,28 +15,52 @@
     "Norway seeks to ban trade with illegal Israeli settlements in Palestine",
     "Iran war: Success or disaster? Mehdi Hasan and David Des Roches",
     "How is the Iran-US agreement being viewed in Israel?",
-    "One person killed, several injured as two trains collide north of London",
-    "Backlash for UK MP who linked England World Cup result to women’s safety",
-    "More than 70 medics infected with Ebola as DRC outbreak spreads ‘fast’",
-    "Dramatic rescue as fire rips through school in Japan",
-    "Italy’s top diplomat nixes US trip after Meloni says Trump fabricated story",
-    "How is China using AI in the classroom?",
-    "Israeli air strikes hit Lebanon minutes after new ceasefire"
+    "One person killed, several injured as two trains collide north of London"
   ],
   "sections": [
+    {
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "rows": [
+        {
+          "event": "Will the highest temperature in Warsaw be 32°C on June 21?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Iran agrees to end enrichment of uranium by June 30?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Ukraine signs peace deal with Russia by August 31?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
     {
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
           "event": "Will Pete Buttigieg announce a Presidential run before 2027?",
-          "odds": "+614",
+          "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Efraim Filho win the Governor of Paraíba election?",
           "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will New Zealand First Party win the third-most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
+          "odds": "-138",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -41,14 +71,32 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Morocco to win the second half?",
+          "odds": "+104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Google have a #1 AI model by December 31, 2026?",
           "odds": "+127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
+          "event": "Will Wyndham Clark win the 2026 U.S. Open?",
+          "odds": "+194",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the Republican Party win the NY-08 House seat?",
           "odds": "+1308",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Helsinki be 26°C on June 20?",
+          "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -65,25 +113,7 @@
           "moved": "none"
         },
         {
-          "event": "Milwaukee Brewers vs. Atlanta Braves",
-          "odds": "+112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Chainlink dip to $4 in June?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Predict.fun FDV above $300M one day after launch?",
-          "odds": "-233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the lowest temperature in Paris be 25°C on June 20?",
           "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
