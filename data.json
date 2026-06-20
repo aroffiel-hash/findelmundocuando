@@ -1,9 +1,11 @@
 {
-  "lastUpdated": "20 de junio de 2026 — 13:45 UTC",
+  "lastUpdated": "20 de junio de 2026 — 13:47 UTC",
   "ticker": [
     "Where do Iran’s political factions stand on the US peace deal?",
     "In Nepal’s highlands, climate change threatens Tibet’s Bon faith",
+    "UK condemns Israeli minister over inflammatory Lebanon remarks",
     "Top Ukrainian officials return Polish awards in WWII dispute",
+    "Spain vs Saudi Arabia: World Cup 2026 – Yamal, prediction, watch, kickoff",
     "Why Tunisia’s renewable energy strategy is facing resistance",
     "An Israeli court has convicted seven men over the 2021 lynching of Sa’id Mo",
     "Slave trade reenacted on Juneteenth as leaders demand reparations",
@@ -12,59 +14,120 @@
     "India’s revolution in women’s cricket",
     "What the US-Iran peace deal means for the ‘Team Melli’ World Cup campaign",
     "Morocco fans dream of World Cup glory after Scotland win",
-    "Families storm Ebola treatment centre in DRC, remove patients"
+    "Families storm Ebola treatment centre in DRC, remove patients",
+    "Trump’s Iran deal, Israel’s meltdown"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
-      "rows": [
-        {
-          "event": "Trump announces US x Iran ceasefire over by June 30?",
-          "odds": "+2339",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Will Ukraine re-enter Maliivka by December 31?",
           "odds": "-354",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Trump announces US x Iran ceasefire over by June 30?",
+          "odds": "+2677",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Ukraine win Junior Eurovision 2026?",
           "odds": "+1566",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇨🇳",
-      "label": "CHINA / PACÍFICO / COREA",
-      "rows": [
+        },
         {
           "event": "Will China GDP growth in Q2 2026 be between 4.9% and 5.2%?",
           "odds": "+2841",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y ENERGÍA",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will the average monthly Ethereum gas price hit 5 Gwei before 2027?",
-          "odds": "+1011",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Will Pete Buttigieg announce a Presidential run before 2027?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Efraim Filho win the Governor of Paraíba election?",
+          "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will New Zealand First Party win the third-most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
+          "odds": "-138",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Christopher Taylor be the Democratic nominee for the Ann Arbor Mayoral Election?",
+          "odds": "-127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will Senegal win on 2026-06-26?",
+          "odds": "-300",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the NY-08 House seat?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republicans win the Florida governor race in 2026?",
+          "odds": "-376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "France vs. Iraq: Neither team to score first?",
+          "odds": "+1786",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Google have the best Math AI model at the end of July 2026?",
+          "odds": "+108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Set Handicap: Charaeva (-1.5) vs Aksu (+1.5)",
+          "odds": "-108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "South Africa leading at halftime?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Predict.fun FDV above $300M one day after launch?",
+          "odds": "-244",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
