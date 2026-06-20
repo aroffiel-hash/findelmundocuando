@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "20 de junio de 2026 — 15:41 UTC",
+  "lastUpdated": "20 de junio de 2026 — 17:19 UTC",
   "ticker": [
+    "Bolivia declares state of emergency amid blockade crisis",
+    "Israeli strike kills children in Gaza despite ceasefire claims",
+    "‘You could’ve been the greatest’: Trump faces Israeli anger over Iran deal",
+    "How Ivan Cepeda emerged a frontrunner in Colombia’s presidential election",
+    "Germany vs Ivory Coast: LIVE – World Cup 2026",
+    "Trump insists Italy’s Meloni sought photos with him to boost popularity",
     "Iran warns of ‘reciprocal action’ if US doesn’t honour MOU commitments",
     "Nine left in critical condition after UK train collision that killed driver",
     "Court bans Spanish PM’s wife from leaving country amid corruption probe",
     "Where do Iran’s political factions stand on the US peace deal?",
     "In Nepal’s highlands, climate change threatens Tibet’s Bon faith",
     "UK condemns Israeli minister over inflammatory Lebanon remarks",
-    "Top Ukrainian officials return Polish awards in WWII dispute",
+    "Zelenskyy and top Ukrainian officials return Polish awards in WWII dispute",
     "Spain vs Saudi Arabia: World Cup 2026 – Yamal, prediction, watch, kickoff",
-    "Why Tunisia’s renewable energy strategy is facing resistance",
-    "An Israeli court has convicted seven men over the 2021 lynching of Sa’id Mo",
-    "Slave trade reenacted on Juneteenth as leaders demand reparations",
-    "MSF says conditions in Lebanon’s Nabatieh resemble a ‘death trap’",
-    "German journalist held in Syria back home, family says",
-    "India’s revolution in women’s cricket",
-    "What the US-Iran peace deal means for the ‘Team Melli’ World Cup campaign"
+    "Why Tunisia’s renewable energy strategy is facing resistance"
   ],
   "sections": [
     {
@@ -23,14 +23,14 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Ukraine re-enter Maliivka by December 31?",
-          "odds": "-354",
+          "event": "Trump announces US x Iran ceasefire over by June 30?",
+          "odds": "+2280",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Trump announces US x Iran ceasefire over by June 30?",
-          "odds": "+2400",
+          "event": "Will Ukraine re-enter Maliivka by December 31?",
+          "odds": "-354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -43,6 +43,18 @@
         {
           "event": "Will China GDP growth in Q2 2026 be between 4.9% and 5.2%?",
           "odds": "+2841",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will S&P 500 (SPY) hit (LOW) $720 in June?",
+          "odds": "+525",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -77,8 +89,32 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Will the highest temperature in Beijing be 28°C on June 21?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: Uruguay 1 - 2 Cabo Verde?",
+          "odds": "+2027",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Google have the best Math AI model at the end of July 2026?",
           "odds": "+108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Seoul be 26°C on June 22?",
+          "odds": "+212",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Elon Musk post 920-959 tweets in June 2026?",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -95,32 +131,8 @@
           "moved": "none"
         },
         {
-          "event": "France vs. Iraq: Neither team to score first?",
-          "odds": "+1786",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "South Africa leading at halftime?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Predict.fun FDV above $300M one day after launch?",
-          "odds": "-244",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Chainlink dip to $4 in June?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Lewis Hamilton get pole position at the 2026 F1 Austrian Grand Prix?",
-          "odds": "+170",
+          "event": "Will Algeria win on 2026-06-22?",
+          "odds": "-163",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
