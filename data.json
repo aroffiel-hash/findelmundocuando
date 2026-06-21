@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "21 de junio de 2026 — 17:22 UTC",
+  "lastUpdated": "21 de junio de 2026 — 19:21 UTC",
   "ticker": [
+    "Europe heatwave scorches cities and wildlife",
+    "Spain thrash Saudi Arabia 4-0 as Lamine Yamal off mark at World Cup 2026",
+    "What’s next in the Strait of Hormuz crisis?",
     "Ethiopian prime minister’s party easily wins parliamentary election",
     "Khamenei’s MoU stance stirs debate as Iran and US meet in Switzerland",
     "Iran, US, Israel: Memorandum of misunderstanding?",
@@ -9,19 +12,40 @@
     "Syria frees activist Hassan Akkad days after he was detained",
     "Mbappe, France play Iraq in World Cup match: prediction, team news, lineups",
     "US-Iran negotiations in Switzerland kick off",
-    "Iran-U.S. launch historic peace talks with 60-day roadmap",
+    "Iran-US launch historic peace talks with 60-day roadmap",
     "Fans flood Atlanta streets before Spain-Saudi Arabia match",
     "Bolivian authorities say no active blockades after state of emergency decree",
-    "Gaza bids farewell to slain journalist Ahmed Wishah",
-    "Police charge man after suspected anti-Muslim attacks in Edinburgh",
-    "Is the French judiciary against Palestine?",
-    "Andy Burnham says Israel would be his first overseas visit in old clip"
+    "Gaza bids farewell to slain journalist Ahmed Wishah"
   ],
   "sections": [
+    {
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "rows": [
+        {
+          "event": "Valorant: ONSIDE GAMING vs T1 Academy (BO3) - VCL Korea: Regular Season",
+          "odds": "-138",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Belgium vs. IR Iran: IR Iran O/U 2.5",
+          "odds": "+2531",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
     {
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
+        {
+          "event": "Will Andy Burnham be the next Prime Minister of the United Kingdom in 2026?",
+          "odds": "-1624",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Pete Buttigieg announce a Presidential run before 2027?",
           "odds": "+566",
@@ -29,14 +53,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Andy Burnham be the next Prime Minister of the United Kingdom in 2026?",
-          "odds": "-2027",
+          "event": "Will Christopher Taylor be the Democratic nominee for the Ann Arbor Mayoral Election?",
+          "odds": "-127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Christopher Taylor be the Democratic nominee for the Ann Arbor Mayoral Election?",
-          "odds": "-127",
+          "event": "Will Jonathan Kreiss-Tomkins win the 2026 Alaska governor election?",
+          "odds": "+541",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -47,8 +71,32 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Exact Score: Ecuador 0 - 2 Germany?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Donald Trump publicly insult Friedrich Merz by June 30, 2026?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will CR Brasil win on 2026-06-21?",
+          "odds": "-163",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the Republican Party win the NY-08 House seat?",
           "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will FURIA make a roster change before July?",
+          "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -67,30 +115,6 @@
         {
           "event": "Will Chainlink dip to $4 in June?",
           "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Valorant: Paper Rex vs Leviatán Esports - Map 4 Winner",
-          "odds": "-300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the lowest temperature in Hong Kong be 28°C on June 22?",
-          "odds": "-1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will SpaceX's market cap be between $3.0T and $3.5T at market close on last trading day of IPO month?",
-          "odds": "+2602",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Paris be 39°C on June 23?",
-          "odds": "+203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
