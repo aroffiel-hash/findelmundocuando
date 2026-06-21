@@ -1,109 +1,52 @@
 {
-  "lastUpdated": "20 de junio de 2026 — 23:01 UTC",
+  "lastUpdated": "21 de junio de 2026 — 02:58 UTC",
   "ticker": [
+    "Suspect arrested after anti-Muslim stabbing rampage in Scotland",
+    "Iran war live: Vance heads to Switzerland; Israel kills 16 in Lebanon",
+    "US refuses to ease Iran World Cup travel restrictions for Belgium match",
+    "Iranian delegation arrives in Switzerland for US peace talks",
     "Undav injury-time goal sees Germany beat Ivory Coast to top World Cup group",
     "Trump vows Iran will not charge Strait of Hormuz tolls, but says US might",
     "Uncertain World Cup for Paraguay’s Almiron, sent off for covering his mouth",
     "Bolivia declares state of emergency to clear protest blockades",
     "Overplaying Strait of Hormuz card will turn Iran into a pariah state",
-    "Netherlands vs Sweden: Gakpo, Brobbey doubles give Dutch 5–1 World Cup win",
     "Ukraine says Russian attack kills five people in Zaporizhzhia",
     "Are UK Prime Minister Keir Starmer’s political days numbered?",
-    "Al Jazeera cameraman Ahmed Wishah killed in Israeli attack in Gaza",
-    "US-Iran talks to kick off Sunday in Switzerland, says Pakistan",
-    "As ILO convention turns 30, India’s home-based workers demand equal rights",
-    "World cup wrap day 9",
-    "Iran shuts Strait of Hormuz as Israel tests MOU with Lebanon strikes",
-    "Bolivia declares state of emergency amid blockade crisis",
-    "Israeli strike kills children in Gaza despite ceasefire claims"
+    "Al Jazeera cameraman Ahmed Wishah killed in Israeli attack in Gaza"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
+      "rows": [
+        {
+          "event": "Will Abbas Araghchi attend the US-Iran Signing Ceremony?",
+          "odds": "+203",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇨🇳",
+      "label": "CHINA / PACÍFICO / COREA",
       "rows": [
         {
           "event": "Will China GDP growth in Q2 2026 be between 4.9% and 5.2%?",
           "odds": "+2841",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "💰",
+      "label": "ECONOMÍA Y ENERGÍA",
       "rows": [
         {
-          "event": "Will Pete Buttigieg announce a Presidential run before 2027?",
-          "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Josh Tenorio win the 2026 Guam Governor Democratic primary election?",
-          "odds": "+257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Christopher Taylor be the Democratic nominee for the Ann Arbor Mayoral Election?",
-          "odds": "-127",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will the highest temperature in Hong Kong be 33°C on June 21?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: Uruguay 1 - 2 Cabo Verde?",
-          "odds": "+2027",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Google have the best Math AI model at the end of July 2026?",
-          "odds": "+108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: Norway 3 - 0 Senegal?",
-          "odds": "+2531",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republicans win the Florida governor race in 2026?",
-          "odds": "-316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the NY-08 House seat?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Predict.fun FDV above $300M one day after launch?",
-          "odds": "-244",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "South Africa leading at halftime?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
+          "event": "Will the average monthly Ethereum gas price hit 5 Gwei before 2027?",
+          "odds": "+1011",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
