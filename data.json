@@ -1,9 +1,10 @@
 {
-  "lastUpdated": "21 de junio de 2026 — 13:53 UTC",
+  "lastUpdated": "21 de junio de 2026 — 13:55 UTC",
   "ticker": [
     "Marc Marquez wins the Czech MotoGP, narrows title gap to leader Bezzecchi",
     "Why Lebanon may make or break the Iran-US deal",
     "Pressure mounts on UK PM Starmer to quit after Burnham’s by-election win",
+    "Spain vs Saudi Arabia LIVE: World Cup 2026",
     "Henry stars as New Zealand wrap up victory against England in second Test",
     "US-Iran delegations arrive as talks begin in Switzerland",
     "Messi, Argentina play Austria in World Cup group match: All to know",
@@ -12,35 +13,103 @@
     "Stop ‘Greater Israel’ to make peace",
     "Lebanon’s ancient monuments remain at risk from Israeli attack",
     "Mother of Al Jazeera’s Ahmed Wishah mourns his killing",
-    "Albanian protesters rally against Kushner-backed resort in protected area"
+    "Albanian protesters rally against Kushner-backed resort in protected area",
+    "Colombians to vote in presidential run-off pitting leftist against hardliner",
+    "Protests in Albania against Kushner resort swell to tens of thousands"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Will Saudi Arabia reach the Round of 16 at the 2026 FIFA World Cup?",
-          "odds": "+1328",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
-          "moved": "none"
-        },
         {
           "event": "Exact Score: Belgium 1 - 0 IR Iran?",
           "odds": "+669",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Donald Trump publicly insult Friedrich Merz by June 30, 2026?",
+          "event": "Will Pete Buttigieg announce a Presidential run before 2027?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Christopher Taylor be the Democratic nominee for the Ann Arbor Mayoral Election?",
+          "odds": "-127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Andy Burnham be the next Prime Minister of the United Kingdom in 2026?",
+          "odds": "-2027",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will voter turnout be 56-60% in the second round of the 2026 Colombian presidential election?",
+          "odds": "+112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will the highest temperature in Istanbul be 24°C on June 23?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the NY-08 House seat?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Chicago Sky vs. Connecticut Sun",
+          "odds": "-149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the TX-31 House seat?",
+          "odds": "-488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Predict.fun FDV above $300M one day after launch?",
+          "odds": "-244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Chainlink dip to $4 in June?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Lamine Yamal win the 2026 Ballon d'Or?",
           "odds": "+809",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Los Angeles be between 70-71°F on June 21?",
+          "odds": "-334",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
