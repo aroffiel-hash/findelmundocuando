@@ -1,46 +1,127 @@
 {
-  "lastUpdated": "22 de junio de 2026 — 16:42 UTC",
+  "lastUpdated": "22 de junio de 2026 — 19:20 UTC",
   "ticker": [
+    "Thousands of kites soar over Denmark at annual beach festival",
+    "US raises concern as RSF forces encircle Sudanese city of el-Obeid",
+    "A leftward lurch? What to know about the Democratic primaries in New York",
+    "Messi breaks World Cup’s all-time scoring record with 17th goal vs Austria",
+    "Lebanon discusses ‘deconfliction’ mechanism ahead of Israel talks",
+    "Qatar’s PM tells Al Jazeera progress made in US-Iran talks",
+    "Kenyan court finds minister in contempt over US Ebola site",
+    "Will a US-Iran deal transform the Iranian economy?",
+    "South African police tighten security as anti-migrant deadline approaches",
+    "Marco Rubio heads to Middle East to address Iran MoU, Hormuz",
+    "France vs Iraq LIVE: World Cup 2026",
+    "Canada’s inflation hits 29-month high amid heightened oil prices",
     "Lebanon Latest: Israeli attacks surge despite ceasefire efforts",
     "US partially lifts Iran oil sanctions amid ‘encouraging’ talks",
-    "Why Washington’s reflecting pool has gone from ‘US blue’ to algae green",
-    "Football, war and solidarity: Why Gaza fans turned to Spain this World Cup",
-    "Former US Federal Reserve Chairman Alan Greenspan dies at age 100",
-    "What the World Cup looks like from Gaza",
-    "Ukraine says it hit missile electronics plant in western Russia",
-    "Ex-Wimbledon champion Vondrousova banned for refusing drug test",
-    "Why has Keir Starmer resigned as UK prime minister, and who will take over?",
-    "China adds 10 US firms, including rare-earth miner, to export control list",
-    "Pakistan issues nationwide alert over fears of heavy rains, floods",
-    "Far-right de la Espriella elected Colombia president: What’s next?"
+    "Why Washington’s reflecting pool has gone from ‘US blue’ to algae green"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Exact Score: Bosnia-Herzegovina 3 - 0 Qatar?",
-          "odds": "+900",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Lexus Eastbourne Open (Doubles): Bhambri/Venus vs Etcheverry/Tirante",
+          "odds": "-284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Likud win the most seats in the 2026 Israeli legislative election?",
+          "odds": "+156",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Steven Kwan win the 2026 AL Platinum Glove award?",
+          "odds": "+3125",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Donald Trump post 160-179 Truth Social posts from June 19 to June 26, 2026?",
-          "odds": "+614",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Will Christopher Taylor be the Democratic nominee for the Ann Arbor Mayoral Election?",
+          "odds": "-138",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Starmer say \"Trump\" during resignation?",
           "odds": "+1566",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jonathan Kreiss-Tomkins win the 2026 Alaska governor election?",
+          "odds": "+575",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Anthony Albanese be Prime Minister of Australia after the next election?",
+          "odds": "+143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Targu Mures (Doubles): Jecan/Pavel vs Bianchi/Perez",
+          "odds": "-244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Predict.fun FDV above $300M one day after launch?",
+          "odds": "-334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Targu Mures (Doubles): Barrientos/Behar vs Castelnuovo/Santillan",
+          "odds": "-284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: Ecuador 1 - 3 Germany?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Mallorca Championships (Doubles): Krajicek/Mektic vs Kyrgios/Smith",
+          "odds": "-163",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the lowest temperature in London be 26°C on June 24?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Logan Cunningham be the Republican Nominee for SC-01?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the NY-08 House seat?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
