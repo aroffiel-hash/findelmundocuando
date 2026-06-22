@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "22 de junio de 2026 — 09:42 UTC",
+  "lastUpdated": "22 de junio de 2026 — 15:17 UTC",
   "ticker": [
-    "UK Prime Minister Keir Starmer announces resignation plan",
-    "Lamine Yamal says ‘I’m here’: Spain star dazzles with World Cup goal",
-    "UK Prime Minister Keir Starmer says he will resign",
-    "Clark wins second US Open trophy despite hecklers",
-    "What are the key outcomes of the Iran-US talks in Switzerland, what next?",
-    "Prime Minister Keir Starmer expected to announce exit plan: UK media",
-    "Which teams have qualified for the World Cup 2026 knockouts, round of 32?",
-    "US, Iran agree on ‘roadmap’ towards final deal in Switzerland talks",
-    "LIVE: UK’s Starmer resigns as prime minister",
-    "Far-right lawyer De La Espriella wins Colombia’s tight presidential race",
-    "60-day US-Iran talks will be ‘really hard’",
-    "Iran war day 115: Lebanon truce appears to hold as Switzerland talks end",
-    "‘Encouraging progress’ made as first round US-Iran talks end",
-    "New York City welcomes the summer solstice with Times Square yoga",
-    "Colombia presidential candidate De la Espriella celebrates preliminary lead"
+    "Ukraine says it hit missile electronics plant in western Russia",
+    "Ex-Wimbledon champion Vondrousova banned for refusing drug test",
+    "Why has Keir Starmer resigned as UK prime minister, and who will take over?",
+    "Qatar PM denies snubbing US vice president in viral video",
+    "Argentina vs Austria LIVE: World Cup 2026",
+    "China adds 10 US firms, including rare-earth miner, to export control list",
+    "Pakistan issues nationwide alert over fears of heavy rains, floods",
+    "Far-right de la Espriella elected Colombia president: What’s next?",
+    "JD Vance touts progress on key issues in US-Iran negotiations",
+    "US strike on an alleged drug boat in eastern Pacific kills two",
+    "Gaza’s surfers seek solace from war in the Mediterranean Sea",
+    "How Canada’s Muslims face ‘perfect storm’ amid rising xenophobia",
+    "Ebola cases surpass 1,000 in DR Congo amid violence and displacement",
+    "The ICC must investigate Israel’s genocidal use of sexual violence",
+    "Israel kills turtle conservationist Mona Khalil"
   ],
   "sections": [
     {
@@ -25,6 +25,12 @@
         {
           "event": "Lexus Eastbourne Open (Doubles): Bhambri/Venus vs Etcheverry/Tirante",
           "odds": "-284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Wimbledon, Qualification ATP: Marco Cecchinato vs Tomas Barrios",
+          "odds": "+488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -41,8 +47,14 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Pete Buttigieg announce a Presidential run before 2027?",
-          "odds": "+566",
+          "event": "Will Adrian Veștea be the next Prime Minister of Romania?",
+          "odds": "+129",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Starmer say \"Trump\" during resignation?",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -71,14 +83,20 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the highest temperature in London be 34°C on June 23?",
-          "odds": "+270",
+          "event": "Will 25-49 ships transit the Strait of Hormuz between June 15-June 21?",
+          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Targu Mures (Doubles): Jecan/Pavel vs Bianchi/Perez",
           "odds": "-244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Predict.fun FDV above $300M one day after launch?",
+          "odds": "-316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -101,20 +119,14 @@
           "moved": "none"
         },
         {
-          "event": "Predict.fun FDV above $300M one day after launch?",
-          "odds": "-300",
+          "event": "Exact Score: Japan 1 - 1 Sweden?",
+          "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Republican Party win the NY-08 House seat?",
           "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Donald Trump post 160-179 Truth Social posts from June 19 to June 26, 2026?",
-          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
