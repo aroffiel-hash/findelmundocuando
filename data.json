@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "23 de junio de 2026 — 02:36 UTC",
+  "lastUpdated": "23 de junio de 2026 — 02:40 UTC",
   "ticker": [
     "Ghalibaf: US and Iran can work together to reopen Strait of Hormuz",
     "Israeli strike kills Palestinian girl on her way to sit exam",
@@ -12,35 +12,128 @@
     "Belgium’s Doku welcomes son during World Cup amid commentator controversy",
     "Egypt denied flight to Seattle ahead of final World Cup group match",
     "US House committee reaches bipartisan deal on social media rules for kids",
-    "‘Stop genocide’: Activist stopped by police at Tokyo’s Israeli Embassy"
+    "‘Stop genocide’: Activist stopped by police at Tokyo’s Israeli Embassy",
+    "Hungary’s PM launches drive to free country from Orban’s ‘mafia’",
+    "Czech public media staff strike, citing government threat to independence",
+    "US judge blocks Trump administration subpoena against Minnesota officials"
   ],
   "sections": [
     {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Lexus Eastbourne Open (Doubles): Bhambri/Venus vs Etcheverry/Tirante",
+          "odds": "-284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the Liberal Democratic Party of Russia (LDPR) win the third-most seats in the next Russian parliamentary election?",
           "odds": "+132",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Steven Kwan win the 2026 AL Platinum Glove award?",
+          "odds": "+3125",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will \"The Odyssey\" be nominated for Best Picture at the 99th Academy Awards?",
+          "odds": "-284",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
           "event": "Will Minnesota use a new congressional map for the 2026 United States midterm elections?",
           "odds": "+3233",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Alexandru Nazare be the next Prime Minister of Romania?",
           "odds": "+536",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Christopher Taylor be the Democratic nominee for the Ann Arbor Mayoral Election?",
+          "odds": "-156",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jonathan Kreiss-Tomkins win the 2026 Alaska governor election?",
+          "odds": "+575",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Anthony Albanese be Prime Minister of Australia after the next election?",
+          "odds": "+143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Targu Mures (Doubles): Jecan/Pavel vs Bianchi/Perez",
+          "odds": "-244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Predict.fun FDV above $300M one day after launch?",
+          "odds": "-316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Targu Mures (Doubles): Barrientos/Behar vs Castelnuovo/Santillan",
+          "odds": "-284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Mallorca Championships (Doubles): Krajicek/Mektic vs Kyrgios/Smith",
+          "odds": "-163",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Honor of Kings: JLY vs LT Gaming - Game 3 Winner",
+          "odds": "+112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Logan Cunningham be the Republican Nominee for SC-01?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will there be exactly 2 earthquakes of magnitude 6.5 or higher worldwide from June 22 - 28?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the NY-08 House seat?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
