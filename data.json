@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "23 de junio de 2026 — 02:40 UTC",
+  "lastUpdated": "23 de junio de 2026 — 06:43 UTC",
   "ticker": [
-    "Ghalibaf: US and Iran can work together to reopen Strait of Hormuz",
-    "Israeli strike kills Palestinian girl on her way to sit exam",
-    "Mbappe leads France to win over Iraq in lightning-delayed World Cup game",
-    "Messi becomes the World Cup’s all-time top goalscorer",
-    "How women steer youths away from gang violence in northeastern Nigeria",
-    "Iran war live: US waives oil sanctions, to release $12bn in frozen funds",
-    "Gaza surfers seek solace from war in the sea",
-    "Video shows deadly shooting in Montreal, Canada",
-    "Belgium’s Doku welcomes son during World Cup amid commentator controversy",
-    "Egypt denied flight to Seattle ahead of final World Cup group match",
-    "US House committee reaches bipartisan deal on social media rules for kids",
-    "‘Stop genocide’: Activist stopped by police at Tokyo’s Israeli Embassy",
-    "Hungary’s PM launches drive to free country from Orban’s ‘mafia’",
-    "Czech public media staff strike, citing government threat to independence",
-    "US judge blocks Trump administration subpoena against Minnesota officials"
+    "Giannis Antetokounmpo trade: Bucks star to join Miami Heat – reports",
+    "Football offers escape for Gaza, but World Cup spirit dimmed",
+    "Palestine weekly wrap: Israel’s ‘quiet annexation’ grows louder",
+    "Algeria rally late to knock Jordan out of World Cup 2026",
+    "Colombia’s leftist presidential candidate vows to challenge election result",
+    "Which teams have qualified for the World Cup 2026 knockouts, round of 32?",
+    "Latin Patriarch of Jerusalem Pizzaballa makes solidarity visit to Gaza",
+    "Iraq fans ‘proud’ and joyful despite World Cup loss to France",
+    "Bullying investigated after rare Philippines school shooting kills three",
+    "Five Eyes intelligence alliance warns of threats from new AI models",
+    "Last one, the best one? How Lionel Messi keeps doing it at the World Cup",
+    "Conservative radio host defends Trump, says he’s better than Vance",
+    "Alan Greenspan, former US Federal Reserve chairman, dies at 100",
+    "Haaland scores two as Norway beat Senegal 3-2, enter World Cup knockouts",
+    "US watchdog opens probe after Tesla crashes into Texas home, killing woman"
   ],
   "sections": [
     {
@@ -25,12 +25,6 @@
         {
           "event": "Lexus Eastbourne Open (Doubles): Bhambri/Venus vs Etcheverry/Tirante",
           "odds": "-284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Liberal Democratic Party of Russia (LDPR) win the third-most seats in the next Russian parliamentary election?",
-          "odds": "+132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -49,15 +43,21 @@
       ]
     },
     {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
+          "odds": "+1860",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
-        {
-          "event": "Will Minnesota use a new congressional map for the 2026 United States midterm elections?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Alexandru Nazare be the next Prime Minister of Romania?",
           "odds": "+536",
@@ -65,14 +65,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Christopher Taylor be the Democratic nominee for the Ann Arbor Mayoral Election?",
-          "odds": "-156",
+          "event": "Will Jonathan Kreiss-Tomkins win the 2026 Alaska governor election?",
+          "odds": "+575",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Jonathan Kreiss-Tomkins win the 2026 Alaska governor election?",
-          "odds": "+575",
+          "event": "Will Peggy Flanagan be the Democratic nominee for Senate in Minnesota?",
+          "odds": "-257",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -101,6 +101,12 @@
           "moved": "none"
         },
         {
+          "event": "ITF Galati: Ingrid Ioana Sanduleasa vs Alesia Breaz",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Targu Mures (Doubles): Barrientos/Behar vs Castelnuovo/Santillan",
           "odds": "-284",
           "params": "Fuente: Polymarket",
@@ -113,26 +119,20 @@
           "moved": "none"
         },
         {
-          "event": "Honor of Kings: JLY vs LT Gaming - Game 3 Winner",
-          "odds": "+112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Logan Cunningham be the Republican Nominee for SC-01?",
           "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will there be exactly 2 earthquakes of magnitude 6.5 or higher worldwide from June 22 - 28?",
-          "odds": "+525",
+          "event": "Will the Republican Party win the NY-08 House seat?",
+          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the Republican Party win the NY-08 House seat?",
-          "odds": "+1899",
+          "event": "Will the Republican Party win the TX-31 House seat?",
+          "odds": "-488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
