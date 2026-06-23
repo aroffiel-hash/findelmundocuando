@@ -1,40 +1,133 @@
 {
-  "lastUpdated": "23 de junio de 2026 — 14:33 UTC",
+  "lastUpdated": "23 de junio de 2026 — 16:23 UTC",
   "ticker": [
+    "The $3.7bn man: Inside one of US’s biggest Medicare frauds",
+    "South African police investigate murder amid rise in anti-migrant attacks",
+    "More than 5,300 people still held in Myanmar scam centres: rights group",
+    "Republican-linked PACs funding Democratic US primaries: Why it matters",
     "Demand for tunnel maps and personal weapons tests Gaza talks",
     "Mexico exhibition relives memories of Qatar World Cup 2022",
     "Kenya minister says US-run Ebola facility plans halted after court order",
+    "Portugal vs Uzbekistan LIVE: World Cup 2026",
     "What the US and Iran agreed – and disagreed – on first day of talks",
     "Vaibhav Sooryavanshi, T20 IPL batting prodigy, receives first India jersey",
     "Former PM says Israel smuggled Starlink internet systems into Iran",
     "Israeli fire kills two in Lebanon as Hezbollah slams truce ‘violation’",
     "Arab fans celebrate World Cup results in New York",
     "Palestinian children targeted in genocide, war crimes in Gaza: UN inquiry",
-    "NYC Mayor Zohran Mamdani doubles down on criticism of AIPAC",
-    "Why is Israel being accused of meddling in Colombia presidential election?",
-    "How does air conditioning work, and how does it affect your body?"
+    "NYC Mayor Zohran Mamdani doubles down on criticism of AIPAC"
   ],
   "sections": [
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Trump meet with Benjamin Netanyahu in June 2026?",
-          "odds": "+614",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Will South Korea ETF (EWY) hit (LOW) $170 in June?",
+          "odds": "+244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Steven Kwan win the 2026 AL Platinum Glove award?",
+          "odds": "+3125",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y ENERGÍA",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
           "event": "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?",
           "odds": "-222",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Luiz Inácio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election?",
+          "odds": "+3025",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Peggy Flanagan be the Democratic nominee for Senate in Minnesota?",
+          "odds": "-284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jonathan Kreiss-Tomkins win the 2026 Alaska governor election?",
+          "odds": "+575",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Anthony Albanese be Prime Minister of Australia after the next election?",
+          "odds": "+143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will the price of XRP be above $1.20 on June 26?",
+          "odds": "+1104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Targu Mures (Doubles): Jecan/Pavel vs Bianchi/Perez",
+          "odds": "-244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Predict.fun FDV above $300M one day after launch?",
+          "odds": "-316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Cape Town be 19°C on June 25?",
+          "odds": "+300",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Targu Mures (Doubles): Barrientos/Behar vs Castelnuovo/Santillan",
+          "odds": "-284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Chicago be between 76-77°F on June 23?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Tesla (TSLA) finish week of June 22 above $390?",
+          "odds": "-149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Logan Cunningham be the Republican Nominee for SC-01?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
