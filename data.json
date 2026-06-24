@@ -1,133 +1,70 @@
 {
-  "lastUpdated": "23 de junio de 2026 — 23:02 UTC",
+  "lastUpdated": "24 de junio de 2026 — 02:37 UTC",
   "ticker": [
+    "Syrians reject Trump’s call for Syria to combat Hezbollah in Lebanon",
+    "Budimir gives Croatia a 1-0 win to eliminate Panama from the World Cup",
+    "US Senate votes to pause Iran war in rare rebuke to Trump",
+    "England’s Spence appears to refuse handshake with booed Ghana player Partey",
+    "Iran war live: Trump, Tehran at odds over nuclear inspections, Hormuz",
+    "UN begins evacuation of 11,000 sailors stranded in Strait of Hormuz",
+    "Ronaldo late to World Cup party but still able to steal the show",
+    "Protesters sentenced to decades in US prison over alleged antifa ties",
+    "US Supreme Court says Rastafarian man shaved by prison guards can’t sue",
     "Israel’s deliberate targeting of Palestinian children",
     "England held by Ghana at World Cup as pair close on last-32 passage",
-    "Donald Trump to attend World Cup final, present trophy: Infantino",
-    "UN: Israel committed genocide by targeting Gaza children",
-    "Paraguay’s Almiron suspended for one game after red card for covering mouth",
-    "Trump allies reassure Israelis amid tensions on US-Iran deal",
-    "Massive fire rips through Indonesia sandal factory",
-    "UN starts evacuating 11,000 stranded sailors from Strait of Hormuz",
-    "Alibaba sues US military over labelling it a ‘Chinese military company’",
-    "Trump disputes Iran’s rejection of nuclear inspectors",
-    "India prepares contingency plans due to weak monsoon season",
-    "Rubio begins Gulf visit in the UAE to advance US-Iran peace deal",
-    "Sanchez warns he ‘will not recognise’ Fujimori victory in Peru election",
-    "Iran’s president arrives in Pakistan for peace talks",
-    "US Senate votes to pass Iran war powers resolution in blow to Trump"
+    "Donald Trump to attend World Cup final, present trophy: Infantino"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
-          "event": "Will Steven Kwan win the 2026 AL Platinum Glove award?",
-          "odds": "+3125",
-          "params": "Fuente: Polymarket",
+          "event": "Will Trump say \"Gulf of Trump\" in June?",
+          "odds": "+1328",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
+      "rows": [
         {
           "event": "Will New People (NL) win the third-most seats in the next Russian parliamentary election?",
           "odds": "+316",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
+      "rows": [
+        {
+          "event": "Will Trump say \"Eiffel\" during June 24 Rally?",
+          "odds": "+733",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump meet with Benjamin Netanyahu in June 2026?",
+          "odds": "+1215",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "label": "ECONOMÍA Y ENERGÍA",
       "rows": [
         {
           "event": "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?",
           "odds": "-222",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will Peggy Flanagan be the Democratic nominee for Senate in Minnesota?",
-          "odds": "-300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Luiz Inácio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election?",
-          "odds": "+3025",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Jonathan Kreiss-Tomkins win the 2026 Alaska governor election?",
-          "odds": "+549",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Anthony Albanese be Prime Minister of Australia after the next election?",
-          "odds": "+143",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Targu Mures (Doubles): Jecan/Pavel vs Bianchi/Perez",
-          "odds": "-244",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Predict.fun FDV above $300M one day after launch?",
-          "odds": "-316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Targu Mures (Doubles): Barrientos/Behar vs Castelnuovo/Santillan",
-          "odds": "-284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: Colombia 0 - 0 DR Congo?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Munich be 33°C on June 24?",
-          "odds": "-108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Steve Bannon exonerated by June 30?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Tesla (TSLA) finish week of June 22 above $390?",
-          "odds": "-149",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Logan Cunningham be the Republican Nominee for SC-01?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
           "moved": "none"
         }
       ]
