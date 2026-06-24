@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "24 de junio de 2026 — 02:40 UTC",
+  "lastUpdated": "24 de junio de 2026 — 06:40 UTC",
   "ticker": [
+    "Diabetes patients in Gaza face survival battle amid war shortages",
+    "Deadly heatwave grips Europe as temperatures soar across continent",
+    "Kenyan Health Minister orders halt of construction of US Ebola facility",
+    "Ghana celebrates after holding nervous England to 0-0 draw",
+    "Cristiano Ronaldo becomes first player to score in six World Cups",
+    "Kilts and bagpipes flood Miami streets as Scotland prepare to face Brazil",
+    "Munoz sends Colombia into World Cup knockouts with 1-0 win over DR Congo",
+    "NBA Draft 2026: Wizards select teen sensation AJ Dybantsa with No. 1 pick",
+    "Which teams have qualified for the World Cup 2026 knockouts, round of 32?",
+    "China takes US crown for world’s fastest supercomputer",
+    "Trump claims US recouped Venezuela war costs 28 times over",
+    "Prada plays a part in designing NASA’s lunar mission spacesuits",
+    "Disinfectant brand apologises after ‘toxic men’ advert backfires in China",
     "Syrians reject Trump’s call for Syria to combat Hezbollah in Lebanon",
-    "Budimir gives Croatia a 1-0 win to eliminate Panama from the World Cup",
-    "US Senate votes to pause Iran war in rare rebuke to Trump",
-    "England’s Spence appears to refuse handshake with booed Ghana player Partey",
-    "Iran war live: Trump, Tehran at odds over nuclear inspections, Hormuz",
-    "UN begins evacuation of 11,000 sailors stranded in Strait of Hormuz",
-    "Ronaldo late to World Cup party but still able to steal the show",
-    "Protesters sentenced to decades in US prison over alleged antifa ties",
-    "US Supreme Court says Rastafarian man shaved by prison guards can’t sue",
-    "Israel’s deliberate targeting of Palestinian children",
-    "England held by Ghana at World Cup as pair close on last-32 passage",
-    "Donald Trump to attend World Cup final, present trophy: Infantino",
-    "UN: Israel committed genocide by targeting Gaza children",
-    "Paraguay’s Almiron suspended for one game after red card for covering mouth",
-    "Trump allies reassure Israelis amid tensions on US-Iran deal"
+    "Budimir gives Croatia a 1-0 win to eliminate Panama from the World Cup"
   ],
   "sections": [
     {
@@ -23,8 +23,20 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
+          "event": "Will Russia capture all of Stepnohirsk by September 30, 2026?",
+          "odds": "+975",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Steven Kwan win the 2026 AL Platinum Glove award?",
           "odds": "+3125",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will New People (NL) win the third-most seats in the next Russian parliamentary election?",
+          "odds": "+316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -34,12 +46,6 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
-        {
-          "event": "New York Liberty vs. Las Vegas Aces: O/U 175.5",
-          "odds": "+222",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?",
           "odds": "-222",
@@ -53,14 +59,8 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Peggy Flanagan be the Democratic nominee for Senate in Minnesota?",
-          "odds": "-284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the next UK Prime Minister be appointed by July 19?",
-          "odds": "-270",
+          "event": "Will the next Prime Minister of Romania be appointed by July 31?",
+          "odds": "-455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -83,12 +83,6 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the highest temperature in Tokyo be 23°C on June 25?",
-          "odds": "+156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Targu Mures (Doubles): Jecan/Pavel vs Bianchi/Perez",
           "odds": "-244",
           "params": "Fuente: Polymarket",
@@ -107,26 +101,32 @@
           "moved": "none"
         },
         {
-          "event": "Will White House post 180-199 posts from June 19 to June 26, 2026?",
-          "odds": "-177",
+          "event": "Will the highest temperature in Cape Town be 22°C on June 25?",
+          "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Tel Aviv be 30°C on June 24?",
-          "odds": "+100",
+          "event": "Will Durable Goods Orders MoM be below -4% in May?",
+          "odds": "+112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Trump say \"Eiffel\" during June 24 Rally?",
-          "odds": "+733",
+          "event": "Will the Republican Party win the NY-08 House seat?",
+          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "ITF Sapporo: Mutsumi Uemura vs Rira Kosaka",
-          "odds": "-524",
+          "event": "Will GPT-Bidi-1 be released by June 30, 2026?",
+          "odds": "+127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Munich be 36°C on June 26?",
+          "odds": "+376",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
