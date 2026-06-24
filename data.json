@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "24 de junio de 2026 — 02:37 UTC",
+  "lastUpdated": "24 de junio de 2026 — 02:40 UTC",
   "ticker": [
     "Syrians reject Trump’s call for Syria to combat Hezbollah in Lebanon",
     "Budimir gives Croatia a 1-0 win to eliminate Panama from the World Cup",
@@ -12,59 +12,122 @@
     "US Supreme Court says Rastafarian man shaved by prison guards can’t sue",
     "Israel’s deliberate targeting of Palestinian children",
     "England held by Ghana at World Cup as pair close on last-32 passage",
-    "Donald Trump to attend World Cup final, present trophy: Infantino"
+    "Donald Trump to attend World Cup final, present trophy: Infantino",
+    "UN: Israel committed genocide by targeting Gaza children",
+    "Paraguay’s Almiron suspended for one game after red card for covering mouth",
+    "Trump allies reassure Israelis amid tensions on US-Iran deal"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Trump say \"Gulf of Trump\" in June?",
-          "odds": "+1328",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
-      "rows": [
-        {
-          "event": "Will New People (NL) win the third-most seats in the next Russian parliamentary election?",
-          "odds": "+316",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
-      "rows": [
-        {
-          "event": "Will Trump say \"Eiffel\" during June 24 Rally?",
-          "odds": "+733",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump meet with Benjamin Netanyahu in June 2026?",
-          "odds": "+1215",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Will Steven Kwan win the 2026 AL Platinum Glove award?",
+          "odds": "+3125",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y ENERGÍA",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
+        {
+          "event": "New York Liberty vs. Las Vegas Aces: O/U 175.5",
+          "odds": "+222",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?",
           "odds": "-222",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Peggy Flanagan be the Democratic nominee for Senate in Minnesota?",
+          "odds": "-284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the next UK Prime Minister be appointed by July 19?",
+          "odds": "-270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Luiz Inácio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election?",
+          "odds": "+3125",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jonathan Kreiss-Tomkins win the 2026 Alaska governor election?",
+          "odds": "+549",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will the highest temperature in Tokyo be 23°C on June 25?",
+          "odds": "+156",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Targu Mures (Doubles): Jecan/Pavel vs Bianchi/Perez",
+          "odds": "-244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Predict.fun FDV above $300M one day after launch?",
+          "odds": "-316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Targu Mures (Doubles): Barrientos/Behar vs Castelnuovo/Santillan",
+          "odds": "-284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will White House post 180-199 posts from June 19 to June 26, 2026?",
+          "odds": "-177",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Tel Aviv be 30°C on June 24?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump say \"Eiffel\" during June 24 Rally?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "ITF Sapporo: Mutsumi Uemura vs Rira Kosaka",
+          "odds": "-524",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
