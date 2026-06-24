@@ -1,33 +1,27 @@
 {
-  "lastUpdated": "24 de junio de 2026 — 20:43 UTC",
+  "lastUpdated": "24 de junio de 2026 — 22:11 UTC",
   "ticker": [
+    "Bosnia win 3-2, knock out Qatar to keep alive hopes of World Cup round of 32",
+    "Qatar’s Madibo banned for 5 games after breaking leg of Canada’s Kone",
+    "Katz: Israel will not withdraw from Lebanon even if US demands it",
+    "Scotland fans take over Miami ahead of Brazil World Cup clash",
+    "Mehdi Taremi, assistant coach, held up at airport by US officials, Iran says",
+    "Palestinian activist faints after his release from Israeli prison",
+    "Family sues Tesla for wrongful death in Autopilot crash in Texas, US",
+    "Zimbabwe’s Senate approves amendment extending presidential term",
+    "US public health agency concludes hantavirus response as outbreak eases",
+    "Top European leaders vow ‘strong’ support for Ukraine ahead of NATO summit",
     "US judge blocks Trump subpoenas into transgender care at New York hospitals",
     "At least three killed in drone strikes in Russian controlled Horlivka",
     "Rubio: US ‘completely aligned’ with Gulf allies on Iran",
     "De la Espriella pledges to restore Colombia’s relations with Israel",
-    "UN nuclear chief says Iran inspections will happen, Tehran says after deal",
-    "Wins by Mamdani-backed candidates deal blow to pro-Israel camp in US",
-    "Why does Israel want to be less dependent on US weapons?",
-    "Dutch PM unveils Moluccan monument marking dark colonial chapter",
-    "Our life stops’: West Bank childhood shattered by Israeli military raids",
-    "Ivan Cepeda concedes defeat in Colombia election, sealing right-wing win",
-    "Palestinian boy amongst dead in Israeli strike on displaced tent in Gaza",
-    "LIVE: Scotland vs Brazil – World Cup 2026",
-    "What to know about the Israeli-developed chip in Apple’s iPhone 17e",
-    "Flash floods hit India’s Arunachal Pradesh",
-    "Did Brexit actually work?"
+    "UN nuclear chief says Iran inspections will happen, Tehran says after deal"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "South Africa vs. Korea Republic: 1st Half O/U 2.5",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Likud win 30-34 seats in the 2026 Israeli legislative election?",
           "odds": "+488",
@@ -43,6 +37,12 @@
         {
           "event": "Will Steven Kwan win the 2026 AL Platinum Glove award?",
           "odds": "+3125",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "South Africa to score first vs. Korea Republic?",
+          "odds": "+257",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -83,6 +83,12 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Will the Republican Party win the WI-07 House seat?",
+          "odds": "-669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Valorant: ROSE vs Pigeons - Map 1 Winner",
           "odds": "+143",
           "params": "Fuente: Polymarket",
@@ -95,20 +101,8 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Austin be between 98-99°F on June 25?",
-          "odds": "+2757",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Set Handicap: Safiullin (-1.5) vs Kym (+1.5)",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the WI-07 House seat?",
-          "odds": "-614",
+          "event": "Will the highest temperature in Seattle be between 68-69°F on June 25?",
+          "odds": "+222",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -119,14 +113,20 @@
           "moved": "none"
         },
         {
-          "event": "Will the June 2026 unemployment rate be 4.2%?",
-          "odds": "+400",
+          "event": "Set Handicap: Safiullin (-1.5) vs Kym (+1.5)",
+          "odds": "+100",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the lowest temperature in Shanghai be 20°C on June 26?",
-          "odds": "+300",
+          "event": "Son Heungmin: 2+ goals",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the June 2026 unemployment rate be 4.2%?",
+          "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
