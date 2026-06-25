@@ -1,40 +1,139 @@
 {
-  "lastUpdated": "25 de junio de 2026 — 02:38 UTC",
+  "lastUpdated": "25 de junio de 2026 — 04:59 UTC",
   "ticker": [
+    "Thousands feared dead as twin earthquakes cause devastation across Venezuel",
+    "Mexico triumph 3-0 to eliminate Czechia and win all three World Cup matches",
+    "Iranians mark first Ashura since Khamenei’s killing in the US-Iran war",
+    "Migrants left to endure deadly Paris heat with little shelter or aid",
+    "South Africa stun South Korea to reach World Cup knockouts for the first time",
     "Rutte attempts to ease Trump-NATO rift over Iran ahead of annual summit",
     "Russian opposition leader jailed over anti-war social media posts",
-    "Venezuela earthquakes live: Tremors of 7.5 and 7.2 hit near Caracas",
+    "Venezuela earthquakes live: Tremors of 7.5, 7.2 collapse Caracas buildings",
     "Morocco come back after historic Haiti goals to reach World Cup last 32",
     "Buildings collapse in Venezuelan capital after powerful earthquakes hit",
+    "Vinicius nets twice and Neymar returns as Brazil ease by Scotland",
     "Two years on, Kenyan families still seek justice after Gen Z protests",
     "Venezuela struck by back-to-back earthquakes, many casualties feared",
     "Iran war live: US vows to defend Gulf interests; Israel kills 2 in Lebanon",
-    "Trump slams NATO over lax participation in Iran war in talk with Mark Rutte",
-    "Olympic athletes to get cash grants from new $100m fund created by IOC",
-    "Trump White House requests $87.6bn in spending, including for Iran war",
-    "Ronaldinho makes surprise return to football at 46"
+    "Trump slams NATO over lax participation in Iran war in talk with Mark Rutte"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Will Likud win 30-34 seats in the 2026 Israeli legislative election?",
           "odds": "+488",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will South Korea ETF (EWY) hit (HIGH) $222 Week of June 22 2026?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Steven Kwan win the 2026 AL Platinum Glove award?",
+          "odds": "+3125",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y ENERGÍA",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
           "event": "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?",
           "odds": "-222",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Luiz Inácio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election?",
+          "odds": "+3125",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the US government rescind its ban on all foreign use of Claude Fable 5 by June 30?",
+          "odds": "+284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party win the popular vote in the 2026 U.S. House of Representatives midterm elections by between 6% and 8%?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Magdalena Andersson be the next Prime Minister of Sweden?",
+          "odds": "-316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "ITF Sapporo: Gaeul Jang vs Sara Yoshida",
+          "odds": "-284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the WI-07 House seat?",
+          "odds": "-669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Anthropic have the best AI model at the end of December 2026?",
+          "odds": "-203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Laso Finance FDV above $1M one day after launch",
+          "odds": "-669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the TX-31 House seat?",
+          "odds": "-488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the price of XRP be between $1.10 and $1.20 on June 30?",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Set Handicap: Safiullin (-1.5) vs Kym (+1.5)",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Paraguay leading at halftime?",
+          "odds": "+270",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
