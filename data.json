@@ -1,139 +1,40 @@
 {
-  "lastUpdated": "25 de junio de 2026 — 00:03 UTC",
+  "lastUpdated": "25 de junio de 2026 — 02:38 UTC",
   "ticker": [
+    "Rutte attempts to ease Trump-NATO rift over Iran ahead of annual summit",
+    "Russian opposition leader jailed over anti-war social media posts",
+    "Venezuela earthquakes live: Tremors of 7.5 and 7.2 hit near Caracas",
+    "Morocco come back after historic Haiti goals to reach World Cup last 32",
+    "Buildings collapse in Venezuelan capital after powerful earthquakes hit",
+    "Two years on, Kenyan families still seek justice after Gen Z protests",
+    "Venezuela struck by back-to-back earthquakes, many casualties feared",
+    "Iran war live: US vows to defend Gulf interests; Israel kills 2 in Lebanon",
     "Trump slams NATO over lax participation in Iran war in talk with Mark Rutte",
     "Olympic athletes to get cash grants from new $100m fund created by IOC",
     "Trump White House requests $87.6bn in spending, including for Iran war",
-    "European heatwave, scorching weather triggers UK ‘red’ warning",
-    "Ronaldinho makes surprise return to football at 46",
-    "Bosnia win 3-2, knock out Qatar to keep alive hopes of World Cup round of 32",
-    "Qatar’s Madibo banned for 5 games after breaking leg of Canada’s Kone",
-    "Katz: Israel will not withdraw from Lebanon even if US demands it",
-    "Scotland fans take over Miami ahead of Brazil World Cup clash",
-    "Mehdi Taremi, assistant coach, held up at airport by US officials, Iran says",
-    "Palestinian activist faints after his release from Israeli prison",
-    "Family sues Tesla for wrongful death in Autopilot crash in Texas, US",
-    "Zimbabwe’s Senate approves amendment extending presidential term",
-    "US public health agency concludes hantavirus response as outbreak eases",
-    "Top European leaders vow ‘strong’ support for Ukraine ahead of NATO summit"
+    "Ronaldinho makes surprise return to football at 46"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
-        {
-          "event": "Exact Score: South Africa 1 - 0 Korea Republic?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Likud win 30-34 seats in the 2026 Israeli legislative election?",
           "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Warsaw be 31°C on June 26?",
-          "odds": "+284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will South Korea ETF (EWY) hit (HIGH) $222 Week of June 22 2026?",
-          "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Steven Kwan win the 2026 AL Platinum Glove award?",
-          "odds": "+3125",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "label": "ECONOMÍA Y ENERGÍA",
       "rows": [
         {
           "event": "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?",
           "odds": "-222",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will Luiz Inácio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election?",
-          "odds": "+3125",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party win the popular vote in the 2026 U.S. House of Representatives midterm elections by between 6% and 8%?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will the Republican Party win the WI-07 House seat?",
-          "odds": "-669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Lee Kangin: 1+ goals",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Laso Finance FDV above $1M one day after launch",
-          "odds": "-669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the TX-31 House seat?",
-          "odds": "-488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the price of XRP be between $1.10 and $1.20 on June 30?",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Set Handicap: Safiullin (-1.5) vs Kym (+1.5)",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Apple (AAPL) Up or Down on June 25?",
-          "odds": "+122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the June 2026 unemployment rate be 4.2%?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
           "moved": "none"
         }
       ]
