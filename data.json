@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "25 de junio de 2026 — 14:09 UTC",
+  "lastUpdated": "25 de junio de 2026 — 14:11 UTC",
   "ticker": [
     "Haitians reflect on first World Cup experience in 52 years",
     "Venezuela earthquakes devastate country",
@@ -12,29 +12,116 @@
     "Israeli forces kill Palestinian man during raid on his home",
     "How minesweeping in the Strait of Hormuz works: A visual guide",
     "Watch World Cup Day 14: South Africa advance, with Morocco, Mexico, Brazil",
-    "Rubio issues Hormuz toll warning as he wraps up Gulf visit"
+    "Rubio issues Hormuz toll warning as he wraps up Gulf visit",
+    "Europe faces another day of extreme heat after more temperature records set",
+    "As Ukraine seizes ‘first chance to win’, war horrors come home to Russia",
+    "Venezuela earthquakes: Why is Central America so vulnerable to tremors?"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Will Steven Kwan win the 2026 AL Platinum Glove award?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Counter-Strike: Yawara Esports vs Game Hunters (BO3) - Thunderpick World Championship South American Series #1 Group B",
+          "odds": "-212",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Congress approves Iran deal in 2026?",
           "odds": "+354",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y ENERGÍA",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
           "event": "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?",
           "odds": "-222",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Magdalena Andersson be the next Prime Minister of Sweden?",
+          "odds": "-316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party win the popular vote in the 2026 U.S. House of Representatives midterm elections by between 6% and 8%?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will Hyperliquid HIP-3 open interest hit $7B in 2026?",
+          "odds": "+212",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the WI-07 House seat?",
+          "odds": "-669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Karachi be 34°C on June 26?",
+          "odds": "+212",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Tesla (TSLA) close above $370 on June 25?",
+          "odds": "-316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Australia to score first vs. Paraguay?",
+          "odds": "+163",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Laso Finance FDV above $1M one day after launch",
+          "odds": "-669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Busan be 24°C on June 26?",
+          "odds": "+1370",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the TX-31 House seat?",
+          "odds": "-488",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
