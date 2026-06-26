@@ -1,121 +1,58 @@
 {
-  "lastUpdated": "25 de junio de 2026 — 23:11 UTC",
+  "lastUpdated": "26 de junio de 2026 — 02:41 UTC",
   "ticker": [
+    "Netherlands beat Tunisia 3-1, enter World Cup knockouts as group winners",
+    "Hundreds trapped beneath buildings a day after Venezuela’s twin earthquakes",
+    "Ivory Coast coach Fae saddened by Schweinsteiger’s ‘African football’ jab",
+    "Japan draw 1-1 with Sweden at World Cup to finish second in Group F",
+    "France seizes fifth Russian ‘shadow fleet’ tanker linked to Ukraine war",
+    "Who will control Africa’s AI infrastructure, and at what cost?",
+    "Shia pilgrims gather in Iraq’s holy city of Karbala to mark Ashura",
+    "Plan Intl: ‘Mental health impact of Venezuelan quakes can last for years’",
+    "Iran war live: Israel attacks Lebanon as Netanyahu says troops to stay",
+    "UN: Venezuela earthquakes will deepen already severe humanitarian crisis",
     "India defeat Bangladesh to maintain Women’s T20 World Cup semifinal bid",
-    "Pepe’s brace sends Ivory Coast to first knockouts as Curacao exit World Cup",
-    "Ecuador edge Germany 2-1 to squeeze into World Cup last 32",
-    "Venezuela earthquakes live: At least 188 dead as rescue efforts intensify",
-    "WNBA: Alyssa Thomas suspended one game for fist into Cailtin Clark’s throat",
-    "Venezuela rescue teams race to find earthquake survivors",
-    "Economic losses mount as Venezuela earthquake death toll grows",
-    "UN agency pauses Hormuz ship evacuation initiative after vessel attacked",
-    "Venezuela quake leaves La Guaira in almost total devastation",
-    "Dutch fans party in Kansas City ahead of World Cup clash with Tunisia",
-    "Netanyahu: ‘We will remain in Lebanon, Syria, and Gaza as long as required’",
-    "Ashura ceremonies intertwine faith and support for state in Iran",
-    "Kenya’s Kandie gets seven-year ban for doping violations",
-    "Has Marco Rubio’s tour of the Gulf reassured US allies?",
-    "‘Truly terrifying’: Caracas confronts the aftermath of Venezuela earthquake"
+    "Pepe’s brace sends Ivory Coast to first knockouts as Curacao exit World Cup"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
           "event": "Will the Bank of Israel decrease the Bank of Israel Interest Rate after the July decision?",
           "odds": "-900",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
           "moved": "none"
         },
         {
-          "event": "Will Steven Kwan win the 2026 AL Platinum Glove award?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
+          "event": "Will IR Iran win on 2026-06-26?",
+          "odds": "+316",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
           "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
+      "rows": [
         {
-          "event": "Will the Bank of Korea hike by 50 bps or more at the August 2026 meeting?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
+          "event": "Will Pete Hegseth leave the Trump administration before 2027?",
+          "odds": "+270",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "label": "ECONOMÍA Y ENERGÍA",
       "rows": [
         {
           "event": "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?",
           "odds": "-222",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will the Democratic Party win the popular vote in the 2026 U.S. House of Representatives midterm elections by between 6% and 8%?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "T20 Blast: Hampshire vs Yorkshire",
-          "odds": "-170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Hyperliquid HIP-3 open interest hit $7B in 2026?",
-          "odds": "+212",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the WI-07 House seat?",
-          "odds": "-669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the TX-31 House seat?",
-          "odds": "-488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Tabi launch a token by December 31, 2027?",
-          "odds": "-455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Philadelphia Phillies win the 2026 NL East title?",
-          "odds": "+222",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will OpenAI have the best Math AI model at the end of July 2026?",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the lowest temperature in Shanghai be 22°C on June 27?",
-          "odds": "+212",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
           "moved": "none"
         }
       ]
