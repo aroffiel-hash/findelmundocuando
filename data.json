@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "26 de junio de 2026 — 16:10 UTC",
+  "lastUpdated": "26 de junio de 2026 — 18:25 UTC",
   "ticker": [
+    "Israeli prosecutors charge six settlers after West Bank mosque attack",
+    "Why did these World Cup ads strike a nerve in Egypt?",
+    "US announces framework agreement between Israel and Lebanon",
+    "Nine people killed in building collapse in Lagos, Nigeria",
+    "New York City freezes rents for one million regulated apartments",
+    "DR Congo files case against Rwanda at ICJ over decades of alleged ‘abuses’",
+    "How did Colombia’s election split a nation in two?",
+    "‘This time’: The World Cup commercials capturing Egypt’s soaring hopes",
+    "Hezbollah: Israel must ‘unconditionally’ leave Lebanon",
+    "Why did these World Cup ads strike a nerve in Egypt?",
     "Norway vs France LIVE: FIFA World Cup 2026",
     "EU targets Somalia with visa curbs as president pushes back on returns",
     "Why has the UN paused plans to evacuate sailors from the Strait of Hormuz?",
     "Morocco jails 29, including politicians and sports figures, in drug trial",
-    "Ex-Trump adviser Bolton pleads guilty in classified documents case",
-    "Iran slams the GCC and the US for ‘interventionist’ statement: What we know",
-    "South Korean court jails former first lady for seven years in bribery case",
-    "Iraq’s new PM launches anticorruption campaign, but is it enough?",
-    "New York’s primaries signal a new force in US politics",
-    "Aid groups urge swift action to avert ‘atrocities’ in Sudan’s el-Obeid",
-    "Hezbollah demands Israel leave Lebanon ‘unconditionally’ as US talks extend",
-    "Thermal cameras reveal intense heat for outdoor workers in Europe",
-    "Everything we know so far about the deadly earthquakes in Venezuela",
-    "Which countries have pledged aid to Venezuela after powerful earthquakes?",
-    "Ukraine decimates Russian logistics, bringing chaos to Crimea"
+    "Ex-Trump adviser Bolton pleads guilty in classified documents case"
   ],
   "sections": [
     {
@@ -36,7 +36,7 @@
         },
         {
           "event": "Israel strike on Yemen by June 30, 2026?",
-          "odds": "+2841",
+          "odds": "+2122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -55,6 +55,18 @@
         {
           "event": "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?",
           "odds": "-222",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Fed decide differently in the next three decisions (Jun–Jul–Sep)?",
+          "odds": "+170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Bank of Mexico decreases interest rates by 25 bps after August 2026 meeting?",
+          "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -77,14 +89,20 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Apple (AAPL) close above $290 end of June?",
-          "odds": "+2400",
+          "event": "Will \"Toy Story 5\" 2nd Weekend Box Office be less than 65m?",
+          "odds": "+446",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Republican Party win the WI-07 House seat?",
           "odds": "-809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Dallas be between 96-97°F on June 27?",
+          "odds": "+244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -115,12 +133,6 @@
         {
           "event": "Will the Republican Party win the TX-31 House seat?",
           "odds": "-488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the lowest temperature in Hong Kong be 24°C on June 27?",
-          "odds": "+2280",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
