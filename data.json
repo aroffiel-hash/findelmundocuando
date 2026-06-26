@@ -1,70 +1,127 @@
 {
-  "lastUpdated": "26 de junio de 2026 — 14:09 UTC",
+  "lastUpdated": "26 de junio de 2026 — 16:10 UTC",
   "ticker": [
+    "Norway vs France LIVE: FIFA World Cup 2026",
+    "EU targets Somalia with visa curbs as president pushes back on returns",
+    "Why has the UN paused plans to evacuate sailors from the Strait of Hormuz?",
+    "Morocco jails 29, including politicians and sports figures, in drug trial",
+    "Ex-Trump adviser Bolton pleads guilty in classified documents case",
+    "Iran slams the GCC and the US for ‘interventionist’ statement: What we know",
+    "South Korean court jails former first lady for seven years in bribery case",
     "Iraq’s new PM launches anticorruption campaign, but is it enough?",
     "New York’s primaries signal a new force in US politics",
     "Aid groups urge swift action to avert ‘atrocities’ in Sudan’s el-Obeid",
     "Hezbollah demands Israel leave Lebanon ‘unconditionally’ as US talks extend",
+    "Thermal cameras reveal intense heat for outdoor workers in Europe",
     "Everything we know so far about the deadly earthquakes in Venezuela",
     "Which countries have pledged aid to Venezuela after powerful earthquakes?",
-    "Ukraine decimates Russian logistics, bringing chaos to Crimea",
-    "The Pakistan artisans still hand-stitching the world’s footballs",
-    "New synthetic drugs, cocaine and meth booming, warns UN",
-    "Venezuela earthquakes: What happens in the first 72 hours?",
-    "Can Europe’s historic cities survive a warming climate?",
-    "IAEA demands verification of Iran nuclear ambitions amid ‘statement war’"
+    "Ukraine decimates Russian logistics, bringing chaos to Crimea"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Iran charges Hormuz fees by August 31?",
-          "odds": "+270",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
+          "event": "Will Steven Kwan win the 2026 AL Platinum Glove award?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Exact Score: Cabo Verde 0 - 0 Saudi Arabia?",
-          "odds": "+1011",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Will the Bank of Korea hike by 50 bps or more at the August 2026 meeting?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Israel strike on Yemen by June 30, 2026?",
-          "odds": "+2757",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
+          "odds": "+2841",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Congress approves Iran deal in 2026?",
           "odds": "+354",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
-      "rows": [
-        {
-          "event": "Will Pete Hegseth leave the Trump administration before 2027?",
-          "odds": "+270",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y ENERGÍA",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
           "event": "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?",
           "odds": "-222",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will the Democratic Party win the popular vote in the 2026 U.S. House of Representatives midterm elections by between 6% and 8%?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will Apple (AAPL) close above $290 end of June?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the WI-07 House seat?",
+          "odds": "-809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party win the OR-06 House seat?",
+          "odds": "-1288",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Mohamed Salah: 2+ shots",
+          "odds": "-170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: Panama 0 - 0 England?",
+          "odds": "+2464",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Tabi launch a token by December 31, 2027?",
+          "odds": "-455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the TX-31 House seat?",
+          "odds": "-488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the lowest temperature in Hong Kong be 24°C on June 27?",
+          "odds": "+2280",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
