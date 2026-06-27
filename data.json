@@ -1,70 +1,133 @@
 {
-  "lastUpdated": "27 de junio de 2026 — 02:33 UTC",
+  "lastUpdated": "27 de junio de 2026 — 03:54 UTC",
   "ticker": [
+    "Rescue efforts turn to recovery as aftershocks shake Venezuela",
+    "Spain beat Uruguay 1-0 to clinch World Cup Group H top spot",
+    "Cape Verde qualify for World Cup Round of 32, set up date with Argentina",
+    "Newly released video exposes Henry Nowak killer’s lies",
     "Trump justifies strikes on Iran amid ceasefire",
     "Iran war live: US strikes Iran after attack on vessel in Strait of Hormuz",
+    "Paris Diamond League to go ahead with safety measures amid heatwave",
     "US judge holds prosecutor in contempt in Charlie Kirk murder case",
     "Venezuela shaken by magnitude 4.9 tremor days after major earthquakes",
+    "Egypt vs Iran LIVE: FIFA World Cup 2026",
     "What is the framework agreement signed by Israel and Lebanon?",
     "Desperate families search for missing loved ones in Venezuela",
     "Why did Africa boycott the 1966 World Cup?",
     "Heavyweight champion Usyk says vacating heavyweight world title belts",
-    "Senegal score 5-0 win over 10-man Iraq, keep World Cup knockout hopes alive",
-    "Dembele scores hat-trick as France beat Norway 4-1 at World Cup 2026",
-    "Thousands of migrants flee South Africa ahead of anti-immigrant protests",
-    "Burkina Faso cuts diplomatic ties with former colonial ruler France"
+    "Senegal score 5-0 win over 10-man Iraq, keep World Cup knockout hopes alive"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Israel strike on Yemen by June 30, 2026?",
           "odds": "+2602",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the UK designate the IRGC a terrorist organization by June 30?",
-          "odds": "+2073",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Will Steven Kwan win the 2026 AL Platinum Glove award?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Egypt vs. IR Iran: 2nd Half O/U 3.5 Total Corners",
+          "odds": "-170",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Iran successfully targets shipping on July 5?",
           "odds": "+1566",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
-      "rows": [
-        {
-          "event": "Will Pete Hegseth leave the Trump administration before 2027?",
-          "odds": "+270",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump pardon Keonne Rodriguez before 2027?",
-          "odds": "+566",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y ENERGÍA",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
           "event": "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?",
           "odds": "-222",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Tidö parties win a majority in the 2026 Swedish parliamentary elections?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party win the popular vote in the 2026 U.S. House of Representatives midterm elections by between 6% and 8%?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will the highest temperature in London be 29°C on June 27?",
+          "odds": "+861",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party win the OR-06 House seat?",
+          "odds": "-1288",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Corey Conners finish in the Top 20 at the 2026 Travelers Championship?",
+          "odds": "+143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will anyone say \"Morty\" 20+ times during Rick and Morty E6 S9?",
+          "odds": "-1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Tabi launch a token by December 31, 2027?",
+          "odds": "-455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the TX-31 House seat?",
+          "odds": "-488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Philadelphia Phillies win the 2026 NL East title?",
+          "odds": "+222",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party win the OK-02 House seat?",
+          "odds": "+2073",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
