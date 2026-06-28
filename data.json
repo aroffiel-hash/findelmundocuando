@@ -1,157 +1,88 @@
 {
-  "lastUpdated": "28 de junio de 2026 — 11:46 UTC",
+  "lastUpdated": "28 de junio de 2026 — 13:22 UTC",
   "ticker": [
+    "Why is Article 5 of MoU causing confrontations in the Strait of Hormuz?",
+    "Araghchi: Strait of Hormuz remains under Iranian control for 30 days",
+    "Satellite images show scale of destruction in Venezuela earthquakes",
+    "‘Digging with a needle’: Generals stall peace as Sudan’s el-Obeid burns",
+    "US strikes Iran for second day: Is it a violation of war powers resolution?",
+    "Saudi Aramco helicopter crash in Ras Tanura kills all 14 on board",
+    "At least 11 dead as skydiving plane crashes in France",
+    "World Cup 2026: Most controversial VAR officiating decisions in group stage",
     "Uganda’s military chief orders shutdown of two media outlets",
     "‘US trying to find its way out of MoU with Iran’",
     "Iraq security forces arrest several officials in anticorruption crackdown",
-    "FIFA World Cup: Round of 32 bracket, schedule, predictions, Iran’s exit",
-    "Iran attacks Kuwait and Bahrain in response to US strikes",
-    "Watch World Cup Day 17: Messi breaks record as Algeria and DR Congo advance",
-    "South Africa vs Canada: World Cup 2026 – prediction, team news and lineups",
-    "DR Congo fans celebrate reaching World Cup knockout stage",
-    "‘Between pain and fear’: Gaza children bear cost of ongoing Israeli attacks",
-    "Iran bow out of World Cup: Late drama ends Team Melli’s knockout dream",
-    "Polls open in New Caledonia’s first provincial elections since 2019",
-    "In pictures: Race against time to rescue Venezuela earthquake survivors",
-    "Iran war day 121: Iran attacks Bahrain, Kuwait as US strikes near Hormuz",
-    "Which teams are in World Cup last-32 knockouts, and what is the schedule?",
-    "World Cup Round of 32: Which teams qualified or exited the tournament"
+    "FIFA World Cup: Round of 32 bracket, schedule, predictions, Iran’s exit"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
-          "event": "Will Steven Kwan win the 2026 AL Platinum Glove award?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Putin out as President of Russia by December 31, 2026?",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Iran Nuke before 2027?",
-          "odds": "+1594",
-          "params": "Fuente: Polymarket",
+          "odds": "+1624",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
           "moved": "none"
         },
         {
           "event": "Congress approves Iran deal in 2026?",
           "odds": "+488",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
           "moved": "none"
         },
         {
           "event": "Will France send warships through the Strait of Hormuz by June 30, 2026?",
           "odds": "+1940",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
+      "rows": [
+        {
+          "event": "Will Zelenskyy post 20-39 posts from June 26 to July 3, 2026?",
+          "odds": "+2464",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con liderazgo ucraniano.",
+          "moved": "none"
+        },
+        {
+          "event": "Putin out as President of Russia by December 31, 2026?",
+          "odds": "+669",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
+      "rows": [
+        {
+          "event": "Will Pete Hegseth leave the Trump administration before 2027?",
+          "odds": "+300",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump pardon Keonne Rodriguez before 2027?",
+          "odds": "+566",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "label": "ECONOMÍA Y ENERGÍA",
       "rows": [
         {
           "event": "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?",
           "odds": "-222",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will the Democratic Party win the popular vote in the 2026 U.S. House of Representatives midterm elections by between 6% and 8%?",
-          "odds": "+455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Ed Markey be the Democratic nominee for Senate in Massachusetts?",
-          "odds": "-244",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Carlos Vila Nova win the 2026 São Tomé and Príncipe presidential elections?",
-          "odds": "-257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Michael Minogue win the 2026 Massachusetts Governor Republican primary election?",
-          "odds": "-1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Ségolène Royal advance to the second round of the next French presidential election?",
-          "odds": "+1198",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will Tabi launch a token by December 31, 2027?",
-          "odds": "-524",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Philadelphia Phillies win the 2026 NL East title?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Elon Musk’s net worth be between $1.40T and $1.50T on June 30?",
-          "odds": "+2841",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Donald Trump post 200+ Truth Social posts from June 23 to June 30, 2026?",
-          "odds": "+1415",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "United Airlines (UAL) Q2 total revenue per available seat mile 18¢-18.5¢?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: United States 2 - 1 Bosnia and Herzegovina?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Corey Conners finish in the Top 20 at the 2026 Travelers Championship?",
-          "odds": "+143",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Bryan Johnson propose to his co-founder before 2027?",
-          "odds": "+491",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
           "moved": "none"
         }
       ]
