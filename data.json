@@ -1,7 +1,6 @@
 {
-  "lastUpdated": "28 de junio de 2026 — 13:22 UTC",
+  "lastUpdated": "28 de junio de 2026 — 13:23 UTC",
   "ticker": [
-    "Why is Article 5 of MoU causing confrontations in the Strait of Hormuz?",
     "Araghchi: Strait of Hormuz remains under Iranian control for 30 days",
     "Satellite images show scale of destruction in Venezuela earthquakes",
     "‘Digging with a needle’: Generals stall peace as Sudan’s el-Obeid burns",
@@ -12,77 +11,141 @@
     "Uganda’s military chief orders shutdown of two media outlets",
     "‘US trying to find its way out of MoU with Iran’",
     "Iraq security forces arrest several officials in anticorruption crackdown",
-    "FIFA World Cup: Round of 32 bracket, schedule, predictions, Iran’s exit"
+    "FIFA World Cup: Round of 32 bracket, schedule, predictions, Iran’s exit",
+    "Iran attacks Kuwait and Bahrain in response to US strikes",
+    "Watch World Cup Day 17: Messi breaks record as Algeria and DR Congo advance",
+    "South Africa vs Canada: World Cup 2026 – prediction, team news and lineups",
+    "DR Congo fans celebrate reaching World Cup knockout stage"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Iran Nuke before 2027?",
-          "odds": "+1624",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
-          "moved": "none"
-        },
-        {
-          "event": "Congress approves Iran deal in 2026?",
-          "odds": "+488",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
-          "moved": "none"
-        },
-        {
-          "event": "Will France send warships through the Strait of Hormuz by June 30, 2026?",
-          "odds": "+1940",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
-      "rows": [
-        {
-          "event": "Will Zelenskyy post 20-39 posts from June 26 to July 3, 2026?",
-          "odds": "+2464",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con liderazgo ucraniano.",
+          "event": "Will Steven Kwan win the 2026 AL Platinum Glove award?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Putin out as President of Russia by December 31, 2026?",
           "odds": "+669",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
-      "rows": [
-        {
-          "event": "Will Pete Hegseth leave the Trump administration before 2027?",
-          "odds": "+300",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Trump pardon Keonne Rodriguez before 2027?",
-          "odds": "+566",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Iran Nuke before 2027?",
+          "odds": "+1624",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Congress approves Iran deal in 2026?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will France send warships through the Strait of Hormuz by June 30, 2026?",
+          "odds": "+1940",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y ENERGÍA",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
           "event": "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?",
           "odds": "-222",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Ed Markey be the Democratic nominee for Senate in Massachusetts?",
+          "odds": "-257",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party win the popular vote in the 2026 U.S. House of Representatives midterm elections by between 6% and 8%?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Michael Minogue win the 2026 Massachusetts Governor Republican primary election?",
+          "odds": "-1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Ségolène Royal advance to the second round of the next French presidential election?",
+          "odds": "+1198",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will Philadelphia Phillies win the 2026 NL East title?",
+          "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Elon Musk’s net worth be between $1.40T and $1.50T on June 30?",
+          "odds": "+2841",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Corey Conners finish in the Top 20 at the 2026 Travelers Championship?",
+          "odds": "+143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Ornn H200 Index be between $3.00 and $4.00 on July 31, 2026?",
+          "odds": "+354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Bryan Johnson propose to his co-founder before 2027?",
+          "odds": "+491",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the TX-31 House seat?",
+          "odds": "-488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Pete Hegseth leave the Trump administration before 2027?",
+          "odds": "+300",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Anthropic's market cap be between $1.75T and $2.0T at market close on IPO day?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
