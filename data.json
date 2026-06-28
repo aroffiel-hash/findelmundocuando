@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "28 de junio de 2026 — 15:13 UTC",
+  "lastUpdated": "28 de junio de 2026 — 17:02 UTC",
   "ticker": [
+    "Drone captures ongoing rescue efforts after Venezuela earthquakes",
+    "Russell beats Verstappen at Austrian Grand Prix to boost F1 title hopes",
+    "Israel strikes Lebanon, testing days-old peace deal",
+    "South Africa vs Canada LIVE: FIFA World Cup 2026",
+    "Iraq arrests senior officials in anti-corruption raids",
+    "Three firefighters killed in US wildfires along Colorado–Utah border",
+    "Ben Stokes, England test captain, to retire from international cricket",
     "Q&A: Why humanitarian aid is crucial to stopping the Ebola outbreak",
     "If USMCA is not renewed, analysts expect uncertainty for businesses",
     "Pape: US trying to ‘squeak out of strategic defeat’ after Iran",
@@ -8,20 +15,19 @@
     "European heatwave causes 1,000 excess deaths in France",
     "IRGC doubles down as Iran-US MoU jeopardised by Hormuz strikes",
     "The US-Iran MoU: A mirage of an agreement",
-    "Ukraine says it attacked two Russian oil refineries",
-    "Adam Johnson on how US corporate media sold Israel’s genocide in Gaza",
-    "Stories of survivors of Venezuela’s earthquakes",
-    "Paradise lost: How Israel is making war on West Bank farmers",
-    "What is Article 5 of Iran-US MoU, and why is it blamed for Hormuz strikes?",
-    "Araghchi: Strait of Hormuz remains under Iranian control for 30 days",
-    "Satellite images show scale of destruction in Venezuela earthquakes",
-    "‘Digging with a needle’: Generals stall peace as Sudan’s el-Obeid burns"
+    "Ukraine says it attacked two Russian oil refineries"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Will USD be between 1.8M and 1.9M Iranian rials on June 30?",
+          "odds": "+2464",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Steven Kwan win the 2026 AL Platinum Glove award?",
           "odds": "+3233",
@@ -41,6 +47,12 @@
           "moved": "none"
         },
         {
+          "event": "Israeli parliament dissolved by July 15?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Congress approves Iran deal in 2026?",
           "odds": "+488",
           "params": "Fuente: Polymarket",
@@ -49,12 +61,6 @@
         {
           "event": "Will France send warships through the Strait of Hormuz by June 30, 2026?",
           "odds": "+1940",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Israeli parliament dissolved by July 15?",
-          "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -76,12 +82,6 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
-        {
-          "event": "Will Ed Markey be the Democratic nominee for Senate in Massachusetts?",
-          "odds": "-257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will the Democratic Party win the popular vote in the 2026 U.S. House of Representatives midterm elections by between 6% and 8%?",
           "odds": "+455",
@@ -107,12 +107,6 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Alphonso Davies: 1+ assists",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Philadelphia Phillies win the 2026 NL East title?",
           "odds": "+185",
           "params": "Fuente: Polymarket",
@@ -125,20 +119,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Elon Musk post 90-114 tweets from June 29 to July 1, 2026?",
-          "odds": "+2280",
+          "event": "Exact Score: Côte d'Ivoire 1 - 1 Norway?",
+          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Corey Conners finish in the Top 20 at the 2026 Travelers Championship?",
           "odds": "+143",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Ornn H200 Index be between $3.00 and $4.00 on July 31, 2026?",
-          "odds": "+354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -151,6 +139,18 @@
         {
           "event": "Will the lowest temperature in Paris be 16°C on June 30?",
           "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Chongqing be 27°C on June 30?",
+          "odds": "+300",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the TX-31 House seat?",
+          "odds": "-488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
