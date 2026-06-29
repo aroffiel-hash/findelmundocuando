@@ -1,133 +1,88 @@
 {
-  "lastUpdated": "28 de junio de 2026 — 23:04 UTC",
+  "lastUpdated": "29 de junio de 2026 — 02:47 UTC",
   "ticker": [
+    "Late goal gives Canada first-ever World Cup knockout stage victory",
+    "Praise pours in for ‘true Canadian heroes’ after last-minute World Cup win",
+    "Pakistan says its security forces killed 29 fighters along Afghan border",
+    "Father and son pulled out alive four days after Venezuela earthquake",
+    "Who is Stephen Eustaquio, who scored for Canada against South Africa?",
+    "‘If I am to die, let it be here’: Malawians fleeing unrest in South Africa",
+    "Iran war live: Tehran insists on control of Hormuz amid reports of US talks",
     "Heightened emotions in Iran after Team Melli knocked out of World Cup",
     "Ireland upstage world champions India to win T20 series at home",
     "Canada score late to beat South Africa and reach last 16 at World Cup 2026",
     "Protesters in Serbia doubt Vucic resignation will bring change",
-    "Pope Leo prays for Venezuela’s recovery after deadly quakes",
-    "Israel kills four Palestinians in Gaza as attacks on tents continue",
-    "Hope of finding more Venezuela quake survivors fades despite late rescues",
-    "World Cup 2026: Top matches to watch in the Round of 32 knockout stage",
-    "Gaza’s displaced families face worsening living conditions",
-    "Can the ICJ help end the war in the eastern DRC?",
-    "Israeli forces bulldoze olive groves in the occupied West Bank",
-    "Starmer couldn’t master the media. Can Burnham?",
-    "US and Iran trade strikes days after peace agreement",
-    "Serbia’s protesters press on even after Vucic promises to step aside",
-    "Why do reports of domestic abuse increase during World Cups?"
+    "Pope Leo prays for Venezuela’s recovery after deadly quakes"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
-        {
-          "event": "Will Steven Kwan win the 2026 AL Platinum Glove award?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the US announce a blockade on Iran by December 31?",
-          "odds": "+170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Iran Nuke before 2027?",
           "odds": "+1438",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
           "moved": "none"
         },
         {
           "event": "Congress approves Iran deal in 2026?",
           "odds": "+488",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
+      "rows": [
+        {
+          "event": "Will Zelenskyy post 20-39 posts from June 26 to July 3, 2026?",
+          "odds": "+2464",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con liderazgo ucraniano.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
+      "rows": [
+        {
+          "event": "Will Pete Hegseth leave the Trump administration before 2027?",
+          "odds": "+300",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump pardon Keonne Rodriguez before 2027?",
+          "odds": "+566",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "label": "ECONOMÍA Y ENERGÍA",
       "rows": [
         {
           "event": "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?",
           "odds": "-222",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
         {
-          "event": "Will the Democratic Party win the popular vote in the 2026 U.S. House of Representatives midterm elections by between 6% and 8%?",
-          "odds": "+455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Ségolène Royal advance to the second round of the next French presidential election?",
-          "odds": "+1198",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will the lowest temperature in London be 15°C on June 30?",
-          "odds": "+1215",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Nicolai Hojgaard finish in the Top 10 at the 2026 Travelers Championship?",
-          "odds": "+681",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Kuala Lumpur be 32°C on June 30?",
-          "odds": "+222",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Game Handicap: T1 (-2.5) vs Karmine Corp (+2.5)",
-          "odds": "+156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Bryan Johnson propose to his co-founder before 2027?",
-          "odds": "+491",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the lowest temperature in Paris be 16°C on June 30?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the TX-31 House seat?",
-          "odds": "-488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Leavitt say \"Pool\" during the next White House Press Briefing?",
-          "odds": "-104",
-          "params": "Fuente: Polymarket",
+          "event": "Will Texas use a new congressional map for the 2026 United States midterm elections?",
+          "odds": "-2399",
+          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
