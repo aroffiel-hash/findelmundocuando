@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "29 de junio de 2026 — 21:19 UTC",
+  "lastUpdated": "29 de junio de 2026 — 22:49 UTC",
   "ticker": [
+    "Sinner and Sabalenka answer doubters on Wimbledon Day one",
+    "LIVE: Netherlands vs Morocco – FIFA World Cup 2026",
+    "Marco Rubio meets Libyan commander as US pushes to resolve Libya crisis",
+    "Venezuela earthquake victims shelter at golf course",
     "Israel’s Smotrich calls for settlements, ‘conquest’ of Gaza Strip",
     "What’s behind the anti-corruption crackdown in Iraq?",
     "Martinelli scores late as Brazil beat Japan 2-1, into World Cup last 16",
@@ -11,11 +15,7 @@
     "‘Miracle’: Man pulled from rubble four days after Venezuelan quakes",
     "Undocumented migrants flee South Africa amid rising anti-immigrant protests",
     "Burnham pledges devolution and discipline if he becomes UK prime minister",
-    "Can governments fix the global housing crisis?",
-    "UK’s prime minister-in-waiting vows to shake up politics",
-    "New Israeli assault in southern Syria forces families to flee their homes",
-    "Mehdi Hasan: Disrupting democracy’s decline",
-    "US Supreme Court backs Trump’s firings; Fed’s Cook reserved as exception"
+    "Can governments fix the global housing crisis?"
   ],
   "sections": [
     {
@@ -36,7 +36,13 @@
         },
         {
           "event": "Israeli parliament dissolved by July 31?",
-          "odds": "-138",
+          "odds": "-143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Maharaja T20 Trophy: Mysore Warriors vs Coastal Kings Mangaluru",
+          "odds": "+203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -58,6 +64,12 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
+        {
+          "event": "Will Futuro Nazionale get more votes than Lega in the next Italian general elections?",
+          "odds": "-233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Mathilde Panot be on the ballot for the 2027 French presidential election?",
           "odds": "+2464",
@@ -81,12 +93,6 @@
           "odds": "+426",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will Alcide Ponga be the next President of the Government of New Caledonia?",
-          "odds": "-112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -95,26 +101,32 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the highest temperature in Ankara be 31°C on July 1?",
-          "odds": "+354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Anthropic's market cap be between $1.75T and $2.0T at market close on IPO day?",
           "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Cape Verde vs. Cameroon",
-          "odds": "+100",
+          "event": "Will Theo launch a token by December 31 2026?",
+          "odds": "+134",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Bosnia and Herzegovina win on 2026-07-01?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Republican Party win the SC-03 House seat?",
-          "odds": "-1328",
+          "odds": "-1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Cape Verde vs. Cameroon",
+          "odds": "+100",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -131,14 +143,8 @@
           "moved": "none"
         },
         {
-          "event": "Wimbledon WTA: Gabriela Ruse vs Caty McNally",
-          "odds": "-122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Leavitt say \"Pool\" during the next White House Press Briefing?",
-          "odds": "-104",
+          "event": "Brian Brobbey: 1+ goals",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
