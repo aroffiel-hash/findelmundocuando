@@ -1,145 +1,76 @@
 {
-  "lastUpdated": "29 de junio de 2026 — 12:25 UTC",
+  "lastUpdated": "29 de junio de 2026 — 15:34 UTC",
   "ticker": [
-    "Saudi Arabia’s early FIFA World Cup exit prompts federation chief to resign",
-    "Netherlands vs Morocco: FIFA World Cup Round of 32: Prediction, team news",
-    "Drone relayers off: Ukraine’s diplomatic triumph over Russia ally Belarus",
-    "Nigerians return home after fleeing xenophobic attacks in South Africa",
-    "Vance Vs Rubio: Is Team Trump divided on Iran and Lebanon?",
-    "‘Tit-for-tat US-Iran attacks appear to be over’",
-    "Russia-Ukraine war: Why has Putin rejected limits on long-range strikes?",
-    "‘Erased from history’: A century on from Canada’s anti-Greek riots",
-    "Australia and Vanuatu sign deal to block foreign military bases",
-    "China slaps export controls on dozens of Japanese entities",
-    "FIFA World Cup: Round of 32 schedule, predictions and latest news",
-    "Venezuela rescuers race against the clock to find more survivors",
-    "Will Andy Burnham mark a shift in the UK’s Gaza policy?",
-    "UK’s likely next leader Andy Burnham to unveil economic, devolution plans",
-    "Israel triggers huge explosion in southern Lebanon"
+    "JD Vance’s 2028 strategy is starting to take shape",
+    "Five killed in shooting at German youth centre",
+    "Enzo Maresca appointed Man City manager to succeed Pep Guardiola",
+    "Why the Arab League could not stop Israel’s genocide",
+    "Sudan’s el-Obeid: Life on the edge of collapse",
+    "Trump announces meeting with Iran in Qatar despite military skirmishes",
+    "Is the Israeli military deliberately targeting children in Gaza?",
+    "Russian missile and drone attacks kill at least eight in Ukraine",
+    "Why Pakistan’s Afghan air strikes aren’t stopping armed attacks",
+    "Brazil supporters in Indonesia grab Israeli flag off motorcyclist",
+    "Five killed in shooting at youth welfare centre in Germany’s Stade",
+    "Sudan says China has waived $50m loan: What’s in it for Khartoum, Beijing?"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
-          "event": "Will Steven Kwan win the 2026 AL Platinum Glove award?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "US-Iran Final Nuclear Deal by August 13, 2026?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Congress approves Iran deal in 2026?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
+          "event": "Will France send warships through the Strait of Hormuz by June 30, 2026?",
+          "odds": "+1624",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
           "event": "Will Qatar recognize Israel by June 30?",
           "odds": "+1438",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
+      "rows": [
+        {
+          "event": "Will Pete Hegseth leave the Trump administration before 2027?",
+          "odds": "+284",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump pardon Keonne Rodriguez before 2027?",
+          "odds": "+566",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "label": "ECONOMÍA Y ENERGÍA",
       "rows": [
         {
           "event": "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?",
           "odds": "-222",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
-        {
-          "event": "Will the Democratic Party win the popular vote in the 2026 U.S. House of Representatives midterm elections by between 6% and 8%?",
-          "odds": "+455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Mathilde Panot be on the ballot for the 2027 French presidential election?",
-          "odds": "+2464",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will the next Prime Minister of Romania be appointed by July 31?",
           "odds": "-566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Texas use a new congressional map for the 2026 United States midterm elections?",
-          "odds": "-2399",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Cape Verde vs. Cameroon",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the TX-31 House seat?",
-          "odds": "-488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Leavitt say \"Pool\" during the next White House Press Briefing?",
-          "odds": "-104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Anthropic's market cap be between $1.75T and $2.0T at market close on IPO day?",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the price of XRP be above $1.10 on June 30?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Pete Hegseth leave the Trump administration before 2027?",
-          "odds": "+284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the SC-03 House seat?",
-          "odds": "-1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Yo FDV above $200M one day after launch?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
