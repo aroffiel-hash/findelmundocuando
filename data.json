@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "30 de junio de 2026 — 16:18 UTC",
+  "lastUpdated": "30 de junio de 2026 — 18:51 UTC",
   "ticker": [
+    "Supreme Court strikes down US campaign spending limits in landmark ruling",
+    "US heatwave to test power grid amid soaring AI-driven energy demand",
+    "UN warns Ebola could cost Africa $3.6bn and jobs",
+    "LeBron James not returning to Lakers, will choose new NBA team: Report",
+    "US Supreme Court upholds transgender sports ban",
+    "France vs Sweden LIVE: FIFA World Cup 2026",
+    "Toddler pulled from debris six days after Venezuelan earthquakes",
+    "Palestine weekly: Israel accelerates land grabs in Gaza, West Bank",
+    "The path from Gaza to Trump’s return",
+    "How severe is Russia’s energy shortage because of Ukrainian strikes?",
+    "Heavy rainfall kills dozens in Ghana, Ivory Coast",
+    "Ivory Coast vs Norway LIVE: FIFA World Cup 2026",
     "SCOTUS rules against Trump’s order limiting birthright citizenship",
     "Monaco prosecutors say no ‘terror’ evidence after blast, suspect at large",
-    "Iran to hold talks with Qatar on MoU deal with US, frozen assets",
-    "US Supreme Court rules against Trump order to end birthright citizenship",
-    "World Cup 2026: What are the extra-time and penalty shootout rules?",
-    "What privacy settings has WhatsApp changed?",
-    "US envoys in Doha for indirect talks with Iranian technical delegation",
-    "UK’s Starmer announces 300-billion-pound defence investment plan",
-    "Apple iPhone 18 Pro secrets leaked in Tata Electronics hack: What we know",
-    "France vs Sweden: World Cup Round of 32 – Mbappe, prediction, team lineups",
-    "Islamic centre brings joy through World Cup watch parties",
-    "Anti-migrant rally in South Africa demands undocumented foreigners leave",
-    "South Africa deploys police as anti-immigrant protests prompt fears",
-    "Are US and Iranian negotiators meeting in Doha? What we know about talks",
-    "Morocco player hugs mother as team celebrates win against Netherlands"
+    "Iran to hold talks with Qatar on MoU deal with US, frozen assets"
   ],
   "sections": [
     {
@@ -46,6 +46,12 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
+        {
+          "event": "WTI Crude Oil (WTI) closes above $69 on June 30?",
+          "odds": "-1233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?",
           "odds": "-222",
@@ -84,7 +90,7 @@
         },
         {
           "event": "Will Édouard Philippe win the 2027 French presidential election?",
-          "odds": "+426",
+          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -101,8 +107,14 @@
           "moved": "none"
         },
         {
+          "event": "Will the highest temperature in Houston be between 94-95°F on July 1?",
+          "odds": "-149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Pete Hegseth leave the Trump administration before 2027?",
-          "odds": "+284",
+          "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -113,13 +125,7 @@
           "moved": "none"
         },
         {
-          "event": "Map Handicap: JUL (-1.5) vs Subtop De France (+1.5)",
-          "odds": "+316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Denver be between 86-87°F on July 1?",
+          "event": "US takes Panama Canal before 2027?",
           "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
@@ -131,14 +137,14 @@
           "moved": "none"
         },
         {
-          "event": "US takes Panama Canal before 2027?",
-          "odds": "+1150",
+          "event": "Will Leavitt say \"Pool\" during the next White House Press Briefing?",
+          "odds": "-104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Leavitt say \"Pool\" during the next White House Press Briefing?",
-          "odds": "-104",
+          "event": "Will the highest temperature in Atlanta be between 96-97°F on July 1?",
+          "odds": "+488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
