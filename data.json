@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "30 de junio de 2026 — 18:51 UTC",
+  "lastUpdated": "30 de junio de 2026 — 20:53 UTC",
   "ticker": [
-    "Supreme Court strikes down US campaign spending limits in landmark ruling",
-    "US heatwave to test power grid amid soaring AI-driven energy demand",
-    "UN warns Ebola could cost Africa $3.6bn and jobs",
-    "LeBron James not returning to Lakers, will choose new NBA team: Report",
-    "US Supreme Court upholds transgender sports ban",
-    "France vs Sweden LIVE: FIFA World Cup 2026",
-    "Toddler pulled from debris six days after Venezuelan earthquakes",
-    "Palestine weekly: Israel accelerates land grabs in Gaza, West Bank",
-    "The path from Gaza to Trump’s return",
-    "How severe is Russia’s energy shortage because of Ukrainian strikes?",
-    "Heavy rainfall kills dozens in Ghana, Ivory Coast",
-    "Ivory Coast vs Norway LIVE: FIFA World Cup 2026",
-    "SCOTUS rules against Trump’s order limiting birthright citizenship",
-    "Monaco prosecutors say no ‘terror’ evidence after blast, suspect at large",
-    "Iran to hold talks with Qatar on MoU deal with US, frozen assets"
+    "Five humanitarian workers killed in convoy ambush in South Sudan",
+    "Norway edge Ivory Coast 2–1 to enter World Cup Round of 16",
+    "Evolution under fire: Iran’s ‘axis of resistance’ in a post-war era",
+    "Cuba’s foreign minister observes ‘no progress’ in US negotiations",
+    "German heatwave melts tram tracks, triggers travel disruptions",
+    "How much of your life do you spend on social media?",
+    "Healthcare situation in DR Congo improves amidst Ebola crisis",
+    "What happened on South Africa’s anti-migrant ‘deadline day’",
+    "Russia’s fuel crisis deepens following Ukrainian drone strikes",
+    "Lebanon’s fragile ceasefire: 3 months later",
+    "Birthright citizenship ruling: US officials, lawmakers and advocates react",
+    "England vs DR Congo: World Cup Round of 32: Kane, match prediction, lineups",
+    "How is South Africa dealing with immigration?",
+    "At least 14 children killed after roof of Pakistan tuition centre collapses",
+    "Supreme Court strikes down US campaign spending limits in landmark ruling"
   ],
   "sections": [
     {
@@ -25,6 +25,12 @@
         {
           "event": "Will France send warships through the Strait of Hormuz by June 30, 2026?",
           "odds": "+1624",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "UNSC Resolution Endorsing Final U.S.-Iran Deal by December 31?",
+          "odds": "+177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -39,6 +45,12 @@
           "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Warsaw be 31°C on July 1?",
+          "odds": "+284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -46,12 +58,6 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
-        {
-          "event": "WTI Crude Oil (WTI) closes above $69 on June 30?",
-          "odds": "-1233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?",
           "odds": "-222",
@@ -90,7 +96,7 @@
         },
         {
           "event": "Will Édouard Philippe win the 2027 French presidential election?",
-          "odds": "+455",
+          "odds": "+426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -101,20 +107,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Anthropic's market cap be between $1.75T and $2.0T at market close on IPO day?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Houston be between 94-95°F on July 1?",
-          "odds": "-149",
+          "event": "Will the highest temperature in Seoul be 30°C on July 1?",
+          "odds": "+354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Pete Hegseth leave the Trump administration before 2027?",
-          "odds": "+300",
+          "odds": "+270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -137,14 +137,20 @@
           "moved": "none"
         },
         {
+          "event": "ITF Amstelveen: Francesca Pace vs Dune Vaissaud",
+          "odds": "-354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Leavitt say \"Pool\" during the next White House Press Briefing?",
           "odds": "-104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Atlanta be between 96-97°F on July 1?",
-          "odds": "+488",
+          "event": "Exact Score: France 3 - 1 Sweden?",
+          "odds": "+809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
