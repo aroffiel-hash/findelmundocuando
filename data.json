@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "30 de junio de 2026 — 20:53 UTC",
+  "lastUpdated": "30 de junio de 2026 — 22:11 UTC",
   "ticker": [
+    "What is birthright citizenship, and what does the Supreme Court ruling say?",
+    "Emergency crews search rubble after Athens building collapse",
+    "More than 30 students remain missing after Nigeria school attack",
+    "Rescuers find more bodies under rubble as Venezuela death toll rises",
     "Five humanitarian workers killed in convoy ambush in South Sudan",
     "Norway edge Ivory Coast 2–1 to enter World Cup Round of 16",
     "Evolution under fire: Iran’s ‘axis of resistance’ in a post-war era",
@@ -11,11 +15,7 @@
     "What happened on South Africa’s anti-migrant ‘deadline day’",
     "Russia’s fuel crisis deepens following Ukrainian drone strikes",
     "Lebanon’s fragile ceasefire: 3 months later",
-    "Birthright citizenship ruling: US officials, lawmakers and advocates react",
-    "England vs DR Congo: World Cup Round of 32: Kane, match prediction, lineups",
-    "How is South Africa dealing with immigration?",
-    "At least 14 children killed after roof of Pakistan tuition centre collapses",
-    "Supreme Court strikes down US campaign spending limits in landmark ruling"
+    "Birthright citizenship ruling: US officials, lawmakers and advocates react"
   ],
   "sections": [
     {
@@ -45,12 +45,6 @@
           "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Warsaw be 31°C on July 1?",
-          "odds": "+284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -58,6 +52,12 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
+        {
+          "event": "Will WTI Crude Oil (WTI) hit (LOW) $60 in July?",
+          "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?",
           "odds": "-222",
@@ -107,14 +107,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the highest temperature in Seoul be 30°C on July 1?",
-          "odds": "+354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Pete Hegseth leave the Trump administration before 2027?",
-          "odds": "+270",
+          "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -137,20 +131,26 @@
           "moved": "none"
         },
         {
-          "event": "ITF Amstelveen: Francesca Pace vs Dune Vaissaud",
-          "odds": "-354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Leavitt say \"Pool\" during the next White House Press Briefing?",
           "odds": "-104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Exact Score: France 3 - 1 Sweden?",
-          "odds": "+809",
+          "event": "Will Airbnb, Inc. (ABNB) hit (LOW) $140 Week of June 29 2026?",
+          "odds": "-117",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Yo FDV above $200M one day after launch?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will \"The Odyssey\" Opening Weekend Box Office be between 85m and 95m?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
