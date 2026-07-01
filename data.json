@@ -1,157 +1,82 @@
 {
-  "lastUpdated": "01 de julio de 2026 — 12:29 UTC",
+  "lastUpdated": "01 de julio de 2026 — 14:17 UTC",
   "ticker": [
+    "Algeria heads to legislative polls amid record-low turnout fear",
+    "Man charged after arson attack on Islamic centre in Dublin",
+    "UN Human Rights Council to hold urgent meeting on Sudan crisis",
+    "US Supreme Court upholds birthright citizenship: Who wins, who loses?",
     "Who is Vadym Yermolaiev, the Ukrainian tycoon injured in Monaco blast?",
-    "Several people killed in fire at apartment block in Belgium’s Antwerp",
+    "At least 6 killed in fire at apartment block in Belgium’s Antwerp",
     "Nearly three in four US scam victims report mental health harm, poll finds",
     "Two UK police officers face misconduct probe in Henry Nowak murder case",
     "Trump made $1.4B from crypto ventures in first year back in office",
     "‘We can relate’: Bosnia fans bring passion, Palestine support, to World Cup",
     "Orange lava flows stream from Mount Etna",
-    "USA vs Bosnia-Herzegovina: World Cup Round of 32: Prediction, team lineups",
-    "In Pictures: Mexico celebrates historic World Cup victory",
-    "Russian attacks kill three in Ukraine as Kyiv hits another oil refinery",
-    "The Possibilist | Ep 8",
-    "Venezuelan sky turns deep red as sun sets over Caracas",
-    "Watch World Cup Day 20: France dominates Sweden; Mexico, Norway progress",
-    "US-Iran negotiations: What’s the latest?",
-    "Rescuers race to reach survivors in Venezuela"
+    "In Pictures: Mexico celebrates historic World Cup victory"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
       "rows": [
         {
-          "event": "Will Steven Kwan win the 2026 AL Platinum Glove award?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
+          "event": "Will Russia capture Lyman by September 30, 2026?",
+          "odds": "+194",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
           "moved": "none"
         },
+        {
+          "event": "U.S. x Russia Nuclear deal by July 31?",
+          "odds": "+1328",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇨🇳",
+      "label": "CHINA / PACÍFICO / COREA",
+      "rows": [
         {
           "event": "Taiwanese Premier Cho Jung-tai out by December 31, 2026?",
           "odds": "+669",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con tensión China-Taiwán.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
+      "rows": [
+        {
+          "event": "Will Pete Hegseth leave the Trump administration before 2027?",
+          "odds": "+284",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         },
         {
-          "event": "Will the Bank of Russia make no change to the key rate after the July Meeting?",
-          "odds": "+122",
-          "params": "Fuente: Polymarket",
+          "event": "Will Trump’s approval rating be between 38.5 and 38.9 on July 3, 2026?",
+          "odds": "+809",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         },
         {
-          "event": "Will South Korea ETF (EWY) hit (HIGH) $203 Week of June 29 2026?",
-          "odds": "-400",
-          "params": "Fuente: Polymarket",
+          "event": "Will Trump pardon Keonne Rodriguez before 2027?",
+          "odds": "+566",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "label": "ECONOMÍA Y ENERGÍA",
       "rows": [
         {
           "event": "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?",
           "odds": "-222",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will US GDP growth in Q2 2026 be between 2.5% and 3.0%?",
-          "odds": "+376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Senegal vs. Madagascar",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will Mathilde Panot be on the ballot for the 2027 French presidential election?",
-          "odds": "+2464",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party win the popular vote in the 2026 U.S. House of Representatives midterm elections by between 6% and 8%?",
-          "odds": "+455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump’s approval rating be between 38.5 and 38.9 on July 3, 2026?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Édouard Philippe win the 2027 French presidential election?",
-          "odds": "+455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "SpaceX or OpenAI higher IPO Market Cap?",
-          "odds": "-1983",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Elon Musk post 840-879 tweets in July 2026?",
-          "odds": "+1308",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Tuyo launch a token by December 31, 2026?",
-          "odds": "+212",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Pete Hegseth leave the Trump administration before 2027?",
-          "odds": "+300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "US takes Panama Canal before 2027?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Madrid be 38°C on July 1?",
-          "odds": "+108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Amazon.com, Inc. (AMZN) hit (HIGH) $272 in July?",
-          "odds": "+344",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the TX-31 House seat?",
-          "odds": "-488",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
           "moved": "none"
         }
       ]
