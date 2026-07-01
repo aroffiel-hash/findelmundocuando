@@ -1,33 +1,27 @@
 {
-  "lastUpdated": "01 de julio de 2026 — 09:34 UTC",
+  "lastUpdated": "01 de julio de 2026 — 12:29 UTC",
   "ticker": [
+    "Who is Vadym Yermolaiev, the Ukrainian tycoon injured in Monaco blast?",
+    "Several people killed in fire at apartment block in Belgium’s Antwerp",
+    "Nearly three in four US scam victims report mental health harm, poll finds",
+    "Two UK police officers face misconduct probe in Henry Nowak murder case",
+    "Trump made $1.4B from crypto ventures in first year back in office",
+    "‘We can relate’: Bosnia fans bring passion, Palestine support, to World Cup",
+    "Orange lava flows stream from Mount Etna",
+    "USA vs Bosnia-Herzegovina: World Cup Round of 32: Prediction, team lineups",
+    "In Pictures: Mexico celebrates historic World Cup victory",
+    "Russian attacks kill three in Ukraine as Kyiv hits another oil refinery",
     "The Possibilist | Ep 8",
     "Venezuelan sky turns deep red as sun sets over Caracas",
     "Watch World Cup Day 20: France dominates Sweden; Mexico, Norway progress",
     "US-Iran negotiations: What’s the latest?",
-    "Rescuers race to reach survivors in Venezuela",
-    "FIFA World Cup: Wednesday schedule, predictions and bracket update",
-    "Trump official says White House will fight birthright citizenship decision",
-    "The Lebanon-Israel agreement is paving the way for the next war",
-    "Pakistan says it intercepted four drones fired from Afghanistan",
-    "Africa can finally mine, beneficiate and industrialise on its own terms",
-    "Democratic socialist Kiros defeats longtime incumbent in Colorado primary",
-    "‘I did nothing wrong’: Sweden’s migration regime hardens, upending lives",
-    "Why is MAGA in meltdown over the Supreme Court birthright ruling?",
-    "Gojek co-founder, turned Indonesian Education Minister jailed for 10 years",
-    "Tutoring centre roof collapses killing 14 children in Pakistan"
+    "Rescuers race to reach survivors in Venezuela"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Will Russia capture Kostyantynivka by September 30?",
-          "odds": "-284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Steven Kwan win the 2026 AL Platinum Glove award?",
           "odds": "+3233",
@@ -37,6 +31,12 @@
         {
           "event": "Taiwanese Premier Cho Jung-tai out by December 31, 2026?",
           "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Bank of Russia make no change to the key rate after the July Meeting?",
+          "odds": "+122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -107,8 +107,20 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Counter-Strike: 9z vs EYEBALLERS (BO1) - XSE Pro League Group Stage",
-          "odds": "-244",
+          "event": "SpaceX or OpenAI higher IPO Market Cap?",
+          "odds": "-1983",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Elon Musk post 840-879 tweets in July 2026?",
+          "odds": "+1308",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Tuyo launch a token by December 31, 2026?",
+          "odds": "+212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -119,14 +131,14 @@
           "moved": "none"
         },
         {
-          "event": "SpaceX or OpenAI higher IPO Market Cap?",
-          "odds": "-777",
+          "event": "US takes Panama Canal before 2027?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "US takes Panama Canal before 2027?",
-          "odds": "+1011",
+          "event": "Will the highest temperature in Madrid be 38°C on July 1?",
+          "odds": "+108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -137,20 +149,8 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Dallas be between 94-95°F on July 1?",
-          "odds": "+170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the Republican Party win the TX-31 House seat?",
           "odds": "-488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Leavitt say \"Pool\" during the next White House Press Briefing?",
-          "odds": "-104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
