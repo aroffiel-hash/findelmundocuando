@@ -1,27 +1,33 @@
 {
-  "lastUpdated": "01 de julio de 2026 — 15:36 UTC",
+  "lastUpdated": "01 de julio de 2026 — 17:48 UTC",
   "ticker": [
+    "What military capabilities does Iran possess as it negotiates with US?",
+    "The Iran talks expose the collapse of US diplomacy",
+    "Warmest June on record for England, second-warmest for UK, says Met Office",
+    "Amnesty says RSF committed ethnic cleansing in Sudan’s el-Fasher",
+    "What is a heat dome? The US heatwave explained",
+    "Secretive Gaza meetings in Cyprus as plan to isolate Hamas gathers pace",
+    "Trump takes first flight on new Qatar-gifted Air Force One",
+    "Cape Verde: All to know before FIFA World Cup knockout against Argentina",
+    "Is Ukraine’s campaign of targeting Russian refineries working?",
+    "‘Will not leave’: Is Israel killing the US-Iran MoU by staying in Lebanon?",
     "First Syrian parliament since al-Assad’s ousting begins legislative duties",
     "India’s Bengal drops eggs from school lunches: Why that’s stoking debate",
     "How war on Iran changed the global energy sector forever",
     "Israeli forces kill Palestinian goalkeeper in Gaza",
-    "Sabalenka overcomes Kessler at Wimbledon, sets up Ostapenko clash",
-    "After Afghanistan fires drones into Pakistan, what’s next?",
-    "Caught between the US and China, can Europe remain competitive?",
-    "Colorado primary election results: Melat Kiros wins – key takeaways",
-    "Algeria heads to legislative polls amid record-low turnout fear",
-    "Man charged after arson attack on Islamic centre in Dublin",
-    "England vs DR Congo LIVE – FIFA World Cup 2026",
-    "UN Human Rights Council to hold urgent meeting on Sudan crisis",
-    "US Supreme Court upholds birthright citizenship: Who wins, who loses?",
-    "Who is Vadym Yermolaiev, the Ukrainian tycoon injured in Monaco blast?",
-    "At least 6 killed in fire at apartment block in Belgium’s Antwerp"
+    "Sabalenka overcomes Kessler at Wimbledon, sets up Ostapenko clash"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "US-Iran Final Nuclear Deal by December 31, 2026?",
+          "odds": "+122",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Steven Kwan win the 2026 AL Platinum Glove award?",
           "odds": "+3233",
@@ -35,20 +41,14 @@
           "moved": "none"
         },
         {
-          "event": "Israel x Hezbollah permanent peace deal by July 31, 2026?",
-          "odds": "+2339",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Warsaw be 25°C on July 3?",
-          "odds": "+1370",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Russia capture Lyman by September 30, 2026?",
           "odds": "+194",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "US-Iran Final Nuclear Deal by September 30, 2026?",
+          "odds": "+222",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -89,14 +89,14 @@
           "moved": "none"
         },
         {
-          "event": "Will the Democratic Party win the popular vote in the 2026 U.S. House of Representatives midterm elections by between 6% and 8%?",
-          "odds": "+455",
+          "event": "Will Trump’s approval rating be at least 40.0 on July 3, 2026?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Édouard Philippe win the 2027 French presidential election?",
-          "odds": "+488",
+          "odds": "+426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -109,6 +109,12 @@
         {
           "event": "Will Dan Sullivan win the Alaska Senate race in 2026?",
           "odds": "+143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Flávio Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election?",
+          "odds": "-455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -127,6 +133,12 @@
         {
           "event": "SpaceX or OpenAI higher IPO Market Cap?",
           "odds": "-1983",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: Spain 2 - 2 Austria?",
+          "odds": "+3025",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -157,12 +169,6 @@
         {
           "event": "Will the Republican Party win the TX-31 House seat?",
           "odds": "-488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Emma Navarro advance to the Semifinals in Ladies' Singles at Wimbledon 2026?",
-          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
