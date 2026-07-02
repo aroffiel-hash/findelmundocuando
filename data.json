@@ -1,76 +1,145 @@
 {
-  "lastUpdated": "02 de julio de 2026 — 13:43 UTC",
+  "lastUpdated": "02 de julio de 2026 — 15:09 UTC",
   "ticker": [
+    "Who is Iranian oil tycoon Shamkhani whose ship is stranded in Hormuz?",
+    "Man City sign Elliot Anderson from Forest in record British transfer",
+    "With Hormuz reopened, has the oil shortage turned into a glut?",
+    "Gaza’s first women’s amputee football team reclaims the pitch after war",
+    "Explosion in Damascus cafe causes casualties",
+    "Gaza war’s 1,000 days: 90% of strip ‘destroyed’, 80% ‘seized’ by Israel",
     "Why has Trump refused to renew the USMCA, and what will that mean?",
     "German football has a bigger problem than a World Cup loss: Scapegoating",
     "From Alabama to Yosemite: 50 US places with Native American origins",
     "What’s China’s new ethnic unity law, and what does it mean for minorities?",
-    "Syria explosion live: Bomb blast kills 4 people in Damascus",
-    "At least four killed in explosion inside busy Damascus cafe",
+    "Syria explosion live: Bomb blast kills 5 people in Damascus",
+    "Portugal vs Croatia: FIFA World Cup – Ronaldo-Modric, prediction, team news",
+    "At least five killed in explosion inside central Damascus cafe",
     "Controversial penalty ends Senegal’s FIFA World Cup run against Belgium",
-    "Vatican expels members of rebel Catholic group over unapproved ordination",
-    "Philippines volcano erupts blasting plumes of ash and steam",
-    "German coalition agrees on sweeping reform package in key breakthrough",
-    "An extra 229,000 deaths: Is that the cost of US-UK drugs deal?",
-    "A Palestinian home inside a cage"
+    "Jaylen Brown traded to Philadelphia 76ers from Boston Celtics"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will there be 80 or more average daily transits of the Strait of Hormuz on July 31?",
-          "odds": "+1566",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Will Steven Kwan win the 2026 AL Platinum Glove award?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
           "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
-      "rows": [
-        {
-          "event": "Will Russia capture Kupiansk-Vuzlovyi by December 31?",
-          "odds": "+112",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇨🇳",
-      "label": "CHINA / PACÍFICO / COREA",
-      "rows": [
+        },
         {
           "event": "Taiwanese Premier Cho Jung-tai out by December 31, 2026?",
           "odds": "+669",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con tensión China-Taiwán.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
-      "rows": [
+        },
         {
-          "event": "Will Trump pardon Keonne Rodriguez before 2027?",
-          "odds": "+566",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Will Russia capture Kupiansk-Vuzlovyi by December 31?",
+          "odds": "+112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Warsaw be 24°C on July 4?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y ENERGÍA",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
+        {
+          "event": "Will US GDP growth in Q2 2026 be between 2.5% and 3.0%?",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?",
           "odds": "-222",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Mathilde Panot be on the ballot for the 2027 French presidential election?",
+          "odds": "+2464",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Andrew Yang announce a Presidential run before 2027?",
+          "odds": "+719",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Paul St-Pierre Plamondon be the next Premier of Quebec following the 2026 Quebec general election?",
+          "odds": "-170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will Daria Snigur advance to the Quarterfinals in Ladies' Singles at Wimbledon 2026?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Wimbledon ATP (Doubles): Doumbia/Reboul vs Kirkov/Stevens",
+          "odds": "-149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "US takes Panama Canal before 2027?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will any AI model reach 1550 Overall Arena Score by September 30, 2026?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Emma Navarro advance to the Semifinals in Ladies' Singles at Wimbledon 2026?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Samuel Alito announce his retirement by July 15, 2026?",
+          "odds": "+1119",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the TX-31 House seat?",
+          "odds": "-488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Leavitt say \"Pool\" during the next White House Press Briefing?",
+          "odds": "-104",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
