@@ -1,145 +1,64 @@
 {
-  "lastUpdated": "01 de julio de 2026 — 23:06 UTC",
+  "lastUpdated": "02 de julio de 2026 — 02:37 UTC",
   "ticker": [
+    "Kyiv attacked after Ukraine’s Zelenskyy warns of ‘massive Russian strike’",
+    "Ocean temperatures hit record highs as El Niño looms",
+    "‘A war zone’: Venezuela aid workers fear health crisis after earthquakes",
+    "Belgium stage 3–2 comeback win over Senegal to enter World Cup last 16",
+    "Iran war live: ‘Positive progress’ as US, Tehran wrap up indirect talks",
+    "Couple arrested after daring Empire State marriage proposal stunt",
+    "US judge sides with NAACP over proposed mail-in ballot restrictions",
+    "Iran football team welcomed home after World Cup exit",
     "E Jean Carroll demands Donald Trump pay $5.8m in damages from 2019 case",
     "US signs $1 lease with Israel to build permanent embassy in West Jerusalem",
     "US Supreme Court hands wealthy donors more sway with latest decision",
-    "LIVE: USA vs Bosnia and Herzegovina – FIFA World Cup 2026",
-    "Iran to open ‘communication channel’ on MoU with US after talks in Qatar",
-    "Russian couple arrested after climbing Empire State Building",
-    "State of emergency: Bolivia’s currency plummets as anger simmers",
-    "Despite marquee losses, Supreme Court term grows Trump’s presidential power",
-    "Israeli opposition signal foreign policy change in style, but not substance",
-    "Seven more sentenced over Texas ICE detention centre shooting",
-    "Israel kills three Palestinians in Gaza despite ‘ceasefire’",
-    "As Venezuela responds to earthquake devastation, volunteers take charge",
-    "One week on from Venezuela’s deadly earthquakes",
-    "Kane double fires England to comeback win over DR Congo at World Cup 2026",
-    "How AI is being weaponised against India’s Muslim women"
+    "LIVE: USA beat Bosnia and Herzegovina 2-0 – FIFA World Cup 2026"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "🇨🇳",
+      "label": "CHINA / PACÍFICO / COREA",
       "rows": [
-        {
-          "event": "Will Steven Kwan win the 2026 AL Platinum Glove award?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Taiwanese Premier Cho Jung-tai out by December 31, 2026?",
           "odds": "+669",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con tensión China-Taiwán.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
+      "rows": [
+        {
+          "event": "Will Trump’s approval rating be between 38.5 and 38.9 on July 3, 2026?",
+          "odds": "+809",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "moved": "none"
+        },
+        {
+          "event": "Will Donald Trump post 80-99 Truth Social posts from June 30 to July 7, 2026?",
+          "odds": "+1594",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump pardon Keonne Rodriguez before 2027?",
+          "odds": "+566",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "label": "ECONOMÍA Y ENERGÍA",
       "rows": [
-        {
-          "event": "Will US GDP growth in Q2 2026 be between 2.5% and 3.0%?",
-          "odds": "+376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?",
           "odds": "-222",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Senegal vs. Madagascar",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will Mathilde Panot be on the ballot for the 2027 French presidential election?",
-          "odds": "+2464",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Dan Sullivan win the Alaska Senate race in 2026?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump’s approval rating be between 38.5 and 38.9 on July 3, 2026?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Nick Begich III advance from the AK-AL primary election?",
-          "odds": "-2399",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will NYC Mayor post 40-59 posts from June 26 to July 3, 2026?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "SpaceX or OpenAI higher IPO Market Cap?",
-          "odds": "-1983",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Daria Snigur advance to the Quarterfinals in Ladies' Singles at Wimbledon 2026?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "US takes Panama Canal before 2027?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Donald Trump publicly insult Barack Obama by July 31, 2026?",
-          "odds": "-2122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will NYC Mayor post 80-99 posts from June 26 to July 3, 2026?",
-          "odds": "+402",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Emma Navarro advance to the Semifinals in Ladies' Singles at Wimbledon 2026?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the TX-31 House seat?",
-          "odds": "-488",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
           "moved": "none"
         }
       ]
