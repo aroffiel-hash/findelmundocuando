@@ -1,27 +1,33 @@
 {
-  "lastUpdated": "02 de julio de 2026 — 15:09 UTC",
+  "lastUpdated": "02 de julio de 2026 — 17:39 UTC",
   "ticker": [
+    "What’s behind the deadly bombing of a crowded Damascus cafe?",
+    "US wants intervention, but Syria signals diplomacy after FM’s Lebanon trip",
+    "German prosecutors allege Ukraine ordered Nord Stream pipeline attack",
+    "Spain immigration scheme sees 1.2 million apply for legal status",
+    "‘Collateral damage’: 73 Palestinian children Israel shot in the head",
+    "Why is Prada facing pro-Israeli backlash?",
+    "What is the Society of St Pius X? Why Pope Leo excommunicated its members",
+    "Spain vs Austria LIVE: FIFA World Cup 2026",
+    "Into the Darkness",
+    "US job growth slows in June; hospitality sheds roles despite World Cup",
+    "UK’s Starmer apologises for the state’s role in decades of forced adoptions",
     "Who is Iranian oil tycoon Shamkhani whose ship is stranded in Hormuz?",
     "Man City sign Elliot Anderson from Forest in record British transfer",
     "With Hormuz reopened, has the oil shortage turned into a glut?",
-    "Gaza’s first women’s amputee football team reclaims the pitch after war",
-    "Explosion in Damascus cafe causes casualties",
-    "Gaza war’s 1,000 days: 90% of strip ‘destroyed’, 80% ‘seized’ by Israel",
-    "Why has Trump refused to renew the USMCA, and what will that mean?",
-    "German football has a bigger problem than a World Cup loss: Scapegoating",
-    "From Alabama to Yosemite: 50 US places with Native American origins",
-    "What’s China’s new ethnic unity law, and what does it mean for minorities?",
-    "Syria explosion live: Bomb blast kills 5 people in Damascus",
-    "Portugal vs Croatia: FIFA World Cup – Ronaldo-Modric, prediction, team news",
-    "At least five killed in explosion inside central Damascus cafe",
-    "Controversial penalty ends Senegal’s FIFA World Cup run against Belgium",
-    "Jaylen Brown traded to Philadelphia 76ers from Boston Celtics"
+    "Gaza’s first women’s amputee football team reclaims the pitch after war"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Will Russia capture Rai-Oleksandrivka by September 30?",
+          "odds": "+194",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Steven Kwan win the 2026 AL Platinum Glove award?",
           "odds": "+3233",
@@ -37,12 +43,6 @@
         {
           "event": "Will Russia capture Kupiansk-Vuzlovyi by December 31?",
           "odds": "+112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Warsaw be 24°C on July 4?",
-          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -95,14 +95,20 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Libya vs. South Sudan",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Daria Snigur advance to the Quarterfinals in Ladies' Singles at Wimbledon 2026?",
           "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Wimbledon ATP (Doubles): Doumbia/Reboul vs Kirkov/Stevens",
-          "odds": "-149",
+          "event": "Will the highest temperature in Cape Town be 16°C on July 3?",
+          "odds": "+132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -121,12 +127,6 @@
         {
           "event": "Will Emma Navarro advance to the Semifinals in Ladies' Singles at Wimbledon 2026?",
           "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Samuel Alito announce his retirement by July 15, 2026?",
-          "odds": "+1119",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
