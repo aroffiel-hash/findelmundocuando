@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "02 de julio de 2026 — 23:59 UTC",
+  "lastUpdated": "03 de julio de 2026 — 02:12 UTC",
   "ticker": [
+    "Powerful explosion as firefighters probe smoke at Tacoma apartment",
+    "Ronaldo scores as Portugal come back to win, Croatia denied by late VAR",
+    "Relief efforts shift as Venezuela quake survivors seek aid",
+    "Iran war live: Tehran slams US before huge funeral for Ali Khamenei",
     "Trump administration indicts Olympic athlete for Reflecting Pool vandalism",
     "Will the end of TPS for Haitians mean a caregiving crisis in US?",
     "Portugal fans gather ahead of Ronaldo-Modric clash",
@@ -8,144 +12,53 @@
     "Oyarzabal scores two goals as Spain dominates Austria in World Cup knockout",
     "Could water become a flashpoint between Islamabad and New Delhi?",
     "WHO declares cruise-linked hantavirus outbreak officially over",
-    "UK’s likely next leader Andy Burnham vows to fully fund defence plans",
-    "Trump administration aims to cut regulations on US commercial fishing",
-    "UK culture minister quits X over ‘abuse and misinformation’",
-    "Violent clashes as Albania’s anti-government protests continue",
-    "LIVE: Portugal vs Croatia – FIFA World Cup 2026",
-    "Trump administration renews pressure on International Criminal Court",
-    "Supermarket chaos for air conditioner sale in France amid heatwave",
-    "Nine Buddhist monks killed by child driving truck in Thailand"
+    "UK’s likely next leader Andy Burnham vows to fully fund defence plans"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
       "rows": [
         {
           "event": "Will Russia capture Rai-Oleksandrivka by September 30?",
           "odds": "+194",
-          "params": "Fuente: Polymarket",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
           "moved": "none"
-        },
-        {
-          "event": "Will Steven Kwan win the 2026 AL Platinum Glove award?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "🇨🇳",
+      "label": "CHINA / PACÍFICO / COREA",
+      "rows": [
         {
           "event": "Taiwanese Premier Cho Jung-tai out by December 31, 2026?",
           "odds": "+669",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con tensión China-Taiwán.",
           "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
+      "rows": [
         {
-          "event": "Will Russia capture Kupiansk-Vuzlovyi by December 31?",
-          "odds": "+112",
-          "params": "Fuente: Polymarket",
+          "event": "Will Trump pardon Keonne Rodriguez before 2027?",
+          "odds": "+566",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "label": "ECONOMÍA Y ENERGÍA",
       "rows": [
-        {
-          "event": "Will US GDP growth in Q2 2026 be between 2.5% and 3.0%?",
-          "odds": "+376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?",
           "odds": "-222",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will US GDP growth in Q2 2026 be between 1.5% and 2.0%?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will Mathilde Panot be on the ballot for the 2027 French presidential election?",
-          "odds": "+2464",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Andrew Yang announce a Presidential run before 2027?",
-          "odds": "+719",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Paul St-Pierre Plamondon be the next Premier of Quebec following the 2026 Quebec general election?",
-          "odds": "-170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Set Handicap: Arribage/Olivetti (-1.5) vs Ho/Jebens (+1.5)",
-          "odds": "-127",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Daria Snigur advance to the Quarterfinals in Ladies' Singles at Wimbledon 2026?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "US takes Panama Canal before 2027?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Switzerland leading at halftime?",
-          "odds": "+170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will any AI model reach 1550 Overall Arena Score by September 30, 2026?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Gwangju FC win on 2026-07-05?",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Emma Navarro advance to the Semifinals in Ladies' Singles at Wimbledon 2026?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the TX-31 House seat?",
-          "odds": "-614",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
           "moved": "none"
         }
       ]
