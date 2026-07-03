@@ -1,145 +1,64 @@
 {
-  "lastUpdated": "03 de julio de 2026 — 12:04 UTC",
+  "lastUpdated": "03 de julio de 2026 — 13:48 UTC",
   "ticker": [
+    "Video: The Cape Verde effect",
+    "UN sounds ‘red alert’ over human rights catastrophe in Sudan’s el-Obeid",
+    "World cup wrap day 22",
+    "‘If it dies, it’s on you’: Saving Nigeria’s Benin bronze casting",
+    "Argentina fans flood Miami for Cape Verde match",
+    "Mourners pay respects as Iran’s slain leader Ali Khamenei lies in state",
     "Video: Ronaldo appears to say ‘Bismillah’ before penalty",
     "Bangkok’s ambulance volunteers: Saving lives or putting them at risk?",
     "An AIDS-free generation is within reach, but not guaranteed",
     "Argentina fans revel in Messi’s Miami homecoming before Cape Verde match",
     "Nagelsmann quits as Germany coach after early World Cup 2026 exit",
-    "What is Nayara, the Indian firm Russia is reportedly importing oil from?",
-    "Moldova’s prime minister quits, triggering government’s resignation",
-    "Russia’s triumphant tone shifts as Ukraine deploys ‘asymmetrical tactics’",
-    "US Police staff spark altercation with Egyptian players posing with fans",
-    "Israel approves plan to establish 13 new settlements in occupied West Bank",
-    "Five killed in Ukraine a day after deadliest Russian attacks this year",
-    "FIFA World Cup 2026: Round of 16 bracket, Friday schedule, predictions",
-    "Watch World Cup Day 22: Portugal pulls off dramatic win against Croatia",
-    "UN warns likelihood of ‘extreme weather events’ as El Nino set to intensify",
-    "$500m for Trump, access for Pakistan: How a crypto-diplomatic bet paid off"
+    "What is Nayara, the Indian firm Russia is reportedly importing oil from?"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
       "rows": [
         {
           "event": "Will Russia capture Rai-Oleksandrivka by September 30?",
           "odds": "+194",
-          "params": "Fuente: Polymarket",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
           "moved": "none"
-        },
-        {
-          "event": "Will Steven Kwan win the 2026 AL Platinum Glove award?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "🇨🇳",
+      "label": "CHINA / PACÍFICO / COREA",
+      "rows": [
         {
           "event": "Taiwanese Premier Cho Jung-tai out by December 31, 2026?",
           "odds": "+669",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con tensión China-Taiwán.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
+      "rows": [
+        {
+          "event": "Will Trump pardon Keonne Rodriguez before 2027?",
+          "odds": "+566",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "label": "ECONOMÍA Y ENERGÍA",
       "rows": [
-        {
-          "event": "Will US GDP growth in Q2 2026 be between 2.5% and 3.0%?",
-          "odds": "+376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?",
           "odds": "-222",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will Mathilde Panot be on the ballot for the 2027 French presidential election?",
-          "odds": "+2464",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Seth Moulton be the Democratic nominee for Senate in Massachusetts?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Marsha Blackburn win the 2026 Tennessee Governor Republican primary election?",
-          "odds": "-2757",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Jaunā Vienotība (JV) win the most seats in the 2026 Latvian parliamentary election?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will the highest temperature in Singapore be 31°C on July 5?",
-          "odds": "+212",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the median home value in Austin Metro be between $478,000 and $486,000 on September 30?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the iPhone 18 Pro cost at least $1200?",
-          "odds": "+149",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Daria Snigur advance to the Quarterfinals in Ladies' Singles at Wimbledon 2026?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "US takes Panama Canal before 2027?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Emma Navarro advance to the Semifinals in Ladies' Singles at Wimbledon 2026?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Milan be 35°C on July 5?",
-          "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will any AI model reach 1550 Overall Arena Score by September 30, 2026?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
           "moved": "none"
         }
       ]
