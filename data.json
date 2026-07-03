@@ -1,64 +1,139 @@
 {
-  "lastUpdated": "03 de julio de 2026 — 13:48 UTC",
+  "lastUpdated": "03 de julio de 2026 — 15:05 UTC",
   "ticker": [
+    "Election wins prove pro-Palestine US campus protests didn’t fail: Activists",
+    "Osaka defeats Kasatkina to make Wimbledon round of 16",
+    "Russia’s advance collapses in Ukraine, ‘40,000’ troops killed in June",
+    "Interpol names Ukrainian woman as suspect in Monaco bombing",
+    "Canada vs Morocco: World Cup Round of 16: Saibari, prediction, schedule",
     "Video: The Cape Verde effect",
     "UN sounds ‘red alert’ over human rights catastrophe in Sudan’s el-Obeid",
     "World cup wrap day 22",
+    "Don’t eat your greens? A diet taking Yemen by storm has doctors worried",
     "‘If it dies, it’s on you’: Saving Nigeria’s Benin bronze casting",
     "Argentina fans flood Miami for Cape Verde match",
     "Mourners pay respects as Iran’s slain leader Ali Khamenei lies in state",
     "Video: Ronaldo appears to say ‘Bismillah’ before penalty",
     "Bangkok’s ambulance volunteers: Saving lives or putting them at risk?",
-    "An AIDS-free generation is within reach, but not guaranteed",
-    "Argentina fans revel in Messi’s Miami homecoming before Cape Verde match",
-    "Nagelsmann quits as Germany coach after early World Cup 2026 exit",
-    "What is Nayara, the Indian firm Russia is reportedly importing oil from?"
+    "An AIDS-free generation is within reach, but not guaranteed"
   ],
   "sections": [
     {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Will Russia capture Rai-Oleksandrivka by September 30?",
           "odds": "+194",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇨🇳",
-      "label": "CHINA / PACÍFICO / COREA",
-      "rows": [
+        },
+        {
+          "event": "Will Steven Kwan win the 2026 AL Platinum Glove award?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Taiwanese Premier Cho Jung-tai out by December 31, 2026?",
           "odds": "+669",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con tensión China-Taiwán.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
-      "rows": [
+        },
         {
-          "event": "Will Trump pardon Keonne Rodriguez before 2027?",
-          "odds": "+566",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Nestory Irankunda: 2+ shots",
+          "odds": "+112",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y ENERGÍA",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
           "event": "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?",
           "odds": "-222",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Mathilde Panot be on the ballot for the 2027 French presidential election?",
+          "odds": "+2464",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Marsha Blackburn win the 2026 Tennessee Governor Republican primary election?",
+          "odds": "-2757",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jaunā Vienotība (JV) win the most seats in the 2026 Latvian parliamentary election?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will the median home value in Austin Metro be between $478,000 and $486,000 on September 30?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the iPhone 18 Pro cost at least $1200?",
+          "odds": "+149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Daria Snigur advance to the Quarterfinals in Ladies' Singles at Wimbledon 2026?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "US takes Panama Canal before 2027?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will any AI model reach 1550 Overall Arena Score by September 30, 2026?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the TX-31 House seat?",
+          "odds": "-614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Leavitt say \"Pool\" during the next White House Press Briefing?",
+          "odds": "-104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will ANSEM flip PUMP by June 30, 2027?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
