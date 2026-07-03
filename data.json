@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "03 de julio de 2026 — 02:12 UTC",
+  "lastUpdated": "03 de julio de 2026 — 03:44 UTC",
   "ticker": [
+    "Iran warns ships against using unapproved routes in Strait of Hormuz",
+    "Who are the rogue bishops defying Pope Leo XIV?",
+    "‘They gave their best’: Congolese reflect on historic World Cup run",
     "Powerful explosion as firefighters probe smoke at Tacoma apartment",
     "Ronaldo scores as Portugal come back to win, Croatia denied by late VAR",
     "Relief efforts shift as Venezuela quake survivors seek aid",
@@ -16,49 +19,133 @@
   ],
   "sections": [
     {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Will Russia capture Rai-Oleksandrivka by September 30?",
           "odds": "+194",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇨🇳",
-      "label": "CHINA / PACÍFICO / COREA",
-      "rows": [
+        },
+        {
+          "event": "Will Steven Kwan win the 2026 AL Platinum Glove award?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Taiwanese Premier Cho Jung-tai out by December 31, 2026?",
           "odds": "+669",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con tensión China-Taiwán.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
-      "rows": [
-        {
-          "event": "Will Trump pardon Keonne Rodriguez before 2027?",
-          "odds": "+566",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y ENERGÍA",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
+        {
+          "event": "Will US GDP growth in Q2 2026 be between 2.5% and 3.0%?",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?",
           "odds": "-222",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will US GDP growth in Q2 2026 be between 1.5% and 2.0%?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Mathilde Panot be on the ballot for the 2027 French presidential election?",
+          "odds": "+2464",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Douglas Ruas win the Governor of Rio de Janeiro election?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Andrew Yang announce a Presidential run before 2027?",
+          "odds": "+870",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Paul St-Pierre Plamondon be the next Premier of Quebec following the 2026 Quebec general election?",
+          "odds": "-170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Set Handicap: Arribage/Olivetti (-1.5) vs Ho/Jebens (+1.5)",
+          "odds": "-127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Set Handicap: Medvedev (-2.5) vs Struff (+2.5)",
+          "odds": "+127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Daria Snigur advance to the Quarterfinals in Ladies' Singles at Wimbledon 2026?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "US takes Panama Canal before 2027?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will any AI model reach 1550 Overall Arena Score by September 30, 2026?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Emma Navarro advance to the Semifinals in Ladies' Singles at Wimbledon 2026?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the TX-31 House seat?",
+          "odds": "-614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Leavitt say \"Pool\" during the next White House Press Briefing?",
+          "odds": "-104",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
