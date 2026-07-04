@@ -1,9 +1,12 @@
 {
-  "lastUpdated": "04 de julio de 2026 — 13:07 UTC",
+  "lastUpdated": "04 de julio de 2026 — 13:09 UTC",
   "ticker": [
     "Nabatieh recovery begins amid ongoing southern Lebanon tensions",
     "Pope Leo urges migrant protection, integration on visit to Lampedusa",
+    "Firefighters race to contain flames in northeastern Spain",
+    "England vs Mexico at Azteca: Kickoff, altitude and weather explained",
     "Thousands protest in Germany as far-right AfD party meets",
+    "America250: How the US heatwave will affect Fourth of July celebrations",
     "In South Asia, America has stopped asking India for permission",
     "Ukraine hits oil and military facilities near Russia’s St Petersburg",
     "Millions mourn Iran’s Ali Khamenei amid historic funeral procession",
@@ -16,43 +19,103 @@
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Ishaq Dar attend a US x Iran diplomatic meeting by August 31, 2026?",
-          "odds": "+257",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
-      "rows": [
-        {
-          "event": "Will Donald Trump post 160-179 Truth Social posts from June 30 to July 7, 2026?",
-          "odds": "+244",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Will Steven Kwan win the 2026 AL Platinum Glove award?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Trump pardon Keonne Rodriguez before 2027?",
-          "odds": "+566",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Will Ishaq Dar attend a US x Iran diplomatic meeting by August 31, 2026?",
+          "odds": "+257",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y ENERGÍA",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
           "event": "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?",
           "odds": "-222",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Jaunā Vienotība (JV) win the most seats in the 2026 Latvian parliamentary election?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Marsha Blackburn win the 2026 Tennessee Governor Republican primary election?",
+          "odds": "-2757",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Beijing Guoan FC vs. Shandong Taishan FC: Both Teams to Score in First Half",
+          "odds": "+222",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the median home value in Austin Metro be between $478,000 and $486,000 on September 30?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Map Handicap: BIG (-1.5) vs NIP (+1.5)",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Donald Trump post 160-179 Truth Social posts from June 30 to July 7, 2026?",
+          "odds": "+244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will a new Gemini flagship be released by July 31, 2026?",
+          "odds": "+104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Hanwha Life Esports win the LCK 2026 season playoffs?",
+          "odds": "+313",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will ByteDance's valuation hit (HIGH) $650B by December 31?",
+          "odds": "+117",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: Halmstads BK 2 - 2 Vasteraas SK?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
