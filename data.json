@@ -1,121 +1,58 @@
 {
-  "lastUpdated": "05 de julio de 2026 — 11:25 UTC",
+  "lastUpdated": "05 de julio de 2026 — 13:16 UTC",
   "ticker": [
+    "What to know about the renewed coordinated attacks across Mali",
+    "Indonesian army recovers US pilot’s body from Papua",
+    "Jailed Gaza hospital chief in life-threatening condition, rights group says",
     "Sooryavanshi sets record for youngest India player in international match",
     "Trump praises US military as it marks 250 years of independence",
     "China and Russia to hold annual joint naval drills",
     "Release Dr Hussam Abu Safia immediately!",
-    "Mexico vs England: FIFA World Cup last 16 – Kane, prediction and altitude",
     "Reform UK’s Farage failed to disclose funds from convicted criminal: Report",
-    "How xenophobia went viral in South Africa",
     "FIFA World Cup round of 16: Bracket, schedule, predictions and latest news",
     "China releases underground church pastor after months in detention",
     "Watch World Cup Day 24: France and Morocco advance to quarterfinals",
-    "Palestinians in Gaza celebrate Morocco’s World Cup victory",
-    "Iran’s China envoy vows ‘special’ Hormuz treatment for ‘friendly’ countries",
-    "Trump offers to help end Russia-Ukraine war in Putin call, Kremlin says",
-    "Egypt and Morocco fans celebrate World Cup wins by singing for Palestine",
-    "Brazil vs Norway: FIFA World Cup last 16 – Vinicius, Haaland and prediction"
+    "Palestinians in Gaza celebrate Morocco’s World Cup victory"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
       "rows": [
-        {
-          "event": "Will Steven Kwan win the 2026 AL Platinum Glove award?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Donald Trump visit Russia in 2026?",
           "odds": "+733",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
           "moved": "none"
         },
         {
           "event": "Will Russia capture all of Vovchansk by December 31?",
           "odds": "+132",
-          "params": "Fuente: Polymarket",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
+      "rows": [
+        {
+          "event": "Will Trump pardon Keonne Rodriguez before 2027?",
+          "odds": "+566",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "label": "ECONOMÍA Y ENERGÍA",
       "rows": [
         {
           "event": "Will Venezuelan crude oil production reach 1.2m barrels per day in 2026?",
           "odds": "-400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will Marsha Blackburn win the 2026 Tennessee Governor Republican primary election?",
-          "odds": "-2757",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will Hanwha Life Esports win the LCK 2026 season playoffs?",
-          "odds": "+314",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will a new Gemini flagship be released by July 31, 2026?",
-          "odds": "+104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will ByteDance's valuation hit (HIGH) $650B by December 31?",
-          "odds": "+117",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Leavitt say \"Pool\" during the next White House Press Briefing?",
-          "odds": "-104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Baltimore Orioles vs. Cincinnati Reds",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will UAE leave the Gulf Cooperation Council  in 2026?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "QFEX FDV above $80M one day after launch?",
-          "odds": "+354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Helsinki be 16°C on July 6?",
-          "odds": "+376",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
           "moved": "none"
         }
       ]
