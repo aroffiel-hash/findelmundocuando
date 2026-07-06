@@ -1,28 +1,109 @@
 {
-  "lastUpdated": "06 de julio de 2026 — 15:16 UTC",
+  "lastUpdated": "06 de julio de 2026 — 17:37 UTC",
   "ticker": [
+    "Khamenei family mourns, but Mojtaba’s absence fuels public insecurity",
+    "UN rights body demands release of Palestinian doctor detained by Israel",
+    "Ex-Syrian intelligence chief in Raqqa convicted of torture in Austria",
+    "Argentina vs Egypt: FIFA World Cup last 16 – Messi, Salah, prediction, news",
+    "Lebanon latest: Teacher killed by Israeli airstrike",
+    "Portugal vs Spain LIVE: FIFA World Cup 2026 round of 16",
+    "Netanyahu says his ties with Trump are ‘fine’, takes aim at Turkiye",
+    "UN discusses prevention of genocide: Six times it failed to do just that",
+    "US president Trump defends FIFA’s Balogun red card reversal",
+    "Is NATO at breaking point as it meets in Turkiye?",
+    "Israel’s Smotrich declares ‘revolution’ in West Bank settlement expansion",
     "FIFA World Cup: Mohamed Salah and the ghosts of Egypt’s ‘golden generation’",
     "Israeli attack on vehicle in Lebanon kills at least four",
     "The pitfalls of institutionalising US military aid to Israel",
-    "Hamas announces dissolution of Gaza governing body",
-    "England boss jokes Trump could help lift defender’s suspension",
-    "Baby dies after Israeli troops block emergency journey to hospital",
-    "Refugees killed in landslides at Rohingya camps in Bangladesh",
-    "Large-scale Russian attack on Ukraine before NATO summit",
-    "The World Cup must pay its carbon bill",
-    "El-Obeid under siege by RSF: Could this be Sudan’s next el-Fasher?",
-    "Israeli attacks on Gaza kill at least 6 as ‘ceasefire’ violations continue",
-    "Why FIFA’s Balogun red card suspension after Trump call is so controversial"
+    "From Manchester to Downing Street: What Burnham could mean for Palantir"
   ],
   "sections": [
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Trump pardon Keonne Rodriguez before 2027?",
-          "odds": "+566",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Will Steven Kwan win the 2026 AL Platinum Glove award?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will Mexico GDP growth in Q2 2026 be between 1.0% and 1.5%?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Michelle Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election?",
+          "odds": "+2841",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "McDonald’s in Cuba announced in 2026?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Ferrán Torres: 1+ assists",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Vila Nova FC win on 2026-07-06?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will a new Gemini flagship be released by July 31, 2026?",
+          "odds": "+104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will KÍ win on 2026-07-07?",
+          "odds": "-177",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will ByteDance's valuation hit (HIGH) $650B by December 31?",
+          "odds": "+117",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Leavitt say \"Pool\" during the next White House Press Briefing?",
+          "odds": "-104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Ornn H200 Index be at least $6.00 on July 31, 2026?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
