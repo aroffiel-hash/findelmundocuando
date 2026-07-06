@@ -1,52 +1,103 @@
 {
-  "lastUpdated": "06 de julio de 2026 — 02:31 UTC",
+  "lastUpdated": "06 de julio de 2026 — 05:05 UTC",
   "ticker": [
+    "Which teams are in the World Cup quarterfinals, and what’s the schedule?",
+    "Bellingham inspires 10-man England to beat Mexico 3-2 in last-16 thriller",
+    "OPEC+ countries say they will expand monthly oil production",
+    "Sports stadium becomes home for victims of the Venezuela earthquakes",
     "Ronaldo’s last World Cup? We will see, says Portugal star before Spain clash",
+    "How conflict minerals fuel war in eastern DR Congo amid US sanctions",
     "Tuareg fighters claim to have shot down a Russian helicopter in Mali",
     "Neymar quits international football after Brazil’s World Cup knockout loss",
     "Belgium ‘astonished’ at FIFA’s U-turn on Balogun red card for USA match",
-    "Iran war live: Tehran prepares for Ali Khamenei’s funeral procession",
+    "Iran war live: Khamenei’s funeral procession under way in Tehran",
     "Venezuelan leader marks Independence Day with message of ‘no social unrest’",
     "How a son rescued his father from the rubble of Venezuela’s earthquakes",
     "Haaland scores twice as Norway stun Brazil 2-1 in World Cup 2026 last 16",
     "Palestinian baby dies in West Bank after Israel blocks urgent medical care",
-    "Turkiye gears up for its first NATO summit in 22 years",
-    "Albanian court frees protesters who rallied against Kushner-linked resort",
-    "FIFA World Cup: All to know as Ronaldo’s Portugal play Spain in the last 16"
+    "Turkiye gears up for its first NATO summit in 22 years"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will the next diplomatic US-Iran meeting be in Pakistan by September 30, 2026?",
-          "odds": "+128",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
+          "event": "Will Steven Kwan win the 2026 AL Platinum Glove award?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
           "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
-      "rows": [
+        },
         {
           "event": "Will Donald Trump visit Russia in 2026?",
           "odds": "+733",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will Trump pardon Keonne Rodriguez before 2027?",
-          "odds": "+566",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Will Mexico GDP growth in Q2 2026 be between 1.0% and 1.5%?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "McDonald’s in Cuba announced in 2026?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Set Handicap: Badosa (-1.5) vs Ribera (+1.5)",
+          "odds": "-104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will a new Gemini flagship be released by July 31, 2026?",
+          "odds": "+104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Istanbul be 29°C on July 7?",
+          "odds": "+910",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will ByteDance's valuation hit (HIGH) $650B by December 31?",
+          "odds": "+117",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Silver (XAGUSD) hit (LOW) $50 in July?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Leavitt say \"Pool\" during the next White House Press Briefing?",
+          "odds": "-104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Ornn H200 Index be at least $6.00 on July 31, 2026?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
