@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "07 de julio de 2026 — 02:30 UTC",
+  "lastUpdated": "07 de julio de 2026 — 06:39 UTC",
   "ticker": [
-    "Venezuela earthquakes death toll jumps to more than 3,500",
-    "‘MAGA agenda on display’: FIFA, Trump slammed amid Balogun red card row",
-    "Mbappe calls Paraguayan lawmaker ‘despicable’ over racist attack",
-    "Why el-Obeid matters as Sudan’s war enters a new phase",
-    "Gambian mothers fear for their daughters as court weighs FGM ban",
-    "Trevor Noah mocks Trump-FIFA World Cup red card controversy",
-    "Iran war live: Khamenei’s body arrives in Qom; Hamas cedes Gaza governance",
-    "Ronaldo says his last World Cup is over but Portugal decision can wait",
-    "Over 5,500 children displaced by fighting in Sudan’s el-Obeid, charity says",
-    "Leading US Democrats withdraw support for Platner after assault allegations",
-    "All to know about Ronaldo’s World Cup career as it ends in Spain loss",
-    "Late Spain goal eliminates Portugal, ends Ronaldo’s international career?",
-    "Canada picks Germany’s TKMS for new submarines",
-    "‘If you win, it’s a stain’: Americans react to FIFA-Balogun controversy",
-    "One Phone Call, One Vanishing Red Card — The Balogun Scandal"
+    "France’s Court of Appeal to rule on Le Pen conviction – what it’s all about",
+    "NATO summit begins: Who is attending and what is at stake?",
+    "China sentences former local official to death in $324m corruption case",
+    "Palestine weekly: One thousand days of genocide in Gaza",
+    "Sorry USA riled for World Cup thrashing by Belgium despite Balogun reprieve",
+    "‘Limited damage’: Upcoming Bollywood film angers Kashmir pellet gun victims",
+    "Egyptians dream of toppling Argentina in historic World Cup match",
+    "Khamenei’s coffin arrives in holy city of Qom",
+    "Cuba loses power across nation for third time this year",
+    "US budget slashing risks losing global scientific edge to China",
+    "Cristiano Ronaldo’s World Cup career ends as Spain defeat Portugal",
+    "At least 16 people buried following landslide in China",
+    "Tanker on fire in Strait of Hormuz after being hit by projectile off Oman",
+    "Hamas dissolves civilian governing body in Gaza after 20 years",
+    "Anyone who doesn’t feel for Palestinians is not human: Egypt coach Hassan"
   ],
   "sections": [
     {
@@ -31,12 +31,24 @@
       ]
     },
     {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Trieste: Federico Bondioli vs Joel Schwaerzler",
+          "odds": "+143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Mallory McMorrow endorse Abdul El-Sayed in the Michigan Senate Democratic primary?",
-          "odds": "+1011",
+          "event": "Will Texas have the closest Senate race in 2026?",
+          "odds": "+112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -59,14 +71,20 @@
           "moved": "none"
         },
         {
+          "event": "Will Tadej Pogačar win the 2026 Tour De France?",
+          "odds": "-614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will a new Gemini flagship be released by July 31, 2026?",
           "odds": "+104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Ankara be 28°C on July 8?",
-          "odds": "+525",
+          "event": "Will the highest temperature in London be 30°C on July 7?",
+          "odds": "+203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -77,20 +95,14 @@
           "moved": "none"
         },
         {
+          "event": "Will the Democratic Party win the WA-10 House seat?",
+          "odds": "-1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Leavitt say \"Pool\" during the next White House Press Briefing?",
           "odds": "-104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Ornn H200 Index be at least $6.00 on July 31, 2026?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Tadej Pogačar win the 2026 Tour De France?",
-          "odds": "-566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
