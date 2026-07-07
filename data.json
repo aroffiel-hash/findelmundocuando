@@ -1,8 +1,10 @@
 {
-  "lastUpdated": "07 de julio de 2026 — 13:13 UTC",
+  "lastUpdated": "07 de julio de 2026 — 14:13 UTC",
   "ticker": [
+    "The World Cup is exposing the contradictions of national identity",
+    "Mbappe slams racism by Paraguay’s Amarilla at World Cup: What we know",
+    "At least nine police officers killed in southwestern Pakistan attack",
     "Displaced Gaza farmers turn to dirt near tents to grow crops",
-    "Argentina vs Egypt LIVE: FIFA World Cup 2026",
     "France appeals court opens door for Le Pen presidential run, with ankle tag",
     "Ships attacked in the Strait of Hormuz: What that means for ongoing talks",
     "Watch World Cup Day 26: Co-hosts USA and Ronaldo’s Portugal eliminated",
@@ -10,112 +12,29 @@
     "Egypt coach makes impassioned plea for Palestine in pre-match conference",
     "The Responsibility to Protect doctrine can be resurrected",
     "Bangladesh landslides kill nine, including eight Rohingya in refugee camp",
-    "Ukrainian drones hit Russian fuel tankers",
-    "What is the new Gaza administration as Hamas dissolves government?",
-    "UK High Court to rule in Prince Harry’s Daily Mail privacy case",
-    "Explosions in Damascus during Macron visit to Syria: What we know",
-    "Syria’s capital rocked by blasts during Macron visit",
-    "USA crashes out after 4–1 defeat to Belgium"
+    "Ukrainian drones hit Russian fuel tankers"
   ],
   "sections": [
     {
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
+      "rows": [
+        {
+          "event": "Will Zelenskyy post 80-99 posts from July 7 to July 14, 2026?",
+          "odds": "+163",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con liderazgo ucraniano.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
       "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
-      "rows": [
-        {
-          "event": "Will Steven Kwan win the 2026 AL Platinum Glove award?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
-      "rows": [
-        {
-          "event": "Trieste: Federico Bondioli vs Joel Schwaerzler",
-          "odds": "+143",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
         {
           "event": "Will Texas have the closest Senate race in 2026?",
           "odds": "+112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Troy Jackson be the Maine Senate Democratic nominee on July 27?",
-          "odds": "-354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Latvija Pirmajā Vietā (LPV) win the most seats in the 2026 Latvian parliamentary election?",
-          "odds": "+316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "McDonald’s in Cuba announced in 2026?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "FC Petrocub Hînceşti leading at halftime?",
-          "odds": "+194",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the PA-09 House seat?",
-          "odds": "-1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will STRC hit $100 by September 30?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Istanbul be 29°C on July 8?",
-          "odds": "+108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Khamenei post 15-19 posts from July 3 to July 10, 2026?",
-          "odds": "+861",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will a new Gemini flagship be released by July 31, 2026?",
-          "odds": "+104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will FaZe Clan Win the XSE Pro League",
-          "odds": "+471",
-          "params": "Fuente: Polymarket",
+          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
