@@ -1,7 +1,6 @@
 {
-  "lastUpdated": "07 de julio de 2026 — 02:26 UTC",
+  "lastUpdated": "07 de julio de 2026 — 02:30 UTC",
   "ticker": [
-    "Balogun reprieve in vain as Belgium beat USA to set up Spain quarterfinal",
     "Venezuela earthquakes death toll jumps to more than 3,500",
     "‘MAGA agenda on display’: FIFA, Trump slammed amid Balogun red card row",
     "Mbappe calls Paraguayan lawmaker ‘despicable’ over racist attack",
@@ -12,17 +11,87 @@
     "Ronaldo says his last World Cup is over but Portugal decision can wait",
     "Over 5,500 children displaced by fighting in Sudan’s el-Obeid, charity says",
     "Leading US Democrats withdraw support for Platner after assault allegations",
-    "All to know about Ronaldo’s World Cup career as it ends in Spain loss"
+    "All to know about Ronaldo’s World Cup career as it ends in Spain loss",
+    "Late Spain goal eliminates Portugal, ends Ronaldo’s international career?",
+    "Canada picks Germany’s TKMS for new submarines",
+    "‘If you win, it’s a stain’: Americans react to FIFA-Balogun controversy",
+    "One Phone Call, One Vanishing Red Card — The Balogun Scandal"
   ],
   "sections": [
     {
       "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "rows": [
+        {
+          "event": "Will Steven Kwan win the 2026 AL Platinum Glove award?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
           "event": "Will Mallory McMorrow endorse Abdul El-Sayed in the Michigan Senate Democratic primary?",
           "odds": "+1011",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "McDonald’s in Cuba announced in 2026?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the PA-09 House seat?",
+          "odds": "-1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will a new Gemini flagship be released by July 31, 2026?",
+          "odds": "+104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Ankara be 28°C on July 8?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Anthropic's market cap be $3.0T or greater at market close on IPO day?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Leavitt say \"Pool\" during the next White House Press Briefing?",
+          "odds": "-104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Ornn H200 Index be at least $6.00 on July 31, 2026?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Tadej Pogačar win the 2026 Tour De France?",
+          "odds": "-566",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
