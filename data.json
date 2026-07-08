@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "08 de julio de 2026 — 20:59 UTC",
+  "lastUpdated": "08 de julio de 2026 — 22:12 UTC",
   "ticker": [
+    "Family demands investigation after US man killed by ICE agent in Texas",
+    "US moves to delist Syria as a ‘state sponsor of terrorism’",
+    "Former Wisconsin judge avoids prison in ICE obstruction case",
+    "France lose appeal against Olise’s yellow card in Paraguay World Cup clash",
+    "Deadly strikes in Gaza leave 5 dead, children wounded",
     "Former rebel turned government ally proposes a path to peace for Sudan",
     "Trump departs NATO summit on older Air Force One",
     "Democrat Rahm Emanuel tells Israel to no longer expect unconditional US aid",
@@ -10,21 +15,28 @@
     "Marine Le Pen cleared to run in France’s 2027 Presidential election",
     "Trump ordered to pay E Jean Carroll $5.8m after failed appeal",
     "Search under way for crew of Pakistani cargo plane that crashed into sea",
-    "Five key takeaways from the NATO summit in Ankara",
-    "Argentina fans accused of violence, racism by Egypt, Cape Verde supporters",
-    "Mass cleanup underway after severe flooding in China",
-    "Trump says US ‘may take over Kharg Island’: Here’s what you need to know",
-    "War on Gaza draws large crowds to Khamenei’s funeral in Iraq",
-    "Israeli air strikes in Gaza kill eight, including two children"
+    "Five key takeaways from the NATO summit in Ankara"
   ],
   "sections": [
+    {
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "rows": [
+        {
+          "event": "Iran leadership change by July 31?",
+          "odds": "+2531",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
     {
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
           "event": "Trieste: Federico Agustin Gomez vs Henry Bernet",
-          "odds": "-108",
+          "odds": "-112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -65,32 +77,8 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "LoL: Kaufland Hangry Knights vs Unicorns Of Love Sexy Edition (BO1) - Prime League 1st Division Regular Season",
-          "odds": "-108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "McDonald’s in Cuba announced in 2026?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Mexico City be 26°C on July 8?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Qingdao Xihaian FC win on 2026-07-11?",
           "odds": "+203",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Paris be 33°C on July 9?",
-          "odds": "+138",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -109,6 +97,30 @@
         {
           "event": "Will Brian Harman finish in the Top 10 at the 2026 Genesis Scottish Open?",
           "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Helsinki be 21°C on July 10?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will FK Velež Mostar win on 2026-07-09?",
+          "odds": "-112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will there be a run scored in the first inning?: San Francisco Giants vs. Atlanta Braves",
+          "odds": "+300",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Jay Clayton confirmed as Director of National Intelligence by October 31?",
+          "odds": "-1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
