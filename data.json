@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "08 de julio de 2026 — 13:47 UTC",
+  "lastUpdated": "08 de julio de 2026 — 15:13 UTC",
   "ticker": [
+    "Trump on Iran: ‘We’ll probably hit them hard again tonight’",
+    "‘Down with the USA’: US influencer Jackson Hinkle attends Khamenei’s funera",
+    "Why has UK Reform’s Nigel Farage resigned as MP? What happens next?",
     "Timeline: 20 years of Hamas rule in Gaza, from election to political exit",
     "Why can’t we count our dead?",
     "UN inquiry urges release of Palestinian doctor jailed by Israel",
@@ -16,31 +19,109 @@
   ],
   "sections": [
     {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Ukraine re-enter Hryshyne by September 30?",
-          "odds": "+566",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
+          "event": "US-Iran Final Nuclear Deal by August 18, 2026?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will Natural Gas (NG) hit (LOW) $3.00 in July?",
+          "odds": "+212",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
           "event": "Will Janet Mills be the Maine Senate Democratic nominee on July 27?",
           "odds": "+3233",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Texas have the closest Senate race in 2026?",
           "odds": "+112",
-          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Tayte Willows win the 2026 Cornwall-Meadowbank PEI Legislative Assembly by-election?",
+          "odds": "+104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Greek snap election scheduled in 2026?",
+          "odds": "-108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "McDonald’s in Cuba announced in 2026?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Valorant: Contra vs LYON - Map 3 Winner",
+          "odds": "+244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: Spain 0 - 0 Belgium?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Amsterdam be 22°C on July 8?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Moscow be 29°C on July 10?",
+          "odds": "+2073",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Elon Musk post 600-639 tweets in July 2026?",
+          "odds": "+1062",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Phoenix Mercury vs. Minnesota Lynx",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Lucknow be 31°C on July 10?",
+          "odds": "+354",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
