@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "08 de julio de 2026 — 15:13 UTC",
+  "lastUpdated": "08 de julio de 2026 — 17:22 UTC",
   "ticker": [
+    "The Strait of Hormuz is now at the centre of Iranian and US calculus",
+    "US charges Indian crime leader in Sikh activist’s assassination",
+    "Egypt criticises ‘influential refereeing’ in Argentina World Cup match",
+    "Far-right leader Le Pen starts campaign, faces mixed reactions in France",
+    "Pakistan military says 42 killed in fighter attacks in Balochistan",
+    "Oil for unity: What is the US mediation plan in Libya?",
+    "Germany urges US-Iran negotiations, offers to minesweep Hormuz",
+    "Trump’s Iran strike comments shake markets, Brent crude hits two-week high",
+    "Man sets wheelchair user in flames with Molotov cocktail",
+    "FIFA World Cup: Quarterfinal brackets, match schedule and game previews",
+    "Zelenskyy seeks NATO support as Russia continues attacks",
+    "Why have 100,000 people been signed off work with ADHD in the UK?",
     "Trump on Iran: ‘We’ll probably hit them hard again tonight’",
     "‘Down with the USA’: US influencer Jackson Hinkle attends Khamenei’s funera",
-    "Why has UK Reform’s Nigel Farage resigned as MP? What happens next?",
-    "Timeline: 20 years of Hamas rule in Gaza, from election to political exit",
-    "Why can’t we count our dead?",
-    "UN inquiry urges release of Palestinian doctor jailed by Israel",
-    "Iran’s supreme leader’s coffin arrives in Najaf",
-    "Syria in tough balancing act as it tightens security after Damascus blasts",
-    "Iran signals defiance as Trump fumes over Strait of Hormuz strikes",
-    "Trump threatens Spain trade, demands US take over Greenland at NATO summit",
-    "FIFA World Cup 2026: Biggest takeaways from the round of 16",
-    "Trump says MoU ‘over’ after latest US and Iranian attacks",
-    "Gaza aid worker killed minutes before World Cup screening he organised",
-    "‘There are risks’: Ex-India judge behind damning UN report on Gaza children",
-    "Syria says one killed, 36 wounded after Damascus blasts during Macron visit"
+    "Why has UK Reform’s Nigel Farage resigned as MP? What happens next?"
   ],
   "sections": [
     {
@@ -27,6 +27,24 @@
           "odds": "+809",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Israel closes its airspace by July 15?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Israel closes its airspace by July 31?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will New People (NL) win the second-most seats in the next Russian parliamentary election?",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -35,8 +53,8 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will Natural Gas (NG) hit (LOW) $3.00 in July?",
-          "odds": "+212",
+          "event": "Will the Fed’s lower bound reach 1.75% or lower before 2027?",
+          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -46,12 +64,6 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
-        {
-          "event": "Will Janet Mills be the Maine Senate Democratic nominee on July 27?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Texas have the closest Senate race in 2026?",
           "odds": "+112",
@@ -89,26 +101,8 @@
           "moved": "none"
         },
         {
-          "event": "Exact Score: Spain 0 - 0 Belgium?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Amsterdam be 22°C on July 8?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Moscow be 29°C on July 10?",
-          "odds": "+2073",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Elon Musk post 600-639 tweets in July 2026?",
-          "odds": "+1062",
+          "event": "Will NextEra Energy (NEE) Q2 operating revenue be above $7.5B?",
+          "odds": "+127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -119,8 +113,26 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Lucknow be 31°C on July 10?",
-          "odds": "+354",
+          "event": "Will the highest temperature in Moscow be 21°C on July 9?",
+          "odds": "+284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Newport: Arthur Gea vs Tyler Zink",
+          "odds": "-352",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will there be a run scored in the first inning?: San Francisco Giants vs. Atlanta Braves",
+          "odds": "+300",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Jay Clayton confirmed as Director of National Intelligence by October 31?",
+          "odds": "-1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
