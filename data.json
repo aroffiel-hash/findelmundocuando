@@ -1,121 +1,46 @@
 {
-  "lastUpdated": "08 de julio de 2026 — 12:21 UTC",
+  "lastUpdated": "08 de julio de 2026 — 13:47 UTC",
   "ticker": [
-    "Syria says one killed, 36 wounded after Damascus blasts during Macron visit",
-    "World Cup Golden Boot: Messi leads Mbappe, Haaland before quarterfinals",
-    "Switzerland fans’ joy as team reaches World Cup quarter-final",
-    "Trump says ceasefire ‘over’ after US, Iran trade attacks",
-    "Nigeria’s counterterrorism gains carry a warning",
-    "Why have US-Iran strikes resumed and what does it mean for peace?",
-    "Pakistan searches for Boeing cargo plane missing over Arabian Sea",
-    "European MPs call for probe of FIFA boss Infantino over red card suspension",
-    "Trump says MoU with ‘vicious, violent’ Iran is over",
-    "Watch World Cup Day 27: Egypt exits after controversial loss to Argentina",
-    "The Iranian Striker: The journey of Mehdi Taremi | Al Jazeera Originals",
-    "World Cup: Which teams made the quarterfinals, and what’s the schedule?",
-    "Why have half a million Russians gone bankrupt amid Ukraine war?",
-    "World Cup 2026 quarterfinals: Full schedule and Egypt FIFA dispute",
-    "Funeral events for Iran’s slain Supreme Leader Khamenei under way in Iraq"
+    "Timeline: 20 years of Hamas rule in Gaza, from election to political exit",
+    "Why can’t we count our dead?",
+    "UN inquiry urges release of Palestinian doctor jailed by Israel",
+    "Iran’s supreme leader’s coffin arrives in Najaf",
+    "Syria in tough balancing act as it tightens security after Damascus blasts",
+    "Iran signals defiance as Trump fumes over Strait of Hormuz strikes",
+    "Trump threatens Spain trade, demands US take over Greenland at NATO summit",
+    "FIFA World Cup 2026: Biggest takeaways from the round of 16",
+    "Trump says MoU ‘over’ after latest US and Iranian attacks",
+    "Gaza aid worker killed minutes before World Cup screening he organised",
+    "‘There are risks’: Ex-India judge behind damning UN report on Gaza children",
+    "Syria says one killed, 36 wounded after Damascus blasts during Macron visit"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
       "rows": [
         {
           "event": "Will Ukraine re-enter Hryshyne by September 30?",
           "odds": "+566",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
-      "rows": [
-        {
-          "event": "Will the Fed’s lower bound reach 1.75% or lower before 2027?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
         {
           "event": "Will Janet Mills be the Maine Senate Democratic nominee on July 27?",
           "odds": "+3233",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
           "event": "Will Texas have the closest Senate race in 2026?",
           "odds": "+112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Greek snap election scheduled in 2026?",
-          "odds": "-108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "McDonald’s in Cuba announced in 2026?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Marine Le Pen win her appeal to lift ineligibility ban in 2026?",
-          "odds": "-3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will AC Virtus win on 2026-07-09?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Valorant: Contra vs LYON - Map 3 Winner",
-          "odds": "+244",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Domino's Pizza (DPZ) beat quarterly earnings?",
-          "odds": "+122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Core CPI YoY be 2.9% in June?",
-          "odds": "+257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Bogota: Matheus Pucinelli de Almeida vs Eduardo Ribeiro",
-          "odds": "-163",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in London be 32°C on July 10?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
+          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
