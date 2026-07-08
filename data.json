@@ -1,64 +1,127 @@
 {
-  "lastUpdated": "08 de julio de 2026 — 02:00 UTC",
+  "lastUpdated": "08 de julio de 2026 — 02:04 UTC",
   "ticker": [
     "US immigration officer shoots and kills man in Texas",
     "Argentina fans hurl beer at Egypt supporters after final whistle",
     "US strikes Iran despite promised pause for Khamenei funeral",
     "Unstable Manhattan skyscraper triggers collapse fears",
+    "How the US-Iran conflict is reshaping Africa’s geopolitical opportunities",
     "Marine Le Pen to run for French Presidency despite criminal conviction",
     "Djokovic wins five-hour epic to earn Sinner showdown at Wimbledon",
     "Iran war live: US bombs Sirik, Qeshm, Bandar Abbas over Hormuz attacks",
     "Switzerland face Argentina in World Cup quarterfinal after beating Colombia",
     "Russian missiles strike Ukraine’s capital, Kyiv, for third time in a week",
     "Egypt buoyed by praise for World Cup heroics despite controversial exit",
+    "Egypt were ‘cheated’ in World Cup loss to Argentina, coach Hassan says",
     "US says strikes launched as explosions heard in southern Iran",
+    "Nasdaq vs Dow: How are the key indices different as SpaceX joins one?",
     "Venezuela buries earthquake victims as death toll reaches 3,535"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Will Steven Kwan win the 2026 AL Platinum Glove award?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Iran successfully targets shipping on July 14?",
           "odds": "+566",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
-      "rows": [
+        },
         {
           "event": "Will Ukraine re-enter Hryshyne by September 30?",
           "odds": "+566",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Trump suspends U.S. entry for more countries by by June 30?",
-          "odds": "+194",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Will the Fed’s lower bound reach 1.75% or lower before 2027?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
           "event": "Will Texas have the closest Senate race in 2026?",
           "odds": "+112",
-          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Greek snap election scheduled in 2026?",
+          "odds": "-108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "McDonald’s in Cuba announced in 2026?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "FC Petrocub Hînceşti leading at halftime?",
+          "odds": "+194",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Anthropic's market cap be $3.0T or greater at market close on IPO day?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Ornn H200 Index be at least $6.00 on July 31, 2026?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Reserve Bank of India make no change to the policy repo rate after the August Meeting?",
+          "odds": "-233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will White House post 180-199 posts from July 7 to July 14, 2026?",
+          "odds": "+284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will KC Chandler win Love Island USA Season 8?",
+          "odds": "+624",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party win the GA-07 House seat?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
