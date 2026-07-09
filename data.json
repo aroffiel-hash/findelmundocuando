@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "09 de julio de 2026 — 17:15 UTC",
+  "lastUpdated": "09 de julio de 2026 — 19:28 UTC",
   "ticker": [
+    "How Lyhanna’s rape and murder put France’s justice system under scrutiny",
+    "Is Syria stable enough to engage with the world?",
+    "Deadly fire breaks out at shoe factory in China",
+    "US expands Iran strikes Iran hitting  fishing piers near nuclear plant",
+    "England’s Quansah banned for two matches after World Cup last-16 red card",
+    "Israeli attacks on Gaza kill 10 people in 24 hours despite ‘ceasefire’",
+    "Mexico to seek US criminal complaints over ICE-related deaths of citizens",
+    "Gaza artists honour Egypt coach Hossam Hassan with sand portrait",
+    "Palestinian legislative elections set for November 28",
     "Is this France’s far-right National Rally’s best chance to take power?",
     "Will NATO get involved in securing Strait of Hormuz?",
-    "LIVE: France vs Morocco – FIFA World Cup 2026 quarterfinal",
+    "France vs Morocco LIVE: FIFA World Cup 2026 quarterfinal",
     "Former US Olympian pleads not guilty in DC reflecting pool vandalism case",
     "A quest for closure: In search of the missing after Venezuela’s earthquakes",
-    "Chemical weapons watchdog restores Syria’s voting rights, citing progress",
-    "Lebanon Latest: concerns about latest escalation in regional fighting",
-    "Strait of Hormuz: What has happened since the US-Iran MoU on June 17?",
-    "Erdogan gifts NATO leaders engraved revolvers with live ammunition",
-    "At least 28 people killed as fire engulfs shoe factory in China",
-    "‘Not Nigel Farage’: Who is Count Binface, contesting as MP for Clacton, UK?",
-    "‘She doesn’t give up that easily’: France’s Le Pen eyes the Elysee",
-    "Photos: Iran to bury slain supreme leader in culmination of mass funeral",
-    "FIFA World Cup: Which quarterfinal team has best chance to win the trophy?",
-    "Graham Platner drops Maine Senate bid: What that means for Democrats"
+    "Chemical weapons watchdog restores Syria’s voting rights, citing progress"
   ],
   "sections": [
     {
@@ -33,6 +33,12 @@
           "odds": "+769",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Warsaw be 17°C on July 10?",
+          "odds": "+657",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -41,20 +47,20 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
+          "event": "Will Natural Gas (NG) hit (LOW) $2.60 in July?",
+          "odds": "+1104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will two people dissent the July Fed decision?",
           "odds": "+2225",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Glentoran FC vs. FK Rīgas Futbola Skola: Both Teams to Score",
-          "odds": "-132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Natural Gas (NG) hit (LOW) $2.60 in July?",
-          "odds": "+1308",
+          "event": "Will S&P 500 (SPY) hit (LOW) $710 in July?",
+          "odds": "+525",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -64,12 +70,6 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
-        {
-          "event": "Greek snap election scheduled in 2026?",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Texas have the closest Senate race in 2026?",
           "odds": "+112",
@@ -89,14 +89,20 @@
           "moved": "none"
         },
         {
-          "event": "Will G2 Esports win MSI 2026?",
-          "odds": "+1308",
+          "event": "Adrien Rabiot: 1+ goals",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Trieste: Raul Brancaccio vs Matej Dodig",
-          "odds": "+132",
+          "event": "Will Elon Musk post 720-759 tweets in July 2026?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will M80 Win North America ACE Stage 3",
+          "odds": "-112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -113,20 +119,14 @@
           "moved": "none"
         },
         {
-          "event": "Exact Score: Nõmme Kalju FC 2 - 2 Linfield FC?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Chengdu be 35°C on July 10?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Shanghai Shenhua FC win on 2026-07-11?",
           "odds": "+149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: Argentina 0 - 0 Switzerland?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
