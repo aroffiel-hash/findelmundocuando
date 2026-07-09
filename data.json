@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "09 de julio de 2026 — 08:21 UTC",
+  "lastUpdated": "09 de julio de 2026 — 11:50 UTC",
   "ticker": [
-    "Mass shootings are becoming normal in US",
-    "Flooding from Tropical Storm Maysak kills 39 in southern China",
-    "Photos: Israeli attacks kill nine people, including two children, in Gaza",
-    "Lord’s Cricket Ground set for first-ever women’s Test as England host India",
-    "France vs Morocco: World Cup quarterfinal – prediction, start time, lineups",
-    "Son of Mexican national who was fatally shot by ICE speaks out",
-    "UK police arrest activists at Israeli-owned drone engine plant",
-    "‘Double cross, first class’: Why India’s Modi wins so many foreign awards",
-    "Trump says he will remove Syria from the state sponsor of terrorism list",
-    "US court rules that Trump’s name must stay off Kennedy Center during appeal",
-    "Do fans still trust referees and VAR at the World Cup?",
-    "What’s with Trump’s sudden fixation on communism?",
-    "IMF cuts 2026 world growth forecast, citing Iran war fallout",
-    "Would the US protect NATO allies if they were attacked?",
-    "US Senate nominee Platner halts campaign after assault allegations"
+    "India floods sweep away thousands of gas cylinders",
+    "Deadly US strikes trigger Iranian attacks on Gulf states",
+    "Iran prepares to bury slain leader Khamenei after mass funeral processions",
+    "US strikes Iran for second night – is the peace process all over now?",
+    "UN probe finds mass killings, gang rapes by Sudan’s RSF amount to genocide",
+    "Australia to begin selling uranium to India for peaceful purposes",
+    "Air raid sirens in Bahrain after uneasy night of US-Iran strikes",
+    "Who is Zeynep Sonmez, the Wimbledon with the ‘Palestine’ watermelon racket?",
+    "World Cup: France vs Morocco prediction, schedule, Hakimi vs Mbappe rivalry",
+    "Australia, India strike deal on uranium exports during PM Modi’s visit",
+    "US, Iran launch more attacks as mediators urge both sides to uphold MoU",
+    "Hottest June on record in Western Europe as heatwaves hit continent",
+    "Inside King’s College London’s crackdown on pro-Palestine students",
+    "‘Shoot me, Just let my son pass’: Final moments of Palestinian Ahmad Zaid",
+    "Why are politicians and sanctioned states embracing crypto?"
   ],
   "sections": [
     {
@@ -23,14 +23,14 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will New People (NL) win the second-most seats in the next Russian parliamentary election?",
-          "odds": "+316",
+          "event": "Edward Jones Mid-Season Tournament: Texas Ranchers vs SoCal Hard Eights",
+          "odds": "-334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Russia enter Oleksiievo-Druzhkivka by December 31?",
-          "odds": "-177",
+          "event": "Will International Business Machines (IBM) Q2 Software revenue be above $8.2B?",
+          "odds": "+108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -41,14 +41,20 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
+          "event": "Will the Fed decide differently in the next three decisions (Jul–Sep–Oct)?",
+          "odds": "+108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will two people dissent the July Fed decision?",
           "odds": "+2225",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the Fed’s lower bound reach 1.75% or lower before 2027?",
-          "odds": "+1899",
+          "event": "Glentoran FC vs. FK Rīgas Futbola Skola: Both Teams to Score",
+          "odds": "-132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -77,32 +83,26 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "XRP Up or Down on July 9?",
+          "odds": "-1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will ChatGPT be #2 Free App in the US Apple App Store on July 10?",
           "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Counter-Strike: LPH Gaming vs EAC Rising (BO3) - United21 Group D",
-          "odds": "-185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Conor McGregor win by KO or TKO?",
-          "odds": "+244",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Zeka Win MSI Finals MVP",
-          "odds": "+426",
+          "event": "Will the highest temperature in Seoul be 27°C on July 10?",
+          "odds": "+334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Hong Wang win the 2026 Fields Medal?",
-          "odds": "-524",
+          "odds": "-809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -121,6 +121,12 @@
         {
           "event": "Phoenix Mercury vs. Minnesota Lynx",
           "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will 175-199 ships transit the Strait of Hormuz between July 6-July 12?",
+          "odds": "+426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
