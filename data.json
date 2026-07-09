@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "09 de julio de 2026 — 14:39 UTC",
+  "lastUpdated": "09 de julio de 2026 — 14:42 UTC",
   "ticker": [
     "‘Not Nigel Farage’: Who is Count Binface, contesting as MP for Clacton, UK?",
     "‘She doesn’t give up that easily’: France’s Le Pen eyes the Elysee",
@@ -7,22 +7,139 @@
     "FIFA World Cup: Which quarterfinal team has best chance to win the trophy?",
     "Graham Platner drops Maine Senate bid: What that means for Democrats",
     "EU lawmakers call for probe into FIFA’s Infantino",
+    "Indonesian farmer goes viral using a drone as transportation",
     "Trump targets Spain, NATO backs Ukraine: Is the alliance still united?",
     "Mosque model placed on top of Northern Ireland bonfire",
     "Ukraine targets Russian oil depots and tankers in drone attacks",
     "Videos show interception of Iranian missiles in skies over Jordan",
     "FIFA World Cup 2026: What happened to the beautiful game?",
-    "UK Labour leadership nominations begin: Who’s running and how it works"
+    "Mediator Pakistan says renewed US-Iran conflict is ‘in no one’s interest’",
+    "UK Labour leadership nominations begin: Who’s running and how it works",
+    "India floods sweep away thousands of gas cylinders"
   ],
   "sections": [
     {
       "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Edward Jones Mid-Season Tournament: Texas Ranchers vs SoCal Hard Eights",
+          "odds": "-334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will International Business Machines (IBM) Q2 Software revenue be above $8.2B?",
+          "odds": "+108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will the Fed decide differently in the next three decisions (Jul–Sep–Oct)?",
+          "odds": "+108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will two people dissent the July Fed decision?",
+          "odds": "+2225",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Glentoran FC vs. FK Rīgas Futbola Skola: Both Teams to Score",
+          "odds": "-132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Dow Jones (DJIA) Up or Down on July 9?",
+          "odds": "-138",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Trieste: Federico Agustin Gomez vs Henry Bernet",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Greek snap election scheduled in 2026?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Texas have the closest Senate race in 2026?",
           "odds": "+112",
-          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will ChatGPT be #2 Free App in the US Apple App Store on July 10?",
+          "odds": "+300",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Trieste: Raul Brancaccio vs Matej Dodig",
+          "odds": "+132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Soufiane Rahimi: 1+ goals",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: Sandefjord Fotball 1 - 1 Hamarkameratene?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Phoenix Mercury vs. Minnesota Lynx",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Qingdao be 28°C on July 10?",
+          "odds": "+2531",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Hong Kong be 34°C on July 11?",
+          "odds": "+203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will there be a run scored in the first inning?: San Francisco Giants vs. Atlanta Braves",
+          "odds": "+300",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
