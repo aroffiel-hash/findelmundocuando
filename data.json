@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "09 de julio de 2026 — 02:13 UTC",
+  "lastUpdated": "09 de julio de 2026 — 04:44 UTC",
   "ticker": [
+    "US court rules that Trump’s name must stay off Kennedy Center during appeal",
+    "Do fans still trust referees and VAR at the World Cup?",
+    "What’s with Trump’s sudden fixation on communism?",
+    "IMF cuts 2026 world growth forecast, citing Iran war fallout",
+    "Would the US protect NATO allies if they were attacked?",
+    "US Senate nominee Platner halts campaign after assault allegations",
+    "Confirmed Ebola deaths in DR Congo hit 600",
     "Trump to ask US Supreme Court for new hearing on birthright citizenship",
     "Rights group plans complaint to IOC against Infantino over Trump support",
     "Morocco dealt huge blow as injured Saibari out of World Cup quarterfinal",
@@ -8,45 +15,113 @@
     "South Sudan, 15 years on: Still fighting for peace",
     "Tehran releases footage showing ruins of late Iranian leader’s compound",
     "Khamenei’s coffin in Karbala on last stop before burial in Mashhad",
-    "Iran war live: Sirens in Bahrain, Kuwait after deadly US attacks on Iran",
-    "Indonesia’s free meals programme plagued by alleged corruption and waste",
-    "Wildcard Fery faces Zverev in Wimbledon semis, as Kostyuk meets Noskova",
-    "US expands military strikes on Iran after Trump says he’ll ‘hit them hard’",
-    "Justin Bieber joins Madonna, Shakira, BTS in World Cup final halftime show"
+    "Iran war live: Tehran attacks Bahrain, Kuwait after deadly US raids"
   ],
   "sections": [
     {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Will New People (NL) win the second-most seats in the next Russian parliamentary election?",
           "odds": "+316",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Russia enter Oleksiievo-Druzhkivka by December 31?",
+          "odds": "-177",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will Donald Trump publicly insult someone on July 7, 2026?",
-          "odds": "+809",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Will two people dissent the July Fed decision?",
+          "odds": "+2225",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Fed’s lower bound reach 1.75% or lower before 2027?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
           "event": "Will Texas have the closest Senate race in 2026?",
           "odds": "+112",
-          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Greek snap election scheduled in 2026?",
+          "odds": "-108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Nikkei 225 (NIK) Up or Down on July 9?",
+          "odds": "-1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: Spain 1 - 0 Belgium?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Probable FDV above $500M one day after launch?",
+          "odds": "+998",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: Sandefjord Fotball 1 - 1 Hamarkameratene?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Phoenix Mercury vs. Minnesota Lynx",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Ħamrun Spartans FC win on 2026-07-09?",
+          "odds": "+212",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will there be a run scored in the first inning?: San Francisco Giants vs. Atlanta Braves",
+          "odds": "+300",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Major League Cricket: Mi New York vs Seattle Orcas",
+          "odds": "-117",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
