@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "10 de julio de 2026 — 06:37 UTC",
+  "lastUpdated": "10 de julio de 2026 — 10:17 UTC",
   "ticker": [
+    "EU states do not need ‘consensus’ to hold Israel accountable",
+    "Trump grants Kyiv Patriots licences: What’s next in the Russia-Ukraine war?",
+    "Bomb attacks rattle Damascus but for most Syrians, life goes on",
+    "Watch World Cup: France ends Morocco’s run, cruises into semifinals",
+    "Degree but no job: The battle against unemployment in Gaza",
+    "Bodies found in cars as deadly Spain wildfire kills at least 12",
+    "Administration without sovereignty will not free Palestine",
+    "Bayeux Tapestry smuggled into Britain for first visit in 1,000 years",
+    "England vs Norway: All to know ahead of FIFA World Cup quarterfinal",
+    "Wildfires in southern Spain kill at least 12",
+    "The US is building a new pressure architecture against Iran",
+    "‘Unstoppable force’: Mbappe’s France crush Morocco’s World Cup dreams",
+    "South Korea’s SK Hynix raises $26.5bn in record-breaking US IPO",
     "Spain vs Belgium: World Cup quarterfinal – prediction, start time, lineups",
-    "Tense standoff at an anti-migrant protest in a South African town",
-    "Venezuela’s turn to Israel is about survival, not conviction",
-    "Norway change World Cup team hotel in Miami days before England showdown",
-    "Which records has France’s Kylian Mbappe broken at FIFA World Cup 2026?",
-    "Paris celebrates as France secures World Cup semi-final spot",
-    "Zelenskyy urges urgent efforts in Ukraine to start Patriot production",
-    "Iran says strikes hit southern areas, but US denies it carried attacks",
-    "Strait of Hormuz traffic plunges as US, Iran resume fighting",
-    "Muchova beats Gauff in tie-break thriller to reach first Wimbledon final",
-    "Gaza mourns aid worker killed by Israel who helped them see the World Cup",
-    "Can the US Supreme Court stay independent?",
-    "How World Bank and IMF loans are reshaping policymaking in Africa",
-    "Britain’s likely PM says will work to ‘stop the suffering’ in Gaza",
-    "China expands anti-sanctions toolkit, raising risks for foreign firms"
+    "Tense standoff at an anti-migrant protest in a South African town"
   ],
   "sections": [
     {
@@ -23,8 +23,8 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "IAEA visits Isfahan, Fordow, or Natanz nuclear site by December 31?",
-          "odds": "+138",
+          "event": "Will Russia enter Shevchenko by September 30?",
+          "odds": "-376",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -35,8 +35,26 @@
           "moved": "none"
         },
         {
-          "event": "Will Syria recognize Israel by December 31?",
-          "odds": "+900",
+          "event": "Will Russia invade a NATO country by December 31, 2026?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Iran announce withdrawal from MOU negotiations by July 17?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "S&P 500 (SPX) Up or Down on July 10?",
+          "odds": "+104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -59,26 +77,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Alphabet Inc. (GOOGL) hit (LOW) $350 Week of July 6 2026?",
-          "odds": "+316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Somaliland join the Abraham Accords before 2027?",
-          "odds": "+566",
+          "event": "Will \"Evil Dead Burn\" Opening Weekend Box Office be between 20m and 25m?",
+          "odds": "+1654",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Haley Stevens win the 2026 Michigan Democratic Primary?",
-          "odds": "+385",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Shanghai be 34°C on July 11?",
-          "odds": "+2400",
+          "odds": "+380",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -95,14 +101,26 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Shenzhen be 38°C on July 11?",
-          "odds": "+2531",
+          "event": "Phoenix Mercury vs. Minnesota Lynx",
+          "odds": "+100",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Phoenix Mercury vs. Minnesota Lynx",
-          "odds": "+100",
+          "event": "Will UAE leave the Gulf Cooperation Council  in 2026?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Airbnb, Inc. (ABNB) hit (HIGH) $168 in July?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Jeddah be 35°C on July 11?",
+          "odds": "+1438",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
