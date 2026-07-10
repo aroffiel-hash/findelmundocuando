@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "10 de julio de 2026 — 02:13 UTC",
+  "lastUpdated": "10 de julio de 2026 — 02:24 UTC",
   "ticker": [
     "Gaza mourns aid worker killed by Israel who helped them see the World Cup",
     "Can the US Supreme Court stay independent?",
@@ -12,29 +12,104 @@
     "Waiting for Moses: Africa’s sons in Russia’s war",
     "Mbappe and Dembele net as France beat Morocco to reach World Cup semifinal",
     "Syria says captured Damascus bombing suspects are affiliated with ISIL",
-    "How Strait of Hormuz dispute led to latest US-Iran cycle of fighting"
+    "How Strait of Hormuz dispute led to latest US-Iran cycle of fighting",
+    "Trump airport name change sparks backlash  in Florida",
+    "NYT-led group asks court to sanction OpenAI in US copyright dispute",
+    "US military denies involvement after explosions heard in Iran"
   ],
   "sections": [
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y ENERGÍA",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "WTI Crude Oil (WTI) closes above $69 on July 10?",
-          "odds": "-1940",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
+          "event": "Will Dplus Esports Win Challengers 2026: Korea WDG Split 2",
+          "odds": "+769",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "WTI Crude Oil (WTI) closes above $69 on July 10?",
+          "odds": "-1940",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Fed’s lower bound reach 1.75% or lower before 2027?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
           "event": "Will Texas have the closest Senate race in 2026?",
           "odds": "+112",
-          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will Haley Stevens win the 2026 Michigan Democratic Primary?",
+          "odds": "+385",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will T-Mobile (TMUS) Q2 total service revenues be above $19.3B?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: Sandefjord Fotball 1 - 1 Hamarkameratene?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Phoenix Mercury vs. Minnesota Lynx",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Samuel Alito announce his retirement by July 15, 2026?",
+          "odds": "+2531",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will UAE leave the Gulf Cooperation Council  in 2026?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Airbnb, Inc. (ABNB) hit (HIGH) $168 in July?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Chongqing be 35°C on July 11?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
