@@ -1,97 +1,40 @@
 {
-  "lastUpdated": "09 de julio de 2026 — 23:05 UTC",
+  "lastUpdated": "10 de julio de 2026 — 02:13 UTC",
   "ticker": [
-    "Syria says cell behind ‘terrorist bombings’ in Damascus arrested",
-    "How Strait of Hormuz dispute led to latest US-Iran cycle of fighting",
-    "Trump airport name change sparks backlash  in Florida",
-    "NYT-led group asks court to sanction OpenAI in US copyright dispute",
-    "US military denies involvement after explosions heard in Iran",
-    "Mexico seeks prosecutions over migrant deaths in the US",
-    "UK Labour’s Burnham apologises for response to Israel’s Gaza violence",
-    "Canadian PM visits Saudi Arabia to strengthen energy, mining partnerships",
-    "South African protesters intimidate migrants as aid group issues warning",
-    "Why the US Strategic Petroleum Reserve matters amid US-Iran tensions",
-    "Two more men plead guilty in US for deadly 2021 human-smuggling truck crash",
-    "What happened to the beautiful game?",
-    "How Lyhanna’s rape and murder put France’s justice system under scrutiny",
-    "Is Syria stable enough to engage with the world?",
-    "Deadly fire breaks out at shoe factory in China"
+    "Gaza mourns aid worker killed by Israel who helped them see the World Cup",
+    "Can the US Supreme Court stay independent?",
+    "How World Bank and IMF loans are reshaping policymaking in Africa",
+    "Britain’s likely PM says will work to ‘stop the suffering’ in Gaza",
+    "China expands anti-sanctions toolkit, raising risks for foreign firms",
+    "Iran war live: New attacks on Iran as US says talks still on",
+    "Venezuela earthquakes toll rises to 3,889 as risk of disease grows",
+    "New Mexico accuses US Justice Department of impeding Epstein investigation",
+    "Waiting for Moses: Africa’s sons in Russia’s war",
+    "Mbappe and Dembele net as France beat Morocco to reach World Cup semifinal",
+    "Syria says captured Damascus bombing suspects are affiliated with ISIL",
+    "How Strait of Hormuz dispute led to latest US-Iran cycle of fighting"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "💰",
+      "label": "ECONOMÍA Y ENERGÍA",
       "rows": [
         {
-          "event": "Will Dplus Esports Win Challengers 2026: Korea WDG Split 2",
-          "odds": "+769",
-          "params": "Fuente: Polymarket",
+          "event": "WTI Crude Oil (WTI) closes above $69 on July 10?",
+          "odds": "-1940",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
         {
           "event": "Will Texas have the closest Senate race in 2026?",
           "odds": "+112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will ChatGPT be #2 Free App in the US Apple App Store on July 10?",
-          "odds": "+300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: Argentina 0 - 0 Switzerland?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will M80 Win North America ACE Stage 3",
-          "odds": "-112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will T-Mobile (TMUS) Q2 total service revenues be above $19.3B?",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: Sandefjord Fotball 1 - 1 Hamarkameratene?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Phoenix Mercury vs. Minnesota Lynx",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Austin be between 96-97°F on July 10?",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Shanghai Shenhua FC win on 2026-07-11?",
-          "odds": "+149",
-          "params": "Fuente: Polymarket",
+          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
