@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "10 de julio de 2026 — 22:55 UTC",
+  "lastUpdated": "10 de julio de 2026 — 23:53 UTC",
   "ticker": [
+    "Nicaragua strips lawyers of certification in latest crackdown on dissent",
+    "Cuba suffers second island-wide blackout in a week amid Trump fuel blockade",
+    "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
     "Colombia’s Jaminton Campaz receives death threats after World Cup exit",
     "Under Lula, Amazon deforestation falls to lowest level in a decade",
     "Canada’s Bill C-36 tackles AI privacy. Is it enough?",
@@ -12,10 +15,7 @@
     "Donald Trump removes final members of independent US election commission",
     "Egypt World Cup team return home to hero’s welcome after historic run",
     "Why are politicians and sanctioned states embracing crypto?",
-    "What happened at France v Morocco",
-    "EU says ‘addictive’ features on Instagram and Facebook breach its rules",
-    "Witnesses contest the Trump administration’s account of Texas ICE killing",
-    "Can the agreement between Iran and the US be rescued?"
+    "What happened at France v Morocco"
   ],
   "sections": [
     {
@@ -69,12 +69,6 @@
           "odds": "+402",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will Bernard Cazeneuve announce their candidacy for the 2027 French presidential election in 2026?",
-          "odds": "+376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -95,8 +89,20 @@
           "moved": "none"
         },
         {
+          "event": "Will the highest temperature in San Francisco be between 72-73°F on July 11?",
+          "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the Democratic Party win the CA-11 House seat?",
           "odds": "-1462",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Atlanta be between 92-93°F on July 11?",
+          "odds": "+270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -115,18 +121,6 @@
         {
           "event": "Will KeyCorp (KEY) beat quarterly earnings?",
           "odds": "-566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will UAE leave the Gulf Cooperation Council  in 2026?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the MA-06 House seat?",
-          "odds": "+1594",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
