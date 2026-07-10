@@ -1,46 +1,133 @@
 {
-  "lastUpdated": "10 de julio de 2026 — 14:05 UTC",
+  "lastUpdated": "10 de julio de 2026 — 16:19 UTC",
   "ticker": [
+    "Spain vs Belgium LIVE: FIFA World Cup 2026 quarterfinal",
+    "Trump refuses to sign US housing bill over voting act standoff",
+    "Family mourns baby after Israeli forces blocked journey to hospital",
+    "The search for Gaza’s missing brings heartbreak and closure for loved ones",
+    "Ukraine chokes fuel to Crimea, Russian consumers, targeting military supply",
+    "Israeli drones strike Lebanon despite US-brokered framework deal",
+    "Super typhoon as wide as France heads to East Asia",
+    "Ukrainian court detains alleged killers of Monaco bomb attack suspect",
     "Death, silence, and survival inside New Jersey State Prison",
     "Andy Burnham apology for Labour stance on Gaza: Is UK’s position shifting?",
     "Police probe donations to Britain’s far-right Reform party",
     "Sudan’s El Obeid faces intensifying RSF drone attacks",
+    "Norway vs England: World Cup quarterfinal – Haaland, Kane, prediction, news",
     "Philippines landslides kill 15 as Typhoon Bavi threatens region",
-    "Paramount-Warner merger: could it reshape the media?",
-    "First Palestinian legislative elections in 20 years announced",
-    "US-Iran escalation threatens oil supply recovery, warns IEA",
-    "US-Iran war: Will peace talks resume, and when?",
-    "Condemned ex-PM Hasina plans December return to Bangladesh",
-    "FIFA World Cup 2026: Day 29",
-    "Pride despite defeat as Morocco’s World Cup run ends"
+    "Paramount-Warner merger: could it reshape the media?"
   ],
   "sections": [
     {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Will Dplus Esports Win Challengers 2026: Korea WDG Split 2",
+          "odds": "+769",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Russia invade a NATO country by December 31, 2026?",
           "odds": "+1011",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
+        {
+          "event": "Will Natural Gas (NG) hit (HIGH) $3.60 in July?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Marine Le Pen be the National Rally’s candidate for the 2027 French Presidential election?",
+          "odds": "-1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Texas have the closest Senate race in 2026?",
           "odds": "+112",
-          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Mitch McConnell votes in the Senate by July 31?",
           "odds": "+400",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Nigel Farage win 50–60% of votes in the Clacton parliamentary by-election?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will \"Moana\" score at least 40 on the Rotten Tomatoes Tomatometer?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: Sandefjord Fotball 1 - 1 Hamarkameratene?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Phoenix Mercury vs. Minnesota Lynx",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will UAE leave the Gulf Cooperation Council  in 2026?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party win the CA-11 House seat?",
+          "odds": "-1594",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will there be a run scored in the first inning?: San Francisco Giants vs. Atlanta Braves",
+          "odds": "+300",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Seoul be 34°C or higher on July 12?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Jeddah be 39°C on July 12?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
