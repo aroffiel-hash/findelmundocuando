@@ -1,109 +1,70 @@
 {
-  "lastUpdated": "11 de julio de 2026 — 11:54 UTC",
+  "lastUpdated": "11 de julio de 2026 — 13:02 UTC",
   "ticker": [
+    "China prepares as Typhoon Bavi leaves Taiwan",
+    "Zimbabweans return home amid xenophobic violence in South Africa",
     "Speedboat accident in southern Vietnam kills 15 Indian tourists",
     "Land sold for Kushner-backed Albania resort suspected of forged deeds",
     "World cup wrap day 30",
     "Hundreds of thousands evacuated as Typhoon Bavi barrels towards China",
     "Cuba suffers second nationwide blackout in five days",
-    "Russian missile attacks wound 11 in Kyiv",
+    "Russian missile and drone barrage kills two and wounds 19 in Ukraine",
     "Indonesia’s anti-graft prosecutor quits after police seize gold and cash",
     "Watch World Cup: Merino, Spain beats Belgium, move on to semifinals",
     "Russian overnight strikes on Kyiv injure ten",
-    "‘Sealed in blood’: Where does the China-North Korea alliance stand today?",
-    "Trump threatens Iran after chants for his death erupted at Khamenei funeral",
-    "Wembanyama signs contract with Spurs for five years, $252m: Report",
-    "World Cup quarterfinals today: Schedule, predictions, Haaland’s viral rise",
-    "Argentina vs Switzerland: World Cup quarterfinal – Messi, prediction, news",
-    "Venezuelan doctors convert restaurant into a clinic after earthquake"
+    "‘Sealed in blood’: Where does the China-North Korea alliance stand today?"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
-          "event": "Will Dplus Esports Win Challengers 2026: Korea WDG Split 2",
-          "odds": "+1624",
-          "params": "Fuente: Polymarket",
+          "event": "Will there be no Head of State in Iran end of 2026?",
+          "odds": "+3025",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
           "moved": "none"
         },
         {
-          "event": "Will Russia invade a NATO country by December 31, 2026?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
+          "event": "Will there be between 60 and 80 average daily transits of the Strait of Hormuz on July 31?",
+          "odds": "+2225",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
+      "rows": [
+        {
+          "event": "Will Russia invade a NATO country by December 31, 2026?",
+          "odds": "+1011",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
+      "rows": [
+        {
+          "event": "Will Donald Trump publicly insult someone on July 29, 2026?",
+          "odds": "-809",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
         {
           "event": "Will the number of Republican Senate members who retire in 2026 be exactly 11?",
           "odds": "+336",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Grüne win the most seats in the 2026 Berlin state elections?",
-          "odds": "+402",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will the Republican Party win the NE-02 House seat?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Loki die in Avengers: Doomsday?",
-          "odds": "-112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will there be a run scored in the first inning?: Colorado Rockies vs. San Francisco Giants",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party win the CA-11 House seat?",
-          "odds": "-1462",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Set Handicap: Kostovic (-1.5) vs Gorgodze (+1.5)",
-          "odds": "-104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Donald Trump publicly insult someone on July 29, 2026?",
-          "odds": "-809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Jeanette Cass be the MO-04 Democratic nominee?",
-          "odds": "+1392",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
