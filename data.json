@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "11 de julio de 2026 — 21:42 UTC",
+  "lastUpdated": "11 de julio de 2026 — 22:40 UTC",
   "ticker": [
+    "US judge dismisses January 6 case against Proud Boys after Trump order",
+    "Argentina vs Switzerland LIVE: FIFA World Cup 2026 quarterfinal",
     "UK police investigate murder of politician Ann Widdecombe",
     "What’s behind Pakistan’s mass deportation of Afghans?",
     "Thousands gather in Srebrenica to mark 31 years since genocide",
@@ -13,9 +15,7 @@
     "Noskova defeats Muchova in Wimbledon final to record first Grand Slam title",
     "England vs Norway LIVE: FIFA World Cup 2026 quarterfinal",
     "US lawmaker slams Israeli army after settlers detain him on Palestine trip",
-    "FIFA is not an independent sporting organisation; it is a political tool.",
-    "Hormuz shipping in focus as Iran-US rhetoric heats up",
-    "Syrians optimistic but cautious as sanctions removal revives economic hopes"
+    "FIFA is not an independent sporting organisation; it is a political tool."
   ],
   "sections": [
     {
@@ -24,7 +24,7 @@
       "rows": [
         {
           "event": "Will there be no Head of State in Iran end of 2026?",
-          "odds": "+3233",
+          "odds": "+2841",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -39,6 +39,30 @@
           "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will USD reach 1.9M Iranian rials by July 31?",
+          "odds": "+203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?",
+          "odds": "+112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Bernard Cazeneuve announce their candidacy for the 2027 French presidential election in 2026?",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -46,12 +70,6 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
-        {
-          "event": "Will the highest temperature in Dallas be between 94-95°F on July 12?",
-          "odds": "+203",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Trump say \"Crazy\" this week?",
           "odds": "-376",
@@ -65,14 +83,14 @@
           "moved": "none"
         },
         {
-          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
-          "odds": "+1011",
+          "event": "Game Handicap: BLG (-1.5) vs Hanwha Life Esports (+1.5)",
+          "odds": "+138",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Exact Score: Argentina 1 - 0 Switzerland?",
-          "odds": "+525",
+          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -89,8 +107,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Elon Musk post 65-89 tweets from July 11 to July 13, 2026?",
-          "odds": "+400",
+          "event": "Will UMich Consumer Sentiment be between 43.0 and 45.9 in July?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party win the NV-03 House seat?",
+          "odds": "-426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
