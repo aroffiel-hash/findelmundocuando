@@ -1,8 +1,11 @@
 {
-  "lastUpdated": "11 de julio de 2026 — 17:49 UTC",
+  "lastUpdated": "11 de julio de 2026 — 18:51 UTC",
   "ticker": [
-    "US lawmaker slams Israeli army after settlers detain him on Palestine trip",
+    "US, Lebanese delegations meet to discuss Israeli ‘pilot zones’ withdrawal",
     "Evacuations as landslide threatens Indian village, construction firm blamed",
+    "Noskova defeats Muchova in Wimbledon final to record first Grand Slam title",
+    "England vs Norway LIVE: FIFA World Cup 2026 – quarterfinal",
+    "US lawmaker slams Israeli army after settlers detain him on Palestine trip",
     "FIFA is not an independent sporting organisation; it is a political tool.",
     "Hormuz shipping in focus as Iran-US rhetoric heats up",
     "Syrians optimistic but cautious as sanctions removal revives economic hopes",
@@ -12,10 +15,7 @@
     "Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist",
     "What is going on in Yemen?",
     "China prepares as Typhoon Bavi leaves Taiwan",
-    "Zimbabweans return home amid xenophobic violence in South Africa",
-    "Sheinbaum takes on cartels, Trump and the legacy of 1968",
-    "Speedboat accident in southern Vietnam kills 15 Indian tourists",
-    "Land sold for Kushner-backed Albania resort suspected of forged deeds"
+    "Zimbabweans return home amid xenophobic violence in South Africa"
   ],
   "sections": [
     {
@@ -23,14 +23,38 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
+          "event": "Will there be no Head of State in Iran end of 2026?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Dplus Esports Win Challengers 2026: Korea WDG Split 2",
-          "odds": "+1624",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Russia invade a NATO country by December 31, 2026?",
           "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will USD reach 1.9M Iranian rials by July 31?",
+          "odds": "+203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?",
+          "odds": "+112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -40,6 +64,12 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
+        {
+          "event": "Will Trump say \"Crazy\" this week?",
+          "odds": "-376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Detroit Tigers win the 2026 American League Championship Series?",
           "odds": "+2531",
@@ -59,6 +89,12 @@
           "moved": "none"
         },
         {
+          "event": "Will the highest temperature in Jeddah be 36°C on July 12?",
+          "odds": "+203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Danaher (DHR) Q2 non-GAAP core revenue growth 0%-1.5%?",
           "odds": "+900",
           "params": "Fuente: Polymarket",
@@ -71,20 +107,8 @@
           "moved": "none"
         },
         {
-          "event": "Will the Democratic Party win the NV-03 House seat?",
-          "odds": "-426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will UAE leave the Gulf Cooperation Council  in 2026?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will KeyCorp (KEY) beat quarterly earnings?",
-          "odds": "-566",
+          "event": "Will LeBron James play for the Philadelphia 76ers in 2026-27?",
+          "odds": "+963",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
