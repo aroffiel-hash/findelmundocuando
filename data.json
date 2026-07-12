@@ -1,6 +1,7 @@
 {
-  "lastUpdated": "12 de julio de 2026 — 22:40 UTC",
+  "lastUpdated": "12 de julio de 2026 — 23:45 UTC",
   "ticker": [
+    "US launches new wave of strikes against Iran aimed at ‘degrading’ military",
     "Detained by settlers, US Democrat Ro Khanna now faces pro-Israel attacks",
     "Israel releases video of huge detonations in Lebanon",
     "Deadly Israeli strikes pound Gaza",
@@ -14,8 +15,7 @@
     "How will Qatar’s Father Emir be remembered?",
     "Former Spain PM criticised for ‘xenophobic’ remark on French World Cup team",
     "Iran says almost a dozen ‘enemy projectiles’ targeted Qeshm Island",
-    "Nine dead as Russia and Ukraine trade drone and missile salvos",
-    "Iraqi PM to meet US President Trump in Washington to deepen strategic ties"
+    "Nine dead as Russia and Ukraine trade drone and missile salvos"
   ],
   "sections": [
     {
@@ -24,7 +24,7 @@
       "rows": [
         {
           "event": "US x Iran diplomatic meeting by July 31, 2026?",
-          "odds": "+270",
+          "odds": "+244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -34,6 +34,12 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
+        {
+          "event": "Iasi Open: Anna Bondar vs Sara Sorribes Tormo",
+          "odds": "-102",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the US economy have slack at the end of 2026?",
           "odds": "+1940",
@@ -66,13 +72,19 @@
         },
         {
           "event": "Trump out as President before 2027?",
-          "odds": "+1566",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will CDU win the most seats in the 2026 Berlin state elections?",
           "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Abiy Ahmed be the next Prime Minister of Ethiopia?",
+          "odds": "-1940",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -95,14 +107,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the highest temperature in Amsterdam be 26°C on July 13?",
-          "odds": "+117",
+          "event": "Will Hylo launch a token by September 30, 2026?",
+          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Hylo launch a token by September 30, 2026?",
-          "odds": "+669",
+          "event": "Will Donald Trump publicly insult someone on July 31, 2026?",
+          "odds": "-669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -115,6 +127,12 @@
         {
           "event": "Will the highest temperature in Istanbul be 28°C on July 14?",
           "odds": "+3125",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Guangzhou be 36°C on July 13?",
+          "odds": "+334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -133,12 +151,6 @@
         {
           "event": "Will Robinhood Markets, Inc. (HOOD) hit (LOW) $80 in July?",
           "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party win the FL-24 House seat?",
-          "odds": "-1438",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
