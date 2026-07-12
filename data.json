@@ -1,109 +1,64 @@
 {
-  "lastUpdated": "11 de julio de 2026 — 23:47 UTC",
+  "lastUpdated": "12 de julio de 2026 — 02:02 UTC",
   "ticker": [
+    "Mediators push US-Iran talks in Qatar and Oman to avert escalation",
+    "Bellingham scores twice as England beat Norway 2-1 to reach World Cup semis",
+    "Iran war live: US bombs Iranian port cities as IRGC closes Strait of Hormuz",
+    "Indian tourists killed after speedboat capsizes in Vietnam",
     "Whistleblower claims Kennedy Center ‘rushed’ renovations to please Trump",
     "FIFA to sell pieces of World Cup final stadium pitch, could earn millions",
     "US judge dismisses January 6 case against Proud Boys after Trump order",
-    "Argentina vs Switzerland LIVE: FIFA World Cup 2026",
     "UK police investigate murder of politician Ann Widdecombe",
     "What’s behind Pakistan’s mass deportation of Afghans?",
     "Thousands gather in Srebrenica to mark 31 years since genocide",
     "‘All we see is decay’: Covering the human toll of Venezuela’s earthquakes",
-    "US Rep Ro Khanna speaks out about being harassed by Israeli settlers",
-    "Trump administration subpoenas New York Times reporters over coverage",
-    "South Africa’s Jayden Adams, 25, dies after playing in FIFA World Cup",
-    "US, Lebanese delegations meet to discuss Israeli ‘pilot zones’ withdrawal",
-    "Evacuations as landslide threatens Indian village, construction firm blamed",
-    "Noskova defeats Muchova in Wimbledon final to record first Grand Slam title",
-    "England vs Norway LIVE: FIFA World Cup 2026 extra-time"
+    "US Rep Ro Khanna speaks out about being harassed by Israeli settlers"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
           "event": "Will there be no Head of State in Iran end of 2026?",
           "odds": "+2757",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
           "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
+      "rows": [
         {
           "event": "Will Russia invade a NATO country by December 31, 2026?",
           "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Iran announce withdrawal from MOU negotiations by August 15?",
-          "odds": "+300",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?",
-          "odds": "+112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
       "rows": [
         {
           "event": "Will Trump say \"Crazy\" this week?",
           "odds": "-376",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         },
         {
-          "event": "Will Detroit Tigers win the 2026 American League Championship Series?",
-          "odds": "+2531",
-          "params": "Fuente: Polymarket",
+          "event": "Will Trump say \"Swan\" in July?",
+          "odds": "+400",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         },
         {
-          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Shanghai be 32°C on July 12?",
-          "odds": "+1288",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Databricks' valuation hit (LOW) $125B by December 31?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Danaher (DHR) Q2 non-GAAP core revenue growth 0%-1.5%?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will UMich Consumer Sentiment be between 43.0 and 45.9 in July?",
-          "odds": "+455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party win the NV-03 House seat?",
-          "odds": "-426",
-          "params": "Fuente: Polymarket",
+          "event": "Trump out as President before 2027?",
+          "odds": "+1328",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
