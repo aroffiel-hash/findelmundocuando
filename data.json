@@ -1,23 +1,35 @@
 {
-  "lastUpdated": "12 de julio de 2026 — 20:04 UTC",
+  "lastUpdated": "12 de julio de 2026 — 21:41 UTC",
   "ticker": [
+    "Lindsey Graham, hardline backer of US-Israeli wars, dies aged 71",
+    "The man who changed the Arab world",
+    "Fire engulfs popular Bangkok pub, killing 27 people and injuring 63",
+    "Sinner beats Zverev to defend Wimbledon men’s singles tennis title",
+    "Qatar’s former emir remembered as ‘a man of vision and courage’",
+    "How will Qatar’s Father Emir be remembered?",
+    "Former Spain PM criticised for ‘xenophobic’ remark on French World Cup team",
+    "Iran says almost a dozen ‘enemy projectiles’ targeted Qeshm Island",
+    "Nine dead as Russia and Ukraine trade drone and missile salvos",
+    "Iraqi PM to meet US President Trump in Washington to deepen strategic ties",
     "England vs Argentina: Greatest moments before FIFA World Cup semifinal",
     "Why the Iran-US ceasefire is falling apart",
     "Anti-migrant display set alight in Northern Ireland bonfire",
     "Friends turned foes: The split reshaping Senegal",
-    "Some 30 Malian soldiers killed during Anefis retaking, says army chief",
-    "Thousands gather to bid farewell to Qatar’s Father Emir Sheikh Hamad",
-    "Who will replace Trump ally Lindsey Graham in the US Senate?",
-    "Concern for renewed war in Iran as US attacks military, civilian targets",
-    "Qatar’s Father Emir Sheikh Hamad bin ⁠Khalifa Al Thani laid to rest in Doha",
-    "UK Christians protest for Church of England to recognise genocide in Gaza",
-    "Funeral prayers held for Qatar’s Father Emir Sheikh Hamad",
-    "‘Sheikh Hamad will be fondly remembered across the Gulf’",
-    "Iran war: US strategic success or diplomatic failure?",
-    "FIFA World Cup 2026: Day 31",
-    "United States at 250: Seven tests of the American experiment"
+    "Some 30 Malian soldiers killed during Anefis retaking, says army chief"
   ],
   "sections": [
+    {
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "rows": [
+        {
+          "event": "US x Iran diplomatic meeting by July 31, 2026?",
+          "odds": "+257",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
     {
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
@@ -29,8 +41,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Bank of America say \"Recession\" during earnings call?",
-          "odds": "+300",
+          "event": "Will the Fed’s lower bound reach 1.75% or lower before 2027?",
+          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -54,7 +66,13 @@
         },
         {
           "event": "Trump out as President before 2027?",
-          "odds": "+1566",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will CDU win the most seats in the 2026 Berlin state elections?",
+          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -89,12 +107,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Databricks' valuation hit (LOW) $125B by December 31?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Charles Schwab (SCHW) Q2 core net new assets be above $125B?",
           "odds": "+300",
           "params": "Fuente: Polymarket",
@@ -119,8 +131,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Chris Gotterup win the 2026 Genesis Scottish Open?",
-          "odds": "+740",
+          "event": "Will the Democratic Party win the FL-24 House seat?",
+          "odds": "-1438",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Chongqing be 43°C on July 14?",
+          "odds": "+2172",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
