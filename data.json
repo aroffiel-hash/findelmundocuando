@@ -1,52 +1,133 @@
 {
-  "lastUpdated": "13 de julio de 2026 — 14:13 UTC",
+  "lastUpdated": "13 de julio de 2026 — 16:24 UTC",
   "ticker": [
+    "Anti-terror police take over probe into death of UK politician Widdecombe",
+    "India thrash England in historic first women’s cricket Test match at Lord’s",
+    "Trump: US will ‘take over’ Strait of Hormuz",
+    "Iraqi PM heads to US seeking balance between security and economy",
+    "Iraq seizes 375kg of gold in sweeping anti-corruption crackdown",
+    "FIFA World Cup: Key players to watch as France play Spain in semifinal",
+    "Trump says US will become ‘guardian’ of Strait of Hormuz and collect tolls",
+    "What is the EU’s plan to cut trade with illegal Israeli settlements?",
+    "How Sheikh Hamad revolutionised Arab media through Al Jazeera",
     "Yemeni government forces strike Sanaa airport",
     "EU sanctions nine people over alleged Russian cyber-spying campaign",
     "Hamas denies UN accusations over Gaza aid distribution interference",
+    "FIFA World Cup England vs Argentina: What to know ahead of second semifinal",
     "What is Japan’s new intelligence agency, and why is Tokyo building it?",
-    "What will happen to Trump’s agenda after Lindsey Graham’s death?",
-    "The late Sheikh Hamad bin Khalifa Al Thani’s legacy on women’s reform",
-    "Street in Illinois named after murdered Palestinian boy",
-    "March to July: What’s different as US-Iran fighting escalates again?",
-    "South Korea rolls out plan to tackle youth suicide crisis",
-    "Al Jazeera bids farewell to founder Sheikh Hamad",
-    "Yemen government says its forces attacked Sanaa airport",
-    "Will the 2030 World Cup expand to 64 teams? What FIFA’s Infantino says"
+    "What will happen to Trump’s agenda after Lindsey Graham’s death?"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
-      "rows": [
-        {
-          "event": "Will 125-149 ships transit the Strait of Hormuz between July 13-July 19?",
-          "odds": "+1150",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Putin out as President of Russia by September 30, 2026?",
           "odds": "+2280",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Putin meets with Iranian officials by August 31?",
+          "odds": "-159",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
           "event": "Trump out as President before 2027?",
           "odds": "+1150",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will CDU win the most seats in the 2026 Berlin state elections?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Elmedin Konaković be the next Chairman of the Council of Ministers of Bosnia and Herzegovina?",
+          "odds": "+354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Abiy Ahmed be the next Prime Minister of Ethiopia?",
+          "odds": "-2073",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?",
+          "odds": "+112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Workers' Party nominate Lula for President of Brazil by August 15?",
+          "odds": "-2399",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will Hylo launch a token by September 30, 2026?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Detroit Tigers win the 2026 American League Championship Series?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will 125-149 ships transit the Strait of Hormuz between July 13-July 19?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will UAE leave the Gulf Cooperation Council  in 2026?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party win the FL-24 House seat?",
+          "odds": "-1438",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Swedish Open: Nicolai Budkov Kjaer vs Andrea Pellegrino",
+          "odds": "+112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party win the NV-03 House seat?",
+          "odds": "-426",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
