@@ -1,157 +1,46 @@
 {
-  "lastUpdated": "12 de julio de 2026 — 23:45 UTC",
+  "lastUpdated": "13 de julio de 2026 — 02:04 UTC",
   "ticker": [
-    "US launches new wave of strikes against Iran aimed at ‘degrading’ military",
+    "At least 27 dead as fire engulfs popular Bangkok pub near Chatuchak market",
+    "Japan’s pet care industry booms as ‘fur babies’ outnumber infants",
+    "Can Nigeria’s drone industry deliver Africa’s defence sovereignty",
+    "US launches more strikes on Iran as Strait of Hormuz standoff deepens",
+    "Iran war live: US bombs Iranian cities again as Hormuz standoff intensifies",
+    "Mitch McConnell releases health update, says he is ‘regaining’ strength",
+    "US launches new wave of strikes against Iran, aimed at ‘degrading’ military",
     "Detained by settlers, US Democrat Ro Khanna now faces pro-Israel attacks",
     "Israel releases video of huge detonations in Lebanon",
     "Deadly Israeli strikes pound Gaza",
     "Israel to hold national elections on October 27, parliament says",
-    "Protest on London’s Tower Bridge demands release of Dr Hussam Abu Safia",
-    "Lindsey Graham, hardline backer of US-Israeli wars, dies aged 71",
-    "The man who changed the Arab world",
-    "Fire engulfs popular Bangkok pub, killing 27 people and injuring 63",
-    "Sinner beats Zverev to defend Wimbledon men’s singles tennis title",
-    "Qatar’s former emir remembered as ‘a man of vision and courage’",
-    "How will Qatar’s Father Emir be remembered?",
-    "Former Spain PM criticised for ‘xenophobic’ remark on French World Cup team",
-    "Iran says almost a dozen ‘enemy projectiles’ targeted Qeshm Island",
-    "Nine dead as Russia and Ukraine trade drone and missile salvos"
+    "Protest on London’s Tower Bridge demands release of Dr Hussam Abu Safia"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
           "event": "US x Iran diplomatic meeting by July 31, 2026?",
-          "odds": "+244",
-          "params": "Fuente: Polymarket",
+          "odds": "+212",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
       "rows": [
         {
-          "event": "Iasi Open: Anna Bondar vs Sara Sorribes Tormo",
-          "odds": "-102",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the US economy have slack at the end of 2026?",
-          "odds": "+1940",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Fed’s lower bound reach 1.75% or lower before 2027?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will Matt Boehnke advance to the general election for WA-04?",
-          "odds": "+170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Jean-Luc Mélenchon win the 2027 French presidential election?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
+          "event": "Will Donald Trump publicly insult someone on July 31, 2026?",
+          "odds": "-669",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         },
         {
           "event": "Trump out as President before 2027?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will CDU win the most seats in the 2026 Berlin state elections?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Abiy Ahmed be the next Prime Minister of Ethiopia?",
-          "odds": "-1940",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?",
-          "odds": "+112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Bernard Cazeneuve announce their candidacy for the 2027 French presidential election in 2026?",
-          "odds": "+376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will Hylo launch a token by September 30, 2026?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Donald Trump publicly insult someone on July 31, 2026?",
-          "odds": "-669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Detroit Tigers win the 2026 American League Championship Series?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Istanbul be 28°C on July 14?",
-          "odds": "+3125",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Guangzhou be 36°C on July 13?",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will UAE leave the Gulf Cooperation Council  in 2026?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Robinhood Markets, Inc. (HOOD) hit (LOW) $80 in July?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
+          "odds": "+1328",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
