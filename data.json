@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "13 de julio de 2026 — 22:49 UTC",
+  "lastUpdated": "13 de julio de 2026 — 23:47 UTC",
   "ticker": [
+    "Norway ‘rows’ at the royal palace to welcome back World Cup heroes",
+    "Backed by Trump, Lindsey Graham’s sister Darline will replace him in Senate",
+    "Nine deaths tied to Trump’s immigration enforcement operations in US",
     "Haaland’s Norway receive heroes’ welcome in Oslo after World Cup exit",
     "Police in South Africa open probe into post-World Cup death of Jayden Adams",
     "US, Iran exchange attacks around Strait of Hormuz",
@@ -12,22 +15,13 @@
     "Kyiv attacked after Ukraine launches coalition to tackle Russia missiles",
     "Iran military warns US against Strait of Hormuz ‘interference’",
     "Artist sews names of Gaza children killed by Israel into gown",
-    "What do Israeli settler attacks on Americans reveal?",
-    "Gaza man builds roadside library from books buried in rubble",
-    "US keeping the Strait of Hormuz open is ‘a massive force problem’",
-    "World pays tribute to Qatar’s Father Emir"
+    "What do Israeli settler attacks on Americans reveal?"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Iran military action against a Gulf State on July 26?",
-          "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Ukraine re-enter Obratne or Temyrivka by December 31?",
           "odds": "+108",
@@ -37,6 +31,18 @@
         {
           "event": "Putin meets with Iranian officials by August 31?",
           "odds": "-159",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will UK annual GDP growth in 2026 be below 0%?",
+          "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -54,7 +60,7 @@
         },
         {
           "event": "Will the Workers' Party nominate Lula for President of Brazil by August 15?",
-          "odds": "-2339",
+          "odds": "-2280",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -83,12 +89,6 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Silver (XAGUSD) hit (LOW) $54 Week of July 13 2026?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the highest temperature in Guangzhou be 32°C on July 15?",
           "odds": "+185",
           "params": "Fuente: Polymarket",
@@ -101,20 +101,26 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Milan be 31°C on July 13?",
-          "odds": "+2172",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Benjamin Silverman finish in the Top 20 at the 2026 Corales Puntacana Championship?",
           "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
+          "event": "Will Jimmy Stanger finish in the Top 20 at the 2026 Corales Puntacana Championship?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Detroit Tigers win the 2026 American League Championship Series?",
           "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party win the FL-24 House seat?",
+          "odds": "-1594",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
