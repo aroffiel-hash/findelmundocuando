@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "13 de julio de 2026 — 13:16 UTC",
+  "lastUpdated": "13 de julio de 2026 — 14:13 UTC",
   "ticker": [
+    "Yemeni government forces strike Sanaa airport",
+    "EU sanctions nine people over alleged Russian cyber-spying campaign",
+    "Hamas denies UN accusations over Gaza aid distribution interference",
     "What is Japan’s new intelligence agency, and why is Tokyo building it?",
     "What will happen to Trump’s agenda after Lindsey Graham’s death?",
     "The late Sheikh Hamad bin Khalifa Al Thani’s legacy on women’s reform",
@@ -9,125 +12,41 @@
     "South Korea rolls out plan to tackle youth suicide crisis",
     "Al Jazeera bids farewell to founder Sheikh Hamad",
     "Yemen government says its forces attacked Sanaa airport",
-    "Will the 2030 World Cup expand to 64 teams? What FIFA’s Infantino says",
-    "EU countries consider sanctions on trade from illegal Israeli settlements",
-    "France vs Spain: World Cup semifinal – Mbappe, Yamal, predictions, kickoff",
-    "Wildfires near Paris force evacuations, disrupt train lines and motorway",
-    "‘It’s expensive’: Syria’s electricity has improved, but challenges remain",
-    "Explosions and large fires following Ukrainian attacks on Russia",
-    "New Iran strikes on Gulf as US attacks escalate: What we know"
+    "Will the 2030 World Cup expand to 64 teams? What FIFA’s Infantino says"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
+      "rows": [
+        {
+          "event": "Will 125-149 ships transit the Strait of Hormuz between July 13-July 19?",
+          "odds": "+1150",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
       "rows": [
         {
           "event": "Putin out as President of Russia by September 30, 2026?",
           "odds": "+2280",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
       "rows": [
-        {
-          "event": "Will Jean-Luc Mélenchon win the 2027 French presidential election?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Trump out as President before 2027?",
           "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will CDU win the most seats in the 2026 Berlin state elections?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Elmedin Konaković be the next Chairman of the Council of Ministers of Bosnia and Herzegovina?",
-          "odds": "+354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Abiy Ahmed be the next Prime Minister of Ethiopia?",
-          "odds": "-2073",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?",
-          "odds": "+112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Workers' Party nominate Lula for President of Brazil by August 15?",
-          "odds": "-2464",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will Hylo launch a token by September 30, 2026?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Shenzhen be 28°C on July 14?",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Donald Trump publicly insult someone on July 31, 2026?",
-          "odds": "-669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Detroit Tigers win the 2026 American League Championship Series?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Over $16M committed to the Credible public sale?",
-          "odds": "-426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will UAE leave the Gulf Cooperation Council  in 2026?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party win the FL-24 House seat?",
-          "odds": "-1438",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
