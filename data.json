@@ -1,27 +1,39 @@
 {
-  "lastUpdated": "13 de julio de 2026 — 20:07 UTC",
+  "lastUpdated": "13 de julio de 2026 — 21:49 UTC",
   "ticker": [
-    "Spanish PM visits site of deadly wildfire",
-    "US judge voids Trump’s IRS settlement, alleges self-dealing",
-    "UK designates IRGC as terrorist organisation",
-    "Locked exits, burning decor: inside Bangkok’s deadly pub fire",
-    "FIFA World Cup: Five biggest controversies of the 2026 tournament",
-    "Trump administration vows to ‘disable’ International Criminal Court",
-    "UK to list Iran’s IRGC as ‘terror’ threat",
-    "How Lyhanna’s murder case is shedding light on child abuse in France",
-    "Staff at DR Congo Ebola centre strike as virus continues spreading",
-    "Bangkok pub fire kills 27, wounds dozens: What we know",
-    "EU unveils $1bn fund for Gaza war recovery",
-    "Person killed in shooting involving ICE agents in US state of Maine",
-    "US imposes new sanctions on Cuba tourism ministry, state-owned companies",
-    "Anti-terror police take over probe into death of UK politician Widdecombe",
-    "India thrash England in historic first women’s cricket Test match at Lord’s"
+    "Haaland’s Norway receive heroes’ welcome in Oslo after World Cup exit",
+    "Police in South Africa open probe into post-World Cup death of Jayden Adams",
+    "US, Iran exchange attacks around Strait of Hormuz",
+    "Lindsey Graham’s legacy: Israel advocate, Trump ally, Iran war supporter",
+    "How is the US tech industry regulated?",
+    "Andy Burnham in line to become British PM after securing party support",
+    "Argentina vs England World Cup tickets more expensive than France vs Spain",
+    "US strikes Iranian ship with drone boats in first-of-its-kind attack",
+    "Ukraine and allies launch coalition to tackle Russia’s ballistic missiles",
+    "Iran military warns US against Strait of Hormuz ‘interference’",
+    "Artist sews names of Gaza children killed by Israel into gown",
+    "What do Israeli settler attacks on Americans reveal?",
+    "Gaza man builds roadside library from books buried in rubble",
+    "US keeping the Strait of Hormuz open is ‘a massive force problem’",
+    "World pays tribute to Qatar’s Father Emir"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Iran military action against a Gulf State on July 14?",
+          "odds": "-170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Iran military action against a Gulf State on July 26?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Ukraine re-enter Obratne or Temyrivka by December 31?",
           "odds": "+108",
@@ -42,13 +54,13 @@
       "rows": [
         {
           "event": "Trump out as President before 2027?",
-          "odds": "+1328",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Robert Mitchell win the 2026 Cornwall-Meadowbank PEI Legislative Assembly by-election?",
-          "odds": "-1049",
+          "event": "Will the Workers' Party nominate Lula for President of Brazil by August 15?",
+          "odds": "-2339",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -83,12 +95,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Dylan Frittelli finish in the Top 20 at the 2026 Corales Puntacana Championship?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the highest temperature in Guangzhou be 32°C on July 15?",
           "odds": "+185",
           "params": "Fuente: Polymarket",
@@ -101,26 +107,32 @@
           "moved": "none"
         },
         {
+          "event": "Will the highest temperature in Milan be 31°C on July 13?",
+          "odds": "+2172",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Benjamin Silverman finish in the Top 20 at the 2026 Corales Puntacana Championship?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Detroit Tigers win the 2026 American League Championship Series?",
           "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will 125-149 ships transit the Strait of Hormuz between July 13-July 19?",
-          "odds": "+1150",
+          "event": "ITF Granby: Kayla Cross vs Annabelle Xu",
+          "odds": "-426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
           "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will UAE leave the Gulf Cooperation Council  in 2026?",
-          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
