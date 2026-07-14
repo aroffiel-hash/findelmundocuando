@@ -1,151 +1,46 @@
 {
-  "lastUpdated": "14 de julio de 2026 — 11:20 UTC",
+  "lastUpdated": "14 de julio de 2026 — 13:16 UTC",
   "ticker": [
+    "Russia readies to reroute exports from Sea of Azov after Ukrainian attacks",
+    "World Cup: France, Spain unbeaten before semis, but only one can make final",
+    "Sudan sentences RSF chief Hemedti to death: Who’s he, what’s he accused of?",
+    "What we know about UK politician Ann Widdecombe’s murder",
+    "How new Yemen tensions could complicate the global energy crisis",
+    "Tour de France crash and concussion cases expose limits of roadside checks",
     "Lebanon, Israel hold talks in Rome on implementing framework deal",
     "Can Gulf countries defend themselves against renewed Iranian attacks?",
     "Dozens of healthcare workers in DRC strike amid Ebola outbreak",
     "Schumer slams Trump over Iran war",
-    "Utah Jazz guard Trey Alexander stretchered off court in NBA Summer League",
     "What is Iran’s Pickaxe Mountain, the mystery site Trump warns he’ll attack?",
-    "Argentina war vets urge focus on football for England World Cup semifinal",
-    "ICE kills 26-year-old in Maine: What happened, and who else has ICE killed?",
-    "Emir of Qatar receives condolences on the death of the Father Emir",
-    "FIFA World Cup brackets: Semifinal schedule, France vs Spain prediction",
-    "US bombs Iran again, Tehran strikes Gulf, tankers: What’s the latest?",
-    "Photos: Wildfires ravage historic forest near Paris",
-    "‘Country grows, we grow too’: 1 million migrants seek legal status in Spain",
-    "US military releases video of its latest strikes on Iran",
-    "Watch FIFA World Cup: Mbappe vs Yamal headlines Spain-France semifinal"
+    "Argentina war vets urge focus on football for England World Cup semifinal"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
-          "event": "Will Ukraine re-enter Obratne or Temyrivka by December 31?",
-          "odds": "+108",
-          "params": "Fuente: Polymarket",
+          "event": "Israel military action against Yemen by July 21?",
+          "odds": "+809",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
           "moved": "none"
         },
         {
-          "event": "Will Russia and Ukraine hold any diplomatic meeting by July 31, 2026?",
-          "odds": "+122",
-          "params": "Fuente: Polymarket",
+          "event": "Putin meets with Iranian officials by August 31?",
+          "odds": "-159",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
-      "rows": [
-        {
-          "event": "Will UK annual GDP growth in 2026 be below 0%?",
-          "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Fed’s lower bound reach 1.75% or lower before 2027?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
       "rows": [
         {
           "event": "Trump out as President before 2027?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Workers' Party nominate Lula for President of Brazil by August 15?",
-          "odds": "-2280",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Bill Cassidy vote to confirm Jay Clayton as Director of National Intelligence?",
-          "odds": "+163",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Elmedin Konaković be the next Chairman of the Council of Ministers of Bosnia and Herzegovina?",
-          "odds": "+354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Abiy Ahmed be the next Prime Minister of Ethiopia?",
-          "odds": "-2073",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?",
-          "odds": "+112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will the Democratic Party win the FL-24 House seat?",
-          "odds": "-1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Hylo launch a token by September 30, 2026?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Guangzhou be 28°C on July 15?",
-          "odds": "+1370",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Austin be between 82-83°F on July 14?",
-          "odds": "+156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Benjamin Silverman finish in the Top 20 at the 2026 Corales Puntacana Championship?",
-          "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Detroit Tigers win the 2026 American League Championship Series?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Ousmane Dembélé: 2+ shots",
-          "odds": "-270",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Credible FDV above $10M one day after launch?",
-          "odds": "-132",
-          "params": "Fuente: Polymarket",
+          "odds": "+1328",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
