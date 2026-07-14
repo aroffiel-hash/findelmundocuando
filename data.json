@@ -1,139 +1,70 @@
 {
-  "lastUpdated": "13 de julio de 2026 — 23:47 UTC",
+  "lastUpdated": "14 de julio de 2026 — 01:50 UTC",
   "ticker": [
+    "Record El Niño threatens to unleash floods across East Africa and Asia",
+    "Indonesia’s jailing of Gojek founder raises fears for investor confidence",
+    "How Kenyan volunteers hunt polio’s hidden trail",
+    "Iran war live: US launches more attacks; UAE says 1 killed in tanker strike",
+    "Hundreds of experts warn the world must prepare now for AI’s impact",
+    "Three Palestinians killed, 15 wounded in Israeli attacks across Gaza",
     "Norway ‘rows’ at the royal palace to welcome back World Cup heroes",
     "Backed by Trump, Lindsey Graham’s sister Darline will replace him in Senate",
     "Nine deaths tied to Trump’s immigration enforcement operations in US",
     "Haaland’s Norway receive heroes’ welcome in Oslo after World Cup exit",
     "Police in South Africa open probe into post-World Cup death of Jayden Adams",
-    "US, Iran exchange attacks around Strait of Hormuz",
-    "Lindsey Graham’s legacy: Israel advocate, Trump ally, Iran war supporter",
-    "How is the US tech industry regulated?",
-    "Andy Burnham in line to become British PM after securing party support",
-    "Argentina vs England World Cup tickets more expensive than France vs Spain",
-    "US strikes Iranian ship with drone boats in first-of-its-kind attack",
-    "Kyiv attacked after Ukraine launches coalition to tackle Russia missiles",
-    "Iran military warns US against Strait of Hormuz ‘interference’",
-    "Artist sews names of Gaza children killed by Israel into gown",
-    "What do Israeli settler attacks on Americans reveal?"
+    "US, Iran exchange attacks around Strait of Hormuz"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
+      "rows": [
+        {
+          "event": "Putin meets with Iranian officials by August 31?",
+          "odds": "-159",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
       "rows": [
         {
           "event": "Will Ukraine re-enter Obratne or Temyrivka by December 31?",
           "odds": "+108",
-          "params": "Fuente: Polymarket",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
+      "rows": [
+        {
+          "event": "Will Donald Trump post 160-179 Truth Social posts from July 10 to July 17, 2026?",
+          "odds": "+143",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         },
         {
-          "event": "Putin meets with Iranian officials by August 31?",
-          "odds": "-159",
-          "params": "Fuente: Polymarket",
+          "event": "Trump out as President before 2027?",
+          "odds": "+1150",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "label": "ECONOMÍA Y ENERGÍA",
       "rows": [
         {
-          "event": "Will UK annual GDP growth in 2026 be below 0%?",
-          "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Trump out as President before 2027?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Workers' Party nominate Lula for President of Brazil by August 15?",
-          "odds": "-2280",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Elmedin Konaković be the next Chairman of the Council of Ministers of Bosnia and Herzegovina?",
-          "odds": "+354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Abiy Ahmed be the next Prime Minister of Ethiopia?",
-          "odds": "-2073",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?",
-          "odds": "+112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will the highest temperature in Guangzhou be 32°C on July 15?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Hylo launch a token by September 30, 2026?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Benjamin Silverman finish in the Top 20 at the 2026 Corales Puntacana Championship?",
-          "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Jimmy Stanger finish in the Top 20 at the 2026 Corales Puntacana Championship?",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Detroit Tigers win the 2026 American League Championship Series?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party win the FL-24 House seat?",
-          "odds": "-1594",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: Ceará SC 2 - 1 Athletic Club?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
+          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $105 in July?",
+          "odds": "+1090",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
           "moved": "none"
         }
       ]
