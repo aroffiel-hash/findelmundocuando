@@ -1,7 +1,9 @@
 {
-  "lastUpdated": "14 de julio de 2026 — 13:16 UTC",
+  "lastUpdated": "14 de julio de 2026 — 13:18 UTC",
   "ticker": [
+    "Israel launches new illegal settlement expansion plan",
     "Russia readies to reroute exports from Sea of Azov after Ukrainian attacks",
+    "World Cup semifinals delay Barcelona’s, Real Madrid’s La Liga starts",
     "World Cup: France, Spain unbeaten before semis, but only one can make final",
     "Sudan sentences RSF chief Hemedti to death: Who’s he, what’s he accused of?",
     "What we know about UK politician Ann Widdecombe’s murder",
@@ -11,36 +13,145 @@
     "Can Gulf countries defend themselves against renewed Iranian attacks?",
     "Dozens of healthcare workers in DRC strike amid Ebola outbreak",
     "Schumer slams Trump over Iran war",
+    "Utah Jazz guard Trey Alexander stretchered off court in NBA Summer League",
     "What is Iran’s Pickaxe Mountain, the mystery site Trump warns he’ll attack?",
     "Argentina war vets urge focus on football for England World Cup semifinal"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Israel military action against Yemen by July 21?",
           "odds": "+809",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Rainbow Six Siege: Rival Esports vs Man eSports LFO - Game 2 Winner",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Putin meets with Iranian officials by August 31?",
           "odds": "-159",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
+        {
+          "event": "Will UK annual GDP growth in 2026 be below 0%?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Fed’s lower bound reach 1.75% or lower before 2027?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will the Safeguarding Swiss neutrality (neutrality initiative) initiative be approved in Switzerland’s September 27, 2026 popular vote?",
+          "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Trump out as President before 2027?",
           "odds": "+1328",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Workers' Party nominate Lula for President of Brazil by August 15?",
+          "odds": "-2280",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Elmedin Konaković be the next Chairman of the Council of Ministers of Bosnia and Herzegovina?",
+          "odds": "+354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Abiy Ahmed be the next Prime Minister of Ethiopia?",
+          "odds": "-2122",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?",
+          "odds": "+112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will the Democratic Party win the FL-24 House seat?",
+          "odds": "-1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Hylo launch a token by September 30, 2026?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Cordenons: Maxim Mrva vs Carlo Alberto Caniato",
+          "odds": "-123",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Guangzhou be 28°C on July 15?",
+          "odds": "+1370",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Detroit Tigers win the 2026 American League Championship Series?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Benjamin Silverman finish in the Top 20 at the 2026 Corales Puntacana Championship?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the lowest temperature in London be 16°C on July 16?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Credible FDV above $10M one day after launch?",
+          "odds": "-132",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
