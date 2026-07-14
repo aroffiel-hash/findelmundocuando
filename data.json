@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "14 de julio de 2026 — 01:50 UTC",
+  "lastUpdated": "14 de julio de 2026 — 01:53 UTC",
   "ticker": [
     "Record El Niño threatens to unleash floods across East Africa and Asia",
     "Indonesia’s jailing of Gojek founder raises fears for investor confidence",
@@ -12,59 +12,134 @@
     "Nine deaths tied to Trump’s immigration enforcement operations in US",
     "Haaland’s Norway receive heroes’ welcome in Oslo after World Cup exit",
     "Police in South Africa open probe into post-World Cup death of Jayden Adams",
-    "US, Iran exchange attacks around Strait of Hormuz"
+    "US, Iran exchange attacks around Strait of Hormuz",
+    "Lindsey Graham’s legacy: Israel advocate, Trump ally, Iran war supporter",
+    "How is the US tech industry regulated?",
+    "Andy Burnham in line to become British PM after securing party support"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
-      "rows": [
-        {
-          "event": "Putin meets with Iranian officials by August 31?",
-          "odds": "-159",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Will Ukraine re-enter Obratne or Temyrivka by December 31?",
           "odds": "+108",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
-      "rows": [
-        {
-          "event": "Will Donald Trump post 160-179 Truth Social posts from July 10 to July 17, 2026?",
-          "odds": "+143",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Trump out as President before 2027?",
-          "odds": "+1150",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Putin meets with Iranian officials by August 31?",
+          "odds": "-159",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y ENERGÍA",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
           "event": "Will WTI Crude Oil (WTI) hit (HIGH) $105 in July?",
           "odds": "+1090",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will UK annual GDP growth in 2026 be below 0%?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Trump out as President before 2027?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Workers' Party nominate Lula for President of Brazil by August 15?",
+          "odds": "-2280",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Elmedin Konaković be the next Chairman of the Council of Ministers of Bosnia and Herzegovina?",
+          "odds": "+354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Abiy Ahmed be the next Prime Minister of Ethiopia?",
+          "odds": "-2073",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?",
+          "odds": "+112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will the highest temperature in Guangzhou be 32°C on July 15?",
+          "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party win the FL-24 House seat?",
+          "odds": "-1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Hylo launch a token by September 30, 2026?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Benjamin Silverman finish in the Top 20 at the 2026 Corales Puntacana Championship?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Detroit Tigers win the 2026 American League Championship Series?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Donald Trump post 160-179 Truth Social posts from July 10 to July 17, 2026?",
+          "odds": "+143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will UAE leave the Gulf Cooperation Council  in 2026?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
