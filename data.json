@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "15 de julio de 2026 — 13:20 UTC",
+  "lastUpdated": "15 de julio de 2026 — 13:22 UTC",
   "ticker": [
     "Will Lindsey Graham’s death affect Israel’s standing in Washington?",
     "Israeli air attack on Gaza apartment kills family of three",
@@ -9,56 +9,143 @@
     "‘Cycle of chaos’: Israel killing Gaza civil officials to derail its future",
     "Could the US take control of Iran’s southern islands?",
     "What are the Israeli withdrawal ‘pilot zones’ in southern Lebanon?",
+    "Cody Bellinger stars at MLB All-Star game, wins MVP award",
     "Gibraltar border controls lifted: Is it part of Schengen, the UK – or both?",
+    "FIFA World Cup: England vs Argentina prediction, schedule, road to final",
     "Crowds cross between Spain and Gibraltar following UK-EU treaty",
     "World Cup: Djed Spence, England’s first Muslim player, lifts hopes",
-    "Bangkok pub fire death toll rises to 32 with 15 in intensive care"
+    "Bangkok pub fire death toll rises to 32 with 15 in intensive care",
+    "Sheikh Hamad bin Khalifa Al Thani and Al Jazeera"
   ],
   "sections": [
     {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
-      "rows": [
-        {
-          "event": "Will Ukraine re-enter Uspenivka by December 31?",
-          "odds": "+100",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇨🇳",
-      "label": "CHINA / PACÍFICO / COREA",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Will China become the #2 global art market in 2026?",
           "odds": "-108",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Tesla say \"China\" during earnings call?",
           "odds": "-1011",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Ukraine re-enter Uspenivka by December 31?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Trump declassifies new UFO files by August 31?",
-          "odds": "-334",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Will UK annual GDP growth in 2026 be below 0%?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
+          "event": "Will the Fed’s lower bound reach 1.75% or lower before 2027?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
           "event": "Trump out as President before 2027?",
           "odds": "+1328",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Workers' Party nominate Lula for President of Brazil by August 15?",
+          "odds": "-2339",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Abiy Ahmed be the next Prime Minister of Ethiopia?",
+          "odds": "-3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Elmedin Konaković be the next Chairman of the Council of Ministers of Bosnia and Herzegovina?",
+          "odds": "+354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?",
+          "odds": "+108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will Starmer say \"Urgent\" during the next PMQ?",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "T20 Lanka Premier League: Jaffna Kings vs Galle Gallants",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Trump declassifies new UFO files by August 31?",
+          "odds": "-334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Jeddah be 35°C on July 16?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will UAE leave the Gulf Cooperation Council  in 2026?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Elon Musk post 240-259 tweets from July 14 to July 21, 2026?",
+          "odds": "+2841",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Tesla say \"Energy\" during earnings call?",
+          "odds": "-1899",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
