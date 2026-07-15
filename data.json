@@ -1,151 +1,64 @@
 {
-  "lastUpdated": "15 de julio de 2026 — 11:24 UTC",
+  "lastUpdated": "15 de julio de 2026 — 13:20 UTC",
   "ticker": [
-    "Cody Bellinger stars at MLB All-Star game, wins MVP award",
+    "Will Lindsey Graham’s death affect Israel’s standing in Washington?",
+    "Israeli air attack on Gaza apartment kills family of three",
+    "DRC Ebola cases surpass 2,000 as more health workers begin strike",
+    "India-UK trade deal comes into effect: What’s cheaper in each country now?",
+    "Why has Lindsey Graham’s sister inherited his Senate seat after his death?",
+    "‘Cycle of chaos’: Israel killing Gaza civil officials to derail its future",
+    "Could the US take control of Iran’s southern islands?",
+    "What are the Israeli withdrawal ‘pilot zones’ in southern Lebanon?",
     "Gibraltar border controls lifted: Is it part of Schengen, the UK – or both?",
-    "FIFA World Cup brackets: Teams, predictions, schedule and road to the final",
     "Crowds cross between Spain and Gibraltar following UK-EU treaty",
-    "‘A role model’: Djed Spence, first Muslim England player, lifts hopes",
-    "Bangkok pub fire toll rises to 32 with 15 in intensive care",
-    "Sheikh Hamad bin Khalifa Al Thani and Al Jazeera",
-    "Iran launches attacks across region as US strikes continue",
-    "Russian attack on Odesa kills three as Ukraine targets vessels in Black Sea",
-    "US resumes Iran ports blockade as Gulf attacks continue: What’s the latest?",
-    "Watch FIFA World Cup: Spain defeats France to reach final",
-    "US attacks Iran as IRGC claims strikes on US military sites in Gulf",
-    "Lindsey Graham’s sister sworn in to fill his US Senate seat",
-    "Photos: Spain ends Mbappe and France’s World Cup dream to reach final",
-    "India’s ethanol rush prompts anger among vehicle owners, questions for gov’t"
+    "World Cup: Djed Spence, England’s first Muslim player, lifts hopes",
+    "Bangkok pub fire death toll rises to 32 with 15 in intensive care"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
       "rows": [
-        {
-          "event": "Will Tesla say \"China\" during earnings call?",
-          "odds": "-1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Ukraine re-enter Uspenivka by December 31?",
           "odds": "+100",
-          "params": "Fuente: Polymarket",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "flag": "🇨🇳",
+      "label": "CHINA / PACÍFICO / COREA",
       "rows": [
         {
-          "event": "Will UK annual GDP growth in 2026 be below 0%?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
+          "event": "Will China become the #2 global art market in 2026?",
+          "odds": "-108",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
           "moved": "none"
         },
         {
-          "event": "Will the Fed’s lower bound reach 1.75% or lower before 2027?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "ITF Villa Constitucion: Lorenzo Joaquin Rodriguez vs Federico Aguilar Cardozo",
-          "odds": "-400",
-          "params": "Fuente: Polymarket",
+          "event": "Will Tesla say \"China\" during earnings call?",
+          "odds": "-1011",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
       "rows": [
-        {
-          "event": "Trump out as President before 2027?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Workers' Party nominate Lula for President of Brazil by August 15?",
-          "odds": "-2339",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Abiy Ahmed be the next Prime Minister of Ethiopia?",
-          "odds": "-3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Elmedin Konaković be the next Chairman of the Council of Ministers of Bosnia and Herzegovina?",
-          "odds": "+354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?",
-          "odds": "+108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "T20 Lanka Premier League: Jaffna Kings vs Galle Gallants",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Trump declassifies new UFO files by August 31?",
           "odds": "-334",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         },
         {
-          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump say \"Transgender\" during Speech to the Nation?",
-          "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will UAE leave the Gulf Cooperation Council  in 2026?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Helsinki be 23°C on July 16?",
-          "odds": "+149",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Tesla say \"Energy\" during earnings call?",
-          "odds": "-1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Real Madrid win the 2026-27 LALIGA Championship?",
-          "odds": "+127",
-          "params": "Fuente: Polymarket",
+          "event": "Trump out as President before 2027?",
+          "odds": "+1328",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
