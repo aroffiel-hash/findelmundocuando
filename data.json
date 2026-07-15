@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "15 de julio de 2026 — 22:52 UTC",
+  "lastUpdated": "15 de julio de 2026 — 23:53 UTC",
   "ticker": [
+    "Argentina players brandish political Falklands flag after England match",
+    "US Justice Department refuses New Mexico’s request for Epstein files",
+    "‘Really big news’: What to know about Trump’s primetime speech on Thursday",
     "Iran says peace deal voided, fighting ‘existential war’ after US attacks",
     "Argentina stun England in 2-1 comeback win to reach 2026 World Cup final",
     "xAI sues user for exploiting AI tool to sexualise minors",
@@ -12,10 +15,7 @@
     "Pezeshkian vows Iran will defend ‘every inch’ of its territory",
     "Russia pounds Ukraine with missile, drone strikes",
     "French Parliament approves landmark assisted-dying bill",
-    "Ukraine strikes 20 Russian vessels",
-    "The history of the US and Iraq’s complicated relationship",
-    "Protests in Paris, Gaza for release of Hussam Abu Safia",
-    "Fourteen-year-old boy charged over alleged plot targeting London mosques"
+    "Ukraine strikes 20 Russian vessels"
   ],
   "sections": [
     {
@@ -37,6 +37,12 @@
         {
           "event": "Will Ukraine re-enter Uspenivka by December 31?",
           "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Russia capture Novodmytrivka by July 31?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -77,12 +83,6 @@
           "moved": "none"
         },
         {
-          "event": "Will the Workers' Party nominate Lula for President of Brazil by August 15?",
-          "odds": "-2280",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Elmedin Konaković be the next Chairman of the Council of Ministers of Bosnia and Herzegovina?",
           "odds": "+354",
           "params": "Fuente: Polymarket",
@@ -100,12 +100,6 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
-        {
-          "event": "Will Aaron Rai finish in the Top 20 at the 2026 The Open Championship?",
-          "odds": "+257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "T20 Lanka Premier League: Jaffna Kings vs Galle Gallants",
           "odds": "+100",
@@ -145,6 +139,12 @@
         {
           "event": "Will UAE leave the Gulf Cooperation Council  in 2026?",
           "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Collin Morikawa finish in the Top 20 at the 2026 The Open Championship?",
+          "odds": "+170",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
