@@ -1,151 +1,40 @@
 {
-  "lastUpdated": "14 de julio de 2026 — 23:45 UTC",
+  "lastUpdated": "15 de julio de 2026 — 01:46 UTC",
   "ticker": [
+    "US star Balogun knew red card reversal would ‘cause a lot of controversy’",
+    "Spain fans erupt as team reaches World Cup final",
+    "LIVE: Trump says ‘strikes on Iran will continue until I say enough’",
     "Outspoken Moroccan rapper Mehdi El Youbi arrested in Casablanca",
     "Colombian father identified in deadly ICE shooting",
     "Spain deliver masterclass to beat France 2-0 and reach World Cup final",
-    "Are countries prepared to cope with extreme weather?",
-    "World Cup semifinal: Key players to watch in England vs Argentina clash",
     "Why the England shirt feels complicated for some fans this World Cup",
     "Palestine weekly: Israel attacks children, hospitals in bloody week in Gaza",
     "Sirens blare in Bahrain as Iran launches barrage of missiles, drones",
     "US-Russian crew launches on mission to space station",
     "What is Iran’s Pickaxe Mountain?",
-    "Worker killed in furnace explosion fire at Indian recycling plant",
-    "Why Yemen’s long ‘no war, no peace’ deadlock may be ending",
-    "Mahmoud Khalil alleges conspiracy in lawsuit against Trump officials",
-    "New York imposes landmark one-year ban on large data centres",
-    "US Senate Democrats block defence bill over Iran war, Israel integration"
+    "Worker killed in furnace explosion fire at Indian recycling plant"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
       "rows": [
         {
           "event": "Will Ukraine re-enter Uspenivka by December 31?",
           "odds": "+100",
-          "params": "Fuente: Polymarket",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
-      "rows": [
-        {
-          "event": "Will UK annual GDP growth in 2026 be below 0%?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Fed’s lower bound reach 1.75% or lower before 2027?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
       "rows": [
         {
           "event": "Trump out as President before 2027?",
           "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Workers' Party nominate Lula for President of Brazil by August 15?",
-          "odds": "-2339",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Russell Fry be the new Republican nominee for Senate in South Carolina?",
-          "odds": "-212",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Abiy Ahmed be the next Prime Minister of Ethiopia?",
-          "odds": "-2122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Elmedin Konaković be the next Chairman of the Council of Ministers of Bosnia and Herzegovina?",
-          "odds": "+354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?",
-          "odds": "+108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Grüne win the second-most seats in the 2026 Berlin state elections?",
-          "odds": "+244",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will the Democratic Party win the FL-24 House seat?",
-          "odds": "-1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Hylo launch a token by September 30, 2026?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Busan be 37°C on July 16?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Detroit Tigers win the 2026 American League Championship Series?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Boston Legacy FC win on 2026-07-15?",
-          "odds": "+270",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the FL-20 House seat?",
-          "odds": "+1983",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will UAE leave the Gulf Cooperation Council  in 2026?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
