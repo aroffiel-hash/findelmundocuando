@@ -1,27 +1,39 @@
 {
-  "lastUpdated": "15 de julio de 2026 — 01:50 UTC",
+  "lastUpdated": "15 de julio de 2026 — 04:45 UTC",
   "ticker": [
+    "Saving shea: How a Ugandan woman is turning waste into clean energy",
+    "Nearly 75% of Americans think there’s too much money in politics",
+    "Trump welcomes Iraqi PM to White House, vows ‘a lot of deals’",
+    "Argentina happy to be in World Cup semifinal, coach Scaloni says",
+    "Mbappe blames technical, tactical blunders for World Cup semifinal loss",
+    "Spain crashes Paris party by beating France in the World Cup semis",
     "US star Balogun knew red card reversal would ‘cause a lot of controversy’",
     "Spain fans erupt as team reaches World Cup final",
-    "LIVE: Trump says ‘strikes on Iran will continue until I say enough’",
+    "Iran war live: US carries out strikes, IRGC claims damage on US Gulf bases",
     "Outspoken Moroccan rapper Mehdi El Youbi arrested in Casablanca",
     "Colombian father identified in deadly ICE shooting",
     "Spain deliver masterclass to beat France 2-0 and reach World Cup final",
     "Are countries prepared to cope with extreme weather?",
     "World Cup semifinal: Key players to watch in England vs Argentina clash",
-    "Why the England shirt feels complicated for some fans this World Cup",
-    "Palestine weekly: Israel attacks children, hospitals in bloody week in Gaza",
-    "Sirens blare in Bahrain as Iran launches barrage of missiles, drones",
-    "US-Russian crew launches on mission to space station",
-    "What is Iran’s Pickaxe Mountain?",
-    "Worker killed in furnace explosion fire at Indian recycling plant",
-    "Why Yemen’s long ‘no war, no peace’ deadlock may be ending"
+    "Why the England shirt feels complicated for some fans this World Cup"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Will Tesla say \"China\" during earnings call?",
+          "odds": "-1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Iran charges Hormuz fees by October 31?",
+          "odds": "-149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Ukraine re-enter Uspenivka by December 31?",
           "odds": "+100",
@@ -35,20 +47,8 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "S&P 500 (SPY) closes above $750 on July 15?",
-          "odds": "-334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will UK annual GDP growth in 2026 be below 0%?",
           "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Fed’s lower bound reach 1.75% or lower before 2027?",
-          "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -72,7 +72,7 @@
         },
         {
           "event": "Will Abiy Ahmed be the next Prime Minister of Ethiopia?",
-          "odds": "-2122",
+          "odds": "-3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -95,12 +95,6 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the Democratic Party win the FL-24 House seat?",
-          "odds": "-1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Hylo launch a token by September 30, 2026?",
           "odds": "+669",
           "params": "Fuente: Polymarket",
@@ -119,26 +113,32 @@
           "moved": "none"
         },
         {
+          "event": "T20 Lanka Premier League: Jaffna Kings vs Galle Gallants",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "ITF Hillcrest: Luc Koenig vs Jordan Hasson",
           "odds": "-163",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Boston Legacy FC win on 2026-07-15?",
-          "odds": "+270",
+          "event": "ITF Nottingham: Brooke Black vs Oceane Dodin",
+          "odds": "+212",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will GPT-6 be released by August 14, 2026?",
+          "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
           "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will UAE leave the Gulf Cooperation Council  in 2026?",
-          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
