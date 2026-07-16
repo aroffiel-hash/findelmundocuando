@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "16 de julio de 2026 — 01:56 UTC",
+  "lastUpdated": "16 de julio de 2026 — 02:00 UTC",
   "ticker": [
     "Iranian doctor says US strike damaged children’s cancer hospital",
     "Celebrations erupt in Argentina’s capital after World Cup semifinal win",
@@ -12,41 +12,128 @@
     "‘Really big news’: What to know about Trump’s primetime speech on Thursday",
     "Iran says peace deal voided, fighting ‘existential war’ after US attacks",
     "Argentina stun England in 2-1 comeback win to reach 2026 World Cup final",
-    "xAI sues user for exploiting AI tool to sexualise minors"
+    "xAI sues user for exploiting AI tool to sexualise minors",
+    "Authors, publishers sue Google over alleged AI copyright infringement",
+    "Sheinbaum rejects US claim that Mexico’s government is linked to cartels",
+    "What are the obstacles to peace between Israel and Lebanon?"
   ],
   "sections": [
     {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
-      "rows": [
-        {
-          "event": "Will Russia capture Novodmytrivka by July 31?",
-          "odds": "+1011",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇨🇳",
-      "label": "CHINA / PACÍFICO / COREA",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Will Tesla say \"China\" during earnings call?",
           "odds": "-1011",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Russia capture Novodmytrivka by July 31?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will UK annual GDP growth in 2026 be below 0%?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Fed’s lower bound reach 1.75% or lower before 2027?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
           "event": "Will the Democrats win the Louisiana Senate race in 2026?",
           "odds": "+1328",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?",
+          "odds": "+108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Elmedin Konaković be the next Chairman of the Council of Ministers of Bosnia and Herzegovina?",
+          "odds": "+354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "US Government removes public access to another major AI model in 2026?",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "T20 Lanka Premier League: Jaffna Kings vs Galle Gallants",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party win the NV-03 House seat?",
+          "odds": "-376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Khamenei post 10-14 posts from July 14 to July 21, 2026?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will United Airlines say \"Disruption\" during earnings call?",
+          "odds": "-132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will LeBron's next contract average $10M-$15M per year?",
+          "odds": "+331",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will UAE leave the Gulf Cooperation Council  in 2026?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Collin Morikawa finish in the Top 20 at the 2026 The Open Championship?",
+          "odds": "+170",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
