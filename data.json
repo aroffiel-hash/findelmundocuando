@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "16 de julio de 2026 — 22:01 UTC",
+  "lastUpdated": "16 de julio de 2026 — 23:52 UTC",
   "ticker": [
+    "Qatar rejects Israeli reports of military action against Iran",
+    "Sadiq Khan joins House of Lords as outgoing UK PM names 26 new peers",
+    "Former Italian motorway chief sentenced over bridge collapse",
+    "Ilhan Omar renews push for US to join ICC amid Trump pressure",
     "Grand Mosque of Paris celebrates 100-year anniversary",
     "FIFA to probe Argentina’s Falklands banner display at World Cup semifinal",
     "US mounts sixth straight night of attacks as Iran warns of wider war",
@@ -11,11 +15,7 @@
     "Wildfire smoke blankets World Cup final stadium before kickoff",
     "How Syria is redefining ties with Russia",
     "Syria seizes advanced weapons it says were bound for Lebanon’s Hezbollah",
-    "Nicaragua severs diplomatic ties with Italy over 1978 murder case",
-    "How serious is Iran’s threat to disrupt shipping in the Red Sea?",
-    "Iraq says $19M found in hideouts linked to ex-oil minister",
-    "Ebola spreading more quickly in DRC, while Uganda is close to being virus-free",
-    "What could a US ground invasion of Iran look like?"
+    "Nicaragua severs diplomatic ties with Italy over 1978 murder case"
   ],
   "sections": [
     {
@@ -33,6 +33,12 @@
           "odds": "-1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Russia capture Novodmytrivka by July 31?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -45,6 +51,12 @@
           "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will the Fed’s lower bound reach 1.75% or lower before 2027?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -52,6 +64,12 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
+        {
+          "event": "Will the Republicans win the Kentucky Senate race in 2026?",
+          "odds": "-1049",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the Democrats win the Louisiana Senate race in 2026?",
           "odds": "+1328",
@@ -89,14 +107,8 @@
           "moved": "none"
         },
         {
-          "event": "Counter-Strike: Clutchain Female vs OLDBOYS- (BO1) - ESEA Advanced Europe Regular Season",
-          "odds": "+117",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Munich be 31°C on July 17?",
-          "odds": "+3025",
+          "event": "Will the Atlanta Braves win the 2026 World Series?",
+          "odds": "+1269",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -113,14 +125,20 @@
           "moved": "none"
         },
         {
-          "event": "Will the Atlanta Braves win the 2026 World Series?",
-          "odds": "+1288",
+          "event": "Noble FDV above $50M one day after launch?",
+          "odds": "-185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Noble FDV above $50M one day after launch?",
-          "odds": "-185",
+          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will UAE leave the Gulf Cooperation Council  in 2026?",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
