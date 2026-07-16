@@ -1,133 +1,58 @@
 {
-  "lastUpdated": "16 de julio de 2026 — 12:15 UTC",
+  "lastUpdated": "16 de julio de 2026 — 13:26 UTC",
   "ticker": [
+    "US hosts global meet on ‘far-left terror’: Who’s attending, why it matters",
+    "John Esposito, pioneering scholar of Islam in the US, dies aged 86",
+    "Palestinians in Gaza search through homes destroyed by Israeli strikes",
+    "FIFA World Cup 2026: Biggest takeaways from the semifinals",
+    "Thousands to lose their homes as Ivory Coast demolitions begin",
+    "Iran claims strikes on US bases, warns of wider attacks on region",
+    "EU court upholds Spanish amnesty law as compatible with EU law",
     "Venezuela’s recovery clouded by uncertainty three weeks after earthquake",
     "‘Destroyed my whole life’: Lebanese families wiped out in Israeli attacks",
     "Palestinians fight fires after settler attacks in the occupied West Bank",
     "World Cup: Tuchel, Messi and why Argentina beat England in semifinal",
-    "Hundreds protest in Kyiv over Zelenskyy’s dismissal of defence minister",
-    "Fire at orphanage in Algeria kills 11 people, including children",
-    "Climate funding: Who pays for the transition?",
-    "‘Safe passage’: The fatal ambiguity at the heart of the Hormuz MoU",
-    "What is cyclospora? Diarrhoea symptoms, foods linked to US outbreak",
-    "More than 500 feared dead after reports of boats capsizing off Myanmar",
-    "Photos: Messi’s Argentina stun England to reach World Cup final vs Spain",
-    "Decades of denial: Death certificate for disappeared reopens Kashmir wounds",
-    "Yemen is edging closer to renewed confrontation",
-    "FIFA World Cup final: Date, time, halftime show, prediction and Trump",
-    "Why Italy’s Genoa bridge collapse led to one of its biggest criminal trials"
+    "Hundreds protest in Kyiv over Zelenskyy’s dismissal of defence minister"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
           "event": "Israel military action against Yemen by July 21?",
           "odds": "+2280",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Tesla say \"China\" during earnings call?",
-          "odds": "-1011",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
           "moved": "none"
         },
         {
           "event": "Israel withdraws from Lebanon by December 31, 2026?",
           "odds": "+733",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "flag": "🇨🇳",
+      "label": "CHINA / PACÍFICO / COREA",
       "rows": [
         {
-          "event": "Will UK annual GDP growth in 2026 be below 0%?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
+          "event": "Will Tesla say \"China\" during earnings call?",
+          "odds": "-1011",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
         {
           "event": "Will the Democrats win the Louisiana Senate race in 2026?",
           "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?",
-          "odds": "+108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Elmedin Konaković be the next Chairman of the Council of Ministers of Bosnia and Herzegovina?",
-          "odds": "+354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Set Handicap: Shi (-1.5) vs Zhang (+1.5)",
-          "odds": "+104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "T20 Lanka Premier League: Jaffna Kings vs Galle Gallants",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Set Handicap: Valentova (-1.5) vs Sasnovich (+1.5)",
-          "odds": "+112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Beijing be 30°C on July 18?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party win the NV-03 House seat?",
-          "odds": "-376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Khamenei post 10-14 posts from July 14 to July 21, 2026?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Atlanta Braves win the 2026 World Series?",
-          "odds": "+1233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Noble FDV above $50M one day after launch?",
-          "odds": "-185",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
