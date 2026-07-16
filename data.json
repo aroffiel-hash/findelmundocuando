@@ -1,151 +1,52 @@
 {
-  "lastUpdated": "15 de julio de 2026 — 23:53 UTC",
+  "lastUpdated": "16 de julio de 2026 — 01:56 UTC",
   "ticker": [
+    "Iranian doctor says US strike damaged children’s cancer hospital",
+    "Celebrations erupt in Argentina’s capital after World Cup semifinal win",
+    "Wildfire smoke engulfs Toronto, Canada and turns its skies orange",
+    "‘Epic squared’: Scaloni lauds Argentina’s back-to-back World Cup comebacks",
+    "Iran war live: Sirens in Bahrain, Kuwait; US ‘disables’ Iranian oil tanker",
+    "Tuchel defends tactics after Argentina send England packing from World Cup",
     "Argentina players brandish political Falklands flag after England match",
     "US Justice Department refuses New Mexico’s request for Epstein files",
     "‘Really big news’: What to know about Trump’s primetime speech on Thursday",
     "Iran says peace deal voided, fighting ‘existential war’ after US attacks",
     "Argentina stun England in 2-1 comeback win to reach 2026 World Cup final",
-    "xAI sues user for exploiting AI tool to sexualise minors",
-    "Authors, publishers sue Google over alleged AI copyright infringement",
-    "Sheinbaum rejects US claim that Mexico’s government is linked to cartels",
-    "What are the obstacles to peace between Israel and Lebanon?",
-    "What happened in the first half of the England vs Argentina semifinal?",
-    "10 years on from Turkiye’s failed coup attempt on Erdogan",
-    "Pezeshkian vows Iran will defend ‘every inch’ of its territory",
-    "Russia pounds Ukraine with missile, drone strikes",
-    "French Parliament approves landmark assisted-dying bill",
-    "Ukraine strikes 20 Russian vessels"
+    "xAI sues user for exploiting AI tool to sexualise minors"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
       "rows": [
-        {
-          "event": "Will Trump accuse Ukraine of election interference by July 16?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Tesla say \"China\" during earnings call?",
-          "odds": "-1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Ukraine re-enter Uspenivka by December 31?",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Russia capture Novodmytrivka by July 31?",
           "odds": "+1011",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "flag": "🇨🇳",
+      "label": "CHINA / PACÍFICO / COREA",
       "rows": [
         {
-          "event": "Will UK annual GDP growth in 2026 be below 0%?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Fed’s lower bound reach 1.75% or lower before 2027?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
+          "event": "Will Tesla say \"China\" during earnings call?",
+          "odds": "-1011",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
-        {
-          "event": "Trump out as President before 2027?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will the Democrats win the Louisiana Senate race in 2026?",
           "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Elmedin Konaković be the next Chairman of the Council of Ministers of Bosnia and Herzegovina?",
-          "odds": "+354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?",
-          "odds": "+108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "T20 Lanka Premier League: Jaffna Kings vs Galle Gallants",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party win the NV-03 House seat?",
-          "odds": "-376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Khamenei post 10-14 posts from July 14 to July 21, 2026?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will United Airlines say \"Disruption\" during earnings call?",
-          "odds": "-132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will LeBron's next contract average $10M-$15M per year?",
-          "odds": "+331",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will UAE leave the Gulf Cooperation Council  in 2026?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Collin Morikawa finish in the Top 20 at the 2026 The Open Championship?",
-          "odds": "+170",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
