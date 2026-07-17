@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "17 de julio de 2026 — 02:00 UTC",
+  "lastUpdated": "17 de julio de 2026 — 02:04 UTC",
   "ticker": [
+    "‘Trump Accounts’ are symbolic, not effective at closing wealth gap",
+    "North Korean leader Kim Jong Un meets with top Chinese official",
     "Falling debris from intercepted Iranian strikes sparks fires in Kuwait",
     "Brazilian football legend Pele’s World Cup shirt sells for $4.9m",
     "Iran war live: US carries out strikes on civilian infrastructure in south",
@@ -12,47 +14,120 @@
     "Ilhan Omar renews push for US to join ICC amid Trump pressure",
     "Grand Mosque of Paris celebrates 100-year anniversary",
     "FIFA to probe Argentina’s Falklands banner display at World Cup semifinal",
-    "Iran says seven killed in latest US strikes, warns war ‘will spread’"
+    "Iran says seven killed in latest US strikes, warns war ‘will spread’",
+    "Donald Trump live: US president accuses China of election interference"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Israel withdraws from Lebanon by December 31, 2026?",
           "odds": "+733",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇨🇳",
-      "label": "CHINA / PACÍFICO / COREA",
-      "rows": [
+        },
         {
           "event": "Will Tesla say \"China\" during earnings call?",
           "odds": "-1011",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will UK annual GDP growth in 2026 be below 0%?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Fed’s lower bound reach 1.75% or lower before 2027?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
           "event": "Will the Democrats win the Louisiana Senate race in 2026?",
           "odds": "+1328",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Bab el-Mandeb Strait effectively closed by September 30?",
-          "odds": "+316",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?",
+          "odds": "+108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Elmedin Konaković be the next Chairman of the Council of Ministers of Bosnia and Herzegovina?",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Who will finish higher: Leclerc or Piastri?",
+          "odds": "-185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Madrid be 34°C on July 17?",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Munich be 30°C on July 17?",
+          "odds": "+1023",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Atlanta Braves win the 2026 World Series?",
+          "odds": "+1288",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the lowest temperature in Paris be 16°C on July 18?",
+          "odds": "+222",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party win the NV-03 House seat?",
+          "odds": "-376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Bunschoten: Tom Gentzsch vs Max Houkes",
+          "odds": "-112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Noble FDV above $50M one day after launch?",
+          "odds": "-185",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
