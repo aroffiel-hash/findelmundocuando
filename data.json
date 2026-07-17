@@ -1,157 +1,52 @@
 {
-  "lastUpdated": "17 de julio de 2026 — 11:23 UTC",
+  "lastUpdated": "17 de julio de 2026 — 13:11 UTC",
   "ticker": [
+    "US seeks extradition of wealthy pro-Palestine donor from Spain",
+    "US marines board commercial tanker in Gulf of Oman",
+    "China slams Trump’s claims over 2020 US election interference",
+    "Church of England backs Palestinian Christians despite backlash",
+    "Did China steal 2020 US election data, as Trump claims?",
+    "‘Yuba’ – My dear father",
+    "The Church of England has taken a long-overdue step on Palestine",
+    "Why is the US attacking southern Iran’s civilian infrastructure?",
+    "Japan passes legislation banning violation of national flag",
     "Trump’s new election push, explained",
     "India debuts hydrogen-powered train as part of sustainability drive",
-    "World Cup third-place playoff: What are France and England playing for?",
-    "Knesset dissolves: How will Israel vote in October’s general election?",
-    "Has Ukraine’s Zelenskyy created a rival by sacking his defence minister?",
-    "As Chinese economy slows, experts say there will be ‘problems for Beijing’",
-    "FIFA World Cup: 10 things to know before Spain-Argentina final in New York",
-    "Israel headed for October election as parliament dissolved",
-    "Germany repeats call for EU force to replace UN peacekeepers in Lebanon",
-    "US strikes destroy key bridges, tower in southern Iran",
-    "Watch FIFA World Cup: Argentina arrives in New Jersey ahead of Spain final",
-    "Gulf states come under Iranian fire as US strikes intensify",
-    "US attacks southern Iran, as Tehran hits Gulf countries: What’s the latest?",
-    "Why is Pakistan’s Sindh province facing a major child HIV outbreak?",
-    "John Esposito transformed how the West understood Islam"
+    "Knesset dissolves: How will Israel vote in October’s general election?"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
-        {
-          "event": "Valorant: TYLOO vs FunPlus Phoenix (BO3) - VCT China Stage 2 Group Alpha",
-          "odds": "+108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Israel withdraws from Lebanon by December 31, 2026?",
           "odds": "+733",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
           "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "🇨🇳",
+      "label": "CHINA / PACÍFICO / COREA",
+      "rows": [
         {
           "event": "Will Tesla say \"China\" during earnings call?",
           "odds": "-1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Warsaw be 25°C on July 18?",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Iran full airspace closure by July 31?",
-          "odds": "+300",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
-      "rows": [
-        {
-          "event": "Will UK annual GDP growth in 2026 be below 0%?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $85 in July?",
-          "odds": "-138",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Fed’s lower bound reach 1.75% or lower before 2027?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
         {
           "event": "Will the Democrats win the Louisiana Senate race in 2026?",
           "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?",
-          "odds": "+108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Elmedin Konaković be the next Chairman of the Council of Ministers of Bosnia and Herzegovina?",
-          "odds": "+376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will the Republican Party win the OH-10 House seat?",
-          "odds": "-284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Who will finish higher: Leclerc or Piastri?",
-          "odds": "-185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Londrina EC vs. Botafogo FC: Both Teams to Score",
-          "odds": "+104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "ITF Kursumlijska Banja: Pierre Delage vs Timofei Derepasko",
-          "odds": "-2399",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Atlanta Braves win the 2026 World Series?",
-          "odds": "+1288",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party win the NV-03 House seat?",
-          "odds": "-376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Madrid be 35°C on July 18?",
-          "odds": "+2602",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Noble FDV above $50M one day after launch?",
-          "odds": "-185",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
