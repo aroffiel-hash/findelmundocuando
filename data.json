@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "17 de julio de 2026 — 07:58 UTC",
+  "lastUpdated": "17 de julio de 2026 — 09:58 UTC",
   "ticker": [
+    "Germany repeats call for EU force to replace UN peacekeepers in Lebanon",
+    "US strikes destroy key bridges, tower in southern Iran",
+    "Watch FIFA World Cup: Argentina arrives in New Jersey ahead of Spain final",
+    "Gulf states come under Iranian fire as US strikes intensify",
+    "US attacks southern Iran, as Tehran hits Gulf countries: What’s the latest?",
     "Why is Pakistan’s Sindh province facing a major child HIV outbreak?",
     "John Esposito transformed how the West understood Islam",
     "China’s Xi says AI ‘should not be a solo performance by a single country’",
@@ -10,12 +15,7 @@
     "Israeli settlers attack Sinjil town in occupied West Bank",
     "China rebukes UK over nationalisation of British Steel",
     "Which players are favourites to be FIFA World Cup 2026 award winners?",
-    "Iranian sources say US strikes hit civilian infrastructure",
-    "IEA chief warns Strait of Hormuz crisis threatens global energy security",
-    "Goa’s forgotten orchata drink lives on in family kitchens",
-    "How three Ivorian firms are competing with global brands",
-    "‘Trump Accounts’ are symbolic, not effective at closing wealth gap",
-    "North Korean leader Kim Jong Un meets with top Chinese official"
+    "Iranian sources say US strikes hit civilian infrastructure"
   ],
   "sections": [
     {
@@ -51,6 +51,12 @@
           "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $85 in July?",
+          "odds": "-104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -83,6 +89,12 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Iasi Open: Tamara Zidansek vs Petra Marcinko",
+          "odds": "+177",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Who will finish higher: Leclerc or Piastri?",
           "odds": "-185",
           "params": "Fuente: Polymarket",
@@ -95,14 +107,14 @@
           "moved": "none"
         },
         {
-          "event": "Will the Democratic Party win the NV-03 House seat?",
-          "odds": "-376",
+          "event": "Map Handicap: 3DMAX (-1.5) vs Gentle Mates (+1.5)",
+          "odds": "+222",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Seoul be 27°C on July 18?",
-          "odds": "+194",
+          "event": "Will the Democratic Party win the NV-03 House seat?",
+          "odds": "-376",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -121,12 +133,6 @@
         {
           "event": "Will Jeju SK FC win on 2026-07-18?",
           "odds": "+222",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will UAE leave the Gulf Cooperation Council  in 2026?",
-          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
