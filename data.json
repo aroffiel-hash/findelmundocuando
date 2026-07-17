@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "17 de julio de 2026 — 22:41 UTC",
+  "lastUpdated": "17 de julio de 2026 — 23:45 UTC",
   "ticker": [
+    "EU urges Israel to halt settlement expansion as settlers attack children",
+    "Trump threatens Canada with steeper tariff costs over wildfire smoke",
     "Iraq signs deals with Western oil firms, including to revive Syria pipeline",
     "US launches seventh straight night of strikes on Iran",
     "Tackling Messi ‘huge challenge’ for Spain in World Cup final: Merino",
@@ -13,9 +15,7 @@
     "Suspected Somali pirates seize tanker near Yemen amid wave of hijackings",
     "Top IRS lawyer to resign post amid disagreements with Trump administration",
     "Israel, Gaza and the future of US power",
-    "How an Italian sculptor created the iconic World Cup trophy",
-    "At least two dead as heavy rains, floods strike central Texas",
-    "Will the Canadian wildfire smoke affect Spain vs Argentina World Cup final?"
+    "How an Italian sculptor created the iconic World Cup trophy"
   ],
   "sections": [
     {
@@ -31,6 +31,12 @@
         {
           "event": "Will Tesla say \"China\" during earnings call?",
           "odds": "-1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump say \"Iran\" 3+ times during White House Correspondents Dinner?",
+          "odds": "+132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -81,6 +87,12 @@
           "odds": "+376",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will David Crowley win the 2026 Wisconsin Governor Democratic primary election?",
+          "odds": "+385",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -97,18 +109,6 @@
         {
           "event": "Who will finish higher: Leclerc or Piastri?",
           "odds": "-185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "LoL: University of Mississippi vs Winthrop University (BO3) - North American Challengers League Group Stage",
-          "odds": "+149",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump be in the WC Champions Photo?",
-          "odds": "-222",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -133,6 +133,18 @@
         {
           "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
           "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will UAE leave the Gulf Cooperation Council  in 2026?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will NYC have between 4 and 5 inches of precipitation in July?",
+          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
