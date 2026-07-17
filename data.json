@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "17 de julio de 2026 — 13:11 UTC",
+  "lastUpdated": "17 de julio de 2026 — 13:13 UTC",
   "ticker": [
+    "Satellite images show damage inside Iran’s Bushehr nuclear power plant",
+    "Ukraine ‘cuts off’ Crimea from Russia, plunging it into an energy crisis",
+    "‘Offer he can’t refuse’: Is Italy’s mafia law breaking crime or families?",
+    "Deadly storm leaves half a million without power in Chile",
     "US seeks extradition of wealthy pro-Palestine donor from Spain",
     "US marines board commercial tanker in Gulf of Oman",
     "China slams Trump’s claims over 2020 US election interference",
@@ -11,42 +15,125 @@
     "Why is the US attacking southern Iran’s civilian infrastructure?",
     "Japan passes legislation banning violation of national flag",
     "Trump’s new election push, explained",
-    "India debuts hydrogen-powered train as part of sustainability drive",
-    "Knesset dissolves: How will Israel vote in October’s general election?"
+    "India debuts hydrogen-powered train as part of sustainability drive"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Israel withdraws from Lebanon by December 31, 2026?",
           "odds": "+733",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇨🇳",
-      "label": "CHINA / PACÍFICO / COREA",
-      "rows": [
+        },
         {
           "event": "Will Tesla say \"China\" during earnings call?",
           "odds": "-1011",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will UK annual GDP growth in 2026 be below 0%?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Fed’s lower bound reach 1.75% or lower before 2027?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "ITF Vitoria-Gasteiz: Katarina Kuzmova vs Kira Pavlova",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
           "event": "Will the Democrats win the Louisiana Senate race in 2026?",
           "odds": "+1328",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?",
+          "odds": "+108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Elmedin Konaković be the next Chairman of the Council of Ministers of Bosnia and Herzegovina?",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will the Republican Party win the OH-10 House seat?",
+          "odds": "-284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Who will finish higher: Leclerc or Piastri?",
+          "odds": "-185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Londrina EC vs. Botafogo FC: Both Teams to Score",
+          "odds": "+104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Atlanta Braves win the 2026 World Series?",
+          "odds": "+1288",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party win the NV-03 House seat?",
+          "odds": "-376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Noble FDV above $50M one day after launch?",
+          "odds": "-185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jeju SK FC win on 2026-07-18?",
+          "odds": "+222",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
