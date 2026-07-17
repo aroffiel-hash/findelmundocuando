@@ -1,145 +1,58 @@
 {
-  "lastUpdated": "16 de julio de 2026 — 23:52 UTC",
+  "lastUpdated": "17 de julio de 2026 — 02:00 UTC",
   "ticker": [
+    "Falling debris from intercepted Iranian strikes sparks fires in Kuwait",
+    "Brazilian football legend Pele’s World Cup shirt sells for $4.9m",
+    "Iran war live: US carries out strikes on civilian infrastructure in south",
+    "Venezuela earthquake: Number of known dead rises to nearly 5,000 victims",
+    "Vietnamese activist Bao Ngoc places rare national spotlight on Gaza",
     "Qatar rejects Israeli reports of military action against Iran",
     "Sadiq Khan joins House of Lords as outgoing UK PM names 26 new peers",
     "Former Italian motorway chief sentenced over bridge collapse",
     "Ilhan Omar renews push for US to join ICC amid Trump pressure",
     "Grand Mosque of Paris celebrates 100-year anniversary",
     "FIFA to probe Argentina’s Falklands banner display at World Cup semifinal",
-    "US mounts sixth straight night of attacks as Iran warns of wider war",
-    "Donald Trump live: US president to deliver primetime address on elections",
-    "The hardest party to manage in the Iran talks isn’t Iran",
-    "Palestinians injured in Israeli settler attacks across West Bank",
-    "Syria says it foiled Hezbollah weapons shipment",
-    "Wildfire smoke blankets World Cup final stadium before kickoff",
-    "How Syria is redefining ties with Russia",
-    "Syria seizes advanced weapons it says were bound for Lebanon’s Hezbollah",
-    "Nicaragua severs diplomatic ties with Italy over 1978 murder case"
+    "Iran says seven killed in latest US strikes, warns war ‘will spread’"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
           "event": "Israel withdraws from Lebanon by December 31, 2026?",
           "odds": "+733",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
           "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "🇨🇳",
+      "label": "CHINA / PACÍFICO / COREA",
+      "rows": [
         {
           "event": "Will Tesla say \"China\" during earnings call?",
           "odds": "-1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Russia capture Novodmytrivka by July 31?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
-        {
-          "event": "Will UK annual GDP growth in 2026 be below 0%?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Fed’s lower bound reach 1.75% or lower before 2027?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will the Republicans win the Kentucky Senate race in 2026?",
-          "odds": "-1049",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will the Democrats win the Louisiana Senate race in 2026?",
           "odds": "+1328",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
-          "event": "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?",
-          "odds": "+108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Elmedin Konaković be the next Chairman of the Council of Ministers of Bosnia and Herzegovina?",
-          "odds": "+376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Map 3 Total Rounds: Over/Under 20.5",
-          "odds": "-122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Who will finish higher: Leclerc or Piastri?",
-          "odds": "-185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Atlanta Braves win the 2026 World Series?",
-          "odds": "+1269",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party win the NV-03 House seat?",
-          "odds": "-376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party win the NC-05 House seat?",
-          "odds": "+747",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Noble FDV above $50M one day after launch?",
-          "odds": "-185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will UAE leave the Gulf Cooperation Council  in 2026?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
+          "event": "Bab el-Mandeb Strait effectively closed by September 30?",
+          "odds": "+316",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
