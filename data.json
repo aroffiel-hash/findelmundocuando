@@ -1,9 +1,11 @@
 {
-  "lastUpdated": "18 de julio de 2026 — 08:46 UTC",
+  "lastUpdated": "18 de julio de 2026 — 10:13 UTC",
   "ticker": [
+    "Argentina’s New York fans share hopes before 2026 World Cup final",
+    "Watch FIFA World Cup: Messi, Rodri comment ahead of Argentina-Spain final",
     "World Cup final: Spain vs Argentina – Which team has best chance to win?",
     "Palestine football fans honour Egyptian coach Hossam Hassan",
-    "World Cup final weekend: France vs England prediction, schedule, news",
+    "From France vs England to Messi vs Yamal: World Cup final weekend",
     "Kolkata sings for Messi as World Cup fever takes hold",
     "France vs England: Deschamps set for final World Cup match as Zidane waits",
     "Israel’s ‘Crimson Thread’ military barrier is strangling the West Bank",
@@ -13,9 +15,7 @@
     "A seventh night of US strikes cuts water to villages in Iran’s south",
     "Trump jokes that England turned Harry Kane into a ‘defensive player’",
     "Mandela Day: What his legacy means in today’s South Africa",
-    "Manila protests ‘racist’ portrayal of Filipinos in China Daily videos",
-    "At least 14 dead after minibus rolls off mountain road in Peru",
-    "Venice protesters rally against US ambassador’s superyacht tour"
+    "Manila protests ‘racist’ portrayal of Filipinos in China Daily videos"
   ],
   "sections": [
     {
@@ -89,6 +89,12 @@
           "moved": "none"
         },
         {
+          "event": "Will the highest temperature in Munich be 26°C on July 18?",
+          "odds": "+114",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Who will finish higher: Leclerc or Piastri?",
           "odds": "-185",
           "params": "Fuente: Polymarket",
@@ -96,7 +102,13 @@
         },
         {
           "event": "Will the Atlanta Braves win the 2026 World Series?",
-          "odds": "+1308",
+          "odds": "+1288",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will OpenAI's valuation hit (HIGH) $900B by December 31?",
+          "odds": "-284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -107,26 +119,14 @@
           "moved": "none"
         },
         {
-          "event": "Will OpenAI's valuation hit (HIGH) $900B by December 31?",
-          "odds": "-270",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Dallas be between 96-97°F on July 19?",
-          "odds": "+233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will AD Cali win on 2026-07-24?",
           "odds": "-170",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the Democratic Party win the NV-03 House seat?",
-          "odds": "-376",
+          "event": "Noble FDV above $50M one day after launch?",
+          "odds": "-185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
