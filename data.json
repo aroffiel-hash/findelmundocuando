@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "18 de julio de 2026 — 12:59 UTC",
+  "lastUpdated": "18 de julio de 2026 — 14:21 UTC",
   "ticker": [
+    "China warns UK over British Steel nationalisation, demands fair resolution",
+    "Top German conservative quits after surrogacy sparks backlash within party",
+    "FIFA World Cup: Spain vs Argentina – What to know ahead of the final",
+    "Death toll from Uganda school bus crash rises to 24",
+    "Iran accuses US of striking critical infrastructure as war intensifies",
+    "Ukrainian strikes hit Russian logistics center",
     "Europe should look to Africa for heatwave solutions",
     "India achieves milestone with launch of first private-sector orbital rocket",
     "India’s salt workers: The human cost of the world’s most popular seasoning",
@@ -9,13 +15,7 @@
     "Argentina’s New York fans share hopes before 2026 World Cup final",
     "Watch FIFA World Cup: Messi, Rodri comment ahead of Argentina-Spain final",
     "World Cup final: Spain vs Argentina – Which team has best chance to win?",
-    "Palestine football fans honour Egyptian coach Hossam Hassan",
-    "World Cup: France vs England prediction, final schedule, latest news",
-    "Kolkata sings for Messi as World Cup fever takes hold",
-    "France vs England: Deschamps set for final World Cup match as Zidane waits",
-    "Israel’s ‘Crimson Thread’ military barrier is strangling the West Bank",
-    "Canadian wildfire smoke shrouds US, potential risk for World Cup final",
-    "Tuchel: England carry ‘scars’ of World Cup heartbreak into France playoff"
+    "Palestine football fans honour Egyptian coach Hossam Hassan"
   ],
   "sections": [
     {
@@ -31,6 +31,12 @@
         {
           "event": "Will Tesla say \"China\" during earnings call?",
           "odds": "-1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Tadej Pogačar be awarded the Polka Dot Jersey at the 2026 Tour De France?",
+          "odds": "-177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -69,6 +75,12 @@
           "odds": "+376",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Javier Milei win the 2027 Argentina presidential election?",
+          "odds": "+112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -76,12 +88,6 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
-        {
-          "event": "Will there be a red flag during the 2026 F1 Belgian Grand Prix?",
-          "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Who will finish higher: Leclerc or Piastri?",
           "odds": "-185",
@@ -113,14 +119,20 @@
           "moved": "none"
         },
         {
-          "event": "Noble FDV above $50M one day after launch?",
-          "odds": "-185",
+          "event": "Will the Houthis successfully target shipping by July 17, 2026?",
+          "odds": "+1685",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
-          "odds": "+1011",
+          "event": "Will the highest temperature in Tel Aviv be 34°C on July 19?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Noble FDV above $50M one day after launch?",
+          "odds": "-185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
