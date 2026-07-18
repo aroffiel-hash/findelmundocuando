@@ -1,127 +1,40 @@
 {
-  "lastUpdated": "18 de julio de 2026 — 11:48 UTC",
+  "lastUpdated": "18 de julio de 2026 — 12:58 UTC",
   "ticker": [
+    "India achieves milestone with launch of first private-sector orbital rocket",
+    "India’s salt workers: The human cost of the world’s most popular seasoning",
     "Ukrainian drone attacks on Russia kill at least 8, wound dozens",
     "Indian police forcibly hospitalise activist after 20-day hunger strike",
     "Argentina’s New York fans share hopes before 2026 World Cup final",
     "Watch FIFA World Cup: Messi, Rodri comment ahead of Argentina-Spain final",
-    "World Cup final: Spain vs Argentina – Which team has best chance to win?",
     "Palestine football fans honour Egyptian coach Hossam Hassan",
-    "World Cup: France vs England prediction, final schedule, latest news",
     "Kolkata sings for Messi as World Cup fever takes hold",
-    "France vs England: Deschamps set for final World Cup match as Zidane waits",
     "Israel’s ‘Crimson Thread’ military barrier is strangling the West Bank",
     "Canadian wildfire smoke shrouds US, potential risk for World Cup final",
-    "Tuchel: England carry ‘scars’ of World Cup heartbreak into France playoff",
     "Messi reflects on pressure and competition ahead of World Cup final",
-    "A seventh night of US strikes cuts water to villages in Iran’s south",
-    "Trump jokes that England turned Harry Kane into a ‘defensive player’"
+    "A seventh night of US strikes cuts water to villages in Iran’s south"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
+      "rows": [
+        {
+          "event": "Iran military action against a Gulf State on July 27?",
+          "odds": "+222",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇨🇳",
+      "label": "CHINA / PACÍFICO / COREA",
       "rows": [
         {
           "event": "Will Tesla say \"China\" during earnings call?",
           "odds": "-1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will United Russia win between 310 and 324 seats in the next Russian State Duma election?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
-      "rows": [
-        {
-          "event": "Will the Fed’s lower bound reach 1.75% or lower before 2027?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?",
-          "odds": "+108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Zohran Mamdani be the 2028 Democratic Vice-Presidential nominee?",
-          "odds": "+1392",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Elmedin Konaković be the next Chairman of the Council of Ministers of Bosnia and Herzegovina?",
-          "odds": "+376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will there be a red flag during the 2026 F1 Belgian Grand Prix?",
-          "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Who will finish higher: Leclerc or Piastri?",
-          "odds": "-185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Atlanta Braves win the 2026 World Series?",
-          "odds": "+1308",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Honeywell Technologies (HON) Q2 Building Automation sales be above $1.85B?",
-          "odds": "-3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the next Google Gemini Pro model be released by July 29, 2026?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will AD Cali win on 2026-07-24?",
-          "odds": "-170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Noble FDV above $50M one day after launch?",
-          "odds": "-185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
           "moved": "none"
         }
       ]
