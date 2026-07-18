@@ -1,151 +1,64 @@
 {
-  "lastUpdated": "17 de julio de 2026 — 23:45 UTC",
+  "lastUpdated": "18 de julio de 2026 — 01:50 UTC",
   "ticker": [
+    "Analyst questions Trump’s renewed focus on US election integrity",
+    "Landslide in southwest China kills eight and leaves 34 missing",
+    "Trump Media reportedly mulling fee for first access to social media posts",
+    "UK by-election sees record 34 candidates as Farage seeks return",
+    "Homeland Security Secretary Mullin reiterates Trump threats about elections",
+    "Iran war live: US and Iran exchange deadly attacks for 7th night",
     "EU urges Israel to halt settlement expansion as settlers attack children",
     "Trump threatens Canada with steeper tariff costs over wildfire smoke",
     "Iraq signs deals with Western oil firms, including to revive Syria pipeline",
     "US launches seventh straight night of strikes on Iran",
     "Tackling Messi ‘huge challenge’ for Spain in World Cup final: Merino",
-    "Herbert leads British Open golf, equals record lowest score at a major",
-    "Star speedcubers square off at European championship",
-    "ICE agent behind fatal shooting in Maine reportedly had troubled history",
-    "Food emergency deepens across Uganda’s Karamoja",
-    "World Cup winners to receive US-style championship rings, FIFA says",
-    "Houthi supporters rally in Sanaa against ‘Saudi-led blockade’",
-    "Suspected Somali pirates seize tanker near Yemen amid wave of hijackings",
-    "Top IRS lawyer to resign post amid disagreements with Trump administration",
-    "Israel, Gaza and the future of US power",
-    "How an Italian sculptor created the iconic World Cup trophy"
+    "Herbert leads British Open golf, equals record lowest score at a major"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
           "event": "Israel withdraws from Lebanon by December 31, 2026?",
           "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Tesla say \"China\" during earnings call?",
-          "odds": "-1011",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
           "moved": "none"
         },
         {
           "event": "Will Trump say \"Iran\" 3+ times during White House Correspondents Dinner?",
           "odds": "+132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
-      "rows": [
-        {
-          "event": "Will UK annual GDP growth in 2026 be below 0%?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
           "moved": "none"
         },
         {
-          "event": "Will the Fed’s lower bound reach 1.75% or lower before 2027?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
+          "event": "Iran successfully targets shipping on July 17?",
+          "odds": "-1328",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🇨🇳",
+      "label": "CHINA / PACÍFICO / COREA",
+      "rows": [
+        {
+          "event": "Will Tesla say \"China\" during earnings call?",
+          "odds": "-1011",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
         {
           "event": "Will the Democrats win the Louisiana Senate race in 2026?",
           "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?",
-          "odds": "+108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Zohran Mamdani be the 2028 Democratic Vice-Presidential nominee?",
-          "odds": "+1392",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Elmedin Konaković be the next Chairman of the Council of Ministers of Bosnia and Herzegovina?",
-          "odds": "+376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will David Crowley win the 2026 Wisconsin Governor Democratic primary election?",
-          "odds": "+385",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will there be a red flag during the 2026 F1 Belgian Grand Prix?",
-          "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Who will finish higher: Leclerc or Piastri?",
-          "odds": "-185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Atlanta Braves win the 2026 World Series?",
-          "odds": "+1288",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party win the NV-03 House seat?",
-          "odds": "-376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Noble FDV above $50M one day after launch?",
-          "odds": "-185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will UAE leave the Gulf Cooperation Council  in 2026?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will NYC have between 4 and 5 inches of precipitation in July?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
