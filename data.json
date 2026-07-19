@@ -1,58 +1,133 @@
 {
-  "lastUpdated": "19 de julio de 2026 — 13:00 UTC",
+  "lastUpdated": "19 de julio de 2026 — 13:01 UTC",
   "ticker": [
+    "Why have India’s Gen Z protesters called for a march to parliament?",
     "Indian court rejects bid to release hunger-striking activist from hospital",
     "Spain or Argentina, who will win the FIFA World Cup? Ex-player predictions",
     "India’s cockroach politics is no joke",
+    "FIFA World Cup: Tobin Heath on record goals, France and Lamine Yamal",
     "Guyana ferry with 116 people on board capsizes; more than 50 rescued",
+    "Iranians suffer from power blackouts during war and heatwave",
     "Why is India vetting books in Kashmir in search of ‘anti-national’ content?",
     "Gaza cheers for Spain as World Cup final anticipation mounts",
+    "Du Plessis makes winning return to UFC with dominant decision over Usman",
     "World Cup 2026 final: Closing ceremony and half-time show – what to know",
     "Seven more people rescued after boat sinks in Indonesia, 18 still missing",
     "US launches new Iran strikes after two soldiers killed: What’s the latest?",
     "From settlements to blocked recovery: Israeli strategy taking shape in Gaza",
-    "Spain fans bring the party to New York before World Cup final",
-    "Watch FIFA World Cup: Argentina, Spain make preparations ahead of final"
+    "Spain fans bring the party to New York before World Cup final"
   ],
   "sections": [
     {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Will Tesla say \"China\" during earnings call?",
+          "odds": "-1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Ukraine agrees to limit size of armed forces before 2027?",
           "odds": "+900",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Bank of Russia make no change to the key rate after the September Meeting?",
           "odds": "+143",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇨🇳",
-      "label": "CHINA / PACÍFICO / COREA",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will Tesla say \"China\" during earnings call?",
-          "odds": "-1011",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
+          "event": "Will the Fed’s lower bound reach 1.75% or lower before 2027?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Donald Trump post 140-159 Truth Social posts from July 14 to July 21, 2026?",
-          "odds": "+900",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?",
+          "odds": "+108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Marco Rubio win the 2028 Republican presidential nomination?",
+          "odds": "+257",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Manuel Valls be on the ballot for the 2027 French presidential election?",
+          "odds": "+3025",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will Honeywell Technologies (HON) Q2 Building Automation sales be above $1.85B?",
+          "odds": "-3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the TX-27 House seat?",
+          "odds": "-870",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will SpaceX Starship Flight Test 13 Superheavy explode?",
+          "odds": "-376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the next Google Gemini Pro model be released by July 29, 2026?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will AD Cali win on 2026-07-24?",
+          "odds": "-170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will IF Elfsborg vs. IK Sirius end in a draw?",
+          "odds": "+284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Giuliano Simeone: 1+ goals",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will MegaETH perform an airdrop by December 31, 2026?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
