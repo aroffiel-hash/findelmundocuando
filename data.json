@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "19 de julio de 2026 — 20:05 UTC",
+  "lastUpdated": "19 de julio de 2026 — 21:43 UTC",
   "ticker": [
+    "Israeli ministers join march to Gaza to demand return of settlements",
+    "World Cup 2026: What are the extra time and penalty shootout rules?",
+    "What happened in the first half of the Spain vs Argentina World Cup final?",
+    "Andy Burnham’s in-tray: The challenges facing the new UK PM",
+    "Twin earthquakes strike Peru killing at least five",
+    "The UK gets its seventh prime minister in 10 years",
     "Five passengers found drifting days after boat sinks in Indonesia",
     "Fans light up NYC’s Little Argentina ahead of Spain World Cup final clash",
     "Trump visit causes logistical delays at World Cup final",
@@ -9,25 +15,13 @@
     "‘Sacred unity’: Iran’s supreme leader calls for calm amid political divides",
     "At least 50 Malian soldiers killed in attack on military convoy",
     "Lebanon’s President Joseph Aoun meets Rubio ahead of Trump talks",
-    "NYC swells with Spanish, Argentinian fans anticipating World Cup glory",
-    "What happened to the Jewish left?",
-    "Iraqi-born singer Emmanuel Kelly among World Cup half-time show headliners",
-    "Syria’s Al-Sharaa reshuffles security and intelligence leadership",
-    "Israeli settlers torch homes and mosque in Masafer Yatta",
-    "5.6 magnitude earthquake hits Peru",
-    "Israel uses law to destroy Palestinian education in East Jerusalem"
+    "NYC swells with Spanish, Argentinian fans anticipating World Cup glory"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Israel x Iran ceasefire continues through August 15?",
-          "odds": "+122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Tesla say \"China\" during earnings call?",
           "odds": "-1011",
@@ -49,6 +43,12 @@
         {
           "event": "Will the Bank of Russia make no change to the key rate after the September Meeting?",
           "odds": "+163",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Putin out as President of Russia by June 30, 2027?",
+          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -84,7 +84,13 @@
         },
         {
           "event": "Will Marco Rubio win the 2028 Republican presidential nomination?",
-          "odds": "+266",
+          "odds": "+269",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Manuel Valls be on the ballot for the 2027 French presidential election?",
+          "odds": "+3025",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -95,14 +101,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Honeywell Technologies (HON) Q2 Building Automation sales be above $1.85B?",
-          "odds": "-3233",
+          "event": "Will the highest temperature in Toronto be 25°C on July 20?",
+          "odds": "+222",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Wellington be 13°C on July 21?",
-          "odds": "+104",
+          "event": "Will Honeywell Technologies (HON) Q2 Building Automation sales be above $1.85B?",
+          "odds": "-3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
