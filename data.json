@@ -1,139 +1,52 @@
 {
-  "lastUpdated": "18 de julio de 2026 — 23:46 UTC",
+  "lastUpdated": "19 de julio de 2026 — 02:00 UTC",
   "ticker": [
+    "FIFA admits hydration breaks may not continue after World Cup criticism",
+    "Argentina fans flood NYC’s Times Square before World Cup final",
+    "Exiled Cuban artist Otero Alcantara has arrived in US, Rubio confirms",
+    "A giant cake for Venezuelan quake child survivors as death toll passes 5000",
+    "Netanyahu declares support for Argentina ahead of World Cup final",
+    "Iran war live: US launches new strikes; Trump mourns killed soldiers",
+    "Saka hat-trick helps England down France to win World Cup 2026 Bronze Final",
+    "Kylian Mbappe breaks all-time World Cup scoring record with 22nd goal",
     "World Cup final tickets near $2.3m mark on FIFA’s resale platform",
     "Cockroach Party protest intensifies after Wangchuk forcibly hospitalised",
     "Latin America unites to cheer against Argentina in FIFA World Cup final",
-    "Palestinian teenage footballer dies a week after Israeli settler attack",
-    "Drone video shows scale of major wildfire in northern Spain",
-    "Why has the ‘ceasefire’ in Gaza failed to stop Israel’s attacks?",
-    "All to know about Canadian wildfire smoke, air quality and World Cup final",
-    "Thousands rally in London in support of Gaza, demand new PM take action",
-    "Iran supreme leader warns of ‘unforgettable lessons’ if US attacks continue",
-    "Israeli attacks on residential areas in Gaza kill eight",
-    "New York’s Mamdani says looking into Netanyahu arrest during city visit",
-    "Damage visible at Iran bridges and water plant after US attacks",
-    "US military says two service members killed in Iranian strike in Jordan",
-    "England 6-4 France LIVE: FIFA World Cup 2026",
-    "Lebanon’s Aoun to meet Trump in Washington to discuss Israel talks"
+    "Palestinian teenage footballer dies a week after Israeli settler attack"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
+      "rows": [
+        {
+          "event": "Ukraine agrees to limit size of armed forces before 2027?",
+          "odds": "+900",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇨🇳",
+      "label": "CHINA / PACÍFICO / COREA",
       "rows": [
         {
           "event": "Will Tesla say \"China\" during earnings call?",
           "odds": "-1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Ukraine agrees to limit size of armed forces before 2027?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "China x Japan military clash before 2027?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
       "rows": [
         {
-          "event": "Will the Fed’s lower bound reach 1.75% or lower before 2027?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will Javier Milei win the 2027 Argentina presidential election?",
-          "odds": "+112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?",
-          "odds": "+108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Zohran Mamdani be the 2028 Democratic Vice-Presidential nominee?",
-          "odds": "+1392",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Elmedin Konaković be the next Chairman of the Council of Ministers of Bosnia and Herzegovina?",
-          "odds": "+376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Who will finish higher: Leclerc or Piastri?",
-          "odds": "-185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Chongqing be 40°C on July 20?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Honeywell Technologies (HON) Q2 Building Automation sales be above $1.85B?",
-          "odds": "-3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the next Google Gemini Pro model be released by July 29, 2026?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will AD Cali win on 2026-07-24?",
-          "odds": "-170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will MegaETH perform an airdrop by December 31, 2026?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Jordan Bardella leave the National Rally by December 31, 2026?",
-          "odds": "+2531",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Noble FDV above $50M one day after launch?",
-          "odds": "-185",
-          "params": "Fuente: Polymarket",
+          "event": "Will Trump say \"Movie Star\" during White House Correspondents Dinner?",
+          "odds": "+244",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
