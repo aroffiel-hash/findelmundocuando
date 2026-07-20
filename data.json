@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "20 de julio de 2026 — 22:52 UTC",
+  "lastUpdated": "20 de julio de 2026 — 23:51 UTC",
   "ticker": [
+    "Suspect charged in fatal attack on UK politician Ann Widdecombe",
+    "Argentina, minus Messi, return home after World Cup final heartbreak",
+    "What are the new British Prime Minister’s biggest challenges?",
+    "Chaos in India as ‘Cockroach activists’ march on parliament",
+    "War on Iran: War resumes 30 days after MoU",
     "Moroccan-born man dies while detained by police in Italy",
     "World Cup champions Spain return to royal welcome, parade through Madrid",
     "Albanian protesters pelt lawmakers’ cars over resort projects",
@@ -10,24 +15,13 @@
     "Gaza residents weigh in on election of new Hamas leader",
     "How will Zelenskyy handle the growing political crisis at home?",
     "Ortega insists no more elections for Nicaragua",
-    "Man arrested after fire outside New York immigration court",
-    "Monsoon-driven flash flooding kills at least 20 in Afghanistan",
-    "Indian police attack Cockroach Janta Party’s parliament march",
-    "Iran condemns US attacks on civilian infrastructure",
-    "What does Khalil al-Hayya’s election win mean for Gaza?",
-    "Yemeni women support families through enterprise as economic crisis bites"
+    "Man arrested after fire outside New York immigration court"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Will USD be at least 1.9M Iranian rials on July 31?",
-          "odds": "-170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Tesla say \"China\" during earnings call?",
           "odds": "-1011",
@@ -73,6 +67,12 @@
         {
           "event": "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?",
           "odds": "+108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Mitch McConnell vote to confirm Todd Blanche as Attorney General?",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
