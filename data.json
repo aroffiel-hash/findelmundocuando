@@ -1,27 +1,33 @@
 {
-  "lastUpdated": "20 de julio de 2026 — 09:53 UTC",
+  "lastUpdated": "20 de julio de 2026 — 12:11 UTC",
   "ticker": [
-    "LIVE: Andy Burnham to become UK PM, deliver first speech at 10 Downing",
-    "Rubio: US ‘open to diplomacy’ after ninth night of bombing Iran",
-    "Key takeaways from the World Cup 2026 final as Spain beat Argentina",
-    "Photos: Spain beat Argentina to win second World Cup title",
-    "US renews attacks on Iran after US soldier killed: What’s the latest?",
-    "Singapore minister resigns over ‘interactions with a woman’, PM says",
-    "Infantino tries to usher Trump away as Spain lift World Cup",
-    "Last night, I was Spanish, and so were millions around the world",
-    "Protests continue in Houston over ICE killing of Lorenzo Salgado Araujo",
-    "Trump: Latest strikes on Iran ‘in honour’ of killed US military personnel",
-    "US releases footage of ninth consecutive night of strikes on Iran",
-    "Tearful Scaloni uncertain of Argentina future after World Cup loss",
-    "Women’s tennis players must take one-time gene test for eligibility",
-    "Fans in Madrid party all night long after Spain’s World Cup victory",
-    "Argentinians show pride in Buenos Aires despite World Cup final defeat"
+    "Iran says Spain World Cup win brings joy to critics of US, Israel",
+    "Why is Iran bombing Gulf states while avoiding US naval assets and Israel?",
+    "Photos: Police fire tear gas at India’s Cockroach movement supporters",
+    "‘I go with a smile’ says outgoing UK PM Keir Starmer in final speech",
+    "Hamas names Khalil al-Hayya as new leader after run-off with Khaled Meshaal",
+    "Jubilation in Spain as La Roja beat Argentina to win second World Cup title",
+    "World Cup: Spain to be welcomed home by million-strong Madrid crowd",
+    "Occupied West Bank World Cup screening halted for funeral",
+    "What does Iran’s attack on Kuwait infrastructure mean for Gulf?",
+    "World Cup: Spanish boy, 13, killed in fountain collapse during celebrations",
+    "Police attack Cockroach activists as thousands march on Indian parliament",
+    "Turkiye and Libya’s Haftar are boosting military ties. Is Egypt worried?",
+    "Indian police beat ‘Cockroach’ march protesters",
+    "Watch FIFA World Cup: Spain outclass Argentina to become world champions",
+    "Top feel-good moments to remember now that the 2026 World Cup is over"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "US announces halt in Iran offensive operations by July 24?",
+          "odds": "+170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Tesla say \"China\" during earnings call?",
           "odds": "-1011",
@@ -30,19 +36,19 @@
         },
         {
           "event": "Will the Bank of Russia make no change to the key rate after the September Meeting?",
-          "odds": "+354",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Netanyahu drops out of Israel election by September 30?",
+          "odds": "+429",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Ukraine agrees to limit size of armed forces before 2027?",
           "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "US reissues Iran oil sanction relief by August 31?",
-          "odds": "+203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -71,20 +77,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Đuro Macut win the next Serbia presidential election?",
-          "odds": "+376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Marco Rubio win the 2028 Republican presidential nomination?",
           "odds": "+259",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Manuel Valls be on the ballot for the 2027 French presidential election?",
-          "odds": "+3025",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -95,8 +89,32 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Will the highest temperature in Denver be between 100-101°F on July 20?",
+          "odds": "-233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will CA Lanús win on 2026-07-22?",
+          "odds": "-233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the next Google Gemini Pro model be released by July 29, 2026?",
           "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in San Francisco be between 84-85°F on July 21?",
+          "odds": "+675",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Gwangju FC vs. Gimcheon Sangmu FC: Both Teams to Score",
+          "odds": "+100",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -115,30 +133,6 @@
         {
           "event": "Will MegaETH perform an airdrop by December 31, 2026?",
           "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: FC Corvinul 1921 Hunedoara 1 - 1 FK Csíkszereda Miercurea Ciuc?",
-          "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will UAE leave the Gulf Cooperation Council  in 2026?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump say \"Shots fired\" or \"Shots will be fired\" during White House Correspondents Dinner?",
-          "odds": "+376",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
