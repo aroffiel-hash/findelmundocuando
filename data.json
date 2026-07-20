@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "20 de julio de 2026 — 17:30 UTC",
+  "lastUpdated": "20 de julio de 2026 — 19:35 UTC",
   "ticker": [
+    "Protests in Italy after Moroccan man dies during arrest",
+    "Houthis announce maritime blockade on Saudi Arabia",
+    "Trump vows Iran will ‘pay’ for killing US soldiers",
+    "‘Now or never’: Students defy Delhi lockdown to march on India’s parliament",
+    "Petrol prices climb as US–Iran tensions disrupt markets",
+    "FIFA World Cup: Five key takeaways from 2026 edition won by Spain",
     "Mexican drug lord Ismael ‘El Mayo’ Zambada sentenced to life in US prison",
     "Spain team arrives home after winning the World Cup",
     "Israeli air strike injures 14 in Gaza City",
@@ -9,13 +15,7 @@
     "Lebanon’s military starts ‘pilot zone’ takeover in south",
     "Iran says diplomatic efforts ongoing via mediators amid fighting with US",
     "Spain go back to the top of FIFA rankings, Morocco reach record high",
-    "Former England manager and two-time Ballon d’Or winner Keegan dies aged 75",
-    "China, immigration, drugs: Behind US policy in Latin America",
-    "Who is Khalil al-Hayya, Hamas’s newly elected political chief?",
-    "Yemen’s Houthis declare naval blockade of Saudi Arabia: What to know",
-    "Ebola death toll in DRC surges to at least 930 as outbreak continues spread",
-    "Andy Burnham pledges end to political instability as he becomes UK PM",
-    "What are ‘civilian’ sites in international law and where have US, Iran hit?"
+    "Former England manager and two-time Ballon d’Or winner Keegan dies aged 75"
   ],
   "sections": [
     {
@@ -23,8 +23,20 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
+          "event": "Will USD be at least 1.9M Iranian rials on July 31?",
+          "odds": "-170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Tesla say \"China\" during earnings call?",
           "odds": "-1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Ukraine agrees to limit size of armed forces before 2027?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -35,8 +47,8 @@
           "moved": "none"
         },
         {
-          "event": "Ukraine agrees to limit size of armed forces before 2027?",
-          "odds": "+900",
+          "event": "Will Trump and Putin meet next in Russia?",
+          "odds": "+2930",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -46,6 +58,12 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
+        {
+          "event": "Will Bangsamoro Federalist Party (BFP) win the most seats in the 2026 BARMM Parliamentary Elections?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the Fed’s lower bound reach 1.75% or lower before 2027?",
           "odds": "+2400",
@@ -66,7 +84,7 @@
         },
         {
           "event": "Will Marco Rubio win the 2028 Republican presidential nomination?",
-          "odds": "+258",
+          "odds": "+257",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -89,20 +107,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Dricus Du Plessis fight Nasourdine Imavov next?",
-          "odds": "+3025",
+          "event": "Game Handicap: LUA (-1.5) vs UB Alma Mater (+1.5)",
+          "odds": "-170",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Houston be between 98-99°F on July 21?",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Counter-Strike: HATERS vs paiN Academy (BO1) - Gamers Club Liga Série A Group D",
-          "odds": "+233",
+          "event": "Hyperliquid Up or Down - July 20, 3:30PM-3:45PM ET",
+          "odds": "+108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -113,20 +125,26 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Ankara be 31°C on July 21?",
-          "odds": "+1983",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will MrBeast say \"Technology\" during his next YouTube video?",
           "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Cumberland United FC win on 2026-07-21?",
-          "odds": "+3125",
+          "event": "Will AD Cali win on 2026-07-24?",
+          "odds": "-170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will MegaETH perform an airdrop by December 31, 2026?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
