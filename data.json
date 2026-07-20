@@ -1,139 +1,70 @@
 {
-  "lastUpdated": "20 de julio de 2026 — 12:11 UTC",
+  "lastUpdated": "20 de julio de 2026 — 13:52 UTC",
   "ticker": [
-    "Iran says Spain World Cup win brings joy to critics of US, Israel",
-    "Why is Iran bombing Gulf states while avoiding US naval assets and Israel?",
-    "Photos: Police fire tear gas at India’s Cockroach movement supporters",
-    "‘I go with a smile’ says outgoing UK PM Keir Starmer in final speech",
-    "Hamas names Khalil al-Hayya as new leader after run-off with Khaled Meshaal",
-    "Jubilation in Spain as La Roja beat Argentina to win second World Cup title",
-    "World Cup: Spain to be welcomed home by million-strong Madrid crowd",
-    "Occupied West Bank World Cup screening halted for funeral",
-    "What does Iran’s attack on Kuwait infrastructure mean for Gulf?",
-    "World Cup: Spanish boy, 13, killed in fountain collapse during celebrations",
-    "Police attack Cockroach activists as thousands march on Indian parliament",
-    "Turkiye and Libya’s Haftar are boosting military ties. Is Egypt worried?",
-    "Indian police beat ‘Cockroach’ march protesters",
-    "Watch FIFA World Cup: Spain outclass Argentina to become world champions",
-    "Top feel-good moments to remember now that the 2026 World Cup is over"
+    "Israeli ministers and settlers call for return to Gaza settlements",
+    "Burnham’s move to scrap UK’s digital ID plans earns cheers and criticism",
+    "Why Palestinians in Gaza are celebrating Spain’s World Cup win",
+    "Who is Khalil al-Hayya, Hamas’s newly elected political chief?",
+    "Since Islamabad MoU: What’s changed for the US, Iran and the Gulf?",
+    "‘I want to be honest with you’ says new UK PM Andy Burnham",
+    "Russian strike on ship near Odesa kills 10, Ukraine hits Moscow with drones",
+    "India’s Rohit Sharma ends retirement talk as World Cup 2027 still in sight",
+    "Argentina fans throw stones at police after World Cup defeat",
+    "Don’t believe Andy Burnham’s PR machine",
+    "Why is Christopher Nolan’s Odyssey so controversial?",
+    "Iran says Spain World Cup win brings joy to critics of US, Israel"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
-        {
-          "event": "US announces halt in Iran offensive operations by July 24?",
-          "odds": "+170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Tesla say \"China\" during earnings call?",
-          "odds": "-1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Bank of Russia make no change to the key rate after the September Meeting?",
-          "odds": "+376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Netanyahu drops out of Israel election by September 30?",
           "odds": "+429",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
           "moved": "none"
         },
+        {
+          "event": "Israel closes its airspace by August 15?",
+          "odds": "+194",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
+      "rows": [
         {
           "event": "Ukraine agrees to limit size of armed forces before 2027?",
           "odds": "+900",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "flag": "🇨🇳",
+      "label": "CHINA / PACÍFICO / COREA",
       "rows": [
         {
-          "event": "Will the Fed’s lower bound reach 1.75% or lower before 2027?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
+          "event": "Will Tesla say \"China\" during earnings call?",
+          "odds": "-1011",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
       "rows": [
         {
-          "event": "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?",
-          "odds": "+108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Marco Rubio win the 2028 Republican presidential nomination?",
-          "odds": "+259",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will the highest temperature in Denver be between 100-101°F on July 20?",
-          "odds": "-233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will CA Lanús win on 2026-07-22?",
-          "odds": "-233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the next Google Gemini Pro model be released by July 29, 2026?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in San Francisco be between 84-85°F on July 21?",
-          "odds": "+675",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Gwangju FC vs. Gimcheon Sangmu FC: Both Teams to Score",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Alphabet Inc. (GOOGL) hit (HIGH) $365 Week of July 20 2026?",
-          "odds": "+112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will AD Cali win on 2026-07-24?",
-          "odds": "-170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will MegaETH perform an airdrop by December 31, 2026?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
+          "event": "Will Trump say \"Shots fired\" or \"Shots will be fired\" during White House Correspondents Dinner?",
+          "odds": "+376",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
