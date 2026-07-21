@@ -1,145 +1,100 @@
 {
-  "lastUpdated": "21 de julio de 2026 — 11:00 UTC",
+  "lastUpdated": "21 de julio de 2026 — 13:21 UTC",
   "ticker": [
-    "FIFA World Cup: Who scored the most goals, assists, saves and yellow cards?",
-    "Can AI systems make moral decisions in war?",
-    "Australian MP interrupts tough interview to yell at dog",
-    "Huge fire at Ukraine shopping centre after Russian drone strike",
-    "Argentina deny World Cup villains’ role after Samuel Jackson-led slants",
-    "Philippine Foreign Secretary says ASEAN must work together",
-    "Philippine Foreign Secretary says ASEAN must work together",
-    "Hormuz tankers on fire, as US, Iran continue attacks: What’s the latest?",
-    "Mamdani says he takes Netanyahu’s ICC arrest warrant ‘seriously’",
-    "Farage, Reform in ‘trouble’, as UK braces for crypto influence in politics",
-    "Israeli forces open fire on children in Syrian village",
-    "Bangladesh face Australia Test might as Cummins, Hazlewood and Lyon return",
-    "Moment terrifying floodwaters sweep through Afghan village",
-    "Five Palestinians killed in fire after Israeli attack in Gaza",
-    "World Cup: Messi thanks Argentina fans but ‘wound will take time to heal’"
+    "Baby trafficking ringleader jailed for 7 years",
+    "Mexican drug lord ‘El Mayo’ sentenced to life in US prison",
+    "Iran war: Look beyond stocks to understand state of economy, experts say",
+    "How a 64-team World Cup could transform football’s economics",
+    "India’s ‘cockroach’ protest movement halts marches after police violence",
+    "Hunger is falling but is still higher than pre-COVID levels: UN report",
+    "Hamas’s new leader must bridge a movement divided over Iran",
+    "‘Won’t back down’: Indian student protesters return after police crackdown",
+    "Lebanese president set to meet Trump as Beirut seeks Israeli withdrawal",
+    "Arizona’s primary elections: Which US races to watch and why they matter",
+    "Lebanon’s Joseph Aoun to meet Trump: What to expect",
+    "FIFA World Cup 2026: Who had the most goals and assists at the tournament?"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
-          "event": "Will Tesla say \"China\" during earnings call?",
-          "odds": "-1011",
-          "params": "Fuente: Polymarket",
+          "event": "Will a European country take military action on Iran by August 31?",
+          "odds": "+1899",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
           "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
+      "rows": [
         {
           "event": "Ukraine agrees to limit size of armed forces before 2027?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
+          "odds": "+900",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
           "moved": "none"
         },
         {
           "event": "Will Trump and Putin meet next in Russia?",
           "odds": "+1983",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇨🇳",
+      "label": "CHINA / PACÍFICO / COREA",
+      "rows": [
+        {
+          "event": "Will Tesla say \"China\" during earnings call?",
+          "odds": "-1011",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
           "moved": "none"
         },
         {
           "event": "Will Trump post \"China\" on Truth Social this week?",
           "odds": "-284",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
+      "rows": [
+        {
+          "event": "Will Trump fly in original Air Force 1 again this month?",
+          "odds": "+455",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump say \"Shots fired\" or \"Shots will be fired\" during White House Correspondents Dinner?",
+          "odds": "+376",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump create a tariff dividend by December 31, 2026?",
+          "odds": "+334",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con política arancelaria de EE.UU.",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "label": "ECONOMÍA Y ENERGÍA",
       "rows": [
         {
-          "event": "Will Trump create a tariff dividend by December 31, 2026?",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Mexico GDP growth in Q2 2026 be between 2.0% and 2.5%?",
-          "odds": "+1233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?",
-          "odds": "+108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Marco Rubio win the 2028 Republican presidential nomination?",
-          "odds": "+257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Nigel Farage win the Clacton by-election?",
-          "odds": "-2122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will the next Google Gemini Pro model be released by July 29, 2026?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump fly in original Air Force 1 again this month?",
-          "odds": "+455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Epstein storage units raided in 2026?",
-          "odds": "+300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will MegaETH perform an airdrop by December 31, 2026?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: Preston Lions FC 2 - 0 Newcastle United Jets FC?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will UAE leave the Gulf Cooperation Council  in 2026?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump meet with Benjamin Netanyahu in July 2026?",
-          "odds": "-153",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
+          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $95 in July?",
+          "odds": "+400",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
           "moved": "none"
         }
       ]
