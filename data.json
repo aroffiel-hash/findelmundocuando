@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "21 de julio de 2026 — 01:59 UTC",
+  "lastUpdated": "21 de julio de 2026 — 02:03 UTC",
   "ticker": [
     "Guyana recovers 27 bodies after ferry disaster as crew comes under scrutiny",
     "Why protests are growing in Ukraine over defence leadership and dismissals",
@@ -12,59 +12,140 @@
     "Argentina, minus Messi, return home after World Cup final heartbreak",
     "What are the new British Prime Minister’s biggest challenges?",
     "Chaos in India as ‘Cockroach activists’ march on parliament",
-    "War on Iran: War resumes 30 days after MoU"
+    "War on Iran: War resumes 30 days after MoU",
+    "Moroccan-born man dies while detained by police in Italy",
+    "World Cup champions Spain return to royal welcome, parade through Madrid",
+    "Albanian protesters pelt lawmakers’ cars over resort projects"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
-      "rows": [
-        {
-          "event": "US announces halt in Iran offensive operations by August 15?",
-          "odds": "+117",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
-      "rows": [
-        {
-          "event": "Ukraine agrees to limit size of armed forces before 2027?",
-          "odds": "+1011",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇨🇳",
-      "label": "CHINA / PACÍFICO / COREA",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Will Tesla say \"China\" during earnings call?",
           "odds": "-1011",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Ukraine agrees to limit size of armed forces before 2027?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Trump post \"China\" on Truth Social this week?",
           "odds": "-284",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "US announces halt in Iran offensive operations by August 15?",
+          "odds": "+117",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will South Korea ETF (EWY) hit (LOW) $160 Week of July 20 2026?",
+          "odds": "-163",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump and Putin meet next in Russia?",
+          "odds": "+2930",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will Trump say \"Shots fired\" or \"Shots will be fired\" during White House Correspondents Dinner?",
-          "odds": "+376",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Will the Fed’s lower bound reach 1.75% or lower before 2027?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?",
+          "odds": "+108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Marco Rubio win the 2028 Republican presidential nomination?",
+          "odds": "+257",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Manuel Valls be on the ballot for the 2027 French presidential election?",
+          "odds": "+3025",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will the next Google Gemini Pro model be released by July 29, 2026?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will TownSquare launch a token by December 31, 2026?",
+          "odds": "-112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Munich be 22°C on July 21?",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Game Handicap: LUA (-1.5) vs UB Alma Mater (+1.5)",
+          "odds": "-170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will CME (CME) beat quarterly earnings?",
+          "odds": "-1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will MrBeast say \"Technology\" during his next YouTube video?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will AD Cali win on 2026-07-24?",
+          "odds": "-170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will MegaETH perform an airdrop by December 31, 2026?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
