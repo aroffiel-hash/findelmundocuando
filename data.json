@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "22 de julio de 2026 — 01:58 UTC",
+  "lastUpdated": "22 de julio de 2026 — 02:01 UTC",
   "ticker": [
     "Former Biden official can’t see ‘pilot zones’ scheme working in Lebanon",
     "Leopard caught on camera storming into a store in Rajasthan, India",
@@ -12,59 +12,164 @@
     "Drone shows scorched landscape after Spain wildfire",
     "US defence chief Hegseth puts Iran war cost at $37.5bn so far",
     "Iran holds funerals for children killed in Minab school strike",
-    "How will Khalil al-Hayya’s leadership shape Hamas?"
+    "How will Khalil al-Hayya’s leadership shape Hamas?",
+    "Guyana reports ferry disaster death toll rises to 41",
+    "Daytime Russian strike kills three in Zaporizhzhia",
+    "French parliament passes social media ban for under-15s"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
-      "rows": [
-        {
-          "event": "Will there be Houthi military action against Israel by July 31, 2026?",
-          "odds": "+1150",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Will Trump and Putin meet next in Russia?",
           "odds": "+1940",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Ukraine agrees to limit size of armed forces before 2027?",
           "odds": "+900",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇨🇳",
-      "label": "CHINA / PACÍFICO / COREA",
-      "rows": [
+        },
         {
           "event": "Will Tesla say \"China\" during earnings call?",
           "odds": "-1011",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will there be Houthi military action against Israel by July 31, 2026?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
+        {
+          "event": "Exact Score: FK Rīgas Futbola Skola 1 - 0 ÍF Vestri?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: FK Rīgas Futbola Skola 2 - 0 ÍF Vestri?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: FK Rīgas Futbola Skola 2 - 1 ÍF Vestri?",
+          "odds": "+2027",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: FK Rīgas Futbola Skola 3 - 0 ÍF Vestri?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: FK Rīgas Futbola Skola 3 - 1 ÍF Vestri?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Trump create a tariff dividend by December 31, 2026?",
           "odds": "+334",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con política arancelaria de EE.UU.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Frank F. Blas Jr. win the 2026 Guam Governor Republican primary election?",
+          "odds": "+108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Nigel Farage win the Clacton by-election?",
+          "odds": "-2073",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will John Stevens get second place in the Clacton by-election?",
+          "odds": "+604",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Marco Rubio win the 2028 Republican presidential nomination?",
+          "odds": "+258",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Exact Score: Any Other Score?",
+          "odds": "+222",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Epstein storage units raided in 2026?",
+          "odds": "+300",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will MegaETH perform an airdrop by December 31, 2026?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will MOUZ Win BLAST Bounty 2026 Season 2?",
+          "odds": "+2757",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Generali Open: Alexander Bublik vs Facundo Acosta",
+          "odds": "-149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will UAE leave the Gulf Cooperation Council  in 2026?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Cameron Young win the 2026 TOUR Championship?",
+          "odds": "+1119",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
