@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "22 de julio de 2026 — 15:26 UTC",
+  "lastUpdated": "22 de julio de 2026 — 17:09 UTC",
   "ticker": [
+    "Iran’s judiciary warns against ‘infiltrators’, announces new executions",
+    "‘Justice for Lorenzo’ protests disrupt Houston council meeting",
+    "War on Iran: Hegseth wants $70B more to keep fighting",
+    "Proposed US-Saudi nuclear energy deal: What we know so far",
+    "Why are billionaires growing richer than ever?",
+    "From towns to zones: Why Israel gives military names to civilian areas",
+    "Elon and the Other Gaza",
+    "Trump threatens to bomb Iranian bridges, power plants over ship attacks",
+    "The Morocco-Algeria rivalry is remaking Europe’s North Africa policy",
+    "French model recruiter with close ties to Jeffrey Epstein found dead",
     "Why Traore has opened a new front with Burkina Faso’s Muslim community",
     "Zelenskyy sacks Syrskii: How many generals have Ukraine, Russia fired?",
     "Nearly 1,000 people have died from Ebola in DR Congo",
-    "Open AI says its AI model “went rogue”: What do we know?",
-    "UK’s Miliband, Streeting: What are their foreign policy, defence records?",
-    "Israeli strike leaves two Palestinians burnt beyond recognition",
-    "The Indian football tournament where goats replace trophies",
-    "English FA charges Southampton coach Tonda Eckert over ‘spygate’ scandal",
-    "‘This land will remain ours’ says a resident in Lebanon’s ‘pilot zone’",
-    "‘Just want to go back’: Lebanese await return as army enters ‘pilot zone’",
-    "Zelenskyy replaces Ukraine’s commander-in-chief after days of protests",
-    "Settlers attack Palestinian towns in occupied West Bank",
-    "Can the Suez save Asian oil consumers after Houthis shut Bab al-Mandeb?",
-    "India protest: How Modi’s refusal to sack education minister fits a pattern",
-    "Iran war’s $37bn price tag: Why does the Pentagon want $67bn more?"
+    "OpenAI says its AI model ‘went rogue’: What do we know?",
+    "UK’s Miliband, Streeting: What are their foreign policy, defence records?"
   ],
   "sections": [
     {
@@ -34,36 +34,6 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
-        {
-          "event": "Exact Score: FK Rīgas Futbola Skola 1 - 0 ÍF Vestri?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: FK Rīgas Futbola Skola 2 - 0 ÍF Vestri?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: FK Rīgas Futbola Skola 2 - 1 ÍF Vestri?",
-          "odds": "+2027",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: FK Rīgas Futbola Skola 3 - 0 ÍF Vestri?",
-          "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: FK Rīgas Futbola Skola 3 - 1 ÍF Vestri?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will the US federal government take a stake in Samsung Electronics Co., Ltd.?",
           "odds": "+2400",
@@ -84,13 +54,19 @@
       "rows": [
         {
           "event": "Will Nigel Farage win the Clacton by-election?",
-          "odds": "-1899",
+          "odds": "-2027",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Marco Rubio win the 2028 Republican presidential nomination?",
           "odds": "+257",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Kshama Sawant advance to the general election for WA-09?",
+          "odds": "+177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -101,32 +77,26 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Portland Thorns FC vs. NJ/NY Gotham FC end in a draw?",
-          "odds": "+270",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Epstein storage units raided in 2026?",
           "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Exact Score: Any Other Score?",
-          "odds": "+222",
+          "event": "Will Portland Thorns FC vs. NJ/NY Gotham FC end in a draw?",
+          "odds": "+270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will UAE leave the Gulf Cooperation Council  in 2026?",
+          "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will FC Malisheva vs. Hibernian FC end in a draw?",
           "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will UAE leave the Gulf Cooperation Council  in 2026?",
-          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -143,8 +113,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Cameron Young win the 2026 TOUR Championship?",
-          "odds": "+1119",
+          "event": "ITF Champaign: William Mroz vs Emon Van Loben Sels",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Dan Koh be the Democratic nominee for MA-06?",
+          "odds": "-257",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
