@@ -1,7 +1,6 @@
 {
-  "lastUpdated": "22 de julio de 2026 — 13:26 UTC",
+  "lastUpdated": "22 de julio de 2026 — 13:28 UTC",
   "ticker": [
-    "‘This land will remain ours’ says a resident in Lebanon’s ‘pilot zone’",
     "‘Just want to go back’: Lebanese await return as army enters ‘pilot zone’",
     "Zelenskyy replaces Ukraine’s commander-in-chief after days of protests",
     "Settlers attack Palestinian towns in occupied West Bank",
@@ -12,41 +11,153 @@
     "Italy makes financial ‘exceptions’ in bid to hire Pep Guardiola as coach",
     "Syrian people must not be failed again",
     "Trump ally Andy Biggs wins Republican nomination for Arizona governor",
-    "US Secretary of State say Iran is in ‘a lot of trouble’"
+    "US Secretary of State say Iran is in ‘a lot of trouble’",
+    "Baulking at shipping sanctions, Greece balances Ukraine aid, fear of Russia",
+    "Austria turns Adolf Hitler’s birthplace into police station",
+    "Lebanese army deployed in ‘pilot zone’ as families wait to return home",
+    "Graphic evidence shown as D4vd murder hearing begins"
   ],
   "sections": [
     {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Ukraine agrees to limit size of armed forces before 2027?",
           "odds": "+733",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Bank of Russia decrease the key rate after the July Meeting?",
           "odds": "-203",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will Trump create a tariff dividend by December 31, 2026?",
-          "odds": "+334",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con política arancelaria de EE.UU.",
+          "event": "Exact Score: FK Rīgas Futbola Skola 1 - 0 ÍF Vestri?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will \"Trump\" be said 5+ times during the next episode of the Lemonade Stand Podcast?",
-          "odds": "-143",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Exact Score: FK Rīgas Futbola Skola 2 - 0 ÍF Vestri?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: FK Rīgas Futbola Skola 2 - 1 ÍF Vestri?",
+          "odds": "+2027",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: FK Rīgas Futbola Skola 3 - 0 ÍF Vestri?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: FK Rīgas Futbola Skola 3 - 1 ÍF Vestri?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "S&P 500 (SPY) closes above $740 on July 22?",
+          "odds": "-900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump create a tariff dividend by December 31, 2026?",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Nigel Farage win the Clacton by-election?",
+          "odds": "-2172",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will John Stevens get second place in the Clacton by-election?",
+          "odds": "+604",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Marco Rubio win the 2028 Republican presidential nomination?",
+          "odds": "+257",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "FC Cincinnati to score first vs. Vancouver Whitecaps FC?",
+          "odds": "+156",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Epstein storage units raided in 2026?",
+          "odds": "+300",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: Any Other Score?",
+          "odds": "+222",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will MegaETH perform an airdrop by December 31, 2026?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will UAE leave the Gulf Cooperation Council  in 2026?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Chicago Fire FC vs. Vancouver Whitecaps FC end in a draw?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Cameron Young win the 2026 TOUR Championship?",
+          "odds": "+1119",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
