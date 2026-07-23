@@ -1,115 +1,46 @@
 {
-  "lastUpdated": "23 de julio de 2026 — 11:03 UTC",
+  "lastUpdated": "23 de julio de 2026 — 13:39 UTC",
   "ticker": [
-    "Rubio says Iran ‘begging’ for a deal with US but not ready to make one",
-    "Thai sailors sue owners of cargo ship hit in Hormuz",
-    "Iran, Houthis strike tankers as US bombing continues: What’s the latest?",
-    "‘Televising our revolution’: India’s Gen Z flips Modi’s social media game",
-    "More than 2,300 Israelis storm Al-Aqsa Mosque in Jerusalem",
-    "‘Back from the dead’: The continuing agony over Gaza’s 9,500 missing people",
-    "Indian activist Wangchuk sets conditions to end hunger strike",
-    "Photos: Gaza’s shelter crisis",
-    "Travellers panic as US attacks Iran-Iraq border crossing",
-    "India’s Modi promises fast-track courts for exam fraud fuelling protests",
-    "Top US and Russian diplomats discuss Ukraine war in Manila",
-    "Arsenal defender Saliba sidelined for ‘extended period’ due to back injury",
-    "Between hope and fear: Yemenis react to Houthi blockade on Saudi Arabia",
-    "Will the war on Iran affect ASEAN’s efforts to tackle regional issues?",
-    "Thousands forced to evacuate as wildfires sweep across southern France"
+    "Kashmiri activist Khurram Parvez and journalist Irfan Mehraj freed on bail",
+    "Rebuilding Gaza to cost $71bn, must include Palestinians, report finds",
+    "How are companies, governments responding to the OpenAI hack?",
+    "‘Our fight is to fix the system’: India protesters demand accountability",
+    "Which Middle East nations have nuclear programmes, and how were they built?",
+    "Cricket: No Ashes 2027 Tests to take place in the north of England",
+    "EU hits Google with new $1bn fine, saying it broke digital antitrust rules",
+    "Can Iran withstand new pressure from the US?",
+    "Iraq PM heads to Iran: Can Baghdad redefine its relationship with Tehran?",
+    "Several killed as Ukraine, Russia trade attacks deep behind the front line",
+    "Israel releases 35 detainees from Gaza",
+    "Why a North Sea oilfield is emerging as British PM Burnham’s big test"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
       "rows": [
         {
           "event": "Ukraine agrees to limit size of armed forces before 2027?",
           "odds": "+733",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
           "moved": "none"
         },
         {
           "event": "Will Russia enter Krasnoiarske by September 30?",
           "odds": "-2073",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
       "rows": [
         {
-          "event": "Will Luiz Inácio Lula da Silva win the first round of the 2026 Brazilian presidential election by at least 15%?",
-          "odds": "+930",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Marco Rubio win the 2028 Republican presidential nomination?",
-          "odds": "+258",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Susan Collins vote to confirm Todd Blanche as Attorney General?",
-          "odds": "+132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will FCM Traiskirchen win on 2026-07-24?",
-          "odds": "-194",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Portland Thorns FC vs. NJ/NY Gotham FC end in a draw?",
-          "odds": "+270",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Los Angeles Dodgers vs. New York Mets",
-          "odds": "-185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Set Handicap: Squire (-1.5) vs Roncadelli (+1.5)",
-          "odds": "+138",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will UAE leave the Gulf Cooperation Council  in 2026?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Chicago Fire FC vs. Vancouver Whitecaps FC end in a draw?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the OH-07 House seat?",
-          "odds": "-117",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Set Handicap: Bublik (-1.5) vs Molcan (+1.5)",
-          "odds": "+170",
-          "params": "Fuente: Polymarket",
+          "event": "Will Trump's approval rating be between 39.0 and 39.4 on July 24, 2026?",
+          "odds": "+185",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
