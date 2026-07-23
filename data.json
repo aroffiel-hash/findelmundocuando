@@ -1,133 +1,34 @@
 {
-  "lastUpdated": "22 de julio de 2026 — 23:56 UTC",
+  "lastUpdated": "23 de julio de 2026 — 02:05 UTC",
   "ticker": [
+    "Why Abderrahim Fakir’s death reignited Italy’s police accountability debate",
+    "Spain and France battle raging wildfires, face high risk of more",
+    "US tariffs ‘strengthen’ Lula against Bolsonaro’s son in upcoming elections",
+    "US House passes $1.15 trillion military bill expanding Israel cooperation",
+    "AI, China, ‘dark factories’ and the future of the US auto industry",
+    "Iran war live: US launches new attacks; Houthis attack 2 Saudi oil tankers",
     "Austrian home where Hitler was born reopened as police station",
     "Yemen’s Houthis claim attack on two Saudi oil tankers",
     "Rubio says US, China must ‘work through’ big differences at ASEAN meeting",
     "Iranian missiles show deadly precision amid US-Iran war escalation",
     "US launches new strikes as Iran warns of regional turmoil",
-    "Wounded Gaza journalists call for urgent medical evacuation",
-    "US and Saudi Arabia announce nuclear cooperation deal",
-    "India’s Rahul Gandhi speaks out after release",
-    "US regulators to weigh controversial peptides backed by RFK Jr",
-    "Ukraine’s new military chief pledges to escalate retaliation against Russia",
-    "Griffiths: Diplomacy requires US and Iran to accept they have ‘lost‘",
-    "UN rights chief condemns Nicaragua’s decision to abolish elections",
-    "Trump: Iran will ‘pay a big price’ for US troop deaths",
-    "Gaza man returns home after family believed he was dead",
-    "Water cannon deployed at India education system protests"
+    "Wounded Gaza journalists call for urgent medical evacuation"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
       "rows": [
         {
           "event": "Ukraine agrees to limit size of armed forces before 2027?",
           "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
-      "rows": [
-        {
-          "event": "Las Vegas Aces vs. Washington Mystics: O/U 163.5",
-          "odds": "-170",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
           "moved": "none"
         },
         {
-          "event": "Will three people dissent the July Fed decision?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will Nigel Farage win the Clacton by-election?",
-          "odds": "-2122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Marco Rubio win the 2028 Republican presidential nomination?",
-          "odds": "+258",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Susan Collins vote to confirm Todd Blanche as Attorney General?",
-          "odds": "+132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Kshama Sawant advance to the general election for WA-09?",
-          "odds": "+177",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Exact Score: Ceará SC 1 - 1 CR Brasil?",
-          "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Epstein storage units raided in 2026?",
-          "odds": "+300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Tokyo be 32°C on July 24?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Portland Thorns FC vs. NJ/NY Gotham FC end in a draw?",
-          "odds": "+270",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will UAE leave the Gulf Cooperation Council  in 2026?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Isaac del Toro win the White Jersey at the 2026 Tour De France?",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Chicago Fire FC vs. Vancouver Whitecaps FC end in a draw?",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
+          "event": "Will Russia enter Krasnoiarske by September 30?",
+          "odds": "-2399",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
           "moved": "none"
         }
       ]
