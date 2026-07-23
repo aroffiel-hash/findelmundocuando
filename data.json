@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "23 de julio de 2026 — 13:39 UTC",
+  "lastUpdated": "23 de julio de 2026 — 13:41 UTC",
   "ticker": [
     "Kashmiri activist Khurram Parvez and journalist Irfan Mehraj freed on bail",
     "Rebuilding Gaza to cost $71bn, must include Palestinians, report finds",
@@ -12,35 +12,116 @@
     "Iraq PM heads to Iran: Can Baghdad redefine its relationship with Tehran?",
     "Several killed as Ukraine, Russia trade attacks deep behind the front line",
     "Israel releases 35 detainees from Gaza",
-    "Why a North Sea oilfield is emerging as British PM Burnham’s big test"
+    "Why a North Sea oilfield is emerging as British PM Burnham’s big test",
+    "Women’s Africa Cup of Nations 2026: What to know about the tournament",
+    "Rubio says US policy on Iran is ‘a head for an eye’",
+    "Right-wing Israeli groups storm Al-Aqsa as Palestinians barred from worship"
   ],
   "sections": [
     {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Ukraine agrees to limit size of armed forces before 2027?",
           "odds": "+733",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Russia enter Krasnoiarske by September 30?",
           "odds": "-2073",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
+        {
+          "event": "Will Luiz Inácio Lula da Silva win the first round of the 2026 Brazilian presidential election by at least 15%?",
+          "odds": "+930",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Trump's approval rating be between 39.0 and 39.4 on July 24, 2026?",
           "odds": "+185",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will AfD win the most seats in 2 German state elections in September 2026?",
+          "odds": "-455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Marco Rubio win the 2028 Republican presidential nomination?",
+          "odds": "+257",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Susan Collins vote to confirm Todd Blanche as Attorney General?",
+          "odds": "+132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will FCM Traiskirchen win on 2026-07-24?",
+          "odds": "-194",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Portland Thorns FC vs. NJ/NY Gotham FC end in a draw?",
+          "odds": "+270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Set Handicap: Squire (-1.5) vs Roncadelli (+1.5)",
+          "odds": "+138",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will UAE leave the Gulf Cooperation Council  in 2026?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Chicago Fire FC vs. Vancouver Whitecaps FC end in a draw?",
+          "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will KAA Gent win on 2026-07-23?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the OH-07 House seat?",
+          "odds": "-117",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
