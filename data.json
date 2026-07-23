@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "23 de julio de 2026 — 02:05 UTC",
+  "lastUpdated": "23 de julio de 2026 — 02:33 UTC",
   "ticker": [
     "Why Abderrahim Fakir’s death reignited Italy’s police accountability debate",
     "Spain and France battle raging wildfires, face high risk of more",
@@ -12,23 +12,122 @@
     "Rubio says US, China must ‘work through’ big differences at ASEAN meeting",
     "Iranian missiles show deadly precision amid US-Iran war escalation",
     "US launches new strikes as Iran warns of regional turmoil",
-    "Wounded Gaza journalists call for urgent medical evacuation"
+    "Wounded Gaza journalists call for urgent medical evacuation",
+    "US and Saudi Arabia announce nuclear cooperation deal",
+    "India’s Rahul Gandhi speaks out after release",
+    "US regulators to weigh controversial peptides backed by RFK Jr"
   ],
   "sections": [
     {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Ukraine agrees to limit size of armed forces before 2027?",
           "odds": "+733",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Russia enter Krasnoiarske by September 30?",
           "odds": "-2399",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will three people dissent the July Fed decision?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Nigel Farage win the Clacton by-election?",
+          "odds": "-2122",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Marco Rubio win the 2028 Republican presidential nomination?",
+          "odds": "+257",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Susan Collins vote to confirm Todd Blanche as Attorney General?",
+          "odds": "+132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Kshama Sawant advance to the general election for WA-09?",
+          "odds": "+177",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will MŠK Žilina win on 2026-07-23?",
+          "odds": "+163",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Intel say \"Lab\" during earnings call?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Portland Thorns FC vs. NJ/NY Gotham FC end in a draw?",
+          "odds": "+270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Isaac del Toro win the White Jersey at the 2026 Tour De France?",
+          "odds": "-108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will UAE leave the Gulf Cooperation Council  in 2026?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Chicago Fire FC vs. Vancouver Whitecaps FC end in a draw?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Dan Koh be the Democratic nominee for MA-06?",
+          "odds": "-257",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
