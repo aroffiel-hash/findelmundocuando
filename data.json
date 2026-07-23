@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "23 de julio de 2026 — 13:41 UTC",
+  "lastUpdated": "23 de julio de 2026 — 15:50 UTC",
   "ticker": [
+    "More than 100 UK millionaires ask new PM Andy Burnham to tax them more",
+    "Trump says Saudi nuclear pact hinges on kingdom joining Abraham Accords",
+    "Kuwait-Iraq border crossing hit in drone attack",
+    "How shipping insurance rates are rising, as Hormuz, Bab al-Mandeb shut down",
+    "Has Russia helped Iran target CIA sites in the Gulf?",
+    "Ebola death toll in DR Congo surpasses 1,000",
+    "Why do some of the cheapest cities cost the most to live in?",
     "Kashmiri activist Khurram Parvez and journalist Irfan Mehraj freed on bail",
     "Rebuilding Gaza to cost $71bn, must include Palestinians, report finds",
     "How are companies, governments responding to the OpenAI hack?",
@@ -8,14 +15,7 @@
     "Which Middle East nations have nuclear programmes, and how were they built?",
     "Cricket: No Ashes 2027 Tests to take place in the north of England",
     "EU hits Google with new $1bn fine, saying it broke digital antitrust rules",
-    "Can Iran withstand new pressure from the US?",
-    "Iraq PM heads to Iran: Can Baghdad redefine its relationship with Tehran?",
-    "Several killed as Ukraine, Russia trade attacks deep behind the front line",
-    "Israel releases 35 detainees from Gaza",
-    "Why a North Sea oilfield is emerging as British PM Burnham’s big test",
-    "Women’s Africa Cup of Nations 2026: What to know about the tournament",
-    "Rubio says US policy on Iran is ‘a head for an eye’",
-    "Right-wing Israeli groups storm Al-Aqsa as Palestinians barred from worship"
+    "Can Iran withstand new pressure from the US?"
   ],
   "sections": [
     {
@@ -23,14 +23,20 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Ukraine agrees to limit size of armed forces before 2027?",
-          "odds": "+733",
+          "event": "Will Russia enter Krasnoiarske by September 30?",
+          "odds": "-2073",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Russia enter Krasnoiarske by September 30?",
-          "odds": "-2073",
+          "event": "Will Jaafar Jackson be nominated for Best Actor at the 99th Academy Awards?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Warsh say \"Anchor\" or \"Anchored\" during July Press Conference?",
+          "odds": "+244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -40,12 +46,6 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
-        {
-          "event": "Will Luiz Inácio Lula da Silva win the first round of the 2026 Brazilian presidential election by at least 15%?",
-          "odds": "+930",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Trump's approval rating be between 39.0 and 39.4 on July 24, 2026?",
           "odds": "+185",
@@ -83,14 +83,26 @@
           "moved": "none"
         },
         {
+          "event": "Dota 2: Level UP vs Team AION - Game 2 Winner",
+          "odds": "-233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Portland Thorns FC vs. NJ/NY Gotham FC end in a draw?",
           "odds": "+270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Set Handicap: Squire (-1.5) vs Roncadelli (+1.5)",
-          "odds": "+138",
+          "event": "Will Chicago Fire FC vs. Vancouver Whitecaps FC end in a draw?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Khamenei post 5-9 posts from July 21 to July 28, 2026?",
+          "odds": "+270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -101,26 +113,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Chicago Fire FC vs. Vancouver Whitecaps FC end in a draw?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will KAA Gent win on 2026-07-23?",
-          "odds": "+100",
+          "event": "Will the Bank of Brazil decrease the target for the Selic rate by 25 bps at the September meeting?",
+          "odds": "-122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Republican Party win the OH-07 House seat?",
           "odds": "-117",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
-          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
