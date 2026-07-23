@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "23 de julio de 2026 — 19:04 UTC",
+  "lastUpdated": "23 de julio de 2026 — 20:55 UTC",
   "ticker": [
+    "US government cancels subpoena against three New York Times reporters",
+    "How Sudan war is putting cancer patients at risk",
+    "Indian activist Wangchuk ends 26-day hunger strike over exam paper leaks",
+    "Minnesota man who killed Democratic lawmaker sentenced to life in US prison",
+    "Journalist killed in Mexico after years of exposing corruption",
+    "Resumption of oil exports: Will Yemen recover its economic lifeline?",
+    "Can India’s youth-led protest movement bring lasting change?",
     "Children wounded in Israeli strike on Khan Younis",
     "World Bank estimates Venezuela earthquakes caused $19.6bn in damage",
     "Iraqi PM makes first official visit to Iran in bid to deepen ties",
@@ -8,14 +15,7 @@
     "UK’s Burnham tells Scotland new independence vote is off limits",
     "What are the security implications of the US-Saudi nuclear deal?",
     "Far-right Israeli incursion heightens tensions at Al-Aqsa ahead of election",
-    "Oil surges past $100 in a first since May as Middle East conflicts rage",
-    "A Game of Double Standards",
-    "Trump: US-Saudi nuclear deal hinges on Saudi joining Abraham Accords",
-    "Lebanon Latest: President Aoun visits White House to discuss Hezbollah",
-    "Lebanon Latest: President Aoun visits White House to discuss Hezbollah",
-    "Yemen faces a new challenge amid prospects of confrontation",
-    "US House votes to limit Iran war for first time since ceasefire breakdown",
-    "The missing half of mediation"
+    "Oil surges past $100 in a first since May as Middle East conflicts rage"
   ],
   "sections": [
     {
@@ -23,8 +23,8 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Russia enter Krasnoiarske by July 31?",
-          "odds": "-2531",
+          "event": "Will Israel launch a ground operation in Iran by July 31, 2026?",
+          "odds": "+2464",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -43,24 +43,18 @@
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
-      "rows": [
-        {
-          "event": "Will WTI Crude Oil (WTI) hit (LOW) $80 in July?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
           "event": "Will AfD win the most seats in 2 German state elections in September 2026?",
           "odds": "-455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will John Fetterman vote to confirm Todd Blanche as Attorney General?",
+          "odds": "+880",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -85,12 +79,6 @@
         {
           "event": "Will FCM Traiskirchen win on 2026-07-24?",
           "odds": "-194",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Dota 2: Level UP vs Team AION - Game 2 Winner",
-          "odds": "-233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -127,6 +115,12 @@
         {
           "event": "Will the Republican Party win the OH-07 House seat?",
           "odds": "-149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
