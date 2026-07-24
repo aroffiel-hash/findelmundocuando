@@ -1,52 +1,121 @@
 {
-  "lastUpdated": "24 de julio de 2026 — 02:01 UTC",
+  "lastUpdated": "24 de julio de 2026 — 02:04 UTC",
   "ticker": [
+    "Ukraine’s Zelenskyy meets with far-right US activist Laura Loomer",
     "Mike Waltz pressed over Al Jazeera video during congressional hearing",
     "Trump imposes new double-digit tariffs on dozens of countries",
     "Analyst: voting against Iran war funding a tough sell for Congress",
     "Israel bombs Gaza after displacement orders, kills two Palestinians",
     "UN envoy for Yemen ‘alarmed’ by Houthis’ Red Sea attacks, calls for talks",
-    "Iran war live: Trump weighs ‘massive attack’ on Iran",
+    "Iran war live: US completes 13th night of strikes on Iran",
     "Trump expands voluntary pledge to blunt AI-driven utility bill surges",
     "Two Palestinians killed as Israel intensifies strikes on Gaza City",
     "How the Houthi Red Sea blockade will impact the world",
     "Arab and Muslim countries condemn Israeli storming of Al-Aqsa Mosque",
     "Is this Italy’s ‘George Floyd moment’?",
-    "US war on Iran: The $110 billion price tag"
+    "US war on Iran: The $110 billion price tag",
+    "US attacks Iran for 13th night as Trump threatens ‘bigger’ strikes",
+    "US-Saudi nuclear deal hinges on normalisation with Israel"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
-      "rows": [
-        {
-          "event": "Will there be between 0 and 20 average daily transits of the Strait of Hormuz on July 31?",
-          "odds": "-1233",
-          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Will the Bank of Russia make no change to the key rate after the July Meeting?",
           "odds": "+170",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y ENERGÍA",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
           "event": "Will WTI Crude Oil (WTI) hit (LOW) $90 in July?",
           "odds": "-566",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will AfD win the most seats in 2 German state elections in September 2026?",
+          "odds": "-455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will John Fetterman vote to confirm Todd Blanche as Attorney General?",
+          "odds": "+880",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Marco Rubio win the 2028 Republican presidential nomination?",
+          "odds": "+257",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will FCM Traiskirchen win on 2026-07-24?",
+          "odds": "-194",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: CS Emelec 1 - 1 Mushuc Runa SC?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Portland Thorns FC vs. NJ/NY Gotham FC end in a draw?",
+          "odds": "+270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Chicago Fire FC vs. Vancouver Whitecaps FC end in a draw?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: FC UTA Arad 1 - 1 ASC Oțelul Galați?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Khamenei post 5-9 posts from July 21 to July 28, 2026?",
+          "odds": "+270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: CA Gimnasia y Esgrima de Mendoza 0 - 0 CA Central Córdoba?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the OH-07 House seat?",
+          "odds": "-143",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
