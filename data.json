@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "24 de julio de 2026 — 13:21 UTC",
+  "lastUpdated": "24 de julio de 2026 — 14:48 UTC",
   "ticker": [
+    "Senegal gets CAS date for appeal to regain AFCON from Morocco",
+    "World Cup hero Rodri to undergo back surgery before Man City’s new season",
+    "What to know about the White House Correspondents’ Dinner, take two",
+    "Indian student protests: What’s next after Modi’s promise on exam leaks?",
+    "Five killed in occupied West Bank after Israeli settlers attack",
     "US summons Malaysia envoy over Israel policy",
     "Bangladesh President Mohammed Shahabuddin resigns",
     "Spain declares national emergency over wildfires",
@@ -10,19 +15,113 @@
     "Is the US-Saudi nuclear deal on, or in limbo?",
     "South African court pauses impeachment process against president",
     "Andy Burnham’s Number 10 North changes the postcode, but not the politics",
-    "Does this disappearing organ hold the secret of longevity?",
-    "Israel’s illegal settlements are Europe’s credibility test",
-    "Four Palestinians killed as Israeli settlers raid occupied West Bank town"
+    "Does this disappearing organ hold the secret of longevity?"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Will Russia capture all of Bilytske by December 31?",
+          "odds": "+108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Iran leadership change by June 30, 2027?",
           "odds": "+143",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jaafar Jackson be nominated for Best Actor at the 99th Academy Awards?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "WTI Crude Oil (WTI) closes above $93 on July 24?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Marco Rubio win the 2028 Republican presidential nomination?",
+          "odds": "+258",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Susan Collins vote to confirm Todd Blanche as Attorney General?",
+          "odds": "+132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will the lowest temperature in Miami be between 84-85°F on July 24?",
+          "odds": "+1076",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Counter-Strike: Privateer Gaming vs Misa Esports (BO3) - CCT Europe Closed Qualifier: Series #6 Group D",
+          "odds": "+163",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Max Verstappen finish on the podium at the 2026 F1 Hungarian Grand Prix?",
+          "odds": "+194",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jagiellonia Bialystok vs. Korona Kielce end in a draw?",
+          "odds": "+270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the OH-07 House seat?",
+          "odds": "-149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Moscow be 18°C on July 25?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will \"The Boss Baby\" be the top global Netflix movie this week?",
+          "odds": "+963",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will UAE leave the Gulf Cooperation Council  in 2026?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
