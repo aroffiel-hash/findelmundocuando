@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "25 de julio de 2026 — 21:47 UTC",
+  "lastUpdated": "25 de julio de 2026 — 22:46 UTC",
   "ticker": [
+    "Israeli forces target Gaza’s Al-Aqsa hospital",
+    "What’s next for Venezuela’s path to recovery from devastating earthquakes?",
     "Israeli forces tear gas journalists reporting Nablus shootout",
     "How India’s ‘Cockroach’ protesters shook the Modi government",
     "Head of Hamas-led police in northern Gaza killed by Israeli strike",
@@ -13,9 +15,7 @@
     "India win second T20 in Zimbabwe to take series as Kishan and Varma shine",
     "‘We have done it’: Joy as ‘Cockroach’ protests push India minister out",
     "Syrian FM calls for Israeli withdrawal in meeting with UN chief",
-    "The Battle Over Al-Aqsa",
-    "The Global South is being forced to choose creditors over children",
-    "Atletico Madrid sign South Korea World Cup star Lee Kang-In from PSG"
+    "The Battle Over Al-Aqsa"
   ],
   "sections": [
     {
@@ -95,8 +95,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Yan Diomande join Real Madrid?",
-          "odds": "-400",
+          "event": "Will the highest temperature in Kuala Lumpur be 30°C on July 26?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will San Diego FC win on 2026-07-25?",
+          "odds": "+138",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -119,26 +125,20 @@
           "moved": "none"
         },
         {
-          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the Republican Party win the FL-07 House seat?",
           "odds": "-203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Chongqing be 40°C on July 27?",
-          "odds": "+455",
+          "event": "Will the highest temperature in San Francisco be between 64-65°F on July 26?",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Squid FDV above $100M one day after launch",
-          "odds": "+138",
+          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
