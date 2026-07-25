@@ -1,133 +1,40 @@
 {
-  "lastUpdated": "25 de julio de 2026 — 11:03 UTC",
+  "lastUpdated": "25 de julio de 2026 — 13:07 UTC",
   "ticker": [
-    "How Volker Turk won a new term as UN rights chief despite Israel opposition",
+    "What’s behind the ICC investigation into Karim Khan?",
+    "Iran blames US for Hormuz dispute as both sides confirm ongoing talks",
+    "Baby rescued after Israeli settlers set home on fire amid raids",
+    "At least 11 killed in Ukrainian and Russian strikes as holiday camp hit",
+    "Trump faces backlash for using ‘Palestinian’ as an insult",
+    "Tuberculosis: How drones are transforming care in the Philippines",
+    "Two buses collide in Syria, killing at least 35 people",
+    "India’s youth protesters are fighting Modi with irreverent humour and memes",
+    "How Volker Turk won new UN rights chief term despite US, Israel opposition",
     "Israel arrests dozens of Palestinians in West Bank amid settler attacks",
-    "India’s education minister resigns after weeks of ‘Cockroach’ protests",
-    "Dodging snipers, housing crisis forces Yemenis to live on front line",
-    "Wildfires in Spain and France force evacuation of 200,000 people",
-    "Born too soon: Premature babies fight for survival in Gaza",
-    "Guterres arrives in Syria in first official visit by a UN chief in 17 years",
-    "Trump: ‘I’m running for a fourth term as President of the United States’",
-    "Commonwealth Games: Gymnast Langton’s headfirst crash leads to concussion",
-    "Venezuelans hold vigil one month after devastating earthquakes",
-    "South Africa’s le Clos breaks Commonwealth Games record with 19th medal",
-    "Funerals held for four Palestinians killed in deadly West Bank shooting",
-    "‘The show must go on’: Trump returns to rescheduled White House press gala",
-    "Firefighters battle fire after fertiliser explosion in England",
-    "From palava huts to TikTok: How Liberians are preserving their past"
+    "India’s ‘Cockroach’ youth call off protests after education minister quits",
+    "Dodging snipers, housing crisis forces Yemenis to live on front line"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
-          "event": "Will Jaafar Jackson be nominated for Best Actor at the 99th Academy Awards?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Iran recognize Israel by December 31?",
-          "odds": "+2172",
-          "params": "Fuente: Polymarket",
+          "event": "Will Strait of Hormuz traffic return to normal in August?",
+          "odds": "+900",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
       "rows": [
         {
-          "event": "Will 1 Fed rate hike happen in 2026?",
-          "odds": "+257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will any presidential candidate win outright in the first round of the Brazil election?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Marco Rubio win the 2028 Republican presidential nomination?",
-          "odds": "+270",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Eduardo Braide win the Governor of Maranhão election?",
-          "odds": "-316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Susan Collins vote to confirm Todd Blanche as Attorney General?",
-          "odds": "+132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will UAE leave the Gulf Cooperation Council  in 2026?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the margin of victory at the end of the 2026 Tour De France be >7 minutes?",
-          "odds": "-1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Liverpool Montevideo win on 2026-07-25?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will OpenAI's valuation hit (HIGH) $2.0T by December 31?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the FL-09 House seat?",
-          "odds": "-233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Metro Bank One Day Cup: Essex vs Derbyshire",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Liaoning Tieren FC win on 2026-07-25?",
-          "odds": "-117",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
+          "event": "Will Trump say \"Tough Cookie\" during tribute to Lindsey Graham?",
+          "odds": "+334",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
