@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "25 de julio de 2026 — 16:02 UTC",
+  "lastUpdated": "25 de julio de 2026 — 17:53 UTC",
   "ticker": [
+    "Iran’s government spars with state TV as mediators push talks with US",
+    "Worker dies during reconstruction of Barcelona’s Camp Nou Stadium",
+    "India win second T20 in Zimbabwe to take series as Kishan and Varma shine",
     "‘We have done it’: Joy as ‘Cockroach’ protests push India minister out",
     "Syrian FM calls for Israeli withdrawal in meeting with UN chief",
     "The Battle Over Al-Aqsa",
@@ -12,10 +15,7 @@
     "Iran blames US for Hormuz dispute as both sides confirm ongoing talks",
     "Baby rescued after Israeli settlers set home on fire amid raids",
     "At least 11 killed in Ukrainian and Russian strikes as holiday camp hit",
-    "Trump faces backlash for using ‘Palestinian’ as an insult",
-    "Scrutiny of WNBA intensifies as disarray looms over All-Star festivities",
-    "Tuberculosis: How drones are transforming care in the Philippines",
-    "Two buses collide in Syria, killing at least 35 people"
+    "Trump faces backlash for using ‘Palestinian’ as an insult"
   ],
   "sections": [
     {
@@ -49,6 +49,18 @@
       ]
     },
     {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Las Vegas Aces vs. Indiana Fever",
+          "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
@@ -61,6 +73,12 @@
         {
           "event": "Will Marco Rubio win the 2028 Republican presidential nomination?",
           "odds": "+270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Katharina Pötter win the next Osnabrück mayoral election?",
+          "odds": "-334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -95,14 +113,14 @@
           "moved": "none"
         },
         {
-          "event": "Metro Bank One Day Cup: Essex vs Derbyshire",
-          "odds": "+100",
+          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
-          "odds": "+1011",
+          "event": "Will the highest temperature in Busan be 35°C on July 27?",
+          "odds": "+149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -119,8 +137,8 @@
           "moved": "none"
         },
         {
-          "event": "Will the Republican Party win the FL-07 House seat?",
-          "odds": "-203",
+          "event": "Will Enzo Fernandez stay at Chelsea?",
+          "odds": "+1860",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
