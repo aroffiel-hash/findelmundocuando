@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "25 de julio de 2026 — 02:00 UTC",
+  "lastUpdated": "25 de julio de 2026 — 02:04 UTC",
   "ticker": [
     "Sons of immigrant killed by ICE in Texas share grief, demand accountability",
     "Trump threatens EU will pay ‘big price’ after Brussels fines Google $1bn",
@@ -12,35 +12,134 @@
     "IOC rejects human rights group’s complaint against Trump ally Infantino",
     "China, Philippine coastguard vessels clash in South China Sea",
     "Paramount agrees to pause Warner Bros deal while court case plays out",
-    "Iran’s Abbas Araghchi vows ‘we fear no one’"
+    "Iran’s Abbas Araghchi vows ‘we fear no one’",
+    "Fury dominates Wach in Thailand boxing bout ahead of Joshua showdown",
+    "Spanish police accuse tractor driver of sparking wildfire as blazes spread",
+    "UNESCO places occupied West Bank, Lebanon sites on endangered heritage list"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Iran leadership change by June 30, 2027?",
           "odds": "+156",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jaafar Jackson be nominated for Best Actor at the 99th Academy Awards?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Iran recognize Israel by December 31?",
           "odds": "+2172",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y ENERGÍA",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
           "event": "Will 1 Fed rate hike happen in 2026?",
           "odds": "+257",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con política monetaria de la Fed.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will any presidential candidate win outright in the first round of the Brazil election?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Eduardo Braide win the Governor of Maranhão election?",
+          "odds": "-316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Marco Rubio win the 2028 Republican presidential nomination?",
+          "odds": "+255",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Susan Collins vote to confirm Todd Blanche as Attorney General?",
+          "odds": "+132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Kshama Sawant advance to the general election for WA-09?",
+          "odds": "+177",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Counter-Strike: Lazer Cats vs Inner Circle Academy (BO3) - Thunderpick World Championship European Series #2 Group A",
+          "odds": "-104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the OH-07 House seat?",
+          "odds": "-143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will UAE leave the Gulf Cooperation Council  in 2026?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: Club Universitario de Deportes 1 - 0 Cusco FC?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Spirit Win BLAST Bounty 2026 Season 2?",
+          "odds": "+132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will OpenAI's valuation hit (HIGH) $2.0T by December 31?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the FL-09 House seat?",
+          "odds": "-233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
