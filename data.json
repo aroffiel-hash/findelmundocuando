@@ -1,40 +1,115 @@
 {
-  "lastUpdated": "25 de julio de 2026 — 13:07 UTC",
+  "lastUpdated": "25 de julio de 2026 — 13:09 UTC",
   "ticker": [
+    "F1 needs better balance between business and sport, says Norris",
     "What’s behind the ICC investigation into Karim Khan?",
     "Iran blames US for Hormuz dispute as both sides confirm ongoing talks",
     "Baby rescued after Israeli settlers set home on fire amid raids",
     "At least 11 killed in Ukrainian and Russian strikes as holiday camp hit",
     "Trump faces backlash for using ‘Palestinian’ as an insult",
+    "Scrutiny of WNBA intensifies as disarray looms over All-Star festivities",
     "Tuberculosis: How drones are transforming care in the Philippines",
     "Two buses collide in Syria, killing at least 35 people",
     "India’s youth protesters are fighting Modi with irreverent humour and memes",
     "How Volker Turk won new UN rights chief term despite US, Israel opposition",
     "Israel arrests dozens of Palestinians in West Bank amid settler attacks",
     "India’s ‘Cockroach’ youth call off protests after education minister quits",
-    "Dodging snipers, housing crisis forces Yemenis to live on front line"
+    "Dodging snipers, housing crisis forces Yemenis to live on front line",
+    "Wildfires in Spain and France force evacuation of more than 250,000 people"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Strait of Hormuz traffic return to normal in August?",
-          "odds": "+900",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Will \"Digger\" be nominated for Best Picture at the 99th Academy Awards?",
+          "odds": "-334",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Trump say \"Tough Cookie\" during tribute to Lindsey Graham?",
-          "odds": "+334",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Will any presidential candidate win outright in the first round of the Brazil election?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Marco Rubio win the 2028 Republican presidential nomination?",
+          "odds": "+270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Eduardo Braide win the Governor of Maranhão election?",
+          "odds": "-354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Susan Collins vote to confirm Todd Blanche as Attorney General?",
+          "odds": "+132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will UAE leave the Gulf Cooperation Council  in 2026?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Toronto Blue Jays vs. Boston Red Sox",
+          "odds": "+104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will CXMT’s closing IPO market cap be at least 3T yuan?",
+          "odds": "+212",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Liverpool Montevideo win on 2026-07-25?",
+          "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the FL-09 House seat?",
+          "odds": "-233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Strait of Hormuz traffic return to normal in August?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Metro Bank One Day Cup: Essex vs Derbyshire",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
