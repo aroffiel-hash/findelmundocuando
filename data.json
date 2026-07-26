@@ -1,52 +1,133 @@
 {
-  "lastUpdated": "26 de julio de 2026 — 13:04 UTC",
+  "lastUpdated": "26 de julio de 2026 — 13:21 UTC",
   "ticker": [
+    "Israeli crackdown in occupied West Bank intensifies, settlers cause mayhem",
+    "Eighteen people missing in South China Sea after Vietnamese ship sank",
     "President Ahmed al-Sharaa: Syria seeking security deal with Israel",
     "What is the AI Kill Switch Act proposed in the US and how will it work?",
+    "Casemiro makes Inter Miami debut despite MLS investigation into transfer",
     "Iran’s army issues warning ahead of Netanyahu’s US visit",
     "‘No accountability for settler war crimes against Palestinians’",
+    "Malaysia to host rescheduled Bahrain Grand Prix F1 race in October",
     "Anti-war protesters demand end to US use of UK airbase to strike Iran",
     "Female football referee suffers concussion amid male players’ melee",
     "Why the UK cancelled a military exercise in Kenya – and what it means",
     "After Strait of Hormuz and Red Sea, has Iran war now reached Caspian Sea?",
     "Who is India’s new education minister?",
     "Japanese football legend ‘King Kazu’, 59, scores first goal in four years",
-    "Photos: Wildfires in France drive 250,000 people from their homes",
-    "Israeli protesters denounce deadly settler violence"
+    "Photos: Wildfires in France drive 250,000 people from their homes"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "UNSC Resolution Endorsing Final U.S.-Iran Deal by December 31?",
           "odds": "+233",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
-      "rows": [
-        {
-          "event": "Will Trump say \"Oil\" during Michigan remarks?",
-          "odds": "-669",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y ENERGÍA",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
           "event": "Will 2 Fed rate hikes happen in 2026?",
           "odds": "+244",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con política monetaria de la Fed.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Las Vegas Aces vs. Indiana Fever",
+          "odds": "-233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will UK GDP growth in Q2 2026 be between 0% and 0.1%?",
+          "odds": "+143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump say \"Oil\" during Michigan remarks?",
+          "odds": "-669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Marco Rubio win the 2028 Republican presidential nomination?",
+          "odds": "+270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Kai Stephens get second place in the Clacton by-election?",
+          "odds": "+1076",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "FK Rostov leading at halftime?",
+          "odds": "+284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the next Claude Opus model debut with a Humanity’s Last Exam score of 40% or higher?",
+          "odds": "-809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the FL-07 House seat?",
+          "odds": "-203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the lowest temperature in Tokyo be 24°C on July 27?",
+          "odds": "+117",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Beijing be 35°C on July 28?",
+          "odds": "+170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Enzo Fernandez stay at Chelsea?",
+          "odds": "-900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Apyx launch a token by September 30, 2027?",
+          "odds": "-257",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
