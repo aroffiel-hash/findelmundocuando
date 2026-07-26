@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "26 de julio de 2026 — 20:49 UTC",
+  "lastUpdated": "26 de julio de 2026 — 21:52 UTC",
   "ticker": [
+    "Israeli government nods to international stabilisation force in Gaza",
+    "Palestinians hope international peace force can rebuild Gaza",
+    "US and Iran hit pause on strikes for second day",
+    "Former President Hernandez returns to Honduras after Trump pardon",
     "Houthis claim Saudi drone downed over northwestern Yemen",
     "What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?",
     "Al-Sharaa outlines Syria’s approach to security with Israel and Lebanon",
@@ -11,11 +15,7 @@
     "Romania summons Russian envoy as it shoots down third intruding drone",
     "Al-Sharaa praises Trump’s decision to remove Syria from terrorism list",
     "Police shoot dead Berlin Pride car-ramming attack suspect",
-    "Israel launches military incursion into Syria amid UN condemnation",
-    "‘Freeze the conflict’: Drones slow Kazakh oil flow amid Russia-Ukraine war",
-    "Israel obstructing takeover of pilot zones in Lebanon’s south: Military",
-    "Heatwave drives major wildfires across North Africa",
-    "Darfur: Weaponising Identity"
+    "Israel launches military incursion into Syria amid UN condemnation"
   ],
   "sections": [
     {
@@ -23,20 +23,14 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
+          "event": "Will Warren: Strikeouts O/U 4.5",
+          "odds": "+122",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Jaafar Jackson be nominated for Best Actor at the 99th Academy Awards?",
           "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Russia enter Borova by September 30?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Iran recognize Israel by December 31?",
-          "odds": "+2172",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -57,6 +51,12 @@
           "odds": "+143",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $95 Week of July 27 2026?",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -66,7 +66,7 @@
       "rows": [
         {
           "event": "Will Marco Rubio win the 2028 Republican presidential nomination?",
-          "odds": "+270",
+          "odds": "+271",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -95,8 +95,8 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Denver be between 100-101°F on July 26?",
-          "odds": "-185",
+          "event": "CF Universidad de Chile leading at halftime?",
+          "odds": "+194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -113,26 +113,26 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Qingdao be 31°C on July 27?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the Republican Party win the FL-07 House seat?",
           "odds": "-203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will FK Septemvri Sofia win on 2026-07-26?",
-          "odds": "-1011",
+          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will FC København win on 2026-07-29?",
-          "odds": "-212",
+          "event": "Will Enzo Fernandez stay at Chelsea?",
+          "odds": "-900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Chicago be between 86-87°F on July 27?",
+          "odds": "+244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
