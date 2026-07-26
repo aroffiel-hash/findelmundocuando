@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "26 de julio de 2026 — 21:52 UTC",
+  "lastUpdated": "26 de julio de 2026 — 22:53 UTC",
   "ticker": [
+    "Trump’s border czar probes possible vetting failures after ICE shooting",
+    "What’s causing the unprecedented wildfires in Europe?",
     "Israeli government nods to international stabilisation force in Gaza",
     "Palestinians hope international peace force can rebuild Gaza",
     "US and Iran hit pause on strikes for second day",
@@ -13,9 +15,7 @@
     "Netanyahu vows to go to New York City despite ICC arrest warrant, Mamdani",
     "Israeli settlers burn two mosques in occupied West Bank",
     "Romania summons Russian envoy as it shoots down third intruding drone",
-    "Al-Sharaa praises Trump’s decision to remove Syria from terrorism list",
-    "Police shoot dead Berlin Pride car-ramming attack suspect",
-    "Israel launches military incursion into Syria amid UN condemnation"
+    "Al-Sharaa praises Trump’s decision to remove Syria from terrorism list"
   ],
   "sections": [
     {
@@ -31,6 +31,18 @@
         {
           "event": "Will Jaafar Jackson be nominated for Best Actor at the 99th Academy Awards?",
           "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Russia enter Borova by September 30?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Iran recognize Israel by December 31?",
+          "odds": "+2172",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -49,12 +61,6 @@
         {
           "event": "Will UK GDP growth in Q2 2026 be between 0% and 0.1%?",
           "odds": "+143",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $95 Week of July 27 2026?",
-          "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -89,18 +95,6 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Exact Score: FK Rubin Kazan 1 - 1 FK Krasnodar?",
-          "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "CF Universidad de Chile leading at halftime?",
-          "odds": "+194",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will MrBeast's next video get at least 23 million views on day 2?",
           "odds": "+300",
           "params": "Fuente: Polymarket",
@@ -131,8 +125,20 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Chicago be between 86-87°F on July 27?",
-          "odds": "+244",
+          "event": "Barcelona SC vs. LDU Quito: Both Teams to Score",
+          "odds": "+104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Apyx launch a token by September 30, 2027?",
+          "odds": "-257",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Squid FDV above $100M one day after launch",
+          "odds": "+138",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
