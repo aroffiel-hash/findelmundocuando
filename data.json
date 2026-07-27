@@ -1,33 +1,27 @@
 {
-  "lastUpdated": "27 de julio de 2026 — 02:22 UTC",
+  "lastUpdated": "27 de julio de 2026 — 06:21 UTC",
   "ticker": [
+    "Climate change presents new threat to Philippines’ UNESCO rice terraces",
+    "Pakistan’s Kashmir votes: Why the election hinges on 12 disputed seats",
+    "Protests erupt in Libya’s Tripoli as anger grows over power cuts",
+    "Firefighters battle wildfires in Spain’s eastern Castellon province",
+    "Thousands march in Pakistan-administered Kashmir amid election unrest",
+    "Sudan’s army claims control of major highway linking Khartoum and el-Obeid",
+    "Vendor’s livestream captures chaos as gunfire erupts at Seattle Center",
+    "Sudan’s army regains control of highway linking Khartoum with El Obeid",
+    "Russia and Ukraine trade attacks, killing 10, including child in Chernihiv",
+    "Firefighters battle to contain wildfires still burning near Bordeaux",
+    "Why Mali’s northern conflict has entered a dangerous new phase",
+    "Massive iceberg capsizes off the coast of Greenland",
     "Ebola infections in DR Congo surge to 3,200, with 1,405 deaths",
     "Lebanese return to homes of rubble left by Israel in so-called pilot zones",
-    "Guterres tours Syria’s notorious ‘Assad Prison’ in Sednaya",
-    "Iran war live: Tehran halts retaliatory strikes after pause in US attacks",
-    "Khamenei ties US-Iran peace deal to Israel ending attacks on Lebanon",
-    "Trump’s border czar probes possible vetting failures after ICE shooting",
-    "What’s causing the unprecedented wildfires in Europe?",
-    "Israeli government nods to international stabilisation force in Gaza",
-    "Palestinians hope international peace force can rebuild Gaza",
-    "US and Iran hit pause on strikes for second day",
-    "Former President Hernandez returns to Honduras after Trump pardon",
-    "Houthis claim Saudi drone downed over northwestern Yemen",
-    "What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?",
-    "Al-Sharaa outlines Syria’s approach to security with Israel and Lebanon",
-    "46 people rescued from sunken ship in South China Sea"
+    "Guterres tours Syria’s notorious ‘Assad Prison’ in Sednaya"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Will Warren: Strikeouts O/U 4.5",
-          "odds": "+122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Russia enter Borova by September 30?",
           "odds": "+525",
@@ -45,6 +39,12 @@
           "odds": "+2172",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Israel military action against Yemen by July 31?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -52,12 +52,6 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
-        {
-          "event": "Will 2 Fed rate hikes happen in 2026?",
-          "odds": "+203",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will UK GDP growth in Q2 2026 be between 0% and 0.1%?",
           "odds": "+143",
@@ -113,12 +107,6 @@
           "moved": "none"
         },
         {
-          "event": "Will the Republican Party win the FL-07 House seat?",
-          "odds": "-203",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
           "odds": "+1011",
           "params": "Fuente: Polymarket",
@@ -133,6 +121,12 @@
         {
           "event": "Will Apyx launch a token by September 30, 2027?",
           "odds": "-257",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Tokyo be 28°C on July 28?",
+          "odds": "+525",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
