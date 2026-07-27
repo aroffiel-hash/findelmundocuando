@@ -1,27 +1,39 @@
 {
-  "lastUpdated": "27 de julio de 2026 — 06:21 UTC",
+  "lastUpdated": "27 de julio de 2026 — 10:35 UTC",
   "ticker": [
-    "Climate change presents new threat to Philippines’ UNESCO rice terraces",
-    "Pakistan’s Kashmir votes: Why the election hinges on 12 disputed seats",
-    "Protests erupt in Libya’s Tripoli as anger grows over power cuts",
-    "Firefighters battle wildfires in Spain’s eastern Castellon province",
-    "Thousands march in Pakistan-administered Kashmir amid election unrest",
-    "Sudan’s army claims control of major highway linking Khartoum and el-Obeid",
-    "Vendor’s livestream captures chaos as gunfire erupts at Seattle Center",
-    "Sudan’s army regains control of highway linking Khartoum with El Obeid",
-    "Russia and Ukraine trade attacks, killing 10, including child in Chernihiv",
-    "Firefighters battle to contain wildfires still burning near Bordeaux",
-    "Why Mali’s northern conflict has entered a dangerous new phase",
-    "Massive iceberg capsizes off the coast of Greenland",
-    "Ebola infections in DR Congo surge to 3,200, with 1,405 deaths",
-    "Lebanese return to homes of rubble left by Israel in so-called pilot zones",
-    "Guterres tours Syria’s notorious ‘Assad Prison’ in Sednaya"
+    "Sam Altman says AI has entered ‘singularity’: Should we be worried?",
+    "FIFA’s Infantino issues letter, accuses World Cup critics of spreading hate",
+    "Macron calls crisis meeting of French cabinet as blaze approaches Bordeaux",
+    "The Ban: A censorship loophole during the conflict in Northern Ireland",
+    "Diomande, Real Madrid ‘agree terms’ for transfer of Leipzig winger",
+    "Death toll from Pakistan monsoon rains, floods tops 100",
+    "Greta Thunberg joins London rally in support of Indian students",
+    "Spanish PM Pedro Sanchez thanks young Gaza artist for painting him",
+    "World’s oldest professional footballer scores first goal in years",
+    "Netanyahu accuses Mamdani of ‘fomenting hate’ ahead of US visit",
+    "The AI military complex: Which are the main companies in it?",
+    "Tadej Pogacar wins Tour de France for a record-equalling fifth time",
+    "German arms export licences for Israel surge with focus on sub project",
+    "Iran warns Ukraine of retaliation after deadly Caspian Sea strike",
+    "Climate change presents new threat to Philippines’ UNESCO rice terraces"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Israel military action against Yemen by July 31?",
+          "odds": "+2122",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Iran recognize Israel by December 31?",
+          "odds": "+2172",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Russia enter Borova by September 30?",
           "odds": "+525",
@@ -33,18 +45,6 @@
           "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will Iran recognize Israel by December 31?",
-          "odds": "+2172",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Israel military action against Yemen by July 31?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -52,6 +52,12 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
+        {
+          "event": "Will S&P 500 (SPY) hit (LOW) $725 Week of July 27 2026?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will UK GDP growth in Q2 2026 be between 0% and 0.1%?",
           "odds": "+143",
@@ -67,12 +73,6 @@
         {
           "event": "Will Marco Rubio win the 2028 Republican presidential nomination?",
           "odds": "+270",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Karishma Manzur be the Democratic nominee for Senate in New Hampshire?",
-          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -107,6 +107,18 @@
           "moved": "none"
         },
         {
+          "event": "Will Brighton & Hove Albion qualify for the League Phase of the 2026-27 UEFA Conference League?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will El Salvador hold $1b+ of BTC by December 31, 2026?",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
           "odds": "+1011",
           "params": "Fuente: Polymarket",
@@ -119,32 +131,20 @@
           "moved": "none"
         },
         {
-          "event": "Will Apyx launch a token by September 30, 2027?",
-          "odds": "-257",
+          "event": "Will RSC Anderlecht win on 2026-07-30?",
+          "odds": "+122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Tokyo be 28°C on July 28?",
-          "odds": "+525",
+          "event": "Will Microsoft Corporation (MSFT) hit (LOW) $360 Week of July 27 2026?",
+          "odds": "+170",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Squid FDV above $100M one day after launch",
           "odds": "+138",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Elon Musk tweet \"Hyperliquid\" by December 31, 2026?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the median home value in the Chicago Metro be at least $345,000 on September 30?",
-          "odds": "+376",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
