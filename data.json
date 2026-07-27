@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "26 de julio de 2026 — 23:54 UTC",
+  "lastUpdated": "27 de julio de 2026 — 02:12 UTC",
   "ticker": [
+    "Lebanese return to homes of rubble left by Israel in so-called pilot zones",
+    "Guterres tours Syria’s notorious ‘Assad Prison’ in Sednaya",
+    "Iran war live: Tehran halts retaliatory strikes after pause in US attacks",
+    "Khamenei ties US-Iran peace deal to Israel ending attacks on Lebanon",
     "Trump’s border czar probes possible vetting failures after ICE shooting",
     "What’s causing the unprecedented wildfires in Europe?",
     "Israeli government nods to international stabilisation force in Gaza",
@@ -8,150 +12,53 @@
     "US and Iran hit pause on strikes for second day",
     "Former President Hernandez returns to Honduras after Trump pardon",
     "Houthis claim Saudi drone downed over northwestern Yemen",
-    "What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?",
-    "Al-Sharaa outlines Syria’s approach to security with Israel and Lebanon",
-    "46 people rescued from sunken ship in South China Sea",
-    "Cuban president accuses US of genocide, seeking takeover",
-    "Netanyahu vows to go to New York City despite ICC arrest warrant, Mamdani",
-    "Israeli settlers burn two mosques in occupied West Bank",
-    "Romania summons Russian envoy as it shoots down third intruding drone",
-    "Al-Sharaa praises Trump’s decision to remove Syria from terrorism list"
+    "What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
-        {
-          "event": "Will Warren: Strikeouts O/U 4.5",
-          "odds": "+122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Jaafar Jackson be nominated for Best Actor at the 99th Academy Awards?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Russia enter Borova by September 30?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Iran recognize Israel by December 31?",
           "odds": "+2172",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
+      "rows": [
+        {
+          "event": "Will Russia enter Borova by September 30?",
+          "odds": "+525",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
+      "rows": [
+        {
+          "event": "Will Trump make no announcement for the next FDA commissioner by December 31?",
+          "odds": "+545",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "label": "ECONOMÍA Y ENERGÍA",
       "rows": [
         {
           "event": "Will 2 Fed rate hikes happen in 2026?",
-          "odds": "+244",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will UK GDP growth in Q2 2026 be between 0% and 0.1%?",
-          "odds": "+143",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will Marco Rubio win the 2028 Republican presidential nomination?",
-          "odds": "+270",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Kai Stephens get second place in the Clacton by-election?",
-          "odds": "+1076",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Susan Collins vote to confirm Todd Blanche as Attorney General?",
-          "odds": "+132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Karishma Manzur be the Democratic nominee for Senate in New Hampshire?",
-          "odds": "+1512",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Kshama Sawant advance to the general election for WA-09?",
-          "odds": "+177",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will the highest temperature in Atlanta be between 96-97°F on July 27?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Buenos Aires be 18°C on July 27?",
-          "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the FL-07 House seat?",
-          "odds": "-203",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the lowest temperature in Miami be between 74-75°F on July 27?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Enzo Fernandez stay at Chelsea?",
-          "odds": "-900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Apyx launch a token by September 30, 2027?",
-          "odds": "-257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Squid FDV above $100M one day after launch",
-          "odds": "+138",
-          "params": "Fuente: Polymarket",
+          "odds": "+203",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con política monetaria de la Fed.",
           "moved": "none"
         }
       ]
