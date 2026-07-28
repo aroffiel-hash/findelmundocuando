@@ -1,6 +1,7 @@
 {
-  "lastUpdated": "28 de julio de 2026 — 22:57 UTC",
+  "lastUpdated": "28 de julio de 2026 — 23:56 UTC",
   "ticker": [
+    "Yemen’s Houthis claim missile attack on Saudi Arabia oil tanker",
     "Japan Kumamoto earthquake: What happened, damage, victims, latest updates",
     "Israeli airstrike destroys Gaza City mosque near displacement camp",
     "Donald Trump and world leaders attend Lindsey Graham’s funeral",
@@ -14,8 +15,7 @@
     "New poll shows confusion over Democratic Socialists of America ideals",
     "What will it take to stop the conflict in Sudan?",
     "West Bank quarry owner appeals to Trump after settler raid",
-    "‘The dream I carried is gone’: Miscarriages rise amid trauma of Gaza’s war",
-    "Malaysian foreign minister calls for review of UNHCR’s presence"
+    "‘The dream I carried is gone’: Miscarriages rise amid trauma of Gaza’s war"
   ],
   "sections": [
     {
@@ -83,12 +83,6 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Panama City be 35°C on July 29?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the highest temperature in New York City be between 74-75°F on July 28?",
           "odds": "+2400",
           "params": "Fuente: Polymarket",
@@ -121,6 +115,12 @@
         {
           "event": "Will Trump make no announcement for the next FDA commissioner by December 31?",
           "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
