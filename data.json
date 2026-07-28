@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "28 de julio de 2026 — 05:13 UTC",
+  "lastUpdated": "28 de julio de 2026 — 08:22 UTC",
   "ticker": [
+    "‘War criminal’: Protesters confront Netanyahu motorcade in Washington DC",
+    "Conor McGregor calls for third UFC fight against Max Holloway in 2027",
+    "Ukraine’s ‘volunteer army’ helps rebuild what Russia destroys",
+    "Refugee Convention at 75: The world must keep the promise that saved me",
+    "Palestine weekly: West Bank in flames after Tal killings",
+    "Mamdani tackles cost of living crisis in New York with 30% discounts",
     "Malaysia detains more than 100 Rohingya seeking help from the UN",
     "Trump calls protester ‘communist’ after Michigan speech interruption",
     "Israeli ex-generals urge Trump to push Netanyahu on ‘settler terror’",
@@ -9,13 +15,7 @@
     "Trump says Iran talks taking place during pause in US military strikes",
     "Ebola response workers strike in DR Congo as death toll spikes",
     "How telehealth is helping close the healthcare gap in rural Zimbabwe",
-    "Former senior ICE official says rush for numbers is causing deaths",
-    "Johnson & Johnson offers $5.5bn to settle talc cancer lawsuits",
-    "Houthis want to copy Iran’s Hormuz control in the Red Sea: Yemeni FM",
-    "Savannah Guthrie pleads for help to find missing mother",
-    "Trump on Erdogan, Netanyahu and selling fighter jets to Turkiye",
-    "Iran war live: Trump says ‘friendly’ talks ongoing; Netanyahu arrives in US",
-    "US diplomats walk out as France addresses UN Security Council"
+    "Former senior ICE official says rush for numbers is causing deaths"
   ],
   "sections": [
     {
@@ -47,12 +47,6 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "WTI Crude Oil (WTI) closes above $83 on July 28?",
-          "odds": "+222",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will WTI Crude Oil (WTI) hit (LOW) $75 in August?",
           "odds": "-138",
           "params": "Fuente: Polymarket",
@@ -75,6 +69,12 @@
           "odds": "+143",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will the Bank of Canada make no change to the target for the overnight rate at the September interest rate announcement?",
+          "odds": "-1023",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -85,6 +85,12 @@
         {
           "event": "Will Marco Rubio win the 2028 Republican presidential nomination?",
           "odds": "+270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Coalition Avenir Québec win the most seats in the 2026 Quebec general election?",
+          "odds": "+426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -105,12 +111,6 @@
           "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will Coalition Avenir Québec win the most seats in the 2026 Quebec general election?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -125,8 +125,20 @@
           "moved": "none"
         },
         {
+          "event": "Will anyone say \"Moon\" during Big Brother E13?",
+          "odds": "+170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Brighton & Hove Albion qualify for the League Phase of the 2026-27 UEFA Conference League?",
           "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Apple say \"Sport\" during earnings call?",
+          "odds": "+163",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -149,20 +161,8 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest score achieved by a SpaceXAI Grok model on Humanity’s Last Exam in 2026 be 55% or higher?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will SK Brann vs. FC Universitatea Cluj end in a draw?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Vancouver: Andres Andrade vs Alexei Popyrin",
-          "odds": "+400",
+          "event": "Will the highest temperature in Shenzhen be 31°C on July 29?",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
