@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "28 de julio de 2026 — 01:57 UTC",
+  "lastUpdated": "28 de julio de 2026 — 05:13 UTC",
   "ticker": [
+    "Malaysia detains more than 100 Rohingya seeking help from the UN",
+    "Trump calls protester ‘communist’ after Michigan speech interruption",
+    "Israeli ex-generals urge Trump to push Netanyahu on ‘settler terror’",
+    "Ukraine’s Zelenskyy set to meet Trump as Iran and Ukraine wars converge",
+    "US warns hundreds of Boeing jets may require seat safety inspections",
+    "Trump says Iran talks taking place during pause in US military strikes",
+    "Ebola response workers strike in DR Congo as death toll spikes",
+    "How telehealth is helping close the healthcare gap in rural Zimbabwe",
     "Former senior ICE official says rush for numbers is causing deaths",
-    "J&J offers $5.5bn settlement in lawsuits claiming talc link to cancer",
+    "Johnson & Johnson offers $5.5bn to settle talc cancer lawsuits",
     "Houthis want to copy Iran’s Hormuz control in the Red Sea: Yemeni FM",
     "Savannah Guthrie pleads for help to find missing mother",
     "Trump on Erdogan, Netanyahu and selling fighter jets to Turkiye",
-    "Iran war live: Trump touts ‘friendly talks’; Netanyahu arrives in US",
-    "US diplomats walk out as France addresses UN Security Council",
-    "Shot fired outside US consulate in Canada for second time this year",
-    "Video shows man subdued after stabbing three women in Paris",
-    "Trump asks US Supreme Court to allow mail-in voting restrictions",
-    "UN slams Israel’s expansion of illegal settlements in occupied West Bank",
-    "Nvidia plans $250bn push to bolster OpenAI’s infrastructure ambitions",
-    "Hopes of return to diplomacy as US-Iran hold fire for third day",
-    "Will Peru’s new leader Keiko Fujimori reject her father’s legacy?",
-    "British court dismisses Bahrain’s bid to block activists’ spyware lawsuit"
+    "Iran war live: Trump says ‘friendly’ talks ongoing; Netanyahu arrives in US",
+    "US diplomats walk out as France addresses UN Security Council"
   ],
   "sections": [
     {
@@ -47,6 +47,18 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
+          "event": "WTI Crude Oil (WTI) closes above $83 on July 28?",
+          "odds": "+222",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will WTI Crude Oil (WTI) hit (LOW) $75 in August?",
+          "odds": "-138",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Germany GDP growth in Q2 2026 be less than or equal to 0.0%?",
           "odds": "+589",
           "params": "Fuente: Polymarket",
@@ -63,12 +75,6 @@
           "odds": "+143",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will the Bank of Canada make no change to the target for the overnight rate at the September interest rate announcement?",
-          "odds": "-1023",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -78,13 +84,7 @@
       "rows": [
         {
           "event": "Will Marco Rubio win the 2028 Republican presidential nomination?",
-          "odds": "+271",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will AfD win 38-41 seats in the 2026 Sachsen-Anhalt parliamentary elections?",
-          "odds": "+177",
+          "odds": "+270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -161,8 +161,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Trump make no announcement for the next FDA commissioner by December 31?",
-          "odds": "+185",
+          "event": "Vancouver: Andres Andrade vs Alexei Popyrin",
+          "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
