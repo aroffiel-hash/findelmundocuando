@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "28 de julio de 2026 — 21:57 UTC",
+  "lastUpdated": "28 de julio de 2026 — 22:57 UTC",
   "ticker": [
+    "Japan Kumamoto earthquake: What happened, damage, victims, latest updates",
+    "Israeli airstrike destroys Gaza City mosque near displacement camp",
     "Donald Trump and world leaders attend Lindsey Graham’s funeral",
     "Iran and Oman exchange proposals to manage Strait of Hormuz",
     "Rome’s viral graffiti cleaner is taking on an ancient problem",
@@ -13,29 +15,9 @@
     "What will it take to stop the conflict in Sudan?",
     "West Bank quarry owner appeals to Trump after settler raid",
     "‘The dream I carried is gone’: Miscarriages rise amid trauma of Gaza’s war",
-    "Malaysian foreign minister calls for review of UNHCR’s presence",
-    "‘No freedom at all’: Israeli closures leave West Bank patients trapped",
-    "Uganda declares end to Ebola outbreak"
+    "Malaysian foreign minister calls for review of UNHCR’s presence"
   ],
   "sections": [
-    {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
-      "rows": [
-        {
-          "event": "Will the highest temperature in Warsaw be 26°C on July 29?",
-          "odds": "-112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will United Russia win the next Kaliningrad Oblast Parliament elections?",
-          "odds": "-1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
     {
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
@@ -107,6 +89,12 @@
           "moved": "none"
         },
         {
+          "event": "Will the highest temperature in New York City be between 74-75°F on July 28?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Leavitt say \"Border\" during the next White House Press Briefing?",
           "odds": "-122",
           "params": "Fuente: Polymarket",
@@ -119,26 +107,20 @@
           "moved": "none"
         },
         {
-          "event": "Will Enzo Fernandez stay at Chelsea?",
-          "odds": "-754",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in New York City be between 74-75°F on July 28?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Al Ain FC leading at halftime?",
-          "odds": "+455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the highest score achieved by a SpaceXAI Grok model on Humanity’s Last Exam in 2026 be 55% or higher?",
           "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will SK Brann vs. FC Universitatea Cluj end in a draw?",
+          "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump make no announcement for the next FDA commissioner by December 31?",
+          "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
