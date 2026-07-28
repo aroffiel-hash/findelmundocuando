@@ -1,6 +1,7 @@
 {
-  "lastUpdated": "28 de julio de 2026 — 13:46 UTC",
+  "lastUpdated": "28 de julio de 2026 — 13:48 UTC",
   "ticker": [
+    "France and Spain brace for heatwave that could worsen raging wildfires",
     "Roberto Mancini to be named Italy head coach for second time, source says",
     "Israeli soldier runs marathon around Gaza outpost",
     "Tate brothers face at least two more weeks in US jail as bail bid reviewed",
@@ -12,23 +13,139 @@
     "Why has Iran’s economy not collapsed under US war pressure?",
     "Fatal Shooting in ICE Operations",
     "Tate’s attorney says allegations ‘puts a target on their backs’",
-    "Authorities open fire amid election unrest in Pakistan-administered Kashmir"
+    "Authorities open fire amid election unrest in Pakistan-administered Kashmir",
+    "Israeli settler attack on at-Tuwani",
+    "Why London’s Hackney Council wants to repeal its ‘twin’ status with Haifa"
   ],
   "sections": [
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Trump make no announcement for the next FDA commissioner by December 31?",
-          "odds": "+185",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Will Jaafar Jackson be nominated for Best Actor at the 99th Academy Awards?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will Germany GDP growth in Q2 2026 be less than or equal to 0.0%?",
+          "odds": "+589",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Trump say \"State of the Art\" in July?",
-          "odds": "+733",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Microsoft (MSFT) Q4 Azure revenue growth (constant currency) 38%-40%?",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will UK GDP growth in Q2 2026 be between 0% and 0.1%?",
+          "odds": "+143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Marco Rubio win the 2028 Republican presidential nomination?",
+          "odds": "+270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Belit Onay win the next Hannover mayoral election?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Coalition Avenir Québec win the most seats in the 2026 Quebec general election?",
+          "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Kai Stephens get second place in the Clacton by-election?",
+          "odds": "+1076",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Susan Collins vote to confirm Todd Blanche as Attorney General?",
+          "odds": "+132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Nigel Farage win 50–60% of votes in the Clacton parliamentary by-election?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Exact Score: CD Concepción 3 - 1 O'Higgins FC?",
+          "odds": "+1983",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Brighton & Hove Albion qualify for the League Phase of the 2026-27 UEFA Conference League?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Set Handicap: Erel (-1.5) vs Azkara (+1.5)",
+          "odds": "-117",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will El Salvador hold $1b+ of BTC by December 31, 2026?",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Enzo Fernandez stay at Chelsea?",
+          "odds": "-754",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest score achieved by a SpaceXAI Grok model on Humanity’s Last Exam in 2026 be 55% or higher?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will SK Brann vs. FC Universitatea Cluj end in a draw?",
+          "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump make no announcement for the next FDA commissioner by December 31?",
+          "odds": "+185",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
