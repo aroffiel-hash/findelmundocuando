@@ -1,127 +1,28 @@
 {
-  "lastUpdated": "28 de julio de 2026 — 23:56 UTC",
+  "lastUpdated": "29 de julio de 2026 — 01:55 UTC",
   "ticker": [
+    "After fleeing Sudan’s war, refugees battle thirst in Chad’s camps",
+    "Media not invited as Trump, Netanyahu hold talks at the White House",
+    "Turkiye takes ‘historic step’ on energy alliance with Iraq",
+    "Protests in Lima as Keiko Fujimori sworn in as Peru president",
+    "FIFA proposes plan to sell stakes in the World Cup, angering UEFA",
+    "Iran war live: US, Saudi forces attack Tehran-aligned groups in Iraq",
     "Yemen’s Houthis claim missile attack on Saudi Arabia oil tanker",
     "Japan Kumamoto earthquake: What happened, damage, victims, latest updates",
     "Israeli airstrike destroys Gaza City mosque near displacement camp",
     "Donald Trump and world leaders attend Lindsey Graham’s funeral",
     "Iran and Oman exchange proposals to manage Strait of Hormuz",
-    "Rome’s viral graffiti cleaner is taking on an ancient problem",
-    "Many feared dead from 7.1-magnitude quake in Kumamoto, Japan",
-    "Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack",
-    "Protests in DC against Netanyahu’s meeting with Trump",
-    "Keiko Fujimori sworn in as Peru president after narrow election win",
-    "How US defence aid shaped Israel’s military developments since Oct 7, 2023",
-    "New poll shows confusion over Democratic Socialists of America ideals",
-    "What will it take to stop the conflict in Sudan?",
-    "West Bank quarry owner appeals to Trump after settler raid",
-    "‘The dream I carried is gone’: Miscarriages rise amid trauma of Gaza’s war"
+    "Many feared dead from 7.1-magnitude quake in Kumamoto, Japan"
   ],
   "sections": [
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
       "rows": [
-        {
-          "event": "Will Germany GDP growth in Q2 2026 be less than or equal to 0.0%?",
-          "odds": "+589",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Microsoft (MSFT) Q4 Azure revenue growth (constant currency) 38%-40%?",
-          "odds": "+233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will UK GDP growth in Q2 2026 be between 0% and 0.1%?",
-          "odds": "+143",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will Marco Rubio win the 2028 Republican presidential nomination?",
-          "odds": "+270",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Kai Stephens get second place in the Clacton by-election?",
-          "odds": "+1076",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Nigel Farage win 50–60% of votes in the Clacton parliamentary by-election?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Susan Collins vote to confirm Todd Blanche as Attorney General?",
-          "odds": "+132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Exact Score: CD Concepción 3 - 1 O'Higgins FC?",
-          "odds": "+1983",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in New York City be between 74-75°F on July 28?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Leavitt say \"Border\" during the next White House Press Briefing?",
-          "odds": "-122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will El Salvador hold $1b+ of BTC by December 31, 2026?",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest score achieved by a SpaceXAI Grok model on Humanity’s Last Exam in 2026 be 55% or higher?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will SK Brann vs. FC Universitatea Cluj end in a draw?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Trump make no announcement for the next FDA commissioner by December 31?",
           "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
