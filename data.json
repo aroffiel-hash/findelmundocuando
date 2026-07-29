@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "29 de julio de 2026 — 05:44 UTC",
+  "lastUpdated": "29 de julio de 2026 — 08:28 UTC",
   "ticker": [
+    "Russian industrial sites on fire after Ukrainian drone attacks",
+    "IPL’s business value rockets to $20bn as India cricket league soars",
+    "India’s youth have broken Modi’s spell",
+    "Why Netanyahu didn’t want a Zelenskyy moment with Trump",
+    "Iran attacks US bases in Middle East as Trump meets Netanyahu",
     "China puts the ‘squeeze’ on Taiwan with new maritime patrols",
     "Latest images of damage as death toll from Japan’s Kyushu quake rises",
     "Protesters storm hotel, heckle Netanyahu in Washington DC",
@@ -9,19 +14,20 @@
     "Iran missiles target US forces in Jordan after a five-day pause in war",
     "Israel kills Palestinian, destroys mosque in Gaza",
     "OpenAI’s rogue agent hacked an account at a second technology firm: Report",
-    "Saudi Arabia, US carry out strikes on Iran-backed groups in Iraq",
-    "After fleeing Sudan’s war, refugees battle thirst in Chad’s camps",
-    "Media not invited as Trump, Netanyahu hold talks at the White House",
-    "Turkiye takes ‘historic step’ on energy alliance with Iraq",
-    "Protests in Lima as Keiko Fujimori sworn in as Peru president",
-    "FIFA proposes plan to sell stakes in the World Cup, angering UEFA",
-    "Iran war live: US, Saudi forces attack Tehran-aligned groups in Iraq"
+    "Iraqi armed groups condemn ‘dangerous escalation’ after US-Saudi strikes",
+    "After fleeing Sudan’s war, refugees battle thirst in Chad’s camps"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Will United Russia win the next Moscow Oblast Parliament elections?",
+          "odds": "-1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Exact Score: Cerezo Osaka 0 - 1 Borussia Dortmund?",
           "odds": "+1566",
@@ -35,20 +41,8 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Microsoft (MSFT) Q4 Azure revenue growth (constant currency) 38%-40%?",
-          "odds": "+257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will UK GDP growth in Q2 2026 be between 0% and 0.1%?",
           "odds": "+143",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "ITF Rogaska Slatina: Federica Trevisan vs Anna Lena Ebster",
-          "odds": "-1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -95,8 +89,14 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Madrid be 38°C on July 29?",
-          "odds": "+334",
+          "event": "Meta (META) Up or Down on July 29?",
+          "odds": "-194",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "LoL: Gen.G vs T1 (BO3) - LCK Round 3-4 Legend Group",
+          "odds": "-143",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -127,12 +127,6 @@
         {
           "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
           "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Dallas be between 104-105°F on July 29?",
-          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
