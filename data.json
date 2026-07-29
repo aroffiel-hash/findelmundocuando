@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "29 de julio de 2026 — 02:30 UTC",
+  "lastUpdated": "29 de julio de 2026 — 05:44 UTC",
   "ticker": [
+    "China puts the ‘squeeze’ on Taiwan with new maritime patrols",
+    "Latest images of damage as death toll from Japan’s Kyushu quake rises",
+    "Protesters storm hotel, heckle Netanyahu in Washington DC",
+    "Trump meets Netanyahu for a record seventh White House visit",
+    "Haitians living in fear as Temporary Protected Status ends in the US",
+    "Iran missiles target US forces in Jordan after a five-day pause in war",
+    "Israel kills Palestinian, destroys mosque in Gaza",
     "OpenAI’s rogue agent hacked an account at a second technology firm: Report",
     "Saudi Arabia, US carry out strikes on Iran-backed groups in Iraq",
     "After fleeing Sudan’s war, refugees battle thirst in Chad’s camps",
@@ -8,14 +15,7 @@
     "Turkiye takes ‘historic step’ on energy alliance with Iraq",
     "Protests in Lima as Keiko Fujimori sworn in as Peru president",
     "FIFA proposes plan to sell stakes in the World Cup, angering UEFA",
-    "Iran war live: US, Saudi forces attack Tehran-aligned groups in Iraq",
-    "Yemen’s Houthis claim missile attack on Saudi Arabia oil tanker",
-    "Japan Kumamoto earthquake: What happened, damage, victims, latest updates",
-    "Israeli airstrike destroys Gaza City mosque near displacement camp",
-    "Donald Trump and world leaders attend Lindsey Graham’s funeral",
-    "Iran and Oman exchange proposals to manage Strait of Hormuz",
-    "Rome’s viral graffiti cleaner is taking on an ancient problem",
-    "Many feared dead from 7.1-magnitude quake in Kumamoto, Japan"
+    "Iran war live: US, Saudi forces attack Tehran-aligned groups in Iraq"
   ],
   "sections": [
     {
@@ -23,8 +23,8 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Ryan Gosling win Best Actor at the 99th Academy Awards?",
-          "odds": "+900",
+          "event": "Exact Score: Cerezo Osaka 0 - 1 Borussia Dortmund?",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -35,20 +35,20 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $85 in July?",
-          "odds": "-156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Microsoft (MSFT) Q4 Azure revenue growth (constant currency) 38%-40%?",
-          "odds": "+233",
+          "odds": "+257",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will UK GDP growth in Q2 2026 be between 0% and 0.1%?",
           "odds": "+143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "ITF Rogaska Slatina: Federica Trevisan vs Anna Lena Ebster",
+          "odds": "-1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -95,14 +95,8 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in New York City be between 74-75°F on July 28?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Leavitt say \"Border\" during the next White House Press Briefing?",
-          "odds": "-122",
+          "event": "Will the highest temperature in Madrid be 38°C on July 29?",
+          "odds": "+334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -113,14 +107,14 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Jeddah be 39°C on July 30?",
-          "odds": "+614",
+          "event": "Will SK Brann vs. FC Universitatea Cluj end in a draw?",
+          "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will SK Brann vs. FC Universitatea Cluj end in a draw?",
-          "odds": "+400",
+          "event": "Will Donald Trump post 180-199 Truth Social posts from July 21 to July 28, 2026?",
+          "odds": "-2757",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -133,6 +127,12 @@
         {
           "event": "Will the Ornn H200 Index hit $2.50 (LOW) by December 31, 2026?",
           "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Dallas be between 104-105°F on July 29?",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
