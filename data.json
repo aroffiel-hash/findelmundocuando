@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "29 de julio de 2026 — 20:46 UTC",
+  "lastUpdated": "29 de julio de 2026 — 21:53 UTC",
   "ticker": [
+    "Myanmar court sentences activists to 37 years over election protest",
+    "FIFA charges Argentina after World Cup final brawl with Spain",
+    "Trump threatens Iran strikes after attack on US base in Jordan",
+    "Videos show aftermath of US-Saudi strikes on Iraq PMF bases",
     "Trump’s attorney general pick faces possible Republican roadblock",
     "Algeria elects first-ever woman speaker of parliament",
     "How is Islamabad handling crisis in Pakistan-administered Kashmir?",
@@ -11,11 +15,7 @@
     "Hindus take holy dip in India’s rivers on sacred holiday",
     "Bordeaux wildfire battle continues amid extreme heat",
     "Dr Anthony Fauci pleads the Fifth at Covid hearing",
-    "US Fed holds interest rates steady citing ‘elevated’ inflation",
-    "Libya electricity blackout protests expose country’s failing grid",
-    "Fire erupts on ships at Egypt’s Damietta port",
-    "Japan earthquake leaves widespread destruction",
-    "South Korea’s stock market plunges as AI-driven boom fades"
+    "US Fed holds interest rates steady, citing ‘elevated’ inflation"
   ],
   "sections": [
     {
@@ -24,7 +24,7 @@
       "rows": [
         {
           "event": "US announces end of Iranian blockade by September 30, 2026?",
-          "odds": "-222",
+          "odds": "-212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -37,6 +37,12 @@
         {
           "event": "Will UK GDP growth in Q2 2026 be between 0% and 0.1%?",
           "odds": "+143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "WTI Crude Oil (WTI) closes above $85 on July 29?",
+          "odds": "+334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -71,20 +77,14 @@
           "moved": "none"
         },
         {
-          "event": "Kansas City Royals vs. Minnesota Twins",
-          "odds": "+177",
+          "event": "Exact Score: Gimnasia y Esgrima de La Plata 0 - 1 CA River Plate?",
+          "odds": "+525",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will El Salvador hold $1b+ of BTC by December 31, 2026?",
           "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Apple say \"Liquid Glass\" during earnings call?",
-          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -109,6 +109,12 @@
         {
           "event": "The New Saints FC vs. FC Flora: Team to Advance",
           "odds": "+127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: Fluminense FC 2 - 0 EC Bahia?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
