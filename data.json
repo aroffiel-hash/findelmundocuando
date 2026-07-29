@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "29 de julio de 2026 — 15:46 UTC",
+  "lastUpdated": "29 de julio de 2026 — 17:07 UTC",
   "ticker": [
+    "Is the world at risk of another energy shock?",
+    "Ex-FIFA chief Blatter blasts plan to sell stake in World Cup to investors",
+    "Trump says US to deliver ‘beating’ to Iran after bases again targeted",
     "Why Saudi Arabia holds the key to Palestinian statehood",
     "Indian student in Russia says he’s been wrongly charged over Bihar protests",
     "US and Israeli leaders expected ‘swift outcome’ in Iran",
@@ -12,10 +15,7 @@
     "US bans imports of new Chinese robots over security concerns",
     "BJP politician’s daughter explains why she supports India’s youth protests",
     "Tunisia’s body politic is in crisis",
-    "F1 season to end in Europe if Qatar, Abu Dhabi unable to host due to war",
-    "American, Asian confederations blindsided by FIFA’s World Cup plan",
-    "Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading?",
-    "Infantino, FIFA’s investor plan to sell stake in World Cup: What we know"
+    "F1 season to end in Europe if Qatar, Abu Dhabi unable to host due to war"
   ],
   "sections": [
     {
@@ -25,6 +25,12 @@
         {
           "event": "Will UK GDP growth in Q2 2026 be between 0% and 0.1%?",
           "odds": "+143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+          "odds": "+156",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -59,32 +65,20 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "LoL: VfB eSports vs G2 NORD (BO3) - Prime League 1st Division Group B",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Exact Score: CD Concepción 3 - 1 O'Higgins FC?",
           "odds": "+1983",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
+          "event": "Will Apple (AAPL) hit (HIGH) $344 in July?",
+          "odds": "-277",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will El Salvador hold $1b+ of BTC by December 31, 2026?",
           "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Milan be 35°C on July 29?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump say \"Hell\" 3+ times during cabinet meeting?",
-          "odds": "-143",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -103,6 +97,18 @@
         {
           "event": "Will Trump make no announcement for the next FDA commissioner by December 31?",
           "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the MA-05 House seat?",
+          "odds": "+2339",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "The Memphis Classic: Kristina Liutova vs Maya Joint",
+          "odds": "+117",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
