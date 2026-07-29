@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "29 de julio de 2026 — 13:52 UTC",
+  "lastUpdated": "29 de julio de 2026 — 13:53 UTC",
   "ticker": [
     "How are AI models able to autonomously hack others?",
     "Infantino sets deadline for FIFA offer in Kushner-backed World Cup plan",
@@ -12,47 +12,110 @@
     "Infantino’s FIFA World Cup stakes plan: Would UEFA boycott, would it work?",
     "‘Iran attacks now to send message as US assets build up in Israel’",
     "Married couple deported by ICE killed in Guatemala",
-    "EU crisis chief urges tougher climate action amid France, Spain wildfires"
+    "EU crisis chief urges tougher climate action amid France, Spain wildfires",
+    "Russia charges Telegram founder Pavel Durov with ‘aiding terrorism’",
+    "How has the Indian government responded to ‘Cockroach’ protests?",
+    "A safe space for Gaza women: A sanctuary to speak, heal and share amid war"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
-      "rows": [
-        {
-          "event": "Will 50-74 ships transit the Strait of Hormuz between July 20-July 26?",
-          "odds": "-316",
-          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Exact Score: Cerezo Osaka 2 - 3 Borussia Dortmund?",
           "odds": "+1328",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
+        {
+          "event": "Will UK GDP growth in Q2 2026 be between 0% and 0.1%?",
+          "odds": "+143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Kai Stephens get second place in the Clacton by-election?",
+          "odds": "+1076",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Nigel Farage win 50–60% of votes in the Clacton parliamentary by-election?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Susan Collins vote to confirm Todd Blanche as Attorney General?",
+          "odds": "+132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Exact Score: CD Concepción 3 - 1 O'Higgins FC?",
+          "odds": "+1983",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will El Salvador hold $1b+ of BTC by December 31, 2026?",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will SK Brann vs. FC Universitatea Cluj end in a draw?",
+          "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Donald Trump post 180-199 Truth Social posts from July 21 to July 28, 2026?",
           "odds": "-2757",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Trump make no announcement for the next FDA commissioner by December 31?",
           "odds": "+185",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the MA-05 House seat?",
+          "odds": "+2339",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Tesla, Inc. (TSLA) hit (HIGH) $337.50 Week of July 27 2026?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Tesla (TSLA) close above $390 end of July?",
+          "odds": "+244",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
