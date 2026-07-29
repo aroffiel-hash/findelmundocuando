@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "29 de julio de 2026 — 19:03 UTC",
+  "lastUpdated": "29 de julio de 2026 — 20:46 UTC",
   "ticker": [
+    "Trump’s attorney general pick faces possible Republican roadblock",
+    "Algeria elects first-ever woman speaker of parliament",
+    "How is Islamabad handling crisis in Pakistan-administered Kashmir?",
+    "James Comey’s lawyers say US government distorted details in seashell case",
+    "New investigation shows how an Israeli settler escaped justice",
+    "Ice cream for education: Gaza cafe raises funds for studies",
+    "Al-Shabab kills five Kenyan security personnel in ambush",
     "Hindus take holy dip in India’s rivers on sacred holiday",
     "Bordeaux wildfire battle continues amid extreme heat",
     "Dr Anthony Fauci pleads the Fifth at Covid hearing",
@@ -8,16 +15,21 @@
     "Libya electricity blackout protests expose country’s failing grid",
     "Fire erupts on ships at Egypt’s Damietta port",
     "Japan earthquake leaves widespread destruction",
-    "South Korea’s stock market plunges as AI-driven boom fades",
-    "Iran pushes back against US as regional attacks heat up",
-    "Democrat senators ask US SEC to probe Trump Media’s fast feed sale",
-    "Fauci invokes Fifth Amendment in heated COVID-19 Senate hearing",
-    "Fuel prices soar on back of Iran war, leaving Yemeni labourers with no work",
-    "Is the world at risk of another energy shock?",
-    "Ex-FIFA chief Blatter blasts plan to sell stake in World Cup to investors",
-    "Trump says US to deliver ‘beating’ to Iran after bases again targeted"
+    "South Korea’s stock market plunges as AI-driven boom fades"
   ],
   "sections": [
+    {
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "rows": [
+        {
+          "event": "US announces end of Iranian blockade by September 30, 2026?",
+          "odds": "-222",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
     {
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
@@ -45,12 +57,6 @@
           "odds": "+525",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will Susan Collins vote to confirm Todd Blanche as Attorney General?",
-          "odds": "+132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -65,14 +71,8 @@
           "moved": "none"
         },
         {
-          "event": "Counter-Strike: CYBERSHOKE Esports vs Virtus.pro (BO3) - CIS LAN Championship Playoffs",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Guangzhou be 28°C on July 30?",
-          "odds": "+2400",
+          "event": "Kansas City Royals vs. Minnesota Twins",
+          "odds": "+177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -103,6 +103,12 @@
         {
           "event": "Will the Republican Party win the MA-05 House seat?",
           "odds": "+2339",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "The New Saints FC vs. FC Flora: Team to Advance",
+          "odds": "+127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
