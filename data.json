@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "29 de julio de 2026 — 21:53 UTC",
+  "lastUpdated": "29 de julio de 2026 — 22:54 UTC",
   "ticker": [
+    "Sam Altman meets lawmakers on back of OpenAI agents hacking companies",
+    "Is FIFA selling parts of the World Cup to private investors?",
     "Myanmar court sentences activists to 37 years over election protest",
     "FIFA charges Argentina after World Cup final brawl with Spain",
     "Trump threatens Iran strikes after attack on US base in Jordan",
@@ -13,9 +15,7 @@
     "Ice cream for education: Gaza cafe raises funds for studies",
     "Al-Shabab kills five Kenyan security personnel in ambush",
     "Hindus take holy dip in India’s rivers on sacred holiday",
-    "Bordeaux wildfire battle continues amid extreme heat",
-    "Dr Anthony Fauci pleads the Fifth at Covid hearing",
-    "US Fed holds interest rates steady, citing ‘elevated’ inflation"
+    "Bordeaux wildfire battle continues amid extreme heat"
   ],
   "sections": [
     {
@@ -53,6 +53,12 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
+          "event": "Will Washington use a new congressional map for the 2026 United States midterm elections?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Kai Stephens get second place in the Clacton by-election?",
           "odds": "+1076",
           "params": "Fuente: Polymarket",
@@ -77,8 +83,8 @@
           "moved": "none"
         },
         {
-          "event": "Exact Score: Gimnasia y Esgrima de La Plata 0 - 1 CA River Plate?",
-          "odds": "+525",
+          "event": "Will there be at least 2350 measles cases in the U.S. by July 31, 2026?",
+          "odds": "-669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -113,8 +119,8 @@
           "moved": "none"
         },
         {
-          "event": "Exact Score: Fluminense FC 2 - 0 EC Bahia?",
-          "odds": "+900",
+          "event": "Will \"The Odyssey\" 3rd Weekend Box Office be between 47m and 52m?",
+          "odds": "+203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
