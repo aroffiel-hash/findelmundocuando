@@ -1,127 +1,58 @@
 {
-  "lastUpdated": "29 de julio de 2026 — 11:18 UTC",
+  "lastUpdated": "29 de julio de 2026 — 13:52 UTC",
   "ticker": [
+    "How are AI models able to autonomously hack others?",
+    "Infantino sets deadline for FIFA offer in Kushner-backed World Cup plan",
+    "US bans imports of new Chinese robots over security concerns",
+    "BJP politician’s daughter explains why she supports India’s youth protests",
+    "Tunisia’s body politic is in crisis",
+    "F1 season to end in Europe if Qatar, Abu Dhabi unable to host due to war",
+    "American, Asian confederations blindsided by FIFA’s World Cup plan",
+    "Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading?",
+    "Infantino’s FIFA World Cup stakes plan: Would UEFA boycott, would it work?",
+    "‘Iran attacks now to send message as US assets build up in Israel’",
     "Married couple deported by ICE killed in Guatemala",
-    "EU crisis chief urges tougher climate action amid France, Spain wildfires",
-    "Russia charges Telegram founder Pavel Durov with ‘aiding terrorism’",
-    "How has the Indian government responded to ‘Cockroach’ protests?",
-    "A safe space for Gaza women: A sanctuary to speak, heal and share amid war",
-    "US and Saudi Arabia strike ‘Iran-aligned’ groups in Iraq",
-    "Jayden Seales takes five wickets as West Indies beat Pakistan in first Test",
-    "Iran and Oman swap proposals to manage Strait of Hormuz: What we know",
-    "Will Germany bring back mandatory military conscription next year?",
-    "Why is Uganda experiencing a food crisis?",
-    "Russian industrial sites on fire after Ukrainian drone attacks",
-    "IPL’s business value rockets to $20bn as India cricket league soars",
-    "India’s youth have broken Modi’s spell",
-    "Why Netanyahu didn’t want a Zelenskyy moment with Trump",
-    "Iran attacks US bases in Middle East as Trump meets Netanyahu"
+    "EU crisis chief urges tougher climate action amid France, Spain wildfires"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
-          "event": "ITF Edwardsville: Bruno Kuzuhara vs Jerry Roddick",
-          "odds": "-233",
-          "params": "Fuente: Polymarket",
+          "event": "Will 50-74 ships transit the Strait of Hormuz between July 20-July 26?",
+          "odds": "-316",
+          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
       "rows": [
         {
-          "event": "Will UK GDP growth in Q2 2026 be between 0% and 0.1%?",
-          "odds": "+143",
-          "params": "Fuente: Polymarket",
+          "event": "Exact Score: Cerezo Osaka 2 - 3 Borussia Dortmund?",
+          "odds": "+1328",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
       "rows": [
-        {
-          "event": "Will Marco Rubio win the 2028 Republican presidential nomination?",
-          "odds": "+270",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Kai Stephens get second place in the Clacton by-election?",
-          "odds": "+1076",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Nigel Farage win 50–60% of votes in the Clacton parliamentary by-election?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Susan Collins vote to confirm Todd Blanche as Attorney General?",
-          "odds": "+132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Exact Score: CD Concepción 3 - 1 O'Higgins FC?",
-          "odds": "+1983",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Chicago be between 86-87°F on July 29?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "LoL: Gen.G vs T1 (BO3) - LCK Round 3-4 Legend Group",
-          "odds": "-143",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will El Salvador hold $1b+ of BTC by December 31, 2026?",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will SK Brann vs. FC Universitatea Cluj end in a draw?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Donald Trump post 180-199 Truth Social posts from July 21 to July 28, 2026?",
           "odds": "-2757",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         },
         {
           "event": "Will Trump make no announcement for the next FDA commissioner by December 31?",
           "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the MA-05 House seat?",
-          "odds": "+2339",
-          "params": "Fuente: Polymarket",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
