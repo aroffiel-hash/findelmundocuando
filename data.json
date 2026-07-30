@@ -1,133 +1,70 @@
 {
-  "lastUpdated": "30 de julio de 2026 — 11:00 UTC",
+  "lastUpdated": "30 de julio de 2026 — 13:42 UTC",
   "ticker": [
+    "Sudan’s RSF vows to return to Khartoum",
+    "World Cup: What has FIFA charged Argentina with, what could punishment be?",
+    "Detained Ugandan opposition leader Besigye in intensive care, wife says",
+    "England appoint Root and Fleming as Test cricket captain and coach",
+    "How does a safe zone in Lebanon become a target three times?",
+    "Israeli strikes kill at least four, including children, across Gaza Strip",
     "AFC president doubles down on FIFA, calling World Cup plan ‘unacceptable’",
     "Israeli raids and settler attacks intensify across the occupied West Bank",
     "Attack on northwest Pakistan police post kills 11 officers",
     "Several children killed and wounded in Israeli attacks across Gaza",
     "Why is Saudi Arabia forming a coalition to protect the Red Sea?",
-    "Poland says Russian missile breaches NATO airspace",
-    "Howe exits Newcastle on Premier League season eve, with Al-Ahli boss touted",
-    "US hits multiple targets in Iran as IRGC pledges retaliation: What we know",
-    "From Toronto to Damascus: Syrians return home aiming to rebuild country",
-    "Apartheid wealth cannot buy silence on Gaza",
-    "Man who stabbed author Salman Rushdie convicted of ‘terrorism’ charges",
-    "South Africa’s le Clos breaks Commonwealth Games medal record",
-    "Photos: Zelenskyy urges ‘protection of life’ amid deadly Russian attacks",
-    "Protest group says 30 dead in Pakistan-administered Kashmir vote unrest",
-    "Saudi Arabia confirmed to host Asian Champions League Elite finals"
+    "Poland says Russian missile breaches NATO airspace"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
-        {
-          "event": "US announces end of Iranian blockade by October 31, 2026?",
-          "odds": "-354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Israeli forces withdraw from beyond the Litani River by August 31?",
           "odds": "+1328",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
+      "rows": [
+        {
+          "event": "Will Trump make no announcement for the next FDA commissioner by December 31?",
+          "odds": "+185",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "label": "ECONOMÍA Y ENERGÍA",
       "rows": [
         {
           "event": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
           "odds": "+334",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con política monetaria de la Fed.",
           "moved": "none"
         },
         {
-          "event": "Will UK GDP growth in Q2 2026 be between 0% and 0.1%?",
-          "odds": "+143",
-          "params": "Fuente: Polymarket",
+          "event": "WTI Crude Oil (WTI) closes above $84 on July 30?",
+          "odds": "+163",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
         {
           "event": "Will Washington use a new congressional map for the 2026 United States midterm elections?",
           "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Kai Stephens get second place in the Clacton by-election?",
-          "odds": "+1076",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Nigel Farage win 50–60% of votes in the Clacton parliamentary by-election?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Los Cabos Open: Cameron Norrie vs Bernard Tomic",
-          "odds": "-270",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: CD Concepción 3 - 1 O'Higgins FC?",
-          "odds": "+1983",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Tokyo Yakult Swallows vs. Hanshin Tigers",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will El Salvador hold $1b+ of BTC by December 31, 2026?",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in London be 29°C on July 30?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump make no announcement for the next FDA commissioner by December 31?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the MA-05 House seat?",
-          "odds": "+2339",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Ornn H100 Index be less than $1.50 on December 31, 2026?",
-          "odds": "+1438",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
