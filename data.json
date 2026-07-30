@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "30 de julio de 2026 — 22:12 UTC",
+  "lastUpdated": "30 de julio de 2026 — 23:57 UTC",
   "ticker": [
+    "UK left-wing MP Diane Abbott reinstated by Labour Party after suspension",
+    "Pathirage challenges Chopra-Nadeem javelin rivalry in Commonwealth final",
+    "US appeals court rejects Trump expansion of mandatory migrant detention",
+    "Trump administration appeals to never-before-used court for deportation",
+    "Trump says Board of Peace reaches agreement on disarmament of Hamas in Gaza",
+    "Amazon’s Zoox secures US federal approval for steering-wheel-free robotaxis",
     "Why is US GDP growth slowing, and how can it be reversed?",
     "French teen fined in Singapore over ‘straw licking’ stunt",
     "Argentina’s Milei seeks to deport foreigners that spread ‘hate’ of country",
@@ -9,13 +15,7 @@
     "UN launches hunt for next chief amid rising challenges",
     "Security camera shows ‘Russian missile’ exploding in Poland",
     "Father of Georgia Apalachee school shooter sentenced to 15 years in prison",
-    "US authorities probe cyberattack on water systems in Minnesota",
-    "Palestine Action co-founder wins UK Supreme Court appeal bid",
-    "Pakistan coal mine explosion kills at least 11, traps dozens",
-    "Saudi Arabia announces maritime defence alliance to secure vital waterways",
-    "Congo’s Ebola death toll passes 1,500 as it struggles to halt spread",
-    "UN demands end of Ugandan clampdown on dissent",
-    "ABC News says FCC is carrying out intimidation campaign to shape coverage"
+    "US authorities probe cyberattack on water systems in Minnesota"
   ],
   "sections": [
     {
@@ -25,6 +25,12 @@
         {
           "event": "Will Israeli forces withdraw from beyond the Litani River by August 31?",
           "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Russia capture Bilytske by December 31, 2026?",
+          "odds": "-212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -59,14 +65,8 @@
           "moved": "none"
         },
         {
-          "event": "Will there be exactly 1 earthquake of magnitude 6.5 or higher worldwide from July 27 - August 2?",
-          "odds": "-185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Dota 2: L1ga Team vs REKONIX (BO3) - Games of the Future Group D",
-          "odds": "+112",
+          "event": "Will Trump pardon Roger Ver before 2027?",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -77,14 +77,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Stripe's valuation hit (HIGH) $225B by December 31?",
-          "odds": "+222",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Counter-Strike: INOX Division vs Falcons Force (BO3) - Thunderpick World Championship European Series #2 Playoffs",
-          "odds": "-455",
+          "event": "Will Anduril's valuation hit (LOW) $65B by December 31?",
+          "odds": "+809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -97,6 +91,18 @@
         {
           "event": "Will Trump make no announcement for the next FDA commissioner by December 31?",
           "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the MA-05 House seat?",
+          "odds": "+2339",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Ornn H100 Index be less than $1.50 on December 31, 2026?",
+          "odds": "+1438",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
