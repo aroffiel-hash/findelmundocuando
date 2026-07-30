@@ -1,6 +1,7 @@
 {
-  "lastUpdated": "30 de julio de 2026 — 01:47 UTC",
+  "lastUpdated": "30 de julio de 2026 — 02:02 UTC",
   "ticker": [
+    "Japan turns to Canadian crude as Asia feels Hormuz supply pinch",
     "Trump pushes fighter jet sale to Turkiye despite Israeli opposition",
     "Trump cuts WHO off from Gavi vaccine alliance funding",
     "Russian ballistic missile strikes on Kyiv come after Zelenskyy’s warning",
@@ -12,59 +13,121 @@
     "Iraq calls Saudi-US attacks a ‘flagrant violation of sovereignty’",
     "Sam Altman meets lawmakers on back of OpenAI agents hacking companies",
     "Is FIFA selling parts of the World Cup to private investors?",
-    "Myanmar court sentences activists to 37 years over election protest"
+    "Myanmar court sentences activists to 37 years over election protest",
+    "FIFA charges Argentina after World Cup final brawl with Spain",
+    "Trump threatens Iran strikes after attack on US base in Jordan"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "US announces end of Iranian blockade by September 30, 2026?",
           "odds": "-212",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
-      "rows": [
-        {
-          "event": "Will Trump make no announcement for the next FDA commissioner by December 31?",
-          "odds": "+185",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y ENERGÍA",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
           "event": "WTI Crude Oil (WTI) closes above $85 on July 30?",
           "odds": "+163",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will UK GDP growth in Q2 2026 be between 0% and 0.1%?",
+          "odds": "+143",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
           "odds": "+334",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con política monetaria de la Fed.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
           "event": "Will Washington use a new congressional map for the 2026 United States midterm elections?",
           "odds": "+2400",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Kai Stephens get second place in the Clacton by-election?",
+          "odds": "+1076",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Nigel Farage win 50–60% of votes in the Clacton parliamentary by-election?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Exact Score: CD Concepción 3 - 1 O'Higgins FC?",
+          "odds": "+1983",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Lucknow be 35°C on July 31?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will John Brennan be arrested before 2027?",
+          "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will El Salvador hold $1b+ of BTC by December 31, 2026?",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will SK Brann vs. FC Universitatea Cluj end in a draw?",
+          "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump make no announcement for the next FDA commissioner by December 31?",
+          "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the MA-05 House seat?",
+          "odds": "+2339",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Valorant: Natus Vincere vs Pcific Esports (BO3) - VCT EMEA Group Alpha",
+          "odds": "-354",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
