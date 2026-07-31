@@ -1,76 +1,121 @@
 {
-  "lastUpdated": "31 de julio de 2026 — 02:05 UTC",
+  "lastUpdated": "31 de julio de 2026 — 02:43 UTC",
   "ticker": [
+    "‘They got trapped:’ Race to save miners after deadly blast in Pakistan",
     "Israeli soldiers mutiny at notorious Sde Teiman base",
     "Spain deploys military to Ceuta after deadly migrant surge",
     "Nepal’s PM urges calm as three people killed after Hindu-Muslim unrest",
     "London protesters march through streets in solidarity with Azad Kashmir",
     "US Escalation with Iran is ‘pointless’, warns former US diplomat",
-    "Iran war live: Trump says Hamas to disarm, Israel to leave Gaza gradually",
+    "Iran war live: Gaza Board of Peace lauds ‘historic’ disarmament agreement",
     "Trump announces Hamas to disarm paving way for Israel to withdraw from Gaza",
     "UK left-wing MP Diane Abbott reinstated by Labour Party after suspension",
     "Pathirage challenges Chopra-Nadeem javelin rivalry in Commonwealth final",
     "US appeals court rejects Trump expansion of mandatory migrant detention",
     "Trump administration appeals to never-before-used court for deportation",
-    "Hamas reaches Gaza disarmament agreement with Board of Peace"
+    "Hamas reaches Gaza disarmament agreement with Board of Peace",
+    "Amazon’s Zoox secures US federal approval for steering-wheel-free robotaxis",
+    "Why is US GDP growth slowing, and how can it be reversed?"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Will Israeli forces withdraw from beyond the Litani River by August 31?",
           "odds": "+1328",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
-      "rows": [
+        },
+        {
+          "event": "US announces end of Iranian blockade by July 31, 2026?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Russia capture Bilytske by December 31, 2026?",
           "odds": "-212",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
-      "rows": [
-        {
-          "event": "Will Trump pardon Roger Ver before 2027?",
-          "odds": "+1566",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump make no announcement for the next FDA commissioner by December 31?",
-          "odds": "+185",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump say \"Six Seven\" this week?",
-          "odds": "+2400",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y ENERGÍA",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
           "event": "Will WTI Crude Oil (WTI) hit (HIGH) $115 in August?",
           "odds": "+809",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Kai Stephens get second place in the Clacton by-election?",
+          "odds": "+1076",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Exact Score: CD Concepción 3 - 1 O'Higgins FC?",
+          "odds": "+1983",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump pardon Roger Ver before 2027?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will El Salvador hold $1b+ of BTC by December 31, 2026?",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will OpenAI's valuation hit (LOW) $750B by December 31?",
+          "odds": "+194",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Anduril's valuation hit (LOW) $65B by December 31?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Palantir Technologies Inc. (PLTR) hit (HIGH) $144 in July?",
+          "odds": "+1512",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump make no announcement for the next FDA commissioner by December 31?",
+          "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the MA-05 House seat?",
+          "odds": "+2339",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
