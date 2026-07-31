@@ -1,64 +1,109 @@
 {
-  "lastUpdated": "31 de julio de 2026 — 13:47 UTC",
+  "lastUpdated": "31 de julio de 2026 — 13:48 UTC",
   "ticker": [
     "Russia appears to infiltrate first ‘fortress city’ as Ukraine changes guard",
     "FIFA World Cup plan: Infantino tackles UEFA and global game – all to know",
     "Palestinians in Gaza react to latest ceasefire deal",
     "The waiting game: Gaza’s CT scan shortage causing worries and worse",
     "Approval for China’s mega embassy in London was lawful, UK court rules",
+    "Inside Barcelona’s most sweltering neighbourhood: El Raval",
+    "Second day of Spain – Morocco border clashes amid mass migrant influx",
     "‘Migrant tsunami’: Second day of Spain – Morocco border clashes",
     "Russia’s Africa Corps killed Mali civilians in air strike: HRW",
     "Gaza Board of Peace announces Hamas disarmament agreement: What we know",
     "Palestinians in Gaza are sceptical about the latest peace plan",
     "Spain’s PM visits Ceuta after 34 migrants die breaching border from Morocco",
     "Four bodies located after 10 climbers go missing on Pakistani peak",
+    "Italy World Cup winner and AC Milan legend Franco Baresi dies aged 66",
     "AFC backs UEFA and CONCACAF who plan boycott over FIFA World Cup proposals"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Will Israeli forces withdraw from beyond the Litani River by August 31?",
           "odds": "+1328",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
-      "rows": [
-        {
-          "event": "Will Trump pardon Roger Ver before 2027?",
-          "odds": "+1566",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump make no announcement for the next FDA commissioner by December 31?",
-          "odds": "+185",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump say \"Turtle\" in July?",
-          "odds": "+2464",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
           "event": "Will Darline Graham Nordone win the first round of the South Carolina Republican Senate special primary?",
           "odds": "-354",
-          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Kai Stephens get second place in the Clacton by-election?",
+          "odds": "+1076",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will CPRF win the next Murmansk Oblast Parliament elections?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Exact Score: CD Concepción 3 - 1 O'Higgins FC?",
+          "odds": "+1983",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will there be exactly 4 ChatGPT outages in July 2026?",
+          "odds": "-566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump pardon Roger Ver before 2027?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Debbie Wasserman Schultz be the Democratic nominee for FL-20?",
+          "odds": "-270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will OpenAI's valuation hit (LOW) $750B by December 31?",
+          "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Mexico City be 25°C on August 1?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Relay launch a token by December 31, 2026?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will El Salvador hold $1b+ of BTC by December 31, 2026?",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
