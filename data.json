@@ -1,115 +1,64 @@
 {
-  "lastUpdated": "31 de julio de 2026 — 11:53 UTC",
+  "lastUpdated": "31 de julio de 2026 — 13:47 UTC",
   "ticker": [
+    "Russia appears to infiltrate first ‘fortress city’ as Ukraine changes guard",
+    "FIFA World Cup plan: Infantino tackles UEFA and global game – all to know",
+    "Palestinians in Gaza react to latest ceasefire deal",
+    "The waiting game: Gaza’s CT scan shortage causing worries and worse",
+    "Approval for China’s mega embassy in London was lawful, UK court rules",
+    "‘Migrant tsunami’: Second day of Spain – Morocco border clashes",
+    "Russia’s Africa Corps killed Mali civilians in air strike: HRW",
+    "Gaza Board of Peace announces Hamas disarmament agreement: What we know",
     "Palestinians in Gaza are sceptical about the latest peace plan",
-    "Spain PM to visit Ceuta after 19 migrants die breaching border from Morocco",
-    "Italy World Cup winner and AC Milan legend Franco Baresi dies aged 66",
-    "AFC backs UEFA and CONCACAF who plan boycott over FIFA World Cup proposals",
-    "FIFA World Cup plan fallout: Infantino’s senior adviser Cordeiro resigns",
-    "Eleven Palestinians, including children, injured in Israel’s Nablus raids",
-    "Her mother said no to a phone. Then came the Gaza genocide",
-    "IRGC strikes US targets in Kuwait a day after US hits Iran: Latest events",
-    "Hamas agrees to phased disarmament in Gaza",
-    "Israeli forces blow up structures near Lebanon’s Beaufort Castle",
-    "Liberia burns 4.2 metric tonnes of cocaine after record drug seizure",
-    "FIFA defiant over World Cup investment plan, despite UEFA’s vote to boycott",
-    "US government mislabels countries on map of Africa at global conference",
-    "Latin America is becoming a laboratory for tech-supremacism",
-    "How Netanyahu lost America"
+    "Spain’s PM visits Ceuta after 34 migrants die breaching border from Morocco",
+    "Four bodies located after 10 climbers go missing on Pakistani peak",
+    "AFC backs UEFA and CONCACAF who plan boycott over FIFA World Cup proposals"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
           "event": "Will Israeli forces withdraw from beyond the Litani River by August 31?",
           "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Russia capture Kostyantynivka by August 31?",
-          "odds": "-300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "NATO x Russia military clash by December 31, 2026?",
-          "odds": "+244",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
+      "rows": [
+        {
+          "event": "Will Trump pardon Roger Ver before 2027?",
+          "odds": "+1566",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump make no announcement for the next FDA commissioner by December 31?",
+          "odds": "+185",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump say \"Turtle\" in July?",
+          "odds": "+2464",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
         {
           "event": "Will Darline Graham Nordone win the first round of the South Carolina Republican Senate special primary?",
           "odds": "-354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Kai Stephens get second place in the Clacton by-election?",
-          "odds": "+1076",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Exact Score: CD Concepción 3 - 1 O'Higgins FC?",
-          "odds": "+1983",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will there be exactly 4 ChatGPT outages in July 2026?",
-          "odds": "-566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump pardon Roger Ver before 2027?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will OpenAI's valuation hit (LOW) $750B by December 31?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Mexico City be 25°C on August 1?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Relay launch a token by December 31, 2026?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will El Salvador hold $1b+ of BTC by December 31, 2026?",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party win the KS-01 House seat?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
