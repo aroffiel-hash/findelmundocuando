@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "31 de julio de 2026 — 17:38 UTC",
+  "lastUpdated": "31 de julio de 2026 — 19:14 UTC",
   "ticker": [
+    "World reacts with cautious optimism to Hamas disarmament agreement",
+    "Trump says Hamas disarmament deal will be complex to deliver",
+    "Syrian lawyer takes on ex-Assad official in landmark trial",
+    "Why is Israel arming illegal settlers?",
+    "New York sues Kalshi, says its prediction markets are ‘illegal gambling’",
+    "FIFA COO Lamour says staff deceived over Infantino’s World Cup plan",
     "Western allies warn North Korean IT workers funding nuclear arsenal",
     "DR Congo Ebola epidemic becomes world’s second largest outbreak",
     "Three-year roadmap proposed for Hamas disarmament in Gaza",
@@ -9,13 +15,7 @@
     "Tunisian wildfires expose failing infrastructure, community vulnerabilities",
     "The promise I made to Ismail al-Ghoul",
     "World Cup: FIFA studying impact of expanding to 64 teams for 2030 edition",
-    "Police chief resigns days after deadly shooting in US city of Seattle",
-    "Chelsea fined $13.5m for FA breaches, avoid Premier League points deduction",
-    "Russia and Ukraine report casualties as they continue to trade attacks",
-    "Turkiye’s Davutoglu steps back from politics: A timeline of his career",
-    "Spain deploys military to Ceuta after migrant surge: What we know",
-    "Russia appears to infiltrate first ‘fortress city’ as Ukraine changes guard",
-    "Why is UEFA threatening FIFA boycott? Infantino’s World Cup plan explained"
+    "Police chief resigns days after deadly shooting in US city of Seattle"
   ],
   "sections": [
     {
@@ -27,6 +27,24 @@
           "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Situational Awareness raises new capital by August 31?",
+          "odds": "+194",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will S&P 500 (SPY) hit (LOW) $725 Week of July 27 2026?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -34,6 +52,12 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
+        {
+          "event": "Will Raquel Lyra win the Pernambuco Governor election?",
+          "odds": "-149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Kai Stephens get second place in the Clacton by-election?",
           "odds": "+1076",
@@ -66,7 +90,7 @@
         },
         {
           "event": "Will OpenAI's valuation hit (LOW) $750B by December 31?",
-          "odds": "+185",
+          "odds": "+132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
