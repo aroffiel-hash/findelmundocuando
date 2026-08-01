@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "01 de agosto de 2026 — 02:07 UTC",
+  "lastUpdated": "01 de agosto de 2026 — 02:21 UTC",
   "ticker": [
+    "Russian missile attack kills three in Ukraine’s Kyiv",
+    "US military says F-35B jet fighter crashes in California, pilot safe",
     "Why has Infantino scrapped FIFA’s World Cup investment plan? What to know",
     "Israel launches attacks across Gaza one day after Hamas agrees to disarm",
     "Trump administration to dismiss Reflecting Pool charges against David Hearn",
@@ -12,95 +14,126 @@
     "US Senate’s Fauci hearing renews COVID origin debate but reveals little",
     "Pathirage beats Chopra and Nadeem to win Commonwealth gold in javelin",
     "Children face higher threat of US deportation as legal support deal expires",
-    "Cambridge students on why they protested at graduation ceremony"
+    "Cambridge students on why they protested at graduation ceremony",
+    "Powerful El Nino to intensify heat on ‘a planet already on fire’: UN"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Will Israeli forces withdraw from beyond the Litani River by August 31?",
           "odds": "+2400",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
-      "rows": [
-        {
-          "event": "Will Russia capture all of Kostyantynivka by September 30, 2026?",
-          "odds": "+376",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇨🇳",
-      "label": "CHINA / PACÍFICO / COREA",
-      "rows": [
+        },
         {
           "event": "Will there be exactly 1 North Korea test in July 2026?",
           "odds": "-1566",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario peninsular coreano.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
-      "rows": [
-        {
-          "event": "Will Trump pardon Roger Ver before 2027?",
-          "odds": "+1566",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Trump make no announcement for the next FDA commissioner by December 31?",
-          "odds": "+185",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump praise Dana White in August?",
-          "odds": "+104",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump say \"Six Seven\" in August?",
-          "odds": "-300",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump say \"Midterm\" in August?",
-          "odds": "-1940",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Will Russia capture all of Kostyantynivka by September 30, 2026?",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y ENERGÍA",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
           "event": "Will there be no change in Fed interest rates after the December 2026 meeting?",
           "odds": "-138",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con política monetaria de la Fed.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will there be no change in Fed interest rates after the October 2026 meeting?",
           "odds": "-212",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con política monetaria de la Fed.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Raquel Lyra win the Pernambuco Governor election?",
+          "odds": "-149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Kai Stephens get second place in the Clacton by-election?",
+          "odds": "+1076",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will CPRF win the next Murmansk Oblast Parliament elections?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Exact Score: CD Concepción 3 - 1 O'Higgins FC?",
+          "odds": "+1983",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump pardon Roger Ver before 2027?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Lucknow be 32°C on August 1?",
+          "odds": "+156",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Relay launch a token by December 31, 2026?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will El Salvador hold $1b+ of BTC by December 31, 2026?",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump make no announcement for the next FDA commissioner by December 31?",
+          "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the MA-05 House seat?",
+          "odds": "+2339",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "The Memphis Classic: Darja Vidmanova vs Katie Volynets",
+          "odds": "-122",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
