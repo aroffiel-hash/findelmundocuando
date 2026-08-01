@@ -1,6 +1,7 @@
 {
-  "lastUpdated": "01 de agosto de 2026 — 11:57 UTC",
+  "lastUpdated": "01 de agosto de 2026 — 13:02 UTC",
   "ticker": [
+    "FIFA World Cup crisis: Who could replace Infantino as president?",
     "Vanishing forests: Why is the Philippines failing at reforestation?",
     "Spain says migrants in Ceuta have returned to Morocco",
     "Trump mimics sound of Patriot missile interceptions",
@@ -11,123 +12,35 @@
     "Iranian Kurdish parties in Iraq face a delicate balance amid Iran attacks",
     "Beneath Tunisia’s silence, public anger simmers",
     "Sri Lanka sentences two officials to death for not stopping Easter bombings",
-    "FIFA World Cup plan fallout: AFC reacts as Infantino scraps investment push",
-    "Protesters detained at rally in support of Pakistan-administered Kashmir",
-    "US drops charges against Olympian for damage to Reflecting Pool",
-    "Peru’s ex-president Humala released after conviction overturned",
-    "Yemen’s Houthis deny plan to charge ships transiting Red Sea"
+    "FIFA World Cup plan fallout: AFC reacts as Infantino scraps investment push"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
       "rows": [
         {
-          "event": "Will Israeli forces withdraw from beyond the Litani River by August 31?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
+          "event": "Will Trump pardon Roger Ver before 2027?",
+          "odds": "+1566",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Warsaw be 30°C on August 3?",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Iran target a Arab country on August 28, 2026?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
+          "event": "Will Trump make no announcement for the next FDA commissioner by December 31?",
+          "odds": "+185",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "label": "ECONOMÍA Y ENERGÍA",
       "rows": [
         {
           "event": "Will there be no change in Fed interest rates after the October 2026 meeting?",
           "odds": "-212",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will Raquel Lyra win the Pernambuco Governor election?",
-          "odds": "-149",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Kai Stephens get second place in the Clacton by-election?",
-          "odds": "+1076",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will CPRF win the next Murmansk Oblast Parliament elections?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will NK Istra 1961 vs. NK Lokomotiva Zagreb end in a draw?",
-          "odds": "+257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: CD Concepción 3 - 1 O'Higgins FC?",
-          "odds": "+1983",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump pardon Roger Ver before 2027?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: Real Madrid 2 - 1 ACF Fiorentina?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: Levante UD 1 - 2 Albacete Balompie?",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will FC Kaspiy Aktau win on 2026-08-01?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Ornn H200 Index be between $5.50 and $6.00 on August 31, 2026?",
-          "odds": "+233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will El Salvador hold $1b+ of BTC by December 31, 2026?",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con política monetaria de la Fed.",
           "moved": "none"
         }
       ]
