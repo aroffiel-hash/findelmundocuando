@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "01 de agosto de 2026 — 15:55 UTC",
+  "lastUpdated": "01 de agosto de 2026 — 16:54 UTC",
   "ticker": [
+    "Moroccan rapper Mehdi El Youbi temporarily released from prison",
+    "Israeli strikes kill four across Gaza, destroy medical supply warehouse",
+    "At least 11 wounded by Colombia car bomb days before presidential election",
+    "Two ex-Sri Lanka officials sentenced to death over 2019 Easter bombings",
     "India cracks down on protesters accused of ‘abusing’ Modi",
     "Israeli strike destroys Gaza hospital warehouse",
     "Infantino’s FIFA crisis: What is reaction to World Cup investment U-turn?",
@@ -11,13 +15,21 @@
     "Iran warns against ‘flames of war’ amid US strike threats on energy sites",
     "Sde Teiman walkout lays bare an Israeli military running out of trust",
     "Infantino’s FIFA World Cup crisis: Who could replace president?",
-    "Vanishing forests: Why is the Philippines failing at reforestation?",
-    "Spain says migrants in Ceuta have returned to Morocco",
-    "Trump mimics sound of Patriot missile interceptions",
-    "India’s Modi says he forgives students who abused him in Cockroach protests",
-    "Famed climber Purja confirmed dead as bodies recovered from Broad Peak"
+    "Vanishing forests: Why is the Philippines failing at reforestation?"
   ],
   "sections": [
+    {
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "rows": [
+        {
+          "event": "Will Iran target a Arab country on August 27, 2026?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
     {
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
@@ -29,14 +41,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Japan Q2 GDP growth (annualized) be between 0.8% and 1.6%?",
-          "odds": "+316",
+          "event": "Bank of Mexico decreases interest rates by 25 bps after August 2026 meeting?",
+          "odds": "+3025",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-          "odds": "-222",
+          "event": "Will Japan Q2 GDP growth (annualized) be between 0.8% and 1.6%?",
+          "odds": "+316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -51,18 +63,6 @@
           "odds": "-149",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will Kai Stephens get second place in the Clacton by-election?",
-          "odds": "+1076",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will CPRF win the next Murmansk Oblast Parliament elections?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -73,12 +73,6 @@
         {
           "event": "Exact Score: CD Concepción 3 - 1 O'Higgins FC?",
           "odds": "+1983",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Anduril's valuation hit (HIGH) $100B by August 31?",
-          "odds": "-400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -115,6 +109,12 @@
         {
           "event": "North Queensland Cowboys vs. Sydney Roosters",
           "odds": "+138",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Michelle Bachelet be the next Secretary-General of the United Nations?",
+          "odds": "+910",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
