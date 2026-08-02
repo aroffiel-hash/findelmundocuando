@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "02 de agosto de 2026 — 16:57 UTC",
+  "lastUpdated": "02 de agosto de 2026 — 18:00 UTC",
   "ticker": [
+    "Migrant deaths in Ceuta rise to 72 after border surge from Morocco",
+    "‘Iran war participation trophy’ mocking Trump appears in New York",
+    "Deadly floods and landslide hit India’s Kerala",
     "Suicide bomber kills 14 outside police station in Pakistan’s Swat",
     "Capital One cites anti-money laundering concerns in Trump Organization case",
     "Saudi Crown Prince MBS urges Trump to ‘prioritise dialogue’ in US-Iran war",
@@ -12,22 +15,13 @@
     "CIA whistleblower John Kiriakou on accountability and CIA’s history",
     "Firefighting helicopters collide, killing two, as Greece battles wildfires",
     "Deadly ferry fire leaves dozens missing in Indonesia’s Java Sea",
-    "No breakthrough on Strait of Hormuz as Trump halts attack on Iran",
-    "Rubio’s bypass plan: Can the world escape the Strait of Hormuz chokepoint?",
-    "Communal violence between Hindus and Muslims grips southern Nepal",
-    "Hundreds mourn Moroccan footballer who died trying to reach Ceuta"
+    "No breakthrough on Strait of Hormuz as Trump halts attack on Iran"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Will the highest temperature in Warsaw be 28°C on August 3?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Valorant: Wolves Esports vs Dragon Ranger Gaming (BO3) - VCT China Stage 2 Play-Ins",
           "odds": "+177",
@@ -43,6 +37,12 @@
         {
           "event": "Will Japan Q2 GDP growth (annualized) be between 0.8% and 1.6%?",
           "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $110 in August?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -63,18 +63,6 @@
           "odds": "-222",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will Kai Stephens get second place in the Clacton by-election?",
-          "odds": "+1076",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will CPRF win the next Murmansk Oblast Parliament elections?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -89,20 +77,14 @@
           "moved": "none"
         },
         {
+          "event": "SCR Altach leading at halftime?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will El Salvador hold $1b+ of BTC by December 31, 2026?",
           "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in San Francisco be between 78-79°F on August 2?",
-          "odds": "+203",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will PFC Ludogorets 1945 Razgrad win on 2026-08-02?",
-          "odds": "-2399",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -127,6 +109,12 @@
         {
           "event": "Extended FDV above $500M one day after launch?",
           "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: FK Pardubice 1 - 2 FK Jablonec?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
