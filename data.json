@@ -1,7 +1,6 @@
 {
-  "lastUpdated": "02 de agosto de 2026 — 02:03 UTC",
+  "lastUpdated": "02 de agosto de 2026 — 02:07 UTC",
   "ticker": [
-    "Thirteen dead in Peruvian tourist plane crash over Nazca Lines",
     "Gunman kills several at Idaho fast-food restaurant",
     "Hungary plans to shut down only nuclear power plant amid drought",
     "Iran war live: Tehran warns of ‘decisive’ response to any US ‘aggression’",
@@ -12,29 +11,105 @@
     "US Arabs eye ‘historic’ Senate win for Abdul El-Sayed despite AIPAC attacks",
     "Why did Ceuta migrant mayhem chill already frosty Israel-Spain relations?",
     "Al Jazeera reports from Ceuta as migrants leave the enclave",
-    "Police say 13 killed as small plane viewing Nazca Lines in Peru crashes"
+    "Police say 13 killed as small plane viewing Nazca Lines in Peru crashes",
+    "Fighting breaks out in western Tigray as Ethiopia and TPLF trade blame",
+    "Greece battles raging wildfires as flames appear to ease in France",
+    "Record-breaking climber Nirmal Purja among those killed in avalanche",
+    "Trump denounces Justice Department decision to drop Reflecting Pool charges"
   ],
   "sections": [
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will Trump make no announcement for the next FDA commissioner by December 31?",
-          "odds": "+185",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Will Japan Q2 GDP growth (annualized) be between 0.8% and 1.6%?",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+          "odds": "-222",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y ENERGÍA",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-          "odds": "-222",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con política monetaria de la Fed.",
+          "event": "Will Raquel Lyra win the Pernambuco Governor election?",
+          "odds": "-149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Darijana Filipović be the Croat Presidency Member of Bosnia and Herzegovina following the 2026 general election?",
+          "odds": "+138",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Kai Stephens get second place in the Clacton by-election?",
+          "odds": "+1076",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Exact Score: CD Concepción 3 - 1 O'Higgins FC?",
+          "odds": "+1983",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will El Salvador hold $1b+ of BTC by December 31, 2026?",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Marcus Rashford stay at Manchester United?",
+          "odds": "-201",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump make no announcement for the next FDA commissioner by December 31?",
+          "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the MA-05 House seat?",
+          "odds": "+2339",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Ornn H100 Index be less than $1.50 on December 31, 2026?",
+          "odds": "+1438",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "North Queensland Cowboys vs. Sydney Roosters",
+          "odds": "+138",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Michelle Bachelet be the next Secretary-General of the United Nations?",
+          "odds": "+910",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
