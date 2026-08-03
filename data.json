@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "03 de agosto de 2026 — 13:34 UTC",
+  "lastUpdated": "03 de agosto de 2026 — 14:21 UTC",
   "ticker": [
+    "Families search for loved ones after deadly Ceuta crossings",
+    "People flee as rain triggers landslide in India’s Kerala",
+    "Massive Attack says members held after pro-Palestine display in Singapore",
     "Why genocide keeps repeating in Sudan",
     "Detained Myanmar leader Suu Kyi  has first foreign visitor in five years",
     "Protests, boycott cast shadow on Pakistan-administered Kashmir election",
@@ -9,107 +12,53 @@
     "Pakistan-administered Kashmir elections and protests – all you need to know",
     "Ukraine strikes Russia’s biggest retailer again",
     "Israel defies Trump’s peace plan as it escalates deadly attacks on Gaza",
-    "US cricket player Reddy receives eight-year ban for match-fixing",
-    "North Koreans flood new ‘tourist zone’ beach amid heatwave",
-    "First moments of Egypt earthquake caught during livestream",
-    "Vozinha gets hero’s welcome in Chile after Cape Verde’s historic World Cup",
-    "Trump says new Iran negotiations starting: What we know",
-    "Wildfires still burning in France and Spain amid fears of more to come",
-    "England set to follow Wales in withdrawing support for FIFA’s Infantino"
+    "US cricket player Reddy receives eight-year ban for match-fixing"
   ],
   "sections": [
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
-        {
-          "event": "Will Japan Q2 GDP growth (annualized) be between 0.8% and 1.6%?",
-          "odds": "+300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Natural Gas (NG) Up or Down on August 3?",
-          "odds": "+212",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will Laurence Fox get second place in the Clacton by-election?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democrats win the New Jersey Senate race in 2026?",
-          "odds": "-1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will CPRF win the next Murmansk Oblast Parliament elections?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Exact Score: CD Concepción 3 - 1 O'Higgins FC?",
-          "odds": "+1983",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will El Salvador hold $1b+ of BTC by December 31, 2026?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Grodzisk Mazowiecki (Doubles): Banthia/Donski vs Geerts/Perez",
-          "odds": "-233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Donald Trump publicly insult someone on August 12, 2026?",
-          "odds": "-900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Houthis successfully target shipping on August 6, 2026?",
           "odds": "+809",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
+      "rows": [
+        {
+          "event": "Will Donald Trump publicly insult someone on August 12, 2026?",
+          "odds": "-900",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         },
         {
           "event": "Will Trump make no announcement for the next FDA commissioner by December 31?",
           "odds": "+185",
-          "params": "Fuente: Polymarket",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         },
         {
-          "event": "Will the Republican Party win the MA-05 House seat?",
-          "odds": "+2339",
-          "params": "Fuente: Polymarket",
+          "event": "Will Donald Trump publicly insult someone on August 28, 2026?",
+          "odds": "-1150",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "rows": [
         {
-          "event": "North Queensland Cowboys vs. Sydney Roosters",
-          "odds": "+138",
-          "params": "Fuente: Polymarket",
+          "event": "Will the Democrats win the New Jersey Senate race in 2026?",
+          "odds": "-1899",
+          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
