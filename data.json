@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "02 de agosto de 2026 — 23:52 UTC",
+  "lastUpdated": "03 de agosto de 2026 — 02:06 UTC",
   "ticker": [
+    "Japan and US confirm rare joint intervention to prop up yen",
+    "Suicide bombing kills at least 14 people in Pakistan’s Swat Valley",
+    "Iran war live: Trump says talks to resume; Tehran urges US to honour MoU",
+    "Trump says new round of Iran talks will begin Monday",
     "Brazil’s Lula launches fourth-term bid, focuses on national sovereignty",
     "Sudan army drone attack on Darfur kills 35, rights group says",
     "Wildfires force mass evacuations across the Pacific Northwest",
@@ -8,114 +12,41 @@
     "UK PM Burnham vows to be ‘relentless’ on Channel migrant crossings",
     "Venezuela and the Dominican Republic say they will work to restore ties",
     "Is Washington dictating the agenda for talks in Venezuela?",
-    "How much has AIPAC spent against Michigan’s Abdul El-Sayed? And why?",
-    "Israelis attack Armenian monastery in Jerusalem’s Old City",
-    "Body of climber Nirmal Purja, six others recovered after Pakistan avalanche",
-    "Most Americans say Trump has gone too far on US immigration: Poll",
-    "Iran says negotiations with Oman over Strait of Hormuz in final stages",
-    "Two helicopters collide mid-air while tackling wildfires in Greece",
-    "Russian and Ukrainian strikes kill 14 on both sides",
-    "‘Iron fist’ doesn’t work with Iran: Former US hostage in Tehran"
+    "How much has AIPAC spent against Michigan’s Abdul El-Sayed? And why?"
   ],
   "sections": [
     {
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
+      "rows": [
+        {
+          "event": "Will Trump make no announcement for the next FDA commissioner by December 31?",
+          "odds": "+185",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "moved": "none"
+        },
+        {
+          "event": "Will Donald Trump post 200+ Truth Social posts from July 31 to August 7, 2026?",
+          "odds": "+2400",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
       "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
-      "rows": [
-        {
-          "event": "Valorant: Wolves Esports vs Dragon Ranger Gaming (BO3) - VCT China Stage 2 Play-Ins",
-          "odds": "+177",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
-      "rows": [
-        {
-          "event": "Will Japan Q2 GDP growth (annualized) be between 0.8% and 1.6%?",
-          "odds": "+316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
         {
           "event": "Will the Democrats win the New Jersey Senate race in 2026?",
           "odds": "-1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Laurence Fox get second place in the Clacton by-election?",
-          "odds": "+3125",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
           "event": "Mitch McConnell steps down from Senate before his term ends?",
           "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Exact Score: CD Concepción 3 - 1 O'Higgins FC?",
-          "odds": "+1983",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will El Salvador hold $1b+ of BTC by December 31, 2026?",
-          "odds": "+163",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump make no announcement for the next FDA commissioner by December 31?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the MA-05 House seat?",
-          "odds": "+2339",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "North Queensland Cowboys vs. Sydney Roosters",
-          "odds": "+138",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Chongqing be 33°C on August 4?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Extended FDV above $500M one day after launch?",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Gen.G Win KeSPA Cup 2026?",
-          "odds": "+521",
-          "params": "Fuente: Polymarket",
+          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
