@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "04 de agosto de 2026 — 00:02 UTC",
+  "lastUpdated": "04 de agosto de 2026 — 01:51 UTC",
   "ticker": [
+    "Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms",
+    "Trump administration sued by 25 states over new tariffs on trading partners",
+    "Iran war live: Tehran denies US talks as Trump warns of ‘last chance’",
+    "Two workers who died in quake-hit Japan mall were sent in to get cash",
     "Death toll from Venezuela earthquakes passes 6,000",
     "Petrol prices strain US households as oil giants Chevron, Exxon profits soar",
     "From Trump to El-Sayed: US Arabs in Michigan centre Palestine in politics",
@@ -8,120 +12,89 @@
     "Migrants await asylum in Ceuta amid hunger and thirst",
     "Will Israel withdraw from Gaza if Hamas disarms?",
     "El-Sayed, Stevens face off in Michigan Democratic Senate primary",
-    "Hundreds of migrant minors stranded in Ceuta after border crisis",
-    "Survivors reach port after deadly Indonesia ferry fire",
-    "Clergy members arrested while protesting at Senate office",
-    "Trump says talks with Iran are ‘last chance’ to forge a deal",
-    "Bomb disposal underway in Le Porge after wildfires unearth WWII shells",
-    "US announces first two deaths from cyclospora outbreak",
-    "Can Netanyahu survive Israel’s most consequential election?",
-    "Israel top court hears challenge to UNRWA ban"
+    "Hundreds of migrant minors stranded in Ceuta after border crisis"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
-          "event": "Wigan Warriors vs. Toulouse Olympique",
-          "odds": "-376",
-          "params": "Fuente: Polymarket",
+          "event": "Will Houthis successfully target shipping on August 6, 2026?",
+          "odds": "+809",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "moved": "none"
+        },
+        {
+          "event": "US-Iran 60 day negotiation period extended?",
+          "odds": "-170",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
+      "rows": [
+        {
+          "event": "Will Donald Trump publicly insult someone on August 12, 2026?",
+          "odds": "-900",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump make no announcement for the next FDA commissioner by December 31?",
+          "odds": "+185",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump say \"Bitcoin\", \"Crypto\", or \"Cryptocurrency\" during remarks in Las Vegas?",
+          "odds": "+1566",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "moved": "none"
+        },
+        {
+          "event": "Will Donald Trump publicly insult someone on August 28, 2026?",
+          "odds": "-1150",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "label": "ECONOMÍA Y ENERGÍA",
       "rows": [
         {
           "event": "Will WTI Crude Oil (WTI) hit (HIGH) $115 in August?",
-          "odds": "+2172",
-          "params": "Fuente: Polymarket",
+          "odds": "+2464",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
           "moved": "none"
         },
         {
           "event": "Bank of England decreases interest rates by 50+ bps after November 2026 meeting?",
           "odds": "+1624",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
         {
           "event": "Will the Democrats win the New Jersey Senate race in 2026?",
           "odds": "-1899",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
-          "event": "Will Ralph Norman be the new Republican nominee for Senate in South Carolina?",
-          "odds": "+376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Ülle Madise be the next President of Estonia?",
-          "odds": "-149",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Exact Score: CD Concepción 3 - 1 O'Higgins FC?",
-          "odds": "+1983",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will El Salvador hold $1b+ of BTC by December 31, 2026?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will \"Babydoll – Dominic Fike\" be the #2 song for 2026?",
-          "odds": "+233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Donald Trump publicly insult someone on August 12, 2026?",
-          "odds": "-900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Houthis successfully target shipping on August 6, 2026?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump make no announcement for the next FDA commissioner by December 31?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the MA-05 House seat?",
-          "odds": "+2339",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Tel Aviv be 33°C on August 5?",
-          "odds": "-122",
-          "params": "Fuente: Polymarket",
+          "event": "Will the Florida Special 2026 Senate race be within 5%?",
+          "odds": "+284",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
