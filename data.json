@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "05 de agosto de 2026 — 13:49 UTC",
+  "lastUpdated": "05 de agosto de 2026 — 13:51 UTC",
   "ticker": [
     "Iraq faces crisis as Shia armed groups defy disarmament",
     "Former heavyweight champ ⁠Parker cleared to fight again after doping ban",
@@ -12,23 +12,86 @@
     "Protesters stage sit-in against settler violence-linked Smotrich funds",
     "Turkish cargo ship catches fire after Black Sea drone attack",
     "How a social media campaign triggered huge migrant surge on Ceuta",
-    "Israeli forces detain Palestinians during raid in occupied West Bank"
+    "Ex-Liverpool star Salah arrives in Turkiye before move to Trabzonspor",
+    "Israeli forces detain Palestinians during raid in occupied West Bank",
+    "Lebanon and Israel still split over disarming Hezbollah at Rome talks",
+    "Vozinha moves on from World Cup, says ‘Colo-Colo is the best moment’"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
+        {
+          "event": "Will Andy Beshear announce a Presidential run before 2027?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the Democrats win the New Jersey Senate race in 2026?",
           "odds": "-1899",
-          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Florida Special 2026 Senate race be within 5%?",
           "odds": "+284",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "ITF Frankfurt: Arian Barbic vs Martins Rocens",
+          "odds": "-108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: CD Concepción 3 - 1 O'Higgins FC?",
+          "odds": "+1983",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will UMich Consumer Sentiment be between 55.0 and 57.9 in August?",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "SHEIN IPO before 2027?",
+          "odds": "-975",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will \"Babydoll – Dominic Fike\" be the #2 song for 2026?",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Rocket Lab USA, Inc. (RKLB) hit (LOW) $56 in August?",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Extended FDV above $500M one day after launch?",
+          "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Concrete launch a token by December 31, 2026?",
+          "odds": "+117",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
