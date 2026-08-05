@@ -1,27 +1,63 @@
 {
-  "lastUpdated": "05 de agosto de 2026 — 13:51 UTC",
+  "lastUpdated": "05 de agosto de 2026 — 15:57 UTC",
   "ticker": [
+    "UK tribunal confirms professor’s anti-Zionism is legally protected belief",
+    "War on Iran: US-Iran deal edges closer",
+    "Germany investigates explosive device attached to drone at Leipzig airport",
+    "Demolition complicates the search for bodies after Venezuela’s earthquakes",
+    "Gaza father opens play center to restore childhood amid Israeli attacks",
+    "Boxer Chapman recovering after emergency surgery for brain bleed",
+    "Ex-PM Sheikh Hasina announces plan to return to Bangladesh",
+    "Why are US Republicans losing faith in War Secretary Pete Hegseth?",
     "Iraq faces crisis as Shia armed groups defy disarmament",
     "Former heavyweight champ ⁠Parker cleared to fight again after doping ban",
     "UN rights chief says Iran executed at least 56 people since March",
     "Pakistan’s Khan in jail for 3 years: PTI rallies over ‘arbitrary detention’",
     "SpaceX rocket segment to crash into the moon: What happened?",
     "Mohamed Salah lands in Turkiye to fan frenzy ahead of Trabzonspor move",
-    "In Bandar Abbas, the ceasefire never came",
-    "Iran, Oman, US ‘close’ to Hormuz deal: What do they all want?",
-    "Protesters stage sit-in against settler violence-linked Smotrich funds",
-    "Turkish cargo ship catches fire after Black Sea drone attack",
-    "How a social media campaign triggered huge migrant surge on Ceuta",
-    "Ex-Liverpool star Salah arrives in Turkiye before move to Trabzonspor",
-    "Israeli forces detain Palestinians during raid in occupied West Bank",
-    "Lebanon and Israel still split over disarming Hezbollah at Rome talks",
-    "Vozinha moves on from World Cup, says ‘Colo-Colo is the best moment’"
+    "In Bandar Abbas, the ceasefire never came"
   ],
   "sections": [
+    {
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "rows": [
+        {
+          "event": "Will the highest temperature in Warsaw be 34°C on August 6?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will Las Vegas Lights win on 2026-08-05?",
+          "odds": "+143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
     {
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
+        {
+          "event": "Will Maive Rute be the next President of Estonia?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Josh Hawley announce a presidential run before 2028?",
+          "odds": "-122",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Andy Beshear announce a Presidential run before 2027?",
           "odds": "+1011",
@@ -47,12 +83,6 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "ITF Frankfurt: Arian Barbic vs Martins Rocens",
-          "odds": "-108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Exact Score: CD Concepción 3 - 1 O'Higgins FC?",
           "odds": "+1983",
           "params": "Fuente: Polymarket",
@@ -71,6 +101,18 @@
           "moved": "none"
         },
         {
+          "event": "Will the highest temperature in Taipei be 34°C on August 7?",
+          "odds": "+212",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Plovdiv 2: George Lazarov vs Yanaki Milev",
+          "odds": "+127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will \"Babydoll – Dominic Fike\" be the #2 song for 2026?",
           "odds": "+233",
           "params": "Fuente: Polymarket",
@@ -83,14 +125,8 @@
           "moved": "none"
         },
         {
-          "event": "Extended FDV above $500M one day after launch?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Concrete launch a token by December 31, 2026?",
-          "odds": "+117",
+          "event": "Will Donald Trump post 180-199 Truth Social posts from August 4 to August 11, 2026?",
+          "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
