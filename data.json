@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "05 de agosto de 2026 — 02:43 UTC",
+  "lastUpdated": "05 de agosto de 2026 — 05:39 UTC",
   "ticker": [
+    "Bangladesh Truth Seeker",
+    "Explosions across Kyiv as Russian missiles strike Ukraine’s capital",
+    "Has a US court just set the grounds for another January 6 insurrection?",
+    "Bolivia sends troops to stop Brazilian gang violence along border",
+    "North Korea’s Kim Yo Jong issues military threat over Japan missile test",
+    "Protesters demand answers from ICE after second man dies at Delaney Hall",
+    "Israel approves $37m to seize more than 70 occupied West Bank sites",
     "US stock market hits record high amid hopes for Strait of Hormuz reopening",
     "Armed man arrested at Trump’s LA golf course ahead of president’s visit",
     "Ceuta and Melilla: Why Europe’s African border remains a flashpoint",
@@ -8,14 +15,7 @@
     "Iran war live: Tehran-Oman talks on Hormuz ‘positive’; ship hit in Red Sea",
     "US revokes visa of Brazilian ambassador amid deepening diplomatic spat",
     "Sri Lanka shuts schools as floods and mudslides kill 7",
-    "One killed, 12 injured in Russian ballistic missile attack on Kyiv",
-    "Elon Musk’s SpaceX reports losses but less than expected",
-    "How the far right weaponised the Ceuta crisis",
-    "Funeral for family killed in US strike on Iran’s Qeshm Island",
-    "Death toll rises to 87 in India’s flood-stricken Assam",
-    "Six years on, Beirut blast families still await justice",
-    "National Guard deployment to Washington, DC, will cost US roughly $1.4bn",
-    "US says deal on reopening Hormuz close as Iran, Oman hold ‘positive’ talks"
+    "Russian missile attack kills 14, injures 27 in Ukraine’s Kyiv region"
   ],
   "sections": [
     {
@@ -25,6 +25,12 @@
         {
           "event": "Wigan Warriors vs. Toulouse Olympique",
           "odds": "-376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Warsaw be 31°C on August 6?",
+          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -46,6 +52,12 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
+        {
+          "event": "Will Hana Ghassan win the Governor of Pará election?",
+          "odds": "-127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the Democrats win the New Jersey Senate race in 2026?",
           "odds": "-1899",
@@ -83,8 +95,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Trump praise Andy Burnham in August?",
-          "odds": "-1566",
+          "event": "Will Bradley Barcola stay at Paris Saint-Germain?",
+          "odds": "+194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -113,8 +125,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Donald Trump post 200+ Truth Social posts from August 4 to August 11, 2026?",
-          "odds": "+212",
+          "event": "Will FK Austria Wien win on 2026-08-05?",
+          "odds": "-809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
