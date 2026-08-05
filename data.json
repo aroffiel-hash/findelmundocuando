@@ -1,121 +1,64 @@
 {
-  "lastUpdated": "04 de agosto de 2026 — 23:58 UTC",
+  "lastUpdated": "05 de agosto de 2026 — 01:52 UTC",
   "ticker": [
+    "Armed man arrested at Trump’s LA golf course ahead of president’s visit",
+    "Ceuta and Melilla: Why Europe’s African border remains a flashpoint",
+    "Ukrainian man chased by exploding drone recounts his terror",
+    "Iran war live: Tehran-Oman talks on Hormuz ‘positive’; ship hit in Red Sea",
+    "US revokes visa of Brazilian ambassador amid deepening diplomatic spat",
+    "Sri Lanka shuts schools as floods and mudslides kill 7",
+    "One killed, 12 injured in Russian ballistic missile attack on Kyiv",
     "Elon Musk’s SpaceX reports losses but less than expected",
     "How the far right weaponised the Ceuta crisis",
     "Funeral for family killed in US strike on Iran’s Qeshm Island",
     "Death toll rises to 87 in India’s flood-stricken Assam",
-    "Six years on, Beirut blast families still await justice",
-    "National Guard deployment to Washington, DC will cost US roughly $1.4bn",
-    "US says deal on reopening Hormuz close as Iran, Oman hold ‘positive’ talks",
-    "US court deals blow to Trump’s bid to scrap climate grant programme",
-    "How much of a challenge are wildfires to Europe?",
-    "‘I wanted to hug whatever remained’: Gaza families’ 3-year wait for funeral",
-    "Kosovo finds third wartime mass grave site as officials widen search",
-    "Shop owners dismantle businesses after Israeli demolition orders",
-    "Argentina grain exports halt as maritime pilots strike over Milei decree",
-    "Evacuations ordered as Guatemala volcano erupts",
-    "Red Cross urges international aid as Sudan crisis deepens"
+    "Six years on, Beirut blast families still await justice"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
       "rows": [
         {
-          "event": "Wigan Warriors vs. Toulouse Olympique",
-          "odds": "-376",
-          "params": "Fuente: Polymarket",
+          "event": "Will Trump praise Andy Burnham in August?",
+          "odds": "-1566",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "moved": "none"
+        },
+        {
+          "event": "Will Donald Trump post 200+ Truth Social posts from August 4 to August 11, 2026?",
+          "odds": "+212",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "💰",
+      "label": "ECONOMÍA Y ENERGÍA",
+      "rows": [
+        {
+          "event": "Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?",
+          "odds": "+2400",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con política monetaria de la Fed.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
         {
           "event": "Will the Democrats win the New Jersey Senate race in 2026?",
           "odds": "-1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Andy Beshear announce a Presidential run before 2027?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump's approval rating be at least 39.0 on August 7, 2026?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Luke Herdegen win the 2026 Secret Harbour state by-election?",
-          "odds": "+376",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
           "event": "Will the Florida Special 2026 Senate race be within 5%?",
           "odds": "+284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Exact Score: Club Guabirá 1 - 1 CD Real Tomayapo?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: CD Concepción 3 - 1 O'Higgins FC?",
-          "odds": "+1983",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the July 2026 unemployment rate be 4.6%?",
-          "odds": "+2172",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Chengdu be 32°C on August 6?",
-          "odds": "+284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump praise Andy Burnham in August?",
-          "odds": "-1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will \"Babydoll – Dominic Fike\" be the #2 song for 2026?",
-          "odds": "+233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Extended FDV above $500M one day after launch?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Concrete launch a token by December 31, 2026?",
-          "odds": "+117",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
