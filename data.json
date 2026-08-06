@@ -1,10 +1,12 @@
 {
-  "lastUpdated": "06 de agosto de 2026 — 01:53 UTC",
+  "lastUpdated": "06 de agosto de 2026 — 01:58 UTC",
   "ticker": [
+    "Mexican influencer shot dead during livestream",
     "Meta’s AI model follows rivals in revealing hacks of outside systems",
     "FAA says Trump’s Marine One briefly flew too close to passenger jet",
     "Mamdani praises El-Sayed’s victory, rejects ‘mini Mamdani’ trope",
     "Iran war live: Tehran, Oman close in on Hormuz deal; Houthis attack tankers",
+    "Mexican influencer shot dead during TikTok livestream",
     "Nigeria announces rescue of 308 kidnapped citizens",
     "FIFA pledges to defend Infantino after World Cup rights plan collapses",
     "Erica Schwartz confirmed as new CDC chief amid US agency turmoil",
@@ -12,17 +14,72 @@
     "US officials push back on reports of dangerously low munitions supplies",
     "US man arrested at Trump’s golf course charged with multiple felonies",
     "Israeli forces raid camp in occupied West Bank",
-    "Clashes on anniversary of Imran Khan imprisonment"
+    "Clashes on anniversary of Imran Khan imprisonment",
+    "El-Sayed wins Michigan Democratic Senate primary"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Houthis successfully target shipping on August 12, 2026?",
-          "odds": "+1328",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Will Maive Rute be the next President of Estonia?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Exact Score: CD Concepción 3 - 1 O'Higgins FC?",
+          "odds": "+1983",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will UMich Consumer Sentiment be between 55.0 and 57.9 in August?",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the lowest temperature in New York City be between 72-73°F on August 6?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "NK Celje to win the second half?",
+          "odds": "+104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will \"Babydoll – Dominic Fike\" be the #2 song for 2026?",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Karmine Corp Win the Shortest Game in LEC 2026 Summer Split?",
+          "odds": "+177",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Extended FDV above $500M one day after launch?",
+          "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Google be the #2 AI lab at the end of September 2026?",
+          "odds": "+163",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
