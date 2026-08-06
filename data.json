@@ -1,28 +1,109 @@
 {
-  "lastUpdated": "06 de agosto de 2026 — 13:46 UTC",
+  "lastUpdated": "06 de agosto de 2026 — 13:48 UTC",
   "ticker": [
-    "Indian court sentences high-profile journalist to 10 years for rape",
-    "Senate panel votes to hold former official Fauci in contempt of Congress",
-    "‘There is no money’: Is Iraq entering a phase of lean years?",
-    "UEFA vice president seeks ‘custodian of ⁠sport’ after FIFA-Infantino furore",
     "Iran tightens security grip at home as war conditions with US linger",
     "Will the US-Iran war and Hormuz deadlock last for months?",
+    "Mohamed Salah signs two-year deal with Trabzonspor after Liverpool exit",
     "DR Congo Ebola health workers protest unpaid wages as deaths surpass 1,800",
     "The old pact between Israel’s government and military has broken down",
     "Infantino, FIFA try to move beyond botched World Cup sell-off: What we know",
     "What came into force with the EU’s AI Act this week – and what didn’t",
     "Deadliest form of malnutrition has reached critical levels in Afghanistan",
-    "Why is Pakistan PM Shehbaz Sharif visiting Saudi Arabia amid Gulf tensions?"
+    "Why is Pakistan PM Shehbaz Sharif visiting Saudi Arabia amid Gulf tensions?",
+    "Myanmar leader visits Thailand in bid to bolster international legitimacy",
+    "Video: Wildfires in Washington state force thousands to evacuate homes",
+    "Can the US slow China’s robotics and tech rise?",
+    "Ebola outbreak accelerates as healthcare workers strike over pay",
+    "Who was Cesar Gastelum, Mexican TikToker shot dead mid-livestream?",
+    "What the CJP protests reveal about India’s next generation"
   ],
   "sections": [
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y ENERGÍA",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "WTI Crude Oil (WTI) Up or Down on August 6?",
-          "odds": "-334",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
+          "event": "Will Russia enter Mykolaivka by September 30, 2026?",
+          "odds": "+132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will S&P 500 (SPY) hit (HIGH) $790 in August?",
+          "odds": "+120",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will the Republicans win the Wyoming Senate race in 2026?",
+          "odds": "-2073",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will the median home value in the US be between $433,000 and $440,000 on September 30?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: CD Concepción 3 - 1 O'Higgins FC?",
+          "odds": "+1983",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Ankara be 33°C on August 6?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "NK Celje to win the second half?",
+          "odds": "+104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Philadelphia Union win on 2026-08-06?",
+          "odds": "+194",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Extended FDV above $500M one day after launch?",
+          "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Dee Valladares come in third-place on Big Brother season 28?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the MA-05 House seat?",
+          "odds": "+2339",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
