@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "06 de agosto de 2026 — 08:22 UTC",
+  "lastUpdated": "06 de agosto de 2026 — 11:14 UTC",
   "ticker": [
-    "Russian strikes kill six in Ukraine as Moscow intercepts hundreds of drones",
-    "Ex-Bangladesh cricket captain Shakib’s home petrol-bombed in Hasina fallout",
-    "Messi scores his first goals since World Cup as Inter Miami beat San Luis",
-    "Pakistan beat West Indies to end 8 away Test losing streak and draw series",
-    "A US proposal for missile defense that’s been tried before",
-    "Ukraine escalates strikes on Russian shipping",
-    "US military families face deportation after immigration protection ends",
-    "Carney curses Infantino as FIFA backs its president",
-    "Strait of Hormuz tolls would harm livelihoods worldwide, shipowners warn",
-    "Trump attacks El-Sayed as ‘hater of Jews’ after Michigan win",
-    "Could the Iran war derail Donald Trump’s legacy?",
-    "Trump administration refunds $100bn in tariffs struck down by Supreme Court",
-    "Lightning strike kills Thai footballer during match",
-    "How Gambian women are restoring the mangroves protecting Banjul",
-    "Explosive-laden drone found at German airport hosting Ukrainian fleet"
+    "Who was Cesar Gastelum, Mexican TikToker shot dead mid-livestream?",
+    "What the CJP protests reveal about India’s next generation",
+    "Cambridge professor Jason Arday quits amid plagiarism allegations",
+    "Hormuz deal ‘close’: What’s the latest on each side’s positions?",
+    "Uganda football star Owori killed, weeks after death of rugby’s Gongodyo",
+    "South Korea police raid football association over Hong appointment process",
+    "Sudan war threatens ancient Meroe pyramids, a UNESCO Heritage Site",
+    "US-Israel war on Iran upends Europe’s summer holiday travel patterns",
+    "Sheikh Hasina vows to return, but will Bangladesh accept fugitive ex-PM?",
+    "What to know about this week’s US primary elections in Tennessee and Hawaii",
+    "UK police confirm Uganda boxers unaccounted for after Commonwealth Games",
+    "Shifting US politics offers opportunity for Palestinian self-determination",
+    "Why is France developing a new nuclear strategy?",
+    "Iran anthem protest: Female footballers ‘proud’ to become Australian",
+    "Russian strikes kill six in Ukraine as Moscow intercepts hundreds of drones"
   ],
   "sections": [
     {
@@ -23,14 +23,14 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will South Korea GDP growth in Q3 2026 be between 2.0% and 2.4%?",
-          "odds": "+1566",
+          "event": "Will there be 3 or more North Korea tests in August 2026?",
+          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will there be 3 or more North Korea tests in August 2026?",
-          "odds": "+455",
+          "event": "US-Iran Hormuz Agreement by August 15?",
+          "odds": "+127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -45,6 +45,18 @@
           "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Chris Thomas be the next Chief Minister of the Isle of Man?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republicans win the Wyoming Senate race in 2026?",
+          "odds": "-2073",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -52,12 +64,6 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
-        {
-          "event": "Will FK Jablonec win on 2026-08-06?",
-          "odds": "-132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Exact Score: CD Concepción 3 - 1 O'Higgins FC?",
           "odds": "+1983",
@@ -71,32 +77,38 @@
           "moved": "none"
         },
         {
+          "event": "ITF Southaven: Gloriana Nahum vs Anne-Christine Lutkemeyer",
+          "odds": "+194",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Extended FDV above $500M one day after launch?",
           "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will there be no next Google Gemini Pro model release by August 31, 2026?",
-          "odds": "+549",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Elon Musk post 180-199 tweets from July 31 to August 7, 2026?",
-          "odds": "-108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Google be the #2 AI lab at the end of September 2026?",
-          "odds": "+163",
+          "event": "Will Alphabet be the third-largest company in the world by market cap on September 30?",
+          "odds": "+112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Dee Valladares come in third-place on Big Brother season 28?",
           "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the MA-05 House seat?",
+          "odds": "+2339",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Denver be between 96-97°F on August 7?",
+          "odds": "+112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
