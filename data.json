@@ -1,23 +1,41 @@
 {
-  "lastUpdated": "06 de agosto de 2026 — 05:19 UTC",
+  "lastUpdated": "06 de agosto de 2026 — 08:22 UTC",
   "ticker": [
+    "Russian strikes kill six in Ukraine as Moscow intercepts hundreds of drones",
+    "Ex-Bangladesh cricket captain Shakib’s home petrol-bombed in Hasina fallout",
+    "Messi scores his first goals since World Cup as Inter Miami beat San Luis",
+    "Pakistan beat West Indies to end 8 away Test losing streak and draw series",
+    "A US proposal for missile defense that’s been tried before",
+    "Ukraine escalates strikes on Russian shipping",
+    "US military families face deportation after immigration protection ends",
+    "Carney curses Infantino as FIFA backs its president",
+    "Strait of Hormuz tolls would harm livelihoods worldwide, shipowners warn",
     "Trump attacks El-Sayed as ‘hater of Jews’ after Michigan win",
     "Could the Iran war derail Donald Trump’s legacy?",
     "Trump administration refunds $100bn in tariffs struck down by Supreme Court",
     "Lightning strike kills Thai footballer during match",
     "How Gambian women are restoring the mangroves protecting Banjul",
-    "Explosive-laden drone found at German airport hosting Ukrainian fleet",
-    "Colombia minister warns of ‘terrorism’ threat at presidential inauguration",
-    "Mexican influencer shot dead during livestream",
-    "Meta’s AI model follows rivals in revealing hacks of outside systems",
-    "FAA says Trump’s Marine One briefly flew too close to passenger jet",
-    "Mamdani praises El-Sayed’s victory, rejects ‘mini Mamdani’ trope",
-    "Iran war live: Trump denies munitions shortages; Tehran, Oman near deal",
-    "Mexican influencer shot dead during TikTok livestream",
-    "Nigeria announces rescue of 308 kidnapped citizens",
-    "FIFA pledges to defend Infantino after World Cup rights plan collapses"
+    "Explosive-laden drone found at German airport hosting Ukrainian fleet"
   ],
   "sections": [
+    {
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "rows": [
+        {
+          "event": "Will South Korea GDP growth in Q3 2026 be between 2.0% and 2.4%?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will there be 3 or more North Korea tests in August 2026?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
     {
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
@@ -35,26 +53,20 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Will FK Jablonec win on 2026-08-06?",
+          "odds": "-132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Exact Score: CD Concepción 3 - 1 O'Higgins FC?",
           "odds": "+1983",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will UMich Consumer Sentiment be between 55.0 and 57.9 in August?",
-          "odds": "+233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "NK Celje to win the second half?",
           "odds": "+104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will \"Babydoll – Dominic Fike\" be the #2 song for 2026?",
-          "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -67,6 +79,12 @@
         {
           "event": "Will there be no next Google Gemini Pro model release by August 31, 2026?",
           "odds": "+549",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Elon Musk post 180-199 tweets from July 31 to August 7, 2026?",
+          "odds": "-108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
