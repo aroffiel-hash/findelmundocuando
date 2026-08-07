@@ -1,91 +1,52 @@
 {
-  "lastUpdated": "07 de agosto de 2026 — 00:37 UTC",
+  "lastUpdated": "07 de agosto de 2026 — 02:16 UTC",
   "ticker": [
-    "Trump says war can’t ‘go much longer’, Hormuz deal close",
+    "Brazil formally accuses 16 people over 2024 Voepass deadly plane crash",
+    "Police in Argentina use tear gas to stop protesters",
+    "Do you know who owns the media you watch?",
+    "After the floods, hunger: Mozambique’s second disaster",
+    "Iran war live: Trump says war can’t ‘go much longer’; Hormuz deal close",
     "Travel restrictions – from Israel and Europe – trap students in Gaza",
     "‘No red line’: South Lebanon residents outraged as Israel resumes strikes",
     "Trump signs executive orders banning so-called ‘birth tourism’",
     "Iran’s Ghalibaf accuses Trump of conducting show diplomacy ‘on loop’",
     "How Abdul El-Sayed’s ‘extraordinary’ win stunned pro-Israel establishment",
     "Far-right fitness clubs mask extremist recruitment, experts warn",
-    "Trump signs new executive orders seeking to limit US birthright citizenship",
-    "Toronto police arrest two in US Consulate shooting investigation",
-    "US diplomat Rubio targets Cuban military officials, companies in sanctions",
-    "Fire engulfs earthquake housing site in Turkiye",
-    "WHO chief: Ebola outbreak in DRC spreading at ‘unprecedented rate’",
-    "How fragile is Lebanon’s uneasy peace?",
-    "US Senator McConnell says he’s been discharged from rehabilitation centre",
-    "Israeli settler charged over Palestinian activist’s killing"
+    "Trump signs new executive orders seeking to limit US birthright citizenship"
   ],
   "sections": [
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
       "rows": [
         {
-          "event": "Will the Republicans win the Arkansas Senate race in 2026?",
-          "odds": "-1539",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republicans win the Wyoming Senate race in 2026?",
-          "odds": "-2073",
-          "params": "Fuente: Polymarket",
+          "event": "Will Zelenskyy talk to Putin by December 31?",
+          "odds": "+614",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con liderazgo ucraniano.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
       "rows": [
         {
-          "event": "Exact Score: CD Concepción 3 - 1 O'Higgins FC?",
-          "odds": "+1983",
-          "params": "Fuente: Polymarket",
+          "event": "Will Trump pardon Donald Brodie before 2027?",
+          "odds": "+376",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "rows": [
         {
-          "event": "Baltimore Orioles vs. Texas Rangers",
-          "odds": "+138",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "NK Celje to win the second half?",
-          "odds": "+104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Extended FDV above $500M one day after launch?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Zelenskyy talk to Putin by December 31?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Aligned FDV above $800M one day after launch?",
-          "odds": "+2757",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "New York City FC vs. Club Santos Laguna: Both Teams to Score",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Tokyo be 35°C on August 8?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
+          "event": "Will the Republicans win the Wyoming Senate race in 2026?",
+          "odds": "-2073",
+          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
