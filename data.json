@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "07 de agosto de 2026 — 07:03 UTC",
+  "lastUpdated": "07 de agosto de 2026 — 08:50 UTC",
   "ticker": [
+    "Africa backs Infantino as CAF unanimously votes in FIFA president’s favour",
+    "Earthquake strikes as doctors perform surgery",
     "‘Still searching for truth’: Daughter of Sikh activist killed 30 years ago",
     "Bodies of climbers killed in avalanche retrieved from Broad Peak",
     "Mexico deploys troops to secure avocado region after US halts imports",
@@ -13,11 +15,21 @@
     "Exclusive report with the 308 people rescued by Nigerian forces",
     "Israeli raid in West Bank’s Qalandiya injures 51 Palestinians",
     "New Mexico court orders Meta to pay $567m over harm to youths",
-    "Brazil formally accuses 16 people over 2024 Voepass deadly plane crash",
-    "Police in Argentina use tear gas to stop protesters",
-    "Do you know who owns the media you watch?"
+    "Brazil formally accuses 16 people over 2024 Voepass deadly plane crash"
   ],
   "sections": [
+    {
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "rows": [
+        {
+          "event": "TSG Hawks vs. Chinatrust Brothers",
+          "odds": "-185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
     {
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
@@ -25,12 +37,6 @@
         {
           "event": "Will the Republicans win the Arkansas Senate race in 2026?",
           "odds": "-1539",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republicans win the Wyoming Senate race in 2026?",
-          "odds": "-2073",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -71,12 +77,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Chelsea FC win on 2026-08-08?",
-          "odds": "+112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the Republican Party win the MA-05 House seat?",
           "odds": "+2339",
           "params": "Fuente: Polymarket",
@@ -85,6 +85,12 @@
         {
           "event": "New pandemic in 2026?",
           "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Glean's valuation hit (HIGH) $10B by December 31?",
+          "odds": "+525",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
