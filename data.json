@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "07 de agosto de 2026 — 02:16 UTC",
+  "lastUpdated": "07 de agosto de 2026 — 03:44 UTC",
   "ticker": [
+    "More than one million affected by floods in India’s Assam state",
+    "Exclusive report with the 308 people rescued by Nigerian forces",
+    "Israeli raid in West Bank’s Qalandiya injures 51 Palestinians",
+    "New Mexico court orders Meta to pay $567m over harm to youths",
     "Brazil formally accuses 16 people over 2024 Voepass deadly plane crash",
     "Police in Argentina use tear gas to stop protesters",
     "Do you know who owns the media you watch?",
@@ -11,42 +15,71 @@
     "Trump signs executive orders banning so-called ‘birth tourism’",
     "Iran’s Ghalibaf accuses Trump of conducting show diplomacy ‘on loop’",
     "How Abdul El-Sayed’s ‘extraordinary’ win stunned pro-Israel establishment",
-    "Far-right fitness clubs mask extremist recruitment, experts warn",
-    "Trump signs new executive orders seeking to limit US birthright citizenship"
+    "Far-right fitness clubs mask extremist recruitment, experts warn"
   ],
   "sections": [
     {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
+        {
+          "event": "Will the Republicans win the Arkansas Senate race in 2026?",
+          "odds": "-1539",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Exact Score: CD Concepción 3 - 1 O'Higgins FC?",
+          "odds": "+1983",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "ITF Eupen: Arthur Nagel vs Martin Van Der Meerschen",
+          "odds": "-143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Elijah Manley be the Democratic nominee for FL-20?",
+          "odds": "+354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "NK Celje to win the second half?",
+          "odds": "+104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Extended FDV above $500M one day after launch?",
+          "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Zelenskyy talk to Putin by December 31?",
           "odds": "+614",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con liderazgo ucraniano.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
-      "rows": [
+        },
         {
-          "event": "Will Trump pardon Donald Brodie before 2027?",
-          "odds": "+376",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Aligned FDV above $800M one day after launch?",
+          "odds": "+2757",
+          "params": "Fuente: Polymarket",
           "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
-      "rows": [
+        },
         {
-          "event": "Will the Republicans win the Wyoming Senate race in 2026?",
-          "odds": "-2073",
-          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Will the Republican Party win the MA-05 House seat?",
+          "odds": "+2339",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
