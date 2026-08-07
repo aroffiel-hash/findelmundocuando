@@ -1,51 +1,33 @@
 {
-  "lastUpdated": "06 de agosto de 2026 — 13:48 UTC",
+  "lastUpdated": "07 de agosto de 2026 — 00:37 UTC",
   "ticker": [
-    "Iran tightens security grip at home as war conditions with US linger",
-    "Will the US-Iran war and Hormuz deadlock last for months?",
-    "Mohamed Salah signs two-year deal with Trabzonspor after Liverpool exit",
-    "DR Congo Ebola health workers protest unpaid wages as deaths surpass 1,800",
-    "The old pact between Israel’s government and military has broken down",
-    "Infantino, FIFA try to move beyond botched World Cup sell-off: What we know",
-    "What came into force with the EU’s AI Act this week – and what didn’t",
-    "Deadliest form of malnutrition has reached critical levels in Afghanistan",
-    "Why is Pakistan PM Shehbaz Sharif visiting Saudi Arabia amid Gulf tensions?",
-    "Myanmar leader visits Thailand in bid to bolster international legitimacy",
-    "Video: Wildfires in Washington state force thousands to evacuate homes",
-    "Can the US slow China’s robotics and tech rise?",
-    "Ebola outbreak accelerates as healthcare workers strike over pay",
-    "Who was Cesar Gastelum, Mexican TikToker shot dead mid-livestream?",
-    "What the CJP protests reveal about India’s next generation"
+    "Trump says war can’t ‘go much longer’, Hormuz deal close",
+    "Travel restrictions – from Israel and Europe – trap students in Gaza",
+    "‘No red line’: South Lebanon residents outraged as Israel resumes strikes",
+    "Trump signs executive orders banning so-called ‘birth tourism’",
+    "Iran’s Ghalibaf accuses Trump of conducting show diplomacy ‘on loop’",
+    "How Abdul El-Sayed’s ‘extraordinary’ win stunned pro-Israel establishment",
+    "Far-right fitness clubs mask extremist recruitment, experts warn",
+    "Trump signs new executive orders seeking to limit US birthright citizenship",
+    "Toronto police arrest two in US Consulate shooting investigation",
+    "US diplomat Rubio targets Cuban military officials, companies in sanctions",
+    "Fire engulfs earthquake housing site in Turkiye",
+    "WHO chief: Ebola outbreak in DRC spreading at ‘unprecedented rate’",
+    "How fragile is Lebanon’s uneasy peace?",
+    "US Senator McConnell says he’s been discharged from rehabilitation centre",
+    "Israeli settler charged over Palestinian activist’s killing"
   ],
   "sections": [
-    {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
-      "rows": [
-        {
-          "event": "Will Russia enter Mykolaivka by September 30, 2026?",
-          "odds": "+132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
-      "rows": [
-        {
-          "event": "Will S&P 500 (SPY) hit (HIGH) $790 in August?",
-          "odds": "+120",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
     {
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
+        {
+          "event": "Will the Republicans win the Arkansas Senate race in 2026?",
+          "odds": "-1539",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the Republicans win the Wyoming Senate race in 2026?",
           "odds": "-2073",
@@ -59,20 +41,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the median home value in the US be between $433,000 and $440,000 on September 30?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Exact Score: CD Concepción 3 - 1 O'Higgins FC?",
           "odds": "+1983",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Ankara be 33°C on August 6?",
-          "odds": "+525",
+          "event": "Baltimore Orioles vs. Texas Rangers",
+          "odds": "+138",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -83,26 +59,32 @@
           "moved": "none"
         },
         {
-          "event": "Will Philadelphia Union win on 2026-08-06?",
-          "odds": "+194",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Extended FDV above $500M one day after launch?",
           "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Dee Valladares come in third-place on Big Brother season 28?",
-          "odds": "+900",
+          "event": "Will Zelenskyy talk to Putin by December 31?",
+          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the Republican Party win the MA-05 House seat?",
-          "odds": "+2339",
+          "event": "Aligned FDV above $800M one day after launch?",
+          "odds": "+2757",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "New York City FC vs. Club Santos Laguna: Both Teams to Score",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Tokyo be 35°C on August 8?",
+          "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
