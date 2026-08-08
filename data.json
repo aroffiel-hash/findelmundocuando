@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "08 de agosto de 2026 — 20:20 UTC",
+  "lastUpdated": "08 de agosto de 2026 — 21:22 UTC",
   "ticker": [
+    "Trump’s Former Lawyer Is Now Attorney General",
+    "What are the challenges facing the Mecca agreement?",
     "At least 200 people evacuated as wildfire rages near Lake Garda",
     "Lebanese soldiers injured while Israeli troops intrude on southern town",
     "US slams Chinese ‘nature reserve’ as effort to claim South China Sea",
@@ -13,9 +15,7 @@
     "Saudi-Pakistan-Turkiye pact: A new shield or strategic signal?",
     "Which stars need to shine this season: Real Madrid, Barcelona, Man Utd, PSG",
     "Opposition MP hurls eggs at Kosovo Prime Minister",
-    "UNRWA has been with me since birth, I cannot imagine a future without it",
-    "Lebanon ‘detains’ former al-Assad-era general, weighs handing him to Syria",
-    "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties"
+    "UNRWA has been with me since birth, I cannot imagine a future without it"
   ],
   "sections": [
     {
@@ -25,6 +25,12 @@
         {
           "event": "Will the Democrats win the Delaware Senate race in 2026?",
           "odds": "-1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Russia enter Mykolaivka by December 31, 2026?",
+          "odds": "-270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -65,12 +71,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Elon Musk post 160-179 tweets from August 7 to August 14, 2026?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Exact Score: Instituto AC Córdoba 1 - 0 CA Gimnasia y Esgrima de Mendoza?",
           "odds": "+525",
           "params": "Fuente: Polymarket",
@@ -83,14 +83,20 @@
           "moved": "none"
         },
         {
-          "event": "Aligned FDV above $800M one day after launch?",
-          "odds": "+2757",
+          "event": "Will the highest temperature in Buenos Aires be 13°C on August 9?",
+          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the Ornn B200 Index be less than $5.50 on August 31, 2026?",
-          "odds": "+177",
+          "event": "Valorant: Team Heretics vs Fire Flux Esports (BO3) - VCT EMEA Play-Ins",
+          "odds": "-203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Aligned FDV above $800M one day after launch?",
+          "odds": "+2757",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
