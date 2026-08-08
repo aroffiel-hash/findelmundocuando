@@ -1,6 +1,7 @@
 {
-  "lastUpdated": "08 de agosto de 2026 — 14:24 UTC",
+  "lastUpdated": "08 de agosto de 2026 — 15:22 UTC",
   "ticker": [
+    "Lionel Messi’s father dies aged 68 after a long illness",
     "War on Iran: Phase II: Day 28",
     "FIFA President Gianni Infantino denies claims UEFA paid off alleged lover",
     "Iran deliberates Hormuz arrangement amid uncertain prospects with US",
@@ -14,8 +15,7 @@
     "The post-American Middle East is beginning to take shape",
     "Thailand school shooting death toll rises to nine after girl dies",
     "Woman screams in fear as Ukraine war recruiters pounce on man",
-    "Yemen’s collapsing healthcare forces the sick to seek alternative medicines",
-    "How Israel’s occupation fuels resistance"
+    "Yemen’s collapsing healthcare forces the sick to seek alternative medicines"
   ],
   "sections": [
     {
@@ -25,6 +25,24 @@
         {
           "event": "Will the Democrats win the Delaware Senate race in 2026?",
           "odds": "-1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Korona Kielce vs. Legia Warszawa end in a draw?",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Stade Rennais FC vs. Brentford FC: O/U 3.5",
+          "odds": "+156",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -48,7 +66,7 @@
         },
         {
           "event": "Will Ralph Norman win the first round of the South Carolina Republican Senate special primary?",
-          "odds": "+257",
+          "odds": "+316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -83,12 +101,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Suzhou Dongwu vs. Changchun Yatai end in a draw?",
-          "odds": "-185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Aligned FDV above $800M one day after launch?",
           "odds": "+2757",
           "params": "Fuente: Polymarket",
@@ -103,6 +115,12 @@
         {
           "event": "New pandemic in 2026?",
           "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Variational FDV above $2B one day after launch?",
+          "odds": "+584",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
