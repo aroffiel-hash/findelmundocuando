@@ -1,109 +1,52 @@
 {
-  "lastUpdated": "08 de agosto de 2026 — 11:21 UTC",
+  "lastUpdated": "08 de agosto de 2026 — 12:32 UTC",
   "ticker": [
+    "‘Hi friends’: Modi’s curious campaign to win over Gen Z",
+    "The post-American Middle East is beginning to take shape",
+    "Families retrieve bodies after deadly shooting rampage outside Bangkok",
+    "Woman screams for her man as Ukraine war recruiters pounce",
     "Yemen’s collapsing healthcare forces the sick to seek alternative medicines",
     "How Israel’s occupation fuels resistance",
     "Trump’s former personal lawyer narrowly confirmed as US attorney general",
-    "Fiji rugby player dies in Japan of suspected heatstroke as high of 35C hit",
     "Mount Etna ash suspends arrivals at Italy’s Catania airport",
-    "Newcastle say they “didn’t want to sell” Guimaraes, as Arsenal move looms",
     "US announces $400m investment in Australian rare earth mine",
     "Messi will decide when he retires, says Argentina FA chief",
     "Typhoon Dolphin hits Japan, heads towards China",
-    "Afghanistan’s Rashid takes six wickets in ODI thrashing of Ireland",
-    "South Korea FA apologises over ‘sexual services’ allegations",
-    "NBA star Brandon Clarke died from heroin, cocaine effects, examiner rules",
-    "Hundreds camp on sweltering Rome street amid tussle over squatted building",
-    "Bangladesh say Shakib will not play cricket again after Hasina event",
-    "Violence is driving Palestinian Christians out of their Holy Land"
+    "Afghanistan’s Rashid takes six wickets in ODI thrashing of Ireland"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
       "rows": [
         {
           "event": "Will Russia capture Kindrativka by September 30?",
           "odds": "+244",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democrats win the Delaware Senate race in 2026?",
-          "odds": "-1150",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will the Democratic Party candidate win the 2026 Virginia Senate election by 0%-3%?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republicans win the Arkansas Senate race in 2026?",
-          "odds": "-1539",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
       "rows": [
         {
           "event": "Will Trump say \"Trump Age\" or \"Age of Trump\" in August?",
           "odds": "+455",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "rows": [
         {
-          "event": "Exact Score: CD Concepción 3 - 1 O'Higgins FC?",
-          "odds": "+1983",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Google have the best Text-to-Video AI at the end of August 2026?",
-          "odds": "-270",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "NSÍ Runavík vs. FC Lugano: Team to Advance",
-          "odds": "+212",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will AD Cali win on 2026-08-09?",
-          "odds": "+222",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "NK Celje to win the second half?",
-          "odds": "+104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Aligned FDV above $800M one day after launch?",
-          "odds": "+2757",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Ornn B200 Index be less than $5.50 on August 31, 2026?",
-          "odds": "+177",
-          "params": "Fuente: Polymarket",
+          "event": "Will the Democratic Party candidate win the 2026 Virginia Senate election by 0%-3%?",
+          "odds": "+1328",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
