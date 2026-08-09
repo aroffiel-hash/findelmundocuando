@@ -1,8 +1,10 @@
 {
-  "lastUpdated": "09 de agosto de 2026 — 01:11 UTC",
+  "lastUpdated": "09 de agosto de 2026 — 03:27 UTC",
   "ticker": [
+    "Helicopter crash kills pilot and crew member amid Utah wildfire battle",
+    "Israeli settler attacks rise as West Bank residents lose land",
     "Hungary nominates former Supreme Court chief Andras Baka for presidency",
-    "Iran war live: Tehran demands end to US blockade to reopen Strait of Hormuz",
+    "Iran war live: Pezeshkian seeks end to ‘no war, no peace’ amid Hormuz talks",
     "Turkiye says Mecca defence pact not aimed at Iran",
     "Vance says US ‘destroyed’ Iran’s nuclear programme",
     "Four killed in helicopter crash in Brazil’s Rio de Janeiro",
@@ -13,9 +15,7 @@
     "What are the challenges facing the Mecca agreement?",
     "At least 200 people evacuated as wildfire rages near Lake Garda",
     "Lebanese soldiers injured while Israeli troops intrude on southern town",
-    "US slams Chinese ‘nature reserve’ as effort to claim South China Sea",
-    "‘Debilitating’: Hunter Biden speaks out about father Joe Biden’s cancer",
-    "Yemen’s government forces attack Houthis amid renewed shelling of Marib"
+    "US slams Chinese ‘nature reserve’ as effort to claim South China Sea"
   ],
   "sections": [
     {
@@ -25,6 +25,12 @@
         {
           "event": "Will the Democrats win the Delaware Senate race in 2026?",
           "odds": "-1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Russia enter Mykolaivka by December 31, 2026?",
+          "odds": "-270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -71,12 +77,6 @@
           "moved": "none"
         },
         {
-          "event": "ITF Southaven: Timo Legout vs Evan Zhu",
-          "odds": "-233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the highest temperature in Mexico City be 25°C on August 9?",
           "odds": "+316",
           "params": "Fuente: Polymarket",
@@ -103,6 +103,12 @@
         {
           "event": "New pandemic in 2026?",
           "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Variational FDV above $2B one day after launch?",
+          "odds": "+584",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
