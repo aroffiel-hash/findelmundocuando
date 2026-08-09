@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "09 de agosto de 2026 — 07:47 UTC",
+  "lastUpdated": "09 de agosto de 2026 — 08:33 UTC",
   "ticker": [
+    "Saudi Arabia says fire extinguished at Aramco facility in Jizan",
+    "Nagasaki mayor says ‘humanity and nuclear weapons cannot coexist’",
     "World number one Sabalenka upset by Alexandrova at Canadian Open",
     "Israel announces tender for 627 settler units in occupied West Bank",
     "Wildfire forces thousands of evacuations in Western Canada",
@@ -13,9 +15,7 @@
     "Helicopter crash kills pilot and crew member amid Utah wildfire battle",
     "Israeli settler attacks rise as West Bank residents lose land",
     "Hungary nominates former Supreme Court chief Andras Baka for presidency",
-    "Iran war live: Tehran sets Hormuz terms, Houthis claim attack on Saudi site",
-    "Turkiye says Mecca defence pact not aimed at Iran",
-    "Vance says US ‘destroyed’ Iran’s nuclear programme"
+    "Iran war live: Tehran sets Hormuz terms, Houthis claim attack on Saudi site"
   ],
   "sections": [
     {
@@ -55,6 +55,12 @@
         {
           "event": "Will the Republicans win the Arkansas Senate race in 2026?",
           "odds": "-1539",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Arturo Salinas Garza win the 2027 Nuevo León Governor Election?",
+          "odds": "+525",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
