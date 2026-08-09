@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "09 de agosto de 2026 — 08:33 UTC",
+  "lastUpdated": "09 de agosto de 2026 — 09:32 UTC",
   "ticker": [
+    "Women’s Day in South Africa turns 70 with equality still out of reach",
+    "Flight cancellations, evacuations as China braces for Typhoon Dolphin",
     "Saudi Arabia says fire extinguished at Aramco facility in Jizan",
     "Nagasaki mayor says ‘humanity and nuclear weapons cannot coexist’",
     "World number one Sabalenka upset by Alexandrova at Canadian Open",
@@ -13,15 +15,19 @@
     "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
     "Ghana’s cashew apples get a second life",
     "Helicopter crash kills pilot and crew member amid Utah wildfire battle",
-    "Israeli settler attacks rise as West Bank residents lose land",
-    "Hungary nominates former Supreme Court chief Andras Baka for presidency",
-    "Iran war live: Tehran sets Hormuz terms, Houthis claim attack on Saudi site"
+    "Israeli settler attacks rise as West Bank residents lose land"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Map 1 Rounds Handicap: EDward Gaming (-3.5) vs Wolves Esports (+3.5)",
+          "odds": "+122",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the Democrats win the Delaware Senate race in 2026?",
           "odds": "-1150",
@@ -57,12 +63,6 @@
           "odds": "-1539",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will Arturo Salinas Garza win the 2027 Nuevo León Governor Election?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -79,6 +79,12 @@
         {
           "event": "Will Google have the best Text-to-Video AI at the end of August 2026?",
           "odds": "-300",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Singapore be 32°C on August 9?",
+          "odds": "-3125",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -109,12 +115,6 @@
         {
           "event": "Variational FDV above $2B one day after launch?",
           "odds": "+584",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Orlando City SC vs. Chicago Fire FC: Both Teams to Score",
-          "odds": "-203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
