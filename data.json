@@ -1,6 +1,7 @@
 {
-  "lastUpdated": "09 de agosto de 2026 — 09:32 UTC",
+  "lastUpdated": "09 de agosto de 2026 — 10:25 UTC",
   "ticker": [
+    "It won’t be Trump who kills the ICC",
     "Women’s Day in South Africa turns 70 with equality still out of reach",
     "Flight cancellations, evacuations as China braces for Typhoon Dolphin",
     "Saudi Arabia says fire extinguished at Aramco facility in Jizan",
@@ -14,8 +15,7 @@
     "Car bomb hits Colombia highway day after new president sworn in",
     "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
     "Ghana’s cashew apples get a second life",
-    "Helicopter crash kills pilot and crew member amid Utah wildfire battle",
-    "Israeli settler attacks rise as West Bank residents lose land"
+    "Helicopter crash kills pilot and crew member amid Utah wildfire battle"
   ],
   "sections": [
     {
@@ -46,6 +46,12 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
+        {
+          "event": "V-Varen Nagasaki vs. Kyōto Sanga FC: O/U 11.5 Total Corners",
+          "odds": "+112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Lisa Cook out as Fed Governor by December 31?",
           "odds": "+2400",
@@ -83,12 +89,6 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Singapore be 32°C on August 9?",
-          "odds": "-3125",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "NK Celje to win the second half?",
           "odds": "+104",
           "params": "Fuente: Polymarket",
@@ -115,6 +115,12 @@
         {
           "event": "Variational FDV above $2B one day after launch?",
           "odds": "+584",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Portland Timbers vs. San Diego FC: Both Teams to Score",
+          "odds": "-203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
