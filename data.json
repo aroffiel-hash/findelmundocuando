@@ -1,6 +1,7 @@
 {
-  "lastUpdated": "09 de agosto de 2026 — 05:46 UTC",
+  "lastUpdated": "09 de agosto de 2026 — 06:42 UTC",
   "ticker": [
+    "Wildfire forces thousands of evacuations in Western Canada",
     "Lionel Messi returns to Argentina after father Jorge’s death",
     "Iran issues new demands as Pezeshkian seeks deal",
     "‘Very painful’: Joe Biden’s cancer has spread, son Hunter says",
@@ -14,8 +15,7 @@
     "Turkiye says Mecca defence pact not aimed at Iran",
     "Vance says US ‘destroyed’ Iran’s nuclear programme",
     "Four killed in helicopter crash in Brazil’s Rio de Janeiro",
-    "Crews recover 19 bodies from rubble of destroyed Gaza building",
-    "Car bomb attack rattles Colombia after inauguration of hardline president"
+    "Crews recover 19 bodies from rubble of destroyed Gaza building"
   ],
   "sections": [
     {
@@ -25,6 +25,12 @@
         {
           "event": "Will the Democrats win the Delaware Senate race in 2026?",
           "odds": "-1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Russia enter Mykolaivka by December 31, 2026?",
+          "odds": "-270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -51,6 +57,24 @@
           "odds": "-1539",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Arturo Salinas Garza win the 2027 Nuevo León Governor Election?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 Colorado Senate election by 5%-10%?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 Colorado Senate election by 25%-30%?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -67,12 +91,6 @@
         {
           "event": "Will Google have the best Text-to-Video AI at the end of August 2026?",
           "odds": "-300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Valorant: LOUD vs 100 Thieves (BO3) - VCT Americas Stage 2 Group Omega",
-          "odds": "+354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -103,6 +121,12 @@
         {
           "event": "New pandemic in 2026?",
           "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Variational FDV above $2B one day after launch?",
+          "odds": "+584",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
