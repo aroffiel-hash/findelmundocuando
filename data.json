@@ -1,103 +1,40 @@
 {
-  "lastUpdated": "08 de agosto de 2026 — 23:21 UTC",
+  "lastUpdated": "09 de agosto de 2026 — 01:08 UTC",
   "ticker": [
+    "Iran war live: Tehran demands end to US blockade to reopen Strait of Hormuz",
+    "Turkiye says Mecca defence pact not aimed at Iran",
+    "Vance says US ‘destroyed’ Iran’s nuclear programme",
+    "Four killed in helicopter crash in Brazil’s Rio de Janeiro",
+    "Crews recover 19 bodies from rubble of destroyed Gaza building",
     "Car bomb attack rattles Colombia after inauguration of hardline president",
     "Will Pakistan-Saudi-Turkiye defence pact change US strategy?",
     "Trump’s Former Lawyer Is Now Attorney General",
     "What are the challenges facing the Mecca agreement?",
     "At least 200 people evacuated as wildfire rages near Lake Garda",
     "Lebanese soldiers injured while Israeli troops intrude on southern town",
-    "US slams Chinese ‘nature reserve’ as effort to claim South China Sea",
-    "‘Debilitating’: Hunter Biden speaks out about father Joe Biden’s cancer",
-    "Yemen’s government forces attack Houthis amid renewed shelling of Marib",
-    "The influencers taking on far-right leader Nigel Farage",
-    "Gaza health chief urges action to ‘save’ Dr Abu Safia before it’s too late",
-    "British Columbia issues evacuation orders ahead of fast-moving wildfires",
-    "Serbia and Ukraine pledge closer economic ties, eye free trade deal",
-    "Saudi-Pakistan-Turkiye pact: A new shield or strategic signal?",
-    "Which stars need to shine this season: Real Madrid, Barcelona, Man Utd, PSG"
+    "US slams Chinese ‘nature reserve’ as effort to claim South China Sea"
   ],
   "sections": [
     {
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
+      "rows": [
+        {
+          "event": "Will Donald Trump publicly insult Megyn Kelly by August 31, 2026?",
+          "odds": "+1328",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
       "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
         {
           "event": "Will the Democrats win the Delaware Senate race in 2026?",
           "odds": "-1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Russia enter Mykolaivka by December 31, 2026?",
-          "odds": "-270",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will the Republicans win the Arkansas Senate race in 2026?",
-          "odds": "-1539",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Exact Score: CD Concepción 3 - 1 O'Higgins FC?",
-          "odds": "+1983",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Google have the best Text-to-Video AI at the end of August 2026?",
-          "odds": "-300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "NK Celje to win the second half?",
-          "odds": "+104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Aligned FDV above $800M one day after launch?",
-          "odds": "+2757",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Ornn B200 Index be less than $5.50 on August 31, 2026?",
-          "odds": "+177",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "New pandemic in 2026?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Kuala Lumpur be 33°C on August 10?",
-          "odds": "+108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Variational FDV above $2B one day after launch?",
-          "odds": "+584",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
