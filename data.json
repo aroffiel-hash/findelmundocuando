@@ -1,6 +1,7 @@
 {
-  "lastUpdated": "09 de agosto de 2026 — 01:08 UTC",
+  "lastUpdated": "09 de agosto de 2026 — 01:11 UTC",
   "ticker": [
+    "Hungary nominates former Supreme Court chief Andras Baka for presidency",
     "Iran war live: Tehran demands end to US blockade to reopen Strait of Hormuz",
     "Turkiye says Mecca defence pact not aimed at Iran",
     "Vance says US ‘destroyed’ Iran’s nuclear programme",
@@ -12,29 +13,97 @@
     "What are the challenges facing the Mecca agreement?",
     "At least 200 people evacuated as wildfire rages near Lake Garda",
     "Lebanese soldiers injured while Israeli troops intrude on southern town",
-    "US slams Chinese ‘nature reserve’ as effort to claim South China Sea"
+    "US slams Chinese ‘nature reserve’ as effort to claim South China Sea",
+    "‘Debilitating’: Hunter Biden speaks out about father Joe Biden’s cancer",
+    "Yemen’s government forces attack Houthis amid renewed shelling of Marib"
   ],
   "sections": [
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Donald Trump publicly insult Megyn Kelly by August 31, 2026?",
-          "odds": "+1328",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Will the Democrats win the Delaware Senate race in 2026?",
+          "odds": "-1150",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will the Democrats win the Delaware Senate race in 2026?",
-          "odds": "-1150",
-          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Lisa Cook out as Fed Governor by December 31?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will the Republicans win the Arkansas Senate race in 2026?",
+          "odds": "-1539",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Exact Score: CD Concepción 3 - 1 O'Higgins FC?",
+          "odds": "+1983",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Google have the best Text-to-Video AI at the end of August 2026?",
+          "odds": "-300",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "ITF Southaven: Timo Legout vs Evan Zhu",
+          "odds": "-233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Mexico City be 25°C on August 9?",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "NK Celje to win the second half?",
+          "odds": "+104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Aligned FDV above $800M one day after launch?",
+          "odds": "+2757",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Ornn B200 Index be less than $5.50 on August 31, 2026?",
+          "odds": "+177",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "New pandemic in 2026?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
