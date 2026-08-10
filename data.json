@@ -1,9 +1,10 @@
 {
-  "lastUpdated": "10 de agosto de 2026 — 12:51 UTC",
+  "lastUpdated": "10 de agosto de 2026 — 12:53 UTC",
   "ticker": [
     "Taiwan holds military drills to prepare for invasion by China",
     "Former MP opens fire in Thailand’s second shooting within days",
     "‘Long-range sanctions’: Ukraine hopes strikes cause Russia fear and losses",
+    "UEFA Super Cup – PSG vs Aston Villa: Prediction, start time, how to watch",
     "Protesters rally in India’s Jharkhand over alleged exam irregularities",
     "Remembering Anas, Mohammed and Gaza’s other slain journalists",
     "What’s behind Trump’s shift to economic pressure on Iran? Will it work?",
@@ -12,71 +13,133 @@
     "June and July hottest on record in Western Europe, monitor says",
     "UEFA, AFC, CONCACAF hit out at Infantino over World Cup privatisation plan",
     "One year on, Gaza mourns journalist Anas al-Sharif’s death",
-    "How significant is Mohsen Rezaei’s appointment as Iran’s security chief?"
+    "How significant is Mohsen Rezaei’s appointment as Iran’s security chief?",
+    "Tropical Storm Dolphin batters eastern China with heavy rain, strong winds",
+    "Osaka, Gauff race into Canadian Open quarters as Rybakina survives scare"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Israel election: will Likud lose seats?",
           "odds": "-524",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Steve Witkoff attend a US x Iran diplomatic meeting by August 31, 2026?",
           "odds": "+426",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "US announces end of Iranian blockade by August 12, 2026?",
           "odds": "+2464",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will a ≤5% Uranium Enrichment Cap (1+ Year) be in a US-Iran deal in 2026?",
           "odds": "+455",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇨🇳",
-      "label": "CHINA / PACÍFICO / COREA",
-      "rows": [
+        },
         {
           "event": "Will more than 8 tropical cyclones make landfall in China during 2026?",
           "odds": "+300",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Donald Trump publicly insult Megyn Kelly by August 31, 2026?",
-          "odds": "+1328",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Will the Republicans win the Arkansas Senate race in 2026?",
+          "odds": "-1539",
+          "params": "Fuente: Polymarket",
           "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
-      "rows": [
+        },
+        {
+          "event": "Will Guadalupe Eguiluz win the 2027 Guerrero Governor Election?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Marco Rubio announce a presidential run before 2027?",
+          "odds": "+1654",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the Democratic Party candidate win the 2026 Colorado Senate election by 25%-30%?",
           "odds": "+733",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Parti libéral du Québec win the most seats in the 2026 Quebec general election?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Game Handicap: BLG (-1.5) vs JD Gaming (+1.5)",
+          "odds": "+138",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Unit FDV above $1B one day after launch?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Madrid be 38°C on August 10?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "NK Celje to win the second half?",
+          "odds": "+104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Canva's valuation hit (HIGH) $50B by December 31?",
+          "odds": "+300",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Brandon Nakashima Win ATP Montreal",
+          "odds": "+890",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will NVIDIA be the largest company in the world by market cap on December 31?",
+          "odds": "-233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Portland Timbers vs. San Diego FC: Both Teams to Score",
+          "odds": "-203",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
