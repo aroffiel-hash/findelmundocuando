@@ -1,133 +1,70 @@
 {
-  "lastUpdated": "09 de agosto de 2026 — 23:23 UTC",
+  "lastUpdated": "10 de agosto de 2026 — 01:10 UTC",
   "ticker": [
+    "Houthis renew missile and drone attacks on Yemen’s port of al-Makha",
+    "Iran war live: US ‘semi-negotiating’ with Tehran; Israel rejects Gaza plan",
+    "F-16s intercept two aircraft near Trump’s New Jersey golf club",
+    "Union reports 108 attacks on Palestinian journalists in July",
     "What’s driving unrest in Pakistan-administered Kashmir?",
     "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found",
     "Palestinians say Netanyahu’s decision leaves ‘no clear path’ to peace",
     "Israel is ‘trying to make Palestine disappear’: The Elders",
-    "Can the Doha Framework end the conflict in eastern DRC?",
     "Hundreds of anti-tourism Spanish protesters march in Mallorca’s Soller",
     "Where does Iran stand on Saudi-Pakistan-Turkiye pact?",
     "Jannik Sinner withdraws from Cincinnati Open with knee injury",
-    "Former Iraqi provincial governor arrested as graft crackdown continues",
-    "Wildfires in Albania and Spain cause hundreds to evacuate",
-    "How Israel’s occupation fuels resistance",
-    "‘No surprise’: Netanyahu rejects US-backed Gaza plan",
-    "Incumbents secure Hawaii primary wins, defying progressive challengers",
-    "Omar Marmoush scores two goals as Man City defeat Atletico Madrid in Seoul",
-    "Alleged cartel boss Daniel Kinahan charged in Ireland amid heavy security"
+    "Former Iraqi provincial governor arrested as graft crackdown continues"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
           "event": "Israel election: will Likud lose seats?",
           "odds": "-524",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
           "moved": "none"
         },
         {
           "event": "US-Iran Final Nuclear Deal by September 30, 2026?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Jim Schwartzel be the Republican nominee for FL-19?",
-          "odds": "+108",
-          "params": "Fuente: Polymarket",
+          "odds": "+1328",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
       "rows": [
         {
-          "event": "Lisa Cook out as Fed Governor by December 31?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
+          "event": "Will Russia enter Mykolaivka by December 31, 2026?",
+          "odds": "-270",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
       "rows": [
         {
-          "event": "Will the Republicans win the Arkansas Senate race in 2026?",
-          "odds": "-1539",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will SPD win 26-29 seats in the 2026 Mecklenburg-Vorpommern parliamentary elections?",
-          "odds": "+233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Guadalupe Eguiluz win the 2027 Guerrero Governor Election?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
+          "event": "Will Donald Trump publicly insult Megyn Kelly by August 31, 2026?",
+          "odds": "+1328",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
         {
-          "event": "Will Google have the best Text-to-Video AI at the end of August 2026?",
-          "odds": "-300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Unit FDV above $1B one day after launch?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "NK Celje to win the second half?",
-          "odds": "+104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Aligned FDV above $800M one day after launch?",
-          "odds": "+2757",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Itagui Leones FC win on 2026-08-10?",
-          "odds": "+170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Portland Timbers vs. San Diego FC: Both Teams to Score",
-          "odds": "-203",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Orlando City SC vs. Chicago Fire FC: Both Teams to Score",
-          "odds": "-203",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Bradley Beal play for the Boston Celtics in 2026-27?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
+          "event": "Will the Democratic Party candidate win the 2026 Colorado Senate election by 25%-30%?",
+          "odds": "+733",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
