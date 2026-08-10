@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "10 de agosto de 2026 — 17:45 UTC",
+  "lastUpdated": "10 de agosto de 2026 — 18:46 UTC",
   "ticker": [
+    "Oman trying to contain extensive oil spill from stricken tanker",
+    "Zuckerberg’s yacht crew did not hear call for help, says spokesperson",
+    "Palestinian club football to restart in September after Gaza war suspension",
     "Iran’s president says Khamenei is in ‘perfect health’",
     "Colombia earthquake live: Magnitude 7.4 quake strikes near Bogota; 69 dead",
     "Photos: 7.4-magnitude earthquake rocks western Colombia",
@@ -10,12 +13,9 @@
     "‘They need each other’: What’s behind the new Syria-Russia accord?",
     "Anas al-Sharif: One year on from Israel’s killing of Al Jazeera reporter",
     "Oil prices, stocks surge as Hormuz closure drags on",
-    "Earthquake with 7.4 magnitude hits Colombia, killing at least 47",
+    "Earthquake with 7.4 magnitude hits Colombia, killing at least 69",
     "Indian police attack protesters seeking action over ‘exam irregularities’",
-    "Ben-Gvir posts AI video of starving Palestinian ahead of elections",
-    "How the US far-right weaponised ‘inshallah’ against Abdul El-Sayed",
-    "War on Iran: Phase II: Day 30",
-    "Record 230 people reach UK on single boat after crossing English Channel"
+    "Ben-Gvir posts AI video of starving Palestinian ahead of elections"
   ],
   "sections": [
     {
@@ -31,6 +31,12 @@
         {
           "event": "Israel election: will Likud lose seats?",
           "odds": "-524",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Iran charges Hormuz fees by December 31?",
+          "odds": "-122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -69,12 +75,6 @@
           "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will Parti libéral du Québec win the most seats in the 2026 Quebec general election?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -101,12 +101,6 @@
           "moved": "none"
         },
         {
-          "event": "Boston Red Sox vs. Toronto Blue Jays",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Valorant: Joblife vs Pcific Esports (BO3) - VCT EMEA Play-Ins",
           "odds": "-222",
           "params": "Fuente: Polymarket",
@@ -114,7 +108,7 @@
         },
         {
           "event": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-          "odds": "-222",
+          "odds": "-233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -127,6 +121,12 @@
         {
           "event": "Will Canva's valuation hit (HIGH) $50B by December 31?",
           "odds": "+300",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Robinhood (HOOD) Up or Down on August 10?",
+          "odds": "-524",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
