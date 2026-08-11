@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "11 de agosto de 2026 — 14:14 UTC",
+  "lastUpdated": "11 de agosto de 2026 — 15:54 UTC",
   "ticker": [
+    "Lebanon parliament votes to end death penalty, 1st in Middle East to do so",
+    "DC residents debate safety gains a year into Trump’s Guard deployment",
+    "Total solar eclipse 2026: Where, when and how to watch on Wednesday?",
+    "Ten police and 17 “bandits” killed in firefight in northwestern Nigeria",
+    "War on Iran: Mojtaba Khamenei is in ‘perfect health’, Iran says",
+    "‘Only job I know’: Philippine sailors return to sea despite wartime risks",
     "What are Saudi Arabia, Turkiye and Pakistan’s joint military capabilities?",
     "Under Fire: Lebanon’s first responders | Al Jazeera Originals",
     "Liverpool fans seek clarity on Bezos bid to buy stake",
@@ -9,25 +15,13 @@
     "Somali denied World Cup ‘proud’ to referee PSG vs Villa in UEFA Super Cup",
     "What to know about the US primary election in Minnesota",
     "Philippines sailors say they will work despite wartime risks",
-    "Late snow blankets parts of southern Africa as winter nears its end",
-    "Hockey World Cup 2026: Full match schedule, groups, India vs Pakistan",
-    "Iran, US set new conditions during Hormuz talks: What does this mean?",
-    "Final phase of voting in Pakistan-administered Kashmir amid security fears",
-    "What to watch in Wisconsin’s high-stakes primary",
-    "Syrian court sentences Bashar al-Assad to death in absentia",
-    "‘New level of danger’: Drone incidents scare Europe amid Russia-Ukraine war"
+    "Late snow blankets parts of southern Africa as winter nears its end"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Israel election: will Likud lose seats?",
-          "odds": "-524",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will the Republican Party candidate win the 2026 Kansas gubernatorial election by 18% or more?",
           "odds": "+614",
@@ -37,6 +31,12 @@
         {
           "event": "Will a ≤5% Uranium Enrichment Cap (1+ Year) be in a US-Iran deal in 2026?",
           "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "US reissues Iran oil sanction relief by August 31?",
+          "odds": "+222",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -71,6 +71,12 @@
           "moved": "none"
         },
         {
+          "event": "Will Aly Richards win the 2026 Vermont Governor Democratic primary election?",
+          "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the Democratic Party candidate win the 2026 New Jersey Senate election by 21% or more?",
           "odds": "+127",
           "params": "Fuente: Polymarket",
@@ -85,12 +91,6 @@
         {
           "event": "Will Parti libéral du Québec win the most seats in the 2026 Quebec general election?",
           "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Aly Richards win the 2026 Vermont Governor Democratic primary election?",
-          "odds": "+426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -137,12 +137,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Charleston Battery win on 2026-08-15?",
-          "odds": "+212",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Portland Timbers vs. San Diego FC: Both Teams to Score",
           "odds": "-203",
           "params": "Fuente: Polymarket",
@@ -151,6 +145,12 @@
         {
           "event": "Orlando City SC vs. Chicago Fire FC: Both Teams to Score",
           "odds": "-203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Lewis Hamilton win the 2026 Action of the Year?",
+          "odds": "+719",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
