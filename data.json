@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "11 de agosto de 2026 — 05:00 UTC",
+  "lastUpdated": "11 de agosto de 2026 — 06:54 UTC",
   "ticker": [
+    "Yemen’s Houthis launch ballistic missile attacks on al-Makha and Marib",
+    "Somali referee arrives for UEFA Super Cup after World Cup exclusion",
+    "Family watches helplessly as Colombia quake destroys home",
+    "Trump’s media company reports $238m loss",
     "Huge fire breaks out at Libya’s Zawiya refinery after drone attack",
     "China’s Long March 7A rocket explodes after lift-off",
     "Fire rages after drone strikes Libya’s largest oil refinery",
@@ -11,11 +15,7 @@
     "Soldiers take cover as Colombia quake flattens military barracks",
     "Turkiye passes law giving thousands of PKK members chance at amnesty",
     "Seventy years after South Africa’s women’s march, the struggle is not over",
-    "Can Netanyahu defy Trump on his Gaza peace plan?",
-    "Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation",
-    "Inside a secret launch site for Ukraine’s deep-strike drones",
-    "Moment of terror as powerful earthquake shakes airport in Colombia",
-    "Ceuta mayor calls for migrant detention amid mass influx crisis"
+    "Can Netanyahu defy Trump on his Gaza peace plan?"
   ],
   "sections": [
     {
@@ -42,7 +42,13 @@
         },
         {
           "event": "US announces end of Iranian blockade by August 31, 2026?",
-          "odds": "+222",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party candidate win the 2026 Kansas gubernatorial election by 18% or more?",
+          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -77,8 +83,20 @@
           "moved": "none"
         },
         {
+          "event": "Will David Crowley win the 2026 Wisconsin Governor Democratic primary election?",
+          "odds": "+2225",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Parti libéral du Québec win the most seats in the 2026 Quebec general election?",
           "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 Colorado Senate election by 25%-30%?",
+          "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -91,12 +109,6 @@
         {
           "event": "Will Meta Platforms, Inc. (META) hit (HIGH) $660 in August?",
           "odds": "+434",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-          "odds": "-233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -119,12 +131,6 @@
           "moved": "none"
         },
         {
-          "event": "LoL: Bilibili Gaming vs JD Gaming (BO3) - LPL Group Ascend",
-          "odds": "-354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Portland Timbers vs. San Diego FC: Both Teams to Score",
           "odds": "-203",
           "params": "Fuente: Polymarket",
@@ -133,6 +139,18 @@
         {
           "event": "Orlando City SC vs. Chicago Fire FC: Both Teams to Score",
           "odds": "-203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Lewis Hamilton win the 2026 Action of the Year?",
+          "odds": "+719",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: CDPJuniorFC 1 - 1 Deportivo Pereira?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
