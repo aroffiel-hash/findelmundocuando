@@ -1,8 +1,9 @@
 {
-  "lastUpdated": "12 de agosto de 2026 — 01:16 UTC",
+  "lastUpdated": "12 de agosto de 2026 — 01:19 UTC",
   "ticker": [
     "N Korea launches ballistic missile as S Korea, US plan military drills",
     "Iran war live: US fires missiles at cargo ship violating Iran blockade",
+    "Cargo ship in flames after Houthi attack in Bab al-Mandeb strait",
     "Colombia scrambles to find survivors after deadly earthquake",
     "Father and sons forced to manually clear rubble in Gaza",
     "Relatives mourn victims of Pakistan avalanche",
@@ -12,77 +13,133 @@
     "Israel demolishes home of Palestinian killed during settler attack",
     "DR Congo Ebola death toll surpasses 2,000",
     "Trump warns of ‘jihadists’ ruling in Washington as Democrats show momentum",
-    "Search for survivors underway in Colombia’s earthquake aftermath"
+    "Search for survivors underway in Colombia’s earthquake aftermath",
+    "US military fires on cargo vessel it said sought to break Iran blockade",
+    "Truck crash in Egypt kills 18, many of them child labourers"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "US reissues Iran oil sanction relief by August 31?",
-          "odds": "+185",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
+          "odds": "+212",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party candidate win the 2026 Kansas gubernatorial election by 18% or more?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Iran-Oman Hormuz Agreement by August 22?",
           "odds": "+127",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
           "odds": "+900",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will the Republican Party candidate win the 2026 Kansas gubernatorial election by 18% or more?",
-          "odds": "+614",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
-          "moved": "none"
-        },
-        {
-          "event": "Will Zelenskyy post 40-59 posts from August 14 to August 21, 2026?",
-          "odds": "+488",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con liderazgo ucraniano.",
+          "event": "Will S&P 500 (SPY) hit (LOW) $730 in August?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
           "event": "Will the Republican Party candidate win the 2026 South Carolina Senate election by 10%-15%?",
           "odds": "+566",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will 180-199 ships transit the Bab el-Mandeb Strait between August 10-August 16?",
-          "odds": "+400",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Will François Hollande be on the ballot for the 2027 French presidential election?",
+          "odds": "+244",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will there be between 25 and 29 average daily transits of the Bab el-Mandeb Strait on August 31?",
-          "odds": "+233",
-          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Will Parti libéral du Québec win the most seats in the 2026 Quebec general election?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Democratic Party candidate win the 2026 Colorado Senate election by 25%-30%?",
           "odds": "+733",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Unit FDV above $1B one day after launch?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "ITF W15 Tianjin 2 Women: Maria Kalyakina vs Eva Marie Desvignes",
+          "odds": "-170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "ITF M15 Trier Men: Ziga Sesko vs Daniel Salazar Martinez",
+          "odds": "-233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Canva's valuation hit (HIGH) $50B by December 31?",
+          "odds": "+300",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will 180-199 ships transit the Bab el-Mandeb Strait between August 10-August 16?",
+          "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Portland Timbers vs. San Diego FC: Both Teams to Score",
+          "odds": "-203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Orlando City SC vs. Chicago Fire FC: Both Teams to Score",
+          "odds": "-203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Lewis Hamilton win the 2026 Action of the Year?",
+          "odds": "+719",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
