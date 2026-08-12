@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "12 de agosto de 2026 — 17:53 UTC",
+  "lastUpdated": "12 de agosto de 2026 — 18:52 UTC",
   "ticker": [
+    "Paramount Skydance mulls CNN sale amid antitrust merger challenge",
+    "DR Congo Ebola outbreak set to become deadliest on record, WHO warns",
+    "Lebanese families demand release of detainees held by Israel",
+    "Mount Etna eruption disrupts travel at Italy’s Catania airport",
     "White House construction project to cost almost $1bn",
     "Drought exposes Nazi-era warship wrecks beneath the Danube",
     "Trump remarks on diminishing impact of pro-Israel groups in Congress",
@@ -11,11 +15,7 @@
     "WHO chief says Trump vaccine push goes against ‘decades of evidence’",
     "Iran remains defiant as it vows to fight US until demands met",
     "US consumer inflation slows in July as energy prices briefly retreat",
-    "As Strait of Hormuz transit drops, Trump again says US has ‘control’",
-    "Lebanon passes long-sought amnesty law, a day after death penalty repeal",
-    "Why the UK faces a prisons crisis amid row over release of cop killers",
-    "Iran is not anti-imperialist. It is a state calculating survival",
-    "Lionel Messi not certain to play ‘much longer’ after father’s death"
+    "As Strait of Hormuz transit drops, Trump again says US has ‘control’"
   ],
   "sections": [
     {
@@ -48,7 +48,7 @@
       "rows": [
         {
           "event": "Will Burgas host Eurovision 2027?",
-          "odds": "-247",
+          "odds": "-261",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -61,6 +61,12 @@
         {
           "event": "Will the Republican Party candidate win the 2026 South Carolina Senate election by 10%-15%?",
           "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Geraldine Ponce Méndez win the 2027 Nayarit Governor Election?",
+          "odds": "-149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -82,12 +88,6 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
-        {
-          "event": "Will Club León FC win on 2026-08-12?",
-          "odds": "+233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will the highest score achieved by an Anthropic Claude model on Humanity’s Last Exam in 2026 be 75% or higher?",
           "odds": "+3233",
@@ -127,6 +127,12 @@
         {
           "event": "Wei Chuan Dragons vs. Rakuten Monkeys",
           "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will there be between 25 and 29 average daily transits of the Bab el-Mandeb Strait on August 31?",
+          "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
