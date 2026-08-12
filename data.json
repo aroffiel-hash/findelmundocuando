@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "12 de agosto de 2026 — 21:37 UTC",
+  "lastUpdated": "12 de agosto de 2026 — 22:32 UTC",
   "ticker": [
+    "US strikes in Yemen killed 153 civilians in 2025, says Pentagon review",
+    "Hegseth cautions that ICC may investigate US boat strikes in Latin America",
+    "PSG win back-to-back UEFA Super Cups with victory over Aston Villa",
     "Thousands missing after Colombia quake as rescue continues",
     "Morocco says working to prevent potential new Ceuta crossings surge",
     "11-year-old boy shot by Israeli forces in Gaza",
@@ -12,10 +15,7 @@
     "Photos: Solar eclipse plunges parts of Europe into darkness",
     "‘Platformicide’ of Palestine: Activists struggle to be heard on Meta",
     "Trump reveals Karoline Leavitt to step down as White House press secretary",
-    "Josh Kushner, Bob Iger, buying Los Angeles Lakers for record $12.5bn",
-    "Iceland and Spain plunged into darkness during total solar eclipse",
-    "Brazil orders Discord to suspend livestreams after teen’s death",
-    "Iraq says September 30 withdrawal deadline for US-led coalition ‘final’"
+    "Josh Kushner, Bob Iger, buying Los Angeles Lakers for record $12.5bn"
   ],
   "sections": [
     {
@@ -23,14 +23,8 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will the Republican Party candidate win the 2026 Kansas gubernatorial election by 18% or more?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Israel launch a major ground offensive in Gaza by December 31?",
-          "odds": "+733",
+          "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -51,6 +45,12 @@
           "odds": "-261",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Crude Oil reach a new all-time high by September 30?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -61,6 +61,12 @@
         {
           "event": "Will the Republican Party candidate win the 2026 South Carolina Senate election by 10%-15%?",
           "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Flávio Bolsonaro win the first round of the 2026 Brazilian presidential election by less than 5%?",
+          "odds": "+1134",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
