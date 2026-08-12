@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "12 de agosto de 2026 — 15:53 UTC",
+  "lastUpdated": "12 de agosto de 2026 — 16:50 UTC",
   "ticker": [
+    "Trump remarks on diminishing impact of pro-Israel groups in Congress",
+    "PSG vs Aston Villa LIVE: UEFA Super Cup 2026",
+    "Europe prepares for first total solar eclipse in 27 years",
+    "Colombia declares three days of mourning after deadly earthquake",
+    "Is Russia’s economy cracking despite the Iran war windfall?",
     "WHO chief says Trump vaccine push goes against ‘decades of evidence’",
     "Iran remains defiant as it vows to fight US until demands met",
     "US consumer inflation slows in July as energy prices briefly retreat",
@@ -10,12 +15,7 @@
     "Iran is not anti-imperialist. It is a state calculating survival",
     "Lionel Messi not certain to play ‘much longer’ after father’s death",
     "‘Burn in hell’: Israeli settlers spread hate through graffiti, attacks",
-    "Sudanese army intercepts RSF drones over el-Obeid",
-    "Why has North Korea fired a missile ahead of US-South Korea drills?",
-    "Egyptian student livestreams his kidnapping",
-    "Top Iranian commander visited Iraq to discuss disarmament plan: Source",
-    "Rare solar eclipse to sweep across Europe and the Arctic",
-    "Putin warns of tit-for-tat seizures of European vessels"
+    "Sudanese army intercepts RSF drones over el-Obeid"
   ],
   "sections": [
     {
@@ -37,6 +37,18 @@
       ]
     },
     {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will Burgas host Eurovision 2027?",
+          "odds": "-247",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
@@ -48,6 +60,12 @@
         },
         {
           "event": "Will the Democratic Party candidate win the 2026 Colorado Senate election by 25%-30%?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the number of votes cast in the 2026 Clacton by-election be between 30,000-40,000?",
           "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
@@ -65,20 +83,20 @@
           "moved": "none"
         },
         {
-          "event": "Will Carlos Alcaraz Play in the U.S. Open?",
-          "odds": "-127",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the highest score achieved by an Anthropic Claude model on Humanity’s Last Exam in 2026 be 75% or higher?",
           "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Dallas be between 98-99°F on August 13?",
-          "odds": "+669",
+          "event": "Brownsburg: Quinn Vandecasteele vs Abedallah Shelbayh",
+          "odds": "+222",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Club León FC win on 2026-08-12?",
+          "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
