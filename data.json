@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "12 de agosto de 2026 — 12:52 UTC",
+  "lastUpdated": "12 de agosto de 2026 — 12:53 UTC",
   "ticker": [
+    "Egyptian student livestreams his kidnapping",
+    "Top Iranian commander visited Iraq to discuss disarmament plan: Source",
+    "Rare solar eclipse to sweep across Europe and the Arctic",
     "Putin warns of tit-for-tat seizures of European vessels",
     "Lebanon ends executions: Where does the death penalty still exist in 2026?",
     "Woman rescued after 36 hours under rubble in Colombia",
@@ -16,49 +19,115 @@
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
-          "odds": "+900",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
+          "event": "Honor of Kings: Rogue Warriors vs EDward Gaming (BO5) - King Pro League Stage 3 Group A",
+          "odds": "-122",
+          "params": "Fuente: Polymarket",
           "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
-      "rows": [
+        },
         {
           "event": "Will the Republican Party candidate win the 2026 Kansas gubernatorial election by 18% or more?",
           "odds": "+614",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will Burgas host Eurovision 2027?",
+          "odds": "-255",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
           "event": "Will the Republican Party candidate win the 2026 South Carolina Senate election by 10%-15%?",
           "odds": "+566",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will there be between 25 and 29 average daily transits of the Bab el-Mandeb Strait on August 31?",
-          "odds": "+233",
-          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Will Parti libéral du Québec win the most seats in the 2026 Quebec general election?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Democratic Party candidate win the 2026 Colorado Senate election by 25%-30%?",
           "odds": "+733",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Unit FDV above $1B one day after launch?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest score achieved by an Anthropic Claude model on Humanity’s Last Exam in 2026 be 75% or higher?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Portland Timbers vs. San Diego FC: Both Teams to Score",
+          "odds": "-203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Orlando City SC vs. Chicago Fire FC: Both Teams to Score",
+          "odds": "-203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Lewis Hamilton win the 2026 Action of the Year?",
+          "odds": "+719",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: CDPJuniorFC 1 - 1 Deportivo Pereira?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Bradley Beal play for the Boston Celtics in 2026-27?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Istanbul be 26°C on August 13?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
