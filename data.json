@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "13 de agosto de 2026 — 01:18 UTC",
+  "lastUpdated": "13 de agosto de 2026 — 01:21 UTC",
   "ticker": [
     "Half a tonne of Erling Haaland branded cocaine seized in Ecuador",
     "Iran war live: US, Tehran exchange opposing claims over Hormuz control",
@@ -12,53 +12,110 @@
     "Thousands missing after Colombia quake as rescue continues",
     "Morocco says working to prevent potential new Ceuta crossings surge",
     "11-year-old boy shot by Israeli forces in Gaza",
-    "Drone attacks on energy infrastructure deepen Libya’s energy crisis"
+    "Drone attacks on energy infrastructure deepen Libya’s energy crisis",
+    "Israeli air strike kills one in northern Gaza",
+    "Deadly India landslide kills at least seven in Mumbai",
+    "Can Syria deliver transitional justice?"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
           "odds": "+900",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y ENERGÍA",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
           "event": "Will Crude Oil reach a new all-time high by September 30?",
           "odds": "+2400",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
           "event": "Will the Republican Party candidate win the 2026 South Carolina Senate election by 10%-15%?",
           "odds": "+566",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will there be between 25 and 29 average daily transits of the Bab el-Mandeb Strait on August 31?",
-          "odds": "+233",
-          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Will Flávio Bolsonaro win the first round of the 2026 Brazilian presidential election by less than 5%?",
+          "odds": "+1134",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Democratic Party candidate win the 2026 Colorado Senate election by 25%-30%?",
           "odds": "+733",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will SpaceX (SPCX) hit (HIGH) $150 Week of August 10 2026?",
+          "odds": "-143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "ITF W15 Bucharest 3 Women: Oana Georgeta Simion vs Maria Oliver Sanchez",
+          "odds": "-257",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest score achieved by an Anthropic Claude model on Humanity’s Last Exam in 2026 be 75% or higher?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Rodri stay at Manchester City?",
+          "odds": "+1134",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Portland Timbers vs. San Diego FC: Both Teams to Score",
+          "odds": "-203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Orlando City SC vs. Chicago Fire FC: Both Teams to Score",
+          "odds": "-203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Lewis Hamilton win the 2026 Action of the Year?",
+          "odds": "+719",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: CDPJuniorFC 1 - 1 Deportivo Pereira?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
