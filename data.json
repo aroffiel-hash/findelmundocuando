@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "13 de agosto de 2026 — 12:54 UTC",
+  "lastUpdated": "13 de agosto de 2026 — 14:18 UTC",
   "ticker": [
+    "Lebanese Americans sue US over Israel’s rights abuses in Lebanon war",
+    "Spanish Super Cup will be held in Turkiye in 2027",
     "Turkiye lays out ‘mechanisms’ of defence pact with Pakistan, Saudi Arabia",
     "Falling Danube flow forces shutdown of Romania’s sole nuclear plant",
     "Infantino’s FIFA fate must go to an election, says Africa football chief",
@@ -13,9 +15,7 @@
     "Civilian deaths in Ukraine in July hit highest level since May 2022: UN",
     "Eurovision to bar countries at war from hosting: What that means",
     "Russell Westbrook announces NBA retirement after 18 seasons",
-    "Life and loss as a first responder in southern Lebanon",
-    "What postcolonialism looks like in Southeast Asia",
-    "Japan protests as Russia’s Putin visits disputed Kuril Islands"
+    "Life and loss as a first responder in southern Lebanon"
   ],
   "sections": [
     {
@@ -23,20 +23,14 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Map Handicap: Keyd (-1.5) vs Yawara Esports (+1.5)",
-          "odds": "+203",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Ukraine strikes another vessel in the Black Sea by August 15, 2026?",
-          "odds": "-488",
+          "odds": "-614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
-          "odds": "+900",
+          "event": "Israel closes its airspace by August 31?",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -47,14 +41,20 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will WTI Crude Oil (WTI) hit (LOW) $75 in August?",
-          "odds": "-104",
+          "event": "Will Crude Oil reach a new all-time high by September 30?",
+          "odds": "+2757",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Crude Oil reach a new all-time high by September 30?",
-          "odds": "+2757",
+          "event": "Henry Cavill announced as next James Bond?",
+          "odds": "+1462",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "S&P 500 (SPY) closes above $780 on August 13?",
+          "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -64,6 +64,12 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
+        {
+          "event": "Will Axel Kicillof win the 2027 Argentina presidential election?",
+          "odds": "+156",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the Republican Party candidate win the 2026 South Carolina Senate election by 10%-15%?",
           "odds": "+566",
@@ -107,12 +113,6 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Seoul (Incheon) be 29°C on August 14?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Portland Timbers vs. San Diego FC: Both Teams to Score",
           "odds": "-203",
           "params": "Fuente: Polymarket",
@@ -133,6 +133,12 @@
         {
           "event": "Will FURIA Win the BLAST Open Porto 2026?",
           "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: KÍ 1 - 2 KKS Lech Poznań?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
