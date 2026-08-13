@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "13 de agosto de 2026 — 17:52 UTC",
+  "lastUpdated": "13 de agosto de 2026 — 18:53 UTC",
   "ticker": [
+    "Europe swelters in latest wave of extreme heat",
+    "Carrick urges Manchester United to sign more transfers to boost title bid",
+    "Judge nixes Trump lawsuit alleging Harvard did not protect Jewish students",
+    "Poland arrests man who allegedly tried to kill Ukrainian American",
+    "Gaza mural for Burger King worker fired for shouting ‘Free Palestine’",
+    "Trump administration ‘gutted’ federal civil rights enforcement, HRW says",
     "DR Congo Ebola outbreak spreads to a sixth province",
     "China and Indonesia’s joint naval drills anger Taiwan",
     "Reports of US sailors in Middle East trying to jump ship spark outcry",
@@ -9,13 +15,7 @@
     "Will all-out war in Yemen reignite as the Houthis escalate attacks?",
     "Turkiye’s AK Party turns 25: A journey of change and renewal",
     "Iran says Strait of Hormuz under its control, rejects Trump claims",
-    "Pro-Palestine football fans lament West Ham for signing Manor Solomon",
-    "Oman says massive oil spill reaches coastline: What damage could it do?",
-    "Ukraine attacks key Russian grain terminal on Black Sea port",
-    "Ebola outbreak caused by new ‘animal transmission’: What that means",
-    "Report from scene of Palestinian homes besieged by settlers",
-    "Lebanese Americans sue US over Israel’s rights abuses in Lebanon war",
-    "Spanish Super Cup will be held in Turkiye in 2027"
+    "Pro-Palestine football fans lament West Ham for signing Manor Solomon"
   ],
   "sections": [
     {
@@ -59,20 +59,8 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Axel Kicillof win the 2027 Argentina presidential election?",
-          "odds": "+156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the Republican Party candidate win the 2026 South Carolina Senate election by 10%-15%?",
           "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Nigel Farage win at least 80% of votes in the Clacton parliamentary by-election?",
-          "odds": "-170",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -101,8 +89,20 @@
           "moved": "none"
         },
         {
+          "event": "Will the highest temperature in Chicago be between 76-77°F on August 14?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will FC Flora vs. Inter Club d'Escaldes end in a draw?",
           "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will OpenAI’s Astra model be released by October 31, 2026?",
+          "odds": "-900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -127,18 +127,6 @@
         {
           "event": "Will the highest temperature in Panama City be 31°C on August 13?",
           "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will FURIA Win the BLAST Open Porto 2026?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Wei Chuan Dragons vs. Rakuten Monkeys",
-          "odds": "+100",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
