@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "12 de agosto de 2026 — 23:33 UTC",
+  "lastUpdated": "13 de agosto de 2026 — 01:18 UTC",
   "ticker": [
+    "Half a tonne of Erling Haaland branded cocaine seized in Ecuador",
+    "Iran war live: US, Tehran exchange opposing claims over Hormuz control",
+    "Trump administration arrests Southern Poverty Law Center expert for fraud",
+    "Media groups sue Trump over paid access to public social media posts",
     "Trump administration plans to give ICE officers electric-shock gloves",
     "US strikes in Yemen killed 153 civilians in 2025, says Pentagon review",
     "Hegseth cautions that ICC may investigate US boat strikes in Latin America",
@@ -8,120 +12,53 @@
     "Thousands missing after Colombia quake as rescue continues",
     "Morocco says working to prevent potential new Ceuta crossings surge",
     "11-year-old boy shot by Israeli forces in Gaza",
-    "Drone attacks on energy infrastructure deepen Libya’s energy crisis",
-    "Israeli air strike kills one in northern Gaza",
-    "Deadly India landslide kills at least seven in Mumbai",
-    "Can Syria deliver transitional justice?",
-    "Israel vows to keep troops in Lebanon, Gaza and Syria",
-    "Photos: Solar eclipse plunges parts of Europe into darkness",
-    "‘Platformicide’ of Palestine: Activists struggle to be heard on Meta",
-    "Trump reveals Karoline Leavitt to step down as White House press secretary"
+    "Drone attacks on energy infrastructure deepen Libya’s energy crisis"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
           "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
           "odds": "+900",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "label": "ECONOMÍA Y ENERGÍA",
       "rows": [
-        {
-          "event": "Will Burgas host Eurovision 2027?",
-          "odds": "-261",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Crude Oil reach a new all-time high by September 30?",
           "odds": "+2400",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
         {
           "event": "Will the Republican Party candidate win the 2026 South Carolina Senate election by 10%-15%?",
           "odds": "+566",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
-          "event": "Will Flávio Bolsonaro win the first round of the 2026 Brazilian presidential election by less than 5%?",
-          "odds": "+1134",
-          "params": "Fuente: Polymarket",
+          "event": "Will there be between 25 and 29 average daily transits of the Bab el-Mandeb Strait on August 31?",
+          "odds": "+233",
+          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
           "event": "Will the Democratic Party candidate win the 2026 Colorado Senate election by 25%-30%?",
           "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will SpaceX (SPCX) hit (HIGH) $150 Week of August 10 2026?",
-          "odds": "-143",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest score achieved by an Anthropic Claude model on Humanity’s Last Exam in 2026 be 75% or higher?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Rodri stay at Manchester City?",
-          "odds": "+1134",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Alibaba be the second-best AI lab at the end of August 2026?",
-          "odds": "-426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Portland Timbers vs. San Diego FC: Both Teams to Score",
-          "odds": "-203",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Orlando City SC vs. Chicago Fire FC: Both Teams to Score",
-          "odds": "-203",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Lewis Hamilton win the 2026 Action of the Year?",
-          "odds": "+719",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: CDPJuniorFC 1 - 1 Deportivo Pereira?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
