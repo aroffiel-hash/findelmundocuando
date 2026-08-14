@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "14 de agosto de 2026 — 05:41 UTC",
+  "lastUpdated": "14 de agosto de 2026 — 07:14 UTC",
   "ticker": [
+    "Flock adds safeguards to licence-plate readers after wave of stalking cases",
+    "North Korea fumes over upcoming US-South Korea military drills",
     "Fear and attacks grip Taybeh, the last all-Christian town in the West Bank",
     "Record rainfall leaves four dead, thousands stranded in Japan",
     "Salvage work begins on tanker leaking oil off Oman, risk firm says",
@@ -13,9 +15,7 @@
     "Why Osun’s election matters for Nigeria’s 2027 vote",
     "UN, Palestinian ministry condemn Israeli settler siege of West Bank homes",
     "Could Trump actually run for a third term as president?",
-    "Bodycam captures lightning striking metres from US police officers",
-    "Talks between government and opposition mark a new chapter for Venezuela",
-    "AI escapes confinement"
+    "Bodycam captures lightning striking metres from US police officers"
   ],
   "sections": [
     {
@@ -23,14 +23,8 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will China region win The International 2026?",
-          "odds": "+619",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Israel closes its airspace by August 31?",
-          "odds": "+1328",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -49,6 +43,24 @@
         {
           "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
           "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "NATO x Russia military clash by October 31, 2026?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will the US federal government take a stake in OpenAI?",
+          "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -75,6 +87,12 @@
           "odds": "+376",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 Colorado Senate election by 25%-30%?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -83,14 +101,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will FK Epitsentr Dunaivtsi win on 2026-08-14?",
-          "odds": "-117",
+          "event": "Dota 2: Iron Wing vs Team Falcons (BO3) - The International Group Stage",
+          "odds": "+156",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Qingdao be 33°C on August 14?",
-          "odds": "+257",
+          "event": "Will the highest temperature in Madrid be 32°C on August 16?",
+          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -107,6 +125,12 @@
           "moved": "none"
         },
         {
+          "event": "Will the highest temperature in Lucknow be 33°C on August 15?",
+          "odds": "+156",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the highest temperature in Denver be 75°F or below on August 13?",
           "odds": "+2464",
           "params": "Fuente: Polymarket",
@@ -115,12 +139,6 @@
         {
           "event": "Exact Score: CDPJuniorFC 1 - 1 Deportivo Pereira?",
           "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Panama City be 31°C on August 13?",
-          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
