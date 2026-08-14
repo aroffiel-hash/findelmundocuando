@@ -1,46 +1,133 @@
 {
-  "lastUpdated": "14 de agosto de 2026 — 12:47 UTC",
+  "lastUpdated": "14 de agosto de 2026 — 12:50 UTC",
   "ticker": [
+    "Saudi Arabia announces start of Red Sea defence alliance: Will it work?",
     "Israeli soldiers prevent aid delivery to besieged Palestinians",
     "Israeli forces block activists from reaching besieged Qusra families",
     "Rising Australian golfer Bang dies of brain haemorrhage in Thailand aged 18",
     "Israeli PM Netanyahu calls UK ‘the Islamic Republic of Britain’",
     "Huckabee calls Israeli settlers ‘terrorists’: Can US push end Qusra siege?",
+    "Man City tight-lipped on Rodri transfer amid Barcelona and Real Madrid link",
     "US threatens ‘indefinite’ blockade against Iran: How long can it last?",
     "Russian ballistic attacks intensify as Kyiv claims Dnipropetrovsk advance",
     "Record-breaking rain in Japan leaves several dead, thousands stranded",
     "Scrutiny over Farage’s finances has ‘hurt Reform UK support’",
     "Seven killed in tunnel accident at Indian hydropower project",
     "New Zealand break ranks with Oceania as FIFA’s Infantino divide grows",
-    "Russia says hit Ukrainian railway and port facilities in new strikes"
+    "Russia says hit Ukrainian railway and port facilities in new strikes",
+    "Swiatek defeats Rybakina to claim Canadian Open title​"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Will Grand Theft Auto VI win Game of the Year at the 2026 Game Awards?",
+          "odds": "-163",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
           "odds": "+900",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will the US federal government take a stake in OpenAI?",
+          "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
           "event": "Will the Republican Party candidate win the 2026 South Carolina Senate election by 10%-15%?",
           "odds": "+566",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Mauricio Cáceres Cáceres win the next Arequipa mayoral elections?",
+          "odds": "+400",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Democratic Party candidate win the 2026 Colorado Senate election by 25%-30%?",
           "odds": "+733",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Exact Score: CA Acassuso 0 - 0 CA Ferrocarril Midland?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Counter-Strike: Lazer Cats vs MOUZ NXT (BO3) - ESL Challenger League Europe Cup #3 Group A",
+          "odds": "-244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Portland Timbers vs. San Diego FC: Both Teams to Score",
+          "odds": "-203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Lewis Hamilton win the 2026 Action of the Year?",
+          "odds": "+719",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: CDPJuniorFC 1 - 1 Deportivo Pereira?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will FURIA Win the BLAST Open Porto 2026?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Wei Chuan Dragons vs. Rakuten Monkeys",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Alibaba be the second-best Math AI lab at the end of August 2026?",
+          "odds": "+852",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
