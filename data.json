@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "13 de agosto de 2026 — 23:34 UTC",
+  "lastUpdated": "14 de agosto de 2026 — 01:17 UTC",
   "ticker": [
+    "Israel’s Katz hails settlers for ‘holding onto’ Palestinian land",
+    "UAE accuses Iran of attacks on two ADNOC vessels in Strait of Hormuz",
+    "Yemen faces highest risk of returning to war since 2022 truce, UN warns",
+    "Iran war live: US eyes indefinite Iran naval blockade",
     "Gaza City police chief killed as Israel pushes on with deadly strikes",
     "Tate supporters rally for brothers ahead of bail hearing in Miami",
     "Israeli strikes in Gaza kill two, including police chief",
@@ -8,132 +12,65 @@
     "What’s at stake in Zambia’s elections?",
     "Kennedy Center votes to restore Trump’s name to venue, close for two years",
     "Multiple houses ablaze as wildfire sweeps into UK town",
-    "Huge explosion rocks Italian munitions factory south of Rome",
-    "Photos: Cuba marks Fidel Castro’s 100th birthday",
-    "Are We in the Singularity?",
-    "Sudan army says RSF advance on key town bordering Ethiopia",
-    "Passenger train derails, injuring several in southern England",
-    "Israeli forces order families to evacuate homes in Qusra",
-    "Colombia earthquake: Hospitals adapt to save lives amid widespread damage",
-    "Europe swelters in latest wave of extreme heat"
+    "Huge explosion rocks Italian munitions factory south of Rome"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
-          "event": "Will China region win The International 2026?",
-          "odds": "+619",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Ukraine strikes another vessel in the Black Sea by August 15, 2026?",
-          "odds": "-614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Israel closes its airspace by August 31?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
+          "odds": "+1328",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
           "moved": "none"
         },
         {
           "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
           "odds": "+900",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
       "rows": [
         {
-          "event": "Will Crude Oil reach a new all-time high by September 30?",
-          "odds": "+2841",
-          "params": "Fuente: Polymarket",
+          "event": "Ukraine strikes another vessel in the Black Sea by August 15, 2026?",
+          "odds": "-614",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🇨🇳",
+      "label": "CHINA / PACÍFICO / COREA",
+      "rows": [
+        {
+          "event": "Will China region win The International 2026?",
+          "odds": "+619",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
         {
           "event": "Will the Republican Party candidate win the 2026 South Carolina Senate election by 10%-15%?",
           "odds": "+566",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
-          "event": "Will Mauricio Cáceres Cáceres win the next Arequipa mayoral elections?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Carlos Ricardo Bruce Montes de Oca win the next Lima mayoral elections?",
-          "odds": "+376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will FK Epitsentr Dunaivtsi win on 2026-08-14?",
-          "odds": "-117",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Hong Kong be 31°C on August 14?",
-          "odds": "+455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Portland Timbers vs. San Diego FC: Both Teams to Score",
-          "odds": "-203",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Lewis Hamilton win the 2026 Action of the Year?",
-          "odds": "+719",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: CDPJuniorFC 1 - 1 Deportivo Pereira?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Panama City be 31°C on August 13?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will FURIA Win the BLAST Open Porto 2026?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Wei Chuan Dragons vs. Rakuten Monkeys",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
+          "event": "Will the Democratic Party candidate win the 2026 Colorado Senate election by 25%-30%?",
+          "odds": "+733",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
