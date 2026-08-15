@@ -1,139 +1,82 @@
 {
-  "lastUpdated": "14 de agosto de 2026 — 23:15 UTC",
+  "lastUpdated": "15 de agosto de 2026 — 00:49 UTC",
   "ticker": [
+    "Families angered by slow search for loved ones after Colombia quake",
+    "Iran war live: Trump vows to make Hormuz US territory ‘pretty soon’",
     "Lebanon’s PM urges timetable for Israeli withdrawal as Hezbollah slams deal",
     "Houthi attack on port kills four eroding truce with Yemen’s government",
     "Yemen’s government says Houthi attack on al-Makha kills at least four",
     "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war",
-    "Wildfires rage across Europe as heatwaves drive record temperatures",
     "Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra",
     "Trump dismisses mental health concerns on USS Lincoln aircraft carrier",
     "Mount Etna eruption and volcanic ash shut Sicily’s busiest airport",
     "Former Cambridge professor accused of plagiarism found dead",
     "Son of Mexico’s former president AMLO alleges US revoked his visa",
-    "New aerial video reveals huge scale of oil spill off Oman",
-    "Trump asks US Supreme Court to allow $400m ballroom project to proceed",
-    "Woman charged over vandalism of World War II Memorial in Washington, DC",
-    "Art offers young Gaza survivors solace and escape from war’s devastation",
-    "Italian police recover stolen paintings worth over $10m"
+    "New aerial video reveals huge scale of oil spill off Oman"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
-          "event": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Thug Win the 2026 Esports Personality of the Year Award?",
-          "odds": "+112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "NATO x Russia military clash by October 31, 2026?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
+          "event": "Will Mohammed bin Abdulrahman Al Thani attend a US x Iran diplomatic meeting by December 31, 2026?",
+          "odds": "+244",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
           "moved": "none"
         },
         {
           "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
           "odds": "+900",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
       "rows": [
         {
-          "event": "Will the US federal government take a stake in OpenAI?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
+          "event": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
+          "odds": "+733",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
+          "moved": "none"
+        },
+        {
+          "event": "NATO x Russia military clash by October 31, 2026?",
+          "odds": "+1328",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
+          "odds": "+1328",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
         {
           "event": "Will the Republican Party candidate win the 2026 South Carolina Senate election by 10%-15%?",
           "odds": "+566",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
-          "event": "Will Mauricio Cáceres Cáceres win the next Arequipa mayoral elections?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
+          "event": "Will Virginia use a new congressional map for the 2026 United States midterm elections?",
+          "odds": "+1328",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
           "event": "Will the Democratic Party candidate win the 2026 Colorado Senate election by 25%-30%?",
           "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will the highest temperature in Denver be between 78-79°F on August 15?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Portland Timbers vs. San Diego FC: Both Teams to Score",
-          "odds": "-203",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: CDPJuniorFC 1 - 1 Deportivo Pereira?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will FURIA Win the BLAST Open Porto 2026?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Wei Chuan Dragons vs. Rakuten Monkeys",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Gimnastica Segoviana CF vs. Unionistas de Salamanca CF: Both Teams to Score",
-          "odds": "-127",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the NC-09 House seat?",
-          "odds": "-426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will CR Flamengo win on 2026-08-16?",
-          "odds": "-108",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
