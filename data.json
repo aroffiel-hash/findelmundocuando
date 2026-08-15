@@ -1,151 +1,70 @@
 {
-  "lastUpdated": "15 de agosto de 2026 — 11:13 UTC",
+  "lastUpdated": "15 de agosto de 2026 — 12:21 UTC",
   "ticker": [
-    "World Cup winner Ferran Torres joins Paris Saint-Germain from Barcelona",
-    "Arsenal vs Manchester City: Community Shield – prediction, lineups, teams",
+    "Afghan refugees face an uncertain future as Europe shifts to the right",
+    "Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?",
+    "Modi threatens to target ‘intellectual Naxals’ in Independence Day speech",
+    "Aftermath of deadly Indonesia earthquake",
+    "Japanese minister visits shrine to war dead, angering China, South Korea",
+    "What the Taliban achieved and failed to achieve in five years",
     "At scene of deadly Israeli strike on Lebanon home",
     "Bangladesh rock Australia as historic Test win in sight",
     "FIFA World Cup and Olympics cited as Coe warns of politicians near sport",
     "Venus Williams hits 13-game tennis losing streak with Cincinnati Open exit",
     "The women India’s biggest river project forgot",
-    "Arteta assures Arsenal fans over contract before Man City clash",
-    "FIFA’s Infantino gets backing of White House chief Giuliani over World Cup",
-    "A Syrian intervention in Lebanon would be too costly for Damascus",
-    "Israeli strike kills seven in south Lebanon as attacks intensify",
-    "Moment Israeli forces storm wedding hall in occupied West Bank",
-    "South Korea’s president wants talks with North to end Korean War",
-    "Small-scale projects offer hope for Gaza farmers rebuilding lives",
-    "How a Sudanese refugee became a head teacher in a Chadian camp"
+    "FIFA’s Infantino gets backing of White House chief Giuliani over World Cup"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
           "event": "Will Mohammed bin Abdulrahman Al Thani attend a US x Iran diplomatic meeting by December 31, 2026?",
           "odds": "+244",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
           "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
+      "rows": [
         {
           "event": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
           "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will over 66 Senators vote for the Clarity Act?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
           "moved": "none"
         },
         {
           "event": "NATO x Russia military clash by October 31, 2026?",
           "odds": "+1328",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
-      "rows": [
-        {
-          "event": "Will the US federal government take a stake in OpenAI?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
         {
           "event": "Will the Republican Party candidate win the 2026 South Carolina Senate election by 10%-15%?",
           "odds": "+566",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
           "event": "Will the Republican Party candidate win the 2026 Mississippi Senate election by 5%-10%?",
           "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Mauricio Cáceres Cáceres win the next Arequipa mayoral elections?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
           "event": "Will Virginia use a new congressional map for the 2026 United States midterm elections?",
           "odds": "+1786",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Alfonso Sánchez García win the 2027 Tlaxcala Governor Election?",
-          "odds": "+194",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will the Democratic Party win the FL-10 House seat?",
-          "odds": "-1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: CDPJuniorFC 1 - 1 Deportivo Pereira?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will FURIA Win the BLAST Open Porto 2026?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Wei Chuan Dragons vs. Rakuten Monkeys",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Pittsburgh Riverhounds vs. Charleston Battery: Both Teams to Score",
-          "odds": "-108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the NC-09 House seat?",
-          "odds": "-426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Chongqing be 36°C on August 16?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "NYSE marketwide circuit breaker before 2027?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
