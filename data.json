@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "15 de agosto de 2026 — 00:51 UTC",
+  "lastUpdated": "15 de agosto de 2026 — 02:09 UTC",
   "ticker": [
+    "At least two killed as magnitude 7.7 quake hits Indonesia",
+    "Mangione pleads guilty as polarising CEO killing reaches new phase",
+    "Buenaventura residents criticise state neglect after Colombia’s earthquake",
+    "Lula holds slim lead over Flavio Bolsonaro ahead of Brazil election",
     "UN urges support for Afghan women’s aid five years into Taliban rule",
     "Families angered by slow search for loved ones after Colombia quake",
     "Iran war live: Trump vows to make Hormuz US territory ‘pretty soon’",
@@ -11,11 +15,7 @@
     "Wildfires rage across Europe as heatwaves drive record temperatures",
     "Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra",
     "Trump dismisses mental health concerns on USS Lincoln aircraft carrier",
-    "Mount Etna eruption and volcanic ash shut Sicily’s busiest airport",
-    "Former Cambridge professor accused of plagiarism found dead",
-    "Son of Mexico’s former president AMLO alleges US revoked his visa",
-    "New aerial video reveals huge scale of oil spill off Oman",
-    "Trump asks US Supreme Court to allow $400m ballroom project to proceed"
+    "Mount Etna eruption and volcanic ash shut Sicily’s busiest airport"
   ],
   "sections": [
     {
@@ -45,12 +45,6 @@
           "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -73,6 +67,12 @@
         {
           "event": "Will the Republican Party candidate win the 2026 South Carolina Senate election by 10%-15%?",
           "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party candidate win the 2026 Mississippi Senate election by 5%-10%?",
+          "odds": "+426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -107,14 +107,8 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Amsterdam be 21°C on August 16?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Game Handicap: BLG (-1.5) vs Team WE (+1.5)",
-          "odds": "+100",
+          "event": "Dota 2: OG vs HULIGANI - Game 2 Winner",
+          "odds": "-185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -145,6 +139,12 @@
         {
           "event": "Gimnastica Segoviana CF vs. Unionistas de Salamanca CF: Both Teams to Score",
           "odds": "-127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Pittsburgh Riverhounds vs. Charleston Battery: Both Teams to Score",
+          "odds": "-108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
