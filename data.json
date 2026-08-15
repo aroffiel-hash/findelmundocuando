@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "15 de agosto de 2026 — 08:19 UTC",
+  "lastUpdated": "15 de agosto de 2026 — 09:19 UTC",
   "ticker": [
+    "FIFA World Cup and Olympics cited as Coe warns of politicians near sport",
+    "Venus Williams hits 13-game tennis losing streak with Cincinnati Open exit",
+    "The women India’s biggest river project forgot",
     "Arteta assures Arsenal fans over contract before Man City clash",
     "FIFA’s Infantino gets Giuliani backing in World Cup selloff fallout",
     "A Syrian intervention in Lebanon would be too costly for Damascus",
@@ -12,16 +15,19 @@
     "Morocco boosts Ceuta security amid calls for mass migrant crossing",
     "On the ground in Indonesia following 7.7 magnitude earthquake",
     "Taiwan passes defence budget after record delay, retains drone funding",
-    "Iran says no decision yet on a return to talks with the US",
-    "What we know about the crisis aboard the USS Lincoln",
-    "Did the US really destroy Iran’s ballistic missile capability?",
-    "India marks 80th Independence Day with military display"
+    "Iran says no decision yet on a return to talks with the US"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Todi: Nicolas Kicker vs Marco Cecchinato",
+          "odds": "+257",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Mohammed bin Abdulrahman Al Thani attend a US x Iran diplomatic meeting by December 31, 2026?",
           "odds": "+244",
@@ -35,19 +41,13 @@
           "moved": "none"
         },
         {
+          "event": "Will over 66 Senators vote for the Clarity Act?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "NATO x Russia military clash by October 31, 2026?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
           "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
@@ -99,12 +99,6 @@
           "odds": "+194",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party candidate win the 2026 Colorado Senate election by 25%-30%?",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -137,14 +131,14 @@
           "moved": "none"
         },
         {
-          "event": "Gimnastica Segoviana CF vs. Unionistas de Salamanca CF: Both Teams to Score",
-          "odds": "-127",
+          "event": "Pittsburgh Riverhounds vs. Charleston Battery: Both Teams to Score",
+          "odds": "-108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Pittsburgh Riverhounds vs. Charleston Battery: Both Teams to Score",
-          "odds": "-108",
+          "event": "Counter-Strike: BIG vs Spirit - Map 1 Winner",
+          "odds": "+257",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
