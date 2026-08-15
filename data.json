@@ -1,33 +1,27 @@
 {
-  "lastUpdated": "15 de agosto de 2026 — 20:14 UTC",
+  "lastUpdated": "15 de agosto de 2026 — 21:14 UTC",
   "ticker": [
+    "California tackles multiple wildfires as firefighter workforce faces strain",
+    "Canadian petition to expel US ambassador gains over 170,000 signatures",
+    "Moroccan Police Intercept Migrants Heading for Ceuta Enclave",
     "Moroccan police arrest over 100 migrants trying to reach Spanish enclave",
     "Death toll from Zimbabwe ferry disaster rises to 72",
     "La Liga: Real Madrid key talking points heading into new 2026-27 season",
     "Cleanup underway as Russian oil spill reaches Oman’s coastline",
     "US aircraft carrier expected to relieve USS Lincoln in Middle East",
     "Inter Milan sign England’s Djed Spence from Tottenham Hotspur",
-    "Tropical Storm Lala expected to strengthen as it nears Hawaii",
+    "Storm Lala strengthens into a Category 1 hurricane as it nears Hawaii",
     "UK PM Burnham reacts to death of former Cambridge professor",
     "Erdogan says Egypt could join Turkiye-Saudi-Pakistan defence pact",
     "One killed, dozens injured after wildfire hits Croatian coast",
     "Sudan’s al-Burhan pledges immunity for dialogue, rules out Hemedti return",
-    "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
-    "Israeli settlers besiege Palestinian families in occupied West Bank",
-    "Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests",
-    "How blind football is helping women overcome barriers in Mexico"
+    "Ukraine hits Russian Starlink-style network, Moscow tracks arms package"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Will Mohammed bin Abdulrahman Al Thani attend a US x Iran diplomatic meeting by December 31, 2026?",
-          "odds": "+244",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
           "odds": "+733",
@@ -43,12 +37,6 @@
         {
           "event": "Will Ty Majeski win the 2026 NASCAR Craftsman Truck Series Black's Tire 250 presented by BTS Rewards at Richmond Raceway?",
           "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
-          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -87,12 +75,6 @@
           "odds": "+1786",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party candidate win the 2026 Colorado Senate election by 25%-30%?",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -100,6 +82,12 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
+        {
+          "event": "ITF M25 Idanha-a-Nova Men: Dan Added vs Philip Henning",
+          "odds": "+244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the Democratic Party win the FL-10 House seat?",
           "odds": "-1566",
@@ -109,6 +97,12 @@
         {
           "event": "Will the fight be won by submission?",
           "odds": "+170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Munich be 21°C on August 17?",
+          "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -133,18 +127,6 @@
         {
           "event": "Will the Republican Party win the NC-09 House seat?",
           "odds": "-426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Anthropic's valuation hit (HIGH) $5.0T by December 31?",
-          "odds": "+1512",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "NYSE marketwide circuit breaker before 2027?",
-          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
