@@ -1,9 +1,10 @@
 {
-  "lastUpdated": "16 de agosto de 2026 — 11:13 UTC",
+  "lastUpdated": "16 de agosto de 2026 — 12:23 UTC",
   "ticker": [
-    "Arsenal vs Manchester City LIVE: FA Community Shield",
+    "‘Spearhead of annexation’: Israel hands West Bank rule to civilian police",
+    "‘Limited options’ for many Iranians as war with US chokes economy",
+    "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
     "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
-    "Premier League: Key talking points heading into the new 2026-27 season",
     "Doctor describes amputating girl’s leg in Gaza without anaesthesia",
     "The post-Hormuz era offers Africa a great opportunity",
     "Mohamed Salah’s Trabzonspor debut ends in draw with Kasimpasa",
@@ -11,135 +12,65 @@
     "Cincinnati Open: Djokovic stunned by Tirante in second round",
     "3-year-old girl rescued 100 hours after Colombia earthquake",
     "At least 12 people killed in Hungary bus crash",
-    "Photos: Patriotic music and flags mark Taliban rule anniversary in Kabul",
-    "Douglass breaks 50m freestyle swimming world record, Ledecky loses 800m",
-    "Australia to begin gun buyback scheme in response to Bondi shooting",
-    "Lionel Messi misses penalty as Nashville thrash Inter Miami in MLS",
-    "New satellite images show Europe’s disappearing rivers due to drought"
+    "Photos: Patriotic music and flags mark Taliban rule anniversary in Kabul"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
-          "event": "NATO x Russia military clash by October 31, 2026?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
+          "event": "Foreign intervention in Gaza by September 30?",
+          "odds": "+1328",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
           "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
           "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
+      "rows": [
+        {
+          "event": "NATO x Russia military clash by October 31, 2026?",
+          "odds": "+1011",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
+          "odds": "+733",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
         {
           "event": "Will the Republican Party candidate win the 2026 South Carolina Senate election by 10%-15%?",
           "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Rand Paul be the first listed Republican to announce a run for President in 2028?",
-          "odds": "+187",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
           "event": "Will the Republican Party candidate win the 2026 Mississippi Senate election by 5%-10%?",
           "odds": "+426",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
           "event": "Will Virginia use a new congressional map for the 2026 United States midterm elections?",
           "odds": "+1786",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Mauricio Cáceres Cáceres win the next Arequipa mayoral elections?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Sweden Parliamentary Election: Liberals Win Seats?",
-          "odds": "+132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will Sporting Kansas City win on 2026-08-19?",
-          "odds": "+270",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party win the FL-10 House seat?",
-          "odds": "-1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: CDPJuniorFC 1 - 1 Deportivo Pereira?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will FURIA Win the BLAST Open Porto 2026?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "NYSE marketwide circuit breaker before 2027?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Tom Holland as Spider-Man?",
-          "odds": "-112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the NC-09 House seat?",
-          "odds": "-426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Anthropic's valuation hit (HIGH) $5.0T by December 31?",
-          "odds": "+1462",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
