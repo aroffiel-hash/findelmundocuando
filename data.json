@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "16 de agosto de 2026 — 20:13 UTC",
+  "lastUpdated": "16 de agosto de 2026 — 21:13 UTC",
   "ticker": [
+    "Erdogan says Hamas acted sincerely, criticises Israeli attacks",
+    "US admiral praises USS Lincoln crew amid reported mental health concerns",
+    "Brazil: Lula, Bolsonaro return to strongholds to launch runs for president",
+    "US-Iran MoU is set to expire: What to know",
+    "Senegal’s Saint-Louis Regatta keeps centuries of tradition alive",
+    "Anti-corruption raids in Baghdad as dozens of officials arrested",
     "Erdogan says Israeli attacks on Lebanon are a serious concern for Türkiye",
     "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
     "Erdogan calls for Strait of Hormuz reopening amid oil disruption",
@@ -9,13 +15,7 @@
     "Why are sandwiches more regulated than AI?",
     "‘Water and salt’: Qusra residents trapped in Israeli settler siege",
     "Cristiano Ronaldo hints at retirement at end of season",
-    "Arsenal cruise to win over Manchester City in Community Shield",
-    "Moroccan migrants stage sit-in as thousands remain stranded in Ceuta",
-    "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
-    "Hurricane Lala weakens to a tropical storm, but flooding persists in Hawaii",
-    "‘The Mediterranean is a bridge, not a border’",
-    "Ben-Gvir calls for nightly killings of Palestinians in Gaza",
-    "What is Tokyo’s Yasukuni Shrine, linked to Japan’s wartime atrocities?"
+    "Arsenal cruise to win over Manchester City in Community Shield"
   ],
   "sections": [
     {
@@ -45,6 +45,12 @@
           "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -52,6 +58,12 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
+        {
+          "event": "Will the Republicans win the Iowa Senate race in 2026?",
+          "odds": "-143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the Republican Party candidate win the 2026 South Carolina Senate election by 10%-15%?",
           "odds": "+566",
@@ -81,6 +93,12 @@
           "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Gabriel Attal be on the ballot for the 2027 French presidential election?",
+          "odds": "+244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -88,24 +106,6 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
-        {
-          "event": "Paris Saint-Germain to score first vs. Racing Club De Lens?",
-          "odds": "-170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "CA River Plate vs. AA Argentinos Juniors: Both Teams to Score in First Half",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Sporting Kansas City win on 2026-08-19?",
-          "odds": "+270",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Clube do Remo win on 2026-08-17?",
           "odds": "+525",
@@ -131,8 +131,26 @@
           "moved": "none"
         },
         {
-          "event": "Will US Sassuolo Calcio vs. Cesena FC end in a draw?",
-          "odds": "+376",
+          "event": "CA Barracas Central vs. CA Rosario Central: Both Teams to Score in First Half",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: CDPJuniorFC 1 - 1 Deportivo Pereira?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will FURIA Win the BLAST Open Porto 2026?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "NYSE marketwide circuit breaker before 2027?",
+          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
