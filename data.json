@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "17 de agosto de 2026 — 03:42 UTC",
+  "lastUpdated": "17 de agosto de 2026 — 04:33 UTC",
   "ticker": [
+    "Thieves steal Renaissance artworks in museum heist during Italian holiday",
+    "Palestinian-American travels to West Bank home encircled by Israeli settler",
     "Rare Pallas’s cat captured on camera in northern Iran mountains",
     "Zambia incumbent takes early election lead as opposition alleges armed raid",
     "Ebola outbreak in DR Congo becomes deadliest in country’s history",
@@ -13,9 +15,7 @@
     "Israeli minister calls for killing ’30 to 40′ Palestinians in Gaza nightly",
     "What could stop Israeli settler attacks on Palestinians?",
     "Hundreds of migrants arrested near Ceuta border in latest crackdown",
-    "Anwar Ibrahim: Malaysia between the superpowers",
-    "Death toll rises to 84 from capsized ferry in Zimbabwe",
-    "Israelis harass Palestinian-owned cafe in Iceland, tear down Palestine map"
+    "Anwar Ibrahim: Malaysia between the superpowers"
   ],
   "sections": [
     {
@@ -45,6 +45,12 @@
           "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -55,12 +61,6 @@
         {
           "event": "WTI Crude Oil (WTI) closes above $78 on August 17?",
           "odds": "-2399",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: Deportes Iquique 0 - 1 CD Antofagasta?",
-          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -103,6 +103,12 @@
         {
           "event": "Will Mauricio Cáceres Cáceres win the next Arequipa mayoral elections?",
           "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Gabriel Attal be on the ballot for the 2027 French presidential election?",
+          "odds": "+244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
