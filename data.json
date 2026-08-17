@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "17 de agosto de 2026 — 21:19 UTC",
+  "lastUpdated": "17 de agosto de 2026 — 22:17 UTC",
   "ticker": [
+    "‘Truth or fiction’: US trial of Tupac Shakur’s accused killer begins",
+    "Palestinian American reunites with family under siege in West Bank",
+    "Civilians paying price as Israeli military raises stakes in Lebanon: UNIFIL",
     "Trump says Iran will not make the deal he believes is necessary",
     "Trump loses second Supreme Court bid over E Jean Carroll sex abuse case",
     "Torrential rains flood homes and roads across Lima, Peru",
@@ -12,10 +15,7 @@
     "Russian politician sentenced to 11 years for opposing war in Ukraine",
     "Russia maintains election ban on opposition Yabloko, jails deputy head",
     "CAIR slams Abbott’s ‘anti-Muslim stunt’ on Texas airport washing stations",
-    "Clashes between government and opposition fighters in Somalia’s Baidoa",
-    "Syria launches probe into death of ‘White Helmet’ rescuer in police custody",
-    "Explosion reported at school in Afghan capital Kabul",
-    "Britain deploys military as wildfires spread across Europe"
+    "Clashes between government and opposition fighters in Somalia’s Baidoa"
   ],
   "sections": [
     {
@@ -25,6 +25,12 @@
         {
           "event": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
           "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Dr. Furlan win the 2026 Amapá gubernatorial election?",
+          "odds": "-1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -47,8 +53,26 @@
           "moved": "none"
         },
         {
+          "event": "Will Esmail Qaani attend a US x Iran diplomatic meeting by December 31, 2026?",
+          "odds": "+1594",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
           "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Federal District?",
+          "odds": "-244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -84,7 +108,7 @@
         },
         {
           "event": "Will Renan Santos win the 2026 Brazilian presidential election?",
-          "odds": "+2602",
+          "odds": "+2225",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -119,12 +143,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Al Ittihad Saudi Club win on 2026-08-18?",
-          "odds": "-222",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Exact Score: CDPJuniorFC 1 - 1 Deportivo Pereira?",
           "odds": "+1011",
           "params": "Fuente: Polymarket",
@@ -151,6 +169,12 @@
         {
           "event": "APYX FDV above $50M one day after launch?",
           "odds": "-541",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Valantis FDV above $300M one day after launch?",
+          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
