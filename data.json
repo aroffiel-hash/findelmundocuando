@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "17 de agosto de 2026 — 00:52 UTC",
+  "lastUpdated": "17 de agosto de 2026 — 02:16 UTC",
   "ticker": [
+    "Ebola outbreak in DR Congo becomes deadliest in country’s history",
+    "Israeli settlers pitch tents for new illegal outpost in occupied West Bank",
+    "Can the AU make its current Sudan mission count?",
     "Trump says US to ‘substantially reduce’ military drills with South Korea",
     "Israel releases 35 Palestinian prisoners back into Gaza",
     "Iran war live: Tehran-US MoU set to expire; Hamas’s al-Khayya meets Kushner",
@@ -12,10 +15,7 @@
     "Death toll rises to 84 from capsized ferry in Zimbabwe",
     "Israelis harass Palestinian-owned cafe in Iceland, tear down Palestine map",
     "Erdogan says Hamas acted sincerely, criticises Israeli attacks",
-    "US admiral praises USS Lincoln crew amid reported mental health concerns",
-    "Brazil: Lula, Bolsonaro return to strongholds to launch runs for president",
-    "US-Iran MoU is set to expire: What to know",
-    "Senegal’s Saint-Louis Regatta keeps centuries of tradition alive"
+    "US admiral praises USS Lincoln crew amid reported mental health concerns"
   ],
   "sections": [
     {
@@ -41,12 +41,6 @@
           "moved": "none"
         },
         {
-          "event": "Will the Democratic Party candidate win the 2026 South Carolina gubernatorial election by 5% or more?",
-          "odds": "+2757",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
           "odds": "+669",
           "params": "Fuente: Polymarket",
@@ -54,6 +48,18 @@
         },
         {
           "event": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Exact Score: Deportes Iquique 0 - 1 CD Antofagasta?",
           "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
@@ -119,12 +125,6 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Tel Aviv be 32°C on August 18?",
-          "odds": "-122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Exact Score: Getafe CF 0 - 0 Real Racing Club?",
           "odds": "+614",
           "params": "Fuente: Polymarket",
@@ -157,6 +157,12 @@
         {
           "event": "NYSE marketwide circuit breaker before 2027?",
           "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Zach Bryan have a #1 song on the Billboard Hot 100 in 2026?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
