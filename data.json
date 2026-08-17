@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "17 de agosto de 2026 — 02:16 UTC",
+  "lastUpdated": "17 de agosto de 2026 — 03:42 UTC",
   "ticker": [
+    "Rare Pallas’s cat captured on camera in northern Iran mountains",
+    "Zambia incumbent takes early election lead as opposition alleges armed raid",
     "Ebola outbreak in DR Congo becomes deadliest in country’s history",
     "Israeli settlers pitch tents for new illegal outpost in occupied West Bank",
     "Can the AU make its current Sudan mission count?",
@@ -13,9 +15,7 @@
     "Hundreds of migrants arrested near Ceuta border in latest crackdown",
     "Anwar Ibrahim: Malaysia between the superpowers",
     "Death toll rises to 84 from capsized ferry in Zimbabwe",
-    "Israelis harass Palestinian-owned cafe in Iceland, tear down Palestine map",
-    "Erdogan says Hamas acted sincerely, criticises Israeli attacks",
-    "US admiral praises USS Lincoln crew amid reported mental health concerns"
+    "Israelis harass Palestinian-owned cafe in Iceland, tear down Palestine map"
   ],
   "sections": [
     {
@@ -45,12 +45,6 @@
           "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -58,6 +52,12 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
+        {
+          "event": "WTI Crude Oil (WTI) closes above $78 on August 17?",
+          "odds": "-2399",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Exact Score: Deportes Iquique 0 - 1 CD Antofagasta?",
           "odds": "+1328",
@@ -105,12 +105,6 @@
           "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will Gabriel Attal be on the ballot for the 2027 French presidential election?",
-          "odds": "+244",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -125,26 +119,20 @@
           "moved": "none"
         },
         {
+          "event": "Will the Bank of Japan announce a 25 bps increase at the September 2026 meeting?",
+          "odds": "-270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Exact Score: Getafe CF 0 - 0 Real Racing Club?",
           "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "ITF M25 Taipei Men: Nitin Kumar Sinha vs Chun-Chien Hou",
-          "odds": "-149",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Exact Score: CDPJuniorFC 1 - 1 Deportivo Pereira?",
           "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Cape Town be 21°C on August 17?",
-          "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -163,6 +151,12 @@
         {
           "event": "Will Zach Bryan have a #1 song on the Billboard Hot 100 in 2026?",
           "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Atalanta BC vs. MH Hapoel Tel Aviv end in a draw?",
+          "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
