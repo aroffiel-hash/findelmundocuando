@@ -1,151 +1,100 @@
 {
-  "lastUpdated": "16 de agosto de 2026 — 23:13 UTC",
+  "lastUpdated": "17 de agosto de 2026 — 00:50 UTC",
   "ticker": [
+    "Trump says US to ‘substantially reduce’ military drills with South Korea",
+    "Israel releases 35 Palestinian prisoners back into Gaza",
+    "Iran war live: Tehran-US MoU set to expire; Hamas’s al-Khayya meets Kushner",
+    "UN’s Albanese: Israel outsourcing coercion to settlers in West Bank",
+    "Israeli minister calls for killing ’30 to 40′ Palestinians in Gaza nightly",
     "What could stop Israeli settler attacks on Palestinians?",
     "Hundreds of migrants arrested near Ceuta border in latest crackdown",
     "Anwar Ibrahim: Malaysia between the superpowers",
     "Death toll rises to 84 from capsized ferry in Zimbabwe",
     "Israelis harass Palestinian-owned cafe in Iceland, tear down Palestine map",
     "Erdogan says Hamas acted sincerely, criticises Israeli attacks",
-    "US admiral praises USS Lincoln crew amid reported mental health concerns",
-    "Brazil: Lula, Bolsonaro return to strongholds to launch runs for president",
-    "US-Iran MoU is set to expire: What to know",
-    "Senegal’s Saint-Louis Regatta keeps centuries of tradition alive",
-    "Anti-corruption raids in Baghdad as dozens of officials arrested",
-    "Erdogan says Israeli attacks on Lebanon are a serious concern for Türkiye",
-    "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
-    "Erdogan calls for Strait of Hormuz reopening amid oil disruption",
-    "Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone"
+    "US admiral praises USS Lincoln crew amid reported mental health concerns"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
+      "rows": [
+        {
+          "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
+          "odds": "+669",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
       "rows": [
         {
           "event": "NATO x Russia military clash by October 31, 2026?",
           "odds": "+1011",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario ruso en evolución.",
           "moved": "none"
         },
         {
           "event": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
           "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump visit North Korea by December 31?",
-          "odds": "+1049",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
           "moved": "none"
         },
         {
           "event": "Will the Democratic Party candidate win the 2026 South Carolina gubernatorial election by 5% or more?",
           "odds": "+2757",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
           "moved": "none"
         },
         {
-          "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
+          "event": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
+          "odds": "+1328",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🇨🇳",
+      "label": "CHINA / PACÍFICO / COREA",
+      "rows": [
+        {
+          "event": "Will Trump visit North Korea by December 31?",
+          "odds": "+1049",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario peninsular coreano.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
         {
           "event": "Will the Republicans win the Iowa Senate race in 2026?",
           "odds": "-143",
-          "params": "Fuente: Polymarket",
+          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
           "event": "Will the Republican Party candidate win the 2026 South Carolina Senate election by 10%-15%?",
           "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Rand Paul be the first listed Republican to announce a run for President in 2028?",
-          "odds": "+187",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
           "event": "Will the Republican Party candidate win the 2026 Mississippi Senate election by 5%-10%?",
           "odds": "+426",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
           "event": "Will Virginia use a new congressional map for the 2026 United States midterm elections?",
           "odds": "+1786",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Mauricio Cáceres Cáceres win the next Arequipa mayoral elections?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will the Democratic Party win the FL-10 House seat?",
-          "odds": "-1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: Getafe CF 0 - 0 Real Racing Club?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "ITF M25 Taipei Men: Nitin Kumar Sinha vs Chun-Chien Hou",
-          "odds": "-149",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Dallas be between 100-101°F on August 17?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Seoul (Incheon) be 31°C on August 18?",
-          "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: CDPJuniorFC 1 - 1 Deportivo Pereira?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will FURIA Win the BLAST Open Porto 2026?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "NYSE marketwide circuit breaker before 2027?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
