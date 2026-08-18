@@ -1,118 +1,157 @@
 {
-  "lastUpdated": "18 de agosto de 2026 — 12:29 UTC",
+  "lastUpdated": "18 de agosto de 2026 — 12:31 UTC",
   "ticker": [
     "Russia protests Japan PM’s comments after Putin’s Kuril visit",
     "Why has Trump threatened to bomb Oman – for a second time?",
+    "Premier League what to know: Schedule, prediction, transfers and more",
     "What to know about California’s special election to replace Eric Swalwell",
     "Tupac Shakur murder trial begins thirty years after his death",
     "Putin’s ‘illusion of victory:’ Russia ramps up missile attacks on Ukraine",
     "India’s ‘Cockroach’ movement makes schools next battleground against Modi",
+    "Asian Champions League draw: Holders Al-Ahli to face former winners Al Ain",
     "Eight air strikes hit airbase in Syria’s Idlib",
     "Brazil’s president says Amazon oil is ‘passport to the future’",
     "Syrian man dies in custody after alleged abuse by security officers",
     "Meta lawsuits: Is social media facing a global legal reckoning?",
     "Infantino’s FIFA World Cup fallout: Lamour exits after criticism of plan",
-    "Videos show deadly school shooting in Philippines"
+    "Videos show deadly school shooting in Philippines",
+    "Drone video shows drought-hit fields in England after driest July on record"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?",
-          "odds": "+1090",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
           "odds": "+669",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
-          "moved": "none"
-        },
-        {
-          "event": "Will there be between 20 and 40 average daily transits of the Strait of Hormuz on August 31?",
-          "odds": "+1566",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
-      "rows": [
-        {
-          "event": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
-          "odds": "+733",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
           "odds": "+1328",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y ENERGÍA",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
           "event": "WTI Crude Oil (WTI) closes above $85 on August 18?",
           "odds": "+284",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
           "event": "Will the Republican Party candidate win the 2026 South Carolina Senate election by 10%-15%?",
           "odds": "+566",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Linda Annis win the 2026 Surrey mayoral election?",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Democrats win the Ohio Senate race in 2026?",
           "odds": "-112",
-          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Helder win the most votes in the 2026 Pará Senate election?",
           "odds": "-733",
-          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Rand Paul be the first listed Republican to announce a run for President in 2028?",
+          "odds": "+187",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Republican Party candidate win the 2026 Mississippi Senate election by 5%-10%?",
           "odds": "+426",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Virginia use a new congressional map for the 2026 United States midterm elections?",
           "odds": "+1786",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will Lake Powell's minimum elevation fall below 3,490 ft?",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Capitão Alberto Neto win the second-most votes in the 2026 Amazonas Senate election?",
-          "odds": "+138",
-          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Will the Democratic Party win the FL-10 House seat?",
+          "odds": "-1566",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Eduardo Braga win the second-most votes in the 2026 Amazonas Senate election?",
+          "event": "Will the Republican Party win the AZ-01 House seat?",
+          "odds": "+270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will MH Hapoel Be'er Sheva win on 2026-08-19?",
           "odds": "+138",
-          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Kylie Jenner and Timothée Chalamet engaged in 2026?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?",
+          "odds": "+1090",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: CDPJuniorFC 1 - 1 Deportivo Pereira?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "NYSE marketwide circuit breaker before 2027?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
