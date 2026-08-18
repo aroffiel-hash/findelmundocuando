@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "18 de agosto de 2026 — 00:51 UTC",
+  "lastUpdated": "18 de agosto de 2026 — 02:11 UTC",
   "ticker": [
+    "Trump says talking to North Korea’s Kim makes the south safer",
+    "Large fire breaks out at fuel depot near Iraq’s Sulaimaniyah",
+    "Vigil held in central London for late Cambridge professor Jason Arday",
+    "Zambia’s Hichilema wins second term as president",
     "Iran war live: Trump rejects MoU extension as US claims control of Hormuz",
     "‘We will not allow Gaza to be rebuilt’ until Hamas disarms, Kushner says",
     "As rubble clears, Colombia begins focusing on recovery after the earthquake",
@@ -11,11 +15,7 @@
     "Trump loses second Supreme Court bid over E Jean Carroll sex abuse case",
     "Torrential rains flood homes and roads across Lima, Peru",
     "Trump’s approval rating sinks to new low at 33 percent",
-    "Why did Trump scale back war games with South Korea?",
-    "Gaza flotilla sets sail from the UK in bid to break Israeli siege",
-    "Photos: Indonesia earthquake rescue efforts continue as death toll hits 68",
-    "At least 92 dead in Zimbabwe after Lake Kariba ferry disaster",
-    "Russian politician sentenced to 11 years for opposing war in Ukraine"
+    "Why did Trump scale back war games with South Korea?"
   ],
   "sections": [
     {
@@ -67,24 +67,6 @@
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
-      "rows": [
-        {
-          "event": "Will S&P 500 (SPY) hit (HIGH) $800 in August?",
-          "odds": "+1594",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will S&P 500 (SPY) hit (HIGH) $780 Week of August 17 2026?",
-          "odds": "+137",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
@@ -125,8 +107,8 @@
           "moved": "none"
         },
         {
-          "event": "Will voter turnout be between 50% and 60% in the first round of the 2026 Zambian presidential elections?",
-          "odds": "-1198",
+          "event": "Will James Fishback win less than 10% of votes in the Florida Republican Governor primary?",
+          "odds": "-122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
