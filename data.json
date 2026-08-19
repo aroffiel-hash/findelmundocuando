@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "19 de agosto de 2026 — 12:30 UTC",
+  "lastUpdated": "19 de agosto de 2026 — 12:32 UTC",
   "ticker": [
     "In Ukraine, forcible military recruitment efforts escalate into violence",
     "Pakistan challenges top court order to move Imran Khan to private hospital",
@@ -12,101 +12,164 @@
     "Why White House envoys cannot sway Israel’s war leader",
     "Manav Suthar takes 10-wicket haul as India beat Sri Lanka in 600th Test",
     "At least six killed in Russian air attacks on Ukraine",
-    "Nick Kyrgios provisionally suspended after positive test for cocaine"
+    "Nick Kyrgios provisionally suspended after positive test for cocaine",
+    "Anti-Muslim protesters call for ‘Christian Crusade’ in Dearborn, US",
+    "Diego Maradona’s doctors missed renal red flag, Argentinian court told",
+    "Cars swept downhill as flash floods hit northern Chile"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
-      "rows": [
-        {
-          "event": "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?",
-          "odds": "+1090",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
-          "moved": "none"
-        },
-        {
-          "event": "Iran charges Hormuz fees by August 31?",
-          "odds": "+900",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
-          "moved": "none"
-        },
-        {
-          "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
-          "odds": "+669",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
           "odds": "+733",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Democratic Party candidate win the 2026 Pennsylvania gubernatorial election by 30% or more?",
           "odds": "+455",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Iran charges Hormuz fees by August 31?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
           "odds": "+1328",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
-      "rows": [
-        {
-          "event": "Tariff increase on Canada in effect by December 31, 2026?",
-          "odds": "+149",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con política arancelaria de EE.UU.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
       "flag": "💰",
-      "label": "ECONOMÍA Y ENERGÍA",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
           "event": "Bank of Mexico decreases interest rates by 25 bps after September 2026 meeting?",
           "odds": "+1940",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Tariff increase on Canada in effect by December 31, 2026?",
+          "odds": "+149",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
           "event": "Will the Republican Party candidate win the 2026 South Carolina Senate election by 10%-15%?",
           "odds": "+566",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Rand Paul be the first listed Republican to announce a run for President in 2028?",
+          "odds": "+187",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Republican Party candidate win the 2026 Mississippi Senate election by 5%-10%?",
           "odds": "+426",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Gabriel Attal be on the ballot for the 2027 French presidential election?",
+          "odds": "+284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Mauricio Cáceres Cáceres win the next Arequipa mayoral elections?",
+          "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will J.B. Pritzker be the 2028 Democratic Vice-Presidential nominee?",
+          "odds": "+870",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Radu Burnete be the next Prime Minister of Romania?",
           "odds": "+1512",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Set Handicap: Fritz (-1.5) vs O'Connell (+1.5)",
+          "odds": "-222",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the AZ-01 House seat?",
+          "odds": "+270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?",
+          "odds": "+1090",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in San Francisco be between 74-75°F on August 19?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Portland Timbers vs. San Diego FC: Both Teams to Score",
+          "odds": "-244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: CDPJuniorFC 1 - 1 Deportivo Pereira?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "NYSE marketwide circuit breaker before 2027?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
