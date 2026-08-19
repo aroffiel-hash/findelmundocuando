@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "19 de agosto de 2026 — 02:14 UTC",
+  "lastUpdated": "19 de agosto de 2026 — 03:39 UTC",
   "ticker": [
+    "Trial begins that could force Meta to change Facebook and Instagram",
+    "US, Canada reach trade deal to avert steep tariffs, Trump says",
+    "US refineries taking in half of Venezuela’s oil output, official says",
     "How Ebola became the deadliest outbreak in DR Congo’s history",
     "US ambassador to Israel calls settler violence ‘terror’",
     "Quebec separatist says no independence referendum while Trump in office",
@@ -12,10 +15,7 @@
     "Trump administration moves to end rule protecting swaths of forest land",
     "Why is the US ramping up Tomahawk production?",
     "Syria opens Assad-era nuclear programme to UN probe",
-    "DR Congo’s Ebola outbreak ‘global emergency’ as infections pass 5,000: WHO",
-    "Trump says no talks planned with Iran amid anger over Iran-Oman Hormuz deal",
-    "Israeli strike reported to kill at least six in Gaza City",
-    "WHO: Ebola can be contained in months if enough funding is provided"
+    "DR Congo’s Ebola outbreak ‘global emergency’ as infections pass 5,000: WHO"
   ],
   "sections": [
     {
@@ -23,14 +23,20 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
+          "event": "Set Handicap: Mensik (-1.5) vs Tirante (+1.5)",
+          "odds": "+149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
           "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Russia capture all of Prymorske by December 31, 2026?",
-          "odds": "+1487",
+          "event": "Will the highest temperature in Warsaw be 24°C on August 20?",
+          "odds": "+112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -43,12 +49,6 @@
         {
           "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
           "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will \"Wild Horse Nine\" be nominated for Best Picture at the 99th Academy Awards?",
-          "odds": "-400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -89,12 +89,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Virginia use a new congressional map for the 2026 United States midterm elections?",
-          "odds": "+1786",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Mauricio Cáceres Cáceres win the next Arequipa mayoral elections?",
           "odds": "+400",
           "params": "Fuente: Polymarket",
@@ -118,12 +112,6 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
-        {
-          "event": "Will Lake Powell's minimum elevation fall below 3,490 ft?",
-          "odds": "+257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will the Democratic Party win the FL-10 House seat?",
           "odds": "-1566",
@@ -161,8 +149,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Åsa Johansson be the next Regional Board Chair of Region Värmland?",
-          "odds": "-426",
+          "event": "Exact Score: CDPJuniorFC 1 - 1 Deportivo Pereira?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "NYSE marketwide circuit breaker before 2027?",
+          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
