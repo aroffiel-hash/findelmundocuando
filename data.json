@@ -1,10 +1,11 @@
 {
-  "lastUpdated": "20 de agosto de 2026 — 05:23 UTC",
+  "lastUpdated": "20 de agosto de 2026 — 06:34 UTC",
   "ticker": [
+    "Australian anger as Israel drops World Central Kitchen deaths case",
     "Exclusive: Pentagon sends ‘political loyalty’ survey to US allies",
     "At least 6 killed in multiple Russian missile strikes across Ukraine",
     "Trump vows ‘economic warfare’ on countries helping Iran",
-    "Russian forces kill 6 in Ukraine as Zelenskyy faces pressure over elections",
+    "Russian forces kill 9 in Ukraine as Zelenskyy faces pressure over elections",
     "Fears grow in Amazon village as Brazilian drug gangs push into Bolivia",
     "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance",
     "Bodycam captures police team falling when deck collapses in Missouri",
@@ -14,8 +15,7 @@
     "Nigeria’s election campaign begins with Tinubu facing a reform test",
     "Iran war live: Trump announces ‘most crushing’ Iran sanctions",
     "US national debt passes record $40 trillion",
-    "‘We do not trust Israeli judiciary’ says Hind Rajab’s grandmother",
-    "Kosovo finds remains of 23 people in mass graves search"
+    "‘We do not trust Israeli judiciary’ says Hind Rajab’s grandmother"
   ],
   "sections": [
     {
@@ -47,7 +47,25 @@
           "moved": "none"
         },
         {
+          "event": "Will Warsh say \"Integrity\" during Jackson Hole speech on August 28?",
+          "odds": "+203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will S&P 500 (SPY) hit (HIGH) $795 Week of August 17 2026?",
           "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
@@ -107,8 +125,20 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Will the highest temperature in San Francisco be between 66-67°F on August 21?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the Republican Party win the AZ-01 House seat?",
           "odds": "+270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "NYSE marketwide circuit breaker before 2027?",
+          "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -131,26 +161,14 @@
           "moved": "none"
         },
         {
-          "event": "NYSE marketwide circuit breaker before 2027?",
-          "odds": "+566",
+          "event": "Will Sunderland AFC win on 2026-08-22?",
+          "odds": "+177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Zach Bryan have a #1 song on the Billboard Hot 100 in 2026?",
           "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will NAC Breda win on 2026-08-22?",
-          "odds": "-354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Flop launch a token by September 30, 2026?",
-          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
