@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "20 de agosto de 2026 — 09:26 UTC",
+  "lastUpdated": "20 de agosto de 2026 — 10:21 UTC",
   "ticker": [
+    "How conflict is making life more expensive for Iranians",
+    "State-backed Israeli settler violence forces West Bank displacement: HRW",
     "Are Hormuz ships more willing to defy Iran or the US? What the data shows",
     "Max Verstappen signs new F1 contract with Red Bull until 2030",
     "Heatwaves and energy crunch: Can Europe withstand a double shock?",
@@ -13,9 +15,7 @@
     "Lionel Messi scores first goal for Inter Miami since father’s death",
     "Bangladesh holds presidential election in first contested vote in 35 years",
     "Australian anger as Israel drops World Central Kitchen deaths case",
-    "Exclusive: Pentagon sends ‘political loyalty’ survey to US allies",
-    "At least 6 killed in multiple Russian missile strikes across Ukraine",
-    "Trump vows ‘economic warfare’ on countries helping Iran"
+    "Exclusive: Pentagon sends ‘political loyalty’ survey to US allies"
   ],
   "sections": [
     {
@@ -31,12 +31,6 @@
         {
           "event": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
           "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "US announces end of Iranian blockade by September 30, 2026?",
-          "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -123,12 +117,6 @@
           "odds": "+1624",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will Marcel Van Hattem win the second-most votes in the 2026 Rio Grande do Sul Senate election?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -136,12 +124,6 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
-        {
-          "event": "Prague 2: Maxim Mrva vs Jan Kumstat",
-          "odds": "+112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will the Republican Party win the AZ-01 House seat?",
           "odds": "+270",
@@ -181,6 +163,12 @@
         {
           "event": "Will Zach Bryan have a #1 song on the Billboard Hot 100 in 2026?",
           "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will NAC Breda win on 2026-08-22?",
+          "odds": "-354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
