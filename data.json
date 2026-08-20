@@ -1,151 +1,88 @@
 {
-  "lastUpdated": "19 de agosto de 2026 — 23:16 UTC",
+  "lastUpdated": "20 de agosto de 2026 — 00:49 UTC",
   "ticker": [
-    "What the social media addiction lawsuit could cost Meta",
-    "“I get along with him very well.”",
-    "Israeli strike on Gaza City police headquarters kills women’s police chief",
-    "Displaced Lebanese watch southern Lebanon’s ‘pilot zones’ from afar",
-    "Israel orders inquiry into killing of 6-year-old Hind Rajab in Gaza",
-    "USS Lincoln woes highlight US Navy limits in prolonged Iran war: Experts",
-    "Spain plans transfer of 500 migrant children from Ceuta to mainland",
-    "Moderna, Merck unveil mRNA-based cancer vaccine that cuts spread",
-    "What’s behind Israel’s latest attack on Syria?",
-    "Seven people, mostly foreign tourists, killed in helicopter crash in Kenya",
-    "582 skeletons, including children discovered in Sri Lanka mass grave",
-    "Protests in Kyiv back ex-defence minister Fedorov’s call for elections",
-    "Violence in the New Syria?",
-    "Trump nominates Heidi Overton to lead US Food and Drug Administration",
-    "Zambia opposition leader to challenge Hichilema election victory in court"
+    "‘Tsunami’ of emigration reshapes Israel’s future, experts warn",
+    "Harry Kane scores goal by winning Golden Shoe for the second time",
+    "Nigeria’s election campaign begins with Tinubu facing a reform test",
+    "Iran war live: Trump announces ‘most crushing’ Iran sanctions",
+    "US national debt passes record $40 trillion",
+    "‘We do not trust Israeli judiciary’ says Hind Rajab’s grandmother",
+    "Kosovo finds remains of at least 23 people in suspected mass graves",
+    "South Korea’s rookie investors lose small fortunes amid AI stocks frenzy",
+    "International body votes to convene emergency meeting over Nicaragua",
+    "Pentagon quizzes NATO allies on political loyalty, documents reveal",
+    "Lebanon hands former Syrian army general to Damascus after arrest warrant",
+    "Trump announces ‘most crushing economic operation ever’ against Iran"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
-          "event": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party candidate win the 2026 Pennsylvania gubernatorial election by 30% or more?",
-          "odds": "+455",
-          "params": "Fuente: Polymarket",
+          "event": "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?",
+          "odds": "+1090",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
           "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
           "odds": "+669",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
+      "rows": [
+        {
+          "event": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
+          "odds": "+733",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 Pennsylvania gubernatorial election by 30% or more?",
+          "odds": "+455",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
           "moved": "none"
         },
         {
           "event": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
           "odds": "+1328",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
         {
           "event": "Will the Republican Party candidate win the 2026 South Carolina Senate election by 10%-15%?",
           "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Democrats win exactly 19 House seats in New York in the 2026 midterm elections?",
-          "odds": "+138",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Rand Paul be the first listed Republican to announce a run for President in 2028?",
-          "odds": "+187",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
           "event": "Will the Republican Party candidate win the 2026 Mississippi Senate election by 5%-10%?",
           "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Mauricio Cáceres Cáceres win the next Arequipa mayoral elections?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
           "event": "Will Radu Burnete be the next Prime Minister of Romania?",
           "odds": "+1823",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
           "event": "Will the Democratic Party candidate win the 2026 Mississippi Senate election?",
           "odds": "+1624",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Exact Score: Qairat FK 3 - 2 RSC Anderlecht?",
-          "odds": "+3025",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the AZ-01 House seat?",
-          "odds": "+270",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?",
-          "odds": "+1090",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: CDPJuniorFC 1 - 1 Deportivo Pereira?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "NYSE marketwide circuit breaker before 2027?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Zach Bryan have a #1 song on the Billboard Hot 100 in 2026?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Getafe CF vs. Real Racing Club: Both Teams to Score",
-          "odds": "+138",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
