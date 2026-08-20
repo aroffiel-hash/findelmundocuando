@@ -1,7 +1,10 @@
 {
-  "lastUpdated": "20 de agosto de 2026 — 04:29 UTC",
+  "lastUpdated": "20 de agosto de 2026 — 05:23 UTC",
   "ticker": [
-    "Russian strike kills 3 in Ukraine as Zelenskyy faces pressure at home",
+    "Exclusive: Pentagon sends ‘political loyalty’ survey to US allies",
+    "At least 6 killed in multiple Russian missile strikes across Ukraine",
+    "Trump vows ‘economic warfare’ on countries helping Iran",
+    "Russian forces kill 6 in Ukraine as Zelenskyy faces pressure over elections",
     "Fears grow in Amazon village as Brazilian drug gangs push into Bolivia",
     "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance",
     "Bodycam captures police team falling when deck collapses in Missouri",
@@ -12,16 +15,19 @@
     "Iran war live: Trump announces ‘most crushing’ Iran sanctions",
     "US national debt passes record $40 trillion",
     "‘We do not trust Israeli judiciary’ says Hind Rajab’s grandmother",
-    "Kosovo finds remains of at least 23 people in suspected mass graves",
-    "South Korea’s rookie investors lose small fortunes amid AI stocks frenzy",
-    "International body votes to convene emergency meeting over Nicaragua",
-    "Pentagon quizzes NATO allies on political loyalty, documents reveal"
+    "Kosovo finds remains of 23 people in mass graves search"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Will Álvaro Dias win the 2026 Rio Grande do Norte gubernatorial election?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
           "odds": "+733",
@@ -71,12 +77,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Mauricio Cáceres Cáceres win the next Arequipa mayoral elections?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Radu Burnete be the next Prime Minister of Romania?",
           "odds": "+1823",
           "params": "Fuente: Polymarket",
@@ -93,6 +93,12 @@
           "odds": "+1624",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will Marcel Van Hattem win the second-most votes in the 2026 Rio Grande do Sul Senate election?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -103,12 +109,6 @@
         {
           "event": "Will the Republican Party win the AZ-01 House seat?",
           "odds": "+270",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Dallas be between 106-107°F on August 20?",
-          "odds": "+488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -125,18 +125,6 @@
           "moved": "none"
         },
         {
-          "event": "Quebec City: Rei Sakamoto vs Luca Van Assche",
-          "odds": "+163",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the lowest temperature in Seoul (Incheon) be 25°C on August 21?",
-          "odds": "+170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Exact Score: CDPJuniorFC 1 - 1 Deportivo Pereira?",
           "odds": "+1011",
           "params": "Fuente: Polymarket",
@@ -144,7 +132,25 @@
         },
         {
           "event": "NYSE marketwide circuit breaker before 2027?",
-          "odds": "+614",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Zach Bryan have a #1 song on the Billboard Hot 100 in 2026?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will NAC Breda win on 2026-08-22?",
+          "odds": "-354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Flop launch a token by September 30, 2026?",
+          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
