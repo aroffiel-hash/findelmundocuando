@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "20 de agosto de 2026 — 02:13 UTC",
+  "lastUpdated": "20 de agosto de 2026 — 03:40 UTC",
   "ticker": [
+    "Russian strike kills 3 in Ukraine as Zelenskyy faces pressure at home",
+    "Fears grow in Amazon village as Brazilian drug gangs push into Bolivia",
     "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance",
     "Bodycam captures police team falling when deck collapses in Missouri",
     "Publisher of US military newspaper resigns over differences with government",
@@ -13,9 +15,7 @@
     "Kosovo finds remains of at least 23 people in suspected mass graves",
     "South Korea’s rookie investors lose small fortunes amid AI stocks frenzy",
     "International body votes to convene emergency meeting over Nicaragua",
-    "Pentagon quizzes NATO allies on political loyalty, documents reveal",
-    "Lebanon hands former Syrian army general to Damascus after arrest warrant",
-    "Trump announces ‘most crushing economic operation ever’ against Iran"
+    "Pentagon quizzes NATO allies on political loyalty, documents reveal"
   ],
   "sections": [
     {
@@ -83,6 +83,12 @@
           "moved": "none"
         },
         {
+          "event": "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Amapá?",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the Democratic Party candidate win the 2026 Mississippi Senate election?",
           "odds": "+1624",
           "params": "Fuente: Polymarket",
@@ -103,12 +109,6 @@
         {
           "event": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
           "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will \"Mutiny\" score at least 50 on the Rotten Tomatoes Tomatometer?",
-          "odds": "+149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -139,6 +139,12 @@
         {
           "event": "Will NAC Breda win on 2026-08-22?",
           "odds": "-354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Flop launch a token by September 30, 2026?",
+          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
