@@ -1,6 +1,7 @@
 {
-  "lastUpdated": "22 de agosto de 2026 — 03:35 UTC",
+  "lastUpdated": "22 de agosto de 2026 — 04:25 UTC",
   "ticker": [
+    "US judge strikes down Trump immigrant visa ban affecting 75 countries",
     "Peru rescues people trapped by landslides on highway for nearly a week",
     "Palestinian-British girl, 6, dies days after family drowned off UK coast",
     "Iranian president says time to end war with US from ‘position of strength’",
@@ -14,8 +15,7 @@
     "US debt tops $40 trillion, Americans left with the bill",
     "Trump: ‘We’re seeing what happens’ on sanctions for Iran",
     "US Vice President JD Vance holds midterm election rally in Ohio hometown",
-    "TikTok settles with US Justice Department for $400m over child privacy laws",
-    "Mexico Governor Ruben Rocha returns to office despite US criminal charges"
+    "TikTok settles with US Justice Department for $400m over child privacy laws"
   ],
   "sections": [
     {
@@ -25,6 +25,12 @@
         {
           "event": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
           "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Borussia Dortmund vs. Bayern Munich: Borussia Dortmund O/U 3.5 Corners",
+          "odds": "-127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -101,14 +107,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Delegado André David win the second-most votes in the 2026 Sergipe Senate election?",
-          "odds": "+420",
+          "event": "Will RNI get the third-most number of seats in the next Moroccan legislative elections?",
+          "odds": "-127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Flavio Bolsonaro win the most votes in the next Brazil presidential election from Amapá?",
-          "odds": "+316",
+          "event": "Will Delegado André David win the second-most votes in the 2026 Sergipe Senate election?",
+          "odds": "+420",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -149,6 +155,12 @@
           "moved": "none"
         },
         {
+          "event": "Will the highest temperature in Beijing be 27°C or below on August 22?",
+          "odds": "+1090",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Ethereal FDV above $50M one day after launch?",
           "odds": "+257",
           "params": "Fuente: Polymarket",
@@ -157,12 +169,6 @@
         {
           "event": "ITF M25 Lesa Men: Nico Hipfl vs Stefano Reitano",
           "odds": "-117",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party win the NC-09 House seat?",
-          "odds": "-426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
