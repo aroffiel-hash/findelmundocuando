@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "22 de agosto de 2026 — 05:20 UTC",
+  "lastUpdated": "22 de agosto de 2026 — 06:27 UTC",
   "ticker": [
+    "China’s new moon mission could unlock secret of lunar ice: Why that matters",
+    "‘It was a tsunami’: Floods leave death trail in India’s Assam",
     "Inundated Philippine communities seek answers over flood control funds",
     "Palestinian teen shot and killed in West Bank attack, UN responds",
     "Nigeria and the Sahel: A growing security divide",
@@ -13,9 +15,7 @@
     "California lawmaker overcomes pro-Israel spending to win special election",
     "Guyana’s Rodrigues Birkett leads informal poll in race to be next UN leader",
     "Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall",
-    "Iran war live: Trump says he views Strait of Hormuz as ‘American territory’",
-    "Myanmar military bombing kills 14 at Buddhist monastery, opposition reports",
-    "Editor of US newspaper Stars and Stripes reportedly fired under Trump"
+    "Iran war live: Trump says he views Strait of Hormuz as ‘American territory’"
   ],
   "sections": [
     {
@@ -45,12 +45,6 @@
           "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -61,6 +55,12 @@
         {
           "event": "Will Japan Q3 GDP growth (annualized) be between -0.8% and 0.0%?",
           "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Quebec City: Hugo Gaston vs Luca Van Assche",
+          "odds": "+163",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -95,12 +95,6 @@
           "moved": "none"
         },
         {
-          "event": "Will RNI get the third-most number of seats in the next Moroccan legislative elections?",
-          "odds": "+108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Raphaël Glucksmann be on the ballot for the 2027 French presidential election?",
           "odds": "-185",
           "params": "Fuente: Polymarket",
@@ -109,6 +103,12 @@
         {
           "event": "Will Marcelo Castro win the second-most votes in the 2026 Piauí Senate election?",
           "odds": "+127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Delegado André David win the second-most votes in the 2026 Sergipe Senate election?",
+          "odds": "+420",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -137,20 +137,8 @@
           "moved": "none"
         },
         {
-          "event": "ITF W35 Bistrita Women: Jessica Pieri vs Adrienn Nagy",
-          "odds": "+104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?",
           "odds": "+1090",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Taipei be 33°C on August 23?",
-          "odds": "+525",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -163,6 +151,18 @@
         {
           "event": "Exact Score: CDPJuniorFC 1 - 1 Deportivo Pereira?",
           "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Ethereal FDV above $50M one day after launch?",
+          "odds": "+257",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Suwon FC win on 2026-08-22?",
+          "odds": "-177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
