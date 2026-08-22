@@ -1,6 +1,7 @@
 {
-  "lastUpdated": "22 de agosto de 2026 — 02:11 UTC",
+  "lastUpdated": "22 de agosto de 2026 — 03:35 UTC",
   "ticker": [
+    "Peru rescues people trapped by landslides on highway for nearly a week",
     "Palestinian-British girl, 6, dies days after family drowned off UK coast",
     "Iranian president says time to end war with US from ‘position of strength’",
     "California lawmaker overcomes pro-Israel spending to win special election",
@@ -14,8 +15,7 @@
     "Trump: ‘We’re seeing what happens’ on sanctions for Iran",
     "US Vice President JD Vance holds midterm election rally in Ohio hometown",
     "TikTok settles with US Justice Department for $400m over child privacy laws",
-    "Mexico Governor Ruben Rocha returns to office despite US criminal charges",
-    "One killed, three wounded in sword attack at Swedish high school"
+    "Mexico Governor Ruben Rocha returns to office despite US criminal charges"
   ],
   "sections": [
     {
@@ -49,6 +49,18 @@
         {
           "event": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
           "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will Japan Q3 GDP growth (annualized) be between -0.8% and 0.0%?",
+          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -119,6 +131,12 @@
           "moved": "none"
         },
         {
+          "event": "Will Jack Grealish stay at Manchester City?",
+          "odds": "-181",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Manchester City FC win on 2026-08-28?",
           "odds": "-233",
           "params": "Fuente: Polymarket",
@@ -139,12 +157,6 @@
         {
           "event": "ITF M25 Lesa Men: Nico Hipfl vs Stefano Reitano",
           "odds": "-117",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Jack Grealish stay at Manchester City?",
-          "odds": "+135",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
