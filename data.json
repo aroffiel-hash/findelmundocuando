@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "22 de agosto de 2026 — 18:19 UTC",
+  "lastUpdated": "22 de agosto de 2026 — 19:17 UTC",
   "ticker": [
+    "Israel, Turkiye and the new regional reordering",
+    "Swedish police identify 17-year-old girl as victim in school sword attack",
+    "Armed men kidnap dozens in attacks on Nigerian villages",
     "Israel’s Chief Rabbi says Palestinians are not a people and have no rights",
     "Trump seeks to block the BBC’s attempt to subpoena Ivanka Trump, Trump Jr",
     "‘Not a small issue’: People deported by US to Liberia face uncertain future",
@@ -12,10 +15,7 @@
     "Elche vs Barcelona: La Liga – prediction, team news, lineups",
     "Walk-In “Human Fridges” are Japan’s newest heatwave weapon",
     "Did DOGE cuts make America’s food safety problem worse?",
-    "Settlers target Palestinian homes in Occupied West Bank’s Area B",
-    "Over 100 ex-diplomats urge France, UK to sanction Israel over Palestine",
-    "Israeli drone strike on ‘civilian vehicle’ injures several in Syria",
-    "What did war with the US reveal about Iran’s weapons capabilities?"
+    "Settlers target Palestinian homes in Occupied West Bank’s Area B"
   ],
   "sections": [
     {
@@ -31,12 +31,6 @@
         {
           "event": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
           "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: Borussia Dortmund 2 - 1 Bayern Munich?",
-          "odds": "+1983",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -63,6 +57,12 @@
           "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -71,6 +71,12 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
+          "event": "Gaston vs. Assche: Match O/U 22.5",
+          "odds": "+104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Japan Q3 GDP growth (annualized) be between -0.8% and 0.0%?",
           "odds": "+614",
           "params": "Fuente: Polymarket",
@@ -78,7 +84,7 @@
         },
         {
           "event": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-          "odds": "-212",
+          "odds": "-222",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -179,8 +185,8 @@
           "moved": "none"
         },
         {
-          "event": "Bears vs. Bengals",
-          "odds": "-117",
+          "event": "Will there be a run scored in the first inning?: Athletics vs. Houston Astros",
+          "odds": "+104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
