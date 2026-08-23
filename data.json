@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "23 de agosto de 2026 — 06:29 UTC",
+  "lastUpdated": "23 de agosto de 2026 — 07:27 UTC",
   "ticker": [
+    "Infantino defies FIFA vice president, makes appearance in the Caribbean",
+    "Serena Williams teams up with Carlos Alcaraz in US Open mixed doubles",
+    "Starc takes 10 as Australia hand Bangladesh innings defeat in second Test",
+    "Pegula dethrones Swiatek to book Cincinnati final against Gauff",
     "Kazakhstan parliamentary elections begin: What’s at stake?",
     "Ex-Colombian president: Restoring Israeli ties applauds Gaza genocide",
     "‘You just can’t trust Trump’: Canadian premiers fire back in trade war",
@@ -11,11 +15,7 @@
     "Iran war live: Tehran warns neighbours against joining US economic war",
     "Iran threatens countries that join US ‘economic D-Day’",
     "Iran warns of retaliation against countries joining US ‘economic war’",
-    "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds",
-    "Real Madrid beat Espanyol 2-1 in Jose Mourinho’s first game on return",
-    "Open-air cinema brings movie nights back to Khartoum",
-    "Israeli army and settlers injure several Palestinians across West Bank",
-    "US Postal Service shares mail-in ballot restrictions despite court ruling"
+    "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds"
   ],
   "sections": [
     {
@@ -41,12 +41,6 @@
           "moved": "none"
         },
         {
-          "event": "Will USD be between 2.0M and 2.1M Iranian rials on August 31?",
-          "odds": "+599",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
           "odds": "+1011",
           "params": "Fuente: Polymarket",
@@ -63,6 +57,12 @@
           "odds": "+170",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -70,12 +70,6 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
-        {
-          "event": "S&P 500 (SPX) Up or Down on August 24?",
-          "odds": "-108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Japan Q3 GDP growth (annualized) be between -0.8% and 0.0%?",
           "odds": "+614",
