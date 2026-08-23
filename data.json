@@ -1,169 +1,106 @@
 {
-  "lastUpdated": "23 de agosto de 2026 — 11:14 UTC",
+  "lastUpdated": "23 de agosto de 2026 — 12:23 UTC",
   "ticker": [
+    "Can Iran retaliate against countries that join US ‘economic war’?",
+    "Sydney Marathon organisers not running away from ‘unfortunate’ medal error",
+    "Explosion injures 13 in Taiwan",
+    "Israel’s war on Gaza forces Palestinians to rely on ‘Stone Age’ toilets",
+    "Mourinho decries alleged bullying of Vinicius in Real’s win at Espanyol",
+    "Syria’s foreign minister says door open for diplomacy with Israel",
+    "Far-right provocateur Jake Lang arrested after Minneapolis riot",
     "South Africa’s former boxing champion Tete shot dead outside home",
     "How the deadliest Bundibugyo Ebola outbreak can be stopped",
     "Israeli air strike near Gaza refugee camp kills one person and injures two",
     "37 injured as magnitude 5.9 earthquake strikes eastern Japan",
-    "Where water conflicts pose the biggest threat in 2026",
-    "Israeli wounded in occupied West Bank stabbing",
-    "Flooding across Caracas, Venezuela, after heavy rains",
-    "Photos: Russia celebrates National Flag Day amid war and tensions with the West",
-    "DR Congo, M23 rebels agree on roadmap for peace talks",
-    "Kazakhstan holds parliamentary election expected to cement president’s grip",
-    "Infantino defies FIFA vice president, makes appearance in the Caribbean",
-    "Serena Williams teams up with Carlos Alcaraz in US Open mixed doubles",
-    "Starc takes 10 as Australia hand Bangladesh innings defeat in second Test",
-    "Pegula dethrones Swiatek to book Cincinnati final against Gauff",
-    "Kazakhstan parliamentary elections begin: What’s at stake?"
+    "Israeli wounded in occupied West Bank stabbing"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
-          "event": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
+          "event": "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?",
+          "odds": "+1090",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
           "event": "US-Iran Final Nuclear Deal by November 30, 2026?",
           "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party candidate win the 2026 Pennsylvania gubernatorial election by 30% or more?",
-          "odds": "+455",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
           "moved": "none"
         },
         {
           "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
           "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Trump issues Iran Sanctions Executive Order by Aug 28?",
-          "odds": "+170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Forza Horizon 6 win Best Audio Design at the 2026 Game Awards?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
       "rows": [
         {
-          "event": "Vilnius FK Zalgiris vs. Dziugas: Both Teams to Score",
-          "odds": "-132",
-          "params": "Fuente: Polymarket",
+          "event": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
+          "odds": "+733",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 Pennsylvania gubernatorial election by 30% or more?",
+          "odds": "+455",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
+      "rows": [
+        {
+          "event": "Will Trump post \"Investigation\" on Truth Social this week?",
+          "odds": "-233",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump say \"Boom\" or \"Booming\" this week?",
+          "odds": "-233",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
         {
           "event": "Will Radu Burnete be the next Prime Minister of Romania?",
           "odds": "+1198",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
           "event": "Will the Republican Party candidate win the 2026 South Carolina Senate election by 10%-15%?",
           "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Rand Paul be the first listed Republican to announce a run for President in 2028?",
-          "odds": "+187",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
           "event": "Will the Republican Party candidate win the 2026 Mississippi Senate election by 5%-10%?",
           "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Raphaël Glucksmann be on the ballot for the 2027 French presidential election?",
-          "odds": "-185",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
           "event": "Will Darline Graham Nordone win Horry County in the South Carolina Special Senate Primary runoff?",
           "odds": "-2399",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Exact Score: Getafe CF 1 - 2 Real Racing Club?",
-          "odds": "+1594",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "XRP Up or Down - August 23, 11AM ET",
-          "odds": "-112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will OpenAI’s valuation be between $900B and $1.00T at the end of September 2026?",
-          "odds": "+122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Jeju SK FC win on 2026-08-25?",
-          "odds": "+177",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will G2 Esports Win the Shortest Game in LEC 2026 Summer Split?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?",
-          "odds": "+1090",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Manchester City FC to score first vs. AFC Bournemouth?",
-          "odds": "-203",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: CDPJuniorFC 1 - 1 Deportivo Pereira?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
