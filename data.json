@@ -1,6 +1,7 @@
 {
-  "lastUpdated": "23 de agosto de 2026 — 02:21 UTC",
+  "lastUpdated": "23 de agosto de 2026 — 03:43 UTC",
   "ticker": [
+    "Canada to hit US with retaliatory tariffs as trade war escalates",
     "Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid",
     "Iran war live: Tehran warns neighbours against joining US economic war",
     "Iran threatens countries that join US ‘economic D-Day’",
@@ -14,8 +15,7 @@
     "Why is Israel building new illegal settlements?",
     "More than 200,000 newly displaced in Sudan’s Kordofan region",
     "Israeli strikes kill two and injure others as Gaza attacks continue",
-    "Putin warns Ukraine has opened ‘Pandora’s box’, rejects peace proposals",
-    "Envoy says Israel did not give the US notice before strikes on Syrian base"
+    "Putin warns Ukraine has opened ‘Pandora’s box’, rejects peace proposals"
   ],
   "sections": [
     {
@@ -125,12 +125,6 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Minnesota Twins winning after 5 innings?",
-          "odds": "+104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will OpenAI’s valuation be between $900B and $1.00T at the end of September 2026?",
           "odds": "+122",
           "params": "Fuente: Polymarket",
@@ -169,6 +163,12 @@
         {
           "event": "Will the Republicans win the South Carolina governor race in 2026?",
           "odds": "-1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the NC-09 House seat?",
+          "odds": "-426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
