@@ -1,6 +1,7 @@
 {
-  "lastUpdated": "23 de agosto de 2026 — 20:14 UTC",
+  "lastUpdated": "23 de agosto de 2026 — 21:14 UTC",
   "ticker": [
+    "Is Israel about to split the occupied West Bank in half?",
     "Severe winds toss four aircraft across Italian airport tarmac",
     "Photos: IndyCars speed past Washington landmarks as part of Freedom 250",
     "Gaza’s hospitals are running out of oxygen as healthcare nears collapse",
@@ -14,14 +15,19 @@
     "Iran war: Top US lawmaker says Republicans can ‘absolutely’ win midterms",
     "Landfill collapse in Guinea kills at least 30 people",
     "Photos: Ukraine celebrates National Flag Day",
-    "Elche vs Barcelona LIVE: La Liga",
-    "French President Macron to host Saudi Crown Prince MBS in Paris for talks"
+    "Elche vs Barcelona LIVE: La Liga"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Will a 1+ Year Enrichment Moratorium be in a US-Iran deal in 2026?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the Republican Party candidate win the 2026 New Hampshire gubernatorial election by 9%-12%?",
           "odds": "+733",
@@ -55,12 +61,6 @@
         {
           "event": "Will Forza Horizon 6 win Best Audio Design at the 2026 Game Awards?",
           "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
-          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -99,12 +99,6 @@
           "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will FDP win the fourth-most seats in the 2026 Berlin state elections?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -121,6 +115,12 @@
         {
           "event": "Will the number of Democratic House members who retire in 2026 be between 24 and 27 inclusive?",
           "odds": "+354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Donald Trump visit Portugal in 2026?",
+          "odds": "+203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -151,12 +151,6 @@
         {
           "event": "Will the Republicans win the South Carolina governor race in 2026?",
           "odds": "-1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Zelenskyy post 100-119 posts from August 21 to August 28, 2026?",
-          "odds": "+194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
