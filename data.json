@@ -1,6 +1,7 @@
 {
-  "lastUpdated": "23 de agosto de 2026 — 04:29 UTC",
+  "lastUpdated": "23 de agosto de 2026 — 05:22 UTC",
   "ticker": [
+    "Ex-Colombian president: Restoring Israeli ties applauds Gaza genocide",
     "‘You just can’t trust Trump’: Canadian premiers fire back in trade war",
     "In rural Chad, solar kiosks bring healthcare closer",
     "Chinese robot beats Usain Bolt’s 100m world record at humanoid games",
@@ -8,14 +9,13 @@
     "Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid",
     "Iran war live: Tehran warns neighbours against joining US economic war",
     "Iran threatens countries that join US ‘economic D-Day’",
-    "Iran warns nearby nations against joining US ‘economic war’ efforts",
+    "Iran warns of retaliation against countries joining US ‘economic war’",
     "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds",
     "Real Madrid beat Espanyol 2-1 in Jose Mourinho’s first game on return",
     "Open-air cinema brings movie nights back to Khartoum",
     "Israeli army and settlers injure several Palestinians across West Bank",
     "US Postal Service shares mail-in ballot restrictions despite court ruling",
-    "Iran grants permission for some Iraqi oil tankers to pass through Hormuz",
-    "Why is Israel building new illegal settlements?"
+    "Iran grants permission for some Iraqi oil tankers to pass through Hormuz"
   ],
   "sections": [
     {
@@ -41,20 +41,26 @@
           "moved": "none"
         },
         {
+          "event": "Will USD be between 2.0M and 2.1M Iranian rials on August 31?",
+          "odds": "+599",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
           "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Forza Horizon 6 win Best Audio Design at the 2026 Game Awards?",
-          "odds": "+900",
+          "event": "Russia strikes another vessel in the Black Sea by August 21, 2026?",
+          "odds": "-149",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
-          "odds": "+1328",
+          "event": "Will Forza Horizon 6 win Best Audio Design at the 2026 Game Awards?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -64,6 +70,12 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
+        {
+          "event": "S&P 500 (SPX) Up or Down on August 24?",
+          "odds": "-108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Japan Q3 GDP growth (annualized) be between -0.8% and 0.0%?",
           "odds": "+614",
@@ -167,8 +179,8 @@
           "moved": "none"
         },
         {
-          "event": "Will the Republican Party win the NC-09 House seat?",
-          "odds": "-426",
+          "event": "Will Apple be the second-largest company in the world by market cap on September 30?",
+          "odds": "-334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
