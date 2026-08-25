@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "25 de agosto de 2026 — 14:37 UTC",
+  "lastUpdated": "25 de agosto de 2026 — 15:35 UTC",
   "ticker": [
+    "Qatar says US sanctions on Iran are unilateral",
+    "US launches Economic war on Iran",
+    "One year since Gaza journalist killed by Israel",
+    "No, the Democratic Party is not shifting on Israel",
+    "Root ‘hacked off’ by England cricket team after police handcuff Carse",
+    "Trump floats renaming Lake Ontario to Lake America during Canada trade war",
+    "China says will safeguard its own interests as US expands Iran sanctions",
     "Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?",
     "US military transport plane arrives in Moscow in rare occurrence",
     "How can a heavily indebted football club afford Mo Salah?",
@@ -8,14 +15,7 @@
     "Real Madrid’s Mourinho ‘happy’ with transfers despite Rodri miss",
     "How Israel’s Netanyahu weaponises religion in his war rhetoric",
     "Popcorn and cartoons: A Gaza cinema gives girls a brief escape from war",
-    "Gaza child breaks down in tears after an Israeli threat over kites",
-    "Two killed, refinery on fire in Russia’s Krasnodar after drone attack",
-    "‘We can’t breathe’: Indonesians battle wildfire haze",
-    "Israeli forces raid UNRWA training centre in occupied East Jerusalem",
-    "What to expect in elections in South Carolina, Georgia and Oklahoma",
-    "Tottenham sign Brazilian winger Savinho from Manchester City",
-    "UK to back Ukraine with missile blueprints amid Russia-Ukraine strikes",
-    "How water becomes a weapon of war"
+    "Gaza child breaks down in tears after an Israeli threat over kites"
   ],
   "sections": [
     {
@@ -70,6 +70,12 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
+        {
+          "event": "Natural Gas (NG) Up or Down on August 25?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the US federal government take a stake in The Boeing Company?",
           "odds": "+1150",
@@ -131,8 +137,26 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Will the highest temperature in Qingdao be 35°C or higher on August 27?",
+          "odds": "+2841",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will OpenAI be the third-best Code Arena | WebDev AI lab at the end of September 2026?",
           "odds": "+852",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Dallas be between 100-101°F on August 26?",
+          "odds": "+177",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Houthis successfully target shipping on August 26, 2026?",
+          "odds": "+920",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -149,12 +173,6 @@
           "moved": "none"
         },
         {
-          "event": "US Open, Qualification WTA: Janae Preston vs Nao Hibino",
-          "odds": "+170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the Republican Party win the OR-03 House seat?",
           "odds": "+2400",
           "params": "Fuente: Polymarket",
@@ -163,18 +181,6 @@
         {
           "event": "Naim Qassem out as Hezbollah’s secretary-general by December 31, 2026?",
           "odds": "+1090",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: CDPJuniorFC 1 - 1 Deportivo Pereira?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will a hurricane make landfall in New Jersey by November 30, 2026?",
-          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
