@@ -1,10 +1,13 @@
 {
-  "lastUpdated": "25 de agosto de 2026 — 08:33 UTC",
+  "lastUpdated": "25 de agosto de 2026 — 09:27 UTC",
   "ticker": [
+    "‘Enough is enough’: Kenya nurses strike over pay and working conditions",
+    "Nvidia, Supermicro employees charged over export of AI servers to China",
+    "Pakistan says significant progress made in talks on Iran-US war",
     "Rohingya refugees protest, nine years after exodus to Bangladesh",
     "Global ocean temperatures hit record high as El Nino intensifies",
     "Thai vendor confronts Israeli tourists, raises Palestinian flag",
-    "Hasina spat stalls Bangladesh-India reset. What would break the deadlock?",
+    "Bangladesh-India reset stalls over Hasina: What would break the deadlock?",
     "Federer to play tennis at US Open but rules out Williams-like return",
     "The Iran war is bringing cyberwarfare into critical infrastructure",
     "Fulham vs Chelsea: Alonso starts new era with thrilling 3–2 win",
@@ -12,10 +15,7 @@
     "Libya factions draft initial election pact amid lingering mistrust",
     "Australia’s music charts ban AI-made songs amid backlash over Madonna cover",
     "Two US carrier groups in Middle East strain navy resources",
-    "France and Saudi Arabia plan Dragon Ball Z theme park near Paris",
-    "Syrian president thanks nation for getting off US state terror list",
-    "France, Saudi Arabia agree on $7bn theme park project near Paris",
-    "Rare tornado near Carcassonne in France causes damage and injuries"
+    "France and Saudi Arabia plan Dragon Ball Z theme park near Paris"
   ],
   "sections": [
     {
@@ -57,12 +57,6 @@
           "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -70,6 +64,12 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
+        {
+          "event": "WTI Crude Oil (WTI) closes above $83 on August 25?",
+          "odds": "-222",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the US federal government take a stake in The Boeing Company?",
           "odds": "+1150",
@@ -95,12 +95,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Grüne win between 17% and 20% of all valid second votes?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Rand Paul be the first listed Republican to announce a run for President in 2028?",
           "odds": "+187",
           "params": "Fuente: Polymarket",
@@ -119,8 +113,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Rigotto win the second-most votes in the 2026 Rio Grande do Sul Senate election?",
-          "odds": "+566",
+          "event": "Will Trump's approval rating be between 37.5 and 37.9 on August 28, 2026?",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Riult Rivera Gutiérrez win the 2027 Colima Governor Election?",
+          "odds": "+646",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
