@@ -1,175 +1,88 @@
 {
-  "lastUpdated": "26 de agosto de 2026 — 11:22 UTC",
+  "lastUpdated": "26 de agosto de 2026 — 12:36 UTC",
   "ticker": [
-    "Manchester City sign teenage Moroccan football star Ayyoub Bouaddi",
+    "Iran, Oman agree on temporary Hormuz route: What we know",
+    "Dead whale washes ashore on beach in Mexico",
+    "Why India is sharing missile secrets with its private sector",
+    "Mother and daughter detained by ICE in hospital after car crash",
+    "Photos: Thousands join Spain’s La Tomatina festival for epic tomato battle",
     "Infantino has no future at FIFA, says European Leagues chief",
     "China’s Xi to visit Kyrgyzstan, Egypt",
     "Is Japan trying to build bridges with China after Taiwan spat?",
     "One US dollar now costs 2 million rials in Iran, and here’s what it can buy",
     "At least eight killed, hundreds missing after Nepal flash flood",
-    "Ukrainian drone attacks kill 3 as fire destroys Wildberries warehouse",
-    "The Bulgarian village that fears becoming an Iranian target",
-    "Bodo return to Champions League, Azerbaijan’s Sabah deny Israeli Beer-Sheva",
-    "US immigration agents arrested more than 49,500 people in July",
-    "Haiti gang raid death toll rises to 47 as more than 50 kidnapped, says UN",
-    "Thousands in Japan are pulling this historic castle back into place",
-    "Lindsey Graham’s sister up for election to his US Senate seat",
-    "Trump’s Korean gambit exposes a shifting East Asian order",
-    "Brighton & Hove Albion sign Algerian left-back Jaouen Hadjam"
+    "Ukrainian air attacks kill three in Russia as Kyiv steps up drone campaign",
+    "The Bulgarian village that fears becoming an Iranian target"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
+      "rows": [
+        {
+          "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
+          "odds": "+1011",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
       "rows": [
         {
           "event": "Will the Republican Party candidate win the 2026 Nebraska gubernatorial election by 25%-30%?",
           "odds": "+1328",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
           "moved": "none"
         },
         {
           "event": "Will the Democratic Party candidate win the 2026 Pennsylvania gubernatorial election by 30% or more?",
           "odds": "+455",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
           "moved": "none"
         },
         {
-          "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Situational Awareness Anthropic sale confirmed by August 31?",
-          "odds": "+3125",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Forza Horizon 6 win Best Audio Design at the 2026 Game Awards?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
+          "event": "Trump meets with Putin by December 31?",
+          "odds": "-108",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         },
         {
           "event": "Will the Democratic Party candidate win the 2026 New Hampshire gubernatorial election by 3%-6%?",
           "odds": "+1328",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
       "rows": [
-        {
-          "event": "Will the US federal government take a stake in The Boeing Company?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will Josh Shapiro announce a Presidential run before 2028?",
-          "odds": "-233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Radu Burnete be the next Prime Minister of Romania?",
-          "odds": "+1198",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Rand Paul be the first listed Republican to announce a run for President in 2028?",
-          "odds": "+187",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Bernie Sanders announce a Presidential run before 2028?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party candidate win the 2026 SD-AL House election by 0%-10%?",
-          "odds": "+300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will François Asselineau be on the ballot for the 2027 French presidential election?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Democrats win exactly 4 House seats in Wisconsin in the 2026 midterm elections?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will Rafael Leao join Chelsea?",
-          "odds": "+843",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will South Africa win in regulation?",
-          "odds": "-455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Donald Trump visit Portugal in 2026?",
           "odds": "+203",
-          "params": "Fuente: Polymarket",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "rows": [
+        {
+          "event": "Will Radu Burnete be the next Prime Minister of Romania?",
+          "odds": "+1198",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
-          "event": "Will the Republican Party win the OR-03 House seat?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Maura Sullivan be the Democratic nominee for NH-01?",
-          "odds": "+132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: CDPJuniorFC 1 - 1 Deportivo Pereira?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will a hurricane make landfall in New Jersey by November 30, 2026?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the White House call a full lid by 6:30 PM on August 26?",
-          "odds": "-3233",
-          "params": "Fuente: Polymarket",
+          "event": "Will Benedita da Silva win the most votes in the 2026 Rio de Janeiro Senate election?",
+          "odds": "-149",
+          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
