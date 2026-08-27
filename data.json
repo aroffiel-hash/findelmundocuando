@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "27 de agosto de 2026 — 21:32 UTC",
+  "lastUpdated": "27 de agosto de 2026 — 23:27 UTC",
   "ticker": [
+    "Haiti police confront public frustration after deadly gang attack kills 47",
+    "Bosnian Serb General Ratko Mladic has died",
+    "Barcelona scraps Spain World Cup tribute amid fans’ Catalan flag support",
+    "Raphinha scores again as Barcelona ease past Athletic Club in La Liga",
+    "Crystal Palace vs Man City: Premier League – prediction, teams, lineups",
     "Canada welcomes US shift on French language discoverability in trade talks",
     "Video: Trump signs order to re-name Lake Ontario as Lake America",
     "US Postal Service says mail-in ballot restrictions now in effect",
@@ -10,55 +15,149 @@
     "Trump executive order bans some foreign equipment in US energy grid",
     "Zambia opposition leader questioned over ‘treason’ amid election fallout",
     "Video: Israeli strike kills newlywed woman in south Lebanon",
-    "US President Trump signs order renaming Lake Ontario to ‘Lake America’",
-    "Trade war between US and Canada could cost 90,000 jobs",
-    "Nigeria’s football federation chief resigns amid corruption allegations"
+    "US President Trump signs order renaming Lake Ontario to ‘Lake America’"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
-      "rows": [
-        {
-          "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
-          "odds": "+900",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Will the Democratic Party candidate win the 2026 Rhode Island gubernatorial election by 25%-30%?",
           "odds": "+669",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Democratic Party candidate win the 2026 Pennsylvania gubernatorial election by 30% or more?",
           "odds": "+455",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will Donald Trump visit Portugal in 2026?",
-          "odds": "+203",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Will the US federal government take a stake in The Boeing Company?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Trump pardon anyone by October 31?",
-          "odds": "+156",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Will Mexico GDP growth in Q3 2026 be between 2.0% and 2.5%?",
+          "odds": "+222",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Josh Shapiro announce a Presidential run before 2028?",
+          "odds": "-233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Bernie Sanders announce a Presidential run before 2028?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Rand Paul be the first listed Republican to announce a run for President in 2028?",
+          "odds": "+187",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party candidate win the 2026 SC-04 House election by 0%-5%?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Sweden Democrats (SD) win the third most seats in the 2026 Swedish parliamentary election?",
+          "odds": "+212",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Democrats win exactly 4 House seats in Wisconsin in the 2026 midterm elections?",
+          "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party candidate win the 2026 VA-03 House election?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will Bristol City FC win on 2026-08-29?",
+          "odds": "+127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will ISM Manufacturing PMI be between 51.0 and 51.9 in August?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Donald Trump visit Portugal in 2026?",
+          "odds": "+203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the lowest temperature in San Francisco be between 62-63°F on August 27?",
+          "odds": "+104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the UT-03 House seat?",
+          "odds": "-1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: CDPJuniorFC 1 - 1 Deportivo Pereira?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will a hurricane make landfall in New Jersey by November 30, 2026?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Nikita Tszyu vs. Ben Mahoney",
+          "odds": "-112",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
