@@ -1,169 +1,76 @@
 {
-  "lastUpdated": "27 de agosto de 2026 — 02:46 UTC",
+  "lastUpdated": "27 de agosto de 2026 — 06:32 UTC",
   "ticker": [
-    "Federal Reserve Governor Lisa Cook denounces Trump’s mortgage fraud claims",
-    "Brazil sues chat platform Discord over failure to protect child users",
-    "US labels Palestine Action a terror group, founder says ‘that’s rich’",
-    "Northern Nigeria’s female basketball players chase bigger dreams",
-    "At least 12 dead, 54 injured as wildfires ravage northeastern Algeria",
-    "Pro-Israel Democrats picked for top roles on key US House committee",
-    "Is Mark Ruffalo anti-Semitic?",
-    "Construction worker documents moment he survives Nepal mudslide",
-    "Syria’s president makes first Visa payment after sanctions removal",
-    "Tim Curry, star of The Rocky Horror Picture Show, dies at age 80",
-    "Iran war live: Qatar PM to visit Tehran; Trump ‘not in a hurry’ over talks",
-    "World Health Organization says Ebola outbreak in Uganda is over",
-    "Spain’s tomato food fight leaves thousands covered in pulp",
-    "Barcelona vs Athletic Club: La Liga – prediction, teams, lineups",
-    "US judge declines Minnesota’s effort to force Texas to extradite ICE agent"
+    "Palestinian children return to school under threat of Israel demolition",
+    "Sunken ship sparks fight on Israel’s right over militia’s violent legacy",
+    "Czech pair Karolina Muchova and Jakub Mensik win US Open mixed doubles",
+    "Nepal-Tibet floods live: Over 160 dead; 1,400 missing; rescue continues",
+    "Wildfires on Indonesia’s Borneo island turn the air toxic",
+    "Nepal-Tibet floods: What happened, what caused them and who is missing?",
+    "Twelve dead as over 150 wildfires rage across northeastern Algeria",
+    "Israel continues attacks on Syria, Lebanon despite US push for diplomacy",
+    "Fury and grief as parents of Pakistan infant fire victims demand answers",
+    "Qatar’s prime minister to visit Tehran, seeking to revive US-Iran talks",
+    "Palestinians mourn ‘Camel of Hardship’ artist Sliman Mansour",
+    "Federal Reserve Governor Lisa Cook denounces Trump’s mortgage fraud claims"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
+      "rows": [
+        {
+          "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
+          "odds": "+900",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
       "rows": [
         {
           "event": "Will the Republican Party candidate win the 2026 Nebraska gubernatorial election by 25%-30%?",
           "odds": "+1328",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
           "moved": "none"
         },
         {
           "event": "Will the Democratic Party candidate win the 2026 Pennsylvania gubernatorial election by 30% or more?",
           "odds": "+455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Digger win Best Makeup and Hairstyling at the 99th Academy Awards?",
-          "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Situational Awareness Anthropic sale confirmed by August 31?",
-          "odds": "+3125",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
       "rows": [
         {
-          "event": "Will the US federal government take a stake in The Boeing Company?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
+          "event": "Will Donald Trump visit Portugal in 2026?",
+          "odds": "+203",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump pardon anyone by October 31?",
+          "odds": "+156",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
         {
           "event": "Will the Republican Party candidate win the 2026 Michigan Senate election by 0%-3%?",
           "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Josh Shapiro announce a Presidential run before 2028?",
-          "odds": "-233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Rand Paul be the first listed Republican to announce a run for President in 2028?",
-          "odds": "+187",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Bernie Sanders announce a Presidential run before 2028?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will François Asselineau be on the ballot for the 2027 French presidential election?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Augusto Cury finish in third place in the first round of the 2026 Brazilian presidential election?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will SPD win the most seats in the 2026 Mecklenburg-Vorpommern parliamentary elections?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will Tottenham Hotspur FC win on 2026-09-05?",
-          "odds": "+163",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Shanghai be 33°C on August 28?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Bristol City FC win on 2026-08-29?",
-          "odds": "+127",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will ISM Manufacturing PMI be between 51.0 and 51.9 in August?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will South Africa win in regulation?",
-          "odds": "-455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Donald Trump visit Portugal in 2026?",
-          "odds": "+203",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Chicago White Sox vs. Minnesota Twins",
-          "odds": "+117",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Tel Aviv be 32°C on August 28?",
-          "odds": "+566",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
