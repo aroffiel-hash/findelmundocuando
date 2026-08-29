@@ -1,76 +1,175 @@
 {
-  "lastUpdated": "29 de agosto de 2026 — 16:00 UTC",
+  "lastUpdated": "29 de agosto de 2026 — 18:06 UTC",
   "ticker": [
+    "Turkiye summons Ukraine ambassador over Black Sea attacks",
+    "Israeli army arrests six Palestinians after settler violence in West Bank",
+    "Niger military says it is regaining control after attempted mutiny",
+    "Russian strike on a munitions depot triggers deadly blasts near Kyiv",
+    "RSS chief’s visit to US denounced as ‘goodwill tour’ for Hindu nationalism",
     "Israeli attacks across Gaza kill two people, hit hospital supply warehouse",
+    "Man United vs Ipswich Town: Premier League – preview, team news, prediction",
+    "Liverpool net late in Forest draw to avoid Anfield debut defeat for Iraola",
     "People stranded for days on dilapidated Nigerian highway",
     "Korea divided: A sister’s long wait and a defector’s bid to save his mother",
     "Mladic died a happy man. He won",
     "Israeli settlers surround Palestinian home in occupied West Bank’s Qusra",
     "Chinese rescuers race to reach mudslide survivors in Nepal-China border",
     "Israel raids, shutters UNRWA lifeline for Palestinian refugees",
-    "UNRWA’s first and last vocational college in East Jerusalem is under threat",
-    "Gaza farmer returns to the grapevines he couldn’t bear to abandon",
-    "Indonesia sets up shelters for babies, children affected by wildfire smoke",
-    "Formula One champion Lando Norris extends McLaren contract until 2030",
-    "Zimbabwe minibus carrying church members crashes, killing at least 27"
+    "UNRWA’s first and last vocational college in East Jerusalem is under threat"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
-          "odds": "+900",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
+          "event": "Will Fjord win Best International Feature Film at the 99th Academy Awards?",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Strait of Hormuz traffic returns to normal by December 31?",
-          "odds": "+222",
-          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
-      "rows": [
-        {
           "event": "Will the Democratic Party candidate win the 2026 Rhode Island gubernatorial election by 25%-30%?",
           "odds": "+669",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the Democratic Party candidate win the 2026 Pennsylvania gubernatorial election by 30% or more?",
           "odds": "+455",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Situational Awareness Anthropic sale confirmed by August 31?",
+          "odds": "+3125",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
+        {
+          "event": "Will the US federal government take a stake in The Boeing Company?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Mexico GDP growth in Q3 2026 be between 2.0% and 2.5%?",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Josh Shapiro announce a Presidential run before 2028?",
+          "odds": "-233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Bernie Sanders announce a Presidential run before 2028?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 MI-11 House election by 25%-30%?",
+          "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Rand Paul be the first listed Republican to announce a run for President in 2028?",
+          "odds": "+187",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Ana Lilia Rivera Rivera win the 2027 Tlaxcala Governor Election?",
+          "odds": "-138",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 MI-13 House election by 25%-35%?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party candidate win the 2026 SC-04 House election by 0%-5%?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Exact Score: Any Other Score?",
+          "odds": "+257",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Donald Trump visit Portugal in 2026?",
           "odds": "+203",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
-      "rows": [
+        },
         {
-          "event": "Will Sanderson win the second-most votes in the 2026 Rio Grande do Sul Senate election?",
-          "odds": "+1328",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "European Tour: Nathan Aspinall vs Ryan Joyce",
+          "odds": "-112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "XRP Up or Down - August 29, 2PM ET",
+          "odds": "+108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Hong Kong have between 475-500mm of precipitation in August?",
+          "odds": "+762",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the UT-03 House seat?",
+          "odds": "-1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: CDPJuniorFC 1 - 1 Deportivo Pereira?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will a hurricane make landfall in New Jersey by November 30, 2026?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
