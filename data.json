@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "29 de agosto de 2026 — 02:59 UTC",
+  "lastUpdated": "29 de agosto de 2026 — 05:03 UTC",
   "ticker": [
+    "What’s in the US-Venezuela ‘biggest oil deal in world history?’",
+    "‘The whole country’s grandfather:’ Norway’s King Harald V dies aged 89",
+    "Ecuador sentences ex-president Moreno to five years in jail in bribery case",
+    "Nepal and China resume flood rescue as death toll nears 600",
     "Trump announces ‘biggest oil deal in world history’ with Venezuela",
     "Tuareg rebels free more Malian soldiers in prisoner swap, sources say",
     "Gunfire, blasts heard in several areas of Niger capital Niamey",
@@ -8,162 +12,71 @@
     "US revises statements suggesting Chinese hackers attacked agencies",
     "US judge rejects Trump’s bid to switch hush-money case to federal court",
     "Iran war live: IRGC asserts strait control, US enforces blockade",
-    "Cambodia’s claim to have ended scam compounds met with scepticism",
-    "Spain asks EU for help to process 5,000 Ceuta migrants amid local unrest",
-    "Far-right UK provocateur Milo Yiannopoulos detained by ICE in US",
-    "Walmart settles US government’s opioid lawsuit",
-    "Thousands take part in March on Washington to promote voting rights",
-    "Israeli strike kills three Palestinians in Jenin",
-    "Ebola spreads to two new zones in DRC; 60 areas now affected",
-    "With the US and Canada locked in a trade war, fears of a recession lurk"
+    "Cambodia’s claim to have ended scam compounds met with scepticism"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
+      "rows": [
+        {
+          "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
+          "odds": "+900",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
       "rows": [
         {
           "event": "Will the Democratic Party candidate win the 2026 Rhode Island gubernatorial election by 25%-30%?",
           "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
           "moved": "none"
         },
         {
           "event": "Will the Democratic Party candidate win the 2026 Pennsylvania gubernatorial election by 30% or more?",
           "odds": "+455",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "flag": "🇨🇳",
+      "label": "CHINA / PACÍFICO / COREA",
       "rows": [
         {
-          "event": "Will Natural Gas (NG) hit (HIGH) $3.80 in August?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the US federal government take a stake in The Boeing Company?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Mexico GDP growth in Q3 2026 be between 2.0% and 2.5%?",
-          "odds": "+233",
-          "params": "Fuente: Polymarket",
+          "event": "Will there be exactly 1 North Korea test in September 2026?",
+          "odds": "+222",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario peninsular coreano.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
       "rows": [
-        {
-          "event": "Will Josh Shapiro announce a Presidential run before 2028?",
-          "odds": "-233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Bernie Sanders announce a Presidential run before 2028?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party candidate win the 2026 MI-11 House election by 25%-30%?",
-          "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Rand Paul be the first listed Republican to announce a run for President in 2028?",
-          "odds": "+187",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party candidate win the 2026 MI-13 House election by 25%-35%?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party candidate win the 2026 SC-04 House election by 0%-5%?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party candidate win the 2026 NJ-09 House election by 30% or more?",
-          "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will Bristol City FC win on 2026-08-29?",
-          "odds": "+127",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will JOLTS Job Openings be below 7.1M in July?",
-          "odds": "+316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Sporting FC win on 2026-08-28?",
-          "odds": "-354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Donald Trump visit Portugal in 2026?",
           "odds": "+203",
-          "params": "Fuente: Polymarket",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "rows": [
         {
-          "event": "Will the Republican Party win the UT-03 House seat?",
-          "odds": "-1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: CDPJuniorFC 1 - 1 Deportivo Pereira?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will a hurricane make landfall in New Jersey by November 30, 2026?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Nikita Tszyu vs. Ben Mahoney",
-          "odds": "-112",
-          "params": "Fuente: Polymarket",
+          "event": "Will there be between 25 and 29 average daily transits of the Bab el-Mandeb Strait on September 30?",
+          "odds": "+257",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
