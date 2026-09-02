@@ -1,157 +1,94 @@
 {
-  "lastUpdated": "02 de septiembre de 2026 — 00:44 UTC",
+  "lastUpdated": "02 de septiembre de 2026 — 02:17 UTC",
   "ticker": [
+    "What to know about Germany’s drone attack accusations against Russia",
+    "Iran says US bombed a wedding party in Sirik, killing five",
+    "IAEA says Syria built a nuclear reactor in Deir Az Zor under al-Assad",
+    "US launches new strikes on Iran, denies its bases hit in Jordan",
+    "US pushes looser approach to AI regulation, while EU pushes new law",
+    "Moment US strikes on Iranian port city hit wedding party",
     "Iran war live: US bombs Iran, Tehran retaliates on Gulf neighbours, Jordan",
-    "Fernandez transfers to Man City from Chelsea in joint British record fee",
     "Cisco accused of fostering a hostile workplace for Muslim and Arab employees",
     "US House passes funding bill to avert government shutdown ahead of midterms",
     "US urges G20 to cut trade imbalances, focus on China",
     "US energy secretary will travel to Venezuela to unveil oil arrangement",
-    "IAEA calls for access to Iran nuclear sites over proliferation concerns",
-    "Zelenskyy warns airlines as Ukrainian drones target Russian airspace",
-    "Deadly car bomb attack at Colombia police station",
-    "Palestinians mourn children killed in Israeli airstrikes on Gaza City",
-    "Police arrest 34 after deadly gang shootout in eastern Netherlands",
-    "UN slashes food aid for occupied West Bank and Gaza amid funding shortfall",
-    "Iranian state media announces numerous US strikes on the country",
-    "What’s driven the defence deal between Israel and Greece?",
-    "Canada’s Carney says US must ‘start being serious’ to resolve trade dispute"
+    "IAEA calls for access to Iran nuclear sites over proliferation concerns"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
-          "event": "Will Fjord win Best International Feature Film at the 99th Academy Awards?",
-          "odds": "+376",
-          "params": "Fuente: Polymarket",
+          "event": "US x Iran Effective Ceasefire by September 4?",
+          "odds": "-376",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
           "moved": "none"
         },
         {
           "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
           "odds": "+900",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
+      "rows": [
+        {
+          "event": "Will Trump praise Volodymyr Zelenskyy in August?",
+          "odds": "+3233",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         },
         {
           "event": "Will the Democratic Party candidate win the 2026 Pennsylvania gubernatorial election by 30% or more?",
           "odds": "+455",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
       "rows": [
         {
-          "event": "Will the US federal government take a stake in The Boeing Company?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
+          "event": "Will Pete Hegseth be the next to leave the Trump Cabinet before 2027?",
+          "odds": "+1624",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump be impeached before his term ends?",
+          "odds": "-194",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
         {
           "event": "Will Gracinha Caiado win the most votes in the 2026 Goiás Senate election?",
           "odds": "-426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party candidate win the 2026 RI-01 House election by 40%-45%?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
           "event": "Will Democratic Senate incumbents win all their nominating elections in the 2026 cycle?",
           "odds": "-1150",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
-          "event": "Will Marine Le Pen advance to the second round of the next French presidential election?",
-          "odds": "-614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Rand Paul be the first listed Republican to announce a run for President in 2028?",
-          "odds": "+187",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party candidate win the 2026 SC-04 House election by 0%-5%?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Democratic House incumbents not win in between ten and twelve nominating elections in the 2026 cycle?",
-          "odds": "-287",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will OpenAI have the best AI model on LiveBench (Mathematics) at the end of September 2026?",
-          "odds": "-132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the next Claude Opus model be released by September 30, 2026?",
-          "odds": "+127",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will SpaceX have between 160-179 launches in 2026?",
-          "odds": "+726",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Megaquake by August 31?",
-          "odds": "+3125",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Ornn H100 Index be between $2.50 and $2.75 on September 30, 2026?",
-          "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Cúcuta Deportivo FC win on 2026-08-30?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Aryna Sabalenka advance to the Round of 16 in Women's Singles at the 2026 US Open?",
-          "odds": "-1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump praise Volodymyr Zelenskyy in August?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
+          "event": "Will Marcelo Castro win the most votes in the 2026 Piauí Senate election?",
+          "odds": "+143",
+          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
