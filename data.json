@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "03 de septiembre de 2026 — 02:29 UTC",
+  "lastUpdated": "03 de septiembre de 2026 — 07:36 UTC",
   "ticker": [
-    "Minneapolis shooting kills two, wounds three police officers",
-    "Exclusive access as the search for Nepal’s tunnel workers intensifies",
-    "Trump threatens more strikes as death toll in Iran rises to 18",
-    "Venezuela’s Maduro asserts immunity in US court, urges dismissal of charges",
-    "US Congress rejects constitutional amendment to restrict Supreme Court size",
-    "Morocco’s ruling allies turn on each other before election campaign begins",
-    "US judge blocks Trump’s latest effort to limit birthright citizenship",
-    "Iran war live: Trump says renewed US-Iran clashes will not last ‘too long’",
-    "Thousands protest in Spain as Ceuta’s migration crisis festers a month on",
-    "Did DOGE ruin America’s food safety system?",
-    "OpenAI faces new lawsuits over Tumbler Ridge mass shooting tragedy",
-    "Republican senator calls on Trump to fire Secretary of Defence Hegseth",
-    "Israeli PM says Israel is working to overthrow Iran’s government",
-    "Children return to school in DR Congo amid growing concerns over Ebola",
-    "Israel still wants to remove Palestinians from Gaza, defence minister says"
+    "China’s support for Iran shows its limits as US ramps up pressure on Tehran",
+    "EU remains divided over trade sanctions on illegal Israeli settlements",
+    "Eto’o calls on African football federations to support FIFA chief Infantino",
+    "Ghana reappoints Queiroz to lead Black Stars two months after stepping down",
+    "Floodwaters sweep cars away in eastern China",
+    "Powerful storm hits Canada’s Toronto, cutting power to tens of thousands",
+    "Former campaign chair: Trump ‘cares about Trump the most’",
+    "Girl rescued by free-climbing neighbour from balcony in Turkiye",
+    "US medical groups issue vaccine guidance, urge jabs for flu, COVID and RSV",
+    "Niger displays arsenal seized after failed military mutiny",
+    "Asia looks to store oil, gas closer to home after Strait of Hormuz crisis",
+    "US’s Chevron, Italy’s Eni to expand oil projects in Venezuela",
+    "Tens of thousands rally across Spain over Ceuta migrant crisis",
+    "Maltese tycoon acquitted of killing journalist Daphne Caruana Galizia",
+    "US forces board and destroy alleged cartel boat in eastern Pacific"
   ],
   "sections": [
     {
@@ -23,14 +23,20 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "US x Iran Effective Ceasefire by September 11?",
-          "odds": "-108",
+          "event": "Russia x Ukraine ceasefire agreement by October 31, 2026?",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Russia x Ukraine ceasefire agreement by October 31, 2026?",
-          "odds": "+1150",
+          "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 Pennsylvania gubernatorial election by 30% or more?",
+          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -107,6 +113,12 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Will it rain in Seattle, WA on September 3?",
+          "odds": "-270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will AVAX reach $16 by December 31, 2026?",
           "odds": "+900",
           "params": "Fuente: Polymarket",
@@ -115,6 +127,12 @@
         {
           "event": "Megaquake by August 31?",
           "odds": "+3125",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "M15 Kursumlijska Banja: Erkut Aydin vs Antoni Fabre",
+          "odds": "+194",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -131,12 +149,6 @@
           "moved": "none"
         },
         {
-          "event": "Will Anthropic have the best AI model at the end of December 2026?",
-          "odds": "-244",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Exact Score: CDPJuniorFC 1 - 1 Deportivo Pereira?",
           "odds": "+1011",
           "params": "Fuente: Polymarket",
@@ -145,12 +157,6 @@
         {
           "event": "Will a hurricane make landfall in New Jersey by November 30, 2026?",
           "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will OnRe launch a token by December 31, 2026?",
-          "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
