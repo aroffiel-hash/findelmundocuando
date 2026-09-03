@@ -1,157 +1,88 @@
 {
-  "lastUpdated": "02 de septiembre de 2026 — 23:45 UTC",
+  "lastUpdated": "03 de septiembre de 2026 — 02:24 UTC",
   "ticker": [
+    "Exclusive access as the search for Nepal’s tunnel workers intensifies",
+    "Trump threatens more strikes as death toll in Iran rises to 18",
+    "Venezuela’s Maduro asserts immunity in US court, urges dismissal of charges",
+    "US Congress rejects constitutional amendment to restrict Supreme Court size",
+    "Morocco’s ruling allies turn on each other before election campaign begins",
+    "US judge blocks Trump’s latest effort to limit birthright citizenship",
+    "Iran war live: Trump says renewed US-Iran clashes will not last ‘too long’",
+    "Thousands protest in Spain as Ceuta’s migration crisis festers a month on",
+    "Did DOGE ruin America’s food safety system?",
     "OpenAI faces new lawsuits over Tumbler Ridge mass shooting tragedy",
     "Republican senator calls on Trump to fire Secretary of Defence Hegseth",
-    "Israeli PM says Israel is working to overthrow Iran’s government",
-    "Children return to school in DR Congo amid growing concerns over Ebola",
-    "Israel still wants to remove Palestinians from Gaza, defence minister says",
-    "Two Palestinians killed as settlers, Israeli forces raid West Bank village",
-    "The long-term implications of Pete Hegseth’s US military purges",
-    "Nepal families hold symbolic funerals, thousands still missing",
-    "Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war",
-    "US launches $1 coin featuring Trump’s face: What to know",
-    "Israeli protesters call for an end to settler violence",
-    "US judge rejects bid to break up Google’s ad business",
-    "Trump says US sees ‘everything’ Iran does, threatens further attacks",
-    "Tiger Woods avoids jail time, takes plea deal over Florida crash",
-    "Dreams shattered: Gaza amputees struggle under blockade and rubble"
+    "Israeli PM says Israel is working to overthrow Iran’s government"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
-          "event": "Russia x Ukraine ceasefire agreement by October 31, 2026?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
+          "event": "US x Iran Effective Ceasefire by September 11?",
+          "odds": "-108",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
       "rows": [
         {
-          "event": "Jack Lowden announced as next James Bond?",
-          "odds": "+385",
-          "params": "Fuente: Polymarket",
+          "event": "Russia x Ukraine ceasefire agreement by October 31, 2026?",
+          "odds": "+1150",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto Rusia-Ucrania.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇺🇸",
+      "label": "EE.UU. — GEOPOLÍTICA",
+      "rows": [
+        {
+          "event": "Will Trump be impeached before his term ends?",
+          "odds": "-203",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "moved": "none"
+        },
+        {
+          "event": "Will Pete Hegseth be the next to leave the Trump Cabinet before 2027?",
+          "odds": "+1624",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump Insult Mapquest this week?",
+          "odds": "+194",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "rows": [
+        {
+          "event": "Will the National Rally group hold 10 French Senate seats after the 2026 election?",
+          "odds": "+233",
+          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
           "event": "Will Michelle Bolsonaro win the most votes in the 2026 Federal District Senate election?",
           "odds": "-488",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
-          "event": "Will the US federal government take a stake in The Boeing Company?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will Ján Danko win the 2026 Martin mayoral election?",
-          "odds": "+112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party candidate win the 2026 RI-01 House election by 40%-45%?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Mauro Mendes win the most votes in the 2026 Mato Grosso Senate election?",
-          "odds": "-143",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the National Rally group hold 10 French Senate seats after the 2026 election?",
-          "odds": "+233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party candidate win the 2026 PA-16 House election by 15%-20%?",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party candidate win the 2026 TX-29 House election by 40%-45%?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Rand Paul be the first listed Republican to announce a run for President in 2028?",
-          "odds": "+187",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will AVAX reach $16 by December 31, 2026?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Deportivo Toluca FC leading at halftime?",
-          "odds": "+138",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Zamora FC vs. Deportivo Tachira: Draw at halftime?",
-          "odds": "+212",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Megaquake by August 31?",
-          "odds": "+3125",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Aryna Sabalenka advance to the Round of 16 in Women's Singles at the 2026 US Open?",
-          "odds": "-1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Emmanuel Macron be the next leader out before 2027?",
-          "odds": "+2757",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Jeddah be 37°C on September 3?",
-          "odds": "+177",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: CDPJuniorFC 1 - 1 Deportivo Pereira?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
+          "event": "Will Marcelo Castro win the most votes in the 2026 Piauí Senate election?",
+          "odds": "+132",
+          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
