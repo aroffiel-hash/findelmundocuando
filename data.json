@@ -1,54 +1,30 @@
 {
-  "lastUpdated": "03 de septiembre de 2026 — 07:36 UTC",
+  "lastUpdated": "03 de septiembre de 2026 — 12:27 UTC",
   "ticker": [
-    "China’s support for Iran shows its limits as US ramps up pressure on Tehran",
-    "EU remains divided over trade sanctions on illegal Israeli settlements",
-    "Eto’o calls on African football federations to support FIFA chief Infantino",
-    "Ghana reappoints Queiroz to lead Black Stars two months after stepping down",
-    "Floodwaters sweep cars away in eastern China",
-    "Powerful storm hits Canada’s Toronto, cutting power to tens of thousands",
-    "Former campaign chair: Trump ‘cares about Trump the most’",
-    "Girl rescued by free-climbing neighbour from balcony in Turkiye",
-    "US medical groups issue vaccine guidance, urge jabs for flu, COVID and RSV",
-    "Niger displays arsenal seized after failed military mutiny",
-    "Asia looks to store oil, gas closer to home after Strait of Hormuz crisis",
-    "US’s Chevron, Italy’s Eni to expand oil projects in Venezuela",
-    "Tens of thousands rally across Spain over Ceuta migrant crisis",
-    "Maltese tycoon acquitted of killing journalist Daphne Caruana Galizia",
-    "US forces board and destroy alleged cartel boat in eastern Pacific"
+    "Feminist icon Gloria Steinem dies aged 92",
+    "Families perform symbolic funerals for missing Nepal flood victims",
+    "Kenya’s aviation strike is over, but the dispute is far from settled",
+    "UN warns El Nino could be ‘off the charts’, strongest in decades",
+    "Faith leaders say they were ‘duped’ into attending RSS-linked event",
+    "No end to torture of Gaza doctor Abu Safia in Israeli prison: What to know",
+    "Legendary Bosnian striker Edin Dzeko to retire from international football",
+    "Kyrgyzstan hosts pivotal SCO summit amid global geopolitical shifts",
+    "Green Party leader Zack Polanski to stand in by-election for Starmer’s seat",
+    "Yair Netanyahu, Israeli PM’s son, angers UK right over Falklands comment",
+    "Will the US or China emerge as the AI superpower?",
+    "Rescue efforts continue as Nepal-China flood death toll surpasses 1,270",
+    "EU foreign ministers fail to break deadlock over Israel and Ukraine",
+    "Norway seizes Russian ship in Arctic over Crimea compensation claim",
+    "Gulf insecurity fuels US energy dominance"
   ],
   "sections": [
-    {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
-      "rows": [
-        {
-          "event": "Russia x Ukraine ceasefire agreement by October 31, 2026?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party candidate win the 2026 Pennsylvania gubernatorial election by 30% or more?",
-          "odds": "+455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
     {
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
           "event": "Will Michelle Bolsonaro win the most votes in the 2026 Federal District Senate election?",
-          "odds": "-488",
+          "odds": "-426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -83,6 +59,12 @@
           "moved": "none"
         },
         {
+          "event": "Will Democrats win exactly 4 House seats in Wisconsin in the 2026 midterm elections?",
+          "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the National Rally group hold 10 French Senate seats after the 2026 election?",
           "odds": "+233",
           "params": "Fuente: Polymarket",
@@ -99,12 +81,6 @@
           "odds": "+488",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will Rand Paul be the first listed Republican to announce a run for President in 2028?",
-          "odds": "+187",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -113,14 +89,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will it rain in Seattle, WA on September 3?",
-          "odds": "-270",
+          "event": "Will AVAX reach $16 by December 31, 2026?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will AVAX reach $16 by December 31, 2026?",
-          "odds": "+900",
+          "event": "Will Sanfrecce Hiroshima win on 2026-09-06?",
+          "odds": "+104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -131,8 +107,8 @@
           "moved": "none"
         },
         {
-          "event": "M15 Kursumlijska Banja: Erkut Aydin vs Antoni Fabre",
-          "odds": "+194",
+          "event": "Stade Lavallois Mayenne FC vs. Red Star FC: Both Teams to Score",
+          "odds": "-122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -143,20 +119,20 @@
           "moved": "none"
         },
         {
+          "event": "W15 Haren: Sonja Zhenikhova vs Michelle Dzjachangirova",
+          "odds": "-1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Emmanuel Macron be the next leader out before 2027?",
           "odds": "+2757",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Exact Score: CDPJuniorFC 1 - 1 Deportivo Pereira?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will a hurricane make landfall in New Jersey by November 30, 2026?",
-          "odds": "+1899",
+          "event": "Will the highest temperature in Moscow be 20°C on September 4?",
+          "odds": "+376",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
