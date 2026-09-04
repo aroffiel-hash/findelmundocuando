@@ -1,157 +1,46 @@
 {
-  "lastUpdated": "04 de septiembre de 2026 — 00:36 UTC",
+  "lastUpdated": "04 de septiembre de 2026 — 02:19 UTC",
   "ticker": [
+    "Chile police and protesters clash outside far-right forum",
+    "ICC leaders condemn efforts to erode international legal order",
+    "US continues to squeeze Cuban economy with new round of sanctions",
+    "Ghana tightens gold exports in push to keep more value at home",
+    "Pete Hegseth’s Pentagon: A list of controversies that define his tenure",
+    "Feminist trailblazer Gloria Steinem passes away at age 92",
+    "Haitian government calls for renewal of international anti-gang task force",
     "Iran war live: US rules out Iran talks until ship attacks stop",
     "Are Trump’s AI videos just memes or psychological warfare?",
     "Tunisia’s top court upholds conviction of opposition figures, activists",
     "DR Congo joins countries pledging embassy move to Jerusalem",
-    "Why are people calling Venezuela oil deal a new form of US colonialism?",
-    "Burnham, Macron talk border security and stronger Europe-UK ties",
-    "NYC’s AI ban through grade 8 sets stage for rest of US, experts say",
-    "Nepal flood victims to be identified through DNA",
-    "El Nino: A phenomenon supercharged by climate change",
-    "US Vice President JD Vance declines to offer timeline for end of Iran war",
-    "France records ‘hottest summer ever’ in 2026",
-    "Ipswich Town vs Liverpool: Premier League – prediction, team news, lineups",
-    "ICE agent charged with lying under oath about Minnesota shooting",
-    "India rejects court ruling on Indus Waters Treaty",
-    "Ten injured in Ukraine as Kyiv expects talks with US envoys in coming days"
+    "Why are people calling Venezuela oil deal a new form of US colonialism?"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
       "rows": [
         {
           "event": "Will total votes cast in the 2026 midterm election for Senator from Ohio be between 4,350,000 and 4,500,000?",
           "odds": "+108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Faker win a Finals MVP Award at an international event in 2026?",
-          "odds": "+1182",
-          "params": "Fuente: Polymarket",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
         {
           "event": "Will Michelle Bolsonaro win the most votes in the 2026 Federal District Senate election?",
           "odds": "-426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the US federal government take a stake in The Boeing Company?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will the Democratic Party candidate win the 2026 RI-01 House election by 40%-45%?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Democrats win exactly 4 House seats in Wisconsin in the 2026 midterm elections?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
           "event": "Will the National Rally group hold 10 French Senate seats after the 2026 election?",
           "odds": "+233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the next UK parliament by-election be called by September 30?",
-          "odds": "-376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party candidate win the 2026 TX-29 House election by 40%-45%?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Rand Paul be the first listed Republican to announce a run for President in 2028?",
-          "odds": "+187",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party candidate win the 2026 SC-04 House election by 0%-5%?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will AVAX reach $16 by December 31, 2026?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Sanfrecce Hiroshima win on 2026-09-06?",
-          "odds": "+104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Megaquake by August 31?",
-          "odds": "+3125",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Stade Lavallois Mayenne FC vs. Red Star FC: Both Teams to Score",
-          "odds": "-122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Tappara Tampere vs. Bili Tygri Liberec",
-          "odds": "-233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Aryna Sabalenka advance to the Round of 16 in Women's Singles at the 2026 US Open?",
-          "odds": "-1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Emmanuel Macron be the next leader out before 2027?",
-          "odds": "+2757",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will there be a run scored in the first inning?: Detroit Tigers vs. Cleveland Guardians",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
+          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
