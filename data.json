@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "03 de septiembre de 2026 — 22:07 UTC",
+  "lastUpdated": "04 de septiembre de 2026 — 00:36 UTC",
   "ticker": [
+    "Iran war live: US rules out Iran talks until ship attacks stop",
+    "Are Trump’s AI videos just memes or psychological warfare?",
+    "Tunisia’s top court upholds conviction of opposition figures, activists",
+    "DR Congo joins countries pledging embassy move to Jerusalem",
+    "Why are people calling Venezuela oil deal a new form of US colonialism?",
     "Burnham, Macron talk border security and stronger Europe-UK ties",
     "NYC’s AI ban through grade 8 sets stage for rest of US, experts say",
     "Nepal flood victims to be identified through DNA",
@@ -10,18 +15,19 @@
     "Ipswich Town vs Liverpool: Premier League – prediction, team news, lineups",
     "ICE agent charged with lying under oath about Minnesota shooting",
     "India rejects court ruling on Indus Waters Treaty",
-    "Ten injured in Ukraine as Kyiv expects talks with US envoys in coming days",
-    "Israel kills 3 in Gaza as far-right minister plans for Palestinian removals",
-    "Train crashes into truck at railway crossing in Gdansk, Poland",
-    "Funeral held for child killed in US strike on Iranian wedding",
-    "Leaders of Thailand and Singapore perform Beatles song, “Let It Be”",
-    "FIFA accuses UEFA of ‘smear campaign’ over Infantino, World Cup plan"
+    "Ten injured in Ukraine as Kyiv expects talks with US envoys in coming days"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Will total votes cast in the 2026 midterm election for Senator from Ohio be between 4,350,000 and 4,500,000?",
+          "odds": "+108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Faker win a Finals MVP Award at an international event in 2026?",
           "odds": "+1182",
@@ -125,12 +131,6 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Milan be 34°C on September 4?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Tappara Tampere vs. Bili Tygri Liberec",
           "odds": "-233",
           "params": "Fuente: Polymarket",
@@ -145,6 +145,12 @@
         {
           "event": "Will Emmanuel Macron be the next leader out before 2027?",
           "odds": "+2757",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will there be a run scored in the first inning?: Detroit Tigers vs. Cleveland Guardians",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
