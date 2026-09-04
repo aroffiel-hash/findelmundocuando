@@ -1,52 +1,157 @@
 {
-  "lastUpdated": "04 de septiembre de 2026 — 15:32 UTC",
+  "lastUpdated": "04 de septiembre de 2026 — 17:58 UTC",
   "ticker": [
-    "Israel releases five detainees to Lebanon after US-mediated negotiations",
-    "Israel frees four more Lebanese prisoners in Red Cross-mediated handover",
-    "Why is Farage’s Reform accused of violating the UK’s foreign funding rules?",
-    "Can the Green Party’s Polanski take on Labour and win Starmer’s old seat?",
-    "Two Muslim women journalists allege police assault in India",
-    "Philippine court orders arrest of VP Duterte over President Marcos threats",
-    "Ireland’s Katie Taylor eyes fairytale finish to trailblazing boxing career",
-    "‘Things happen’: How Vance’s comment on Iran wedding strike fits US pattern",
-    "At least 100 killed as Yemen’s Houthis push towards key strait",
-    "Jerusalem Daily: Israel’s plan to expel Gaza’s population",
-    "US envoys headed to Russia and Ukraine to relaunch mediation",
-    "As the China-US AI race reaches Cairo, Egypt faces a strategic decision"
+    "Indonesia wildfires send toxic haze across Southeast Asia",
+    "Yemen’s army says recaptured key territory as clashes with Houthis continue",
+    "Rescuers race to save10-year-old Algerian boy trapped in deep well",
+    "US adds 162,000 jobs in August, raising Fed rate hike expectations",
+    "The number 10 shirt must not retire with Messi",
+    "Bride walks down the aisle despite waist-deep flooding",
+    "October 7 attack shapes Israel’s elections and fuels political blame",
+    "‘Winds of change’: How Milei is stirring Falklands claim amid Trump-UK spat",
+    "Russian drone strikes Ukraine’s security service headquarters",
+    "LIVE: Ipswich Town vs Liverpool – Premier League",
+    "Russia’s jet-powered drones overwhelm Ukraine, killing dozens",
+    "UN raises ‘ethnic cleansing’ concerns over Israel’s West Bank operation",
+    "Diesel price hits all-time high in US amid Iran war woes",
+    "US rejects Israeli suggestions of removing Palestinians from Gaza",
+    "Israel releases five detainees to Lebanon after US-mediated negotiations"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Exact Score: Al Ittihad Saudi Club 0 - 0 Al Nassr Saudi Club?",
-          "odds": "+2531",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Valorant: Dragon Ranger Gaming vs Any Questions Gaming (BO3) - China Evolution Series Act 3 Playoffs",
+          "odds": "-177",
+          "params": "Fuente: Polymarket",
           "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
-      "rows": [
+        },
         {
           "event": "Will total votes cast in the 2026 midterm election for Senator from Ohio be between 4,350,000 and 4,500,000?",
           "odds": "+108",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
+        {
+          "event": "Will Crude Oil reach a new all-time high by December 31?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the US federal government take a stake in The Boeing Company?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will the Democratic Party candidate win the 2026 RI-01 House election by 40%-45%?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Democrats win exactly 4 House seats in Wisconsin in the 2026 midterm elections?",
+          "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the National Rally group hold 10 French Senate seats after the 2026 election?",
           "odds": "+233",
-          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 TX-29 House election by 40%-45%?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Rand Paul be the first listed Republican to announce a run for President in 2028?",
+          "odds": "+187",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party candidate win the 2026 SC-04 House election by 0%-5%?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 RI-01 House election by 50% or more?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Exact Score: Al-Shamal 2 - 0 Al Shahaniya?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "1. FC Köln leading at halftime?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will AVAX reach $16 by December 31, 2026?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: Al Ittihad Saudi Club 0 - 0 Al Nassr Saudi Club?",
+          "odds": "+2531",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Sanfrecce Hiroshima win on 2026-09-06?",
+          "odds": "+104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Megaquake by August 31?",
+          "odds": "+3125",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will OpenAI's Astra model be released on September 9, 2026?",
+          "odds": "+298",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Shanghai Shenhua FC win on 2026-09-06?",
+          "odds": "+112",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
