@@ -1,151 +1,52 @@
 {
-  "lastUpdated": "04 de septiembre de 2026 — 14:41 UTC",
+  "lastUpdated": "04 de septiembre de 2026 — 15:32 UTC",
   "ticker": [
+    "Israel releases five detainees to Lebanon after US-mediated negotiations",
+    "Israel frees four more Lebanese prisoners in Red Cross-mediated handover",
+    "Why is Farage’s Reform accused of violating the UK’s foreign funding rules?",
     "Can the Green Party’s Polanski take on Labour and win Starmer’s old seat?",
     "Two Muslim women journalists allege police assault in India",
     "Philippine court orders arrest of VP Duterte over President Marcos threats",
     "Ireland’s Katie Taylor eyes fairytale finish to trailblazing boxing career",
-    "Conflicts and extreme weather pushing global food prices higher, warns UN",
     "‘Things happen’: How Vance’s comment on Iran wedding strike fits US pattern",
     "At least 100 killed as Yemen’s Houthis push towards key strait",
     "Jerusalem Daily: Israel’s plan to expel Gaza’s population",
     "US envoys headed to Russia and Ukraine to relaunch mediation",
-    "As the China-US AI race reaches Cairo, Egypt faces a strategic decision",
-    "Germany’s far right AfD eyes election breakthrough in Saxony-Anhalt",
-    "South Korea mulls ‘contributions’ in Strait of Hormuz",
-    "India’s Smriti Mandhana becomes top run-scorer in women’s cricket",
-    "Iran war: Why US midterms could be a pivotal moment",
-    "Reform UK officials step down as new funding scandal hits far-right party"
+    "As the China-US AI race reaches Cairo, Egypt faces a strategic decision"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
+      "rows": [
+        {
+          "event": "Exact Score: Al Ittihad Saudi Club 0 - 0 Al Nassr Saudi Club?",
+          "odds": "+2531",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
       "rows": [
         {
           "event": "Will total votes cast in the 2026 midterm election for Senator from Ohio be between 4,350,000 and 4,500,000?",
           "odds": "+108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Faker win a Finals MVP Award at an international event in 2026?",
-          "odds": "+1182",
-          "params": "Fuente: Polymarket",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
-        {
-          "event": "Will the US federal government take a stake in The Boeing Company?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will the Democratic Party candidate win the 2026 RI-01 House election by 40%-45%?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Democrats win exactly 4 House seats in Wisconsin in the 2026 midterm elections?",
-          "odds": "+400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will the National Rally group hold 10 French Senate seats after the 2026 election?",
           "odds": "+233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party candidate win the 2026 TX-29 House election by 40%-45%?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Rand Paul be the first listed Republican to announce a run for President in 2028?",
-          "odds": "+187",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party candidate win the 2026 SC-04 House election by 0%-5%?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party candidate win the 2026 RI-01 House election by 50% or more?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Exact Score: Al-Shamal 2 - 0 Al Shahaniya?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will AVAX reach $16 by December 31, 2026?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: Al Ittihad Saudi Club 0 - 0 Al Nassr Saudi Club?",
-          "odds": "+2531",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Sanfrecce Hiroshima win on 2026-09-06?",
-          "odds": "+104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Megaquake by August 31?",
-          "odds": "+3125",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Stade Lavallois Mayenne FC vs. Red Star FC: Both Teams to Score",
-          "odds": "-122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Counter-Strike: FURIA vs Vitality - Map 1 Winner",
-          "odds": "+177",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Shanghai Shenhua FC win on 2026-09-06?",
-          "odds": "+112",
-          "params": "Fuente: Polymarket",
+          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
