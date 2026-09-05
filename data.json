@@ -1,145 +1,70 @@
 {
-  "lastUpdated": "05 de septiembre de 2026 — 13:10 UTC",
+  "lastUpdated": "05 de septiembre de 2026 — 14:20 UTC",
   "ticker": [
+    "Coach Luis Enrique unconcerned by PSG’s poor start to French league season",
+    "Why has the Trump administration ordered staff to take polygraph tests?",
+    "UK gov’t condemns masked anti-immigrant protesters blocking Dover port",
+    "‘Stop the boats’ masked protesters block England’s Port of Dover",
+    "Iran President Pezeshkian calls for unity as US ramps up economic pressure",
     "At least four civilians killed in Houthi missile strike near Yemen’s Taiz",
     "How big is Africa really? Why the UN voted to change the world map",
     "Yemen government launches own air attacks on Houthis: What that means",
     "Costa Rica’s president says US ground forces would boost national security",
     "Israel must protect West Bank’s Palestinians amid settler pogroms: US envoy",
     "Pickleball and dining: Why courts are the new food destinations",
-    "LIVE: India vs Pakistan – Women’s T20 Asia Cup",
-    "Mudslide in eastern China kills one, leaves 11 missing",
-    "At least 5 killed in Russian attacks on Ukraine as US envoys visit Moscow",
-    "Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?",
-    "US ambassador to Israel meets Palestinian-Americans in occupied West Bank",
-    "Qatar removed from Fitch’s negative watch list as risks to LNG sites ease",
-    "Fenerbahce’s Greenwood, Guendouzi handed fines and bans after brawl at Lyon",
-    "Oil and politics: What Trump’s ‘historic’ deal means for Venezuela",
-    "Orangutan mother and infant rescued from wildfire-hit forest in Indonesia"
+    "Mudslide in eastern China kills one, leaves 11 missing"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
-          "event": "Will Ciro Gomes win the 2026 Ceará gubernatorial election?",
-          "odds": "-170",
-          "params": "Fuente: Polymarket",
+          "event": "Exact Score: Al Ittihad Saudi Club 0 - 0 Al Nassr Saudi Club?",
+          "odds": "+2531",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
+      "rows": [
         {
           "event": "Will the Democratic Party candidate win the 2026 Michigan gubernatorial election by 9%-12%?",
           "odds": "+525",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
+          "moved": "none"
+        },
+        {
+          "event": "Will Ciro Gomes win the 2026 Ceará gubernatorial election?",
+          "odds": "-170",
+          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
           "moved": "none"
         },
         {
           "event": "Will total votes cast in the 2026 midterm election for Senator from Ohio be between 4,350,000 and 4,500,000?",
           "odds": "+108",
-          "params": "Fuente: Polymarket",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
-        {
-          "event": "Will the Democratic Party candidate win the 2026 RI-01 House election by 40%-45%?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Arthur Lira win the most votes in the 2026 Alagoas Senate election?",
           "odds": "+233",
-          "params": "Fuente: Polymarket",
+          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
           "event": "Will the National Rally group hold 10 French Senate seats after the 2026 election?",
           "odds": "+233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party candidate win the 2026 NY-25 House election by 25%-30%?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party candidate win the 2026 TX-29 House election by 40%-45%?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Rand Paul be the first listed Republican to announce a run for President in 2028?",
-          "odds": "+187",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party candidate win the 2026 VT-AL House election?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Ulsan HD FC leading at halftime?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Rayo Vallecano de Madrid leading at halftime?",
-          "odds": "+185",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will AVAX reach $16 by December 31, 2026?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: Al Ittihad Saudi Club 0 - 0 Al Nassr Saudi Club?",
-          "odds": "+2531",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Reading FC win on 2026-09-05?",
-          "odds": "-117",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Megaquake by August 31?",
-          "odds": "+3125",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Urban Granström be the next Regional Board Chair of Region Sörmland?",
-          "odds": "+117",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Levante UD win on 2026-09-06?",
-          "odds": "+212",
-          "params": "Fuente: Polymarket",
+          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
