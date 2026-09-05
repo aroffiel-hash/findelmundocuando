@@ -1,88 +1,163 @@
 {
-  "lastUpdated": "05 de septiembre de 2026 — 02:20 UTC",
+  "lastUpdated": "05 de septiembre de 2026 — 05:09 UTC",
   "ticker": [
+    "‘I could not save the rest’: Hero nurse remembers Pakistan’s nursery fire",
+    "UN approves new map showing Africa’s true size",
+    "Blasts at Bolivian military base kill at least 10, injure dozens",
+    "Malaysia declares emergency in Sarawak as haze from Indonesia worsens",
+    "Did Israel’s destruction of Gaza worsen its water crisis?",
+    "Trump sends envoys to Russia, Ukraine with new peace plan",
+    "After Pretoria peace deal, old enemies in Ethiopia’s Tigray find new ground",
+    "‘To challenge deadly blockade’: New flotilla mission sets sail for Gaza",
+    "Ecuador defends US sinking of vessels as joint anti-drug operation",
     "Asylum seekers caught in US immigration crackdown",
     "Judge declares mistrial in Lindsay Clancy children’s murder case",
     "EU official Marta Kos cancels Serbia trip over planned Mladic tribute",
     "Iran war live: Trump says US may target Iran’s Pickaxe Mountain ‘very soon’",
     "‘Small potatoes’: US President Trump downplays war on Iran",
-    "Tunisia arrests journalist Mohamed Yousfi amid crackdown on critics",
-    "Mock Republican convention website tops Google, redirects to Epstein files",
-    "Israeli police kill Palestinian in Jerusalem as army blocks aid for Qusra",
-    "Costa Rican president signals openness to domestic US military operations",
-    "US regulator opens safety investigation as Tesla launches driverless taxis",
-    "Witkoff and Kushner will travel to ‘end’ Russia’s war in Ukraine: Trump",
-    "Sabalenka interrupts US Open match against Rakhimova over cannabis smell"
+    "Tunisia arrests journalist Mohamed Yousfi amid crackdown on critics"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Exact Score: Al Ittihad Saudi Club 0 - 0 Al Nassr Saudi Club?",
-          "odds": "+2531",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
-          "moved": "none"
-        },
-        {
-          "event": "Will Al Hilal Saudi Club win on 2026-09-07?",
-          "odds": "-300",
-          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
-      "rows": [
-        {
-          "event": "Will total votes cast in the 2026 midterm election for Senator from Ohio be between 4,350,000 and 4,500,000?",
-          "odds": "+108",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
+          "event": "TSG 1899 Hoffenheim vs. BV Borussia 09 Dortmund: BV Borussia 09 Dortmund O/U 1.5",
+          "odds": "-117",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Ciro Gomes win the 2026 Ceará gubernatorial election?",
           "odds": "-185",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will total votes cast in the 2026 midterm election for Senator from Ohio be between 4,350,000 and 4,500,000?",
+          "odds": "+108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Faker win a Finals MVP Award at an international event in 2026?",
+          "odds": "+1182",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇨🇳",
-      "label": "CHINA / PACÍFICO / COREA",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will Xi Jinping visit US by September 30?",
-          "odds": "-733",
-          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Will the US federal government take a stake in The Boeing Company?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
+        {
+          "event": "Will the Democratic Party candidate win the 2026 RI-01 House election by 40%-45%?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Democrats win exactly 4 House seats in Wisconsin in the 2026 midterm elections?",
+          "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the National Rally group hold 10 French Senate seats after the 2026 election?",
           "odds": "+233",
-          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 TX-29 House election by 40%-45%?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Rand Paul be the first listed Republican to announce a run for President in 2028?",
+          "odds": "+187",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party candidate win the 2026 VT-AL House election?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Arthur Lira win the most votes in the 2026 Alagoas Senate election?",
           "odds": "+233",
-          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will AVAX reach $16 by December 31, 2026?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Republicans sweep the Kansas Senate and Governor elections?",
-          "odds": "-194",
-          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Exact Score: Al Ittihad Saudi Club 0 - 0 Al Nassr Saudi Club?",
+          "odds": "+2531",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Megaquake by August 31?",
+          "odds": "+3125",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will My Alnebratt be the next Regional Board Chair of Region Västra Götaland?",
+          "odds": "-400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Urban Granström be the next Regional Board Chair of Region Sörmland?",
+          "odds": "+117",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "German Super League NRW T10: VfB 09/13 Gelsenkirchen vs Aachen Rising Stars",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Emmanuel Macron be the next leader out before 2027?",
+          "odds": "+2757",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: CDPJuniorFC 1 - 1 Deportivo Pereira?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
