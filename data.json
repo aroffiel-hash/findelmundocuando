@@ -1,40 +1,157 @@
 {
-  "lastUpdated": "06 de septiembre de 2026 — 02:16 UTC",
+  "lastUpdated": "06 de septiembre de 2026 — 05:23 UTC",
   "ticker": [
+    "Flames burst from Qantas plane engine after New Zealand takeoff",
+    "Yemeni forces claim strategic district amid intensified Houthi clashes",
+    "Israeli Prime Minister Netanyahu says ‘Qatar is a hostile state’",
+    "More than 20 killed in fire at wedding party in DR Congo",
+    "South Africa’s chrome riches fuel a deadly underground economy",
+    "German voters head to polls as far-right AfD party eyes historic state win",
+    "Indonesia’s main airport suspends flights due to Anak Krakatau eruption",
+    "Nearly 9,000 killed in Israeli attacks on Lebanon since 2023",
     "‘People laughed at me’: Indian youth cleans up a trash-filled river",
     "Netanyahu boasts about bombing Qatar, says Gaza funds used for aid",
     "German company launches rocket as Europe enters satellite race",
     "Iran war live: IRGC claims attacks on 3 oil tankers and 3 US-linked ships",
     "Fuel tanker blast in western Iran kills at least 10",
     "Trump-backed group announces $10m ad spend for midterm Senate race in Texas",
-    "US envoys Witkoff, Kushner meet Putin for talks on Ukraine war",
-    "Building collapses after heavy rain in northern India",
-    "Why is Argentina reigniting the Falklands dispute?",
-    "Colombian government reports three killed in rebel attack on military post",
-    "Al Jazeera reporter challenges Huckabee over Israeli settler pogroms",
-    "France denies inciting failed Niger mutiny, calls accusation ‘pure fantasy’"
+    "US envoys Witkoff, Kushner meet Putin for talks on Ukraine war"
   ],
   "sections": [
     {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Will the Democratic Party candidate win the 2026 Michigan gubernatorial election by 9%-12%?",
           "odds": "+669",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 Pennsylvania gubernatorial election by 30% or more?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
+        {
+          "event": "Will the US federal government take a stake in The Boeing Company?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will the Democratic Party candidate win the 2026 RI-01 House election by 40%-45%?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the National Rally group hold 10 French Senate seats after the 2026 election?",
           "odds": "+233",
-          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 NY-25 House election by 25%-30%?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 OR-06 House election by 25%-30%?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 TX-29 House election by 40%-45%?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Rand Paul be the first listed Republican to announce a run for President in 2028?",
+          "odds": "+187",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party candidate win the 2026 CO-05 House election by 9%-12%?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will New England Revolution win on 2026-09-09?",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will AVAX reach $16 by December 31, 2026?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Moonshot have a #1 AI model by December 31, 2026?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Megaquake by August 31?",
+          "odds": "+3125",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Set Handicap: Dodig (-1.5) vs Varillas (+1.5)",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Emmanuel Macron be the next leader out before 2027?",
+          "odds": "+2757",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: CDPJuniorFC 1 - 1 Deportivo Pereira?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will a hurricane make landfall in New Jersey by November 30, 2026?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
