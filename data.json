@@ -1,23 +1,35 @@
 {
-  "lastUpdated": "06 de septiembre de 2026 — 18:47 UTC",
+  "lastUpdated": "06 de septiembre de 2026 — 20:59 UTC",
   "ticker": [
+    "Will Israelis re-elect Benjamin Netanyahu?",
+    "At least five killed in New Delhi building collapse",
+    "Abdul El-Sayed uses speech to talk about Muslim faith and American identity",
+    "Indonesia volcano eruption disrupts hundreds of flights",
+    "Adidas faces boycott calls over campaign featuring former Israeli soldier",
+    "Trump administration appeals again to US Supreme Court over mail-in voting",
+    "Why is Argentina reviving the Falklands dispute?",
+    "Witkoff says peace talks have been ‘very meaningful’ in Ukraine",
     "Sabalenka through to US Open quarterfinals",
     "Algerian boy found dead after four days trapped in a well",
     "Arsenal come from behind to beat Chelsea 2-1 and maintain perfect start",
     "Photos: UN urges global aid after China, Nepal floods kill over 1,300",
     "F1 leader Kimi Antonelli wins Italian GP after epic charge from the back",
     "Palestinian farmers battle settler sabotage to save Hebron crops, livestock",
-    "Trump official says ‘there may not be a nuclear agreement’ with Iran",
-    "Lamine Yamal and Fermin Lopez star as Barcelona run riot at Valencia",
-    "Iran touts military response as US maintains blockade, hits tankers",
-    "Far-right AfD wins vote in Germany’s Saxony-Anhalt state: Exit polls",
-    "Maitland-Niles stuns Manchester United as Everton claim last-ditch point",
-    "Niger military accuses France of orchestrating failed mutiny: What to know",
-    "Dead fish fill vanishing river as drought grips Indonesia",
-    "US envoys hold ‘substantive’ talks with Zelenskyy in first visit to Kyiv",
-    "Khalid Abdalla: ‘It’s important for me to be in service of justice’"
+    "Trump official says ‘there may not be a nuclear agreement’ with Iran"
   ],
   "sections": [
+    {
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "rows": [
+        {
+          "event": "Will Ursula von der Leyen visit Ukraine by December 31, 2026?",
+          "odds": "+143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
     {
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
@@ -89,32 +101,20 @@
           "moved": "none"
         },
         {
-          "event": "Megaquake by August 31?",
-          "odds": "+3125",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: MFK Ružomberok 1 - 0 FC Spartak Trnava?",
-          "odds": "+376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the lowest temperature in Hong Kong be 24°C on September 6?",
-          "odds": "+2677",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Emmanuel Macron be the next leader out before 2027?",
           "odds": "+2757",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Counter-Strike: K27 vs Sinners - Map 2 Winner",
-          "odds": "-122",
+          "event": "Megaquake by August 31?",
+          "odds": "+3125",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the lowest temperature in Hong Kong be 24°C on September 6?",
+          "odds": "+2677",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -127,6 +127,18 @@
         {
           "event": "Will a hurricane make landfall in New Jersey by November 30, 2026?",
           "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will OnRe launch a token by December 31, 2026?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Alibaba have the best Code Arena | WebDev AI at the end of October 2026?",
+          "odds": "+2280",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
