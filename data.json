@@ -1,18 +1,76 @@
 {
-  "lastUpdated": "08 de septiembre de 2026 — 15:46 UTC",
+  "lastUpdated": "08 de septiembre de 2026 — 16:58 UTC",
   "ticker": [
+    "Israeli strikes transform Lebanese city into ghost town",
+    "UK sanctions on Israeli settlements a ‘seismic’ shift says Albanese",
+    "Israeli academia accused of systemic apartheid against Palestinians",
+    "LIVE: Real Madrid vs Inter Milan – UEFA Champions League",
+    "Maldives asks UK to reopen sovereignty talks over Chagos Islands",
+    "Hungary expels 10 Russian diplomats, Moscow promises harsh response",
+    "What is BAPS, the Hindu group whose demands led to Eiffel Tower closure?",
+    "The shift in British policy on Israel is palpable",
     "Jerusalem Daily: UK announces sanctions on Israeli settlement goods",
     "EU condemns Serbia’s ministers for attending funeral of war criminal Mladic",
     "UK imposes ban on goods from Israeli settlements in occupied West Bank",
     "UK bans goods from Israeli West Bank settlements: What that really means",
     "FIFA accused of ‘abusive conduct’ over women’s football calendar in Europe",
     "The Tempe 57: A father’s fight for justice after Greece’s worst train crash",
-    "Yemen’s reignited war fuels a new wave in child recruitment",
-    "One year on from Nepal protests, have Gen Z demands been met?",
-    "Video: Germany says ICJ lacks jurisdiction in Nicaragua genocide case",
-    "Video: Saudi–Russia Press Conference in Moscow: Key Takeaways",
-    "Napoli’s Scott McTominay undergoes successful heart surgery",
-    "Macklemore defends ‘Free Palestine’ call after Ed Sheeran concert backlash"
+    "Yemen’s reignited war fuels a new wave in child recruitment"
   ],
-  "sections": []
+  "sections": [
+    {
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "rows": [
+        {
+          "event": "BV Borussia 09 Dortmund vs. Villarreal CF: Villarreal CF 1st Half O/U 0.5",
+          "odds": "+127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will the Democratic Party candidate win the 2026 RI-02 House election by 10%-15%?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Centre Party (C) win the sixth most seats in the 2026 Swedish parliamentary election?",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will AVAX reach $16 by December 31, 2026?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Hong Kong have less than 275mm of precipitation in September?",
+          "odds": "-163",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Amazon.com, Inc. (AMZN) hit (LOW) $232 in September?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    }
+  ]
 }
