@@ -1,6 +1,7 @@
 {
-  "lastUpdated": "08 de septiembre de 2026 — 02:26 UTC",
+  "lastUpdated": "08 de septiembre de 2026 — 02:32 UTC",
   "ticker": [
+    "What does Mondlane’s trial mean for Mozambique?",
     "EU pledges more than $200m to Greenland amid Trump threats",
     "IAEA warns over Iran nuclear access as Western powers push UN referral",
     "Panama Canal may cut ship traffic further as El Niño strengthens",
@@ -12,7 +13,88 @@
     "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
     "Indian temple collapses into Ganges as riverbank erodes",
     "Israel’s removal of Gaza rubble risk to war crimes evidence: UN",
-    "Yemen fighting escalates as forces battle for Bab al-Mandeb Strait"
+    "Yemen fighting escalates as forces battle for Bab al-Mandeb Strait",
+    "Robots protest in Poland over AI regulation concerns",
+    "Cuba says no negotiations with US despite ‘genocidal’ blockade"
   ],
-  "sections": []
+  "sections": [
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will the Democratic Party candidate win the 2026 VA-10 House election by 20%-25%?",
+          "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 RI-02 House election by 10%-15%?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 RI-01 House election by 40%-45%?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will RC Deportivo A Coruña win on 2026-09-13?",
+          "odds": "+284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "EC Vitória vs. Grêmio FBPA: Both Teams to Score in First Half",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Team Vitality Make a Roster Change by December 31?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will AVAX reach $16 by December 31, 2026?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Cuiabá EC win on 2026-09-08?",
+          "odds": "-112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Kansas have D4 (Exceptional Drought) this week?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Amazon.com, Inc. (AMZN) hit (LOW) $232 in September?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Megaquake by August 31?",
+          "odds": "+3125",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    }
+  ]
 }
