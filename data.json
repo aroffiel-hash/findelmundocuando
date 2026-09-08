@@ -1,23 +1,41 @@
 {
-  "lastUpdated": "08 de septiembre de 2026 — 02:32 UTC",
+  "lastUpdated": "08 de septiembre de 2026 — 07:40 UTC",
   "ticker": [
+    "US Open: Zheng in 5-0 comeback; Gauff, Rybakina, Zverev also in quarters",
+    "Palestine weekly: Israeli ministers push for depopulation of Gaza",
+    "Forest fires force evacuations near resorts in Antalya",
+    "Mladic’s funeral: Were no lessons learned?",
+    "Polls suggest tight presidential race as Brazil marks Independence Day",
+    "Saudi Arabia says 73 wounded as Houthis attack civilian and energy sites",
+    "‘House moved like jelly’ says resident near Bolivia barracks blast",
+    "Real Madrid vs Inter: Champions League – preview, team news, prediction",
+    "Flash floods fill the streets of a neighbourhood in central Morocco",
+    "Canada’s retaliatory tariffs on $20bn of US goods take effect",
+    "Russia launches deadly strikes on Kyiv as pause during US envoy visits ends",
+    "Yemeni forces launch counteroffensive against Houthis, vow to retake Sanaa",
+    "Eiffel Tower closed in row over women removed for Hindu group",
     "What does Mondlane’s trial mean for Mozambique?",
-    "EU pledges more than $200m to Greenland amid Trump threats",
-    "IAEA warns over Iran nuclear access as Western powers push UN referral",
-    "Panama Canal may cut ship traffic further as El Niño strengthens",
-    "‘Flamingo Revolution’ enters 100th day against Kushner-linked resort",
-    "Iran war live: Qatar warns of ‘industrial catastrophe’ if crisis continues",
-    "Houthis accuse Saudi Arabia of killing seven in Yemen prison air strike",
-    "Rubio heads to Ecuador, Colombia, Peru after right-wing victories in region",
-    "Hawaii braces for Hurricane Lowell",
-    "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
-    "Indian temple collapses into Ganges as riverbank erodes",
-    "Israel’s removal of Gaza rubble risk to war crimes evidence: UN",
-    "Yemen fighting escalates as forces battle for Bab al-Mandeb Strait",
-    "Robots protest in Poland over AI regulation concerns",
-    "Cuba says no negotiations with US despite ‘genocidal’ blockade"
+    "EU pledges more than $200m to Greenland amid Trump annexation threats"
   ],
   "sections": [
+    {
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "rows": [
+        {
+          "event": "Will total votes cast in the 2026 midterm election for Senator from Oklahoma be between 1,100,000 and 1,200,000?",
+          "odds": "+112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 Kansas gubernatorial election by 0%-3%?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
     {
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
@@ -35,8 +53,8 @@
           "moved": "none"
         },
         {
-          "event": "Will the Democratic Party candidate win the 2026 RI-01 House election by 40%-45%?",
-          "odds": "+669",
+          "event": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+          "odds": "-132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -46,24 +64,6 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
-        {
-          "event": "Will RC Deportivo A Coruña win on 2026-09-13?",
-          "odds": "+284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "EC Vitória vs. Grêmio FBPA: Both Teams to Score in First Half",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Team Vitality Make a Roster Change by December 31?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will AVAX reach $16 by December 31, 2026?",
           "odds": "+900",
@@ -89,8 +89,8 @@
           "moved": "none"
         },
         {
-          "event": "Megaquake by August 31?",
-          "odds": "+3125",
+          "event": "Will Microsoft Corporation (MSFT) hit (LOW) $480 in September?",
+          "odds": "+108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
