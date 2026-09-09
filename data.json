@@ -1,23 +1,35 @@
 {
-  "lastUpdated": "09 de septiembre de 2026 — 18:19 UTC",
+  "lastUpdated": "09 de septiembre de 2026 — 21:26 UTC",
   "ticker": [
-    "Back to work, not school: Yemen’s crisis forces children to drop out",
-    "Last dance? Inside Lula’s strategy to win a fourth presidency in Brazil",
-    "Sudanese refugee returning home ’to make buildings for our country’",
-    "Bombardier looks to hire 500 new workers in US, despite Trump threat",
-    "Palestinian child misses first day of school due to settler siege",
-    "Inside Israel’s prisons, where Ben-Gvir’s cruelty is policy",
-    "78 people including newborn rescued in Mediterranean",
-    "LIVE: Napoli vs Arsenal – UEFA Champions League",
-    "Attackers kill police officer, kidnap teachers in Cameroon’s northwest",
-    "LIVE: Liverpool vs Atletico Madrid – Champions League",
-    "As the UK sanctions Israeli settlements, is the two-state solution dead?",
-    "Jerusalem Daily: Israel retaliates over sanctions on illegal settlements",
-    "Bangladesh measles deaths surpass 1,000 after vaccination drive falls short",
-    "Gaza students with overseas university offers, scholarships remain trapped",
-    "Torrential rains, winds from Hurricane Lowell leaves 30,000 without power"
+    "Trump says Putin wants to make a deal to end Ukraine war",
+    "Pro-Palestinian protesters oppose Israel embassy opening in Slovenia",
+    "Burnham defends UK ban on Israeli settlement trade",
+    "IAEA board refers Iran to UN Security Council over nuclear ‘non-compliance’",
+    "UK man charged with assisting Russian military spies in sabotage plot",
+    "Yemen envoy warns of wider war as Houthis threaten Bab al-Mandeb Strait",
+    "Iraqi graduates protest for govt jobs amid unemployment crisis",
+    "Apple debuts $1,999 passport-shaped foldable phone, called Duo",
+    "Israeli strike targets home in Gaza’s al-Shati refugee camp",
+    "Two rescued after plane makes emergency landing in Black Sea",
+    "China slams US claims of ‘industrial-scale’ AI theft",
+    "Rampant Raphinha nets two goals as Barcelona rout Feyenoord",
+    "Yemeni diplomat says Houthis want to drag Saudi Arabia into war",
+    "Why are borrowing costs rising across the world?",
+    "US records hottest summer in 132 years"
   ],
   "sections": [
+    {
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "rows": [
+        {
+          "event": "Will \"The Adventures of Cliff Booth\" be nominated for Best Picture at the 99th Academy Awards?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
     {
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
@@ -25,12 +37,6 @@
         {
           "event": "Will the Democratic Party candidate win the 2026 RI-02 House election by 10%-15%?",
           "odds": "+614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Carlos Torres Piña win the 2027 Michoacán Governor Election?",
-          "odds": "+171",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -59,8 +65,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Donald Trump post 200+ Truth Social posts from September 4 to September 11, 2026?",
-          "odds": "+177",
+          "event": "Will the lowest temperature in Shanghai be 23°C on September 11?",
+          "odds": "+100",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
