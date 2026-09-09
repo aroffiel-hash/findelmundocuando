@@ -1,28 +1,61 @@
 {
-  "lastUpdated": "09 de septiembre de 2026 — 02:28 UTC",
+  "lastUpdated": "09 de septiembre de 2026 — 05:44 UTC",
   "ticker": [
+    "Israel’s war leaves Lebanon’s schools balancing students and the displaced",
+    "Jessica Pegula beats Emma Navarro to set up Sabalenka semifinal at US Open",
+    "600-year-old tomb of pre-Incan Chimu kingdom found in Peru",
+    "The case for the US going back to the firing squad",
+    "Cluster munitions kill, wound over 1,000 globally in 2025",
+    "Conflict over Taiwan would be disastrous, de facto US ambassador warns",
+    "Cameraman catches the moment Yemeni government forces are ambushed",
+    "Gambian leader pledges halt to rolling blackouts as protests turn violent",
+    "US reading scores hit near-25-year low in latest global assessment",
+    "Record-breaking rain disrupts daily life in Nagoya, Japan",
+    "US Supreme Court rejects Missouri bid to reactivate GOP-backed voting map",
+    "Yemen’s Saudi-backed forces strike Houthis on western coast",
     "‘Energiser’ or ‘circus’: US voters weigh in on Trump’s midterm convention",
     "Jordanian air defences intercept Iranian missile barrage",
-    "Sharpeville massacre, 66 years on: Families still wait for justice",
-    "Anti-AfD protesters rally in Cologne after far-right election win",
-    "Marco Rubio says US seeks more economic and security ties in Latin America",
-    "US attacks 5 Iranian oil tankers, Tehran retaliates with strikes on Jordan",
-    "Suspected smugglers on trial over deadliest migrant tragedy in France",
-    "Iran war live: US hits Iranian tankers, IRGC attacks US forces in Jordan",
-    "US increases pressure on Iran with sanctions targeting aviation sector",
-    "US bombs five Iranian oil tankers after its navy is attacked",
-    "Mamdani releases records on toxic air in New York after 9/11 attacks",
-    "The Map Was Lying To You: Why the UN Just Changed How We See Africa"
+    "Sharpeville massacre, 66 years on: Families still wait for justice"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will the National Rally group hold 10 French Senate seats after the 2026 election?",
-          "odds": "+233",
-          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Will the Democratic Party candidate win the 2026 RI-02 House election by 10%-15%?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will AVAX reach $16 by December 31, 2026?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Amazon.com, Inc. (AMZN) hit (LOW) $232 in September?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Houston be between 86-87°F on September 9?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will SS Lazio win on 2026-09-19?",
+          "odds": "+149",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
