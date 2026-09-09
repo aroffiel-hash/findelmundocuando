@@ -1,18 +1,70 @@
 {
-  "lastUpdated": "09 de septiembre de 2026 — 15:42 UTC",
+  "lastUpdated": "09 de septiembre de 2026 — 18:19 UTC",
   "ticker": [
-    "Torrential rains, winds from Hurricane Lowell leaves 30,000 without power",
-    "Hutu and Tutsi: The history behind the divide",
-    "What is Jordan’s Al-Azraq base and why is Iran targeting it?",
-    "Nigeria, Boko Haram reportedly reach secret three-month ceasefire",
-    "At least 14 killed in weapons depot blast in Syria’s Idlib, state TV says",
-    "Journalists missing after Indonesian volcanic eruption",
-    "AI researcher quits Anthropic saying AI race ‘could kill us all’",
-    "Video: Why are Republicans hosting a midterm convention?",
-    "Brent crude surpasses $100 a barrel as Iran, US escalate attacks",
-    "How has Israel hit back against sanctions by the UK, others?",
-    "Lionel Messi agrees deal to buy second-tier Spanish club Eldense",
-    "Photos: Large Oslo crowd bids farewell to Norway’s King Harald V"
+    "Back to work, not school: Yemen’s crisis forces children to drop out",
+    "Last dance? Inside Lula’s strategy to win a fourth presidency in Brazil",
+    "Sudanese refugee returning home ’to make buildings for our country’",
+    "Bombardier looks to hire 500 new workers in US, despite Trump threat",
+    "Palestinian child misses first day of school due to settler siege",
+    "Inside Israel’s prisons, where Ben-Gvir’s cruelty is policy",
+    "78 people including newborn rescued in Mediterranean",
+    "LIVE: Napoli vs Arsenal – UEFA Champions League",
+    "Attackers kill police officer, kidnap teachers in Cameroon’s northwest",
+    "LIVE: Liverpool vs Atletico Madrid – Champions League",
+    "As the UK sanctions Israeli settlements, is the two-state solution dead?",
+    "Jerusalem Daily: Israel retaliates over sanctions on illegal settlements",
+    "Bangladesh measles deaths surpass 1,000 after vaccination drive falls short",
+    "Gaza students with overseas university offers, scholarships remain trapped",
+    "Torrential rains, winds from Hurricane Lowell leaves 30,000 without power"
   ],
-  "sections": []
+  "sections": [
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will the Democratic Party candidate win the 2026 RI-02 House election by 10%-15%?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Carlos Torres Piña win the 2027 Michoacán Governor Election?",
+          "odds": "+171",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the National Rally group hold 10 French Senate seats after the 2026 election?",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 RI-01 House election by 20%-25%?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will AVAX reach $16 by December 31, 2026?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Donald Trump post 200+ Truth Social posts from September 4 to September 11, 2026?",
+          "odds": "+177",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    }
+  ]
 }
