@@ -1,6 +1,11 @@
 {
-  "lastUpdated": "10 de septiembre de 2026 — 15:37 UTC",
+  "lastUpdated": "10 de septiembre de 2026 — 16:49 UTC",
   "ticker": [
+    "Jerusalem Daily: Israeli strikes devastate Gaza",
+    "Oil jumps to $105, pushing up chances of a US interest rate increase",
+    "LIVE: Manchester United vs Sabah – UEFA Champions League",
+    "UN expert Albanese, protesters warn against Italy’s anti-Semitism bill",
+    "At least 20 killed in school fire in rebel-held DR Congo city",
     "Houthis capture Yemeni town of Mocha: Why it matters",
     "Protests outside Israeli embassy in Bangkok over badly behaved tourists",
     "Who is Trump trying to exclude from 2030 US census and why does it matter?",
@@ -10,19 +15,65 @@
     "Multicultural Malmo: Swedish city loathed by far right braces for election",
     "Pakistan U19 cricketers mistaken for asylum seekers by protesters in UK",
     "Houthis advance along Yemen’s southern Red Sea coast",
-    "The Trump loyalty test: Will his supporters ever disagree with him?",
-    "Hundreds of thousands lack adequate shelter at Sudan’s Tawila camp",
-    "At least 25 dead after cargo ship catches fire in China"
+    "Manchester United scouted Mbappe but didn’t sign him, says Ryan Giggs"
   ],
   "sections": [
     {
       "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Will \"The Adventures of Cliff Booth\" be nominated for Best Picture at the 99th Academy Awards?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will the Democratic Party candidate win the 2026 RI-02 House election by 10%-15%?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the National Rally group hold 10 French Senate seats after the 2026 election?",
           "odds": "+233",
-          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 RI-01 House election by 20%-25%?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will AVAX reach $16 by December 31, 2026?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Elon tweet 960-999 times in September 2026?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the lowest temperature in Houston be between 76-77°F on September 11?",
+          "odds": "-122",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
