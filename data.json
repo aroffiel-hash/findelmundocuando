@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "10 de septiembre de 2026 — 16:49 UTC",
+  "lastUpdated": "10 de septiembre de 2026 — 19:25 UTC",
   "ticker": [
+    "Jimmy Kimmel moves Senate interview to YouTube in latest collision with FCC",
+    "Amnesty accuses Russia of trafficking foreigners to fight in Ukraine",
+    "Fire onboard ship at Chinese shipyard kills 25 people",
+    "England close in on Pakistan whitewash in third Test as Robinson shines",
+    "More than a dozen children killed in fire in eastern DR Congo schools",
+    "Climate hazards disrupted school for 1 in 10 students in 2025: UNICEF",
+    "Family of four killed as they slept in Israeli strike on Gaza",
+    "Kurdish YPJ women fighters face exclusion from Syria’s new army",
+    "The Trump-to-Mamdani voter is real. How does the trend affect the midterms?",
+    "Israel arrests 100 Palestinians in a week as West Bank pogroms continue",
+    "US Supreme Court blocks Trump-backed congressional map in Missouri",
+    "Trump’s Iran war now has a midterm election problem",
     "Jerusalem Daily: Israeli strikes devastate Gaza",
     "Oil jumps to $105, pushing up chances of a US interest rate increase",
-    "LIVE: Manchester United vs Sabah – UEFA Champions League",
-    "UN expert Albanese, protesters warn against Italy’s anti-Semitism bill",
-    "At least 20 killed in school fire in rebel-held DR Congo city",
-    "Houthis capture Yemeni town of Mocha: Why it matters",
-    "Protests outside Israeli embassy in Bangkok over badly behaved tourists",
-    "Who is Trump trying to exclude from 2030 US census and why does it matter?",
-    "Yemen’s Houthis seize strategic Red Sea city of Mocha",
-    "Trump promises $5,000 payouts if GOP wins midterms: Can the US afford it?",
-    "French Football Federation withdraws support for FIFA President Infantino",
-    "Multicultural Malmo: Swedish city loathed by far right braces for election",
-    "Pakistan U19 cricketers mistaken for asylum seekers by protesters in UK",
-    "Houthis advance along Yemen’s southern Red Sea coast",
-    "Manchester United scouted Mbappe but didn’t sign him, says Ryan Giggs"
+    "LIVE: Manchester United vs Sabah – UEFA Champions League"
   ],
   "sections": [
     {
@@ -23,8 +23,14 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will \"The Adventures of Cliff Booth\" be nominated for Best Picture at the 99th Academy Awards?",
-          "odds": "+455",
+          "event": "Will Russia target Kyiv on September 27, 2026?",
+          "odds": "-163",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Warsh say \"Gas\" or \"Gasoline\" or \"Natural Gas\" during September Press Conference?",
+          "odds": "+300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -39,18 +45,6 @@
           "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will the National Rally group hold 10 French Senate seats after the 2026 election?",
-          "odds": "+233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party candidate win the 2026 RI-01 House election by 20%-25%?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -59,8 +53,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will AVAX reach $16 by December 31, 2026?",
-          "odds": "+900",
+          "event": "Will CD Cobreloa Calama win on 2026-09-10?",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Grasshopper Club Zurich win on 2026-09-12?",
+          "odds": "+334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -73,6 +73,12 @@
         {
           "event": "Will the lowest temperature in Houston be between 76-77°F on September 11?",
           "odds": "-122",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democrats win Clark County in the Nevada governor race in 2026?",
+          "odds": "-488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
