@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "10 de septiembre de 2026 — 02:28 UTC",
+  "lastUpdated": "10 de septiembre de 2026 — 02:35 UTC",
   "ticker": [
     "Pro-Israel Democrat John Fetterman makes video appearance at GOP convention",
     "Trump gave aide Natalie Harp a $45,000 holiday cash gift, disclosure shows",
@@ -12,7 +12,65 @@
     "Trump says the US-Iran war will end right after midterms",
     "Iran war looms over Trump at Republican midterm convention in Dallas",
     "Gauff beats Andreeva to reach US Open semifinals in comeback win",
-    "‘Everyone’s had their holidays ruined’: outrage after UK airport chaos"
+    "‘Everyone’s had their holidays ruined’: outrage after UK airport chaos",
+    "US court denies Tate brothers’ bid to be released from Miami jail",
+    "Misfiring Arsenal beat Napoli with Odegaard stunner in Champions League",
+    "Manchester United vs Sabah: UEFA Champions League – preview, team news"
   ],
-  "sections": []
+  "sections": [
+    {
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "rows": [
+        {
+          "event": "Will \"The Adventures of Cliff Booth\" be nominated for Best Picture at the 99th Academy Awards?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will the Democratic Party candidate win the 2026 RI-02 House election by 10%-15%?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will AVAX reach $16 by December 31, 2026?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will FK Karpaty Lviv win on 2026-09-13?",
+          "odds": "+122",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Apple (AAPL) close above $310 on September 10?",
+          "odds": "-455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the total domestic gross for Spider-Man: Brand New Day be between 940m and 950m by September 30?",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    }
+  ]
 }
