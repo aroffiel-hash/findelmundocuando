@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "10 de septiembre de 2026 — 22:10 UTC",
+  "lastUpdated": "11 de septiembre de 2026 — 00:45 UTC",
   "ticker": [
+    "Iran claims to have captured a US ‘sail drone’ near Hormuz Strait",
+    "Will Trump pay all US adults $5,000? Some Trump supporters are sceptical",
+    "Israeli film on Gaza receives 25-minute ovation at Venice premiere",
+    "Iran war live: IRGC attacks US unmanned vessel in Hormuz; two ships hit",
+    "UN envoy warns Security Council Yemen’s war has entered ‘dangerous phase’",
+    "A year after Charlie Kirk’s death, are young voters turning on Trump?",
+    "Israel says it destroyed Hezbollah base in Lebanon’s Ali al-Taher ridge",
     "Spain’s Parliament backs citizenship for Western Saharans born before 1977",
     "LG defends smart-TV features amid audio surveillance allegations",
     "Peru joins US-led ‘Shield of the Americas’ security alliance",
-    "Republican midterm convention live: Trump, Vance headline day two in Dallas",
+    "Republican midterm convention live: Vance, Trump to speak in Dallas",
     "Israel says it destroyed key Hezbollah tunnels in southern Lebanon",
     "Gaza hospitals ration power as fuel shortages deepen",
     "Russian strike hits shopping centre in central Ukraine",
-    "Drones recreate Twin Towers in tribute ahead of 9/11 anniversary",
-    "Manchester United beat Sabah 4-0 on Champions League return",
-    "Morocco denies involvement in migrant surge into Spain’s Ceuta",
-    "Will foreign workers leave South Africa?",
-    "What’s happening in Yemen and how did we get here?",
-    "US appeals court rejects Trump bid to implement new vote-by-mail rules",
-    "Could Pakistan enter Yemen conflict under Mecca agreement?",
-    "Algeria cuts diplomatic ties with UAE: What we know"
+    "Drones recreate Twin Towers in tribute ahead of 9/11 anniversary"
   ],
   "sections": [
     {
@@ -23,14 +23,20 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "US x Iran Effective Ceasefire by September 11?",
-          "odds": "-156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Warsh say \"Gas\" or \"Gasoline\" or \"Natural Gas\" during September Press Conference?",
           "odds": "+300",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will Brentford FC win on 2026-09-12?",
+          "odds": "+177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -55,12 +61,6 @@
         {
           "event": "Will Grasshopper Club Zurich win on 2026-09-12?",
           "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Elon tweet 960-999 times in September 2026?",
-          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
