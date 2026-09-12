@@ -1,9 +1,12 @@
 {
-  "lastUpdated": "12 de septiembre de 2026 — 14:45 UTC",
+  "lastUpdated": "12 de septiembre de 2026 — 14:48 UTC",
   "ticker": [
+    "England survive Pakistan scare to seal 3-0 Test series sweep",
+    "Trump says a unified Ireland would be ‘fantastic’ during Irish visit",
     "Iran-backed Houthis seize strategic Mayun Island: Can they hold it?",
     "‘Divine triumph’: Iran celebrates Houthis’ capture of Yemen’s Red Sea coast",
     "India’s Modi calls for empowerment of Global South at BRICS Summit",
+    "Manchester United vs Man City: Premier League – predictions, teams, lineups",
     "Trump: Iran probably ‘behind’ Saudi oil pipeline attack",
     "Yemen government forces say Houthi ‘members, vehicles’ targeted in Mocha",
     "Left with nothing, people in Gaza are forced to rent generators by the hour",
@@ -16,25 +19,91 @@
   ],
   "sections": [
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Trump x Greenland deal signed by December 31?",
-          "odds": "+525",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "San Martin de Tucuman vs. Agropecuario Argentino: San Martin de Tucuman O/U 1.5",
+          "odds": "+163",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
+        {
+          "event": "Will the Democratic Party candidate win the 2026 RI-02 House election by 10%-15%?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the National Rally group hold 10 French Senate seats after the 2026 election?",
           "odds": "+233",
-          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 RI-01 House election by 20%-25%?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Trump x Greenland deal signed by December 31?",
+          "odds": "+525",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will \"BbY WOW - KAROL G, Judeline, rusowsky\" be the #2 US song this week?",
+          "odds": "-426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Costco (COST) beat quarterly earnings?",
+          "odds": "-233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democrats win Clark County in the Nevada governor race in 2026?",
+          "odds": "-488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Qarabag FK leading at halftime?",
+          "odds": "+203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Philadelphia Phillies vs. Atlanta Braves: 1st inning tied?",
+          "odds": "-108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Honor of Kings: Wolves vs Talent Gaming (BO7) - King Pro League Playoffs",
+          "odds": "-127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Relay FDV above $500M one day after launch?",
+          "odds": "+244",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
