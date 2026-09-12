@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "12 de septiembre de 2026 — 02:30 UTC",
+  "lastUpdated": "12 de septiembre de 2026 — 02:37 UTC",
   "ticker": [
+    "North Korea fires ballistic missiles off eastern coast, Seoul says",
+    "Putin and Pezeshkian call out US dominance ahead of BRICS",
+    "Satellite image shows critical Saudi pipeline damaged in drone attack",
     "CIA drops dozens of declassified documents on bin Laden and al-Qaeda",
     "How Canadians are bracing for the impact of Trump’s trade war",
     "Passenger train derails in France, leaving 44 injured, 1 critical",
@@ -10,19 +13,67 @@
     "Flavio Bolsonaro faces corruption probe weeks before Brazil election",
     "Israeli demolitions threaten schools and homes in Masafer Yatta",
     "Saudi Arabia says East-West pipeline hit by drones launched from Iraq",
+    "Sabalenka vs Rybakina: US Open women’s singles final – start, prize, form",
     "Somber tributes as US marks the 25th anniversary of September 11 attacks",
-    "Zohran Mamdani commemorates 9/11 amid widespread criticism",
-    "US legislators push AI safety laws amid human extinction warnings"
+    "Zohran Mamdani commemorates 9/11 amid widespread criticism"
   ],
   "sections": [
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "San Martin de Tucuman vs. Agropecuario Argentino: San Martin de Tucuman O/U 1.5",
+          "odds": "+163",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Christian Democrats (KD) win less than 5% of all valid votes?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 RI-02 House election by 10%-15%?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
           "event": "Trump x Greenland deal signed by December 31?",
           "odds": "+525",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Dallas be between 100-101°F on September 13?",
+          "odds": "-177",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democrats win Clark County in the Nevada governor race in 2026?",
+          "odds": "-488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Miami be between 88-89°F on September 13?",
+          "odds": "+222",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
