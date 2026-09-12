@@ -1,23 +1,35 @@
 {
-  "lastUpdated": "12 de septiembre de 2026 — 02:37 UTC",
+  "lastUpdated": "12 de septiembre de 2026 — 07:33 UTC",
   "ticker": [
+    "Man waving Palestinian flag tackled on Yankee Stadium field",
+    "Duplantis, Ingebrigtsen shine at World Athletics Ultimate Championship",
+    "Shelton advances to US Open 2026 men’s final for Zverev showdown",
+    "‘War on terror’: How 9/11 changed the language of conflict",
+    "Chileans clash over 9/11 military coup legacy",
+    "BRICS meets in India: What’s on the agenda, why it matters",
+    "‘The family paid the price’: India’s deadly online gambling crisis",
+    "China’s Xi lands in India for BRICS summit overshadowed by wars",
+    "A stable Afghanistan post 9/11 is in US interests says former US diplomat",
+    "Mexico rescues eight from clandestine clinic run by violent Jalisco cartel",
     "North Korea fires ballistic missiles off eastern coast, Seoul says",
     "Putin and Pezeshkian call out US dominance ahead of BRICS",
     "Satellite image shows critical Saudi pipeline damaged in drone attack",
-    "CIA drops dozens of declassified documents on bin Laden and al-Qaeda",
-    "How Canadians are bracing for the impact of Trump’s trade war",
-    "Passenger train derails in France, leaving 44 injured, 1 critical",
-    "Former top US diplomat reveals mistakes made after 9/11 attacks",
-    "Iran war live: Houthis control Red Sea coast, Saudi pipeline shut down",
-    "UN extends partial Sudan arms embargo for a month",
-    "Flavio Bolsonaro faces corruption probe weeks before Brazil election",
-    "Israeli demolitions threaten schools and homes in Masafer Yatta",
-    "Saudi Arabia says East-West pipeline hit by drones launched from Iraq",
-    "Sabalenka vs Rybakina: US Open women’s singles final – start, prize, form",
-    "Somber tributes as US marks the 25th anniversary of September 11 attacks",
-    "Zohran Mamdani commemorates 9/11 amid widespread criticism"
+    "CIA releases dozens of declassified documents on bin Laden prior to 9/11",
+    "How Canadians are bracing for the impact of Trump’s trade war"
   ],
   "sections": [
+    {
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "rows": [
+        {
+          "event": "Will the lowest temperature in Warsaw be 6°C on September 13?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
     {
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
@@ -35,14 +47,26 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Christian Democrats (KD) win less than 5% of all valid votes?",
-          "odds": "+733",
+          "event": "Will the Democratic Party candidate win the 2026 RI-02 House election by 10%-15%?",
+          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the Democratic Party candidate win the 2026 RI-02 House election by 10%-15%?",
-          "odds": "+614",
+          "event": "Will the National Rally group hold 10 French Senate seats after the 2026 election?",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 RI-01 House election by 20%-25%?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 MN-04 House election by 45%-50%?",
+          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -59,8 +83,14 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Dallas be between 100-101°F on September 13?",
-          "odds": "-177",
+          "event": "Hyperliquid Up or Down - September 12, 12:00AM-4:00AM ET",
+          "odds": "-104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "RC Strasbourg Alsace vs. AS Monaco FC: Neither team to score first?",
+          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -71,8 +101,26 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Miami be between 88-89°F on September 13?",
-          "odds": "+222",
+          "event": "Will Zelenskyy post 120-139 posts from September 15 to September 22, 2026?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: CDPJuniorFC 1 - 1 Deportivo Pereira?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Taipei be 33°C on September 13?",
+          "odds": "+257",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "West Ham United FC vs. London City Lionesses: Both Teams to Score",
+          "odds": "-104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
