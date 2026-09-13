@@ -1,23 +1,35 @@
 {
-  "lastUpdated": "12 de septiembre de 2026 — 22:07 UTC",
+  "lastUpdated": "13 de septiembre de 2026 — 00:31 UTC",
   "ticker": [
+    "Iran war live: Saudi Arabia and Houthis trade strikes over Bab al-Mandeb",
+    "Teen rescued after clinging to boat for two days off Alaska",
+    "Death toll from Philippine ferry fire rises to 76",
+    "Mbappe double helps Real Madrid thump Rayo Vallecano 4–1 in La Liga",
+    "Alexander Zverev vs Ben Shelton: US Open men’s singles final – all to know",
+    "Elena Rybakina defeats Aryna Sabalenka in US Open women’s singles final",
+    "Arteta seethes at Sunderland penalty decision despite Arsenal win",
+    "Tens of thousands march across Germany to protest far-right party AfD",
+    "USA edge Spain to book Women’s Basketball World Cup final against France",
     "First naval battle between drones takes place in the Black Sea",
     "Ebola spreads to seventh DRC province as gov’t insists cases are declining",
     "Second crypto billionaire donates record $49m to far-right Reform UK",
     "Fire at nursing home in Chile kills 16 elderly residents",
     "Israel bombs southern Lebanon as talks postponed",
-    "Gaza genocide documentary ‘NAZA’ wins Special Jury Prize at Venice",
-    "US court blocks Trump administration plan to cut disaster agency workforce",
-    "Bahrain says it will not participate in Iran’s proposed Hormuz meeting",
-    "Will Houthi advances in Yemen give Iran leverage in its war with the US?",
-    "Afghan woman deported in first use of US Alien Terrorist Removal Court",
-    "Iraq probes drone strikes on Saudi Arabia, shuts three crossings to Iran",
-    "Iran, UAE hold first talks at BRICS summit since conflict began",
-    "Selling the war: Purges, polygraphs and propaganda",
-    "India vs Sri Lanka: Women’s T20 Asia Cup 2026 final – schedule, teams, form",
-    "Man arrested over killing of Tasia Fortune, found hanging from tree"
+    "Gaza genocide documentary ‘NAZA’ wins Special Jury Prize at Venice"
   ],
   "sections": [
+    {
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "rows": [
+        {
+          "event": "Israel x Iran ceasefire continues through September 15?",
+          "odds": "-2399",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
     {
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
@@ -51,6 +63,18 @@
           "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 OR-06 House election by 25%-30%?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 TX-29 House election by 40%-45%?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -65,14 +89,8 @@
           "moved": "none"
         },
         {
-          "event": "Will AVAX reach $12 by December 31, 2026?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will FC Košice win on 2026-09-12?",
-          "odds": "+300",
+          "event": "Relay FDV above $500M one day after launch?",
+          "odds": "+244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -89,20 +107,26 @@
           "moved": "none"
         },
         {
-          "event": "Philadelphia Phillies vs. Atlanta Braves: 1st inning tied?",
-          "odds": "-108",
+          "event": "Exact Score: CF Cruz Azul 2 - 1 CF América?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Relay FDV above $500M one day after launch?",
-          "odds": "+244",
+          "event": "Counter-Strike: NRG vs Liquid - Map 1 Winner",
+          "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Exact Score: CDPJuniorFC 1 - 1 Deportivo Pereira?",
           "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump meet with Delcy Rodríguez by December 31, 2026?",
+          "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
