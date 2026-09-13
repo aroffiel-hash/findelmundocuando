@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "13 de septiembre de 2026 — 20:06 UTC",
+  "lastUpdated": "13 de septiembre de 2026 — 22:45 UTC",
   "ticker": [
-    "Centre-left opposition bloc leads in Swedish vote, poll shows",
-    "​Bangsamoro’s parliamentary election is a turning point",
-    "Haaland goal sees 10-man City beat United in controversial Manchester derby",
-    "Syrian child killed after roadside object explodes near Damascus",
-    "Trump tells Zelenskyy to stop hitting Russian diesel supplies",
-    "French TV programme pulled after actress speaks out on Gaza",
-    "Ukrainian drone evades Russian helicopter fire to strike oil tanker",
-    "Kosovo approves new government after months of political deadlock",
-    "F1 leader Antonelli wins Spanish Grand Prix as unlucky Norris misses out",
-    "Six killed, 130 missing after Indonesian passenger ship capsizes",
-    "World leaders gather in New Delhi for final day of BRICS summit",
-    "As Chavez and Maduro images disappear, is Venezuela entering a new chapter?",
-    "What are the five pros and cons of artificial intelligence?",
-    "Red Sea nations watch as Houthis seize Bab al-Mandeb strait",
-    "More than 2,000 Yemenis flee to Djibouti amid Houthi advances"
+    "Could AI really kill us within a decade?",
+    "Barcelona beat Levante as Yamal scores twice to maintain perfect start",
+    "Jefferson-Wooden, Bednarek complete Ultimate Championship sprint doubles",
+    "Manchester City wrongly awarded Haaland goal by VAR at United: Refs’ body",
+    "Tehran and Muscat delay talks, citing regional consensus need",
+    "A third person has died of measles in the US, health officials say",
+    "USA defeat France to win 12th FIBA Women’s Basketball World Cup",
+    "Poland, Ukraine accuse Russia of ‘escalation’ after strikes near border",
+    "Pro-Palestine protest demands Australia increases pressure on Israel",
+    "Jerusalem Daily: Pregnant woman killed in Gaza",
+    "Can a warming Arctic become an important commercial highway?",
+    "India win Women’s Asia Cup but do not accept trophy",
+    "US Envoy Jared Kushner says Doha attack left Israel ‘globally isolated’",
+    "US will scrap Irish whisky tariff, Trump says",
+    "Swedes vote in election that could see far-right in government"
   ],
   "sections": [
     {
@@ -35,8 +35,32 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
+          "event": "Will Centre Party (C) win between 5% and 7% of all valid votes?",
+          "odds": "+284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the Democratic Party candidate win the 2026 RI-02 House election by 10%-15%?",
           "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the National Rally group hold 10 French Senate seats after the 2026 election?",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 RI-01 House election by 20%-25%?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 Florida Attorney General election?",
+          "odds": "+566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -47,20 +71,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Aarhus GF win on 2026-09-13?",
-          "odds": "+376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will FK Zemun vs. FK Radnik Surdulica end in a draw?",
           "odds": "+222",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Exact Score: Hapoel Ramat Gan Givatayim FC 1 - 1 Maccabi Netanya FC?",
-          "odds": "+1011",
+          "event": "Dana White's Contender Series: Antonio Monteiro vs. Tyshawn Williams (Featherweight, Main Card)",
+          "odds": "+257",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -73,6 +91,18 @@
         {
           "event": "Major Clubs T20: Tamil Union Cricket and Athletic Club vs Colombo Cricket Club",
           "odds": "-1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will OpenAI IPO by December 31 2026?",
+          "odds": "+1718",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: CDPJuniorFC 1 - 1 Deportivo Pereira?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
