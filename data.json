@@ -1,40 +1,127 @@
 {
-  "lastUpdated": "13 de septiembre de 2026 — 02:29 UTC",
+  "lastUpdated": "13 de septiembre de 2026 — 05:32 UTC",
   "ticker": [
+    "1,400 Yemenis flee to Djibouti within 24 hours",
+    "Wildfire rages on Croatia’s Dalmatian Coast island of Brac",
+    "One dead, more than 30 missing after Vanuatu ferry sinks, PM’s office says",
+    "Yemen’s Houthis seize strategic Mayun Island in Red Sea",
+    "‘We started to plummet’: Turbulence rocks Turkish Airlines flight",
+    "Iraq seizes drone-launching platform used for targeting Saudi oil pipeline",
     "Why Spain’s new Sahrawi citizenship law matters to Morocco",
     "Iran’s Pezeshkian: ‘We are not at war with Saudi Arabia’",
     "Trump says he would ‘love to see’ a united Ireland during Irish visit",
     "Houthi projectile wounds two, damages mosque in Jazan region, Saudi says",
-    "Iran war live: Saudi Arabia and Houthis trade strikes over Bab al-Mandeb",
+    "Iran war live: Tens of thousands displaced as Yemen fighting escalates",
     "Teen rescued after clinging to boat for two days off Alaska",
     "Death toll from Philippine ferry fire rises to 76",
-    "Elena Rybakina defeats Aryna Sabalenka in US Open women’s singles final",
-    "Tens of thousands march across Germany to protest far-right party AfD",
-    "USA edge Spain to book Women’s Basketball World Cup final against France",
-    "First naval battle between drones takes place in the Black Sea",
-    "Ebola spreads to seventh DRC province as gov’t insists cases are declining"
+    "Mbappe double helps Real Madrid thump Rayo Vallecano 4–1 in La Liga",
+    "Alexander Zverev vs Ben Shelton: US Open men’s singles final – all to know"
   ],
   "sections": [
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Trump meet with Delcy Rodríguez by December 31, 2026?",
-          "odds": "+233",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Legia Warszawa vs. Widzew Lodz: Widzew Lodz 1st Half O/U 0.5",
+          "odds": "+177",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
+        {
+          "event": "San Martin de Tucuman vs. Agropecuario Argentino: San Martin de Tucuman O/U 1.5",
+          "odds": "+163",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will the Democratic Party candidate win the 2026 RI-02 House election by 10%-15%?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the National Rally group hold 10 French Senate seats after the 2026 election?",
           "odds": "+233",
-          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 RI-01 House election by 20%-25%?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 OR-06 House election by 25%-30%?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Exact Score: KRC Genk 2 - 2 KAA Gent?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Levante UD leading at halftime?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will FK Zemun vs. FK Radnik Surdulica end in a draw?",
+          "odds": "+222",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Relay FDV above $500M one day after launch?",
+          "odds": "+244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Counter-Strike: FOKUS vs Sashi Esport (BO3) - CCT Europe Series #8 Playoffs",
+          "odds": "-132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Banksy post to Instagram by September 30?",
+          "odds": "+222",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democrats win Clark County in the Nevada governor race in 2026?",
+          "odds": "-488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Qarabag FK leading at halftime?",
+          "odds": "+203",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
