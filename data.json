@@ -1,6 +1,7 @@
 {
-  "lastUpdated": "14 de septiembre de 2026 — 17:21 UTC",
+  "lastUpdated": "14 de septiembre de 2026 — 17:24 UTC",
   "ticker": [
+    "JD Vance insists US is ‘on top of’ Houthi advance in Red Sea",
     "How Israel systematically dismantles Palestinian life in occupied West Bank",
     "Why Middle East tensions are pushing oil prices above $100",
     "Man dies after French police officer throws him on the ground",
@@ -12,7 +13,40 @@
     "Going to school under Israeli occupation",
     "Burnham must establish an inquiry into Britain’s role in the Gaza genocide",
     "China rejects AI ‘threat narratives’, urges global cooperation",
-    "Fiscal pressure from Iran War clouds Gulf States’ US spending plans"
+    "Fiscal pressure from Iran War clouds Gulf States’ US spending plans",
+    "‘Silent Cold War’: Why calls to slow AI have sparked new US–China frontier",
+    "How can the Islamic world challenge Western narratives about it?"
   ],
-  "sections": []
+  "sections": [
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will the Democratic Party candidate win the 2026 RI-02 House election by 10%-15%?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will the Democrats win Clark County in the Nevada governor race in 2026?",
+          "odds": "-488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Brooklyn FC to score first vs. Indy Eleven?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    }
+  ]
 }
