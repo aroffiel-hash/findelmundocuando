@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "14 de septiembre de 2026 — 02:45 UTC",
+  "lastUpdated": "14 de septiembre de 2026 — 05:38 UTC",
   "ticker": [
+    "Protests break out across Syria over fuel price increases",
+    "Residents help battle forest fires threatening homes in Ecuadorian capital",
+    "Israeli minister threatens to revoke filmmakers’ citizenship over Gaza film",
+    "Turkish authorities launch anti-LGBTQ raids, detaining dozens",
+    "Japanese PM-backed candidate wins Okinawa gubernatorial election",
+    "Russia hits Ukrainian train shortly after Boris Johnson leaves station",
     "Niger mutiny exposes growing reliance on Russia",
     "Philippines’ Muslim-majority Bangsamoro region votes for first parliament",
     "Protests erupt across Syria over sharp fuel price hikes",
@@ -9,20 +15,65 @@
     "Yemen’s Houthis advance on government strongholds of Marib, Taiz",
     "Iran war live: Oman says Hormuz talks with Iran, Gulf states postponed",
     "Israeli quadcopter terrorises homes in Gaza City",
-    "Trump dismisses calls for AI slowdown from leading tech CEOs",
-    "Zverev defeats Shelton in four sets to win his first US Open title",
-    "Could AI really kill us within a decade?",
-    "Jefferson-Wooden, Bednarek complete Ultimate Championship sprint doubles"
+    "Trump dismisses calls for AI slowdown from leading tech CEOs"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
+        {
+          "event": "Will Centre Party (C) win between 5% and 7% of all valid votes?",
+          "odds": "+284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 RI-02 House election by 10%-15%?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the National Rally group hold 10 French Senate seats after the 2026 election?",
           "odds": "+233",
-          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 RI-01 House election by 20%-25%?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 Florida Attorney General election?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will the Democrats win Clark County in the Nevada governor race in 2026?",
+          "odds": "-488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will OpenAI IPO by December 31 2026?",
+          "odds": "+2027",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: CDPJuniorFC 1 - 1 Deportivo Pereira?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
