@@ -1,40 +1,85 @@
 {
-  "lastUpdated": "15 de septiembre de 2026 — 15:59 UTC",
+  "lastUpdated": "15 de septiembre de 2026 — 19:25 UTC",
   "ticker": [
+    "NATO downs drone over Lithuania, ‘probably’ launched by Russia",
+    "Eto’o could face Cameroon probe over alleged Russia payment",
+    "India beat Afghanistan by seven wickets to seal T20 series",
+    "Egypt’s el-Sisi meets MBS, backs Saudi call for secure Red Sea navigation",
+    "Police crack down on protests against constitutional change in DR Congo",
+    "More than 100,000 displaced as they flee violence in Yemen: UN",
+    "How an Israeli cell orchestrated an anti-Qatar campaign",
+    "Can China play peacemaker as Iran’s foreign minister heads to Beijing?",
+    "Election in Philippines’ Bangsamoro region ends in hung parliament",
+    "FBI’s Kash Patel defends hiring policy change on bestiality, prostitution",
+    "Lucy Letby inquiry blames UK hospital for failure to protect babies",
+    "US democratic decline threatens global rule of law, report warns",
+    "Will Russia and Ukraine halt attacks on energy infrastructure?",
     "China does not need to replace the US in the Gulf",
-    "Who is Robert Kraft, pro-Israel billionaire who cancelled Macklemore?",
-    "Canada, the UK and Australia should investigate the WCK attack in Gaza",
-    "Russia warns Denmark after near miss in Baltic Sea",
-    "Carney visits Europe: Can Canada seek refuge with the EU amid US trade war?",
-    "Saudi Arabia faces high-stakes choices as war with Houthis escalates",
-    "Can the Houthis hold on to Yemen’s strategic western coast?",
-    "What are ‘space weapons’, which US says it has deployed into orbit?",
-    "Bangladesh hands death sentences to 7 aides of ousted Prime Minister Hasina",
-    "South Korea embraces Central Asian leaders, looking to boost regional clout",
-    "Houthi-run TV releases video of abandoned Mocha airport",
-    "Coalition talks likely as no party dominates Philippines’ Bangsamoro region"
+    "Who is Robert Kraft, pro-Israel billionaire who cancelled Macklemore?"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Al-Fateh be relegated from the 2026-27 Saudi Professional League?",
-          "odds": "+1011",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Will Rishi Sharma win the 2026 Saanich mayoral election?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇺🇸",
-      "label": "EE.UU. — GEOPOLÍTICA",
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Donald Trump publicly insult someone on September 25, 2026?",
-          "odds": "+112",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Decisión de la administración Trump.",
+          "event": "Elche CF vs. Real Madrid CF: Team to Take First Corner",
+          "odds": "+203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Microsoft announces a training pause by October 31?",
+          "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Instituto AC Córdoba win on 2026-09-19?",
+          "odds": "-104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Al-Fateh be relegated from the 2026-27 Saudi Professional League?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will NVIDIA (NVDA) close above $200 end of September?",
+          "odds": "-524",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Amsterdam be 17°C on September 16?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jong FC Utrecht win on 2026-09-18?",
+          "odds": "+163",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will En Avant Guingamp win on 2026-09-19?",
+          "odds": "+143",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
