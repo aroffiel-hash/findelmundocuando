@@ -1,40 +1,67 @@
 {
-  "lastUpdated": "16 de septiembre de 2026 — 15:53 UTC",
+  "lastUpdated": "16 de septiembre de 2026 — 19:16 UTC",
   "ticker": [
-    "Ex-Trump ally Marjorie Taylor Greene says war on Iran must ‘stop’",
-    "Djibouti calls for assistance as thousands of Yemenis flee to country",
-    "Israeli ‘double-tap’ air strike responsible for killing schoolboy in Gaza",
-    "Iran war has cost the US $38bn: How will it impact US economy, politics?",
-    "Mbappe, Vinicius and Konate court controversy with Ceuta solidarity shirts",
-    "Egypt’s el-Sisi rejects displacement of Palestinians from Gaza",
-    "Four years on, Iranians reflect on impact of ‘Woman, Life, Freedom’",
-    "Why are election officials in the US preparing for chaos before midterms?",
-    "Al Taawoun face stadium closure, fine over ‘Jota’ chants by fans",
-    "Why some countries fail while others prosper in the Middle East and Africa",
-    "Norway’s sovereign wealth fund profits from Israeli holdings amid genocide",
-    "Which artists have pulled out of Ed Sheeran’s tour over Palestine?"
+    "US Fed raises interest rates as inflation weighs on economy",
+    "Geopolitical divides fueling Security Council inaction, Guterres warns",
+    "UK trade unions back motion to boycott and sanction Israel",
+    "Belarus frees 25 political prisoners in return for US sanctions relief",
+    "Kosovo’s former president guilty of war crimes",
+    "Why has the response to Nepal’s floods been so muted?",
+    "South Africa slams planned US sanctions over alleged racial discrimination",
+    "‘Nowhere to go’: Gaza’s damaged buildings turn deadly",
+    "Neturei Karta: Opposing Zionism",
+    "Can the US government punish a university for boycotting Israel?",
+    "Poll shows Americans are increasingly alarmed by AI’s ecological footprint",
+    "Malaysia offers to invite Myanmar leader in Rohingya repatriation push",
+    "Angry Dutch farmers blamed for railway sabotage: What happened?",
+    "Ebola fight in DRC ‘far from over,’ warns WHO chief",
+    "Sweden expels Iran embassy employee, citing security concerns"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
       "rows": [
+        {
+          "event": "Will VfB Stuttgart win on 2026-09-19?",
+          "odds": "+143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Al-Fateh be relegated from the 2026-27 Saudi Professional League?",
           "odds": "+1011",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🇨🇳",
-      "label": "CHINA / PACÍFICO / COREA",
-      "rows": [
+        },
+        {
+          "event": "Will FC Famalicão win on 2026-09-19?",
+          "odds": "+122",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Xi Jinping visit US by October 31?",
           "odds": "-1594",
-          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jong FC Utrecht win on 2026-09-18?",
+          "odds": "+163",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will En Avant Guingamp win on 2026-09-19?",
+          "odds": "+143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Brown vs. New Haven",
+          "odds": "-376",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
