@@ -1,73 +1,40 @@
 {
-  "lastUpdated": "16 de septiembre de 2026 — 15:15 UTC",
+  "lastUpdated": "16 de septiembre de 2026 — 15:53 UTC",
   "ticker": [
+    "Ex-Trump ally Marjorie Taylor Greene says war on Iran must ‘stop’",
+    "Djibouti calls for assistance as thousands of Yemenis flee to country",
     "Israeli ‘double-tap’ air strike responsible for killing schoolboy in Gaza",
     "Iran war has cost the US $38bn: How will it impact US economy, politics?",
     "Mbappe, Vinicius and Konate court controversy with Ceuta solidarity shirts",
     "Egypt’s el-Sisi rejects displacement of Palestinians from Gaza",
     "Four years on, Iranians reflect on impact of ‘Woman, Life, Freedom’",
     "Why are election officials in the US preparing for chaos before midterms?",
-    "Maresca defends VAR while lamenting row dominating win at Manchester United",
     "Al Taawoun face stadium closure, fine over ‘Jota’ chants by fans",
     "Why some countries fail while others prosper in the Middle East and Africa",
     "Norway’s sovereign wealth fund profits from Israeli holdings amid genocide",
-    "Which artists have pulled out of Ed Sheeran’s tour over Palestine?",
-    "Djibouti on alert as people flee Yemen after Houthi takeover of Mayyun",
-    "EU chief von der Leyen proposes ‘associate member’ status for Canada",
-    "Gold mine collapse kills at least 82 people in Sudan’s West Kordofan",
-    "China willing to ‘safeguard Iran’s legitimate rights’, official says"
+    "Which artists have pulled out of Ed Sheeran’s tour over Palestine?"
   ],
   "sections": [
     {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
-        {
-          "event": "Will VfB Stuttgart win on 2026-09-19?",
-          "odds": "+143",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: Manchester United FC 3 - 2 Brighton & Hove Albion FC?",
-          "odds": "+1940",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: Manchester United FC 3 - 0 Brighton & Hove Albion FC?",
-          "odds": "+1860",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Al-Fateh be relegated from the 2026-27 Saudi Professional League?",
           "odds": "+1011",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
-        },
-        {
-          "event": "Will an AI lab announce another Millennium Prize solution by December 31, 2026?",
-          "odds": "+127",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will NVIDIA (NVDA) close above $200 end of September?",
-          "odds": "-524",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will FC Famalicão win on 2026-09-19?",
-          "odds": "+122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "🇨🇳",
+      "label": "CHINA / PACÍFICO / COREA",
+      "rows": [
         {
           "event": "Will Xi Jinping visit US by October 31?",
           "odds": "-1594",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
