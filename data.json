@@ -1,49 +1,40 @@
 {
-  "lastUpdated": "17 de septiembre de 2026 — 12:31 UTC",
+  "lastUpdated": "17 de septiembre de 2026 — 15:59 UTC",
   "ticker": [
-    "LIVE: India vs Afghanistan – T20 international cricket series",
-    "What’s the Asian Games accommodation crisis, and where will athletes stay?",
-    "Climate change had major role in triggering Nepal floods, scientists say",
-    "India to impose controversial fee for UPI instant payments: Who benefits?",
-    "Gaza repairman helps journalists to keep documenting genocide",
-    "Why is inflation rising again around the world?",
-    "Trump claims direct talks with Iran: Is diplomacy picking up again?",
-    "Lebanon security talks in Paris to focus on post-UNIFIL alternatives",
-    "UK charities, protest groups condemn Israeli ban threat after sanctions",
-    "NBA star Irving pledges to pay Al-Shaair’s NFL fine over Hind Rajab message",
-    "At least 19 injured in Russian attacks across Ukraine",
-    "Beckham backs Messi for Ballon d’Or after netting 100th Inter Miami goal",
-    "‘They called us’: Has Trump abandoned Bab al-Mandeb to the Houthis?",
-    "From Yanbu to Sohar: Tracking Saudi Arabia’s alternative oil routes",
-    "Pernicious states: Towards a new grammar of international relations"
+    "Ireland boycotts Eurovision for second year over Israel’s inclusion",
+    "Ninth woman’s body found as South Africa probes series of killings",
+    "‘Kosovo’s moves towards Israel are the price of aligning with US policy’",
+    "What are all the sanctions Iran is under?",
+    "China faces oil challenge as prices soar and supply options narrow",
+    "Ghalibaf’s maths missile at Trump decoded: Is Iran fixing US interest rates?",
+    "India-Pakistan navy ship collision sparks alarm over unintended escalation",
+    "How far will Egypt go to help Saudi Arabia secure the Red Sea?",
+    "Sweden prime minister to resign as left-wing bloc seals narrow election win",
+    "US tariffs against Russian oil buyers pass: What it means for China, India",
+    "Canada’s Carney welcomes EU’s associated membership proposal",
+    "Syrian court sentences three linked to coastal violence"
   ],
   "sections": [
     {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
-        {
-          "event": "Will the lowest temperature in Miami be between 76-77°F on September 17?",
-          "odds": "-233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Al-Fateh be relegated from the 2026-27 Saudi Professional League?",
           "odds": "+1011",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "rows": [
         {
-          "event": "Allahyar Sayyad: Anytime Goalscorer",
-          "odds": "+525",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will En Avant Guingamp win on 2026-09-19?",
-          "odds": "+143",
-          "params": "Fuente: Polymarket",
+          "event": "Will the Republican Party candidate win the 2026 Idaho Senate election by 25%-30%?",
+          "odds": "+488",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
