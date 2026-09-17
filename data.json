@@ -1,40 +1,55 @@
 {
-  "lastUpdated": "17 de septiembre de 2026 — 02:47 UTC",
+  "lastUpdated": "17 de septiembre de 2026 — 07:00 UTC",
   "ticker": [
+    "Israel weaponises AI for West Bank demolitions",
+    "OpenAI reports more incidents of models acting deceptively",
+    "What are the biggest AI companies and how much are they worth?",
+    "Argentinian judge orders suspension of Falklands oil project",
+    "Trump threatens to end trade with Mexico and Europe after rate hike",
+    "Can AI regulation keep America ahead of China?",
+    "US bars Palestinian president from attending UNGA for second year",
+    "US extends visa ban on Palestinian officials before UN General Assembly",
+    "Yemeni forces target Houthis as US rules out direct role",
+    "Verstappen beats 100 go-karters in fun Silverstone race",
+    "Morocco’s 2026 election: A test of political trust and engagement",
+    "Floods return to Valencia with 2024 tragedy still fresh in mind",
     "Reports: US, Houthis make secret deal over Yemen war",
     "UK’s Burnham, Canada’s Carney discuss AI risks, defence cooperation",
-    "Congress passes sweeping US sanctions bill targeting Russia",
-    "US CENTCOM tells Al Jazeera Hormuz blockade ‘highly effective’",
-    "Trump says Canada becoming EU ‘associate member’ could be ‘hostile act’",
-    "Three dead after flooding inundates Navajo Nation in New Mexico",
-    "Iran war live: Trump says US nearing end of war, claims Tehran direct talks",
-    "Israel and Morocco agree to open embassies, upgrading diplomatic ties",
-    "US military claims Strait of Hormuz remains open amid ongoing blockade",
-    "‘People don’t have money’: Syrian fuel hikes deepen economic pain",
-    "What to know about US Federal Reserve’s first interest rate hike in 3 years",
-    "For checkpoint and settler attack news, Palestinians tune into the radio"
+    "Congress passes sweeping US sanctions bill targeting Russia"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Al-Fateh be relegated from the 2026-27 Saudi Professional League?",
-          "odds": "+1011",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Will Marília Campos win the second-most votes in the 2026 Minas Gerais Senate election?",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Marília Campos win the second-most votes in the 2026 Minas Gerais Senate election?",
-          "odds": "+316",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Will Al-Fateh be relegated from the 2026-27 Saudi Professional League?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will En Avant Guingamp win on 2026-09-19?",
+          "odds": "+143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: Internacional de Bogotá 3 - 2 Atlético Nacional?",
+          "odds": "+713",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
