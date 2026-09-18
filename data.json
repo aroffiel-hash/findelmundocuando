@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "18 de septiembre de 2026 — 02:34 UTC",
+  "lastUpdated": "18 de septiembre de 2026 — 02:40 UTC",
   "ticker": [
     "Syria warns Israel poses ‘the greatest threat’ to Middle East stability",
     "UN findings show US strikes on Minab could be war crimes",
@@ -12,29 +12,56 @@
     "US approves $414M uranium investment in Niger, two years after troops left",
     "Russia election: Could other parties challenge United Russia?",
     "Trinidad and Tobago ends state of emergency amid pushback over mass arrests",
-    "US judge orders 30-day notice prior to any Kennedy Center physical changes"
+    "US judge orders 30-day notice prior to any Kennedy Center physical changes",
+    "Trump administration approves sale of F-35 jets to Saudi Arabia",
+    "Yemenis recount journey to Djibouti as refugee arrivals surge",
+    "US approves visas for top Iranian leaders to attend UN General Assembly"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Al-Fateh be relegated from the 2026-27 Saudi Professional League?",
-          "odds": "+1011",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Will the Republican Party candidate win the 2026 Idaho Senate election by 25%-30%?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the Republican Party candidate win the 2026 Idaho Senate election by 25%-30%?",
-          "odds": "+488",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Will Al-Fateh be relegated from the 2026-27 Saudi Professional League?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: CA Bucaramanga 3 - 0 Independiente Medellín?",
+          "odds": "+2677",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Anduril's valuation hit (HIGH) $122.5B by September 30?",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will AA Argentinos Juniors win on 2026-09-20?",
+          "odds": "+257",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will En Avant Guingamp win on 2026-09-19?",
+          "odds": "+143",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
