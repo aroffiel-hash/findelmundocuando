@@ -1,40 +1,79 @@
 {
-  "lastUpdated": "20 de septiembre de 2026 — 15:12 UTC",
+  "lastUpdated": "20 de septiembre de 2026 — 17:51 UTC",
   "ticker": [
+    "Trump tariffs hit Canada’s dairy farmers as US sales stall",
+    "Meloni promises to ban burqas, niqabs in Italy’s schools",
+    "Central Colombia forest fire threatens tourist town of Villa de Leyva",
+    "Atletico Madrid beat 10-man Real Madrid 2-1 in feisty La Liga derby",
+    "Photos: Nepal flood survivors find little trace of former lives",
+    "Why have US prosecutors labelled China’s Huawei a criminal enterprise?",
+    "Kenya’s Ngetich breaks women-only half-marathon world record by a second",
+    "Trump says monumental arch in Washington, DC will also be military complex",
     "Venezuela quakes rescue dog ‘Tsunami’ honoured with statue",
     "Hundreds protest in Tunisia for release of jailed Gaza flotilla activists",
     "Humanoid robots fight in cage match in Shanghai",
     "The pro-Israel censors are starting to lose",
     "Jews and Muslims lived together for centuries. Did Zionism tear them apart?",
     "What’s behind Iranian authorities’ push for a mass mobilisation campaign?",
-    "Netanyahu tours tunnels underneath Al-Aqsa Mosque compound",
-    "Iran win Asian Games basketball bronze amid emotional scenes",
-    "Moscow attacked by more than 1,000 Ukrainian drones",
-    "Former Pakistan PM Imran Khan’s sister arrested before planned PTI march",
-    "Gaza’s children return to classrooms after years of Israeli attacks",
-    "Israeli forces kill Palestinian near Jenin in occupied West Bank"
+    "Netanyahu tours tunnels underneath Al-Aqsa Mosque compound"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Al-Fateh be relegated from the 2026-27 Saudi Professional League?",
-          "odds": "+1011",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Will Josh Shapiro win the 2028 Democratic presidential nomination?",
+          "odds": "+1512",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the next Prime Minister of Romania be a technocrat?",
+          "odds": "+132",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the next Prime Minister of Romania be a technocrat?",
-          "odds": "+132",
-          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Will the Rhine River fail to return to normal levels before November 1, 2026?",
+          "odds": "+122",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Al-Fateh be relegated from the 2026-27 Saudi Professional League?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the AR-03 House seat?",
+          "odds": "-2399",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: CD Leganés 0 - 1 Granada CF?",
+          "odds": "+1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jordan join the Abraham Accords before 2027?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "FC DAC 1904 Dunajská Streda vs. FC Spartak Trnava: Draw at halftime?",
+          "odds": "-108",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
