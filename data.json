@@ -1,97 +1,40 @@
 {
-  "lastUpdated": "20 de septiembre de 2026 — 00:32 UTC",
+  "lastUpdated": "20 de septiembre de 2026 — 02:45 UTC",
   "ticker": [
+    "How much of a challenge are recurrent bombings for Pakistan?",
+    "DR Congo begins Ebola vaccination trials for frontline health workers",
+    "Michelle Bachelet exits UN chief race after low poll support",
+    "DR Congo rolls out Ebola vaccine for health workers as death toll rises",
     "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
     "Turkiye backs Saudi Arabia’s security amid escalating Houthi attacks: FM",
     "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
-    "Fulham vs Manchester United: Premier League – prediction, teams, lineups",
     "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
     "Lacking equipment, but not ambition: Gaza students try to keep up with tech",
     "Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash",
     "Denmark says ‘binding’ US deal on Greenland won’t compromise sovereignty",
-    "Canadians warm to EU ‘associate membership’ proposal",
-    "Trump says he will create ‘AI Force’ with new ‘AI czar’",
-    "Iran says conditions to re-engage in talks, end war sent to US via Qatar",
-    "Israel targets paramedics in southern Lebanon",
-    "Cuba works to restore power after another major nationwide blackout",
-    "Dutch riot police break up violent far-right protest in The Hague",
-    "A ‘ban on the free press’: White House bars journalists from three outlets"
+    "Canadians warm to EU ‘associate membership’ proposal"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
-      "rows": [
-        {
-          "event": "Forward Madison FC vs. Av Alta FC: Forward Madison FC O/U 1.5",
-          "odds": "-203",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will the next Prime Minister of Romania be a technocrat?",
-          "odds": "+132",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
           "event": "Will Al-Fateh be relegated from the 2026-27 Saudi Professional League?",
           "odds": "+1011",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "rows": [
         {
-          "event": "Will the Republican Party win the AR-03 House seat?",
-          "odds": "-2399",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: DSC Arminia Bielefeld 0 - 0 1. FC Heidenheim?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: FC Energie Cottbus 2 - 0 FC St. Pauli 1910?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: OGC Nice 2 - 0 Lille OSC?",
-          "odds": "+2930",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: D.C. United SC 2 - 0 Charlotte FC?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: Hannover 96 0 - 1 VfL Bochum?",
-          "odds": "+2531",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: FC Energie Cottbus 1 - 0 FC St. Pauli 1910?",
-          "odds": "+2531",
-          "params": "Fuente: Polymarket",
+          "event": "Will the next Prime Minister of Romania be a technocrat?",
+          "odds": "+132",
+          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
