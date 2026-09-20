@@ -1,6 +1,9 @@
 {
-  "lastUpdated": "19 de septiembre de 2026 — 22:01 UTC",
+  "lastUpdated": "20 de septiembre de 2026 — 00:32 UTC",
   "ticker": [
+    "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
+    "Turkiye backs Saudi Arabia’s security amid escalating Houthi attacks: FM",
+    "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
     "Fulham vs Manchester United: Premier League – prediction, teams, lineups",
     "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
     "Lacking equipment, but not ambition: Gaza students try to keep up with tech",
@@ -12,22 +15,25 @@
     "Israel targets paramedics in southern Lebanon",
     "Cuba works to restore power after another major nationwide blackout",
     "Dutch riot police break up violent far-right protest in The Hague",
-    "A ‘ban on the free press’: White House bars journalists from three outlets",
-    "Ed Sheeran concert set to go ahead after outcry over Gaza",
-    "Brighton beat Arsenal 3-0 as Man City top Premier League without playing",
-    "Demonstrators in US form human chain to protest Kennedy Center closure vote"
+    "A ‘ban on the free press’: White House bars journalists from three outlets"
   ],
   "sections": [
+    {
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "rows": [
+        {
+          "event": "Forward Madison FC vs. Av Alta FC: Forward Madison FC O/U 1.5",
+          "odds": "-203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
     {
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
-        {
-          "event": "Will the Republican Party candidate win the 2026 FL-28 House election by 10%-15%?",
-          "odds": "+566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will the next Prime Minister of Romania be a technocrat?",
           "odds": "+132",
@@ -71,20 +77,20 @@
           "moved": "none"
         },
         {
-          "event": "Exact Score: SG Dynamo Dresden 2 - 0 Hertha BSC?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Exact Score: CF Montréal 3 - 1 Columbus Crew?",
-          "odds": "+2464",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Exact Score: D.C. United SC 2 - 0 Charlotte FC?",
           "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: Hannover 96 0 - 1 VfL Bochum?",
+          "odds": "+2531",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: FC Energie Cottbus 1 - 0 FC St. Pauli 1910?",
+          "odds": "+2531",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
