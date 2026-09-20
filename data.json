@@ -1,40 +1,115 @@
 {
-  "lastUpdated": "20 de septiembre de 2026 — 02:45 UTC",
+  "lastUpdated": "20 de septiembre de 2026 — 05:36 UTC",
   "ticker": [
+    "Jammertest: Arctic exercise to counter satellite jamming",
+    "State funeral honours Hong Kong’s first post-colonial leader Tung Chee-hwa",
+    "Tunisian protesters demand release of four Sumud activists",
+    "How did the US recall a billion products in six months?",
+    "Morocco’s PJD: what has the party learned from its dramatic fall",
+    "Ed Sheeran opens solo concert with comments about Gaza",
+    "Peruvian journalist shot dead after threatening to expose police",
+    "Ed Sheeran calls Gaza situation ‘unjustifiable’ after Palestine controversy",
+    "Australia seeks big tech support for internet safety, AI regulation",
     "How much of a challenge are recurrent bombings for Pakistan?",
     "DR Congo begins Ebola vaccination trials for frontline health workers",
     "Michelle Bachelet exits UN chief race after low poll support",
     "DR Congo rolls out Ebola vaccine for health workers as death toll rises",
-    "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
-    "Turkiye backs Saudi Arabia’s security amid escalating Houthi attacks: FM",
-    "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
-    "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
-    "Lacking equipment, but not ambition: Gaza students try to keep up with tech",
-    "Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash",
-    "Denmark says ‘binding’ US deal on Greenland won’t compromise sovereignty",
-    "Canadians warm to EU ‘associate membership’ proposal"
+    "Iran war live: Tehran sets terms for talks; Saudi forces foil Riyadh attack",
+    "Turkiye backs Saudi Arabia’s security amid escalating Houthi attacks: FM"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Al-Fateh be relegated from the 2026-27 Saudi Professional League?",
-          "odds": "+1011",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Forward Madison FC vs. Av Alta FC: Forward Madison FC O/U 1.5",
+          "odds": "-203",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $105 in September?",
+          "odds": "+194",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
           "event": "Will the next Prime Minister of Romania be a technocrat?",
           "odds": "+132",
-          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Josh Shapiro win the 2028 Democratic presidential nomination?",
+          "odds": "+1487",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will Deportivo Madryn vs. CA Racing de Cordoba end in a draw?",
+          "odds": "+270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Al-Fateh be relegated from the 2026-27 Saudi Professional League?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party win the AR-03 House seat?",
+          "odds": "-2399",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: DSC Arminia Bielefeld 0 - 0 1. FC Heidenheim?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: FC Energie Cottbus 2 - 0 FC St. Pauli 1910?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: OGC Nice 2 - 0 Lille OSC?",
+          "odds": "+2930",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: Hannover 96 0 - 1 VfL Bochum?",
+          "odds": "+2531",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: FC Energie Cottbus 1 - 0 FC St. Pauli 1910?",
+          "odds": "+2531",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
