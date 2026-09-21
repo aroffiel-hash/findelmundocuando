@@ -1,40 +1,73 @@
 {
-  "lastUpdated": "21 de septiembre de 2026 — 02:42 UTC",
+  "lastUpdated": "21 de septiembre de 2026 — 05:45 UTC",
   "ticker": [
+    "Massive explosions at Syrian army weapons depot near Aleppo",
+    "Imran Khan’s family says three sisters detained ahead of Islamabad march",
     "Powerful explosions at Syrian army site near Aleppo injure at least four",
     "Trump administration readies sweeping sanctions against ICC, reports say",
     "The Sahel and the UN: a smaller footprint, a different role",
     "Ethiopian armed groups forge alliance against government",
     "Iran war live: Tehran warns US against new strikes; fighting rages in Yemen",
     "ICE officer shoots and wounds man in Austin, Texas, officials say",
-    "Polls close in Russian wartime election with ruling party set to dominate",
+    "Ruling party dominates early results in Russia’s wartime parliamentary vote",
     "France to summon Iran envoy after language centre closure in Tehran",
     "Qatar PM urges Gulf security framework with Iran",
     "Argentina’s Left stages ‘March of Anger’ over Milei’s austerity measures",
     "Eighteen suspects extradited to US over Haitian president’s 2021 killing",
-    "Qatar PM describes fallout of US-Israel war on Iran as ‘earthquake’"
+    "Qatar PM describes fallout of US-Israel war on Iran as ‘earthquake’",
+    "US proposes AI safety notification mechanism in talks with China"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Al-Fateh be relegated from the 2026-27 Saudi Professional League?",
-          "odds": "+1011",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Saudi troops fighting in Yemen by December 31, 2026?",
+          "odds": "+212",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
           "event": "Will the next Prime Minister of Romania be a technocrat?",
-          "odds": "+132",
-          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "odds": "+174",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party candidate win the 2026 TX-05 House election by 25%-30%?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will Al-Fateh be relegated from the 2026-27 Saudi Professional League?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will XRP reach $1.80 in September?",
+          "odds": "+1090",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jordan join the Abraham Accords before 2027?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
