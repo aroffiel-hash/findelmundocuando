@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "21 de septiembre de 2026 — 17:35 UTC",
+  "lastUpdated": "21 de septiembre de 2026 — 17:38 UTC",
   "ticker": [
     "China expels two top ‘disloyal’ military leaders from Communist Party",
     "State of world getting worse as UN Security Council paralysed: Guterres",
@@ -12,29 +12,56 @@
     "Egypt’s Amina Orfi becomes youngest women’s squash world number one at 19",
     "What’s the US–China AI ‘hotline’ that Trump plans to pitch to Xi Jinping?",
     "Inside Kazakhstan’s push to become a regional AI centre",
-    "Swiss captain Xhaka sidelined over fake COVID-19 vaccination certificate"
+    "Swiss captain Xhaka sidelined over fake COVID-19 vaccination certificate",
+    "Who is Yu Zidi, China’s 13-year-old swimming sensation?",
+    "Cargo ship crashes into Chinese fishing boat near Singapore",
+    "CNN, Politico, MS NOW sue Trump administration over White House ban"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Al-Fateh be relegated from the 2026-27 Saudi Professional League?",
-          "odds": "+1011",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Will China’s CPI increase by between 0.7% and 0.8% over the 12 month period ending in September 2026?",
+          "odds": "+138",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇨🇳",
-      "label": "CHINA / PACÍFICO / COREA",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will China’s CPI increase by between 0.7% and 0.8% over the 12 month period ending in September 2026?",
-          "odds": "+138",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Escenario China en curso.",
+          "event": "Will the Republican Party candidate win the 2026 MO-02 House election by 6%-9%?",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will Al-Fateh be relegated from the 2026-27 Saudi Professional League?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jordan join the Abraham Accords before 2027?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will FC Dallas win the 2026 MLS Cup?",
+          "odds": "+2225",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
