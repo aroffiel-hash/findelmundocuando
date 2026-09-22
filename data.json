@@ -1,6 +1,8 @@
 {
-  "lastUpdated": "21 de septiembre de 2026 — 21:32 UTC",
+  "lastUpdated": "22 de septiembre de 2026 — 00:28 UTC",
   "ticker": [
+    "Mali marks independence amid a worsening security crisis",
+    "Iran war live: IRGC says US, Israel ‘must accept withdrawal’ from region",
     "How thousands of migrants stranded in Ceuta are surviving",
     "Former ‘death squad’ leader appears in military trial in The Gambia",
     "Trump speech inaudible as US networks boycott White House event",
@@ -13,23 +15,9 @@
     "Protesters blockade Elbit Systems factory over Israel weapons supply",
     "Trump approval rating hits career low of 32% amid Iran war, high costs",
     "Photos: Gaza’s children return to class in tents and ruins",
-    "Protesters march on Islamabad over soaring fuel prices",
-    "Ceuta solidarity shirt row: How the crisis engulfed Spanish football",
-    "Paramount settles with US states, union to win Warner Bros takeover"
+    "Protesters march on Islamabad over soaring fuel prices"
   ],
   "sections": [
-    {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
-      "rows": [
-        {
-          "event": "Will China’s CPI increase by between 0.7% and 0.8% over the 12 month period ending in September 2026?",
-          "odds": "+138",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
     {
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
@@ -43,6 +31,12 @@
         {
           "event": "Will FC Dallas win the 2026 MLS Cup?",
           "odds": "+2225",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Buenos Aires be 11°C on September 22?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
