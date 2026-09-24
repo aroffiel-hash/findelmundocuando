@@ -1,23 +1,35 @@
 {
-  "lastUpdated": "24 de septiembre de 2026 — 19:42 UTC",
+  "lastUpdated": "24 de septiembre de 2026 — 22:54 UTC",
   "ticker": [
-    "Israel’s policies threaten ‘very existence’ of Palestinians, Abbas tells UN",
-    "Ethiopian army says 272 Tigrayan fighters killed in Amhara",
-    "US and China presidents discuss cooperation, trade and AI risks",
-    "Nigeria vs: Madagascar AFCON 2027 qualifier – preview, teams, prediction",
-    "Iranian-American group sues Trump over war",
-    "Ukrainian man kills one, wounds four in Poland abbey knife attack",
-    "Jerusalem Daily: Ben-Gvir sets out bid to become defence minister",
-    "Collapsing currency and inflation leave families struggling in Sudan",
-    "Gaza’s recovery needs reach $71.5bn amid ‘most severe economic crisis’: UN",
-    "Africa’s bid for a seat on the Security Council",
-    "‘Hostile, but hooked’: What’s behind the US-China trade truce extension?",
-    "Four civilians killed in Pakistani airstrikes in Afghanistan",
-    "White House restores CNN, MS NOW, Politico access after hours of chaos",
-    "Mahmoud Abbas: What will it take to ‘protect’ Palestine?",
-    "Trump invites Putin to Miami G20: Why that matters"
+    "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech",
+    "DR Congo and Ivory Coast top Africa Cup of Nations qualifying opening wins",
+    "Croatian court approves extradition in Nord Stream bombing case",
+    "Trump and Xi hold critical talks at White House summit",
+    "Susan Sarandon, Hannah Einbinder arrested at Netanyahu UN protest",
+    "Dutch PM’s contrasting stance on ICC-wanted Putin, Netanyahu",
+    "Portugal beat Wales 1-0 with Felix goal as Nations League defence begins",
+    "Netanyahu blames ‘juvenile delinquents’ for violence in occupied West Bank",
+    "US citizen injured after wrongly arrested by ICE in Illinois",
+    "New York sues Polymarket over allegations of illegal gambling operations",
+    "Israel moves to ban main Palestinian-led lists from election",
+    "What’s triggered the latest violence in Ethiopia?",
+    "US rapper Macklemore announces Free Palestine tour after Ed Sheeran fallout",
+    "Delegates walk out of Netanyahu’s UN speech",
+    "Israel’s policies threaten ‘very existence’ of Palestinians, Abbas tells UN"
   ],
   "sections": [
+    {
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "rows": [
+        {
+          "event": "Iran full airspace closure by October 31, 2026?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
     {
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
@@ -29,20 +41,8 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Paris be 23°C on September 26?",
-          "odds": "+284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Al-Fateh be relegated from the 2026-27 Saudi Professional League?",
           "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "SpaceX (SPCX) Up or Down on September 24?",
-          "odds": "+212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
