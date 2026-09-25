@@ -1,61 +1,34 @@
 {
-  "lastUpdated": "25 de septiembre de 2026 — 01:05 UTC",
+  "lastUpdated": "25 de septiembre de 2026 — 02:50 UTC",
   "ticker": [
+    "NYC police arrest Susan Sarandon, other celebrities protesting Netanyahu",
+    "Contrasting treatment of Israel and Palestine on display at the UN",
+    "More than 100 arrested as New Yorkers protest Netanyahu’s UN visit",
+    "Meloni government bans burqas, caps foreign students in Italian schools",
+    "Trump praises US-China friendship at state dinner with Xi Jinping",
     "At least 41 die as boat capsizes in DRC’s Lake Tanganyika",
     "Brazil’s Lula and Flavio Bolsonaro still essentially tied in new poll",
     "UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector",
     "Argentina’s poverty rises to 32 percent under Milei with more pain forecast",
     "Iran war live: Tehran wants Washington to re-enter MoU before US midterms",
     "Trump-Xi summit: Four key takeaways from the Washington, DC, meeting",
-    "Costa Rica minister fired for unapproved meeting with Trump in US",
-    "Turkiye vs France: UEFA Nations League – teams, kickoff time, lineups",
-    "Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech",
-    "DR Congo and Ivory Coast top Africa Cup of Nations qualifying opening wins",
-    "Croatian court approves extradition in Nord Stream bombing case",
-    "Trump and Xi hold critical talks at White House summit",
-    "Susan Sarandon, Hannah Einbinder arrested at Netanyahu UN protest",
-    "Dutch PM’s contrasting stance on ICC-wanted Putin, Netanyahu",
-    "Portugal beat Wales 1-0 with Felix goal as Nations League defence begins"
+    "Costa Rica minister fired for unapproved meeting with Trump in US"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
-        {
-          "event": "Iran full airspace closure by October 31, 2026?",
-          "odds": "+809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will BNK FEARX win the Demacia Cup Global Invitational 2026?",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Al-Fateh be relegated from the 2026-27 Saudi Professional League?",
           "odds": "+1011",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
-          "event": "Will the lowest temperature in Austin be between 72-73°F on September 25?",
-          "odds": "+149",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Jordan join the Abraham Accords before 2027?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
+          "event": "Iran full airspace closure by October 31, 2026?",
+          "odds": "+809",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
           "moved": "none"
         }
       ]
