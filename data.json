@@ -1,67 +1,34 @@
 {
-  "lastUpdated": "25 de septiembre de 2026 — 12:36 UTC",
+  "lastUpdated": "25 de septiembre de 2026 — 16:15 UTC",
   "ticker": [
-    "US seeking to revive Russia-Ukraine ceasefire talks",
-    "Fighting erupts between Tigray’s rebel alliance and Ethiopia’s military",
-    "Protests in UK after arrest of far-right activist Daniel Thomas",
-    "Humanitarian crisis worsens in Ceuta as thousands remain stranded",
-    "Pakistan, Turkiye edge closer towards joining Saudi war against Houthis",
-    "UN General Assembly live: Leaders from Lebanon, Iraq, Pakistan to speak",
-    "What’s in Iran’s seven-day plan to reopen the Strait of Hormuz?",
-    "Rising malnutrition in Nigeria as US war on Iran raises food costs",
-    "Premier League and La Liga lead FIFA reform calls after ‘exploitative’ plan",
-    "Iran pitches seven-day roadmap to end conflict with US",
-    "From ‘cheats’ to ‘great friendship’: How Trump’s rhetoric on China changed",
-    "Switzerland’s neutrality vote is asking the wrong question",
-    "Nepal PM says global order is broken in fighting climate crisis",
-    "Saudi Arabia allies line up support as Houthi attacks mount",
-    "Mamdani plants olive tree with Gaza families"
+    "What the Trump-Xi meeting revealed about global power",
+    "Trump hails ‘very productive’ talks with China’s Xi",
+    "Lebanon PM calls for full Israeli withdrawal in UN address",
+    "Iraq calls for a ‘sovereign Palestinian state’ at UNGA",
+    "China swimmer makes Asian Games history as Thai sprinter wins track 100m",
+    "Yemen fighting displaces 71,000 children, worsens malnutrition: UNICEF",
+    "Why is Canada’s PM Carney not ruling out a possible war with the US",
+    "The Trump-Xi summit exposes a US disadvantage in the Global South",
+    "Jannik Sinner withdraws from China Open as recovery from injury continues",
+    "India’s ‘cockroach’ movement demands election chief’s resignation",
+    "Israeli official takes notes after UN walkout against Netanyahu",
+    "Fighting in northern Ethiopia spurs fears of blackout and blockade"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
-        {
-          "event": "Iran full airspace closure by October 31, 2026?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
-      "rows": [
-        {
-          "event": "Will S&P 500 (SPY) hit (LOW) $700 in October?",
-          "odds": "-614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will BNK FEARX win the Demacia Cup Global Invitational 2026?",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Al-Fateh be relegated from the 2026-27 Saudi Professional League?",
           "odds": "+1011",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         },
         {
-          "event": "Will Jordan join the Abraham Accords before 2027?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
+          "event": "Iran full airspace closure by October 31, 2026?",
+          "odds": "+900",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
           "moved": "none"
         }
       ]
