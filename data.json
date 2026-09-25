@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "25 de septiembre de 2026 — 06:58 UTC",
+  "lastUpdated": "25 de septiembre de 2026 — 12:36 UTC",
   "ticker": [
-    "Converging crises, chaos and walkouts dominate UNGA Day Three",
-    "Hurricane Polo lashes Mexico as Nolo strengthens near Hawaii",
-    "Japan moves to tighten rules for foreigners, throwing futures into doubt",
-    "Tata v Tata: What’s behind India’s big boardroom brawl?",
-    "Multiple regions in Russia come under Ukrainian drone attacks",
-    "Israeli football player sent off after gun-firing goal celebration",
-    "Pakistani forces kill Afghan Taliban fighters in border escalation",
-    "Jewish protestors join Free Palestine march to denounce Netanyahu",
-    "Young men flee Tigray amid fears of forced recruitment",
-    "Oil prices jump after Yemen’s Houthis claim attacks on Saudi facilities",
-    "Saudi, Turkish, Pakistani chiefs plan urgent talks amid Yemen fighting",
-    "When AI’s moving this fast, who’s protecting us?",
-    "NYC police arrest Susan Sarandon, other celebrities protesting Netanyahu",
-    "Contrasting treatment of Israel and Palestine on display at the UN",
-    "More than 100 arrested as New Yorkers protest Netanyahu’s UN visit"
+    "US seeking to revive Russia-Ukraine ceasefire talks",
+    "Fighting erupts between Tigray’s rebel alliance and Ethiopia’s military",
+    "Protests in UK after arrest of far-right activist Daniel Thomas",
+    "Humanitarian crisis worsens in Ceuta as thousands remain stranded",
+    "Pakistan, Turkiye edge closer towards joining Saudi war against Houthis",
+    "UN General Assembly live: Leaders from Lebanon, Iraq, Pakistan to speak",
+    "What’s in Iran’s seven-day plan to reopen the Strait of Hormuz?",
+    "Rising malnutrition in Nigeria as US war on Iran raises food costs",
+    "Premier League and La Liga lead FIFA reform calls after ‘exploitative’ plan",
+    "Iran pitches seven-day roadmap to end conflict with US",
+    "From ‘cheats’ to ‘great friendship’: How Trump’s rhetoric on China changed",
+    "Switzerland’s neutrality vote is asking the wrong question",
+    "Nepal PM says global order is broken in fighting climate crisis",
+    "Saudi Arabia allies line up support as Houthi attacks mount",
+    "Mamdani plants olive tree with Gaza families"
   ],
   "sections": [
     {
@@ -25,6 +25,18 @@
         {
           "event": "Iran full airspace closure by October 31, 2026?",
           "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will S&P 500 (SPY) hit (LOW) $700 in October?",
+          "odds": "-614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
