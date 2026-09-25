@@ -1,34 +1,55 @@
 {
-  "lastUpdated": "25 de septiembre de 2026 — 02:50 UTC",
+  "lastUpdated": "25 de septiembre de 2026 — 06:58 UTC",
   "ticker": [
+    "Converging crises, chaos and walkouts dominate UNGA Day Three",
+    "Hurricane Polo lashes Mexico as Nolo strengthens near Hawaii",
+    "Japan moves to tighten rules for foreigners, throwing futures into doubt",
+    "Tata v Tata: What’s behind India’s big boardroom brawl?",
+    "Multiple regions in Russia come under Ukrainian drone attacks",
+    "Israeli football player sent off after gun-firing goal celebration",
+    "Pakistani forces kill Afghan Taliban fighters in border escalation",
+    "Jewish protestors join Free Palestine march to denounce Netanyahu",
+    "Young men flee Tigray amid fears of forced recruitment",
+    "Oil prices jump after Yemen’s Houthis claim attacks on Saudi facilities",
+    "Saudi, Turkish, Pakistani chiefs plan urgent talks amid Yemen fighting",
+    "When AI’s moving this fast, who’s protecting us?",
     "NYC police arrest Susan Sarandon, other celebrities protesting Netanyahu",
     "Contrasting treatment of Israel and Palestine on display at the UN",
-    "More than 100 arrested as New Yorkers protest Netanyahu’s UN visit",
-    "Meloni government bans burqas, caps foreign students in Italian schools",
-    "Trump praises US-China friendship at state dinner with Xi Jinping",
-    "At least 41 die as boat capsizes in DRC’s Lake Tanganyika",
-    "Brazil’s Lula and Flavio Bolsonaro still essentially tied in new poll",
-    "UAE bars Iranian airlines as US sanctions squeeze Iran’s aviation sector",
-    "Argentina’s poverty rises to 32 percent under Milei with more pain forecast",
-    "Iran war live: Tehran wants Washington to re-enter MoU before US midterms",
-    "Trump-Xi summit: Four key takeaways from the Washington, DC, meeting",
-    "Costa Rica minister fired for unapproved meeting with Trump in US"
+    "More than 100 arrested as New Yorkers protest Netanyahu’s UN visit"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Al-Fateh be relegated from the 2026-27 Saudi Professional League?",
-          "odds": "+1011",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Iran full airspace closure by October 31, 2026?",
+          "odds": "+900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will BNK FEARX win the Demacia Cup Global Invitational 2026?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Iran full airspace closure by October 31, 2026?",
-          "odds": "+809",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
+          "event": "Will Al-Fateh be relegated from the 2026-27 Saudi Professional League?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jordan join the Abraham Accords before 2027?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
