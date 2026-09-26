@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "26 de septiembre de 2026 — 02:54 UTC",
+  "lastUpdated": "26 de septiembre de 2026 — 02:59 UTC",
   "ticker": [
     "Pope Leo XIV makes first official Papal visit in France in nearly 20",
     "TikTok to pay $100 million to Alabama in teen addiction settlement",
@@ -12,29 +12,62 @@
     "Pope Leo XIV warns AI could undermine humanity during France visit",
     "Iran to reopen Strait of Hormuz within a week if US agrees to plan",
     "DR Congo’s Ebola outbreak spreads to two new health zones, WHO says",
-    "Netanyahu calls Al Jazeera a ‘toxic media outlet’"
+    "Netanyahu calls Al Jazeera a ‘toxic media outlet’",
+    "Mbappe goal overshadowed by knee injury to mar Zidane debut France win",
+    "What would a US diesel export ban mean for global fuel prices?",
+    "Italy crisis deepens as Belgium’s win stalls World Cup rebuild in Rome"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will Al-Fateh be relegated from the 2026-27 Saudi Professional League?",
-          "odds": "+1011",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Will S&P 500 (SPY) hit (LOW) $700 in October?",
+          "odds": "-614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "WTI Crude Oil (WTI) closes above $95 on September 28?",
+          "odds": "+156",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y ENERGÍA",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "WTI Crude Oil (WTI) closes above $95 on September 28?",
-          "odds": "+156",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
+          "event": "Will Bryan Paterson win the 2026 Kingston mayoral election?",
+          "odds": "-376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will BNK FEARX win the Demacia Cup Global Invitational 2026?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Al-Fateh be relegated from the 2026-27 Saudi Professional League?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jordan join the Abraham Accords before 2027?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
