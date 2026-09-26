@@ -1,79 +1,40 @@
 {
-  "lastUpdated": "26 de septiembre de 2026 — 13:33 UTC",
+  "lastUpdated": "26 de septiembre de 2026 — 15:29 UTC",
   "ticker": [
+    "Trump rejects Iran’s seven-day roadmap to reopen Strait of Hormuz",
+    "Olympics: Germany picks Munich for Summer Games bid",
+    "Israel-Ireland match to go ahead in Nations League after player vote",
+    "Russell edges out Verstappen to win in Baku, Antonelli settles for fifth",
+    "Is Ethiopia on the verge of another civil war as fighting erupts in Tigray?",
+    "Egypt to rest Salah in South Sudan AFCON qualifier over pitch concerns",
+    "The intelligence war is turning against the Houthis",
+    "Girl disabled by Israeli strike urges wheelchairs be let into Gaza",
+    "Turkiye calls for UN Security Council veto to end: Could it happen?",
     "The media battle behind Brazil’s election",
-    "Manchester City face ‘drastic’ sanctions, says club’s former chairman",
-    "Mecca defence alliance chiefs meet amid Houthi attacks",
     "Fury says boxing bout with Joshua in jeopardy over promoters’ clash",
-    "Why has the Yemen government called for a general mobilisation?",
-    "Pressure to boycott Israel game grows as Ireland preparations stall",
-    "Suicide bombing in Pakistan’s Dera Ismail Khan kills several people",
-    "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
-    "Ebola spreads in DR Congo, putting neighbouring nations at risk",
-    "An unexpected welcome: Syrian Kurds return to their homes in Afrin",
-    "Israel bans Arab parties from election: Who they are, why it matters",
-    "Virat Kohli says he will retire from India cricket after 2027 World Cup",
-    "England vs Spain: UEFA Nations League – Predictions, teams, head-to-head",
-    "Trump ‘rejects’ Iran’s seven-day ceasefire proposal. What’s next?",
-    "Senegal draw in Vieira debut, Nigeria survive scare, but Cape Verde crash"
+    "Why has the Yemen government called for a general mobilisation?"
   ],
   "sections": [
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
-        {
-          "event": "Will S&P 500 (SPY) hit (LOW) $700 in October?",
-          "odds": "-614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "WTI Crude Oil (WTI) closes above $95 on September 28?",
-          "odds": "+156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will Bryan Paterson win the 2026 Kingston mayoral election?",
-          "odds": "-376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will BNK FEARX win the Demacia Cup Global Invitational 2026?",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Al-Fateh be relegated from the 2026-27 Saudi Professional League?",
           "odds": "+1011",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y ENERGÍA",
+      "rows": [
         {
-          "event": "Will Jordan join the Abraham Accords before 2027?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Vancouver Whitecaps FC vs. D.C. United SC end in a draw?",
-          "odds": "+614",
-          "params": "Fuente: Polymarket",
+          "event": "WTI Crude Oil (WTI) closes above $95 on September 28?",
+          "odds": "+156",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
           "moved": "none"
         }
       ]
