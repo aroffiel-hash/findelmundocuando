@@ -1,67 +1,40 @@
 {
-  "lastUpdated": "25 de septiembre de 2026 — 23:52 UTC",
+  "lastUpdated": "26 de septiembre de 2026 — 02:54 UTC",
   "ticker": [
+    "Pope Leo XIV makes first official Papal visit in France in nearly 20",
+    "TikTok to pay $100 million to Alabama in teen addiction settlement",
+    "Plane crash in DR Congo kills more than a dozen",
+    "Facebook found liable as TikTok settles for $100m over user safety",
+    "Pro-Imran Khan rally delayed amid government closures",
+    "Iran war live: Tehran offers US plan to reopen Hormuz within seven days",
+    "US court rules against Kalshi, says states can regulate prediction markets",
+    "Iran says it awaits US response on seven-day roadmap to end war",
     "Pope Leo XIV warns AI could undermine humanity during France visit",
     "Iran to reopen Strait of Hormuz within a week if US agrees to plan",
     "DR Congo’s Ebola outbreak spreads to two new health zones, WHO says",
-    "Netanyahu calls Al Jazeera a ‘toxic media outlet’",
-    "Mbappe goal overshadowed by knee injury to mar Zidane debut France win",
-    "What would a US diesel export ban mean for global fuel prices?",
-    "Italy crisis deepens as Belgium’s win stalls World Cup rebuild in Rome",
-    "Houthi attack on Mecca, Medina would cross ‘red line’, Pakistan PM tells UN",
-    "Manchester City reportedly found guilty of almost 115 financial charges",
-    "Huge fire on vehicle ferry off Mykonos prompts mass evacuation",
-    "Afghan taxi drivers defy the Taliban’s music ban",
-    "Which countries walked out of Netanyahu’s UNGA speech?",
-    "Jerusalem Daily: What was Netanyahu’s UNGA speech really about?",
-    "Pakistan PM calls Houthi threats to Saudi holy sites a ‘red line’",
-    "How Israel’s ‘Blue Line’ team seizes Palestinian land in the West Bank"
+    "Netanyahu calls Al Jazeera a ‘toxic media outlet’"
   ],
   "sections": [
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
-        {
-          "event": "Will S&P 500 (SPY) hit (LOW) $700 in October?",
-          "odds": "-614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will Bryan Paterson win the 2026 Kingston mayoral election?",
-          "odds": "-376",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will BNK FEARX win the Demacia Cup Global Invitational 2026?",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Al-Fateh be relegated from the 2026-27 Saudi Professional League?",
           "odds": "+1011",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y ENERGÍA",
+      "rows": [
         {
-          "event": "Will Jordan join the Abraham Accords before 2027?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
+          "event": "WTI Crude Oil (WTI) closes above $95 on September 28?",
+          "odds": "+156",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con precio del petróleo.",
           "moved": "none"
         }
       ]
