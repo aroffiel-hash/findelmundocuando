@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "27 de septiembre de 2026 — 02:57 UTC",
+  "lastUpdated": "27 de septiembre de 2026 — 03:04 UTC",
   "ticker": [
     "Powerful storm batters US Northeast disrupting power and travel",
     "Did the biggest week of diplomacy make headway in ending the US-Iran war?",
@@ -12,17 +12,68 @@
     "Powerful storm brings flooding, power outages to northeastern United States",
     "Deadly shooting hits Caribbean islands of Saint Vincent and the Grenadines",
     "Student protesters disrupt NVIDIA AI climate panel",
-    "Trump says he is rolling back Biden-era US fuel economy rules for cars"
+    "Trump says he is rolling back Biden-era US fuel economy rules for cars",
+    "Yamal nets in Spain’s 3-2 comeback win against England in Nations League",
+    "Russia scales up strikes on Ukraine as largest steelmaker halts operations",
+    "Why is violence between Pakistan and Afghanistan recurring?"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will S&P 500 (SPY) hit (LOW) $700 in October?",
+          "odds": "-614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the 5-year Treasury yield dip below 4.10% before 2027?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Bryan Paterson win the 2026 Kingston mayoral election?",
+          "odds": "-376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
           "event": "Will Al-Fateh be relegated from the 2026-27 Saudi Professional League?",
           "odds": "+1011",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: Denmark 1 - 2 Wales?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Elon Musk’s net worth be between $900B and $1.00T on September 30?",
+          "odds": "-194",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jordan join the Abraham Accords before 2027?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
