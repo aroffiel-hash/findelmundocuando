@@ -1,23 +1,41 @@
 {
-  "lastUpdated": "28 de septiembre de 2026 — 06:12 UTC",
+  "lastUpdated": "28 de septiembre de 2026 — 14:50 UTC",
   "ticker": [
-    "Virat Kohli passes 15,000 ODI runs as India beat West Indies",
-    "‘Still a lockdown’: Deadly floods hit Nepal tourism as peak season begins",
-    "Russian strikes kill eight, injure dozens across Ukraine",
-    "Sudanese army impounds dozens of motorcycles in Blue Nile curfew",
-    "Serbia’s president resigns to run for prime minister",
-    "14 killed, a dozen missing as Nepal is hit by more floods and landslides",
-    "Anthropic CEO Amodei to have dinner with Trump at White House",
-    "Venezuelans rally for opposition leader’s return and presidential elections",
-    "Palestine Action protesters arrested outside UK Labour Party conference",
-    "Ireland beats Israel 3-0 wearing black armbands to support Gaza",
-    "UK Foreign Secretary confronted by activists over Palestine Action ban",
-    "Ben-Gvir releases video threatening to kill senior Hamas figure in jail",
-    "Refugees in South Africa fear new attacks as September 30 deadline looms",
-    "South African police discover body of 11th woman near Johannesburg",
-    "Iran war live: Tehran open to ‘real diplomacy’, ready for ‘apocalyptic war’"
+    "Ben-Gvir joins hundreds of Israelis to storm Al-Aqsa Mosque compound",
+    "Athletes criticise organisational, logistical mishaps at ‘sad’ Asian Games",
+    "Cattle to feed: Why a global meat crisis is looming",
+    "Iraq looks for oil export alternatives to the troubled Strait of Hormuz",
+    "Bandung: The Meeting That Terrified the Superpowers | Al Jazeera Originals",
+    "UN commemoration of Durban Declaration: What’s on agenda, who will attend?",
+    "We need to talk about Bandung",
+    "Sri Lanka’s Rumesh Pathirage wins Asian Games javelin gold",
+    "Heavy rain triggers landslide in Nepal’s Mustang District",
+    "Thai police arrest jet skier after joyride through flooded Bangkok streets",
+    "Police clash with protesters over mosque demolitions in India",
+    "Why South Korea is demanding an apology from Ukraine over North Korean PoWs",
+    "Child among three killed off French coast in Channel crossing attempt",
+    "Africa is not responsible for climate crisis: Activist Vanessa Nakate",
+    "Israeli fans direct monkey chants and military slogans at Ireland’s players"
   ],
   "sections": [
+    {
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "rows": [
+        {
+          "event": "Russia vs. IR Iran: Russia O/U 2.5",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Spread: Russia (-1.5)",
+          "odds": "+244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
     {
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
@@ -41,20 +59,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Micron Technology, Inc. (MU) hit (HIGH) $1,200 in September?",
-          "odds": "+212",
+          "event": "Next Alibaba Qwen Plus (3.8+) released by October 31, 2026?",
+          "odds": "+156",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Eagles vs. Bears",
-          "odds": "-194",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Milan be 27°C on September 28?",
-          "odds": "+1328",
+          "event": "Will Airbnb, Inc. (ABNB) hit (LOW) $146 Week of September 28 2026?",
+          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -67,12 +79,6 @@
         {
           "event": "Will Poland win on 2026-10-02?",
           "odds": "-112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Notre Dame be a top 4 seed in the 2027 College Football Playoffs?",
-          "odds": "-170",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
