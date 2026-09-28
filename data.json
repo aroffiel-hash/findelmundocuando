@@ -1,28 +1,61 @@
 {
-  "lastUpdated": "28 de septiembre de 2026 — 19:03 UTC",
+  "lastUpdated": "28 de septiembre de 2026 — 20:59 UTC",
   "ticker": [
+    "Slovenia’s U-turn towards Israel",
+    "Gaza’s young inventors build robots with what they have",
+    "Apple ordered to pay $5.7bn in patent infringement case",
+    "Trump announces $15bn steel mill project in Iowa before US midterms",
+    "Nepal hit by deadly floods, landslides, and avalanche",
+    "NFL asks US Homeland Security to remove video with former star player",
+    "Italian court convicts three Egyptian agents for kidnap of Giulio Regeni",
+    "UAE confirms Israel PM Netanyahu’s visit to Abu Dhabi",
+    "How can the UK’s Labour Party rebuild voter trust?",
+    "Myanmar army air strike kills dozens in Rakhine state",
+    "American and six Ukrainians released by India after six months in jail",
+    "Flights between Iraq’s Najaf and Iran resumed as Tehran protests US curbs",
+    "Spain vs Croatia: UEFA Nations League – Yamal, Modric, teams, form",
     "Trump made the right decision to reject Iran’s offer",
-    "Somali army clashes with local forces for control of Baidoa",
-    "Iran touts Hormuz attacks as oil flows increase despite tensions",
-    "Photos: Russian drone strikes pound civilian targets across Kyiv",
-    "UK police release suspects on bail after RAF arrests, investigation ongoing",
-    "Paris court finds Swiftair guilty over 2014 Mali crash that killed 116",
-    "Russia strike sets National Academy of Sciences of Ukraine ablaze",
-    "168 hours on the dance floor: Nigerian dancer chases Guinness World Record",
-    "Arming an adversary: Why Trump’s offer to sell China weapons belies US policy",
-    "South Korea suspects North Korean mines behind DMZ blast",
-    "Migrant children protest after police clear beach camp in Ceuta",
-    "French police fire tear gas at migrants on beach"
+    "Somali army clashes with local forces for control of Baidoa"
   ],
   "sections": [
     {
       "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Guilherme Derrite win the second-most votes in the 2026 São Paulo Senate election?",
-          "odds": "+525",
-          "params": "Baja probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Russia vs. IR Iran: Russia O/U 2.5",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will S&P 500 (SPY) hit (LOW) $700 in October?",
+          "odds": "-614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the 5-year Treasury yield dip below 4.10% before 2027?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will Jordan join the Abraham Accords before 2027?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
