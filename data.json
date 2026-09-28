@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "28 de septiembre de 2026 — 02:55 UTC",
+  "lastUpdated": "28 de septiembre de 2026 — 06:12 UTC",
   "ticker": [
+    "Virat Kohli passes 15,000 ODI runs as India beat West Indies",
+    "‘Still a lockdown’: Deadly floods hit Nepal tourism as peak season begins",
+    "Russian strikes kill eight, injure dozens across Ukraine",
+    "Sudanese army impounds dozens of motorcycles in Blue Nile curfew",
+    "Serbia’s president resigns to run for prime minister",
+    "14 killed, a dozen missing as Nepal is hit by more floods and landslides",
+    "Anthropic CEO Amodei to have dinner with Trump at White House",
     "Venezuelans rally for opposition leader’s return and presidential elections",
     "Palestine Action protesters arrested outside UK Labour Party conference",
     "Ireland beats Israel 3-0 wearing black armbands to support Gaza",
@@ -8,11 +15,68 @@
     "Ben-Gvir releases video threatening to kill senior Hamas figure in jail",
     "Refugees in South Africa fear new attacks as September 30 deadline looms",
     "South African police discover body of 11th woman near Johannesburg",
-    "Iran war live: Tehran says it’s fully prepared for war amid Hormuz tensions",
-    "Pope pledges action on clergy child abuse in meeting with French survivors",
-    "Man City’s 115 Charges — The Scandal, The Escape, and Pep’s Own Past",
-    "Powerful storm floods US Northeast, causes power outages",
-    "Ireland defeats Israel in controversial UEFA Nations League match"
+    "Iran war live: Tehran open to ‘real diplomacy’, ready for ‘apocalyptic war’"
   ],
-  "sections": []
+  "sections": [
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will S&P 500 (SPY) hit (LOW) $700 in October?",
+          "odds": "-614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the 5-year Treasury yield dip below 4.10% before 2027?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will Micron Technology, Inc. (MU) hit (HIGH) $1,200 in September?",
+          "odds": "+212",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Eagles vs. Bears",
+          "odds": "-194",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Milan be 27°C on September 28?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jordan join the Abraham Accords before 2027?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Poland win on 2026-10-02?",
+          "odds": "-112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Notre Dame be a top 4 seed in the 2027 College Football Playoffs?",
+          "odds": "-170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    }
+  ]
 }
