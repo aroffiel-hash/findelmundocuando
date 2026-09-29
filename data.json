@@ -1,7 +1,10 @@
 {
-  "lastUpdated": "29 de septiembre de 2026 — 00:53 UTC",
+  "lastUpdated": "29 de septiembre de 2026 — 03:36 UTC",
   "ticker": [
-    "OpenAI scraps release of latest AI model over safety concerns",
+    "Fighter jets escort Pope Leo on final day of his France tour",
+    "Iran’s Araghchi meets Qatari mediators as US calls for nuclear talks",
+    "Hungary lifts immunity of Prime Minister Magyar, two Orban-era ministers",
+    "OpenAI cancels release of latest AI model over safety concerns",
     "Africa’s space ambitions are moving from policy to practice",
     "Inside Al Jazeera’s UNGA coverage",
     "Iran war live: Trump says he did not offer Tehran sanctions relief",
@@ -9,59 +12,29 @@
     "UK: ‘Too soon’ to blame airbase plot on foreign state",
     "Anti-South Asian ‘hate speech’ has exploded online in US, report finds",
     "Gold falls amid rising oil prices and higher US dollar",
-    "Hundreds set up tent encampments in Madrid over housing crisis",
-    "Olise scores late to grab France 1-0 Nations League win at Belgium",
-    "‘Friendship pandas’ arrive in Atlanta, marking US-China relations moment",
-    "French far-right leader Bardella refutes anti-Semitism allegations",
-    "South Sudan calls for sanctions to be lifted at UNGA",
-    "Slovenia’s U-turn towards Israel",
-    "Gaza’s young inventors build robots with what they have"
+    "Olise scores late to grab France 1-0 Nations League win at Belgium"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
-        {
-          "event": "Russia vs. IR Iran: Russia O/U 2.5",
-          "odds": "+334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will Iran target Syria by October 31, 2026?",
           "odds": "+733",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
       "rows": [
         {
-          "event": "Will S&P 500 (SPY) hit (LOW) $700 in October?",
-          "odds": "-614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the 5-year Treasury yield dip below 4.10% before 2027?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will Jordan join the Abraham Accords before 2027?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
+          "event": "Will total votes cast in the 2026 midterm election for Senator from Alabama be between 1,700,000 and 1,800,000?",
+          "odds": "+344",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
           "moved": "none"
         }
       ]
