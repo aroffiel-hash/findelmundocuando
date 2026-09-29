@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "29 de septiembre de 2026 — 06:29 UTC",
+  "lastUpdated": "29 de septiembre de 2026 — 13:39 UTC",
   "ticker": [
-    "Public transport drivers strike in Manila over soaring fuel prices",
-    "More than 80 reported abducted in Nigeria as police find human remains",
-    "Pope Leo says AI risk concerns not ‘fake news’",
-    "Rubio, Saudi Arabia’s foreign minister hold talks on Yemen, Hormuz Strait",
-    "Ethiopian army claims to have taken Tigrayan stronghold",
-    "Russia pounds Ukraine’s Kyiv after deadly strike on Academy of Sciences",
-    "Fighter jets escort Pope Leo on final day of his France tour",
-    "Iran’s Araghchi meets Qatari mediators as US calls for nuclear talks",
-    "Hungary lifts immunity of Prime Minister Magyar, two Orban-era ministers",
-    "OpenAI cancels release of AI model GPT-6.1 Astra, citing safety concerns",
-    "Africa’s space ambitions are moving from policy to practice",
-    "Inside Al Jazeera’s UNGA coverage",
-    "Iran war live: Trump says he did not offer Tehran sanctions relief",
-    "Fiery end for SpaceX Starship mission",
-    "UK: ‘Too soon’ to blame airbase plot on foreign state"
+    "Are Houthis using new modified cruise missiles in Yemen’s war?",
+    "Formula One’s Fernando Alonso to stay with Aston Martin next season",
+    "Iran downplays possible role in Houthis’ recent Yemen victories",
+    "Man City’s Premier League charges: What’s the latest and what comes next?",
+    "Walkouts, clashes and moments that defined UNGA 2026",
+    "Turkiye arrests president, six members of football refereeing body in probe",
+    "Iranians stock up on food and medicine as fears of new US fighting grow",
+    "Malaysia sends Rohingya back to Myanmar despite safety warnings",
+    "Journalist ascends to throne in Uganda kingdom after succession dispute",
+    "Hormuz and Yemen: Iran offers de-escalation at a price others will pay",
+    "Can Tajikistan’s economic boom survive its debt gamble?",
+    "What did Yamal say to Messi at World Cup final? ‘Thank you for everything’",
+    "Malaysia gave refuge to Rohingya; now it wants them to go",
+    "In FIFA-UEFA tussle, European body accused of ‘misinformation campaign’",
+    "Why has a Cornell rape investigation been reopened?"
   ],
   "sections": [
     {
@@ -25,6 +25,12 @@
         {
           "event": "Russia vs. IR Iran: Russia O/U 2.5",
           "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Struff vs. Tirante: Match O/U 22.5",
+          "odds": "-112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -65,26 +71,32 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Dota 2: LGD Gaming vs Xtreme Gaming (BO3) - BLAST Slam Group A",
-          "odds": "-194",
+          "event": "Exact Score: Wuxi Wugou 3 - 1 Ningbo Professional FC?",
+          "odds": "+2027",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Set Handicap: Linda Fruhvirtova (-1.5) vs Andrea Lazaro Garcia (+1.5)",
-          "odds": "+177",
+          "event": "Exact Score: Mozambique 3 - 0 Sudan?",
+          "odds": "+2027",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "ELH: Dynamo Pardubice vs. Motor České Budějovice",
+          "odds": "-354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Guinea-Bissau vs. Nigeria: Both Teams to Score",
+          "odds": "+163",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Jordan join the Abraham Accords before 2027?",
           "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Poland win on 2026-10-02?",
-          "odds": "-112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
