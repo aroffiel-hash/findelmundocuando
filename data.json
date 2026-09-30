@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "30 de septiembre de 2026 — 10:11 UTC",
+  "lastUpdated": "30 de septiembre de 2026 — 16:36 UTC",
   "ticker": [
-    "‘I wanted to live’: A Ukrainian orphan’s journey through Russian occupation",
-    "Photos: A journalist is crowned king in Uganda",
-    "UK‘s PM Burnham sets out plans to reshape public services",
-    "Hijabi students turned away from school in Azerbaijan",
-    "S Korea demands apology over DMZ blasts as N Korea denies planting mines",
-    "Flydubai flight to Israel diverted to Saudi Arabia after emergency alert",
-    "‘Dire situation’: Lebanese prisoners on hunger strike for 18 days",
-    "Pakistan vows to defend Saudi Arabia against Houthis",
-    "Nigeria and Ghana suffer huge AFCON 2027 qualifying shocks",
-    "Gentle giant Backpack wins Alaska’s Fat Bear Week",
-    "Trump calls Kim Jong Un a ‘friend’ and plays down N Korea’s nuclear arsenal",
-    "OpenAI launches ‘dots,’ personal AI assistant ‘built to handle everything’",
-    "India’s Ujjain tense as mosque partially demolished for Hindu pilgrimage",
-    "Hegseth to cut number of US general and admiral positions by 20%",
-    "Israel’s Lapid accuses Netanyahu of ‘fear-mongering’ over attack warning"
+    "Romania’s political crisis intensifies as Parliament rejects pro-EU PM",
+    "What happened on diverted Flydubai flight from Dubai to Tel Aviv?",
+    "Photos: Kashmir’s 600-year-old Wazwan wedding feast adapts to modern life",
+    "Garvaghy Road standoff brings Northern Ireland’s old wounds back to surface",
+    "China extends 52-year unbeaten record as Asian Games organisers apologise",
+    "Is Spain’s anti-eviction decree a fix for its housing crisis?",
+    "Why is Hegseth cutting 20 percent of US general and admiral positions?",
+    "Pep Guardiola backs Man City after guilty verdict on financial charges",
+    "Palestinian archaeologists race against time to save Gaza’s heritage",
+    "Why Israel is interfering in Palestinian education",
+    "Christa Pike seeks firing squad, not lethal injection: Inside US executions",
+    "Israeli attacks on Gaza kill seven as ‘ceasefire’ violations continue",
+    "Settlers closing in on Ramallah",
+    "Denmark vs Portugal: UEFA Nations League – Ronaldo, Hojlund, teams, form",
+    "Rainwater washes away highway in Nigeria"
   ],
   "sections": [
     {
@@ -49,12 +49,60 @@
       ]
     },
     {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will the Republican Party candidate win the 2026 TX-28 House election by 0%-3%?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Brenda Locke win the 2026 Surrey mayoral election?",
+          "odds": "-284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Will Red Star Belgrade finish 9th-24th in UECL league phase?",
+          "odds": "+108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Sporting Jax win on 2026-09-30?",
+          "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Martin Necas record 40+ goals in the 2026-27 regular season?",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Putin and Zelenskyy not meet by December 31, 2027?",
+          "odds": "-354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the Democratic Party win the TX-32 House seat?",
           "odds": "+890",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Moscow be 13°C on October 1?",
+          "odds": "+108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
