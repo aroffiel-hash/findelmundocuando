@@ -1,115 +1,40 @@
 {
-  "lastUpdated": "30 de septiembre de 2026 — 16:36 UTC",
+  "lastUpdated": "30 de septiembre de 2026 — 17:22 UTC",
   "ticker": [
+    "MI5 warns UK academics to cut ties with Chinese group over alleged spying",
+    "US appeals court halts Tennessee execution of Christa Pike",
+    "Swiss Football Association withdraws support for FIFA boss Gianni Infantino",
+    "Jerusalem Daily: Flight carrying Israelis diverted after stabbing",
+    "Pentagon says US troop withdrawal from Iraq is complete",
     "Romania’s political crisis intensifies as Parliament rejects pro-EU PM",
     "What happened on diverted Flydubai flight from Dubai to Tel Aviv?",
     "Photos: Kashmir’s 600-year-old Wazwan wedding feast adapts to modern life",
     "Garvaghy Road standoff brings Northern Ireland’s old wounds back to surface",
     "China extends 52-year unbeaten record as Asian Games organisers apologise",
     "Is Spain’s anti-eviction decree a fix for its housing crisis?",
-    "Why is Hegseth cutting 20 percent of US general and admiral positions?",
-    "Pep Guardiola backs Man City after guilty verdict on financial charges",
-    "Palestinian archaeologists race against time to save Gaza’s heritage",
-    "Why Israel is interfering in Palestinian education",
-    "Christa Pike seeks firing squad, not lethal injection: Inside US executions",
-    "Israeli attacks on Gaza kill seven as ‘ceasefire’ violations continue",
-    "Settlers closing in on Ramallah",
-    "Denmark vs Portugal: UEFA Nations League – Ronaldo, Hojlund, teams, form",
-    "Rainwater washes away highway in Nigeria"
+    "Why is Hegseth cutting 20 percent of US general and admiral positions?"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
       "rows": [
         {
           "event": "Will total votes cast in the 2026 midterm election for Senator from Alabama be between 1,700,000 and 1,800,000?",
           "odds": "+344",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
       "rows": [
         {
-          "event": "Will S&P 500 (SPY) hit (LOW) $700 in October?",
+          "event": "Will Joao Azevêdo win the most votes in the 2026 Paraíba Senate election?",
           "odds": "-614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the 5-year Treasury yield dip below 4.10% before 2027?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🏛️",
-      "label": "POLÍTICA INTERNACIONAL",
-      "rows": [
-        {
-          "event": "Will the Republican Party candidate win the 2026 TX-28 House election by 0%-3%?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Brenda Locke win the 2026 Surrey mayoral election?",
-          "odds": "-284",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
-      "rows": [
-        {
-          "event": "Will Red Star Belgrade finish 9th-24th in UECL league phase?",
-          "odds": "+108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Sporting Jax win on 2026-09-30?",
-          "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Martin Necas record 40+ goals in the 2026-27 regular season?",
-          "odds": "+233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Putin and Zelenskyy not meet by December 31, 2027?",
-          "odds": "-354",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party win the TX-32 House seat?",
-          "odds": "+890",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Moscow be 13°C on October 1?",
-          "odds": "+108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Elon Musk post 780-799 tweets in October 2026?",
-          "odds": "+1899",
-          "params": "Fuente: Polymarket",
+          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
