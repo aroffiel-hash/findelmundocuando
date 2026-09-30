@@ -1,49 +1,28 @@
 {
-  "lastUpdated": "29 de septiembre de 2026 — 23:20 UTC",
+  "lastUpdated": "30 de septiembre de 2026 — 03:22 UTC",
   "ticker": [
-    "UN extends mandate of Gang Suppression Force in Haiti for six months",
-    "US consumer confidence hits its lowest level since 2014 ahead of midterms",
-    "US Supreme Court allows Trump to continue third-country deportations",
-    "Yamal stars as Spain thrash Croatia",
-    "‘Netanyahu targets Qatar to deflect from Gaza war crimes’",
-    "French students clash with police as protests over education cuts spread",
-    "What is white phosphorus, and why is Israel using it in Lebanon?",
-    "Spain protests: Evicted 87-year-old woman to return to Madrid home",
-    "What we know about RAF Fairford ‘bomb plot’",
-    "US sanctions 10 entities for allegedly supporting Iran’s military",
-    "US ban on $1bn of Canadian goods takes effect in Trump’s latest retaliation",
-    "Has Gaza broken the Israel consensus in the US?",
-    "US troops fully withdraw from Baghdad base after two decades",
-    "Can Iraq handle future security challenges alone?",
-    "Madrid residents feel the impact of Spain’s housing crisis"
+    "Trump backs AI self-regulation at tech summit but is it enough?",
+    "Somali pirates killed five crew members on hijacked tanker, officials say",
+    "US Senate blocks resolution seeking report on Americans killed in West Bank",
+    "Protesters block Orange Order march in Northern Ireland",
+    "King appoints Morocco’s first female prime minister",
+    "Morocco’s pro-Palestine protests challenge Rabat’s deepening Israel ties",
+    "Indonesia suspends five officials over luxury apartments for inmates",
+    "Iran war live: Trump claims war will end ‘very soon’, gives no details",
+    "Trump says he plans to campaign for 32 days before midterm elections",
+    "‘Nothing is justifying this’: Qatar’s PM slams Israel’s atrocities in Gaza",
+    "Trump, tech bosses sign voluntary pact pledging ‘robust’ AI safeguards",
+    "Jack Smith defends investigations into Trump during tense US Senate hearing"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "flag": "🇷🇺",
+      "label": "RUSIA / UCRANIA / OTAN",
       "rows": [
         {
           "event": "Will total votes cast in the 2026 midterm election for Senator from Alabama be between 1,700,000 and 1,800,000?",
           "odds": "+344",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
-      "rows": [
-        {
-          "event": "Will S&P 500 (SPY) hit (LOW) $700 in October?",
-          "odds": "-614",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the 5-year Treasury yield dip below 4.10% before 2027?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
+          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
           "moved": "none"
         }
       ]
