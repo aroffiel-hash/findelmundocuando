@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "30 de septiembre de 2026 — 03:22 UTC",
+  "lastUpdated": "30 de septiembre de 2026 — 03:29 UTC",
   "ticker": [
     "Trump backs AI self-regulation at tech summit but is it enough?",
     "Somali pirates killed five crew members on hijacked tanker, officials say",
@@ -12,17 +12,56 @@
     "Trump says he plans to campaign for 32 days before midterm elections",
     "‘Nothing is justifying this’: Qatar’s PM slams Israel’s atrocities in Gaza",
     "Trump, tech bosses sign voluntary pact pledging ‘robust’ AI safeguards",
-    "Jack Smith defends investigations into Trump during tense US Senate hearing"
+    "Jack Smith defends investigations into Trump during tense US Senate hearing",
+    "Venezuelan man shot by ICE officer in Texas is charged with assault",
+    "Iraq begins high-stakes security balancing act as US troops withdraw",
+    "Man City CEO: Premier League verdict based on ‘conspiracy theory’"
   ],
   "sections": [
     {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Will total votes cast in the 2026 midterm election for Senator from Alabama be between 1,700,000 and 1,800,000?",
           "odds": "+344",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will S&P 500 (SPY) hit (LOW) $700 in October?",
+          "odds": "-614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the 5-year Treasury yield dip below 4.10% before 2027?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "M25 Zaragoza: Alexander Petrov vs Bruno Pujol Navarro",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Elon Musk post 780-799 tweets in October 2026?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
