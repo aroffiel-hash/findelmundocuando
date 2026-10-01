@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "01 de octubre de 2026 — 17:49 UTC",
+  "lastUpdated": "01 de octubre de 2026 — 20:13 UTC",
   "ticker": [
+    "After Red Sea losses, Yemen’s government forces hold the line",
+    "Saudi-led coalition says power station attacked in Medina, blames Houthis",
+    "Canada to fast track oil pipeline meant to diversify economy away from US",
+    "School protests spread as fires, blockades deepen unrest in France",
+    "Palestinian children in Israeli military detention",
+    "US Supreme Court agrees to take up Trump’s ICE detention policy",
     "Renee Good’s family sues Trump administration over fatal ICE shooting",
     "Despite praise and White House visits, Trump avoids endorsing Netanyahu",
     "Death penalty bill for forest arsonists clears Algeria lower house",
@@ -9,10 +15,44 @@
     "British police arrest UK-Iranian national over airbase incident",
     "Photos: Palestinians mourn more than 100 loved ones in mass Gaza funeral",
     "Chinese hackers impersonated AI experts to target US policy minds",
-    "Jerusalem Daily: Netanyahu calls flight incident another 9/11",
-    "Who is Man City whistleblower Rui Pinto and what has become of him?",
-    "Flydubai attack gives Netanyahu new security message ahead of Israel vote",
-    "Moroccan intelligence uses surveillance to ‘silence’ journalists: Amnesty"
+    "Jerusalem Daily: Netanyahu calls flight incident another 9/11"
   ],
-  "sections": []
+  "sections": [
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "CA Independiente vs. Instituto AC Córdoba: Both Teams to Score",
+          "odds": "+122",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Moonshot be the third-best AI lab at the end of November 2026?",
+          "odds": "+1308",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Dreamcash FDV above $20M one day after launch?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Côte d'Ivoire vs. Cameroon end in a draw?",
+          "odds": "+244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will USD/JPY hit 190 (High) in 2026?",
+          "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    }
+  ]
 }
