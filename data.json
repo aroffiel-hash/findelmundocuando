@@ -1,36 +1,60 @@
 {
-  "lastUpdated": "02 de octubre de 2026 — 18:52 UTC",
+  "lastUpdated": "02 de octubre de 2026 — 22:44 UTC",
   "ticker": [
-    "Israeli barrier cuts off water to West Bank Palestinians before elections",
-    "Israel’s Supreme Court overturns election panel ban on Arab parties",
-    "‘I want the truth’: NY governor appoints prosecutor in Cornell rape case",
-    "Jerusalem Daily: Who gets to run in Israel’s elections?",
-    "How the Banco Master scandal injected chaos into Brazil’s presidential race",
-    "Taiwan Coast Guard confronts Chinese fishing boats in Dongsha waters",
-    "US adds just 29,000 jobs as unemployment rises before midterm elections",
-    "Three in four households go hungry in parts of Yemen amid fighting: UN",
-    "Trump to name intelligence chief Jay Clayton as AI tsar: Reports",
-    "Does the punishment fit the crime? Controversy erupts around ‘Cornell 7’",
-    "LIVE: France vs Italy – UEFA Nations League",
-    "Spain’s parliament rejects gov’t housing decrees amid mass protests",
-    "G7 to release 100m oil barrels as Trump hails Europe diesel deal",
-    "Ethiopia, Eritrea break ties: Does the conflict risk becoming regional war?",
-    "Can India’s ‘cockroach’ movement oust Modi’s election chief?"
+    "Croatia vs England: UEFA Nations League – Kane, Modric, teams, form",
+    "Police bodycam shows Luigi Mangione arrest at Pennsylvania McDonald’s",
+    "Israel could’ve ended Gaza war, freed captives sooner: Israel ex-negotiator",
+    "France held 1-1 by Italy in Zidane home debut after Olise stunner",
+    "Bosnia’s elections explained",
+    "Israeli general: Gaza captives could have been freed a year earlier",
+    "Christa Pike unconscious, on ventilator after botched execution: Lawyers",
+    "FlyDubai pilot hailed as ‘national hero’ as he describes attack",
+    "Latin America sees China as more positive global influence than US: Poll",
+    "Iraq grants Iranian airlines 40 daily Najaf flights after US exemption",
+    "California leads lawsuit against Trump fuel efficiency standards rollback",
+    "Could conflict in Ethiopia expand across the region?",
+    "Arab party leader withdraws from Israeli elections",
+    "Trump says Europe agreed to release ‘massive amount’ of diesel reserves",
+    "Sudan’s army says it captured RSF stronghold in North Kordofan"
   ],
   "sections": [
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will the Republican Party candidate win the 2026 OH-07 House election by 3%-6%?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Lai Jui-lung win the next Kaohsiung Mayor election?",
+          "odds": "-212",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
     {
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Map Handicap: NIP (-1.5) vs Johnny Speeds (+1.5)",
-          "odds": "-426",
+          "event": "Counter-Strike: MOUZ vs M80 - Map 1 Winner",
+          "odds": "-244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Greece vs. Germany: Both Teams to Score",
           "odds": "-143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Magnus Carlsen finish in the Top 3 of Titled Tuesday on October 6?",
+          "odds": "+488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -61,12 +85,6 @@
         {
           "event": "Will Jack Eichel record 30+ goals in the 2026-27 regular season?",
           "odds": "+316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Côte d'Ivoire vs. Cameroon end in a draw?",
-          "odds": "+244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
