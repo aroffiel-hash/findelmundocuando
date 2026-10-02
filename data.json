@@ -1,36 +1,72 @@
 {
-  "lastUpdated": "02 de octubre de 2026 — 06:32 UTC",
+  "lastUpdated": "02 de octubre de 2026 — 13:26 UTC",
   "ticker": [
-    "Greece pushes EU to suspend asylum during mass migration surges",
-    "Election debate cancelled in Brazil, bomb scare outside Supreme Court",
-    "Asian Games 2026: Taiwan’s gender-row boxer Lin Yu-ting wins gold medal",
-    "How Switzerland lost 20 percent of its ice in five years",
-    "Nepal avalanche kills at least 15 expedition workers",
-    "Student protests in Chile turn to violent clashes with police",
-    "Arab-Israeli party leader drops election bid",
-    "Eritrea severs diplomatic ties with Ethiopia in row over Tigray",
-    "Iran urges Iraq to lift flight ban amid US sanctions",
-    "FAO official says he lost his job for criticising Israeli policies in Gaza",
-    "Indian artist takes ‘deleted voter’ song to Cockroach protest",
-    "US to send third aircraft carrier towards Iran: US official to Al Jazeera",
-    "Row between Ukraine, South Korea mounts over North Korean POWs",
-    "Everything you need to know about Brazil’s tight presidential race",
-    "The price Europe pays for keeping AI under control"
+    "Ebola death toll surpasses 4,000 as DR Congo struggles to suppress outbreak",
+    "Sea off Thai island turns green",
+    "Ukraine calls for tighter sanctions as Russian attacks spark Kyiv gridlock",
+    "Moment mother bear slams into car to protect cub",
+    "12 minutes of madness: How Flydubai pilot, passengers saved plane midfall",
+    "Ethiopian gov’t-aligned group claims close to full control of Tigray region",
+    "Tunisia softens its ‘false news’ penalty. What really changed, and why now?",
+    "What’s behind France’s school protests?",
+    "Washington’s diplomacy in Sudan has backfired",
+    "Support for Merz plunges after CDU’s losses to Germany’s right and left",
+    "FlyDubai pilot describes opening cockpit door during attack",
+    "‘Containerabad’: Pakistan’s capital and truckers bleed money amid lockdown",
+    "India vs Pakistan cricket: Asian Games gold medal final – all to know",
+    "Explosions reported near military airport in Syria’s Idlib province",
+    "Indian authorities clamp down as ‘cockroach’ movement launches new protests"
   ],
   "sections": [
+    {
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "rows": [
+        {
+          "event": "Exact Score: Ukraine 0 - 1 Northern Ireland?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will the 10-year Treasury yield dip below 5.09% in October?",
+          "odds": "+170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Lauren Boebert resign by October 31, 2026?",
+          "odds": "+1940",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
     {
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "NVIDIA (NVDA) Up or Down on October 2?",
-          "odds": "-112",
+          "event": "Greece vs. Germany: Both Teams to Score",
+          "odds": "-143",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will María Corina Machado enter Venezuela by October 31?",
-          "odds": "+244",
+          "event": "Will Tesla (TSLA) close above $360 on October 2?",
+          "odds": "-212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -49,18 +85,6 @@
         {
           "event": "Will Côte d'Ivoire vs. Cameroon end in a draw?",
           "odds": "+244",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in San Francisco be between 74-75°F on October 2?",
-          "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Gemini 4.0 released by October 5, 2026?",
-          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
