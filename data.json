@@ -1,30 +1,42 @@
 {
-  "lastUpdated": "03 de octubre de 2026 — 07:25 UTC",
+  "lastUpdated": "03 de octubre de 2026 — 12:55 UTC",
   "ticker": [
-    "Singer Zach Bryan wears Free Palestine shirt at Gillette Stadium",
-    "‘Trauma still there’: A decades-old standoff returns to Northern Ireland",
-    "India vs Pakistan live: Asian Games cricket final",
-    "Flydubai co-pilot attacked captain with crash axe in ‘terrorist act’: UAE",
-    "Gaza voters want jobs and security as Palestinian elections approach",
-    "New claims that Netanyahu rejected Hamas offer to release captives",
-    "WHO warns of ‘devastating consequences’ due to delayed aid entry into Gaza",
-    "Brazil’s Lula and Bolsonaro draw thousands as campaigns near end",
-    "10 injured after car crashes into rugby supporters in Australia",
-    "India’s Cockroach Party headlines day of anti-establishment protests",
-    "Two Iranians charged over alleged plot targeting Jewish community in UK",
-    "G7 nations bow to US pressure and avoid crippling diesel ban",
-    "Dominican Republic bans Haiti from its stadiums after football fans clash",
-    "Israeli air attack on Gaza City apartment kills at least five",
-    "Schools ablaze as student protests spread across France"
+    "South Africa’s Pretorius smashes Gayle’s T20 cricket record score",
+    "Israeli settlers attack farmers in West Bank pogrom, soldiers hit reporters",
+    "World No 1 Sinner withdraws from Shanghai Masters as knee injury lingers",
+    "The double standards of a failed execution",
+    "Ethiopia’s government forces retake airport from Tigray rebels in Mekelle",
+    "Palestinians gather for football amid Gaza’s ruins",
+    "How AI is helping Mexico detect breast cancer earlier",
+    "A Yemeni family spends a week on the road fleeing another Houthi offensive",
+    "Pakistan summons Indian diplomat over border killing of two Pakistanis",
+    "What is FC Barcelona’s Negreira case, and what are the charges?",
+    "Red Bull’s Verstappen grabs pole position for Bahrain GP in Malaysia",
+    "G7 to release 100 million barrels of oil and diesel, will it curb prices?",
+    "Who is the mystery co-pilot behind the Flydubai attack?",
+    "Yemen’s army claims over 1,500 Houthi casualties in past 24 hours",
+    "Polls open in Latvia against backdrop of perceived Russia threat"
   ],
   "sections": [
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will the Republican Party candidate win the 2026 OH-14 House election by 25%-30%?",
+          "odds": "+975",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
     {
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Greece vs. Germany: Both Teams to Score",
-          "odds": "-143",
+          "event": "Will the Ornn H200 Index be between $4.50 and $5.00 on October 31, 2026?",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -43,30 +55,6 @@
         {
           "event": "Exact Score: Sint Maarten 1 - 2 St. Vincent and the Grenadines?",
           "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Moonshot be the third-best AI lab at the end of November 2026?",
-          "odds": "+1308",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Jack Eichel record 30+ goals in the 2026-27 regular season?",
-          "odds": "+316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will USD/JPY hit 190 (High) in 2026?",
-          "odds": "+426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Z.ai be the third-best AI lab at the end of October 2026?",
-          "odds": "+1215",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
