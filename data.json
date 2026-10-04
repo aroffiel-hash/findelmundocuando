@@ -1,18 +1,88 @@
 {
-  "lastUpdated": "04 de octubre de 2026 — 03:41 UTC",
+  "lastUpdated": "04 de octubre de 2026 — 09:13 UTC",
   "ticker": [
-    "Ballots reach remote Indigenous Brazilians ahead of presidential election",
-    "Zimbabweans struggle to rebuild after fleeing xenophobia in South Africa",
-    "Ethiopian government troops seize Tigray’s capital Mekelle",
-    "Cornell president vows transparency amid outrage over fraternity rape case",
-    "Serbian populist leader Vucic launches campaign for prime minister",
-    "Mamdani, Irish PM play bingo, ‘split the G’ in New York",
-    "Brazil’s Lula and Bolsonaro close campaigns ahead of critical election",
-    "Iran war live: Yemeni forces strike Sanaa as Trump warns Tehran of hard way",
-    "Air ambulance missing on flight from Bermuda to Boston",
-    "Pelosi-backed US candidate calls for ‘full arms embargo’ on Israel",
-    "Israeli settlers attack Palestinian farmers during olive harvest",
-    "Fernandes denies Portugal rift, hails Ronaldo after walk out"
+    "Bosnia votes in one of world’s most complicated general elections",
+    "Cornell president says university ‘must do better’ after rape allegations",
+    "Inside the ‘kill box’: The Yemenis who stayed behind in Houthi-held Mocha",
+    "Sabalenka, Rybakina handed shock defeats at China Open tennis",
+    "Gaza’s Christians mourn mother and daughter killed in Israeli attack",
+    "Saudi-led coalition dismisses ‘misleading’ Houthi claim of Riyadh attack",
+    "Fury to invite US President Trump to lead ring walk before Joshua fight",
+    "Yamal scores stunning goal in Spain’s 3-1 Nations League win over Czechia",
+    "West Indies beat India in record chase as Hope hits 162 in third ODI",
+    "Widespread damage after huge hailstones pound Paraguay capital",
+    "Somalia President: Houthis ‘not in a position’ to bring Yemen peace",
+    "Bosnia general election 2026 explained in maps and charts",
+    "Trump defiant about midterm chances as he rallies for Republicans in Ohio",
+    "Saudi-backed Yemeni army says 700 Houthis killed in 24 hours",
+    "Pick-up truck overturns trying to carry military chopper in Russia"
   ],
-  "sections": []
+  "sections": [
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "CD Antofagasta vs. CSD Rangers: O/U 4.5",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will the Republican Party candidate win the 2026 OH-14 House election by 25%-30%?",
+          "odds": "+975",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will Magnus Carlsen finish in the Top 3 of Titled Tuesday on October 6?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Nottingham Forest Lfc vs. Burnley FC Women end in a draw?",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Moonshot be the third-best AI lab at the end of November 2026?",
+          "odds": "+1308",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jack Eichel record 30+ goals in the 2026-27 regular season?",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will John Lucian Goins qualify for the 2027 PPA Tour Finals?",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will USD/JPY hit 190 (High) in 2026?",
+          "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    }
+  ]
 }
