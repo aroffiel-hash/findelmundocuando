@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "03 de octubre de 2026 — 22:35 UTC",
+  "lastUpdated": "04 de octubre de 2026 — 02:18 UTC",
   "ticker": [
+    "Cornell president vows transparency amid outrage over fraternity rape case",
+    "Serbian populist leader Vucic launches campaign for prime minister",
+    "Mamdani, Irish PM play bingo, ‘split the G’ in New York",
+    "Brazil’s Lula and Bolsonaro close campaigns ahead of critical election",
+    "Iran war live: Yemeni forces strike Sanaa as Trump warns Tehran of hard way",
+    "Air ambulance missing on flight from Bermuda to Boston",
+    "Pelosi-backed US candidate calls for ‘full arms embargo’ on Israel",
     "Israeli settlers attack Palestinian farmers during olive harvest",
     "Fernandes denies Portugal rift, hails Ronaldo after walk out",
     "Trump ramps up pressure on US Republicans to end US clock switching",
@@ -8,16 +15,39 @@
     "Remains of Bulgaria’s Czar Samuel return ‘home’ after 1,000 years",
     "Is the CJP changing India’s political landscape?",
     "Al Jazeera speaks to Palestinian schoolboy from viral photograph",
-    "Fernandes hails Ronaldo and calls for Portugal unity ahead of Norway game",
-    "England trounce Croatia 7-0 in Nations League as Kane goal run continues",
-    "Portugal vs Norway: UEFA Nations League – Ronaldo latest, Haaland, teams",
-    "Algeria sent fighter jets to Niger to thwart ‘coup attempt’, president says",
-    "Tennessee prisons official resigns after Christa Pike’s failed US execution",
-    "Israeli reporter’s ‘verbal attack’ ends Ireland football news conference",
-    "Somalia won’t accept Israeli presence ‘under any circumstances’: President",
-    "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack"
+    "Fernandes hails Ronaldo and calls for Portugal unity ahead of Norway game"
   ],
   "sections": [
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "CD Antofagasta vs. CSD Rangers: O/U 4.5",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will the Republican Party candidate win the 2026 OH-14 House election by 25%-30%?",
+          "odds": "+975",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democrats win the Texas Senate race in 2026?",
+          "odds": "-185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
     {
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
@@ -29,20 +59,32 @@
           "moved": "none"
         },
         {
-          "event": "Exact Score: Sint Maarten 0 - 1 St. Vincent and the Grenadines?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Payton Talbott win by KO or TKO?",
-          "odds": "+117",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Nottingham Forest Lfc vs. Burnley FC Women end in a draw?",
           "odds": "+376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Moonshot be the third-best AI lab at the end of November 2026?",
+          "odds": "+1308",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jack Eichel record 30+ goals in the 2026-27 regular season?",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will John Lucian Goins qualify for the 2027 PPA Tour Finals?",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will USD/JPY hit 190 (High) in 2026?",
+          "odds": "+426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
