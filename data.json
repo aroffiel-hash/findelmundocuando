@@ -1,18 +1,88 @@
 {
-  "lastUpdated": "08 de octubre de 2026 — 03:53 UTC",
+  "lastUpdated": "08 de octubre de 2026 — 08:16 UTC",
   "ticker": [
+    "Southampton manager Eckert can stay on despite role in ‘spygate’ scandal",
+    "Cristiano Ronaldo pays tribute to Lionel Messi after Argentina farewell",
+    "Yemen’s government needs tribes to defeat the Houthis. Will they join?",
+    "Acclaimed Indian actor Nana Patekar dies aged 75",
+    "How October 7 redrew the map of the Middle East",
+    "What did Palestinians take when they fled after October 7?",
+    "Why single Ebola death in Kenya has prompted fears of wider African spread",
+    "Protesters in Colombia rally against ties with Israel",
+    "UK renames East Jerusalem consulate as a mission; some diplomats to remain",
+    "Trump interrupted by protesters at Texas rally",
+    "South Korea pledges legal action over alleged fuel exports to Russia",
     "Global protests mark October 7 attack with calls for Gaza ceasefire",
     "US bars Fiji-based man over corruption tied to China",
     "Tanker hit by multiple projectiles off north coast of Qatar, UKMTO says",
-    "Why is Guantanamo prison still open?",
-    "Democrats sue US President Trump over taxpayer-funded ad campaign",
-    "Death of 87-year old sparks furious Spain housing protests",
-    "Yemeni government forces claim 1,860 Houthis ‘neutralised’",
-    "How kidnappings are hitting Nigeria’s Borno families hard",
-    "US stocks slide as oil prices fluctuate over renewed Iran war fears",
-    "Russia dismisses reports of second plague case as ‘false information’",
-    "Saudi Arabia confirms three dead in Houthi strikes on its airports",
-    "Yemen war live: Yemeni forces claim key heights as Houthi attacks go on"
+    "Why is Guantanamo prison still open?"
   ],
-  "sections": []
+  "sections": [
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will the Republican Party candidate win the 2026 OH-14 House election by 25%-30%?",
+          "odds": "+975",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will Sudan's Emergency Response Rooms win the Nobel Peace Prize in 2026?",
+          "odds": "+545",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "OGC Nice vs. RC Strasbourg Alsace: Both Teams to Score",
+          "odds": "-143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Stade Brestois 29 vs. Angers SCO: Both Teams to Score",
+          "odds": "-132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Torino FC vs. Udinese Calcio: Both Teams to Score",
+          "odds": "-108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Moonshot be the third-best AI lab at the end of November 2026?",
+          "odds": "+1308",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jack Eichel record 30+ goals in the 2026-27 regular season?",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Ornn H100 Index be between $2.00 and $2.25 on October 31, 2026?",
+          "odds": "+1023",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will John Lucian Goins qualify for the 2027 PPA Tour Finals?",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    }
+  ]
 }
