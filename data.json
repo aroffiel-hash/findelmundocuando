@@ -1,18 +1,64 @@
 {
-  "lastUpdated": "08 de octubre de 2026 — 18:15 UTC",
+  "lastUpdated": "08 de octubre de 2026 — 21:42 UTC",
   "ticker": [
-    "Two Latvian men arrested inside UK military base after breach",
-    "Hurricane Isaias charges towards the US Gulf Coast with dangerous winds",
-    "Syria calls for independent probe into sinking of ship in Black Sea",
-    "US suspends Microsoft and Adobe from visa programme amid fraud claims",
-    "Jerusalem Daily: Remembrance and mourning",
-    "Senegal-Morocco AFCON title decision within days, says CAS",
-    "Dozens killed in Russian strike on civilian buses in eastern Ukraine",
-    "Video shows dramatic eruption of volcano near Manila",
-    "UEFA details FIFA presidential candidate criteria in bid to oust Infantino",
-    "UK ex-prince Andrew search warrants quashed after police accept legal error",
-    "Video said to show Mali army in Kidal after retaking city",
-    "Venezuela’s Nicolas Maduro and his wife charged over torture allegations"
+    "Police use tear gas and water cannons on student protestors in Paris",
+    "Trump gives top US science awards to Elon Musk and other tech executives",
+    "What is the Mecca defence pact?",
+    "US charges Venezuela’s Nicolas Maduro over torture allegations",
+    "South Africa protests turn violent amid rage over asylum ruling",
+    "Israel shuts down British consulate in occupied East Jerusalem",
+    "How much worse can Yemen’s humanitarian crisis become?",
+    "Israeli settlers take Palestinian olives, and their harvest traditions",
+    "Israeli settlers systematically target the Palestinian olive harvest",
+    "India’s Cockroach movement says members detained as protests continue",
+    "Prosecutors in Maradona death trial seek sentences up to 12 years",
+    "At least 81 US aircraft worth up to $3.3bn lost or damaged in Iran war",
+    "Man City charges: Maresca says players focused on Liverpool test",
+    "‘War lives in me’: Gaza playwright Ali Abu Yasin wins English PEN award",
+    "Philippines ex-President Duterte fit to stand trial, ICC rules"
   ],
-  "sections": []
+  "sections": [
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will the Republican Party candidate win the 2026 OH-14 House election by 25%-30%?",
+          "odds": "+975",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will Wieczysta Krakow vs. Wisla Plock end in a draw?",
+          "odds": "+257",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Torino FC vs. Udinese Calcio: Both Teams to Score",
+          "odds": "-108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Moonshot be the third-best AI lab at the end of November 2026?",
+          "odds": "+1308",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jack Eichel record 30+ goals in the 2026-27 regular season?",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    }
+  ]
 }
