@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "08 de octubre de 2026 — 21:42 UTC",
+  "lastUpdated": "09 de octubre de 2026 — 01:37 UTC",
   "ticker": [
-    "Police use tear gas and water cannons on student protestors in Paris",
-    "Trump gives top US science awards to Elon Musk and other tech executives",
-    "What is the Mecca defence pact?",
-    "US charges Venezuela’s Nicolas Maduro over torture allegations",
-    "South Africa protests turn violent amid rage over asylum ruling",
-    "Israel shuts down British consulate in occupied East Jerusalem",
-    "How much worse can Yemen’s humanitarian crisis become?",
-    "Israeli settlers take Palestinian olives, and their harvest traditions",
-    "Israeli settlers systematically target the Palestinian olive harvest",
-    "India’s Cockroach movement says members detained as protests continue",
-    "Prosecutors in Maradona death trial seek sentences up to 12 years",
-    "At least 81 US aircraft worth up to $3.3bn lost or damaged in Iran war",
-    "Man City charges: Maresca says players focused on Liverpool test",
-    "‘War lives in me’: Gaza playwright Ali Abu Yasin wins English PEN award",
-    "Philippines ex-President Duterte fit to stand trial, ICC rules"
+    "USS Abraham Lincoln returns after record-breaking deployment",
+    "UN extends Darfur arms embargo, blocks broader Sudan sanctions proposal",
+    "USS Lincoln returns to US after long deployment supporting war on Iran",
+    "A father’s agony after an Israeli air strike hits Gaza apartment",
+    "Will Ethiopia’s neighbours intervene as Tigray war escalates?",
+    "Iran war live: Iranian media reports ‘massive explosions’ in Hormuz Strait",
+    "Kenyan patient suspected of Ebola infection tests negative",
+    "Hegseth says firing squad execution of Fort Hood shooter will be ‘public’",
+    "Man City charges: Mourinho jokes Premier League case will outlast him",
+    "Israel kills or wounds Palestinian every 90 minutes in Gaza since ceasefire",
+    "Putin pledges Russia’s support to end US-led war on Iran",
+    "French giants Bordeaux relegated to sixth tier for financial irregularities",
+    "Four astronauts return to earth after an eight-month space mission",
+    "What Man City charges anger Liverpool before Premier League game?",
+    "Police use tear gas and water cannons on student protestors in Paris"
   ],
   "sections": [
     {
@@ -34,6 +34,12 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
+        {
+          "event": "Will there be 7 earthquakes of 5.5 or above magnitude worldwide?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Wieczysta Krakow vs. Wisla Plock end in a draw?",
           "odds": "+257",
@@ -55,6 +61,18 @@
         {
           "event": "Will Jack Eichel record 30+ goals in the 2026-27 regular season?",
           "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Ornn H100 Index be between $2.00 and $2.25 on October 31, 2026?",
+          "odds": "+1023",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will John Lucian Goins qualify for the 2027 PPA Tour Finals?",
+          "odds": "+376",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
