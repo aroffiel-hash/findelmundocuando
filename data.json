@@ -1,18 +1,82 @@
 {
-  "lastUpdated": "09 de octubre de 2026 — 17:48 UTC",
+  "lastUpdated": "09 de octubre de 2026 — 20:26 UTC",
   "ticker": [
+    "Trump announces Russian diesel deal amid soaring US fuel prices",
+    "European states, Canada, Japan and UN back ICC against US sanctions",
+    "Tsunami warnings across Latin America after 7.7 magnitude earthquake hits",
+    "Injured Orangutan rescued from Indonesia wildfires",
+    "Katie Zacharia ‘offered’ position as White House press secretary",
+    "‘Barbaric’: US lawmakers condemn plan to livestream Nidal Hasan’s execution",
+    "AI deepfake ads grow more popular in US midterm campaigns, blurring truth",
+    "Gaza ceasefire ‘exists in name only’, more than 100 NGOs say",
+    "‘An attack against sovereign states’: ICC President slams US sanctions",
+    "Jerusalem Daily: US charity to use AI to monitor Gaza classrooms",
     "Drone strike kills 30 people in Sudan’s Blue Nile region",
     "Palestinians seek protection from violent settlers during olive harvest",
     "Powerful tornado rips through western Sicily",
     "DHS defends ICE shooting in NYC, says officers believed they were in danger",
-    "‘A Ceuta-style surge is possible’: Border tensions on NATO’s eastern flank",
-    "Thousands rally for anti-austerity protest in Brussels amid clashes",
-    "Trump launches probe into Federal Reserve Governor Lisa Cook",
-    "‘Rogue court’: US sanctions ICC hours after ex-judge wins Nobel Prize",
-    "Israeli settler attacks target Palestinian olive harvest in West Bank",
-    "Hurricane Isaias strengthens into Category 3 storm with US in its sights",
-    "US sanctions International Criminal Court itself in major escalation",
-    "Trump’s planned DC arch faces new lawsuit"
+    "‘A Ceuta-style surge is possible’: Border tensions on NATO’s eastern flank"
   ],
-  "sections": []
+  "sections": [
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will the Republican Party candidate win the 2026 OH-14 House election by 25%-30%?",
+          "odds": "+975",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will FK Kharkiv win on 2026-10-10?",
+          "odds": "-203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Kent State vs. Western Michigan",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will FC Lokomotiv 1929 Sofia vs. PFC Lokomotiv Plovdiv end in a draw?",
+          "odds": "+244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Moonshot be the third-best AI lab at the end of November 2026?",
+          "odds": "+1308",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jack Eichel record 30+ goals in the 2026-27 regular season?",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: CD San Antonio Bulo Bulo 1 - 0 CD Real Tomayapo?",
+          "odds": "+354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Ornn H100 Index be between $2.00 and $2.25 on October 31, 2026?",
+          "odds": "+1023",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    }
+  ]
 }
