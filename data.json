@@ -1,18 +1,82 @@
 {
-  "lastUpdated": "09 de octubre de 2026 — 03:58 UTC",
+  "lastUpdated": "09 de octubre de 2026 — 08:17 UTC",
   "ticker": [
-    "ICE agent shoots man in car with five-year-old child in New York: Mayor",
-    "Christa Pike case underscores prevalence of botched executions in US",
-    "Key takeaways from US Senate debate in Michigan between El-Sayed, Rogers",
-    "Protests, debate follow death of Maricarmen, 87, Spain protest symbol",
-    "USS Abraham Lincoln returns after record-breaking deployment",
-    "UN extends Darfur arms embargo, blocks broader Sudan sanctions proposal",
-    "USS Lincoln returns to US after long deployment supporting war on Iran",
-    "A father’s agony after an Israeli air strike hits Gaza apartment",
-    "Will Ethiopia’s neighbours intervene as Tigray war escalates?",
-    "Iran war live: Iranian media reports ‘massive explosions’ in Hormuz Strait",
-    "Kenyan patient suspected of Ebola infection tests negative",
-    "Hegseth says firing squad execution of Fort Hood shooter will be ‘public’"
+    "US ICE releases Kashmiri filmmaker Arfat Sheikh from custody",
+    "Three years after October 7, prolonged war takes its toll on Israelis",
+    "Why has Iraq decided to ban online map service Waze?",
+    "Who is Dov Lando, the Israeli rabbi criticising Zionism?",
+    "Afghanistan’s emerald miners struggle with tools but attract global buyers",
+    "Trump says US will not strike Iran before midterm elections",
+    "Brazilian Supreme Court judge issues arrest warrant for Eduardo Bolsonaro",
+    "From Aden to Sanaa, Yemenis struggle to deal with soaring living costs",
+    "How October 7 changed Lebanon and Hezbollah’s political reality",
+    "Photos: Gaza before and after – a city transformed by war",
+    "Mexico prison clash in strife-torn Sinaloa state leaves 10 dead",
+    "Uproar in NY after ICE shoots man with child in the car",
+    "Northern Ireland’s Sinn Fein faces police probe as protest tensions fester",
+    "ICE shooting of New York man in car with five-year-old sparks protests",
+    "Christa Pike case underscores prevalence of botched executions in US"
   ],
-  "sections": []
+  "sections": [
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Brad Bradford win the 2026 Toronto mayoral election?",
+          "odds": "+244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party candidate win the 2026 OH-14 House election by 25%-30%?",
+          "odds": "+975",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will Wieczysta Krakow vs. Wisla Plock end in a draw?",
+          "odds": "+257",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Torino FC vs. Udinese Calcio: Both Teams to Score",
+          "odds": "-108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Moonshot be the third-best AI lab at the end of November 2026?",
+          "odds": "+1308",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jack Eichel record 30+ goals in the 2026-27 regular season?",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Ornn H100 Index be between $2.00 and $2.25 on October 31, 2026?",
+          "odds": "+1023",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will John Lucian Goins qualify for the 2027 PPA Tour Finals?",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    }
+  ]
 }
