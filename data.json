@@ -1,28 +1,91 @@
 {
-  "lastUpdated": "10 de octubre de 2026 — 16:43 UTC",
+  "lastUpdated": "10 de octubre de 2026 — 18:09 UTC",
   "ticker": [
+    "Nine killed in shooting in US state of Pennsylvania, including two children",
+    "Pope says death penalty ‘inadmissible’ as US plans to livestream execution",
+    "Video shows rare albino Asian black bear",
+    "Christa Pike discharged from hospital and returned to Tennessee prison",
+    "Celebrations in Ethiopian city after reported Eritrean ‘incursion’",
+    "Eritrea urges UN to intervene in standoff with Ethiopia",
     "Hurricane Isaias leaves two dead and 800,000 without power in US Southeast",
     "Trump Accounts: Free money, but who gets a say?",
     "With or without Hamas",
     "Three injured in third school attack in Poland in less than a week",
+    "Liverpool vs Man City: Premier League – teams, prediction, Haaland, charges",
+    "Arsenal beat Leeds 2-1 in comeback win to move level with Man City at top",
     "Jerusalem Daily: Israeli settlers attack olive farmers",
     "Mexican judge sentences three men for murders of Australian, US surfers",
-    "Why is the US sanctioning the International Criminal Court?",
-    "Abbas postpones Palestinian legislative elections to September 2027",
-    "Has Yemen returned to ‘full-scale war’?",
-    "When streets become a workplace: Gaza workers convert tents into offices",
-    "High silver prices threaten Lucknow’s famed bridal nagra craft",
-    "New Delhi police crack down on protesters ahead of anti-gov’t march"
+    "Why is the US sanctioning the International Criminal Court?"
   ],
   "sections": [
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
+        {
+          "event": "Will the Republican Party candidate win the 2026 OH-14 House election by 25%-30%?",
+          "odds": "+975",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Morena win the most seats in the 2027 Guerrero Congress election?",
           "odds": "-203",
-          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Exact Score: RAAL La Louviere 0 - 3 Club Brugge?",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will FK Obolon Kyiv vs. FK Kryvbas Kryvyi Rih end in a draw?",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Moonshot be the third-best AI lab at the end of November 2026?",
+          "odds": "+1308",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jack Eichel record 30+ goals in the 2026-27 regular season?",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Ornn H100 Index be between $2.00 and $2.25 on October 31, 2026?",
+          "odds": "+1023",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party win the MN-08 House seat?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will USD/JPY hit 190 (High) in 2026?",
+          "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Next Z.ai GLM (5.4+) released by October 31, 2026?",
+          "odds": "-400",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
