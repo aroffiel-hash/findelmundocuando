@@ -1,6 +1,7 @@
 {
-  "lastUpdated": "12 de octubre de 2026 — 03:39 UTC",
+  "lastUpdated": "12 de octubre de 2026 — 03:45 UTC",
   "ticker": [
+    "North Korea fires multiple ballistic missiles towards the sea",
     "At least 139 dead as migrant boat from Djibouti to Yemen capsizes",
     "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
     "Bridge washed away by torrent of water in Nepal",
@@ -12,7 +13,64 @@
     "Pakistani national killed in second Houthi strike on Riyadh airport",
     "US Homeland Security secretary sees no ‘risk’ from livestreamed execution",
     "Footage shows moment Russian strike hits Ukrainian grocery store",
-    "CCTV shows moment of deadly Houthi strike on Riyadh airport"
+    "CCTV shows moment of deadly Houthi strike on Riyadh airport",
+    "At least 72 Sudanese miners killed in air strike: Rights monitor",
+    "Waves crash into homes as excavators try to protect California properties"
   ],
-  "sections": []
+  "sections": [
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will the Utah Mammoth record 100+ points?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party win the NH-02 House seat?",
+          "odds": "-2122",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will FK Obolon Kyiv vs. FK Kryvbas Kryvyi Rih end in a draw?",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jack Eichel record 30+ goals in the 2026-27 regular season?",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Georgia have more than 11.5 wins during the 2026 CFB season?",
+          "odds": "+138",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Elon Musk post 360-379 tweets from October 6 to October 13, 2026?",
+          "odds": "+153",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Next Z.ai GLM (5.4+) released by October 31, 2026?",
+          "odds": "-257",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will USD/JPY hit 190 (High) in 2026?",
+          "odds": "+426",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    }
+  ]
 }
