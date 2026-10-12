@@ -1,27 +1,45 @@
 {
-  "lastUpdated": "12 de octubre de 2026 — 03:45 UTC",
+  "lastUpdated": "12 de octubre de 2026 — 11:32 UTC",
   "ticker": [
-    "North Korea fires multiple ballistic missiles towards the sea",
-    "At least 139 dead as migrant boat from Djibouti to Yemen capsizes",
-    "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
-    "Bridge washed away by torrent of water in Nepal",
-    "UK PM Andy Burnham says it is ‘clear’ Russia interfered in 2016 Brexit vote",
-    "Iran’s FM urges diplomacy in call with Saudi counterpart",
-    "Hurricane Isaias leaves trail of destruction across the US Gulf Coast",
-    "Ceuta or Sebta? Why one city has two names and a disputed status",
-    "Iran war live: Riyadh airport hit again; Tehran says US reply ‘inadequate’",
-    "Pakistani national killed in second Houthi strike on Riyadh airport",
-    "US Homeland Security secretary sees no ‘risk’ from livestreamed execution",
-    "Footage shows moment Russian strike hits Ukrainian grocery store",
-    "CCTV shows moment of deadly Houthi strike on Riyadh airport",
-    "At least 72 Sudanese miners killed in air strike: Rights monitor",
-    "Waves crash into homes as excavators try to protect California properties"
+    "Ukraine’s Zelenskyy accuses Russia of violating Trump’s ‘energy ceasefire’",
+    "What we learned from ‘guilty’ Man City’s win over Liverpool at Anfield",
+    "Melbourne man linked to flydubai attack suspect rejects ‘false accusations’",
+    "Indian YouTuber Dhruv Rathee alleges abduction ahead of Delhi protests",
+    "Maps show how Israel’s ‘Yellow Line’ keeps squeezing Palestinians in Gaza",
+    "Delhi braces for more protests against election chief amid crackdown",
+    "What do emergency and governor rule in Pakistan’s Khyber Pakhtunkhwa mean?",
+    "Russia introduces drone classes in public schools",
+    "Photos: Gaza mothers endure endless lines as famine fears persist",
+    "Steve Smith breaks Test fielding record as Australia dominate South Africa",
+    "India opposition plans New Delhi protest to demand election chief resign",
+    "Alvarez vs M’billi boxing bout to go ahead despite Saudi airport attacks",
+    "If Netanyahu goes, does anything really change for Palestinians?",
+    "India protest live: Opposition holds ‘March for Democracy’ to Supreme Court",
+    "Countries warn against travel to Saudi Arabia following Houthi attacks"
   ],
   "sections": [
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by less than 4%?",
+          "odds": "+334",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
     {
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
+        {
+          "event": "North East United FC leading at halftime?",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the Utah Mammoth record 100+ points?",
           "odds": "+455",
@@ -29,8 +47,20 @@
           "moved": "none"
         },
         {
+          "event": "Progressive (PGR) Q3 combined ratio 89% to 92%?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the Democratic Party win the NH-02 House seat?",
           "odds": "-2122",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "San Luis de Quillota leading at halftime?",
+          "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -49,24 +79,6 @@
         {
           "event": "Will Georgia have more than 11.5 wins during the 2026 CFB season?",
           "odds": "+138",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Elon Musk post 360-379 tweets from October 6 to October 13, 2026?",
-          "odds": "+153",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Next Z.ai GLM (5.4+) released by October 31, 2026?",
-          "odds": "-257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will USD/JPY hit 190 (High) in 2026?",
-          "odds": "+426",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
