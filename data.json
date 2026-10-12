@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "12 de octubre de 2026 — 20:41 UTC",
+  "lastUpdated": "12 de octubre de 2026 — 20:43 UTC",
   "ticker": [
     "Israeli strike on tent in Gaza’s Khan Younis kills three",
     "Elon Musk spends $366m to bolster Republican Party in US midterm elections",
@@ -11,18 +11,63 @@
     "UK blames Iran for airbase plot, sanctions two Iranian nationals",
     "UK PM says RAF base incidents ‘likely coordinated’ by Iran",
     "Egypt’s press union chief rejects pressure over detained journalists",
+    "UK PM Andy Burnham met Man City chairman during time as Manchester mayor",
     "Stolen Renoir paintings found behind wall in France following arrests",
-    "Ethiopian forces enter strategic Tigray town of Adwa, witnesses say"
+    "Ethiopian forces enter strategic Tigray town of Adwa, witnesses say",
+    "Zohran Mamdani orders use-of-force review for New York City police",
+    "Atletico Madrid vs Manchester United: Champions League – Predictions, teams"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "US-Iran Hormuz Agreement by October 31?",
           "odds": "+675",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario iraní en desarrollo.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will the Utah Mammoth record 100+ points?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the lowest temperature in Seattle be 35°F or below on October 13?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jack Eichel record 30+ goals in the 2026-27 regular season?",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Next Z.ai GLM (5.4+) released by October 31, 2026?",
+          "odds": "-108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Georgia have more than 11.5 wins during the 2026 CFB season?",
+          "odds": "+138",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will USD/JPY hit 190 (High) in 2026?",
+          "odds": "+426",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
