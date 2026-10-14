@@ -1,18 +1,52 @@
 {
-  "lastUpdated": "14 de octubre de 2026 — 16:16 UTC",
+  "lastUpdated": "14 de octubre de 2026 — 17:43 UTC",
   "ticker": [
+    "Saudi tennis ‘slam’ with Alcaraz, Djokovic postponed amid Houthi attacks",
+    "Palestinian collective uses art to connect Gaza and the West Bank",
+    "Settlers attack Palestinian mosque near occupied East Jerusalem",
+    "Kenya’s health ministry confirms second Ebola case",
+    "Ukraine accuses Elon Musk’s SpaceX of throttling Starlink terminals",
+    "Suspected Israeli online operations cause alarm in Iran and Lebanon",
+    "AI in politics: Is Albania the EU’s testing ground?",
+    "Tehran municipality accused of ‘overstep’ after launching welfare projects",
+    "Fire erupts at Albania’s Education Ministry as protests enter third day",
+    "At least two security officials killed near Iran’s critical Chabahar port",
+    "US Social Security benefits to rise by 3.6 percent in 2027",
+    "UN official warns of looming food crisis as Hormuz fertiliser plan stalls",
     "Jerusalem Daily: UN demands Israel do more to stop settler violence",
     "Ronaldo’s among three Saudi Arabia games postponed due to Houthi attacks",
-    "Judge extends White House access for US media outlets amid Trump standoff",
-    "Pope Leo recovering well after cancer surgery, Vatican says",
-    "Renewed fighting risks ‘humanitarian catastrophe’ in Yemen, aid groups warn",
-    "Saudi national charged with planting a listening device at OpenAI offices",
-    "Law of the Sea comes to life in the hunt for sanctioned Russian oil",
-    "What is potash, and why is the US importing it from Belarus?",
-    "Colombia inaugurates embassy to Israel in Jerusalem",
-    "Two scenarios for the Yemen war",
-    "UK restaurateur claims losses after video calling for Gaza destruction",
-    "How AI apps are offering free substitutes for Big Tech software"
+    "US inflation rises before midterm elections, fuelling rate hike fears"
   ],
-  "sections": []
+  "sections": [
+    {
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "rows": [
+        {
+          "event": "Will South Korea ETF (EWY) hit (HIGH) $163 Week of October 12 2026?",
+          "odds": "-270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will Jack Eichel record 30+ goals in the 2026-27 regular season?",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Next Z.ai GLM (5.4+) released by October 31, 2026?",
+          "odds": "-108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    }
+  ]
 }
