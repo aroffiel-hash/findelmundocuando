@@ -1,23 +1,35 @@
 {
-  "lastUpdated": "15 de octubre de 2026 — 05:27 UTC",
+  "lastUpdated": "15 de octubre de 2026 — 10:41 UTC",
   "ticker": [
-    "Israel has detained more than 2,000 Palestinian children since 2023: report",
-    "Heavy rain causes mass pileup in Brazil tunnel",
-    "X suspends 13,000 accounts, alleging foreign influence ahead of US midterms",
-    "Argentina’s Milei backs Trump for US midterms, calls vote crucial for West",
-    "Albanian Ministry of Justice on fire as education protesters riot",
-    "OpenAI bugging suspect allegedly booked one-way trip to Saudi Arabia",
-    "North Korea tests two submarine-launched missiles, state media reports",
-    "Teenager dies as heavy rain floods Istanbul",
-    "Trump administration seeks to strip Ilhan Omar of US citizenship: WSJ",
-    "Trump plays Muslim Brotherhood card against Senate candidate El-Sayed",
-    "Kenya’s Ebola cases test preparedness beyond Nairobi",
-    "Tunisia: What has Kais Saied achieved economically in seven years?",
-    "White House spokesperson Katie Zacharia’s law career faces scrutiny",
-    "Trump suggests those who leak government information should ‘be shot’",
-    "Istanbul in chaos, shut down by heaviest rainfall since 1985"
+    "Russia says Ukraine resumes attacks on oil refineries",
+    "Long-delayed China-North Korea bridge officially opens",
+    "‘Each country goes its own way’: How Balkan politics shape ties with Israel",
+    "Could France trigger another Eurozone debt crisis?",
+    "The irony of OpenAI crying foul over spying",
+    "Iraq devalues dinar to ease cash crunch, leaving traders in limbo",
+    "‘Our works are next to each other’: Art bridges Gaza and West Bank",
+    "School roof collapses in northwestern Pakistan, killing at least 29 people",
+    "Man United’s Martinez takes to social media to defend his criticism of club",
+    "Messi’s Inter Miami beat New York City to reach third straight MLS playoff",
+    "Containers and debris captured floating around the Strait of Hormuz",
+    "Police arrest US teen in alleged Illinois Hindu temple mass shooting plot",
+    "Russian nuclear-powered submarine fires missiles during Pacific drills",
+    "Backlash in Kashmir over proposal for uniform Friday sermons across mosques",
+    "Clock ticking for leap second: Why timekeeping could change forever"
   ],
   "sections": [
+    {
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "rows": [
+        {
+          "event": "Will The Odyssey win Best Costume Design at the 99th Academy Awards?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
     {
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
@@ -43,6 +55,18 @@
         {
           "event": "Next Z.ai GLM (5.4+) released by October 31, 2026?",
           "odds": "-108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Aston Villa FC vs. Viking FK: Both Teams to Score",
+          "odds": "-132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Odisha FC win on 2026-10-17?",
+          "odds": "+177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
