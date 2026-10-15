@@ -1,18 +1,76 @@
 {
-  "lastUpdated": "15 de octubre de 2026 — 16:04 UTC",
+  "lastUpdated": "15 de octubre de 2026 — 19:36 UTC",
   "ticker": [
-    "Syrian court sentences two to death over 2025 coastal violence",
-    "French football body urges fans and students to keep politics out of stadiums",
-    "Delegates walk out as Israeli president addresses summit",
-    "Russian jet-powered drone hits supermarket in Ukraine’s Odesa",
-    "US teen held over Hindu temple attack plot: Is anti-Indian racism rising?",
-    "Trump says Fort Hood US shooter execution will not be livestreamed",
-    "‘Boiling point’: Why students are protesting against Albania’s Edi Rama",
-    "The Rebel Tours: Money or morals?",
-    "Al Jazeera probe exposes fake viewing numbers for Israeli counter-film",
-    "What is Starshield, and who limited Ukraine’s access to it?",
-    "Russia accuses Ukraine of contradicting US brokered deal",
-    "Ukrainians lash out at Trump as Zelenskyy warns of US betrayal"
+    "Dying in ICE custody: Inside one family’s story of heartbreak",
+    "Ethiopian forces expand control in Tigray as militia claims Eritrean losses",
+    "Ahead of US midterms, voters are frustrated with Trump, want change: Poll",
+    "Trump ramps up third-country US deportations despite global rights outcry",
+    "A mother’s touch helps premature babies grow strong in Gaza",
+    "Pope Leo resumes work in hospital while recovering from surgery",
+    "DR Congo protests Formula 1’s ‘indefensible’ decision to race in Rwanda",
+    "Dying in Detention",
+    "Houthis target Yemen’s presidential palace in Aden with missiles",
+    "Albania’s PM dismisses calls to resign as student protests spread",
+    "UK Green member behind anti-Zionism motion ‘receives death threats’",
+    "Israeli ad-tech firm helped place spyware on Al Jazeera devices",
+    "Why are eight US states suing OpenAI?",
+    "FIFA President Infantino apologises to council but critics remain unhappy",
+    "Jerusalem Daily: Ultra-Orthodox Jews storm Israeli army base"
   ],
-  "sections": []
+  "sections": [
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Religious Zionist Party–Zehut win 3.25-4% of the vote in the 2026 Knesset elections?",
+          "odds": "+817",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will \"Transformers One\" be the #2 global Netflix movie this week?",
+          "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jack Eichel record 30+ goals in the 2026-27 regular season?",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Miami be between 84-85°F on October 17?",
+          "odds": "+733",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Next Z.ai GLM (5.4+) released by October 31, 2026?",
+          "odds": "-108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Aston Villa FC vs. Viking FK: Both Teams to Score",
+          "odds": "-132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Odisha FC win on 2026-10-17?",
+          "odds": "+177",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    }
+  ]
 }
