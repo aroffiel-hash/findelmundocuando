@@ -1,18 +1,52 @@
 {
-  "lastUpdated": "15 de octubre de 2026 — 02:39 UTC",
+  "lastUpdated": "15 de octubre de 2026 — 05:27 UTC",
   "ticker": [
+    "Israel has detained more than 2,000 Palestinian children since 2023: report",
+    "Heavy rain causes mass pileup in Brazil tunnel",
+    "X suspends 13,000 accounts, alleging foreign influence ahead of US midterms",
+    "Argentina’s Milei backs Trump for US midterms, calls vote crucial for West",
+    "Albanian Ministry of Justice on fire as education protesters riot",
+    "OpenAI bugging suspect allegedly booked one-way trip to Saudi Arabia",
+    "North Korea tests two submarine-launched missiles, state media reports",
+    "Teenager dies as heavy rain floods Istanbul",
+    "Trump administration seeks to strip Ilhan Omar of US citizenship: WSJ",
+    "Trump plays Muslim Brotherhood card against Senate candidate El-Sayed",
+    "Kenya’s Ebola cases test preparedness beyond Nairobi",
+    "Tunisia: What has Kais Saied achieved economically in seven years?",
     "White House spokesperson Katie Zacharia’s law career faces scrutiny",
     "Trump suggests those who leak government information should ‘be shot’",
-    "Istanbul in chaos, shut down by heaviest rainfall since 1985",
-    "Ship catches fire in Romania’s waters amid rising attacks in the Black Sea",
-    "Costa Rica opens mega-prison as Bukele model embraced across Latin America",
-    "Mexican court closes case against official over 2023 detention centre fire",
-    "Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz",
-    "US destroys dhow suspected of Iranian command and control",
-    "Denmark pushes back as Trump touts Greenland oil and mineral deals",
-    "ICE rejects recommendation for body cameras that automatically record",
-    "Colombia opposition groups launch protest against de la Espriella’s cuts",
-    "West Indies beat India to level T20 series as Hope continues record run"
+    "Istanbul in chaos, shut down by heaviest rainfall since 1985"
   ],
-  "sections": []
+  "sections": [
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Religious Zionist Party–Zehut win 3.25-4% of the vote in the 2026 Knesset elections?",
+          "odds": "+817",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will Jack Eichel record 30+ goals in the 2026-27 regular season?",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Next Z.ai GLM (5.4+) released by October 31, 2026?",
+          "odds": "-108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    }
+  ]
 }
