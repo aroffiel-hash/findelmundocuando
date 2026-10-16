@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "16 de octubre de 2026 — 02:35 UTC",
+  "lastUpdated": "16 de octubre de 2026 — 05:23 UTC",
   "ticker": [
+    "Bystander guns down suspected primary school shooter in Oregon",
+    "Infantino apologises amid calls for him to quit as FIFA president",
+    "China tells Israel to stop ‘forced establishment’ of West Bank settlements",
+    "Residents douse workers with flaming gasoline during eviction in Peru",
     "Argentine students protest on campus over Milei’s austerity",
     "Peshawar mourns children killed in school roof collapse",
     "Progressives, AIPAC and the future of the Democratic Party",
@@ -8,11 +12,71 @@
     "Clashes erupt at protest over university funding law in Argentina",
     "Can Zimbabwe’s ZiG win trust and replace the US dollar?",
     "Iraq parliament approves al-Zaidi’s cabinet amid growing economic concerns",
-    "Iran war live: Saudi blasts Houthi ‘war crimes’; US warns on Saudi airports",
+    "Iran war live: Trump says ground troops unlikely in Iran; Saudi downs drone",
     "Two Syrian pipelines damaged amid spate of attacks on energy infrastructure",
     "Three children, one teacher killed in Oregon school shooting",
-    "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
-    "Man United’s Martinez apologises for outburst after talks with Carrick"
+    "Israel halts commercial goods from entering Gaza; Hamas denies tax claims"
   ],
-  "sections": []
+  "sections": [
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Religious Zionist Party–Zehut win 3.25-4% of the vote in the 2026 Knesset elections?",
+          "odds": "+817",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Probable FDV above $300M one day after launch?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Jack Eichel record 30+ goals in the 2026-27 regular season?",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Vanderbilt have more than 5.5 wins during the 2026 CFB season?",
+          "odds": "+354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Next Z.ai GLM (5.4+) released by October 31, 2026?",
+          "odds": "-108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Aston Villa FC vs. Viking FK: Both Teams to Score",
+          "odds": "-132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Odisha FC win on 2026-10-17?",
+          "odds": "+177",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "SpaceXAI announces a full training pause in 2026?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    }
+  ]
 }
