@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "19 de octubre de 2026 — 02:41 UTC",
+  "lastUpdated": "19 de octubre de 2026 — 05:34 UTC",
   "ticker": [
+    "Pope greeted by crowds in first major appearance since lung cancer surgery",
+    "Lula and Bolsonaro spar in Brazil’s fiery first presidential run-off debate",
+    "‘It broke my heart’: Limoges residents reel after town hall fire",
+    "AI firm Anthropic says it will commit 5% of shares to ‘public benefit’ fund",
+    "Trump defends Russian sanctions relief, lashes out at Zelenskyy",
+    "Fast-moving grass fire caused Canada’s military base tragedy",
+    "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
     "Kenya confirms eighth Ebola case amid widening regional outbreak",
     "Kinship and surveillance: The return of Somali piracy",
     "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares",
@@ -8,11 +15,56 @@
     "Protesters disrupt Ben-Gvir event forcing him off stage",
     "Venezuela opposition renews support for Maria Corina Machado as leader",
     "Alberta independence referendum: Will separatists survive a loss?",
-    "Macron condemns violence after riots lead to looting and mass arrests",
-    "Fire engulfs Albania’s Supreme Court as protests enter fifth day",
-    "‘Anger and shame’: Macron denounces France’s nationwide rioting, looting",
-    "What’s behind Europe’s youth protests?",
-    "India’s crackdown on cockroaches, critics and cameras"
+    "Macron condemns violence after riots lead to looting and mass arrests"
   ],
-  "sections": []
+  "sections": [
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will total votes cast in the 2026 midterm election for Governor of New York be between 5,000,000 and 5,500,000?",
+          "odds": "+1718",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will Connor Bedard record 30+ goals in the 2026-27 regular season?",
+          "odds": "+112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Coca-Cola (KO) Q3 organic revenue (non-GAAP) growth 6.5% to 8%?",
+          "odds": "+233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Kawasaki Frontale vs. Fagiano Okayama: Both Teams to Score",
+          "odds": "-900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Mexico City be 23°C on October 20?",
+          "odds": "+132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "SpaceXAI announces a full training pause in 2026?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    }
+  ]
 }
