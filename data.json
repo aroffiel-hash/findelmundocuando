@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "19 de octubre de 2026 — 18:05 UTC",
+  "lastUpdated": "19 de octubre de 2026 — 18:08 UTC",
   "ticker": [
     "Ronaldo banned for 30 days, fined $285 by Portugal over spat with Jesus",
     "Chuck Schumer urges FCC to block AI robocalls before elections",
@@ -12,7 +12,53 @@
     "Search under way for four soldiers missing after gang attack in Haiti",
     "Iran War backlash threatens Republican control of Congress",
     "Gaza faces worsening hunger as WFP announces food aid cuts",
-    "Trump endorses Netanyhu ahead of elections"
+    "Trump endorses Netanyhu ahead of elections",
+    "Kenyan court convicts starvation cult leader of murdering 191 people",
+    "How has the cost of living changed in France, Italy, Spain and Portugal?",
+    "Decision on Senegal’s AFCON final appeal to be made by end of November"
   ],
-  "sections": []
+  "sections": [
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will total votes cast in the 2026 midterm election for Governor of New York be between 5,000,000 and 5,500,000?",
+          "odds": "+1718",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will Connor Bedard record 30+ goals in the 2026-27 regular season?",
+          "odds": "+112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Kawasaki Frontale vs. Fagiano Okayama: Both Teams to Score",
+          "odds": "-900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "SpaceXAI announces a full training pause in 2026?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Elon Musk post 40-64 tweets from October 19 to October 21, 2026?",
+          "odds": "+177",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    }
+  ]
 }
