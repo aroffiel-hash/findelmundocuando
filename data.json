@@ -1,23 +1,35 @@
 {
-  "lastUpdated": "19 de octubre de 2026 — 22:44 UTC",
+  "lastUpdated": "20 de octubre de 2026 — 01:26 UTC",
   "ticker": [
+    "‘Release Epstein files’, protester interrupts JD Vance’s speech",
+    "Rashida Tlaib demands arrest of Israeli soldier linked to Hind Rajab death",
+    "Hegseth meets Netanyahu in unannounced Israel visit",
+    "Exiled critic of Rwandan president found beheaded in Uganda",
+    "Iran war live: Trump says US hits Iran hard ‘economically and militarily’",
+    "Mahmoud Khalil takes deportation fight to the US Supreme Court",
+    "Colombia illegal gold mine collapse kills 14 people",
+    "Tehran rejects any role in plot to kill leaders of German Jewish groups",
+    "Children among six killed in Russian drone strike on Ukraine park",
+    "Trump: ‘Paris is going to be a Muslim city very soon’",
     "Egyptian parliament delays vote on military support for Saudi Arabia",
     "160 people reported killed in escalating drone attacks across Sudan",
     "Could your halal pension be funding Israel’s military?",
     "Israeli police say they arrested 10 in connection with settler attacks",
-    "Trump approval hits record-low 31 percent, polls show Republican struggles",
-    "Injured Ukrainian soldier rescued in first-ever drone evacuation mission",
-    "Kenya convicts cult leader over the murder of 190 children",
-    "Trump signs order launching women’s health division at NIH, White House",
-    "Finland seeking one million land mines as it eyes Russian threat",
-    "One killed in US shooting near mosque in Columbus, Ohio",
-    "Florida issues arrest warrant for Cuban leader Raul Castro",
-    "Residents hoisted from rooftops amid Spain’s deadly flooding",
-    "Indian court extends detention of ‘Cockroach’ leaders",
-    "Protesters block Louvre in support of French student movement",
-    "Ex-OpenAI employee accused of planting device has Saudi backing: Prosecutor"
+    "Trump approval hits record-low 31 percent, polls show Republican struggles"
   ],
   "sections": [
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will the 10-year Japanese government bond yield on the last reported day of 2026 be between 2.8% and 3.0%?",
+          "odds": "+392",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
     {
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
@@ -49,6 +61,12 @@
         {
           "event": "Kawasaki Frontale vs. Fagiano Okayama: Both Teams to Score",
           "odds": "-900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will it rain in Miami, FL on October 20?",
+          "odds": "+108",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
