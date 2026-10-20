@@ -1,18 +1,88 @@
 {
-  "lastUpdated": "20 de octubre de 2026 — 16:07 UTC",
+  "lastUpdated": "20 de octubre de 2026 — 17:42 UTC",
   "ticker": [
-    "‘Not getting involved’: US Vice President refuses to endorse Netanyahu",
-    "Eastern Libya parliament approves 2019 maritime deal with Turkiye",
-    "Yemen’s Taiz faces deadly siege, as Shabwah death toll rises",
-    "Alberta rejects separation referendum: What’s next for Canadian province?",
-    "Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?",
-    "Satirical AI video of Paris protests mirrors real-life tourist experiences",
-    "Celebrating Fela Kuti’s legacy and the global rise of Afrobeats",
-    "Three months of PM Andy Burnham: Can he sustain the ‘hope vibe’?",
-    "Indonesians protest over land-clearing fires",
-    "US envoy Barrack defends decision to join Israel in war on Iran",
-    "More than 250,000 displaced in Yemen since fighting escalated: UNHCR",
-    "Israeli attacks kill at least four Palestinians in Gaza"
+    "Kenya confirms ninth Ebola case amid concerns about regional spread",
+    "As Macron visits Gulf, can France forge its own energy-for-security future?",
+    "How does language affect how we think?",
+    "JERUSALEM DAILY: Half a million Palestinians lose food aid",
+    "Ben-Gvir mocks Gaza destruction in AI-generated video",
+    "Turkiye moves to ratify Mecca defence pact with Pakistan, Saudi Arabia",
+    "Macron lines up more Gulf diesel as France battles soaring fuel prices",
+    "Is Cyprus becoming Israel’s backyard?",
+    "Qatar says only negotiations can resolve regional tensions",
+    "Ferry catches fire near Indonesian port, all passengers rescued",
+    "Trump official claims record-breaking 300,000 visas were revoked",
+    "Lavrov backs Tehran, but does Russia also gain from the US-Iran crisis?",
+    "PSG vs Barcelona LIVE: Champions League",
+    "‘You have to sacrifice’: Trump voters stay loyal as US midterms approach",
+    "‘Not getting involved’: US Vice President refuses to endorse Netanyahu"
   ],
-  "sections": []
+  "sections": [
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will total votes cast in the 2026 midterm election for Governor of New York be between 5,000,000 and 5,500,000?",
+          "odds": "+1718",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will any presidential candidate win outright in the first round of the Bulgaria election?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "United Airlines (UAL) Q3 consolidated passenger load factor 84% to 85%?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Connor Bedard record 30+ goals in the 2026-27 regular season?",
+          "odds": "+112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Bradford City AFC win on 2026-10-27?",
+          "odds": "-138",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will CA Gimnasia y Esgrima de Mendoza win on 2026-10-23?",
+          "odds": "+132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Next Astra Model (6.1+) released by October 31, 2026?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Kawasaki Frontale vs. Fagiano Okayama: Both Teams to Score",
+          "odds": "-900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "SpaceXAI announces a full training pause in 2026?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    }
+  ]
 }
