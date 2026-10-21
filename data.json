@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "21 de octubre de 2026 — 02:47 UTC",
+  "lastUpdated": "21 de octubre de 2026 — 05:37 UTC",
   "ticker": [
+    "Lula, Bolsonaro seek to disqualify each other ahead of Brazil runoff",
+    "Italy approves sweeping security measures in response to protests",
+    "Elon Musk says SpaceX and Tesla exploring largest merger in history",
+    "Faecal waste pollutes drinking water in Mexico’s Yucatan, Greenpeace says",
     "Portugal cost-of-living protesters pour back into camps cleared by police",
     "Drone strike on Abyei market near Sudan-South Sudan border kills 150",
     "UN experts call on India to stop using ‘excessive force’ against protesters",
@@ -11,8 +15,68 @@
     "King Charles welcomes Omani sultan, hails peace efforts in UK state visit",
     "Iran war live: US warns peace deal with Tehran is extremely difficult",
     "Moment plane crashes on a busy highway in the US",
-    "NATO to send additional patrol planes to Black Sea after drone attacks",
-    "The Gambia to pay reparations to ex-dictator’s victims from sale of US mansion"
+    "NATO to send additional patrol planes to Black Sea after drone attacks"
   ],
-  "sections": []
+  "sections": [
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will total votes cast in the 2026 midterm election for Governor of New York be between 5,000,000 and 5,500,000?",
+          "odds": "+1718",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will Connor Bedard record 30+ goals in the 2026-27 regular season?",
+          "odds": "+112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will CA Gimnasia y Esgrima de Mendoza win on 2026-10-23?",
+          "odds": "+132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Shenzhen be 31°C on October 20?",
+          "odds": "-1415",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Kawasaki Frontale vs. Fagiano Okayama: Both Teams to Score",
+          "odds": "-900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Hyperliquid hit $100 by December 31, 2026?",
+          "odds": "+149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will an AI lab announce another Millennium Prize solution by December 31, 2027?",
+          "odds": "-170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "SpaceXAI announces a full training pause in 2026?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    }
+  ]
 }
