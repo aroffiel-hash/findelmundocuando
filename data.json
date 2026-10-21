@@ -1,23 +1,35 @@
 {
-  "lastUpdated": "21 de octubre de 2026 — 10:58 UTC",
+  "lastUpdated": "21 de octubre de 2026 — 15:51 UTC",
   "ticker": [
-    "Why are French protesters chanting ‘Bismillah, c’est les ténèbres’?",
-    "UK approves development of Jackdaw gasfield in North Sea",
-    "WW1 to Houthis: British jets for Saudi Arabia build on long military bond",
-    "Paramilitary hitman linked to British right-wing group Turning Point UK",
-    "UK king welcomes Oman’s sultan in speech quoting Prophet Muhammad",
-    "Attack on Australian MP Haines: How threats against legislators have soared",
-    "Blast heard in Yemen’s Aden as Houthis claim attack on military camp",
-    "Australian MP loses both legs in vehicle attack as suspect appears in court",
-    "LeBron James’s 76ers beat NY Knicks on NBA’s opening night at MSG",
-    "Trump snaps at reporter, ordering him to be quiet",
-    "Drone attack in disputed Sudan-South Sudan border region kills at least 153",
-    "Bayern Munich vs Arsenal: Champions League – Predictions, Olise, lineups",
-    "Israeli soldiers mock Lebanese home they rigged with explosives",
-    "Europe is in trouble, and it is blaming Muslims",
-    "‘It’s hard for us’: Paris small businesses bear brunt of protest violence"
+    "Catalonia’s new far right: How anti-Muslim sentiment is reshaping politics",
+    "What are Italy’s new measures against violent protests?",
+    "Trump says AI data centres should pay ‘dividends’ in pre-midterm shift",
+    "Russia to send first diesel tanker to the US amid Trump deal",
+    "Musk pledges $10bn in SpaceX shares for US children: Who really gains?",
+    "US envoy Witkoff calls Russia’s Putin a ‘humanitarian’",
+    "Russia releases American Stephen Hubbard after four years in prison",
+    "US congressional candidate Brad Lander freed after West Bank detention",
+    "How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties",
+    "How war in Lebanon has cost young people with autism and ADHD",
+    "Are the UK, France being pulled into the Saudi-Houthi conflict?",
+    "From one house to villages: Israeli settlers have Palestinians surrounded",
+    "Pakistani authorities arrest man accused in $126m US postage fraud",
+    "France’s Macron says protesters won’t be allowed to ‘cause chaos’",
+    "Protests as UK approves new gas drilling in North Sea"
   ],
   "sections": [
+    {
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "rows": [
+        {
+          "event": "Warriors vs. Lakers: O/U 233.5",
+          "odds": "-108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
     {
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
@@ -35,6 +47,12 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
+          "event": "Deportivo Toluca FC leading at halftime?",
+          "odds": "-127",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Connor Bedard record 30+ goals in the 2026-27 regular season?",
           "odds": "+112",
           "params": "Fuente: Polymarket",
@@ -47,38 +65,26 @@
           "moved": "none"
         },
         {
+          "event": "Will Silver (XAGUSD) hit (HIGH) $59 Week of October 19 2026?",
+          "odds": "-488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Kawasaki Frontale vs. Fagiano Okayama: Both Teams to Score",
           "odds": "-900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Shōnan Bellmāre win on 2026-10-21?",
-          "odds": "+194",
+          "event": "SpaceXAI announces a full training pause in 2026?",
+          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will an AI lab announce another Millennium Prize solution by December 31, 2027?",
-          "odds": "-170",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Cavaliers vs. 76ers",
-          "odds": "+117",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Hyperliquid hit $100 by December 31, 2026?",
-          "odds": "+149",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will EU emergency diesel stocks be at least 34M tonnes at end of October 2026?",
-          "odds": "-334",
+          "event": "Will the highest temperature in Karachi be 36°C on October 23?",
+          "odds": "+270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
