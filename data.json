@@ -1,46 +1,85 @@
 {
-  "lastUpdated": "21 de octubre de 2026 — 16:23 UTC",
+  "lastUpdated": "21 de octubre de 2026 — 19:51 UTC",
   "ticker": [
-    "What’s behind protests in Portugal?",
-    "Canada wants to expand its LNG business. Critics raise red flags",
-    "Catalonia’s new far right: How anti-Muslim sentiment is reshaping politics",
-    "What are Italy’s new measures against violent protests?",
-    "Trump says AI data centres should pay ‘dividends’ in pre-midterm shift",
-    "Russia to send first diesel tanker to the US amid Trump deal",
-    "Musk pledges $10bn in SpaceX shares for US children: Who really gains?",
-    "US envoy Witkoff calls Russia’s Putin a ‘humanitarian’",
-    "Russia releases American Stephen Hubbard after four years in prison",
-    "US congressional candidate Brad Lander freed after West Bank detention",
-    "How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties",
-    "How war in Lebanon has cost young people with autism and ADHD"
+    "What happened to Australian politician Helen Haines?",
+    "Conservative Party suspends ex-candidate filmed in Al Jazeera investigation",
+    "India’s ‘Cockroach’ leaders free after a week in jail",
+    "Tunisia jails opposition politician for four years over social media posts",
+    "Russia willing to resume peace talks with Ukraine, US after Witkoff visit",
+    "Steelers and Saints set for historic NFL clash in riot-hit Paris",
+    "Iran determined to keep uranium amid increased war odds, flurry of meetings",
+    "Farmers blocked from olive harvest in occ. West Bank, volunteers detained",
+    "Thousands march for school funding in Greece",
+    "Qatar, Turkiye, Pakistan and Indonesia sign ‘Badr’ defence pact",
+    "Actors, writers condemn UK anti-terror law targeting Sally Rooney",
+    "Yemen holds mass funeral for 75 recruits killed in Houthi strike",
+    "Jerusalem Daily: Israeli minister calls for settling the entire West Bank",
+    "Why social media has become an election issue in Brazil’s presidential race",
+    "What’s behind protests in Portugal?"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Spread: Al Nassr Saudi Club (-2.5)",
-          "odds": "+185",
-          "params": "Moderada probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "event": "Will total votes cast in the 2026 midterm election for Governor of New York be between 5,000,000 and 5,500,000?",
+          "odds": "+1718",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🇷🇺",
-      "label": "RUSIA / UCRANIA / OTAN",
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Omar Aziz win the 2026 Amazonas gubernatorial second round by 10%-15%?",
-          "odds": "+284",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
+          "event": "Deportivo Toluca FC leading at halftime?",
+          "odds": "-127",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will total votes cast in the 2026 midterm election for Senator from Texas be between 10,800,000 and 11,200,000?",
-          "odds": "+1823",
-          "params": "Baja probabilidad en mercado activo. Probabilidad según mercado activo. Escenario OTAN en desarrollo.",
+          "event": "Will Connor Bedard record 30+ goals in the 2026-27 regular season?",
+          "odds": "+112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will CA Gimnasia y Esgrima de Mendoza win on 2026-10-23?",
+          "odds": "+132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Kawasaki Frontale vs. Fagiano Okayama: Both Teams to Score",
+          "odds": "-900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will DeepSeek IPO by December 31, 2027?",
+          "odds": "-277",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "SpaceXAI announces a full training pause in 2026?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Karachi be 36°C on October 23?",
+          "odds": "+270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Levante UD vs. Athletic Club: Both Teams to Score in First Half",
+          "odds": "+284",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
