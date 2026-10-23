@@ -1,23 +1,35 @@
 {
-  "lastUpdated": "23 de octubre de 2026 — 10:50 UTC",
+  "lastUpdated": "23 de octubre de 2026 — 15:35 UTC",
   "ticker": [
-    "South Korea invites North for military talks over border",
-    "New electronics reach Iran, but prices soar as gov’t fees, US sanctions hit",
-    "Serbia’s snap election: What’s at stake and can students unseat Vucic?",
-    "NBA’s Irving praises Al-Shaair’s ‘selfless act’ after Hind Rajab fine paid",
-    "What role does the military play in Israeli schools?",
-    "Pulaku: The two faces of Nigeria’s vigilantes",
-    "Hamilton calls for Palestine and DR Congo freedom as Rwanda takes F1 spotlight",
-    "Israeli military kills two in gun battle in occupied West Bank",
-    "Ultra-Orthodox conscription debate ignites Israel’s election battleground",
-    "Macron to meet student groups: Where are France’s protests heading?",
-    "LeBron shrugs off Trump blast in home debut win for Philadelphia 76ers",
-    "Israeli forces accused of killing disabled man in Syria raid",
-    "Harry Kane hopes Ballon d’Or produces ‘special night’ in hometown",
-    "Why is Gen Z revolting?",
-    "Are global oil reserves sufficient to withstand renewed US-Iran war?"
+    "Carrick accepts blame for Man United slump, but ‘confident’ of a turnaround",
+    "What to know as Brazil prepares for tense presidential run-off",
+    "Conte dismisses reports of Man United takeover with Carrick’s job uncertain",
+    "Mississippi releases video of 1-year-old’s fatal police shooting",
+    "Finland nearing opening of world’s first permanent nuclear waste repository",
+    "Dembele to miss Ballon d’Or event as PSG game moved amid protests in France",
+    "Kenya’s marathon champion Peres Jepchirchir provisionally banned by AIU",
+    "Melania Trump ‘secured ceasefire’ in Ukrainian city of Oleshky: White House",
+    "At least seven killed after gunmen open fire at church in Jordan",
+    "Hundreds to defy Palestine Action ban in protest at US embassy in London",
+    "NFL would cancel Paris game if unsafe due to riots, Steelers’ Rodgers says",
+    "Trump ordered to testify in $10bn BBC lawsuit discovery: What happens now?",
+    "Russia drops cluster bombs on Ukraine as Kyiv consolidates front line",
+    "El Clasico: All to know about the rivalry between Barcelona and Real Madrid",
+    "Dortmund to reward football supporters who don’t use phone during matches"
   ],
   "sections": [
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will PSOE win the most seats in Tarragona in the 2026 Spanish general election?",
+          "odds": "-1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
     {
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
@@ -35,6 +47,12 @@
           "moved": "none"
         },
         {
+          "event": "Northampton Town FC vs. Colchester United FC: Both Teams to Score",
+          "odds": "+104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "FCI Levadia Tallinn vs. Harju JK Laagri: Draw at halftime?",
           "odds": "+212",
           "params": "Fuente: Polymarket",
@@ -47,26 +65,20 @@
           "moved": "none"
         },
         {
-          "event": "Will Manchester City be relegated from the 2026-27 Premier League?",
-          "odds": "+107",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Kawasaki Frontale vs. Fagiano Okayama: Both Teams to Score",
           "odds": "-900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "SpaceXAI announces a full training pause in 2026?",
-          "odds": "+1899",
+          "event": "Will there be 0 US aircraft carriers in CENTCOM on November 30, 2026?",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Stjarnan Gardabae win on 2026-10-24?",
-          "odds": "-117",
+          "event": "SpaceXAI announces a full training pause in 2026?",
+          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
