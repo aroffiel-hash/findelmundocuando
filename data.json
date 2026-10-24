@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "24 de octubre de 2026 — 18:30 UTC",
+  "lastUpdated": "24 de octubre de 2026 — 21:22 UTC",
   "ticker": [
+    "Severe hunger stalks people in Gaza as bakeries close down",
+    "Violent clashes as Albanian government cracks down on protests",
+    "Could Israel’s military crackdown influence Tuesday’s election?",
+    "Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0",
+    "Thousands of Israelis rally against Netanyahu gov’t days before election",
+    "Thousands join Paris protests as authorities clamp down on disorder",
+    "Thousands gather at new Albanian antigovernment rally",
     "Kim Jong Un crosses new bridge linking North Korea and China",
     "Trump says he may move White House press corps to new location",
     "About 25,000 rally in Madrid in support of Spain’s state pension scheme",
@@ -8,16 +15,33 @@
     "Barcelona vs Real Madrid: La Liga – El Clasico preview, predictions, teams",
     "More than 2,000 forced from homes in Hebron amid Israel’s West Bank raids",
     "Brazil’s Lula and Bolsonaro about even ahead of election run-off: Poll",
-    "Hundreds of soldiers deploy as protesters rally in Italy’s Milan",
-    "Why Israeli tourists and investors are unsettling Cypriots",
-    "Full lockdown of occupied West Bank begins",
-    "Ukraine says Starlink restored as attacks continue in Russia and Ukraine",
-    "Ballon d’Or 2026: Can Kylian Mbappe’s Real Madrid and France record win it?",
-    "Man City beaten at Aston Villa as perfect Premier League start ends",
-    "Do abstaining voters hold the key to Brazil’s 2026 presidential election?",
-    "Rybakina readies for title defence at Ningbo Open in final with Fernandez"
+    "Hundreds of Italian soldiers deployed as thousands protest in Milan"
   ],
   "sections": [
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "S&P 500 (SPX) Up or Down on October 26?",
+          "odds": "+104",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will the Democrats win the Florida Senate race in 2026?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
     {
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
@@ -25,12 +49,6 @@
         {
           "event": "Will Connor Bedard record 30+ goals in the 2026-27 regular season?",
           "odds": "+112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Ōita Trinita vs. Ventforet Kōfu: Both Teams to Score",
-          "odds": "+117",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
