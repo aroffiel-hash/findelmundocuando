@@ -1,6 +1,10 @@
 {
-  "lastUpdated": "24 de octubre de 2026 — 23:55 UTC",
+  "lastUpdated": "25 de octubre de 2026 — 02:38 UTC",
   "ticker": [
+    "Mass rally against Netanyahu ahead of pivotal Israeli election",
+    "Obama slams Trump’s ‘cruelty and corruption’ at Ohio rally for Democrats",
+    "Violence breaks out across Europe after another day of protests",
+    "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
     "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
     "Gunmen kill at least 10 people in eastern Nigeria, police say",
     "How have Democrats’ policies shifted since the last major US election?",
@@ -8,66 +12,29 @@
     "Brazil’s candidates hold final rallies before knife-edge run off",
     "Iran blames US for deal failure, urges new try amid fear of new attacks",
     "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
-    "Train slams into crane that collapsed onto railway line in Brazil",
-    "Severe hunger stalks people in Gaza as bakeries close down",
-    "Violent clashes as Albanian government cracks down on protests",
-    "Could Israel’s military crackdown influence Tuesday’s election?",
-    "Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0",
-    "Thousands of Israelis rally against Netanyahu gov’t days before election",
-    "Thousands join Paris protests as authorities clamp down on disorder",
-    "Thousands gather at new Albanian antigovernment rally"
+    "Train slams into crane that collapsed onto railway line in Brazil"
   ],
   "sections": [
     {
-      "flag": "🌐",
-      "label": "ESCENARIOS GLOBALES",
+      "flag": "☢️",
+      "label": "IRÁN Y ORIENTE MEDIO",
       "rows": [
         {
-          "event": "Will Connor Bedard record 30+ goals in the 2026-27 regular season?",
-          "odds": "+112",
-          "params": "Fuente: Polymarket",
+          "event": "Will Likud win 20-24 seats in the 2026 Israeli legislative election?",
+          "odds": "+122",
+          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
           "moved": "none"
-        },
+        }
+      ]
+    },
+    {
+      "flag": "🌍",
+      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "rows": [
         {
-          "event": "Will Marved play for Cloud9 in 2027?",
-          "odds": "+100",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Metropolitanos FC win on 2026-10-25?",
-          "odds": "+257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will CD Marquense win on 2026-10-25?",
-          "odds": "+455",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Oxford United FC vs. Stockport County FC end in a draw?",
-          "odds": "+316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Kawasaki Frontale vs. Fagiano Okayama: Both Teams to Score",
-          "odds": "-900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Houston be between 82-83°F on October 26?",
-          "odds": "-163",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will \"Street Fighter\" 2nd Weekend Box Office be less than $8M?",
-          "odds": "+952",
-          "params": "Fuente: Polymarket",
+          "event": "Will Roman Zarzycký be the next Mayor of Plzeň?",
+          "odds": "-2464",
+          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
           "moved": "none"
         }
       ]
