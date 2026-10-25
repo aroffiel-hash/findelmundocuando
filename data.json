@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "25 de octubre de 2026 — 02:38 UTC",
+  "lastUpdated": "25 de octubre de 2026 — 02:44 UTC",
   "ticker": [
     "Mass rally against Netanyahu ahead of pivotal Israeli election",
     "Obama slams Trump’s ‘cruelty and corruption’ at Ohio rally for Democrats",
@@ -12,29 +12,74 @@
     "Brazil’s candidates hold final rallies before knife-edge run off",
     "Iran blames US for deal failure, urges new try amid fear of new attacks",
     "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
-    "Train slams into crane that collapsed onto railway line in Brazil"
+    "Train slams into crane that collapsed onto railway line in Brazil",
+    "Severe hunger stalks people in Gaza as bakeries close down",
+    "Violent clashes as Albanian government cracks down on protests",
+    "Could Israel’s military crackdown influence Tuesday’s election?"
   ],
   "sections": [
     {
-      "flag": "☢️",
-      "label": "IRÁN Y ORIENTE MEDIO",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Will Likud win 20-24 seats in the 2026 Israeli legislative election?",
           "odds": "+122",
-          "params": "Moderada probabilidad en mercado activo. Probabilidad según mercado activo. Relacionado con conflicto en Medio Oriente.",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
     },
     {
-      "flag": "🌍",
-      "label": "ESCENARIOS GEOPOLÍTICOS",
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
       "rows": [
+        {
+          "event": "Will Connor Bedard record 30+ goals in the 2026-27 regular season?",
+          "odds": "+112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Marved play for Cloud9 in 2027?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Who will finish higher: Verstappen or Hadjar?",
+          "odds": "-566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will CD Marquense win on 2026-10-25?",
+          "odds": "+455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Oxford United FC vs. Stockport County FC end in a draw?",
+          "odds": "+316",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Kawasaki Frontale vs. Fagiano Okayama: Both Teams to Score",
+          "odds": "-900",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Roman Zarzycký be the next Mayor of Plzeň?",
           "odds": "-2464",
-          "params": "Alta probabilidad según mercado de predicción activo. Escenario geopolítico en curso.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "SpaceXAI announces a full training pause in 2026?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
