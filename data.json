@@ -1,28 +1,79 @@
 {
-  "lastUpdated": "26 de octubre de 2026 — 02:36 UTC",
+  "lastUpdated": "26 de octubre de 2026 — 07:17 UTC",
   "ticker": [
-    "Two storms slam northern Europe, cut power to 150,000 homes",
-    "Netanyahu rival Eisenkot holds final rally before Israeli election",
-    "Serbia celebrates historic election win for student-backed movement",
-    "Lula holds off far right with victory in Brazil presidential election",
-    "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
-    "Iran war live: Trump rules out strikes ‘today’; missile downed near Riyadh",
-    "Thousands protest in Prague against public media funding reforms",
-    "Venezuela’s opposition leader Machado returns after months in exile",
-    "Bulgaria election heads to a run-off amid low voter turnout",
-    "Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power",
-    "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
-    "Marine Le Pen launches French presidential campaign"
+    "Israel’s election: The main issues in the words of the leading candidates",
+    "Jordan arrests three suspects in deadly church attack",
+    "Dakar Rally 2027 moved out of Saudi Arabia amid conflict in Middle East",
+    "The French government is hiding behind a ‘riots’ narrative",
+    "China’s political elite gather for talks on Communist Party discipline",
+    "Aleksandar Vucic, the Serbian leader brought down by students",
+    "The Gambia’s first blind magistrate tests a system built for the sighted",
+    "Israel’s election: Five key things to know",
+    "Social video captures moment Brazil’s election turned",
+    "Bolsonaro calls for Brazil election result to be annulled",
+    "US appeals court sceptical of Trump’s lawsuit over California voter rolls",
+    "Attackers kill nurse, injure health worker responding to DRC Ebola case",
+    "US military says it helped Gulf states export 1.5 billion barrels of oil",
+    "Trump dials up Islamophobia against Abdul El-Sayed at Michigan Senate rally",
+    "World reacts to Lula’s victory in Brazil’s presidential election"
   ],
   "sections": [
     {
-      "flag": "🇨🇳",
-      "label": "CHINA / PACÍFICO / COREA",
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
           "event": "Will there be exactly 3 North Korea tests in October 2026?",
           "odds": "-284",
-          "params": "Alta probabilidad en mercado activo. Probabilidad según mercado activo. Escenario peninsular coreano.",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "🌐",
+      "label": "ESCENARIOS GLOBALES",
+      "rows": [
+        {
+          "event": "Will Connor Bedard record 30+ goals in the 2026-27 regular season?",
+          "odds": "+112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Marved play for Cloud9 in 2027?",
+          "odds": "+100",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will there be no next German Chancellor before 2028?",
+          "odds": "-170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "M15 Selva Gardena: Alex Kobelt vs Kim Johannes Niethammer",
+          "odds": "-212",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Ornn A100 Index be between $0.75 and $1.00 on November 30, 2026?",
+          "odds": "+212",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Mogi das Cruzes vs. Unifacisa",
+          "odds": "-222",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "SpaceXAI announces a full training pause in 2026?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
           "moved": "none"
         }
       ]
