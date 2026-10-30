@@ -1,23 +1,35 @@
 {
-  "lastUpdated": "30 de octubre de 2026 — 02:18 UTC",
+  "lastUpdated": "30 de octubre de 2026 — 09:24 UTC",
   "ticker": [
-    "Trump administration renews bid to block Alaska election results",
-    "Ethiopia border clashes leave families hungry and homeless in Kenya",
-    "EU force helicopter crash kills four in Bosnia",
-    "Trump cancels Iowa, Kansas midterm events, opts for ‘tele-rallies’",
-    "Armenian parliament turns into a boxing ring, third time in a month",
-    "Binance says $3bn in crypto funds frozen amid ‘potential security issue’",
-    "Houthi forces claim six attacks on Saudi airports, oil facilities",
-    "What does bourbon have to do with the US midterms?",
-    "Iran war live: IRGC says four tankers struck mines in Strait of Hormuz",
-    "France braces for ‘very high risk’ of disorder at Halloween protests",
-    "Patrick Stewart, ‘Star Trek’ Captain Picard and ‘X-Men’ actor, dies at 86",
-    "Trump administration attempts to take down leak of ICE personnel data",
-    "Palestinians face growing bans from Al-Aqsa as Israel tightens control",
-    "Israel bans travel for Brad Lander after detention in occupied West Bank",
-    "Real Madrid and FC Barcelona honour Spain train crash victims"
+    "Oil flows are up as Iran war turmoil eases. Why do prices keep rising?",
+    "NBA: Cameron Boozer tallies first triple-double, Grizzlies remain unbeaten",
+    "Sudan investigation maps commanders linked to wartime rape",
+    "Smoke from wildfires killed 3,500 people in Indonesia in September: Report",
+    "Everton beat Newcastle to set up League Cup quarterfinal with Fleetwood",
+    "Kenya’s 2029 World Athletics bid: A win for Africa under scrutiny",
+    "‘My life is buried here’: Iranian man whose 12 family members were killed",
+    "Australian court rejects ‘mushroom murderer’ Erin Patterson’s appeal",
+    "Philippines raises alert as Mayon Volcano erupts",
+    "AI’s real bottleneck is electricity. Who will pay for it?",
+    "Britain must sanction Israel, not just its settlers",
+    "How Israel choked off Hebron at 10 entrances, as 5,000 forced to flee",
+    "UK denies entry to Swedish academic due to speak at Palestine event",
+    "Survivors of Spain’s worst train crashes urge action after latest disaster",
+    "US midterms: 4 days to go – What the polls say as Trump cancels two rallies"
   ],
   "sections": [
+    {
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "rows": [
+        {
+          "event": "CD Godoy Cruz vs. Club Almirante Brown: O/U 3.5",
+          "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
     {
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
@@ -25,6 +37,12 @@
         {
           "event": "Exact Score: FC Porto 1 - 0 Estoril Praia?",
           "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Shandong Taishan FC vs. Chengdu Rongcheng FC end in a draw?",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -61,12 +79,6 @@
         {
           "event": "Will CA San Miguel vs. Deportivo Madryn end in a draw?",
           "odds": "+257",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Shake Shack (SHAK) beat quarterly earnings?",
-          "odds": "-156",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
