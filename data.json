@@ -1,23 +1,47 @@
 {
-  "lastUpdated": "01 de noviembre de 2026 — 01:45 UTC",
+  "lastUpdated": "01 de noviembre de 2026 — 08:32 UTC",
   "ticker": [
-    "Talarico draws a packed campus rally, but can he win over young voters?",
-    "Polish president holds crisis talks in court standoff",
-    "Gen Z-led protests in Germany turn violent",
-    "Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz",
-    "ICE agent’s violent shove propels woman through the air",
-    "Dutch authorities rescue 38 people adrift in rubber boat",
-    "Trump loses legal battle over Epstein-linked Wall Street Journal case",
-    "Palestine Action supporters arrested outside US embassy in London",
-    "Legal filing questions Trump’s claims of non-citizen voting in California",
-    "Fiery confrontations between protestors and police in Albania",
-    "Health authorities probe two suspected Ebola cases in northeast Nigeria",
-    "District of Columbia and Virginia sue to block Trump’s triumphal arch plans",
-    "Israel’s allegations of Qatari election interference rejected",
-    "What is ranked-choice voting and how does it work in US elections?",
-    "Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks"
+    "Mamdani says Trump to grant visa to mother of boy killed in Bronx shooting",
+    "Iran security chief says US letter signals ‘positive’ shift",
+    "Bangladesh forms wage board as garment workers protest",
+    "No, France is not ‘burning’",
+    "Serbia’s canopy collapse, two years on in a changed country",
+    "Israel’s war on homes: From Hebron to Gaza and southern Lebanon",
+    "Gaza doctors struggle with bereavement, overwork, trauma amid genocidal war",
+    "Police storm Portugal housing protest camp",
+    "A Gulf non-aggression pact could be the path forward",
+    "Rubio says Trump administration did not help Bolsonaro flee Brazil to US",
+    "Canelo Alvarez defeats Christian Mbilli to reclaim WBC title in Riyadh",
+    "Golden State Valkyries defeat Atlanta Dream to capture first WNBA crown",
+    "‘Like Kashmir’: How a toxic marble dump yard became a tourist spot in India",
+    "Roger’s cynical gift basket for El-Sayed on his birthday",
+    "UN demands investigation after staffer’s death in Houthi custody in Yemen"
   ],
   "sections": [
+    {
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "rows": [
+        {
+          "event": "Will Luis Torrens win a 2026 NL Gold Glove Award?",
+          "odds": "+143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "US x Iran ceasefire continues through December 31?",
+          "odds": "+284",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Russia capture all of Bilytske by December 31?",
+          "odds": "-270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
     {
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
@@ -59,12 +83,6 @@
           "moved": "none"
         },
         {
-          "event": "Will FC Andorra win on 2026-11-01?",
-          "odds": "+212",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Valentin Vacherot win the 2026 Basel, Switzerland?",
           "odds": "+100",
           "params": "Fuente: Polymarket",
@@ -77,14 +95,14 @@
           "moved": "none"
         },
         {
-          "event": "Cancun FC leading at halftime?",
-          "odds": "+156",
+          "event": "Will Shake Shack (SHAK) beat quarterly earnings?",
+          "odds": "-156",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Shake Shack (SHAK) beat quarterly earnings?",
-          "odds": "-156",
+          "event": "SpaceXAI announces a full training pause in 2026?",
+          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
