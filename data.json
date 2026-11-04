@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "04 de noviembre de 2026 — 08:25 UTC",
+  "lastUpdated": "04 de noviembre de 2026 — 16:43 UTC",
   "ticker": [
-    "‘We defeated Goliath’: Texas Democrat James Talarico wins Senate seat",
-    "Democrats deliver a historic routing to Republicans in US midterms",
-    "FIFA’s Infantino ineligible for re-election, says former governance chief",
-    "El-Sayed defeats Rogers to win Senate seat in Michigan",
-    "Democrats win Congress: How they did it, and what it means",
-    "Spanish transport minister resigns after train crash killed 69 people",
-    "US House Speaker Johnson rants about Marxism after Democrat gains",
-    "Democrat Troy Jackson wins Maine US Senate seat in blow to Republicans",
-    "South Africans vote in local elections seen as test for embattled ANC",
-    "Firsts for women and minorities in US midterm elections",
-    "Democrat Amy Acton makes history in Ohio",
-    "Democratic Party gains US House majority in 2026 midterm elections",
-    "House Democratic leader Hakeem Jeffries hails midterm victory",
-    "Lula’s victory is a stress test for the Global South",
-    "Photos: Champions League and Tenerife fans pay tribute to De Miguel"
+    "Ukrainian strikes kill three in Russia’s Belgorod region",
+    "Democratic voters celebrate El-Sayed’s Michigan win in election ‘blue wave’",
+    "US markets rise as Democrats sweep midterm elections",
+    "‘We are still red,’ Florida’s first Black governor upon win",
+    "No regrets: Trump says Iran war justified despite polls drubbing",
+    "Iranian leaders welcome US midterms, but Trump may still attack",
+    "Ice hockey federation reiterates opposition to reinstatement of Russia",
+    "Is Trump really a ‘lame duck’ after losing both houses of US Congress?",
+    "Trump loses control of Congress",
+    "Why is the western US still counting votes after election day?",
+    "Yemeni government forces claim control of strategic al-Jawf mountain range",
+    "How big is the Republican midterms loss, and is there a silver lining?",
+    "Spanish Transport Minister resigns over train crash disasters",
+    "Hebron’s Israeli rooftop settlers threaten the city’s Palestinian identity",
+    "Gaza volunteer Adam Hamawy wins historic US Congress seat"
   ],
   "sections": [
     {
@@ -41,14 +41,8 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will the Alaska 2026 Senate race be within 5%?",
-          "odds": "-233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party candidate win the 2026 PA-14 House election by 40%-45%?",
-          "odds": "+3125",
+          "event": "Will total votes cast in the 2026 midterm election for Governor of Hawaii be between 370,000 and 400,000?",
+          "odds": "+525",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -65,8 +59,20 @@
           "moved": "none"
         },
         {
+          "event": "QFEX FDV above $100M one day after launch?",
+          "odds": "-108",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Connor Bedard record 30+ goals in the 2026-27 regular season?",
           "odds": "+112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will BG Tampines Rovers win on 2026-11-05?",
+          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -77,32 +83,20 @@
           "moved": "none"
         },
         {
+          "event": "Will the Ornn H200 Index be at least $6.50 on November 30, 2026?",
+          "odds": "-112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Taranto: Maxim Mrva vs Thomas Faurel",
+          "odds": "-163",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Al Rayyan SC win on 2026-11-08?",
           "odds": "+212",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Game Handicap: GEN (-2.5) vs LYON (+2.5)",
-          "odds": "-117",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Shake Shack (SHAK) beat quarterly earnings?",
-          "odds": "-156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Zcash dip to $600 by December 31, 2026?",
-          "odds": "+669",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "SpaceXAI announces a full training pause in 2026?",
-          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
