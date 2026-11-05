@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "05 de noviembre de 2026 — 03:00 UTC",
+  "lastUpdated": "05 de noviembre de 2026 — 10:39 UTC",
   "ticker": [
-    "Vote counting underway in critical South Africa elections",
-    "El Salvador’s Bukele touts military intervention in Haiti",
-    "Election deniers lose races for governor in key US swing states",
-    "Israel’s Herzog accepts vote results, opens talks on forming a government",
-    "Africa’s richest man launches mega oil tank farm in Namibia",
-    "Ohio’s voters tell Republicans: don’t take us for granted",
-    "Democrats won Congress. But can they deliver on their promises?",
-    "Historic firsts redraw US political map in 2026 midterm elections",
-    "Iran war live: Khamenei says US hostility will persist after midterms",
-    "Who gets to vote in the US?",
-    "Ethiopia expels 6 Sudan diplomats, orders closure of consulate, reports say",
-    "Giant banner of Trump, Vance and Netanyahu burnt at Tehran rally",
-    "Trump blames Iran war for midterms losses",
-    "Democratic Socialists of America see record wins in US midterm elections",
-    "Sudan factories struggle to restart after devastating wartime losses"
+    "‘Helpless’: The families facing winter in tents on the beach in Gaza",
+    "Congress defeat: How Trump’s allies are distancing themselves from Iran war",
+    "England’s Harry Kane extends Bayern Munich contract until 2029",
+    "A month after Yemen government offensive began, war of attrition takes hold",
+    "US sanctions Indian and Turkish firms accused of helping Iran",
+    "Israel extends detention of Palestinian journalist Abed Abou Shhadeh",
+    "Bomb threat diverts Dublin-Rome flight to France",
+    "It’s Gaza, stupid",
+    "Russia says it hit Ukrainian postal hub and ship as Ukraine strikes Ryazan",
+    "Wembanyama pours in career-high 52 points as Spurs edge Mavericks 112-111",
+    "Hong Kong democracy activist Joshua Wong sentenced to 10 years in jail",
+    "South Korea plans to expand anti-piracy operations closer to Hormuz Strait",
+    "Ten years of the Paris Agreement: Has the world kept its climate promises?",
+    "Germany’s Merz expects Trump to keep ignoring Congress",
+    "Champions League: Liverpool suffer 3-2 loss at Fenerbahce, Como thump Lens"
   ],
   "sections": [
     {
@@ -34,6 +34,12 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
+        {
+          "event": "Government shutdown by December 31?",
+          "odds": "+170",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will total votes cast in the 2026 midterm election for Governor of Hawaii be between 370,000 and 400,000?",
           "odds": "+525",
@@ -65,8 +71,8 @@
           "moved": "none"
         },
         {
-          "event": "SK Puntigamer Sturm Graz vs. NK Celje: Both Teams to Score",
-          "odds": "-138",
+          "event": "Will CS Independiente Rivadavia win on 2026-11-07?",
+          "odds": "+163",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -77,20 +83,20 @@
           "moved": "none"
         },
         {
-          "event": "Will Trump speak to Ahmed al-Sharaa by November 30?",
-          "odds": "-122",
+          "event": "Will AS FAR vs. Difaâ Hassani El Jadida end in a draw?",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Alphabet’s market capitalization be between $3.50T and $4.00T at the end of November 2026?",
+          "odds": "+143",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Malta win 2026-27 Nations League Group D1?",
           "odds": "-809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "SpaceXAI announces a full training pause in 2026?",
-          "odds": "+1899",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
