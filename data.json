@@ -1,23 +1,35 @@
 {
-  "lastUpdated": "05 de noviembre de 2026 — 23:55 UTC",
+  "lastUpdated": "06 de noviembre de 2026 — 04:39 UTC",
   "ticker": [
+    "Building wind turbines out of parts found in Gaza’s rubble",
+    "Paraguay’s president impeached amid bank collapse crisis",
+    "Iran’s security chief meets Putin, delivers message from Khamenei",
+    "Gaza turns discarded cooking pots into seawalls",
+    "California governor commutes sentences of more than 500 people on death row",
+    "Israeli settlers set fire to Palestinian olive grove near Ramallah",
+    "Turkiye’s parliament ratifies Mecca defence agreement",
+    "Trump says Russia-Ukraine deal is near after meeting Putin’s envoy",
+    "Iran war live: Trump warns US may have to ‘destroy’ rest of Iran",
     "Nithya Raman wins LA mayoral race, becoming city’s first South Asian mayor",
     "Generation Z and young voters help redefine US politics after midterms",
     "South Africa’s ANC on track for new lows in local polls",
     "Spanish footballer Jesus de Miguel mourned by family and friends",
     "Israeli demolitions displace more than 100 Palestinians in Biddu",
-    "Hoax bomb threats force emergency landings, evacuations across Europe",
-    "Saudi coalition intercepts missile fired towards Medina",
-    "Why are wealthy countries failing developing nations?",
-    "Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire",
-    "Mass protests in France driven by nationwide strike action",
-    "The blame game: How the US midterm shock is shaping Israel’s race for PM",
-    "Top US civil rights official resigns",
-    "Melania Trump calls for peace at meeting with Russia, Ukraine officials",
-    "Division among US Democrats over Schumer’s leadership role",
-    "Iran says tankers struck in Hormuz amid fears of new US attack"
+    "Hoax bomb threats force emergency landings, evacuations across Europe"
   ],
   "sections": [
+    {
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "rows": [
+        {
+          "event": "Will the KMT win 9 Taiwanese head of local government races?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
     {
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
@@ -53,8 +65,8 @@
           "moved": "none"
         },
         {
-          "event": "Will CS Independiente Rivadavia win on 2026-11-07?",
-          "odds": "+163",
+          "event": "CA Tigre vs. CA Sarmiento: Both Teams to Score",
+          "odds": "+122",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
