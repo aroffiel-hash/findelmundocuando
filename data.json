@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "06 de noviembre de 2026 — 12:39 UTC",
+  "lastUpdated": "06 de noviembre de 2026 — 19:47 UTC",
   "ticker": [
-    "Born to be torn: A generation raised under Houthi rule in Yemen",
-    "Olympic champion Imane Khelif to make professional boxing debut in December",
-    "‘We are here’: Kurdish club Amedspor shakes up Turkish football",
-    "Tanzania court jails opposition leader for incitement, lifts treason charge",
-    "Tanzania’s smallholder farmers struggle to benefit from digital agriculture",
-    "Rocket launcher deal illustrates deepening Russia-Iran relations",
-    "Hoax or bomb threats? What we know about flight disruptions across Europe",
-    "‘Nobody can stop them’: Who are Europe’s Black Bloc protesters?",
-    "Macao court sentences pro-democracy ex-politician to 12.5 years in jail",
-    "Court grants ex-Malaysian PM Najib house arrest after $12m royal pardon",
-    "Tech stock rout, driven by US AI fears, continues in Asian trading",
-    "UK jailing of Indian sailor over Russia sanctions sets off ‘perfect storm’",
-    "Abdul El-Sayed did not have to become less Muslim to win",
-    "Can America ever return to pre-Trump politics?",
-    "US judge halts construction of Trump’s triumphal arch in Washington, DC"
+    "Could Trump’s veto stop the Democratic majority?",
+    "Israel closes Hebron’s Ibrahimi Mosque to Palestinians for Jewish holiday",
+    "Trump says making adviser Stephen Miller White House chief of staff",
+    "Armed men kill at least 33 in village in Ebola-hit eastern DRC",
+    "Why is Paraguay facing a banking and political crisis?",
+    "Goats on weed-clearing duty become unlikely Tokyo celebrities",
+    "‘Message to the West’ bomb threats target European newsrooms, travel",
+    "Russia’s land gains in Ukraine dwindle as its diesel reportedly goes unsold",
+    "Israeli settlers seize Palestinian homes in Jericho, displacing dozens",
+    "Yemeni gov’t forces, Houthis trade blame for deadly strikes on Taiz market",
+    "Valencia vs Real Madrid: La Liga – preview, team news, predictions",
+    "How Paraguay’s Ueno collapse is only its latest banking crisis",
+    "US city votes to divest from Israel",
+    "US prosecutor who led Trump-backed election probe exits Justice Department",
+    "Paraguay resumes Pena impeachment proceedings as financial crisis deepens"
   ],
   "sections": [
     {
@@ -25,6 +25,18 @@
         {
           "event": "Will the KMT win 9 Taiwanese head of local government races?",
           "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will the 30-year Treasury yield dip below 5.25% before 2027?",
+          "odds": "-900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -55,12 +67,6 @@
         {
           "event": "Queens Park Rangers FC vs. Lincoln City FC: Both Teams to Score",
           "odds": "-122",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Slovan Bratislava finish last in UCL league phase?",
-          "odds": "-257",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
