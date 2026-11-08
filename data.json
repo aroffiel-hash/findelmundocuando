@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "07 de noviembre de 2026 — 21:18 UTC",
+  "lastUpdated": "08 de noviembre de 2026 — 00:59 UTC",
   "ticker": [
+    "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
+    "Eisenkot chosen over Netanyahu to form Israel’s next government",
+    "Real Madrid beat Valencia 3-0 to draw level with La Liga leaders Barcelona",
+    "Police clash with protesters as anti-government rallies sweep France",
+    "Mélenchon promises action against Israeli annexation if elected President",
+    "Who is behind Europe’s suspected hybrid attacks?",
     "Abdul El-Sayed slams Trump’s tariff war with Canada",
     "Israel’s president picks Eisenkot over Netanyahu to form next government",
     "More than 140,000 rally as new protests against rising costs sweep France",
@@ -9,19 +15,31 @@
     "Masked protesters set off firecrackers and block roads in Albania",
     "Trump orders DOJ to investigate Democrats for ‘threatening’ people",
     "How did AIPAC-backed candidates fare in the US midterm elections?",
-    "Malaysian king warns against defying house arrest order for ex-PM Najib",
-    "Latvian farmers protest over ‘blood grain’ trade with Russia",
-    "Yemeni gov’t forces report advances as Houthis say deadly strikes hit Sanaa",
-    "Demonstration in Berlin calls for an end to arming Israel",
-    "Houston mayor orders police to limit cooperation with ICE",
-    "Paraguay’s ousted president charged over banking scandal",
-    "Pope Leo hold first mass in Uruguay, urges crowd to be ‘bridge builders’"
+    "Malaysian king warns against defying house arrest order for ex-PM Najib"
   ],
   "sections": [
+    {
+      "flag": "🌍",
+      "label": "GEOPOLÍTICA Y CONFLICTO",
+      "rows": [
+        {
+          "event": "CD Mirandes vs. CD Coria: CD Coria O/U 0.5",
+          "odds": "-132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
     {
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
+        {
+          "event": "Monagas SC leading at halftime?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the 30-year Treasury yield dip below 5.25% before 2027?",
           "odds": "-900",
@@ -41,12 +59,6 @@
           "moved": "none"
         },
         {
-          "event": "Exact Score: Independiente Santa Fe 0 - 0 AD Pasto?",
-          "odds": "+1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the highest temperature in Paris be 15°C on November 9?",
           "odds": "+3233",
           "params": "Fuente: Polymarket",
@@ -59,26 +71,32 @@
           "moved": "none"
         },
         {
-          "event": "FCSB vs. FC Corvinul 1921 Hunedoara: Draw at halftime?",
-          "odds": "-212",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Texas Longhorns win the 2027 CFP National Championship?",
           "odds": "+1251",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Retief Odendaal be the next mayor of Nelson Mandela Bay?",
-          "odds": "-488",
+          "event": "Will George Russell win the 2026 F1 Brazilian Grand Prix?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Malta win 2026-27 Nations League Group D1?",
           "odds": "-809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "SpaceXAI announces a full training pause in 2026?",
+          "odds": "+1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Team USA win the 2027 Ryder Cup?",
+          "odds": "+127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
