@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "08 de noviembre de 2026 — 14:41 UTC",
+  "lastUpdated": "08 de noviembre de 2026 — 19:16 UTC",
   "ticker": [
-    "US task force to cut off Iran’s transport of advanced weapons: What we know",
-    "Spain win Padel World Cup in Qatar as sport’s popularity soars",
-    "At least 21 dead as small boat sinks off Senegal",
-    "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
-    "CCTV captures streets shaking as 5.7-magnitude earthquake hits Japan",
-    "Could Iraq’s Kurdish region return to two separate administrations?",
-    "Poland mourns six killed in attack as authorities launch ‘terrorism’ probe",
-    "Russian strikes on Ukraine leave hundreds of thousands without electricity",
-    "South Africa’s ANC suffers setback in local elections",
-    "Could UFC boss Dana White be next White House press secretary?",
-    "Will Eisenkot be able to form Israel’s next gov’t amid divided opposition?",
-    "Messi becomes first player to win back-to-back MLS Golden Boot awards",
-    "After rebel offensive, efforts to push them back appear to have stalled",
-    "Tennis world number one Rybakina withdraws from WTA Finals due to virus",
-    "Democrats’ congressional win could strengthen Ukraine’s hand against Russia"
+    "Carlos Alcaraz beats Ben Shelton to win Paris Masters tennis title",
+    "Eisenkot open to Netanyahu joining Israel’s next government",
+    "Infantino’s Japanese challenger claims he could unseat FIFA president",
+    "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
+    "Jerusalem Daily: Eisenkot picked over Netanyahu to form government",
+    "Photos: Diwali celebrations light up India and its global diaspora",
+    "LIVE: Atletico Madrid vs Barcelona – La Liga",
+    "India’s ‘cockroach’ movement seeks to restore culture of accountability",
+    "Fan hospitalised after falling through stand at Norwegian football match",
+    "Israeli opposition leader warns of ‘point of no return’ for democracy",
+    "Train crash kills seven, injures dozens near Egypt’s Cairo city",
+    "Seven killed, 112 injured in train collision in Egypt",
+    "Israeli forces release Palestinian journalist Abou Shhadeh",
+    "Egyptian embassy reopens in Libya for the first time in 12 years",
+    "Tenerife’s Jesus De Miguel honoured in tearful tribute by teammates, fans"
   ],
   "sections": [
     {
@@ -25,6 +25,12 @@
         {
           "event": "CD Mirandes vs. CD Coria: CD Coria O/U 0.5",
           "odds": "-132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
+          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -43,24 +49,30 @@
       ]
     },
     {
+      "flag": "🏛️",
+      "label": "POLÍTICA INTERNACIONAL",
+      "rows": [
+        {
+          "event": "Will Jean-Luc Mélenchon win the third-most votes in the first round of the 2027 French presidential election?",
+          "odds": "+244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Gavin Newsom announce a Presidential run before 2027?",
+          "odds": "+1011",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the US birth rate in 2026 be 53.0 or higher?",
-          "odds": "+900",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the highest temperature in Paris be 15°C on November 9?",
           "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Nottingham Forest Lfc win on 2026-11-08?",
-          "odds": "-203",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -73,6 +85,24 @@
         {
           "event": "Will Texas Longhorns win the 2027 CFP National Championship?",
           "odds": "+1165",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Exact Score: ACF Fiorentina 5 - 5 Juventus FC?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the lowest temperature in Tel Aviv be 9°C on November 10?",
+          "odds": "+270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Boise State have more than 9.5 wins during the 2026 CFB season?",
+          "odds": "-900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
