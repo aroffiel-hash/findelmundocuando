@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "09 de noviembre de 2026 — 23:14 UTC",
+  "lastUpdated": "10 de noviembre de 2026 — 05:35 UTC",
   "ticker": [
-    "Trump calls Iran war ‘effectively over’ after talks with Qatar PM",
-    "Pope meets with clergy abuse survivors in Argentina",
-    "Hungarian police reportedly detain brother of ex-PM Viktor Orban",
-    "Saudi Arabia reports new attack on key East-West pipeline",
-    "COP31 opens amid energy crisis as activists demand climate action",
-    "Will Najib Razak be transferred to house arrest?",
-    "Republican lawmaker moves to impeach US Defense Secretary Hegseth",
-    "Cyprus rivals agree new crossings across island’s dividing line",
-    "Deadly explosion at Iron and steel plant in Turkiye",
-    "Russell Brand sentenced to 10.5 years over sexual assault charges",
-    "Explosion at Turkish steel plant kills at least 16 people",
-    "South Africa detains foreigners suspected of heading to join Russian forces",
-    "How is Gaza coping with another severe winter?",
-    "US agencies unite to combat rogue drone threats nationwide",
-    "Trump reverses stance, alleges fraud in recent US midterm elections"
+    "Pope Leo draws 2.5 million people during historic Argentina Mass",
+    "‘Europe belongs at this table,’ Germany tells US before Ukraine talks",
+    "Anger as ICE agents make arrest in New Jersey grocery store",
+    "Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline",
+    "Newly-elected Democrats react to Hegseth impeachment bid",
+    "Harare demolitions leave families homeless after years of building",
+    "Russia, Ukraine and US to meet as Zelenskyy claims battlefield successes",
+    "Cameroon sets date for twice-delayed legislative and local elections",
+    "Israel’s Shin Bet finds no evidence of foreign election interference",
+    "Poll finds Americans less likely to back pro-war candidates by 3-1 margin",
+    "France blames Iran for October supermarket cyberattack",
+    "Trump signals ‘positive momentum’ with Iran after meeting Qatari PM",
+    "Verdict delayed in Honduras sex-trafficking case linked to disappearance",
+    "Trump says FBI probing Nvidia CEO Huang’s affair with alleged spy",
+    "Iran war live: Iran demands US ‘surrender’ to its conditions"
   ],
   "sections": [
     {
@@ -35,14 +35,32 @@
           "moved": "none"
         },
         {
-          "event": "Israel military action against Lebanon on November 8?",
-          "odds": "-1328",
+          "event": "Will Russia capture Dobropillia by December 31, 2026?",
+          "odds": "+400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will The Birthday Gift win Best Live Action Short Film at the 99th Academy Awards?",
           "odds": "+2757",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will China GDP growth in Q4 2026 be between 4.6% and 4.9%?",
+          "odds": "-112",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will world GDP growth be 3.2% in 2026?",
+          "odds": "+177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -69,6 +87,18 @@
           "odds": "-376",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 NJ-03 House election by 0%-5%?",
+          "odds": "+1198",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will a Democratic Party candidate win the 2026 CA-28 House election by 5%-15%?",
+          "odds": "+1860",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -77,20 +107,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Counter-Strike: MEIA NOITE vs BORRACHEIROS (BO3) - CCT South America Group Stage",
-          "odds": "-104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Connor Bedard record 30+ goals in the 2026-27 regular season?",
           "odds": "+112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Jan-Krzysztof Duda finish in the Top 8 of Titled Tuesday on November 10?",
-          "odds": "+1308",
+          "event": "Knoxville: Giles Hussey vs Michael Zheng",
+          "odds": "+316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -107,6 +131,18 @@
           "moved": "none"
         },
         {
+          "event": "Will \"Victorian Psycho\" score at least 60 on the Rotten Tomatoes Tomatometer?",
+          "odds": "-1150",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will OpenRouter process between 210T and 220T tokens the week of November 9?",
+          "odds": "+163",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "London Lions vs. Reyer Venezia",
           "odds": "+104",
           "params": "Fuente: Polymarket",
@@ -115,12 +151,6 @@
         {
           "event": "Will the ACC conference win the 2026-27 College Football Playoff National Championship?",
           "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the USS Theodore Roosevelt arrive in CENTCOM by November 12, 2026?",
-          "odds": "+521",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
