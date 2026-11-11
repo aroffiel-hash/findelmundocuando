@@ -1,27 +1,33 @@
 {
-  "lastUpdated": "11 de noviembre de 2026 — 16:49 UTC",
+  "lastUpdated": "11 de noviembre de 2026 — 23:15 UTC",
   "ticker": [
-    "‘It’s just too expensive’: Housing and wages at the heart of Spain’s strike",
-    "Israel is ‘disrupting entire ecosystems’, including Lebanon’s wheat crop",
-    "Russia bans two French lawmakers, two journalists in tit-for-tat move",
-    "Can Tehran survive a ‘zero oil’ budget, if US blockade on Iran persists?",
-    "Kenya discharges last Ebola patient, awaits disease-free status",
-    "Bessent’s relocation: From US to EU, is Iran bringing war to Western soil?",
-    "Inside the fight against Denmark’s ‘straight up racist’ housing law",
-    "Qatar Grand Prix was ‘right decision’ despite regional tensions: MotoGP",
-    "Italy vs France: UEFA Nations League – preview, team news, predictions",
-    "Rubio backs blockade, Vance wants deal: Is Trump’s team split on Iran war?",
-    "South Africans divided over Olympic swimmer’s switch to Netherlands",
-    "‘Our neighbours are gone’: Gaza survivors recount horrors of deadly floods",
-    "Why is Pochettino the favourite to replace Carrick at Manchester United?",
-    "Schools across Italy evacuated after receiving email bomb alerts",
-    "Russia-Ukraine talks in Abu Dhabi end with prisoner exchange agreement"
+    "Democrat Scott Colom wins closely watched US Senate race in Mississippi",
+    "Israeli strikes hit tent camp as five killed in Gaza",
+    "Iran designates Argentinian navy, air force as ‘terrorist organisations’",
+    "Judge rules Trump’s $10bn BBC defamation suit can proceed",
+    "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
+    "Thousands march to mark Poland’s Independence Day",
+    "Hoax bomb threats target schools across Italy, UK and Ireland",
+    "Oil production nears pre-Iran war levels, OPEC says",
+    "Gaza goalkeeper killed in Israeli attack",
+    "Trump’s White House calls Democratic plans for congressional probes ‘abuse’",
+    "Scenes show aftermath of horrific Israeli strike on Gaza tents",
+    "F1 champion Lewis Hamilton calls on Israel to open Gaza’s Rafah border",
+    "First Palestinian American elected in New York talks to Al Jazeera",
+    "Uzbekistan: the crossroads of Central Asian cultures",
+    "Three women killed in LA crash as driver arrested"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "US x Iran Effective Ceasefire by December 31?",
+          "odds": "-488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
           "odds": "+669",
@@ -35,8 +41,8 @@
           "moved": "none"
         },
         {
-          "event": "Will The Birthday Gift win Best Live Action Short Film at the 99th Academy Awards?",
-          "odds": "+2757",
+          "event": "Will \"Dune: Part Three\" be nominated for Best Original Score at the 99th Academy Awards?",
+          "odds": "-300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -47,8 +53,8 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will the Fed increase interest rates by 25 bps after the March 2027 meeting?",
-          "odds": "-127",
+          "event": "Will the 5-year Treasury yield hit 5.15% before 2027?",
+          "odds": "+681",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -59,26 +65,20 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Labor win the most seats in the next Victorian state election?",
-          "odds": "+3233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the Republican Party candidate win the 2026 Montana Senate election by 0%-3%?",
           "odds": "+506",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will PSOE win the second-most seats in Madrid in the 2026 Spanish general election?",
-          "odds": "-426",
+          "event": "Will the Republican Party candidate win the 2026 OH-04 House election by 45%-50%?",
+          "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the Republican Party candidate win the 2026 OH-04 House election by 45%-50%?",
-          "odds": "+3233",
+          "event": "Will the Shiromani Akali Dal (SAD) win the most seats in the next Punjab Legislative Assembly election?",
+          "odds": "+890",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -95,14 +95,20 @@
           "moved": "none"
         },
         {
-          "event": "Will Ivory Coast win on 2026-11-12?",
-          "odds": "-455",
+          "event": "Will Gimnastic de Tarragona win on 2026-11-13?",
+          "odds": "+163",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will FURIA Win the PGL Major Singapore 2026?",
-          "odds": "+1566",
+          "event": "Will Google be the third-best Math AI lab at the end of December 2026?",
+          "odds": "+566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Munich be 7°C on November 13?",
+          "odds": "+104",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -119,20 +125,14 @@
           "moved": "none"
         },
         {
-          "event": "Will NVIDIA (NVDA) close above $185 on November 11?",
-          "odds": "+1198",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "M25 Montreal: Louis Wessels vs Daniel Kliebhan",
-          "odds": "-488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "M25 Vale do Lobo: Patrick Schoen vs Diogo Morais",
           "odds": "-488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will England win on 2026-11-15?",
+          "odds": "+354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
