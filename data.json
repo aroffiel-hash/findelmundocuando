@@ -1,27 +1,33 @@
 {
-  "lastUpdated": "11 de noviembre de 2026 — 01:38 UTC",
+  "lastUpdated": "11 de noviembre de 2026 — 08:43 UTC",
   "ticker": [
-    "Spain holds state funeral for 69 victims of deadly train crash",
-    "‘Everything and everyone we love is at stake’: Thunberg slams COP31 talks",
-    "Iran war live: Hegseth survives impeachment bid; Iran denies US talks",
-    "Fire contained on platform in Iran’s South Pars gas field",
-    "Massive fire as Israeli settlers burn down business near Nablus",
-    "French far-right author Zemmour launches second bid for 2027 presidency",
-    "Russia expels Moldovan diplomat in tit-for-tat move",
-    "US House Republicans block Pete Hegseth impeachment effort",
-    "UNIFIL patrol comes under fire in southern Lebanon",
-    "US poll shows death penalty lost majority support for first time since 1971",
-    "IBM’s biggest division ends most US foreign worker sponsorships",
-    "2026 Midterms: Blue wave or anti-establishment backlash?",
-    "White House announces funds for law enforcement programme in several cities",
-    "US soldier arrested in UK on suspicion of spying for Russia",
-    "Netanyahu and Eisenkot push for new government after election deadlock"
+    "Putin is not ready to make peace in Abu Dhabi",
+    "How are Pakistan’s imports from India growing again despite tensions?",
+    "Why China’s $1 trillion trade surplus isn’t all good news for its economy",
+    "Iran denies talks with US, says Hormuz will stay shut until demands are met",
+    "Students run for safety after fireworks set off inside French school",
+    "Chinese university buys Nvidia AI H200 chips despite US ban, records show",
+    "Is Washington rethinking its relationship with Israel?",
+    "If hackers can take over a supermarket fridge, what else is at risk?",
+    "Netanyahu fights to stay relevant as Israel’s opposition closes in",
+    "South African swimmer Tatjana Smith switches allegiance to Netherlands",
+    "Yemeni forces, Houthis exchange attacks, claim to inflict heavy losses",
+    "‘I pay $500 for 5 square metres’: Spain’s protesters, in their own words",
+    "US charges three men for allegedly plotting attack on UK base",
+    "Malaysia’s ex-PM transferred to house arrest for 1MDB graft sentence",
+    "Ebola cases in DR Congo pass 11,000, with 5,387 deaths"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Will Gadi Eizenkot be the next Prime Minister of Israel?",
+          "odds": "-136",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
           "odds": "+669",
@@ -31,24 +37,6 @@
         {
           "event": "Will The Birthday Gift win Best Live Action Short Film at the 99th Academy Awards?",
           "odds": "+2757",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will China GDP growth in Q4 2026 be between 4.6% and 4.9%?",
-          "odds": "-112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
-      "rows": [
-        {
-          "event": "Will world GDP growth be 3.2% in 2026?",
-          "odds": "+177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -81,18 +69,6 @@
           "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party candidate win the 2026 NJ-03 House election by 0%-5%?",
-          "odds": "+1198",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will a Democratic Party candidate win the 2026 CA-28 House election by 5%-15%?",
-          "odds": "+1860",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -103,18 +79,6 @@
         {
           "event": "Will Connor Bedard record 30+ goals in the 2026-27 regular season?",
           "odds": "+112",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the lowest temperature in Denver be between 34-35°F on November 10?",
-          "odds": "-334",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Kraken's valuation hit (LOW) $9.2B by November 30?",
-          "odds": "-244",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -131,8 +95,20 @@
           "moved": "none"
         },
         {
-          "event": "Walmart (WMT) Q3 US comp sales (ex-fuel) growth 4% to 5.5%?",
-          "odds": "+2602",
+          "event": "M25 Montreal: Louis Wessels vs Daniel Kliebhan",
+          "odds": "-488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "M25 Vale do Lobo: Patrick Schoen vs Diogo Morais",
+          "odds": "-488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Anthropic IPO on November 20, 2026?",
+          "odds": "+624",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -143,8 +119,8 @@
           "moved": "none"
         },
         {
-          "event": "M15 Antalya: Andrey Chepelev vs Andrea Paolini",
-          "odds": "-455",
+          "event": "BNP Paribas Nordic Open: Miomir Kecmanovic vs Holger Rune",
+          "odds": "+212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
