@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "11 de noviembre de 2026 — 08:43 UTC",
+  "lastUpdated": "11 de noviembre de 2026 — 16:49 UTC",
   "ticker": [
-    "Putin is not ready to make peace in Abu Dhabi",
-    "How are Pakistan’s imports from India growing again despite tensions?",
-    "Why China’s $1 trillion trade surplus isn’t all good news for its economy",
-    "Iran denies talks with US, says Hormuz will stay shut until demands are met",
-    "Students run for safety after fireworks set off inside French school",
-    "Chinese university buys Nvidia AI H200 chips despite US ban, records show",
-    "Is Washington rethinking its relationship with Israel?",
-    "If hackers can take over a supermarket fridge, what else is at risk?",
-    "Netanyahu fights to stay relevant as Israel’s opposition closes in",
-    "South African swimmer Tatjana Smith switches allegiance to Netherlands",
-    "Yemeni forces, Houthis exchange attacks, claim to inflict heavy losses",
-    "‘I pay $500 for 5 square metres’: Spain’s protesters, in their own words",
-    "US charges three men for allegedly plotting attack on UK base",
-    "Malaysia’s ex-PM transferred to house arrest for 1MDB graft sentence",
-    "Ebola cases in DR Congo pass 11,000, with 5,387 deaths"
+    "‘It’s just too expensive’: Housing and wages at the heart of Spain’s strike",
+    "Israel is ‘disrupting entire ecosystems’, including Lebanon’s wheat crop",
+    "Russia bans two French lawmakers, two journalists in tit-for-tat move",
+    "Can Tehran survive a ‘zero oil’ budget, if US blockade on Iran persists?",
+    "Kenya discharges last Ebola patient, awaits disease-free status",
+    "Bessent’s relocation: From US to EU, is Iran bringing war to Western soil?",
+    "Inside the fight against Denmark’s ‘straight up racist’ housing law",
+    "Qatar Grand Prix was ‘right decision’ despite regional tensions: MotoGP",
+    "Italy vs France: UEFA Nations League – preview, team news, predictions",
+    "Rubio backs blockade, Vance wants deal: Is Trump’s team split on Iran war?",
+    "South Africans divided over Olympic swimmer’s switch to Netherlands",
+    "‘Our neighbours are gone’: Gaza survivors recount horrors of deadly floods",
+    "Why is Pochettino the favourite to replace Carrick at Manchester United?",
+    "Schools across Italy evacuated after receiving email bomb alerts",
+    "Russia-Ukraine talks in Abu Dhabi end with prisoner exchange agreement"
   ],
   "sections": [
     {
@@ -23,20 +23,32 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
-          "event": "Will Gadi Eizenkot be the next Prime Minister of Israel?",
-          "odds": "-136",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
           "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
+          "event": "Saudi Arabia vs. Korea Republic: Korea Republic O/U 1.5",
+          "odds": "+132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will The Birthday Gift win Best Live Action Short Film at the 99th Academy Awards?",
           "odds": "+2757",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will the Fed increase interest rates by 25 bps after the March 2027 meeting?",
+          "odds": "-127",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -83,6 +95,18 @@
           "moved": "none"
         },
         {
+          "event": "Will Ivory Coast win on 2026-11-12?",
+          "odds": "-455",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will FURIA Win the PGL Major Singapore 2026?",
+          "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Malta win 2026-27 Nations League Group D1?",
           "odds": "-809",
           "params": "Fuente: Polymarket",
@@ -95,6 +119,12 @@
           "moved": "none"
         },
         {
+          "event": "Will NVIDIA (NVDA) close above $185 on November 11?",
+          "odds": "+1198",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "M25 Montreal: Louis Wessels vs Daniel Kliebhan",
           "odds": "-488",
           "params": "Fuente: Polymarket",
@@ -103,24 +133,6 @@
         {
           "event": "M25 Vale do Lobo: Patrick Schoen vs Diogo Morais",
           "odds": "-488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Anthropic IPO on November 20, 2026?",
-          "odds": "+624",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the ACC conference win the 2026-27 College Football Playoff National Championship?",
-          "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "BNP Paribas Nordic Open: Miomir Kecmanovic vs Holger Rune",
-          "odds": "+212",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
