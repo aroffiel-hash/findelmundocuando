@@ -1,45 +1,27 @@
 {
-  "lastUpdated": "12 de noviembre de 2026 — 14:27 UTC",
+  "lastUpdated": "12 de noviembre de 2026 — 21:40 UTC",
   "ticker": [
-    "Nvidia CEO Jensen Huang steps down amid spy scandal and market loss",
-    "Family of killed teen Javits Frimpong calls for justice",
-    "More than 1,800 Italian schools targeted by new hoax bomb alerts",
-    "FIFA Under-17 World Cup to kick off in Qatar despite US withdrawal",
-    "Canada won’t let Russian players enter for ice hockey junior championship",
-    "Greta Thunberg: The planet is being killed",
-    "Europe views US with ‘much less horror’ after Trump’s midterms defeat",
-    "‘Greater Israel’: How Christian Zionism infiltrated US policy",
-    "Missing teenager found in bushland during aerial search in Australia",
-    "England vs Croatia: UEFA Nations League – preview, team news, predictions",
-    "Pakistan releases two sisters of ex-PM Imran Khan from jail",
-    "Xi Jinping says Taiwan’s ‘complete reunification’ with China will happen",
-    "Nvidia board weighs Jensen Huang’s future: Can it remove its founder?",
-    "Who is Scott Colom, Mississippi’s first Black senator in 150 years?",
-    "Robot tells Al Jazeera AI is ‘too useful to disappear’"
+    "Deadly shooting in Washington DC",
+    "Microsoft outage hits tens of thousands of users",
+    "Pope Leo calls for Church to make ‘amends’ to sex abuse victims",
+    "US releases report on $12bn from Venezuelan oil, mineral resources",
+    "What’s at stake in the renewed tensions over the Falkland Islands?",
+    "Qatar Under-17 World Cup is on despite US pull out",
+    "Regional security dominates European talks in Dublin amid hybrid attacks",
+    "Democrats gather in Denver to debate party’s future after US midterm wins",
+    "Palestinian baby dies from cold in Gaza amid Israeli restrictions on aid",
+    "US nonprofits sue tech giants to halt AI development",
+    "Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?",
+    "Iranian men guilty of spying on British journalists",
+    "Senegal’s wrestlers turn tradition into gold at Dakar Youth Olympics",
+    "UK mosque rebukes comission’s ‘warning’ following Palestine comments",
+    "Pro-Palestine philanthropist faces US extradition hearing in Spain"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Exact Score: Borussia Monchengladbach 5 - 5 Standard Liege?",
-          "odds": "+149",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Israel x Iran ceasefire continues through November 20?",
-          "odds": "-1566",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Israel x Lebanon diplomatic meeting by December 31, 2026?",
-          "odds": "+163",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
           "odds": "+669",
@@ -49,6 +31,18 @@
         {
           "event": "Saudi Arabia vs. Korea Republic: Korea Republic O/U 1.5",
           "odds": "+132",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will the 5-year Treasury yield dip below 4.59% in November?",
+          "odds": "+1011",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -89,8 +83,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Gimnastic de Tarragona win on 2026-11-13?",
-          "odds": "+163",
+          "event": "Will Tyson Foods (TSN) beat quarterly earnings?",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -107,8 +101,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Manchester United finish in the top 6 of the 2026-27 English Premier League season?",
-          "odds": "+376",
+          "event": "Exact Score: San Marino 0 - 4 Belarus?",
+          "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -119,8 +113,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Mike Malott fight Jack Della Maddalena next?",
-          "odds": "+669",
+          "event": "ICC Women's Emerging Nations Trophy T20s: Scotland Women vs Sri Lanka Women",
+          "odds": "+222",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
