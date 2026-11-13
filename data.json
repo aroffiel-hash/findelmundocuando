@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "12 de noviembre de 2026 — 21:40 UTC",
+  "lastUpdated": "13 de noviembre de 2026 — 02:18 UTC",
   "ticker": [
+    "After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects",
+    "Albania’s PM says 2027 NATO summit will not be held in Tirana",
+    "Iran war live: Trump says Gulf allies urged pause in Iran strikes",
+    "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
+    "Russian court jails rights lawyer for 12 years on treason charge",
+    "Italy fight back to beat France 3-1 and move top of Nations League group",
     "Deadly shooting in Washington DC",
     "Microsoft outage hits tens of thousands of users",
     "Pope Leo calls for Church to make ‘amends’ to sex abuse victims",
@@ -9,13 +15,7 @@
     "Qatar Under-17 World Cup is on despite US pull out",
     "Regional security dominates European talks in Dublin amid hybrid attacks",
     "Democrats gather in Denver to debate party’s future after US midterm wins",
-    "Palestinian baby dies from cold in Gaza amid Israeli restrictions on aid",
-    "US nonprofits sue tech giants to halt AI development",
-    "Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?",
-    "Iranian men guilty of spying on British journalists",
-    "Senegal’s wrestlers turn tradition into gold at Dakar Youth Olympics",
-    "UK mosque rebukes comission’s ‘warning’ following Palestine comments",
-    "Pro-Palestine philanthropist faces US extradition hearing in Spain"
+    "Palestinian baby dies from cold in Gaza amid Israeli restrictions on aid"
   ],
   "sections": [
     {
@@ -63,6 +63,18 @@
           "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
+        },
+        {
+          "event": "Will the Democratic Party candidate win the 2026 NJ-03 House election by 0%-5%?",
+          "odds": "+1198",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will a Democratic Party candidate win the 2026 CA-28 House election by 5%-15%?",
+          "odds": "+1860",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
         }
       ]
     },
@@ -71,14 +83,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will Evanilson score the most goals in the 2026-27 UEFA Europa League?",
-          "odds": "+2172",
+          "event": "Will Connor Bedard record 30+ goals in the 2026-27 regular season?",
+          "odds": "+112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will Connor Bedard record 30+ goals in the 2026-27 regular season?",
-          "odds": "+112",
+          "event": "Will the next Fable model (5.2+) debut in the top 5 of the Text Arena leaderboard by June 30, 2027?",
+          "odds": "-300",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -95,14 +107,14 @@
           "moved": "none"
         },
         {
-          "event": "SpaceXAI announces a full training pause in 2026?",
-          "odds": "+1899",
+          "event": "Vance's Republican nomination odds hit 45% by December 31?",
+          "odds": "+1150",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Exact Score: San Marino 0 - 4 Belarus?",
-          "odds": "+733",
+          "event": "Will the highest temperature in Toronto be 7°C on November 12?",
+          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -113,8 +125,8 @@
           "moved": "none"
         },
         {
-          "event": "ICC Women's Emerging Nations Trophy T20s: Scotland Women vs Sri Lanka Women",
-          "odds": "+222",
+          "event": "Will Vietnam come in 3rd place at Eurovision Asia 2026?",
+          "odds": "+809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
