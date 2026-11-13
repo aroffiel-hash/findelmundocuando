@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "13 de noviembre de 2026 — 02:18 UTC",
+  "lastUpdated": "13 de noviembre de 2026 — 10:25 UTC",
   "ticker": [
-    "After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects",
-    "Albania’s PM says 2027 NATO summit will not be held in Tirana",
-    "Iran war live: Trump says Gulf allies urged pause in Iran strikes",
-    "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
-    "Russian court jails rights lawyer for 12 years on treason charge",
-    "Italy fight back to beat France 3-1 and move top of Nations League group",
-    "Deadly shooting in Washington DC",
-    "Microsoft outage hits tens of thousands of users",
-    "Pope Leo calls for Church to make ‘amends’ to sex abuse victims",
-    "US releases report on $12bn from Venezuelan oil, mineral resources",
-    "What’s at stake in the renewed tensions over the Falkland Islands?",
-    "Qatar Under-17 World Cup is on despite US pull out",
-    "Regional security dominates European talks in Dublin amid hybrid attacks",
-    "Democrats gather in Denver to debate party’s future after US midterm wins",
-    "Palestinian baby dies from cold in Gaza amid Israeli restrictions on aid"
+    "With every rainfall, Gaza risks losing access to power and healthcare",
+    "Microsoft hit by global outages: What happened and why?",
+    "Pope Leo XIV warns on pressures facing modern families",
+    "Who gets to tell the world’s news?",
+    "Nvidia’s Huang, Lutnick summoned to testify to US Senate",
+    "Washington residents hold vigil after deadly shooting",
+    "Australia’s friendly against Jordan moved to Qatar over security concerns",
+    "NBA: Cunningham scores 52 as Pistons win double OT thriller against Wizards",
+    "The real winner in Poland’s constitutional battle is Putin",
+    "The Gulf must build security that can outlast this war",
+    "Jessica Pegula wins thrilling contest at WTA Finals, Coco Gauff eliminated",
+    "US reports record number of deportations and arrests in 2026",
+    "Australia captain Pat Cummins denies involvement in ‘Sandpapergate’ scandal",
+    "Harry Kane breaks caps record as England reach Nations League knockouts",
+    "Burkina Faso’s rival armed groups turn on each other as state loses ground"
   ],
   "sections": [
     {
@@ -37,24 +37,18 @@
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
-      "rows": [
-        {
-          "event": "Will the 5-year Treasury yield dip below 4.59% in November?",
-          "odds": "+1011",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
           "event": "Will the Democratic Party candidate win the 2026 ME-01 House election by 20%-25%?",
           "odds": "+1328",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Lin Kuo-chang win the next Yilan County Magistrate election?",
+          "odds": "-524",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -89,32 +83,20 @@
           "moved": "none"
         },
         {
-          "event": "Will the next Fable model (5.2+) debut in the top 5 of the Text Arena leaderboard by June 30, 2027?",
-          "odds": "-300",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Tyson Foods (TSN) beat quarterly earnings?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Malta win 2026-27 Nations League Group D1?",
           "odds": "-809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Vance's Republican nomination odds hit 45% by December 31?",
-          "odds": "+1150",
+          "event": "Will Export-control chip security become law this year?",
+          "odds": "-156",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Toronto be 7°C on November 12?",
-          "odds": "+1328",
+          "event": "Will the highest temperature in Buenos Aires be 31°C on November 13?",
+          "odds": "+3233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -125,8 +107,20 @@
           "moved": "none"
         },
         {
-          "event": "Will Vietnam come in 3rd place at Eurovision Asia 2026?",
-          "odds": "+809",
+          "event": "W15 São Carlos: Barbara Gatica vs Lan Mi",
+          "odds": "-354",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will edgeX dip to $0.20 before 2027?",
+          "odds": "+185",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Donald Trump publicly insult someone on November 6, 2026?",
+          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
