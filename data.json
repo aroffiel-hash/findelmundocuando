@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "13 de noviembre de 2026 — 10:25 UTC",
+  "lastUpdated": "13 de noviembre de 2026 — 18:19 UTC",
   "ticker": [
-    "With every rainfall, Gaza risks losing access to power and healthcare",
-    "Microsoft hit by global outages: What happened and why?",
-    "Pope Leo XIV warns on pressures facing modern families",
-    "Who gets to tell the world’s news?",
-    "Nvidia’s Huang, Lutnick summoned to testify to US Senate",
-    "Washington residents hold vigil after deadly shooting",
-    "Australia’s friendly against Jordan moved to Qatar over security concerns",
-    "NBA: Cunningham scores 52 as Pistons win double OT thriller against Wizards",
-    "The real winner in Poland’s constitutional battle is Putin",
-    "The Gulf must build security that can outlast this war",
-    "Jessica Pegula wins thrilling contest at WTA Finals, Coco Gauff eliminated",
-    "US reports record number of deportations and arrests in 2026",
-    "Australia captain Pat Cummins denies involvement in ‘Sandpapergate’ scandal",
-    "Harry Kane breaks caps record as England reach Nations League knockouts",
-    "Burkina Faso’s rival armed groups turn on each other as state loses ground"
+    "The fight over Canadian steelworker jobs",
+    "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser",
+    "Jerusalem Daily: Baby dies from cold in Gaza",
+    "Sixth victim confirmed in DC condo-related shooting in US, police say",
+    "US Treasury warns against rate hikes during US-Iran war energy ‘shock’",
+    "Truck and bus crash in India’s Assam state kills at least 24 people",
+    "Turkiye and Qatar sign mutual defence agreement",
+    "Europe seeks seat at Ukraine peace talks but lacks unified voice",
+    "Will Democrats try to strip US-Israel initiative from Pentagon funding?",
+    "Portugal vs Denmark: UEFA Nations League – predictions, how to watch, teams",
+    "Can Netanyahu launch a strike on Iran before he leaves?",
+    "Ukraine claims record 3,000 Russian casualties in one day as war drags on",
+    "China warns against fresh US chip curbs",
+    "Nvidia scandal: What’s next for the US tech company?",
+    "UK accused of ‘silencing’ pro-Palestine voices through entry bans"
   ],
   "sections": [
     {
@@ -29,8 +29,20 @@
           "moved": "none"
         },
         {
-          "event": "Saudi Arabia vs. Korea Republic: Korea Republic O/U 1.5",
-          "odds": "+132",
+          "event": "US x Yemen ceasefire continues through December 31?",
+          "odds": "-566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Will WTI Crude Oil (WTI) hit (HIGH) $100 in November?",
+          "odds": "+284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -40,6 +52,24 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
+        {
+          "event": "Will Rand Paul be the 2028 Republican Vice-Presidential nominee?",
+          "odds": "+1308",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Republican Party candidate win the 2026 OR-02 House election by 30%-35%?",
+          "odds": "+1685",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Trump's approval rating be between 38.5 and 38.9 on November 13, 2026?",
+          "odds": "-809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the Democratic Party candidate win the 2026 ME-01 House election by 20%-25%?",
           "odds": "+1328",
@@ -63,12 +93,6 @@
           "odds": "+1198",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will a Democratic Party candidate win the 2026 CA-28 House election by 5%-15%?",
-          "odds": "+1860",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -83,32 +107,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Malta win 2026-27 Nations League Group D1?",
-          "odds": "-809",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Export-control chip security become law this year?",
-          "odds": "-156",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Buenos Aires be 31°C on November 13?",
-          "odds": "+3233",
+          "event": "Rostock Seawolves vs. SC RASTA Vechta",
+          "odds": "-316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will the ACC conference win the 2026-27 College Football Playoff National Championship?",
           "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "W15 São Carlos: Barbara Gatica vs Lan Mi",
-          "odds": "-354",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -121,6 +127,24 @@
         {
           "event": "Will Donald Trump publicly insult someone on November 6, 2026?",
           "odds": "+614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Anthropic be the second-best AI lab at the end of November 2026?",
+          "odds": "-203",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Lovable be acquired before 2027?",
+          "odds": "+2172",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Spider-Man: Brand New Day be the top grossing movie of 2026?",
+          "odds": "-809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
