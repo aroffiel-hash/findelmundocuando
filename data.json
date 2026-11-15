@@ -1,27 +1,33 @@
 {
-  "lastUpdated": "15 de noviembre de 2026 — 04:17 UTC",
+  "lastUpdated": "15 de noviembre de 2026 — 12:25 UTC",
   "ticker": [
-    "Monkey attacks woman inside residential complex in India",
-    "Italian artist reimagines Madonna paintings to expose Gaza’s pain",
-    "Saudi-led coalition intercepts two missiles, two drones in Riyadh",
-    "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
-    "Netanyahu sends plea to Eisenkot for unity government",
-    "Thailand’s elderly kept in cages",
-    "SpaceX’s Starship nails a smooth return with historic catch",
-    "Israeli air strike kills senior Hamas commander in Gaza",
-    "Hundreds of men march in Switzerland to protest violence against women",
-    "SpaceX’s Starship captured by launchpad arms in dramatic first",
-    "Iran war live: Saudi-led coalition strikes down 3 drones in as many hours",
-    "Portugal immortalises Ronaldo with a new number 7",
-    "Iraq PM targets powerful militia stronghold in $30m oil smuggling probe",
-    "Netanyahu says only a unity government can guarantee Israel’s security",
-    "Explosion near Syria’s capital kills father and child"
+    "Athletes rewrite the rules as Dakar 2026 Youth Olympics come to an end",
+    "MMA fighters jailed after Abu Dhabi hotel lobby brawl",
+    "Police confront protesters in clashes across France and Germany",
+    "Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia?",
+    "India’s Under-19 Asia Cup win over Pakistan marred by post-match aggression",
+    "Spain football coach denies racism ahead of England match",
+    "Polls open in Cape Verde in race with first female presidential candidate",
+    "Drone attacks on power stations plunge Sudan’s cities into darkness",
+    "Protesters condemn US policies as ASEAN summit begins in Manila",
+    "Iran says it targets US radar in Bahrain. What do we know?",
+    "What forced the US to ground all planes? A router switch, we now know",
+    "India pulled 500m people out of poverty. Many of them still barely survive",
+    "Thousands in Portugal protest against surging rental prices",
+    "De la Fuente denies racism in Spain despite Yamal, Vinicius avowals",
+    "Jordan sentences three men to death by hanging after deadly church attack"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Military action against King Khalid International Airport (RUH) by November 30?",
+          "odds": "+257",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
           "odds": "+669",
@@ -35,8 +41,8 @@
           "moved": "none"
         },
         {
-          "event": "Will total votes cast in the 2026 midterm election for Senator from Rhode Island be between 350,000 and 400,000?",
-          "odds": "-1899",
+          "event": "Will BYD be removed from Chinese Military Companies list by June 30, 2027?",
+          "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -59,8 +65,8 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Lin Kuo-chang win the next Yilan County Magistrate election?",
-          "odds": "-669",
+          "event": "Will Jean Lassalle be on the ballot for the 2027 French presidential election?",
+          "odds": "+112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -95,8 +101,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Jean Lassalle be on the ballot for the 2027 French presidential election?",
-          "odds": "+104",
+          "event": "Will the Democratic Party candidate win the 2026 NJ-03 House election by 0%-5%?",
+          "odds": "+1198",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -113,14 +119,32 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Madrid be 13°C on November 15?",
-          "odds": "+356",
+          "event": "Will NVIDIA say \"Tim Cook / Apple\" during earnings call?",
+          "odds": "+809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Shenzhen be 28°C on November 16?",
-          "odds": "+222",
+          "event": "Will the highest temperature in Beijing be 11°C on November 17?",
+          "odds": "+3233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Daniil Medvedev",
+          "odds": "-244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Paris be 15°C on November 15?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will CD Teruel win on 2026-11-15?",
+          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -131,26 +155,8 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in London be 11°C on November 16?",
-          "odds": "+1594",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will FURIA Win the BLAST Rivals Hong Kong 2026?",
-          "odds": "+138",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the ACC conference win the 2026-27 College Football Playoff National Championship?",
           "odds": "+733",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will OpenAI's valuation hit (HIGH) $1.45T by December 31?",
-          "odds": "+488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
