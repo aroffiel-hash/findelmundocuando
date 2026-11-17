@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "17 de noviembre de 2026 — 16:36 UTC",
+  "lastUpdated": "17 de noviembre de 2026 — 23:42 UTC",
   "ticker": [
-    "Election-winning student movement enters Serbia’s new parliament",
-    "US officially loses measles-free status after 26 years amid outbreak",
-    "Trump announces critical minerals agreements at Quad meeting in Manila",
-    "Jerusalem Daily: Deadly settler pogroms persist",
-    "Serbian actress and former MP doused with yoghurt outside parliament",
-    "Houthi advance on Aden may spur resurgence of Yemen’s southern separatists",
-    "Trump warns Iran over reported ‘dirty bomb’ threat plans against Washington",
-    "Is Iran plotting a ‘dirty bomb’ attack in the US? What we know",
-    "US senators demand FAA pause upgrades linked to nationwide ground stop",
-    "Bessent vs Lutnick: Who is winning the China chip debate?",
-    "Ghost Towns of Afghanistan: The Environmental Toll of Decades of War",
-    "UK sanctions eight Israeli construction firms over West Bank settlements",
-    "Rep. Thomas Massie Forces a New Fight for Epstein Survivors",
-    "‘Unprecedented’ Ukraine attack on Crimean bridge",
-    "At the origin of France’s education protests, students refuse to give up"
+    "Haitians protest in support of El Salvador’s anti-gang troop deployment",
+    "Russian military plane crash in Siberia kills 19",
+    "US Fed’s Lisa Cook refuses to attend White House hearing",
+    "UK hands NATO-assigned US soldier accused of Russia spying to US military",
+    "UK sanctions Israeli settlement firms to protect two-state solution",
+    "‘Zero transparency’: Inside Trump’s plans for Venezuela’s oil money",
+    "Moment Russian military plane crashes in Siberia, killing 19",
+    "Whistleblower: Deadly drone strike in Kuwait could’ve been avoided",
+    "US Navy chief says Iran war has put ‘strain’ on maritime forces",
+    "What’s behind the ANC’s decline in South Africa?",
+    "Tensions rise over draft climate deal at COP31",
+    "Kalshi halts Trump speech bets after CFTC order",
+    "Police charge crowds at Brussels student march",
+    "China, Canada expand tariff relief after Carney-Xi meeting",
+    "India’s footballers celebrate SAFF final win against Pakistan"
   ],
   "sections": [
     {
@@ -89,6 +89,12 @@
           "moved": "none"
         },
         {
+          "event": "Will PSOE receive between 24% and 26% of the vote in the 2026 Spanish general election?",
+          "odds": "+809",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Gintautas Kindurys win the 2026 Northern Nalšia district by-election?",
           "odds": "-270",
           "params": "Fuente: Polymarket",
@@ -99,12 +105,6 @@
           "odds": "+1198",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will a Democratic Party candidate win the 2026 CA-28 House election by 5%-15%?",
-          "odds": "+1860",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -113,32 +113,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Knicks vs. Raptors",
-          "odds": "-138",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Connor Bedard record 30+ goals in the 2026-27 regular season?",
           "odds": "+112",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Indonesia vs. Kuwait: Both Teams to Score",
-          "odds": "-104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the highest temperature in Dallas be between 70-71°F on November 18?",
-          "odds": "+138",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Iman Vellani as Ms. Marvel?",
-          "odds": "-376",
+          "event": "Will NAC Breda win on 2026-11-20?",
+          "odds": "+117",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -149,14 +131,32 @@
           "moved": "none"
         },
         {
-          "event": "Exact Score: Denmark 2 - 0 Norway?",
-          "odds": "+2122",
+          "event": "Seattle Redhawks vs. California Baptist Lancers",
+          "odds": "-316",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Shanghai be 15°C on November 18?",
-          "odds": "-138",
+          "event": "W15 Antalya: Sophie Luescher vs Ilay Yoruk",
+          "odds": "+117",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Wuhan be 17°C on November 19?",
+          "odds": "+2531",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Colina: Guiomar Maristany vs Sofia Costoulas",
+          "odds": "-233",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will edgeX dip to $0.20 before 2027?",
+          "odds": "+185",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
