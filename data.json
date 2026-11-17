@@ -1,33 +1,27 @@
 {
-  "lastUpdated": "16 de noviembre de 2026 — 23:09 UTC",
+  "lastUpdated": "17 de noviembre de 2026 — 06:00 UTC",
   "ticker": [
-    "US Pentagon rejects allegations linking deputy to a Goldman Sachs banker",
-    "Germany thrash Netherlands to book quarterfinal spot",
-    "California files lawsuit against OpenAI alleging lack of proper safeguards",
-    "Mamdani to disband NYPD unit deployed at Columbia protests",
-    "Sudanese army air attack kills 13 in western Sudan: Rights group",
-    "Manchester United’s Endless Loop",
-    "Photos: California residents gather to watch massive El Nino-fuelled waves",
-    "London Palestine Film Festival returns for 27th year",
-    "UEFA backs Diallo to challenge Infantino for FIFA presidency",
-    "What will Europe do next in Ukraine?",
-    "Nationwide ground stop could cost US airlines hundreds of millions",
-    "Israeli opposition accuses Netanyahu of attempted ‘coup’",
-    "Five EU countries announce plan to send rejected asylum seekers to Rwanda",
-    "Saudi Arabia dismisses commander of coalition forces fighting Houthis",
-    "Thousands report difficulties accessing accounts online at major US banks"
+    "Stories of survival and pain: Children amid Israel’s war on south Lebanon",
+    "Leonid meteor shower 2026: When and where to see it from where you live",
+    "US bank outage: What caused Chase problems and Zelle payment delays?",
+    "The Red Crabs of Christmas Island",
+    "Gunfire erupts in occupied West Bank settler attack",
+    "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
+    "US moves to block China’s remote access to AI chips amid Nvidia scandal",
+    "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
+    "Irish court jails man for life over Dublin knife attack that sparked riots",
+    "EU countries announce migrant deportation centre in Rwanda",
+    "Ukraine holds peace talks with US, Europe as conflict escalates",
+    "UK seeks closer ties with EU after Brexit fail",
+    "Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens",
+    "Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’",
+    "Paraguay ex-president moved to military jail amid special treatment reports"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
-        {
-          "event": "Will Russia capture Rai-Oleksandrivka by December 31?",
-          "odds": "-108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
           "odds": "+669",
@@ -52,12 +46,6 @@
       "flag": "💰",
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
-        {
-          "event": "M25 Monastir: Mirko Lagasio vs Yannis Batsabaken",
-          "odds": "-163",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
         {
           "event": "Will the 30-year Treasury yield dip below 5.14% in November?",
           "odds": "+2400",
@@ -101,6 +89,12 @@
           "moved": "none"
         },
         {
+          "event": "Spain General Election: SALF wins a seat?",
+          "odds": "+376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will the Republican Party candidate win the 2026 OH-04 House election by 45%-50%?",
           "odds": "+3233",
           "params": "Fuente: Polymarket",
@@ -109,12 +103,6 @@
         {
           "event": "Will the Democratic Party candidate win the 2026 NJ-03 House election by 0%-5%?",
           "odds": "+1198",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will a Democratic Party candidate win the 2026 CA-28 House election by 5%-15%?",
-          "odds": "+1860",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -131,8 +119,8 @@
           "moved": "none"
         },
         {
-          "event": "Will the lowest temperature in London be 4°C on November 16?",
-          "odds": "+270",
+          "event": "Will Club Alianza Atlético win on 2026-11-18?",
+          "odds": "+143",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -143,8 +131,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Widow’s Bay win Best Television Series – Comedy or Musical at the 84th Golden Globes?",
-          "odds": "-354",
+          "event": "Counter-Strike: QUINTESSÊNCIA vs underw0rld (BO3) - CCT South America Challengers #4 Playoffs",
+          "odds": "-334",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -167,8 +155,8 @@
           "moved": "none"
         },
         {
-          "event": "M25 Vale do Lobo: Francisco Rocha vs Hugo Maia",
-          "odds": "-733",
+          "event": "Will Moonshot be the #3 AI Lab at the end of December 2026 (Style Control On)?",
+          "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
