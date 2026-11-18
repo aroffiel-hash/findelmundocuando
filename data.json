@@ -1,27 +1,39 @@
 {
-  "lastUpdated": "18 de noviembre de 2026 — 14:55 UTC",
+  "lastUpdated": "18 de noviembre de 2026 — 22:27 UTC",
   "ticker": [
-    "Can the US and Iran sustain a ‘frozen war’?",
-    "What’s holding South Africa’s economy back?",
-    "Mada Masr’s Lina Attalah due to appear before court in Egypt",
-    "What is the ‘endgame’ in Syria, as Israeli rivals look for new government?",
-    "How the US House of Representatives chooses its leaders: A visual guide",
-    "GTA 6: Everything you need to know about the highly anticipated game",
-    "How data centres are turning AI-generated heat into energy",
-    "Ukraine mourns mother, athlete and drone operator killed in Russian strike",
-    "Rwanda and DRC: What is holding up the Washington peace process?",
-    "ICJ to rule on Rohingya genocide case: What to expect",
-    "Palestinians find refuge in ancient caves after Israel demolishes homes",
-    "‘Partnership buys silence’: Fears grow over EU-Rwanda deportation plans",
-    "Saudi coalition hits 60 Houthi military sites; Taiz sees ‘fierce battles’",
-    "Cameron Bancroft claims entire Australian team knew about ‘Sandpapergate’",
-    "Who would gain from carving up Pakistan’s provinces?"
+    "Iraq sentences six French nationals to life in prison for joining ISIL",
+    "US lawmakers push to raise minimum wage to $25, end tipped pay system",
+    "Floodwaters submerge cars and parking lots in Florida town",
+    "US Defence Secretary Hegseth reveals military partnership on Venezuela trip",
+    "What does Israel’s new ground offensive mean for Palestinians in Gaza?",
+    "Pew Research: Islam on track to become world’s largest religion by 2035",
+    "Putin’s nuclear briefcase makes surprise appearance at China summit",
+    "Muslims projected to overtake Christians as world’s largest religious group",
+    "US loses measles-free status after 26 years in historic setback",
+    "US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal",
+    "Trump and Putin to meet one-on-one in China Thursday",
+    "Heated debate escalates into on-air fight on Armenian TV",
+    "Four killed as Russian strikes hit Ukraine’s Odesa",
+    "Voyager 1 reaches one light-day from Earth after 49 years in space",
+    "Israeli settler kills Palestinian grandmother in occupied West Bank"
   ],
   "sections": [
     {
       "flag": "🌍",
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
+        {
+          "event": "Will Ukraine re-enter Zakitne by December 31, 2026?",
+          "odds": "+488",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Next Russia-Ukraine-EU Trilateral Diplomatic Meeting by December 31, 2026?",
+          "odds": "+149",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
           "odds": "+669",
@@ -35,8 +47,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Iran target Egypt by December 31, 2026?",
-          "odds": "+1438",
+          "event": "Will Pokémon Champions win Best Mobile Game at the 2026 Game Awards?",
+          "odds": "+2400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the Bank of Russia make no change to the key rate at the March meeting?",
+          "odds": "-284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -93,12 +111,6 @@
           "odds": "+1860",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Will the Republicans win Kansas in the 2028 Presidential Election?",
-          "odds": "-426",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -107,8 +119,14 @@
       "label": "ESCENARIOS GLOBALES",
       "rows": [
         {
-          "event": "Will the D66–VVD–CDA Dutch coalition break in 2026?",
-          "odds": "+733",
+          "event": "Will Alphabet Inc. (GOOGL) hit (HIGH) $290 Week of November 16 2026?",
+          "odds": "-143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Air Force Falcons advance to the 2026 Mountain West Championship Game?",
+          "odds": "+900",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -119,8 +137,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Al Ahli Doha SC win on 2026-11-19?",
-          "odds": "+203",
+          "event": "Vermont Catamounts vs. Yale Bulldogs",
+          "odds": "+257",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -131,26 +149,20 @@
           "moved": "none"
         },
         {
+          "event": "Will Jensen Huang be TIME Person of the Year 2026?",
+          "odds": "+1594",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the lowest temperature in New York City be between 48-49°F on November 19?",
+          "odds": "+142",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Alex Pretti rank in Google’s Top 5 Most Searched Passings in the US of 2026?",
           "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Javokhir Sindarov win the 2026 World Chess Championship?",
-          "odds": "-316",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Jensen Huang not be named NVIDIA's next CEO and Nvidia's market cap be above $4T at the end of 2026?",
-          "odds": "+104",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the ACC conference win the 2026-27 College Football Playoff National Championship?",
-          "odds": "+733",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
