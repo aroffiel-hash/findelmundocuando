@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "19 de noviembre de 2026 — 21:07 UTC",
+  "lastUpdated": "20 de noviembre de 2026 — 02:46 UTC",
   "ticker": [
+    "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
+    "Democrats say law firm gave $11.8m in free services to Trump administration",
+    "‘Completely messed up everything’: Malawi’s fuel crisis causes chaos",
+    "Haiti police say 34 gang members killed in capital raid",
+    "El Salvador’s Bukele expected to formalise bid for third presidential term",
+    "Four bodies recovered after Senegal boat capsizes amid migration surge",
+    "Iran war live: Houthis escalate attacks on Saudi capital",
+    "Six killed in suspected gas explosion at Georgia apartment building",
+    "Mosque torched in Israel sparks political backlash against Netanyahu",
+    "US signed off on sales of nearly 900,000 AI chips to China in six months",
+    "Haiti police say at least 34 suspected gang members killed in raid",
+    "US appeals court lets Trump end TPS deportation protections for Venezuelans",
+    "Ten killed in Pakistan as bus crashes into gas tanker",
     "Three arrested during Anthropic IPO protest outside Nasdaq",
-    "Jerusalem Daily: Israel launches ground offensive in Gaza",
-    "Rohingya genocide survivor: ‘perpetrators will have to face consequences’",
-    "Why are Bukele’s Salvadoran troops in Haiti and what have they achieved?",
-    "Will the Shenzhen summit safeguard world peace?",
-    "How vaccine fears fuelled a major measles comeback in the US",
-    "Trump’s case against NYT and Penguin Random House may proceed: Judge",
-    "Senate Republicans in US reject measure to limit Trump’s war powers in Iran",
-    "What does the Myanmar genocide ruling mean for the Rohingya?",
-    "‘On the same page’: Hegseth hails US ties with Colombia’s de la Espriella",
-    "European leaders unite in Berlin to reaffirm support for Ukraine",
-    "Photos: Genocide ruling spotlights human toll of 2017 Rohingya crisis",
-    "Blockbuster GTA VI release shows cultural, economic heft of video games",
-    "Save the Children: Gaza’s children face ‘unmatched dangers’",
-    "World reacts to ICJ finding Myanmar guilty of genocide against Rohingya"
+    "Jerusalem Daily: Israel launches ground offensive in Gaza"
   ],
   "sections": [
     {
@@ -25,6 +25,12 @@
         {
           "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
           "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the highest temperature in Warsaw be 3°C on November 21?",
+          "odds": "+177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -49,18 +55,6 @@
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
-      "rows": [
-        {
-          "event": "Will the 30-year Treasury yield dip below 5.14% in November?",
-          "odds": "+2400",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
@@ -77,8 +71,8 @@
           "moved": "none"
         },
         {
-          "event": "Will there be between 120m and 125m votes cast in the 2026 U.S. House of Representatives midterm elections?",
-          "odds": "-155",
+          "event": "Will PP win the most seats in Santa Cruz de Tenerife in the 2026 Spanish general election?",
+          "odds": "+132",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -143,8 +137,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Cheltenham Town FC win on 2026-11-21?",
-          "odds": "+222",
+          "event": "Will AD Cali vs. Millonarios FC end in a draw?",
+          "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
