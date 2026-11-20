@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "20 de noviembre de 2026 — 10:48 UTC",
+  "lastUpdated": "20 de noviembre de 2026 — 18:55 UTC",
   "ticker": [
-    "Searching for the next Messi at the Under-17 World Cup",
-    "Russia unleashes retaliatory barrage on Kyiv bridges",
-    "Kenya’s growing doping crisis overshadows legacy as athletics powerhouse",
-    "Pakistan minister visits India for first time since 2025 war",
-    "Russia’s day-long attack on Kyiv damages embassies",
-    "El Salvador’s Bukele seeks third term after constitution change",
-    "US robbery suspects charged over alleged $22M train heist spree",
-    "Islam set to be the largest religion by 2035: Where will most Muslims live?",
-    "Lionel Messi of Inter Miami tops Major League Soccer salaries",
-    "The Gambia stood up for the Rohingya, now the world must act",
-    "EU and Britain to agree steps towards relations reset",
-    "Sandpapergate: Australian gov’t demands CA to ensure transparency in forum",
-    "‘We don’t want our future decided by the military’: Young Germans protest",
-    "Tashima says Balogun red card row at World Cup prompted FIFA presidency bid",
-    "US maritime agency warned Iran blockade was adding to rising Gulf premiums"
+    "Ukraine strikes Kerch Bridge as Putin ally declares ‘no one needs Europe’",
+    "Zohran Mamdani unveils plan to close New York’s Rikers Island jail by 2032",
+    "US tech sell-off continues as Anthropic tumbles after mega IPO",
+    "Protests held across Europe over wages, services, high living costs",
+    "Qatar’s emir calls for diplomacy to end regional conflicts",
+    "Top US Democrat warns Trump admin against destroying records",
+    "UK far-right activist ‘Danny Tommo’ jailed for slashing migrant boat",
+    "10 years after divisive Brexit referendum, UK weighs a ‘Breturn’ to the EU",
+    "Qatar and Germany deepen strategic ties during emir’s Berlin visit",
+    "US Senate passes bill to speed up energy project approvals",
+    "‘Expel invaders’: The dangerous promises of Spain’s far-right Vox party",
+    "One third of attacks on children worldwide recorded in Palestine",
+    "Kansas hosts become guests as Algeria repays World Cup welcome",
+    "Jerusalem Daily: Palestinians return home to ruins",
+    "Poland condemns Russian ‘provocation’ after airspace violations"
   ],
   "sections": [
     {
@@ -43,21 +43,21 @@
       ]
     },
     {
-      "flag": "💰",
-      "label": "ECONOMÍA Y RECURSOS",
-      "rows": [
-        {
-          "event": "S&P 500 (SPY) closes above $715 on November 20?",
-          "odds": "+108",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        }
-      ]
-    },
-    {
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
+        {
+          "event": "Will PSOE win the most seats in Cádiz in the 2026 Spanish general election?",
+          "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Chuck Schumer be the next Senate Majority Leader?",
+          "odds": "-1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the Republican Party candidate win the 2026 OR-02 House election by 30%-35%?",
           "odds": "+1685",
@@ -77,8 +77,8 @@
           "moved": "none"
         },
         {
-          "event": "Will a Democratic Party candidate win the 2026 CA-28 House election by 5%-15%?",
-          "odds": "+1860",
+          "event": "Will Gretchen Whitmer announce a Presidential run before 2028?",
+          "odds": "-117",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -91,6 +91,12 @@
         {
           "event": "Will Marques Brownlee shave his head by March 31, 2027?",
           "odds": "+244",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will NVIDIA (NVDA) finish week of November 16 above $175?",
+          "odds": "+455",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -113,8 +119,8 @@
           "moved": "none"
         },
         {
-          "event": "Counter-Strike: EYEBALLERS vs STATE - Map 2 Winner",
-          "odds": "-156",
+          "event": "Will the highest temperature in Wuhan be 19°C on November 22?",
+          "odds": "+809",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -125,14 +131,8 @@
           "moved": "none"
         },
         {
-          "event": "Will Alex Pretti rank in Google’s Top 5 Most Searched Passings in the US of 2026?",
-          "odds": "+1328",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will AD Cali vs. Millonarios FC end in a draw?",
-          "odds": "+233",
+          "event": "Will West Ham United FC vs. Preston North End FC end in a draw?",
+          "odds": "+669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
