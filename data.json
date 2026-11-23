@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "23 de noviembre de 2026 — 05:10 UTC",
+  "lastUpdated": "23 de noviembre de 2026 — 17:03 UTC",
   "ticker": [
-    "Child rescued in Ukraine after Russian drone attack kills 10",
-    "Pochettino’s nightmare start as Man U thrashed by Liverpool",
-    "Don Toliver concert chaos after ‘substance’ let off in crowd",
-    "Belgium’s airports set to shut down due to anti-austerity strike",
-    "Indonesian police remove 24 body bags from factory fire site",
-    "US intelligence chief defends Trump’s comments calling Putin his ‘friend’",
-    "‘Extremely concerning’: Inside a US Army plan to detonate Iowa lead stores",
-    "Poland says Russia tried to assassinate Ukrainian rapper twice",
-    "Libya’s military says ‘fully prepared’ after Benghazi attacks",
-    "Israeli forces continue house demolitions in southern Lebanon",
-    "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
-    "Asian stock markets tumble as AI bubble fears mount",
-    "Cameroon’s ex-rebels caught between hiding and broken promises",
-    "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
-    "Mystery of the red stream in Turkiye"
+    "Why did COP31 climate talks collapse without a deal?",
+    "Israeli strikes kill at least three, including UNRWA worker, in Gaza",
+    "Gaza mourns UNRWA worker killed in Israeli strike",
+    "Russia warns Ukraine of ‘dangerous trend’ after Libya and Baltic attacks",
+    "Israeli soldiers assault Palestinian after raiding his home",
+    "Jensen Huang returns as NVIDIA CEO after intelligence scandal",
+    "Brazil coach mistaken for pitch invader, put in headlock",
+    "Police investigating bomb threats against schools in Germany and Denmark",
+    "Nvidia board reinstates Jensen Huang as CEO",
+    "Israeli restrictions cut off vital hearing aid supplies in Gaza",
+    "Anti-austerity strike spurs transport chaos across Belgium",
+    "COP31 has failed. The climate system is working as designed",
+    "Iran says it will use ‘all available means’ to counter US blockade",
+    "Argentina footballer Paredes collapses during post-match interview",
+    "How the US, China and Russia are competing for Africa’s mineral wealth"
   ],
   "sections": [
     {
@@ -35,14 +35,20 @@
           "moved": "none"
         },
         {
-          "event": "Will the next US-Iran senior diplomatic meeting take place in Pakistan by December 31, 2026?",
-          "odds": "+3233",
+          "event": "Will Iran target Kuwait by November 30, 2026?",
+          "odds": "+117",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will BYD be removed from Chinese Military Companies list by June 30, 2027?",
           "odds": "+1566",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Next US-Iran senior diplomatic meeting by December 31, 2026?",
+          "odds": "+488",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -53,8 +59,8 @@
       "label": "ECONOMÍA Y RECURSOS",
       "rows": [
         {
-          "event": "Will 1 Fed rate hike happen in 2026?",
-          "odds": "+1462",
+          "event": "Will S&P 500 (SPX) hit $6,200 (LOW) in December?",
+          "odds": "+769",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -64,6 +70,12 @@
       "flag": "🏛️",
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
+        {
+          "event": "Will Trump sign a bill from the new Congress by January 31?",
+          "odds": "-138",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will the Republican Party candidate win the 2026 OR-02 House election by 30%-35%?",
           "odds": "+1685",
@@ -113,6 +125,12 @@
           "moved": "none"
         },
         {
+          "event": "Will Microsoft Corporation (MSFT) hit (LOW) $465 in November?",
+          "odds": "+400",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will Alex Pretti rank in Google’s Top 5 Most Searched Passings in the US of 2026?",
           "odds": "+1328",
           "params": "Fuente: Polymarket",
@@ -125,26 +143,20 @@
           "moved": "none"
         },
         {
-          "event": "Will the highest temperature in Wellington be 18°C on November 24?",
-          "odds": "+754",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Google be the third-best Code Arena | WebDev AI lab at the end of November 2026?",
-          "odds": "+440",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Trump visit any pandas in 2026?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Xi'an Team WE make a roster change by December?",
           "odds": "-1899",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will Lovable be acquired before 2027?",
+          "odds": "+1062",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will the lowest temperature in Seoul (Incheon) be -3°C on November 25?",
+          "odds": "+270",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
