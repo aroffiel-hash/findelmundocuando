@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "23 de noviembre de 2026 — 17:03 UTC",
+  "lastUpdated": "24 de noviembre de 2026 — 03:41 UTC",
   "ticker": [
-    "Why did COP31 climate talks collapse without a deal?",
-    "Israeli strikes kill at least three, including UNRWA worker, in Gaza",
-    "Gaza mourns UNRWA worker killed in Israeli strike",
-    "Russia warns Ukraine of ‘dangerous trend’ after Libya and Baltic attacks",
-    "Israeli soldiers assault Palestinian after raiding his home",
-    "Jensen Huang returns as NVIDIA CEO after intelligence scandal",
-    "Brazil coach mistaken for pitch invader, put in headlock",
-    "Police investigating bomb threats against schools in Germany and Denmark",
-    "Nvidia board reinstates Jensen Huang as CEO",
-    "Israeli restrictions cut off vital hearing aid supplies in Gaza",
-    "Anti-austerity strike spurs transport chaos across Belgium",
-    "COP31 has failed. The climate system is working as designed",
-    "Iran says it will use ‘all available means’ to counter US blockade",
-    "Argentina footballer Paredes collapses during post-match interview",
-    "How the US, China and Russia are competing for Africa’s mineral wealth"
+    "Mexico to try ‘El Chapo Isidro’ despite US extradition request",
+    "Excavator threatens sacred alpine lake in the Himalayas",
+    "UN chief calls for world to agree on AI oversight within a year",
+    "Qatar PM looks to revive US-Iran talks after meeting Rubio",
+    "Appeals court renews Trump bid for federal jurisdiction in hush-money case",
+    "Israeli minister approves return of Flydubai flights to Tel Aviv",
+    "Bukele shares details on deaths of Salvadoran troops in Haiti intervention",
+    "US adds Megaspeed to trade blacklist after Nvidia spy scandal",
+    "What could Democrats do with their expanding congressional majority?",
+    "Turns out it wasn’t a lion afterall",
+    "Trump calls to ‘expedite’ US federal executions, blasts Gavin Newsom",
+    "Borno school enrolment nearly doubles after years of conflict",
+    "Iran war live: Iran says three ships catch fire after hitting Hormuz mines",
+    "Mamdani blasts AI-reliant stock market after Jensen Huang’s return",
+    "Drone attack on police base in Colombia injures three, including infant"
   ],
   "sections": [
     {
@@ -23,14 +23,20 @@
       "label": "GEOPOLÍTICA Y CONFLICTO",
       "rows": [
         {
+          "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
+          "odds": "+669",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will \"Wild Horse Nine\" be nominated for Best Casting at the 99th Academy Awards?",
           "odds": "-284",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will an international court find Israel or its leaders guilty of Genocide by December 31, 2027?",
-          "odds": "+669",
+          "event": "Arsenal FC vs. BV Borussia 09 Dortmund: BV Borussia 09 Dortmund 1st Half O/U 0.5",
+          "odds": "+233",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -45,12 +51,6 @@
           "odds": "+1566",
           "params": "Fuente: Polymarket",
           "moved": "none"
-        },
-        {
-          "event": "Next US-Iran senior diplomatic meeting by December 31, 2026?",
-          "odds": "+488",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
         }
       ]
     },
@@ -60,7 +60,7 @@
       "rows": [
         {
           "event": "Will S&P 500 (SPX) hit $6,200 (LOW) in December?",
-          "odds": "+769",
+          "odds": "+657",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -71,26 +71,8 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will Trump sign a bill from the new Congress by January 31?",
-          "odds": "-138",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will the Republican Party candidate win the 2026 OR-02 House election by 30%-35%?",
           "odds": "+1685",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will David Lisnard receive the most signatures from elected officials in the 2027 French presidential election?",
-          "odds": "+233",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Democratic Party candidate win the 2026 ME-01 House election by 20%-25%?",
-          "odds": "+1328",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -112,6 +94,12 @@
       "flag": "🌐",
       "label": "ESCENARIOS GLOBALES",
       "rows": [
+        {
+          "event": "Will the average Ornn B300 rental price in December 2028 be above $2.00?",
+          "odds": "-614",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
         {
           "event": "Will Peterborough United FC win on 2026-11-28?",
           "odds": "+163",
@@ -143,20 +131,14 @@
           "moved": "none"
         },
         {
-          "event": "Will Xi'an Team WE make a roster change by December?",
-          "odds": "-1899",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Will Lovable be acquired before 2027?",
-          "odds": "+1062",
+          "odds": "+1940",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
-          "event": "Will the lowest temperature in Seoul (Incheon) be -3°C on November 25?",
-          "odds": "+270",
+          "event": "Will the highest temperature in Milan be 8°C on November 24?",
+          "odds": "+589",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
