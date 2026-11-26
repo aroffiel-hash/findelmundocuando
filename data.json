@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "25 de noviembre de 2026 — 17:44 UTC",
+  "lastUpdated": "26 de noviembre de 2026 — 01:25 UTC",
   "ticker": [
-    "Maduro turns 64 behind bars, son leads celebrations in Caracas",
-    "Sporting Lisbon vs Manchester United LIVE: UEFA Champions League",
-    "Djibouti: The Man Who Dared",
-    "Switzerland forced to close office in North Korea over sanctions feud",
-    "Colombian forces rescue all hostages after supermarket siege",
-    "Why are school shootings continuing to shake the Balkans?",
-    "Why did Israel arrest human rights defender Ghassan Al Najjar?",
-    "US Army detonates nearly five tonnes of toxic explosives in Iowa",
-    "Jerusalem Daily: Israel kills Hamas’s Gaza security chief",
-    "Senegal deny Morocco’s allegations of ‘contact’ with CAS amid AFCON row",
-    "South Africa court repeals ‘farmgate’ impeachment threat against Ramaphosa",
-    "Kilmar Abrego Garcia, wrongfully deported from US, arrives in Spain",
-    "Activist confronts ex-Mossad chief over 2024 Lebanon pager attacks",
-    "US Army detonates toxic lead explosives in Iowa amid health concerns",
-    "Trump announces new trade tariffs: Which countries are affected?"
+    "Judges recommend prosecutors end corruption case against Netanyahu",
+    "Storms push Macy’s Thanksgiving Day Parade in New York City to Saturday",
+    "ISIL blamed for multiple suicide attacks in Syria",
+    "Two Syrian security personnel killed in ISIL suicide attack",
+    "Zambia bans protest against push to remove presidential term limits",
+    "A meeting with Democrats over healthcare? Trump says he’s open to it",
+    "Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh",
+    "Houthis target Saudi Arabia’s Red Sea ports as strikes escalate",
+    "King tides and big waves batter coastal California",
+    "Deadly truck fire is latest of Egypt’s transport disasters",
+    "Malen and Roma deny injury-hit PSG in Champions League draw",
+    "Man United denied at Sporting as referee overshadows Fernandes double",
+    "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
+    "US Education Department probes Virginia schools after sexual abuse scandal",
+    "Baby Aliyah steals the show during Australian Senate debate"
   ],
   "sections": [
     {
@@ -47,14 +47,20 @@
           "moved": "none"
         },
         {
-          "event": "Will the U.S. tariff rate on China be between 15% and 25% on December 31?",
-          "odds": "+1150",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
           "event": "Israel Election: Yashar and Likud in coalition?",
           "odds": "+376",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        }
+      ]
+    },
+    {
+      "flag": "💰",
+      "label": "ECONOMÍA Y RECURSOS",
+      "rows": [
+        {
+          "event": "Monastir 2: Federico Bondioli vs Mathieu Scaglia",
+          "odds": "-669",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -65,26 +71,14 @@
       "label": "POLÍTICA INTERNACIONAL",
       "rows": [
         {
-          "event": "Will the Republican Party candidate win the 2026 OR-02 House election by 30%-35%?",
-          "odds": "+1685",
+          "event": "Will Anthony Albanese be Prime Minister of Australia after the next election?",
+          "odds": "+143",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
         {
           "event": "Will Gretchen Whitmer announce a Presidential run before 2028?",
           "odds": "-117",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Jon Ossoff announce a presidential run by June 30, 2027?",
-          "odds": "+149",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will the Republican Party candidate win the 2026 TN-01 House election by 20%-30%?",
-          "odds": "+2400",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
@@ -101,8 +95,8 @@
           "moved": "none"
         },
         {
-          "event": "Will \"Hershey\" score at least 60 on the Rotten Tomatoes Tomatometer?",
-          "odds": "+2339",
+          "event": "Will the Houthis enter Saudi Arabia by December 31?",
+          "odds": "+614",
           "params": "Fuente: Polymarket",
           "moved": "none"
         },
@@ -113,7 +107,19 @@
           "moved": "none"
         },
         {
+          "event": "Slovenia vs. Finland",
+          "odds": "-143",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
           "event": "Will GAIS win on 2026-11-29?",
+          "odds": "+270",
+          "params": "Fuente: Polymarket",
+          "moved": "none"
+        },
+        {
+          "event": "Will BK Hacken win on 2026-11-29?",
           "odds": "+270",
           "params": "Fuente: Polymarket",
           "moved": "none"
@@ -127,18 +133,6 @@
         {
           "event": "Will Bengt Bergqvist be the next Regional Board Chair of Region Jämtland Härjedalen?",
           "odds": "+1076",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Will Lovable be acquired before 2027?",
-          "odds": "+1370",
-          "params": "Fuente: Polymarket",
-          "moved": "none"
-        },
-        {
-          "event": "Sanfrecce Hiroshima leading at halftime?",
-          "odds": "+177",
           "params": "Fuente: Polymarket",
           "moved": "none"
         }
